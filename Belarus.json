@@ -1,0 +1,856 @@
+[
+    {
+        "Title": "1 канал Белорусского радио Минск 106.2 FM",
+        "Country": "Belarus",
+        "Tags": "belarusian radio,minsk,news,pershy kanal,talk",
+        "Favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250120_150824799.jpg?alt=media&token=c4add966-1e0f-483f-aef8-60d74b6de662",
+        "Language": "be",
+        "Homepage": "https://www.prfm.ru/radio/1-kanal-belradio.html",
+        "Source1": "https://stream2.datacenter.by/1kanal"
+    },
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "Belarus",
+        "Favicon": "https://mp3islam.com/favicon.ico",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "Alfa Radio 107.9 FM",
+        "Country": "Belarus",
+        "Homepage": "https://alfaradio.by/",
+        "Latitude": 53.90087089186047,
+        "Longitude": 27.558393388369765,
+        "Source1": "https://stream.sb.by/alpha"
+    },
+    {
+        "Title": "Another Music Project",
+        "Country": "Belarus",
+        "Tags": "electronic,experimental,glitch,idm",
+        "Favicon": "https://anothermusicproject.com/gfx/tx.favicon.ico",
+        "Homepage": "https://anothermusicproject.com/radio",
+        "Source1": "https://radio.anothermusicproject.com:8443/idm"
+    },
+    {
+        "Title": "Aplus Beat",
+        "Country": "Belarus",
+        "Homepage": "https://www.aplus.fm/",
+        "Source1": "http://107.173.210.247:9000/aplus_beat_128.m3u"
+    },
+    {
+        "Title": "Aplus One (aac, 16 kb/s)",
+        "Country": "Belarus",
+        "Language": "ru",
+        "Homepage": "http://aplus.fm/",
+        "Source1": "http://s.aplus.fm:9000/aplus_16.aac"
+    },
+    {
+        "Title": "Aplus.FM Rock",
+        "Country": "Belarus",
+        "Homepage": "https://aplus.fm/",
+        "Source1": "https://shoutcast.aplus.fm/aplus_rock_256"
+    },
+    {
+        "Title": "Center FM",
+        "Country": "Belarus",
+        "Tags": "chr",
+        "Language": "ru",
+        "Homepage": "https://www.centerfm.by/",
+        "Latitude": 53.86232366460187,
+        "Longitude": 27.544688905981253,
+        "Source1": "https://stream2.datacenter.by/stream"
+    },
+    {
+        "Title": "Disco SSSR",
+        "Country": "Belarus",
+        "Tags": "classical",
+        "Source1": "https://pub0202.101.ru:8443/stream/pro/aac/64/144"
+    },
+    {
+        "Title": "Easy Listening BLR",
+        "Country": "Belarus",
+        "Source1": "http://178.172.235.5:8001/10"
+    },
+    {
+        "Title": "Energy",
+        "Country": "Belarus",
+        "Tags": "pop",
+        "Favicon": "https://energyfm.by/favicon.ico",
+        "Language": "ru",
+        "Homepage": "https://energyfm.by/",
+        "Source1": "https://stream2.datacenter.by/energy"
+    },
+    {
+        "Title": "ESC HOT HITS",
+        "Country": "Belarus",
+        "Homepage": "https://cutt.ly/Wt6G176s",
+        "Source1": "https://app.aloncast.com/api/stream/esc-hot-hits-7e4c5a"
+    },
+    {
+        "Title": "Gomel FM",
+        "Country": "Belarus",
+        "Favicon": "https://radiogomelfm.by/assets/images/apple-touch-icon.png",
+        "Homepage": "https://radiogomelfm.by/",
+        "Source1": "https://stream2.datacenter.by/gomelfm"
+    },
+    {
+        "Title": "http://ice-the.musicradio.com/CapitalXTRANationalM",
+        "Country": "Belarus",
+        "Tags": "http://ice-the.musicradio.com/capitalxtranationalm",
+        "Favicon": "null",
+        "Language": "ru",
+        "Homepage": "http://ice-the.musicradio.com/CapitalXTRANationalMP3",
+        "Source1": "http://ice-the.musicradio.com/CapitalXTRANationalMP3"
+    },
+    {
+        "Title": "humor fm Minsk",
+        "Country": "Belarus",
+        "Tags": "humor,humor fm,humor fm minsk",
+        "Homepage": "http://humorfm.by/",
+        "Source1": "http://live.humorfm.by:8000/veseloe"
+    },
+    {
+        "Title": "Legendy FM",
+        "Country": "Belarus",
+        "Tags": "hits,top40",
+        "Language": "be,ru",
+        "Homepage": "https://legendy.by/",
+        "Source1": "http://live.legendy.by:8000/legendyfm"
+    },
+    {
+        "Title": "Lider FM",
+        "Country": "Belarus",
+        "Tags": "chr",
+        "Language": "en,ru",
+        "Homepage": "https://liderfm.by/",
+        "Source1": "https://icecast.lider-fm.by/liderfm"
+    },
+    {
+        "Title": "LOVE IS RADIO",
+        "Country": "Belarus",
+        "Favicon": "https://myradio24.com/users/3355/nocover.jpg",
+        "Homepage": "http://loveisradio.by/",
+        "Source1": "https://myradio24.org/3355"
+    },
+    {
+        "Title": "Love Is Radio Belarus",
+        "Country": "Belarus",
+        "Language": "ru",
+        "Homepage": "http://loveisradio.by/",
+        "Source1": "https://myradio24.org/3355"
+    },
+    {
+        "Title": "MFM Belarus",
+        "Country": "Belarus",
+        "Homepage": "https://105fm.by/",
+        "Latitude": 53.6498477049762,
+        "Longitude": 23.867440205341623,
+        "Source1": "https://radio.105fm.by/radio.105.0mfm"
+    },
+    {
+        "Title": "Pilot FM",
+        "Country": "Belarus",
+        "Tags": "top40",
+        "Language": "ru",
+        "Homepage": "https://www.pilotfm.com/",
+        "Latitude": 53.87589539437156,
+        "Longitude": 27.543983155397683,
+        "Source1": "https://stream2.datacenter.by/pilotfm",
+        "Source2": "https://live.pilotfm.com/stream/pilotfm/aac128"
+    },
+    {
+        "Title": "Pilot FM Belarus",
+        "Country": "Belarus",
+        "Homepage": "https://www.pilotfm.com/",
+        "Source1": "https://stream2.datacenter.by/pilotfm"
+    },
+    {
+        "Title": "Radio Alesia",
+        "Country": "Belarus",
+        "Homepage": "http://alesia.live/",
+        "Source1": "http://hls.alesia.live/alesia/aac_hifi.m3u8"
+    },
+    {
+        "Title": "Radio Alesia",
+        "Country": "Belarus",
+        "Tags": "folk music,folk rock",
+        "Language": "be,pl,ru,uk",
+        "Homepage": "https://alesia.live/",
+        "Source1": "https://hls.alesia.live/alesia/aac_hifi.m3u8",
+        "Source2": "https://air.alesia.live/alesia"
+    },
+    {
+        "Title": "Radio Monte Carlo Lounge",
+        "Country": "Belarus",
+        "Favicon": "https://static2.mytuner.mobi/media/tvos_radios/854/monte-carlo-lounge.e897c07c.png",
+        "Homepage": "https://www.montecarlo.uno/",
+        "Latitude": 53.901516050412496,
+        "Longitude": 27.56100654602051,
+        "Source1": "https://strw3.openstream.co/344?aw_0_1st.collectionid%3D7411%26stationId%3D7411%26publisherId%3D164%26k%3D1769798199"
+    },
+    {
+        "Title": "Radio Plato",
+        "Country": "Belarus",
+        "Favicon": "https://radioplato.by/apple-icon-120x120.png",
+        "Language": "be",
+        "Homepage": "https://radioplato.by/",
+        "Source1": "https://azura.radioplato.by/radio/8000/radio.mp3"
+    },
+    {
+        "Title": "Radio Racyja",
+        "Country": "Belarus",
+        "Tags": "hits,pop,russian hits,top hits",
+        "Language": "ru",
+        "Homepage": "https://racyja.com/",
+        "Source1": "http://air.racyja.com:8000/racja320"
+    },
+    {
+        "Title": "Radio Roks",
+        "Country": "Belarus",
+        "Favicon": "https://roks.com/assets/templates/img/logo.png",
+        "Homepage": "https://roks.com/",
+        "Latitude": 53.901390935893104,
+        "Longitude": 27.564909794816693,
+        "Source1": "https://stream.pcradio.ru/roks_minsk-hi"
+    },
+    {
+        "Title": "Radio Roks Minsk",
+        "Country": "Belarus",
+        "Favicon": "https://roks.com/assets/templates/img/logo.png",
+        "Homepage": "https://roks.com/",
+        "Latitude": 53.90610083014918,
+        "Longitude": 27.55358682604213,
+        "Source1": "https://stream.pcradio.ru/roks_minsk-hi"
+    },
+    {
+        "Title": "Radio Skif",
+        "Country": "Belarus",
+        "Tags": "pop music",
+        "Homepage": "https://skif.by/",
+        "Source1": "http://178.172.150.248:2530/"
+    },
+    {
+        "Title": "Radio Unistar",
+        "Country": "Belarus",
+        "Tags": "hits,pop,rock,top 40",
+        "Language": "be,en,ru",
+        "Homepage": "https://unistar.by/",
+        "Source1": "https://edge2.usp.unistar.by/hls/unistar_main/96k.m3u8"
+    },
+    {
+        "Title": "Radius FM",
+        "Country": "Belarus",
+        "Tags": "belteleradiocompany",
+        "Language": "ru",
+        "Homepage": "https://www.radiusfm.by/",
+        "Latitude": 53.87342583901451,
+        "Longitude": 27.547770610799184,
+        "Source1": "https://stream2.datacenter.by/radiusfm_main"
+    },
+    {
+        "Title": "Retro Belarus",
+        "Country": "Belarus",
+        "Tags": "oldies",
+        "Language": "ru",
+        "Homepage": "https://air.sammit.tv:8443/retro",
+        "Source1": "https://air.sammit.tv:8443/retro"
+    },
+    {
+        "Title": "SKIF",
+        "Country": "Belarus",
+        "Favicon": "https://skif.by/wp-content/themes/test/img/logo.png",
+        "Homepage": "https://skif.by/",
+        "Source1": "https://stream.pcradio.ru/skif_orsha-med"
+    },
+    {
+        "Title": "TEPLOE RADIO NETOP FM",
+        "Country": "Belarus",
+        "Favicon": "https://cdn-profiles.tunein.com/s167335/images/logod.png?t=636196552593670000",
+        "Homepage": "https://teploe.net/",
+        "Source1": "https://listen.teploe.net:8001/netopfm"
+    },
+    {
+        "Title": "Trance",
+        "Country": "Belarus",
+        "Tags": "b",
+        "Favicon": "null",
+        "Homepage": "http://185.33.21.112/trance_64a",
+        "Source1": "http://185.33.21.112/trance_64a"
+    },
+    {
+        "Title": "Unistar - 2000-е",
+        "Country": "Belarus",
+        "Tags": "hits,pop,retro",
+        "Favicon": "https://firebasestorage.googleapis.com/v0/b/unistar-7e64d.appspot.com/o/mobile-app-assets%2Fplaceholders%2Flogo_best.jpg?alt=media&token=6f8efc1a-84f5-450f-b0fb-22b13032660e",
+        "Homepage": "https://unistar.by/",
+        "Latitude": 53.9001308658443,
+        "Longitude": 27.5537109375,
+        "Source1": "https://stream.unistar.by/unistar_best_internal/unistar_best/playlist.m3u8"
+    },
+    {
+        "Title": "Unistar - Rap-хиты",
+        "Country": "Belarus",
+        "Favicon": "https://unistar.by/app/assets/logo_rap.jpg",
+        "Homepage": "https://unistar.by/",
+        "Source1": "https://stream.unistar.by/unistar_rap_internal/unistar_rap/playlist.m3u8",
+        "Source2": "https://stream.unistar.by/unistar_main_internal/unistar_main/playlist.m3u8"
+    },
+    {
+        "Title": "Unistar - В темпе",
+        "Country": "Belarus",
+        "Tags": "dance,pop,remix",
+        "Favicon": "https://firebasestorage.googleapis.com/v0/b/unistar-7e64d.appspot.com/o/mobile-app-assets%2Fplaceholders%2Flogo_tempo.jpg?alt=media&token=9d65e0b3-94f9-44da-8a35-fc4fc046da76",
+        "Homepage": "https://unistar.by/",
+        "Latitude": 53.89964537985395,
+        "Longitude": 27.557144165039062,
+        "Source1": "https://stream.unistar.by/unistar_fast_internal/unistar_fast/playlist.m3u8"
+    },
+    {
+        "Title": "Unistar - Каверы",
+        "Country": "Belarus",
+        "Tags": "covers,dance,pop,rock",
+        "Favicon": "https://firebasestorage.googleapis.com/v0/b/unistar-7e64d.appspot.com/o/mobile-app-assets%2Fplaceholders%2Flogo_covers_en.jpg?alt=media&token=f2278c23-b711-4f19-a356-76999bea8c9c",
+        "Homepage": "https://unistar.by/",
+        "Latitude": 53.89899805333817,
+        "Longitude": 27.556457519531257,
+        "Source1": "https://stream.unistar.by/unistar_covers_internal/unistar_covers/playlist.m3u8"
+    },
+    {
+        "Title": "Unistar - Мой рок-н-ролл",
+        "Country": "Belarus",
+        "Tags": "classic rock,rock,russian rock",
+        "Favicon": "https://firebasestorage.googleapis.com/v0/b/unistar-7e64d.appspot.com/o/mobile-app-assets%2Fplaceholders%2Flogo_rock.jpg?alt=media&token=42f2ff36-5b5b-4f66-b6b2-bc7a5a6f1297",
+        "Homepage": "https://unistar.by/",
+        "Latitude": 53.900575884311614,
+        "Longitude": 27.55954742431641,
+        "Source1": "https://stream.unistar.by/unistar_rock_internal/unistar_rock/playlist.m3u8"
+    },
+    {
+        "Title": "Unistar - Офисный Канал",
+        "Country": "Belarus",
+        "Tags": "lounge,pop,relax",
+        "Favicon": "https://firebasestorage.googleapis.com/v0/b/unistar-7e64d.appspot.com/o/mobile-app-assets%2Fplaceholders%2Flogo_office.jpg?alt=media&token=850a4e01-13e8-4a13-97a6-7c95e1941411",
+        "Homepage": "https://unistar.by/",
+        "Latitude": 53.90061633693369,
+        "Longitude": 27.55783081054688,
+        "Source1": "https://stream.unistar.by/unistar_office_internal/unistar_office/playlist.m3u8"
+    },
+    {
+        "Title": "Unistar - Свежие Хиты",
+        "Country": "Belarus",
+        "Tags": "hits,pop",
+        "Favicon": "https://firebasestorage.googleapis.com/v0/b/unistar-7e64d.appspot.com/o/mobile-app-assets%2Fplaceholders%2Flogo_top.jpg?alt=media&token=15d2ad9b-4515-433f-9cf3-77a649c29ced",
+        "Language": "en",
+        "Homepage": "https://unistar.by/",
+        "Latitude": 53.90061634310684,
+        "Longitude": 27.559890747070316,
+        "Source1": "https://stream.unistar.by/unistar_top_internal/unistar_top/playlist.m3u8"
+    },
+    {
+        "Title": "Unistar - Эфир",
+        "Country": "Belarus",
+        "Tags": "hits,pop",
+        "Favicon": "https://firebasestorage.googleapis.com/v0/b/unistar-7e64d.appspot.com/o/mobile-app-assets%2Fplaceholders%2Flogo_main.jpg?alt=media&token=81292aa0-cfc4-4f7b-8aac-95b9e9a9414b",
+        "Language": "be,ru",
+        "Homepage": "https://unistar.by/",
+        "Source1": "https://stream.unistar.by/unistar_main_internal/unistar_main/playlist.m3u8"
+    },
+    {
+        "Title": "WGFM-Trance",
+        "Country": "Belarus",
+        "Favicon": "https://top-radio.ru/assets/image/radio/180/wgfm.png",
+        "Homepage": "https://top-radio.ru/web/wargaming-fm",
+        "Source1": "https://sv.netradio.by/1/128"
+    },
+    {
+        "Title": "Zefir FM",
+        "Country": "Belarus",
+        "Tags": "dance,disco,news,pop",
+        "Favicon": "https://www.phonostar.de/images/auto_created/zefir_fm184x184.png",
+        "Homepage": "https://www.zefir-fm.by/",
+        "Latitude": 53.14324648738053,
+        "Longitude": 29.217549562454227,
+        "Source1": "https://stream2.datacenter.by/zefirfm"
+    },
+    {
+        "Title": "Zефир FM",
+        "Country": "Belarus",
+        "Tags": "local news,mainstream,top 40",
+        "Language": "ru",
+        "Homepage": "http://bobrlife.by/radio",
+        "Source1": "http://178.124.152.212:8008/Zefir"
+    },
+    {
+        "Title": "Авторадио Минск",
+        "Country": "Belarus",
+        "Tags": "classic rock",
+        "Language": "ru",
+        "Homepage": "https://live.humorfm.by:8443/avtoradio",
+        "Source1": "https://live.humorfm.by:8443/avtoradio"
+    },
+    {
+        "Title": "Барановичи FM",
+        "Country": "Belarus",
+        "Tags": "adult contemporary",
+        "Language": "ru",
+        "Homepage": "https://100fm.by/",
+        "Source1": "http://radio.100fm.by:8000/100fm128"
+    },
+    {
+        "Title": "Ватыканскае радыё",
+        "Country": "Belarus",
+        "Tags": "classical",
+        "Homepage": "http://vatican.by/",
+        "Source1": "https://radio.vaticannews.va/stream-be"
+    },
+    {
+        "Title": "Город FM Брест 97,7",
+        "Country": "Belarus",
+        "Tags": "decades",
+        "Homepage": "https://gorodfm.by/",
+        "Source1": "https://stream2.datacenter.by/GorodFM"
+    },
+    {
+        "Title": "Душевное радио",
+        "Country": "Belarus",
+        "Favicon": "https://radiolas.com/uploads/radio/dushevnoe-belarus.webp",
+        "Homepage": "https://dushevnoeradio.by/",
+        "Latitude": 53.901319264243845,
+        "Longitude": 27.56550192832947,
+        "Source1": "https://stream2.datacenter.by/dushevnoe"
+    },
+    {
+        "Title": "Душевное радио Минск 105.7 FM",
+        "Country": "Belarus",
+        "Tags": "belarus,different songs,minsk,music",
+        "Favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250120_160050339.jpg?alt=media&token=0cb3377d-b899-487d-ab2c-cb89fbcc771b",
+        "Language": "ru",
+        "Homepage": "https://top-radio.ru/minsk/dushevnoe-radio",
+        "Source1": "https://stream2.datacenter.by/dushevnoe"
+    },
+    {
+        "Title": "Европа Плюс Полоцк",
+        "Country": "Belarus",
+        "Tags": "chr,dance music,hits,pop music,top 40",
+        "Favicon": "https://sammit.tv/wp-content/uploads/2025/10/Plus-scaled.png",
+        "Language": "ru",
+        "Homepage": "https://sammit.tv/",
+        "Source1": "https://ep128.hostingradio.ru:8030/ep128"
+    },
+    {
+        "Title": "Енерджи",
+        "Country": "Belarus",
+        "Tags": "pop",
+        "Language": "ru",
+        "Homepage": "https://energyfm.by/",
+        "Source1": "https://stream2.datacenter.by/energy"
+    },
+    {
+        "Title": "Еўрарадыё Alternative",
+        "Country": "Belarus",
+        "Tags": "alternative,news,news talk,political talk,politics",
+        "Language": "be",
+        "Homepage": "https://euroradio.fm/",
+        "Source1": "http://stream1.euroradio.fm:8000/euroradio1?seed=1493710910"
+    },
+    {
+        "Title": "Еўрарадыё BY",
+        "Country": "Belarus",
+        "Tags": "news,news talk,political talk,politics",
+        "Favicon": "https://euroradio.fm/themes/custom/euroradio/favicon.ico",
+        "Language": "be",
+        "Homepage": "https://euroradio.fm/",
+        "Source1": "http://stream1.euroradio.fm:8000/euroradio1"
+    },
+    {
+        "Title": "Канал \"Культура\"",
+        "Country": "Belarus",
+        "Tags": "classical,cultural,folklore,music",
+        "Language": "be",
+        "Homepage": "https://radiokultura.by/",
+        "Source1": "https://stream2.datacenter.by/kultura"
+    },
+    {
+        "Title": "Компас FM",
+        "Country": "Belarus",
+        "Tags": "music",
+        "Favicon": "https://vayar.mil.by/favicon.ico",
+        "Language": "ru",
+        "Homepage": "https://vayar.mil.by/radio/",
+        "Source1": "https://radio.mil.by/live"
+    },
+    {
+        "Title": "Компас FM 102,5",
+        "Country": "Belarus",
+        "Tags": "disco 90's",
+        "Homepage": "https://kompasfm.by/",
+        "Latitude": 53.89678538072071,
+        "Longitude": 27.54028556436197,
+        "Source1": "https://radio.mil.by/live"
+    },
+    {
+        "Title": "Легенды FM",
+        "Country": "Belarus",
+        "Tags": "pop hits 70s 80s 90s",
+        "Homepage": "http://legendy.by/",
+        "Latitude": 53.89185333378787,
+        "Longitude": 27.53702882215365,
+        "Source1": "http://live.legendy.by:8000/legendyfm"
+    },
+    {
+        "Title": "Легенды ФМ Минск 94.1 FM",
+        "Country": "Belarus",
+        "Tags": "belarus,legends,minsk,music,retro music",
+        "Favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250120_155441613.jpg?alt=media&token=240e8f46-b33d-4f60-bee3-04303ea83caf",
+        "Language": "ru",
+        "Homepage": "https://top-radio.ru/minsk/legendyi-fm",
+        "Source1": "http://live.legendy.by:8000/legendyfm"
+    },
+    {
+        "Title": "МВ-Радио",
+        "Country": "Belarus",
+        "Tags": "pop",
+        "Language": "ru",
+        "Homepage": "https://mvolna.by/index.html",
+        "Source1": "https://stream2.datacenter.by/mvradio"
+    },
+    {
+        "Title": "Мелодии Века 96.2fm",
+        "Country": "Belarus",
+        "Tags": "70-90-х,ретро",
+        "Favicon": "https://wwv.zvuch.com/img/radio/323617_big.jpg",
+        "Language": "en,ru",
+        "Homepage": "https://wwv.zvuch.com/radio-online/melodii-veka",
+        "Source1": "https://radiorecord.hostingradio.ru/sd9096.aacp"
+    },
+    {
+        "Title": "Народное Радио",
+        "Country": "Belarus",
+        "Tags": "pop",
+        "Homepage": "https://narodnoeradio.by/",
+        "Latitude": 53.908807071728326,
+        "Longitude": 27.54148969801943,
+        "Source1": "https://live.novoeradio.by:444/live/narodnoeradio_aac128/icecast.audio"
+    },
+    {
+        "Title": "Народное радио Минск 87.9 FM",
+        "Country": "Belarus",
+        "Tags": "belarus,minsk,music,narodnoe radio,pop",
+        "Favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250120_155706748.jpg?alt=media&token=0ca151c7-3147-4c7d-90ee-f8a797f27c5a",
+        "Language": "ru",
+        "Homepage": "https://top-radio.ru/minsk/narodnoe-belarus",
+        "Source1": "https://live.novoeradio.by:444/live/narodnoeradio_aac128/icecast.audio"
+    },
+    {
+        "Title": "Новое радио",
+        "Country": "Belarus",
+        "Tags": "classical",
+        "Homepage": "https://novoeradio.by/",
+        "Source1": "https://live.novoeradio.by:444/live/novoeradio_aac128/icecast.audio"
+    },
+    {
+        "Title": "Новое радио",
+        "Country": "Belarus",
+        "Tags": "newradio",
+        "Favicon": "null",
+        "Language": "be",
+        "Homepage": "https://live.novoeradio.by:444/live/novoeradio_aac128/icecast.audio",
+        "Source1": "https://live.novoeradio.by:444/live/novoeradio_aac128/icecast.audio"
+    },
+    {
+        "Title": "Новое радио - Fresh",
+        "Country": "Belarus",
+        "Tags": "dance,fresh,pop,top",
+        "Favicon": "https://www.novoeradio.by/favicon.ico",
+        "Homepage": "https://www.novoeradio.by/",
+        "Latitude": 53.90065679568975,
+        "Longitude": 27.5537109375,
+        "Source1": "https://live.novoeradio.by:444/live/novoeradio_fresh_aac128/icecast.audio"
+    },
+    {
+        "Title": "Новое радио - MegaMix",
+        "Country": "Belarus",
+        "Tags": "dance,hits,mix,pop",
+        "Favicon": "https://www.novoeradio.by/uploads/images/settings/314c6f5a-0e1c-4ace-aa91-aba0ca3e2599_logo.svg",
+        "Homepage": "https://www.novoeradio.by/",
+        "Latitude": 53.89689419836467,
+        "Longitude": 27.55233764648438,
+        "Source1": "https://live.novoeradio.by:444/live/novoeradio_megamix_aac128/icecast.audio"
+    },
+    {
+        "Title": "Новое радио - Top Non-Stop",
+        "Country": "Belarus",
+        "Tags": "dance,hits,pop",
+        "Favicon": "https://www.novoeradio.by/uploads/images/settings/314c6f5a-0e1c-4ace-aa91-aba0ca3e2599_logo.svg",
+        "Homepage": "https://www.novoeradio.by/",
+        "Latitude": 53.89940263011331,
+        "Longitude": 27.55577087402344,
+        "Source1": "https://live.novoeradio.by:444/live/novoeradio_TOP100_aac128/icecast.audio"
+    },
+    {
+        "Title": "Открытое Слово",
+        "Country": "Belarus",
+        "Tags": "christian",
+        "Favicon": "https://radioslovo.net/assets/css/img/favicon.ico",
+        "Language": "ru",
+        "Homepage": "https://radioslovo.net/",
+        "Source1": "https://rt.radioslovo.net:4395/radio"
+    },
+    {
+        "Title": "Открытое Слово Авто Радио",
+        "Country": "Belarus",
+        "Tags": "christian",
+        "Language": "ru",
+        "Homepage": "https://radioslovo.net/",
+        "Source1": "https://rt.radioslovo.net:4145/stream"
+    },
+    {
+        "Title": "Открытое Слово Братские встречи",
+        "Country": "Belarus",
+        "Tags": "christian",
+        "Favicon": "https://radioslovo.net/assets/css/img/favicon.ico",
+        "Language": "ru",
+        "Homepage": "https://radioslovo.net/",
+        "Source1": "https://rt.radioslovo.net:4135/stream"
+    },
+    {
+        "Title": "Открытое Слово Инструментальная музыка",
+        "Country": "Belarus",
+        "Tags": "christian",
+        "Favicon": "https://radioslovo.net/assets/css/img/favicon.ico",
+        "Language": "ru",
+        "Homepage": "https://radioslovo.net/",
+        "Source1": "https://rt.radioslovo.net:4275/stream"
+    },
+    {
+        "Title": "Першы нацыянальны",
+        "Country": "Belarus",
+        "Tags": "music,news,talks",
+        "Language": "ru",
+        "Homepage": "https://radio1.by/",
+        "Source1": "https://stream2.datacenter.by/1kanal"
+    },
+    {
+        "Title": "Першы Нацыянальны канал Беларускага радыё",
+        "Country": "Belarus",
+        "Tags": "national",
+        "Favicon": "https://static.tildacdn.com/tild3461-6633-4430-a264-373430336431/belorusskoe-radio-kv.jpg",
+        "Language": "be",
+        "Homepage": "http://radio1.by/",
+        "Latitude": 53.90442257256481,
+        "Longitude": 27.56011965684593,
+        "Source1": "https://stream2.datacenter.by/1kanal"
+    },
+    {
+        "Title": "Радио 123",
+        "Country": "Belarus",
+        "Tags": "christian",
+        "Favicon": "https://radio123.by/favicon.ico",
+        "Language": "ru",
+        "Homepage": "https://radio123.by/",
+        "Source1": "http://de1.internet-radio.com:8173/stream"
+    },
+    {
+        "Title": "Радио ROKS",
+        "Country": "Belarus",
+        "Tags": "rock,russian,shanson",
+        "Language": "be,ru",
+        "Homepage": "https://roks.com/onlajn",
+        "Source1": "https://stream.roks.com:8443/live256"
+    },
+    {
+        "Title": "Радио Беларусь FM/Radio Belarus FM",
+        "Country": "Belarus",
+        "Tags": "international",
+        "Language": "ar,be,de,en,es,fr,pl,ru,zh",
+        "Homepage": "http://www.radiobelarus.by/",
+        "Source1": "http://stream2.datacenter.by:8009/belarusfm"
+    },
+    {
+        "Title": "Радио Беларусь/Radio Belarus",
+        "Country": "Belarus",
+        "Tags": "international",
+        "Language": "ar,be,de,en,es,fr,pl,ru,zh",
+        "Homepage": "http://www.radiobelarus.by/",
+        "Source1": "http://stream2.datacenter.by:8008/belarus"
+    },
+    {
+        "Title": "Радио Брест 104.8 FM",
+        "Country": "Belarus",
+        "Tags": "belarus,brest,by,music,pop,radio brest",
+        "Favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250121_161518260.jpg?alt=media&token=c61b5830-d0b6-4304-af0a-22cd089e5799",
+        "Language": "ru",
+        "Homepage": "https://top-radio.ru/brest/brest",
+        "Source1": "https://stream2.datacenter.by/trkbrest"
+    },
+    {
+        "Title": "Радио Брест 104.8 Fm",
+        "Country": "Belarus",
+        "Language": "be,ru",
+        "Homepage": "https://radiobrestfm.by/",
+        "Source1": "https://stream2.datacenter.by:2199/tunein/trkbres1.pls"
+    },
+    {
+        "Title": "Радио витебск",
+        "Country": "Belarus",
+        "Tags": "pop music",
+        "Homepage": "https://radiovitebsk.by/",
+        "Source1": "https://stream2.datacenter.by/vtvby"
+    },
+    {
+        "Title": "Радио Канал Культура Минск 102.9 FM",
+        "Country": "Belarus",
+        "Tags": "different music,kanal culture,minsk,news,talks",
+        "Favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250120_144809784.jpg?alt=media&token=ff0e59d6-9c27-4e09-a0aa-d8fe39ffde65",
+        "Language": "be",
+        "Homepage": "https://top-radio.ru/minsk/kanal-kultura",
+        "Source1": "https://stream2.datacenter.by/kultura"
+    },
+    {
+        "Title": "радио Минск 92.4",
+        "Country": "Belarus",
+        "Tags": "музыка",
+        "Favicon": "https://minsknews.by/wp-content/uploads/2022/11/cropped-logo-180x180.webp",
+        "Language": "ru",
+        "Homepage": "https://minsknews.by/radio-minsk/",
+        "Source1": "https://radio.mk.by:8443/radiominsk"
+    },
+    {
+        "Title": "Радио Минская Волна 97.4 FM",
+        "Country": "Belarus",
+        "Tags": "belarus,minskaya volna,music,pop,wave",
+        "Favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250120_155239659.jpg?alt=media&token=06e37193-75e0-416b-95b1-d0e2484c9d02",
+        "Language": "ru",
+        "Homepage": "https://top-radio.ru/minsk/mv-radio",
+        "Source1": "https://stream2.datacenter.by/mvradio"
+    },
+    {
+        "Title": "Радио Могилёв",
+        "Country": "Belarus",
+        "Favicon": "https://www.tvrmogilev.by/_img/logo-radio.svg",
+        "Homepage": "https://www.tvrmogilev.by/ru/radio/",
+        "Source1": "https://stream2.datacenter.by/tvrmogilev"
+    },
+    {
+        "Title": "РадиусFM",
+        "Country": "Belarus",
+        "Favicon": "https://radiusfm.by/favicon.ico",
+        "Language": "ru",
+        "Homepage": "https://radiusfm.by/",
+        "Latitude": 53.901587280708576,
+        "Longitude": 27.553539276123047,
+        "Source1": "https://stream2.datacenter.by/radiusfm_main"
+    },
+    {
+        "Title": "Радые Марыя",
+        "Country": "Belarus",
+        "Tags": "pop",
+        "Favicon": "https://www.radiomaria.by/images/icons/icon-128.png",
+        "Homepage": "https://www.radiomaria.by/",
+        "Source1": "https://server.radiorm.by:8443/live"
+    },
+    {
+        "Title": "Радыё Relax",
+        "Country": "Belarus",
+        "Tags": "music,music non stop,relax",
+        "Favicon": "http://radiorelax.by//apple-touch-icon.png",
+        "Language": "be",
+        "Homepage": "http://radiorelax.by/",
+        "Source1": "http://live.humorfm.by:8000/radiorelax"
+    },
+    {
+        "Title": "Радыё Марыя",
+        "Country": "Belarus",
+        "Tags": "pop",
+        "Homepage": "https://www.radiomaria.by/",
+        "Source1": "https://server.radiorm.by:8443/live"
+    },
+    {
+        "Title": "Радыё Рацыя",
+        "Country": "Belarus",
+        "Language": "be",
+        "Homepage": "http://www.racyja.com/",
+        "Source1": "http://air.racyja.com:8000/racja128"
+    },
+    {
+        "Title": "Радыё Сталiца",
+        "Country": "Belarus",
+        "Tags": "hard rock,rock",
+        "Favicon": "https://www.prfm.ru/logo/radio-stalitsa-130.jpg",
+        "Language": "be,ru",
+        "Homepage": "https://www.prfm.ru/radio/radio-stalitsa.html",
+        "Latitude": 53.90110855726423,
+        "Longitude": 27.557659149169925,
+        "Source1": "https://media2.datacenter.by/stream/stalica/stream"
+    },
+    {
+        "Title": "Русское радио Минск 98.9 FM",
+        "Country": "Belarus",
+        "Tags": "belarus,minsk,music,pop,russkoe radio",
+        "Favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250120_155040731.jpg?alt=media&token=1375f7a9-e767-4e88-aed9-0c833ceedba3",
+        "Language": "ru",
+        "Homepage": "https://radiobitva.ru/gorod/russkoe-radio-minsk-98-9-fm",
+        "Source1": "https://stream.rusradio.by:8443/live128"
+    },
+    {
+        "Title": "Свое Радио (Пинск)",
+        "Country": "Belarus",
+        "Language": "ru",
+        "Homepage": "https://svoyoradio.by/",
+        "Latitude": 52.13021332580192,
+        "Longitude": 26.11024260520935,
+        "Source1": "https://live.svoyoradio.by:8443/svoyoradio"
+    },
+    {
+        "Title": "Соловьев",
+        "Country": "Belarus",
+        "Tags": "rock",
+        "Language": "ru",
+        "Homepage": "https://radio-live-mg.rtr-vesti.ru/",
+        "Source1": "https://solovievfm.hostingradio.ru/solovievfm128.aacp"
+    },
+    {
+        "Title": "ТрансМировое Радио в Беларуси",
+        "Country": "Belarus",
+        "Tags": "christian",
+        "Language": "be,ru",
+        "Homepage": "http://twr.fm/",
+        "Source1": "http://eu3.fastcast4u.com:5026/;"
+    },
+    {
+        "Title": "Харьков z",
+        "Country": "Belarus",
+        "Tags": "balkan",
+        "Favicon": "https://i.postimg.cc/B6Nkjp0d/z-kharkov-(1).jpg",
+        "Language": "agq",
+        "Source1": "http://control1.craftradio.ru:8000/stream02"
+    },
+    {
+        "Title": "ЦЕНТР FM",
+        "Country": "Belarus",
+        "Tags": "chr",
+        "Homepage": "https://centerfm.by/ru",
+        "Latitude": 53.90295142331147,
+        "Longitude": 27.55372587671483,
+        "Source1": "https://stream2.datacenter.by/stream"
+    },
+    {
+        "Title": "ЭЙ АЙ РАДИО",
+        "Country": "Belarus",
+        "Tags": "belarus,belarusian radio,top 200,top charts,top hits",
+        "Homepage": "https://cutt.ly/Ot6ywGj3",
+        "Latitude": 53.90527361454328,
+        "Longitude": 27.578430175781257,
+        "Source1": "https://app.aloncast.com/api/stream/airadio-by-d3cac8"
+    },
+    {
+        "Title": "Юмор FM",
+        "Country": "Belarus",
+        "Tags": "comedy,top 40",
+        "Favicon": "http://humorfm.by/apple-touch-icon.png",
+        "Language": "ru",
+        "Homepage": "http://humorfm.by/",
+        "Source1": "http://live.humorfm.by:8000/veseloeradio"
+    }
+]

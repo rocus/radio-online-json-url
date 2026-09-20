@@ -1,0 +1,382 @@
+[
+    {
+        "Title": "((beu))",
+        "Country": "Kazakhstan",
+        "Tags": "etnic,kazakh music,kazakh pop,modern,pop",
+        "Favicon": "https://beufm.kz/template/logo_white.png",
+        "Language": "kk,ru",
+        "Homepage": "https://beufm.kz/",
+        "Latitude": 43.233580428700115,
+        "Longitude": 76.94789886474611,
+        "Source1": "https://stream.beufm.kz/beufm"
+    },
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "Kazakhstan",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "Aspan FM",
+        "Country": "Kazakhstan",
+        "Tags": "etno,kazakh music,kazakh pop,pop",
+        "Favicon": "https://play-lh.googleusercontent.com/5RoB9Ug0phTuTpTqgExTIo5cdgPllBJhvpEmLfj_t2tZCkUJst9OzrwzhgsNGvv_VwQ=w240-h480-rw",
+        "Language": "kk",
+        "Homepage": "https://www.instagram.com/aspanfm",
+        "Latitude": 50.28095170189091,
+        "Longitude": 57.22795486450196,
+        "Source1": "http://77.240.38.228:8000/aspanfm"
+    },
+    {
+        "Title": "Astana Fm",
+        "Country": "Kazakhstan",
+        "Language": "kk,ru",
+        "Homepage": "https://astanafm.kz/",
+        "Latitude": 51.15040774121581,
+        "Longitude": 71.41113281250001,
+        "Source1": "https://icecast.vgtrk.cdnvideo.ru/vestifm_aac_64kbps"
+    },
+    {
+        "Title": "Auto Radio Kazakhstan",
+        "Country": "Kazakhstan",
+        "Tags": "kazakh music,pop,russian music",
+        "Language": "kk,ru",
+        "Homepage": "https://avtoradio.kz/",
+        "Latitude": 51.3553146394604,
+        "Longitude": 68.20312500000001,
+        "Source1": "http://178.88.167.62:8080/AVTORADIO_192"
+    },
+    {
+        "Title": "Avtoradio",
+        "Country": "Kazakhstan",
+        "Tags": "hits,pop",
+        "Language": "kk,ru",
+        "Homepage": "https://avtoradio.kz/",
+        "Source1": "http://178.88.167.62:8080/AVTORADIO_192"
+    },
+    {
+        "Title": "Darhan Radio",
+        "Country": "Kazakhstan",
+        "Tags": "asian music,kazakh music",
+        "Language": "en",
+        "Homepage": "https://darhanradio.com/",
+        "Source1": "https://stream.darhanradio.com/live"
+    },
+    {
+        "Title": "KTK TV",
+        "Country": "Kazakhstan",
+        "Language": "kk",
+        "Homepage": "http://www.ktk.kz/",
+        "Source1": "http://89.218.30.37/ktklive/live.hq/playlist.m3u8"
+    },
+    {
+        "Title": "Love Radio Kazakhstan",
+        "Country": "Kazakhstan",
+        "Favicon": "https://loveradio.kz/img/touch-icon-ipad-pro.png",
+        "Homepage": "https://loveradio.kz/",
+        "Source1": "https://stream.gakku.tv:8443/love128.mp3"
+    },
+    {
+        "Title": "NS-Rock",
+        "Country": "Kazakhstan",
+        "Tags": "varios",
+        "Language": "kk,ru",
+        "Homepage": "http://www.ns.kz/",
+        "Source1": "https://icecast.ns.kz/radions"
+    },
+    {
+        "Title": "Palmera Blanca radio - Daystream",
+        "Country": "Kazakhstan",
+        "Tags": "chill,chillout,downtempo,lo-fi,lounge,retrowave,synthwave",
+        "Favicon": "https://palmerablanca.com/cover.png",
+        "Language": "en,ru",
+        "Homepage": "https://palmerablanca.com/",
+        "Latitude": 43.08468041459464,
+        "Longitude": 77.07780361175539,
+        "Source1": "https://daystream.palmerablanca.com/daystream-128.mp3"
+    },
+    {
+        "Title": "Pioner FM",
+        "Country": "Kazakhstan",
+        "Tags": "hits",
+        "Language": "kk,ru",
+        "Homepage": "http://zhanafm.kz/",
+        "Source1": "https://live.zhanafm.kz:8443/pionerfm"
+    },
+    {
+        "Title": "Pioner FM",
+        "Country": "Kazakhstan",
+        "Tags": "oldies,propaganda,soviet",
+        "Language": "en,kk,ru",
+        "Homepage": "https://zhanafm.kz/",
+        "Latitude": 49.81579043207107,
+        "Longitude": 73.10800552368165,
+        "Source1": "https://live.zhanafm.kz:8443/pionerfm"
+    },
+    {
+        "Title": "Qazaq radiosy",
+        "Country": "Kazakhstan",
+        "Tags": "etnic,folk",
+        "Favicon": "https://qazradio.fm/images/qazradio.png",
+        "Language": "kk",
+        "Homepage": "https://qazradio.fm/kz/",
+        "Source1": "https://radio-streams.kaztrk.kz/qazradio/qazradio/icecast.audio"
+    },
+    {
+        "Title": "Radio 90s Eurodance",
+        "Country": "Kazakhstan",
+        "Tags": "90s,eurodance,online,only music",
+        "Favicon": "https://pp.userapi.com/c837231/v837231617/5990/ChfZPOJgSmA.jpg",
+        "Homepage": "http://90s-eurodance.ru/",
+        "Source1": "https://listen1.myradio24.com/5967"
+    },
+    {
+        "Title": "Radio Azamat",
+        "Country": "Kazakhstan",
+        "Tags": "pop,russian shanson",
+        "Favicon": "https://vmeste.eu/img/services/96/myradio24.png",
+        "Language": "kk,ru",
+        "Homepage": "https://myradio24.com/8162",
+        "Source1": "https://listen4.myradio24.com/8162"
+    },
+    {
+        "Title": "Radio Bulbul",
+        "Country": "Kazakhstan",
+        "Tags": "kazakh music",
+        "Favicon": "https://cdn.onlineradiobox.com/img/l/7/3257.v8.png",
+        "Language": "kk",
+        "Homepage": "https://www.facebook.com/radiobulbul/",
+        "Source1": "https://radiobulbul.stream.laut.fm/radiobulbul"
+    },
+    {
+        "Title": "Radio Nostalgie (Kazakhstan)",
+        "Country": "Kazakhstan",
+        "Tags": "pop",
+        "Language": "ru",
+        "Homepage": "http://www.resurs.kz/catalog/radionostalgie",
+        "Source1": "https://listen7.myradio24.com/alexx333"
+    },
+    {
+        "Title": "Radio Tengri FM",
+        "Country": "Kazakhstan",
+        "Tags": "classic hits,hits",
+        "Language": "kk,ru",
+        "Homepage": "https://tengrifm.kz/",
+        "Source1": "http://91.201.214.229:8000/tengrifm"
+    },
+    {
+        "Title": "Radio TMK",
+        "Country": "Kazakhstan",
+        "Tags": "etno,kazan,relax,tatar,tatarstan",
+        "Favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240422_112734993.jpg?alt=media&token=d63d1ce1-c73e-460b-9104-094181b608e4",
+        "Language": "tt",
+        "Homepage": "https://radiotmk.ru/",
+        "Source1": "https://listen.myrh.ru/radiotmk",
+        "Source2": "https://a4.radioheart.ru:9036/RH13170"
+    },
+    {
+        "Title": "Russian Dance Radio",
+        "Country": "Kazakhstan",
+        "Tags": "electronic",
+        "Favicon": "https://cdn.onlineradiobox.com/img/l/1/99521.v1.png",
+        "Source1": "https://lux-radio.com:8015/stream"
+    },
+    {
+        "Title": "Shalqar",
+        "Country": "Kazakhstan",
+        "Favicon": "https://qazradio.fm/images/icon-114x114.png?9",
+        "Language": "kk",
+        "Homepage": "https://qazradio.fm/",
+        "Source1": "https://radio-streams.kaztrk.kz/shalqar/shalqar/icecast.audio"
+    },
+    {
+        "Title": "Space Beat (128k)",
+        "Country": "Kazakhstan",
+        "Tags": "alternative,electronic",
+        "Language": "en",
+        "Homepage": "http://spacebeat.strangled.net/",
+        "Source1": "https://90116.web.hosting-russia.ru/listen/space_beat/radio.mp3"
+    },
+    {
+        "Title": "Space Beat (64k AAC)",
+        "Country": "Kazakhstan",
+        "Tags": "electronic",
+        "Favicon": "https://tihbus.droppages.com/sbr-logo.png",
+        "Language": "en",
+        "Homepage": "https://t.me/spacebeatradio",
+        "Source1": "https://90116.web.hosting-russia.ru/listen/space_beat/mobile.aac"
+    },
+    {
+        "Title": "SVETILO.ONLINE - духовно - осознанное",
+        "Country": "Kazakhstan",
+        "Favicon": "https://svetilo.online/wp-content/uploads/2026/01/svetilo.online-logo.webp",
+        "Homepage": "https://svetilo.online/",
+        "Source1": "https://streams.svetilo.online/listen/svetilo.online/radio.mp3"
+    },
+    {
+        "Title": "Tengri FM",
+        "Country": "Kazakhstan",
+        "Tags": "classic rock,rock",
+        "Language": "kk,ru",
+        "Homepage": "http://tengrifm.kz/",
+        "Source1": "http://91.201.214.229:8000/tengrifm"
+    },
+    {
+        "Title": "The Holy Quran  by Sheikh Mahmoud Al-Husari",
+        "Country": "Kazakhstan",
+        "Tags": "islamic، classical",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://qurango.net/radio/mahmoud_khalil_alhussary_warsh",
+        "Source1": "https://qurango.net/radio/mahmoud_khalil_alhussary_warsh"
+    },
+    {
+        "Title": "Zhulduz Radio",
+        "Country": "Kazakhstan",
+        "Tags": "classic hits,hits,russian programming",
+        "Favicon": "http://zhuldyzfm.kz/sites/default/files/favicon.png",
+        "Language": "kk,ru",
+        "Homepage": "http://zhuldyzfm.kz/en",
+        "Source1": "http://91.201.214.229:8000/zhulduz"
+    },
+    {
+        "Title": "ВАШЕ РАДИО",
+        "Country": "Kazakhstan",
+        "Tags": "dance,pop dance",
+        "Language": "en,kk,ru",
+        "Homepage": "https://vashe.kz/",
+        "Latitude": 49.81486000268127,
+        "Longitude": 73.11229705810548,
+        "Source1": "https://live.zhanafm.kz:8443/vasheradio"
+    },
+    {
+        "Title": "ЖАНА FM",
+        "Country": "Kazakhstan",
+        "Tags": "russian music",
+        "Language": "kk,ru",
+        "Homepage": "https://zhanafm.kz/",
+        "Source1": "https://live.zhanafm.kz:8443/zhanafm_onair"
+    },
+    {
+        "Title": "Жаңа Lounge",
+        "Country": "Kazakhstan",
+        "Tags": "lounge,lounge radio",
+        "Language": "en,kk,ru",
+        "Homepage": "https://zhanafm.kz/",
+        "Latitude": 49.8184486954581,
+        "Longitude": 73.10045242309572,
+        "Source1": "https://live.zhanafm.kz:8443/zhanalounge"
+    },
+    {
+        "Title": "Жаңа MIX",
+        "Country": "Kazakhstan",
+        "Tags": "dj remix,mix,mixtapes,pop",
+        "Language": "en,kk,ru",
+        "Homepage": "https://zhanafm.kz/",
+        "Latitude": 49.8187034400595,
+        "Longitude": 73.10616016387941,
+        "Source1": "https://live.zhanafm.kz:8443/zhanamix"
+    },
+    {
+        "Title": "Жаңа Rock",
+        "Country": "Kazakhstan",
+        "Tags": "alternative rock,classic rock,pop rock,rock",
+        "Favicon": "https://zhanafm.kz/favicon-32x32.png",
+        "Language": "en,kk,ru",
+        "Homepage": "https://zhanafm.kz/",
+        "Latitude": 49.85852641623932,
+        "Longitude": 73.10028076171876,
+        "Source1": "https://live.zhanafm.kz:8443/zhanarock"
+    },
+    {
+        "Title": "Народное Радио",
+        "Country": "Kazakhstan",
+        "Tags": "pop,russian music",
+        "Favicon": "https://static.tildacdn.com/tild6336-3866-4639-b664-353833373961/GIF.gif",
+        "Language": "ru",
+        "Homepage": "http://narodnoeradio.kz/",
+        "Source1": "http://178.88.167.62:8080/DALA_192"
+    },
+    {
+        "Title": "Народное радио",
+        "Country": "Kazakhstan",
+        "Language": "ru",
+        "Homepage": "http://178.88.167.62:8080/DALA_192",
+        "Latitude": 43.29658927646959,
+        "Longitude": 76.91862437278655,
+        "Source1": "http://178.88.167.62:8080/DALA_192"
+    },
+    {
+        "Title": "Радио 7 Семей",
+        "Country": "Kazakhstan",
+        "Homepage": "https://radio7.kz/",
+        "Source1": "https://listen2.myradio24.com/8334"
+    },
+    {
+        "Title": "Радио Classic",
+        "Country": "Kazakhstan",
+        "Tags": "classical music",
+        "Favicon": "https://qazradio.fm/images/classicfm.png?v=0.133",
+        "Language": "kk",
+        "Homepage": "https://qazradio.fm/kz/",
+        "Source1": "https://radio-streams.kaztrk.kz/classic/classic/icecast.audio"
+    },
+    {
+        "Title": "Радио NS Павлодар",
+        "Country": "Kazakhstan",
+        "Homepage": "https://www.ns.kz/",
+        "Latitude": 52.29774571448588,
+        "Longitude": 76.93176269531251,
+        "Source1": "https://service.ns.kz/bc/live"
+    },
+    {
+        "Title": "Радио SANA",
+        "Country": "Kazakhstan",
+        "Tags": "pop,russian music",
+        "Favicon": "http://hordelo.kz/files/4616/6597/6684/Banner_Radio_2021.jpg",
+        "Language": "ru",
+        "Homepage": "http://hordelo.kz/radio",
+        "Source1": "https://listen4.myradio24.com/radiosana"
+    },
+    {
+        "Title": "Радио Микс Казахстан",
+        "Country": "Kazakhstan",
+        "Language": "en",
+        "Homepage": "http://registan.kz/#",
+        "Source1": "http://streaming.radionomy.com/JamendoLounge"
+    },
+    {
+        "Title": "Радио Рауан",
+        "Country": "Kazakhstan",
+        "Language": "en",
+        "Homepage": "http://hordelo.kz/radiorauan/",
+        "Source1": "https://listen4.myradio24.com/rauan"
+    },
+    {
+        "Title": "Радио Талап",
+        "Country": "Kazakhstan",
+        "Tags": "kazakh music,russian music",
+        "Language": "kk,ru",
+        "Homepage": "https://talap.com/",
+        "Source1": "https://okeyradio.ru/okey"
+    },
+    {
+        "Title": "Радио ТМК",
+        "Country": "Kazakhstan",
+        "Tags": "etno,kazan,relax,tatar,tatarstan",
+        "Favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240423_115629497.jpg?alt=media&token=ffd13e64-214c-4108-b5e5-8a7ab3355f27",
+        "Homepage": "https://radiotmk.ru/",
+        "Source1": "https://listen.myrh.ru/radiotmk"
+    },
+    {
+        "Title": "Ретро FM Qazaqstan",
+        "Country": "Kazakhstan",
+        "Language": "ru",
+        "Homepage": "https://radiohub.kz/",
+        "Latitude": 43.28440360105322,
+        "Longitude": 76.87577505438394,
+        "Source1": "https://radiohub.kz/s/retrofm/112/playlist.m3u8"
+    }
+]

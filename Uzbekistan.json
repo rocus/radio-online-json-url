@@ -1,0 +1,113 @@
+[
+    {
+        "Title": "A'LO FM",
+        "Country": "Uzbekistan",
+        "Favicon": "http://tabassum.uz/favicon.ico",
+        "Language": "uz",
+        "Homepage": "http://tabassum.uz/",
+        "Source1": "http://tabassum.uz:9000/alo_low"
+    },
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "Uzbekistan",
+        "Favicon": "https://mp3islam.com/favicon.ico",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "alghad FM",
+        "Country": "Uzbekistan",
+        "Tags": "various",
+        "Favicon": "https://alghad.fm/public/images/favicon.png",
+        "Language": "ar",
+        "Homepage": "https://alghad.fm/",
+        "Source1": "http://s10.voscast.com:9410/"
+    },
+    {
+        "Title": "Islom.uz",
+        "Country": "Uzbekistan",
+        "Tags": "islamic",
+        "Favicon": "null",
+        "Language": "uz",
+        "Homepage": "https://islom.uz/",
+        "Source1": "https://radio.islom.uz/islomuz"
+    },
+    {
+        "Title": "Oriat FM",
+        "Country": "Uzbekistan",
+        "Tags": "hits,russian hits",
+        "Language": "en,uz",
+        "Homepage": "http://www.oriatfm.uz/",
+        "Source1": "http://194.5.152.248:8000/fm"
+    },
+    {
+        "Title": "Qalbim navosi",
+        "Country": "Uzbekistan",
+        "Tags": "pop music",
+        "Favicon": "https://topradio.mobi/screen/1651641776_qalbim_navosi_tashkent_uzbekistan.jpg",
+        "Language": "uz",
+        "Homepage": "http://qalbimnavosi.uz/",
+        "Source1": "http://213.230.109.7:9000/alo_low"
+    },
+    {
+        "Title": "Qalbim navosi",
+        "Country": "Uzbekistan",
+        "Favicon": "https://qalbimnavosi.uz/tmp/images/default.jpg",
+        "Homepage": "https://qalbimnavosi.uz/",
+        "Source1": "http://live.qalbimnavosi.uz/qalbimnavosi"
+    },
+    {
+        "Title": "Radio Markaz",
+        "Country": "Uzbekistan",
+        "Favicon": "http://mediamarkaz.com/assets/css/images/logo-radiomarkaz.png",
+        "Homepage": "http://mediamarkaz.com/",
+        "Source1": "http://mediamarkaz.com:8000/radiomarkaz"
+    },
+    {
+        "Title": "Radio O'zbegim Taronasi",
+        "Country": "Uzbekistan",
+        "Homepage": "https://fm101.uz/",
+        "Source1": "https://fm101.uz:9943/fm101_low.aac"
+    },
+    {
+        "Title": "Radio Tabassum",
+        "Country": "Uzbekistan",
+        "Tags": "classic hits,hits,russian hits",
+        "Language": "ru",
+        "Homepage": "https://tabassum.uz/",
+        "Source1": "http://tabassum.uz:9000/alo_low"
+    },
+    {
+        "Title": "rytmabad",
+        "Country": "Uzbekistan",
+        "Favicon": "https://rytmabad.radio/favicon.png",
+        "Homepage": "https://rytmabad.radio/",
+        "Source1": "https://radio.filmtastic.uz/listen/rytmabad/radio.mp3"
+    },
+    {
+        "Title": "The Holy Quran  by Sheikh Mahmoud Al-Husari",
+        "Country": "Uzbekistan",
+        "Tags": "islamic، classical",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://qurango.net/radio/mahmoud_khalil_alhussary_warsh",
+        "Source1": "https://qurango.net/radio/mahmoud_khalil_alhussary_warsh"
+    },
+    {
+        "Title": "Truck FM",
+        "Country": "Uzbekistan",
+        "Tags": "music",
+        "Homepage": "https://fm.truckfm.uz:8000/64",
+        "Source1": "https://fm.truckfm.uz:8000/64"
+    },
+    {
+        "Title": "Yoshlar Ovozi",
+        "Country": "Uzbekistan",
+        "Tags": "music",
+        "Favicon": "http://muz.uz/favicon.ico",
+        "Language": "uz",
+        "Homepage": "http://muz.uz/",
+        "Source1": "http://ns10.jethost.uz:8000/yoshlarovoziaac"
+    }
+]

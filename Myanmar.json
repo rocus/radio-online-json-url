@@ -1,0 +1,45 @@
+[
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "Myanmar",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "Cherry FM",
+        "Country": "Myanmar",
+        "Tags": "music pop,music variety,variety",
+        "Language": "my",
+        "Homepage": "http://www.cherryfmmym.com/",
+        "Latitude": 16.787058528243705,
+        "Longitude": 96.14280354743028,
+        "Source1": "https://cherry.akiyaresearch.com:444/stream/89/"
+    },
+    {
+        "Title": "DWG Radio Bumese",
+        "Country": "Myanmar",
+        "Tags": "christian,gospel",
+        "Favicon": "https://www.streamplus.de/img/favico.ico",
+        "Language": "my",
+        "Homepage": "https://www.streamplus.de/",
+        "Source1": "http://server32349.streamplus.de/;?type=http&#038;nocache=227"
+    },
+    {
+        "Title": "MandalayFM",
+        "Country": "Myanmar",
+        "Favicon": "https://cdn.raddio.net/img/icons/apple-icon-120x120.png",
+        "Language": "my",
+        "Homepage": "https://raddio.net/",
+        "Source1": "https://edge.mixlr.com/channel/nmtev"
+    },
+    {
+        "Title": "Padamyar FM",
+        "Country": "Myanmar",
+        "Favicon": "https://padamyarfm.com.mm/favicon-32x32.png",
+        "Language": "my",
+        "Homepage": "http://padamyarfm.com/",
+        "Source1": "https://stream.zeno.fm/og9btsnj00tuv"
+    }
+]

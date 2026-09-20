@@ -1,0 +1,63 @@
+[
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "Kyrgyzstan",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "ColdStar.Online Radio (High quality)",
+        "Country": "Kyrgyzstan",
+        "Tags": "deep,house,tech,trance",
+        "Favicon": "https://coldstar.online/static/assets/android-chrome-512x512.png",
+        "Language": "en,ru",
+        "Homepage": "https://coldstar.online/#/",
+        "Source1": "https://ice.coldstar.online/high.ogg"
+    },
+    {
+        "Title": "ColdStar.Online Radio (Low quality)",
+        "Country": "Kyrgyzstan",
+        "Tags": "deep,house,psy,tech,trance",
+        "Favicon": "https://coldstar.online/static/assets/android-chrome-512x512.png",
+        "Language": "en,ru",
+        "Homepage": "https://coldstar.online/",
+        "Source1": "https://ice.coldstar.online/low.mp3"
+    },
+    {
+        "Title": "The Holy Quran  by Sheikh Mahmoud Al-Husari",
+        "Country": "Kyrgyzstan",
+        "Tags": "islamic، classical",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://qurango.net/radio/mahmoud_khalil_alhussary_warsh",
+        "Source1": "https://qurango.net/radio/mahmoud_khalil_alhussary_warsh"
+    },
+    {
+        "Title": "Биринчи Radio",
+        "Country": "Kyrgyzstan",
+        "Favicon": "http://www.ktrk.kg/favicon.ico",
+        "Homepage": "http://www.ktrk.kg/birinchi",
+        "Source1": "https://liveradio.utrk.kg/1radio"
+    },
+    {
+        "Title": "Кыргызстан Обондору (Kyrgyzstan Obondoru)",
+        "Country": "Kyrgyzstan",
+        "Favicon": "https://obondoru.kg/wp-content/uploads/2022/08/cropped-logo_png-600-180x180.png",
+        "Homepage": "https://obondoru.kg/",
+        "Source1": "https://cdn.radioplayer.kg:8443/obondoru64"
+    },
+    {
+        "Title": "Радио Тумар FM (Radio Tumar FM)",
+        "Country": "Kyrgyzstan",
+        "Homepage": "https://www.tumar.fm/",
+        "Source1": "https://radio.tumar.fm:8005/stream"
+    },
+    {
+        "Title": "Сүйүнчү FM (Suiunchu FM)",
+        "Country": "Kyrgyzstan",
+        "Homepage": "https://suiunchu.kg/",
+        "Source1": "https://cdn.radioplayer.kg:8443/suiunchu64"
+    }
+]

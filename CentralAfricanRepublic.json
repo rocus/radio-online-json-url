@@ -1,0 +1,31 @@
+[
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "CentralAfricanRepublic",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "Mambokadzi DreamRadio",
+        "Country": "CentralAfricanRepublic",
+        "Favicon": "https://www.mambokadzidreamradio.com/sitepad-data/uploads/2023/11/Mambokadzi-DreamRadio-Logo.jpg",
+        "Homepage": "https://www.mambokadzidreamradio.com/",
+        "Source1": "https://cast3.asurahosting.com/proxy/dreamradio/stream.mp3"
+    },
+    {
+        "Title": "Radio Ndeke Luka",
+        "Country": "CentralAfricanRepublic",
+        "Favicon": "https://www.radiondekeluka.org/wp-content/uploads/2022/12/cropped-rnl-ico-300x300.jpg",
+        "Homepage": "https://www.radiondekeluka.org/",
+        "Source1": "https://stream.radiondekeluka.org/ndekeluka"
+    },
+    {
+        "Title": "Radio Ndeke Luka FM",
+        "Country": "CentralAfricanRepublic",
+        "Tags": "talk",
+        "Homepage": "https://www.radiondekeluka.org/",
+        "Source1": "http://stream.radiondekeluka.org:8001/ndekeluka"
+    }
+]

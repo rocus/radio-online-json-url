@@ -1,0 +1,67 @@
+[
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "CaymanIslands",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "Big Fish 95.5FM",
+        "Country": "CaymanIslands",
+        "Favicon": "https://bigfish955.ky/wp-content/uploads/2022/10/round-logo.png",
+        "Homepage": "https://bigfish955.ky/",
+        "Source1": "https://ice41.securenetsystems.net/BIGFISH"
+    },
+    {
+        "Title": "Island FM - The Rhythm Of Cayman",
+        "Country": "CaymanIslands",
+        "Favicon": "https://mmo.aiircdn.com/275/60b648b67aea1.png",
+        "Homepage": "https://www.islandfm.ky/",
+        "Source1": "https://iriefm-hurleysmedia.radioca.st/stream?_=912521"
+    },
+    {
+        "Title": "Paradise Radio",
+        "Country": "CaymanIslands",
+        "Tags": "90's,dance",
+        "Favicon": "https://www.paradiseradio.org/test/img/cover.jpg",
+        "Homepage": "https://www.paradiseradio.org/",
+        "Latitude": 19.278208157278453,
+        "Longitude": -81.33499503135681,
+        "Source1": "https://www.radiostreamcast.com/listen/paradise_radio/radio.mp3",
+        "Source2": "https://radiostreamcast.com/listen/paradise_radio/radio.mp3"
+    },
+    {
+        "Title": "Rooster 101",
+        "Country": "CaymanIslands",
+        "Tags": "country",
+        "Favicon": "https://mmo.aiircdn.com/275/60beb112e3b35.png",
+        "Homepage": "https://www.rooster101.ky/",
+        "Latitude": 19.29344355510806,
+        "Longitude": -81.37232065200806,
+        "Source1": "https://rooster101-hurleysmedia.radioca.st/stream"
+    },
+    {
+        "Title": "X107.1",
+        "Country": "CaymanIslands",
+        "Tags": "pop",
+        "Favicon": "https://stingraymedia.com/wp-content/uploads/2024/11/cropped-logo-2-2-180x180.png",
+        "Language": "en",
+        "Homepage": "https://dmsbroadcasting.ky/",
+        "Source1": "https://ice23.securenetsystems.net/X1071?playSessionID=C8803655-9BCC-E3A9-EB64CD924FCD83A6"
+    },
+    {
+        "Title": "Z99 - Cayman Islands",
+        "Country": "CaymanIslands",
+        "Favicon": "https://mmo.aiircdn.com/275/60bf9a38a1834.png",
+        "Homepage": "https://www.z99.ky/",
+        "Source1": "https://z99-hurleysmedia.radioca.st/stream"
+    },
+    {
+        "Title": "Z99 Grand Cayman",
+        "Country": "CaymanIslands",
+        "Homepage": "https://www.z99.ky/",
+        "Source1": "https://z99-hurleysmedia.radioca.st/stream"
+    }
+]

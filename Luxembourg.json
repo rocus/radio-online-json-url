@@ -1,0 +1,263 @@
+[
+    {
+        "Title": "AAAudio",
+        "Country": "Luxembourg",
+        "Tags": "ambient,downtempo,electronic,electronica,jazz,r&b,smooth jazz,soul",
+        "Favicon": "https://yomusic.top/assets/img/yomusic_icon_32x32.png",
+        "Language": "en",
+        "Homepage": "https://yomusic.top/",
+        "Latitude": 49.60973107490682,
+        "Longitude": 6.130371093750001,
+        "Source1": "https://rocket.streamradio.fr:8008/"
+    },
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "Luxembourg",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "Braintrip Radio",
+        "Country": "Luxembourg",
+        "Tags": "krautrock,psychedelic rock,space rock,stoner",
+        "Favicon": "https://assets.laut.fm/3e5e39b59b48da2d4d07f5fb8eecd8d3?t=_640x640",
+        "Homepage": "https://laut.fm/braintrip-radio",
+        "Source1": "https://stream.laut.fm/braintrip-radio"
+    },
+    {
+        "Title": "Country Radio Gilsdorf 103.9",
+        "Country": "Luxembourg",
+        "Homepage": "https://countryradiogilsdo.wixsite.com/",
+        "Source1": "http://streaming.aoip.international:8000/cr-gilsdorf"
+    },
+    {
+        "Title": "Eldo Radio Chill",
+        "Country": "Luxembourg",
+        "Tags": "chillout",
+        "Homepage": "https://www.eldo.lu/radio/livestream/chill",
+        "Source1": "https://stream.rtl.lu/live/hls/radio/eldochill"
+    },
+    {
+        "Title": "Eldoradio",
+        "Country": "Luxembourg",
+        "Tags": "pop",
+        "Language": "lb",
+        "Homepage": "http://radio.eldo.lu/",
+        "Source1": "http://81.92.238.33/"
+    },
+    {
+        "Title": "ELDORADIO - Alternative Channel",
+        "Country": "Luxembourg",
+        "Favicon": "https://www.eldo.lu/assets/img/logo.png",
+        "Homepage": "http://radio.eldo.lu/",
+        "Source1": "http://sc.bce.lu/eldoalt"
+    },
+    {
+        "Title": "ELDORADIO - Chill Channel",
+        "Country": "Luxembourg",
+        "Favicon": "https://www.eldo.lu/assets/img/logo.png",
+        "Homepage": "http://radio.eldo.lu/",
+        "Source1": "http://sc.bce.lu/eldochill"
+    },
+    {
+        "Title": "FCE-CONTINUO Webradio",
+        "Country": "Luxembourg",
+        "Tags": "alterclassique,classical",
+        "Homepage": "https://fce-continuo.websiteradio.co/",
+        "Source1": "https://www.radioking.com/play/fce-continuo"
+    },
+    {
+        "Title": "Free Radio Luxembourg",
+        "Country": "Luxembourg",
+        "Tags": "pop rock",
+        "Language": "lb",
+        "Homepage": "https://www.radioking.com/play/rfm-luxembourg/137599",
+        "Source1": "https://www.radioking.com/play/rfm-luxembourg/137599"
+    },
+    {
+        "Title": "Free Radio Luxembourg FRL",
+        "Country": "Luxembourg",
+        "Tags": "pop,rock",
+        "Language": "lb",
+        "Homepage": "https://www.radioking.com/play/rfm-luxembourg/137599",
+        "Source1": "https://www.radioking.com/play/rfm-luxembourg/137599"
+    },
+    {
+        "Title": "Generation Dance Radio",
+        "Country": "Luxembourg",
+        "Tags": "dance,dj,edm,eurodance,handsup,house,trance",
+        "Favicon": "https://generation.dance/logo_500x500.png",
+        "Language": "en,fr",
+        "Homepage": "https://generation.dance/",
+        "Latitude": 49.509605,
+        "Longitude": 5.9415757,
+        "Source1": "http://generationdance.lu/radio/8030/mobile",
+        "Source2": "http://generationdance.lu/radio/8030/hd"
+    },
+    {
+        "Title": "Groovetime",
+        "Country": "Luxembourg",
+        "Tags": "acid jazz,funk,jazz,jazz fusion,jazz-funk,nu-jazz,r&b,soul",
+        "Favicon": "https://groovetime.lu/favicon.ico",
+        "Homepage": "https://groovetime.lu/",
+        "Latitude": 49.49924576083002,
+        "Longitude": 5.973472595214845,
+        "Source1": "http://kotdt.com:8000/groovetime"
+    },
+    {
+        "Title": "L'Essentiel Radio",
+        "Country": "Luxembourg",
+        "Tags": "hits,pop,pop music,top 40",
+        "Favicon": "http://lessentielradio.lu/upload/602fd5fe8a8987.60975527.ico",
+        "Homepage": "http://lessentielradio.lu/",
+        "Source1": "http://lessentielradio.ice.infomaniak.ch/lessentielradio-128.mp3"
+    },
+    {
+        "Title": "Opus 100,7",
+        "Country": "Luxembourg",
+        "Tags": "classical,classical music",
+        "Language": "lb",
+        "Homepage": "https://www.opus.radio/",
+        "Source1": "https://100komma7--di--nacs-ice-01--02--cdn.cast.addradio.de/100komma7/opus/mp3/320/stream.mp3"
+    },
+    {
+        "Title": "Radio 100,7",
+        "Country": "Luxembourg",
+        "Tags": "blues rock,classical,indie",
+        "Language": "en,lb",
+        "Homepage": "https://www.100komma7.lu/",
+        "Source1": "http://100komma7.cast.addradio.de/100komma7/live/mp3/128/stream.mp3"
+    },
+    {
+        "Title": "Radio 100komma7",
+        "Country": "Luxembourg",
+        "Favicon": "https://100komma7.lu/static/logo-radio.png",
+        "Language": "fr,lb",
+        "Homepage": "https://100komma7.lu/",
+        "Latitude": 49.622130114339306,
+        "Longitude": 6.15212380886078,
+        "Source1": "https://stream.100komma7.lu/100komma7/live/mp3/128/stream.mp3",
+        "Source2": "http://100komma7.cast.addradio.de/100komma7/live/mp3/320/stream.mp3"
+    },
+    {
+        "Title": "Radio ARA",
+        "Country": "Luxembourg",
+        "Language": "de,en,fr,lb",
+        "Homepage": "https://www.radioara.org/",
+        "Source1": "https://s1.voscast.com:11187/RadioARA.mp3"
+    },
+    {
+        "Title": "Radio C Luxembourg",
+        "Country": "Luxembourg",
+        "Homepage": "https://radioc.eu/",
+        "Source1": "https://edge01.streamonkey.net/radioc-live"
+    },
+    {
+        "Title": "Radio Gutt Laun",
+        "Country": "Luxembourg",
+        "Homepage": "https://www.rgl.lu/index.php",
+        "Source1": "https://streams.radio.co/sa631ff66a/listen"
+    },
+    {
+        "Title": "Radio Peiteng on Air",
+        "Country": "Luxembourg",
+        "Language": "lb",
+        "Homepage": "https://www.peitengonair.lu/",
+        "Latitude": 49.55238158429349,
+        "Longitude": 5.855474174022675,
+        "Source1": "http://stream.peitengonair.lu:9000/live"
+    },
+    {
+        "Title": "Radio Puls Luxembourg",
+        "Country": "Luxembourg",
+        "Tags": "folk,serbian",
+        "Favicon": "https://radiopuls.lu/wp-content/uploads/2016/02/cropped-original_radio_puls_logo_3d_png_1000px-180x180.png",
+        "Language": "sr",
+        "Homepage": "https://www.radiopuls.lu/",
+        "Source1": "https://uk1.listen2myradio.com:2199/listen.php?port=8312&type=s2&mount=/stream"
+    },
+    {
+        "Title": "Radio Radijacija",
+        "Country": "Luxembourg",
+        "Tags": "indie",
+        "Homepage": "https://radio.radijacija.eu/",
+        "Source1": "https://a12.asurahosting.com/listen/radio_radijacija/radio.mp3"
+    },
+    {
+        "Title": "RTL Die besten Hits aller Zeiten",
+        "Country": "Luxembourg",
+        "Language": "de",
+        "Homepage": "http://www.rtlradio.de/musik/radio-hoeren/webradios/rtl-die-besten-hits-aller-zeiten-livestream",
+        "Source1": "http://stream.rtlradio.de/rtl-de-beste-hits/aac-64"
+    },
+    {
+        "Title": "RTL Gold",
+        "Country": "Luxembourg",
+        "Favicon": "https://www.rtl.lu/components/images/5e0dff17b0d8bf7fda79103a20b011b7-logo_rtl-gold.svg",
+        "Homepage": "https://play.rtl.lu/live/rtl-gold",
+        "Source1": "https://shoutcast.rtl.lu/rtlgold"
+    },
+    {
+        "Title": "RTL Gold",
+        "Country": "Luxembourg",
+        "Source1": "https://live-edge.rtl.lu/radio/rtlgold/playlist.m3u8"
+    },
+    {
+        "Title": "rtl luxenburg",
+        "Country": "Luxembourg",
+        "Tags": "alles",
+        "Homepage": "https://www.rtlradio.de/",
+        "Source1": "https://www.rtlradio.de/channel/rtl-radio-ukw-97.0"
+    },
+    {
+        "Title": "RTL Radio - Deutschlands Hit-Radio",
+        "Country": "Luxembourg",
+        "Favicon": "https://www.rtlradio.de/assets/fallback/fallback_1x1.jpg",
+        "Source1": "http://stream.rtlradio.de/rtl-de-national/mp3-192/"
+    },
+    {
+        "Title": "RTL Radio - Die besten Hits aller Zeiten",
+        "Country": "Luxembourg",
+        "Source1": "http://stream.rtlradio.de/rtl-de-beste-hits/mp3-192"
+    },
+    {
+        "Title": "RTL Radio Letzebuerg",
+        "Country": "Luxembourg",
+        "Tags": "information,pop",
+        "Favicon": "http://www.rtl.lu/assets/images/favicon-rtllu/apple-touch-icon.png?v=202304271020",
+        "Language": "lb",
+        "Homepage": "http://www.rtl.lu/",
+        "Source1": "http://sc-rtllive.newmedia.lu/"
+    },
+    {
+        "Title": "RTL Radio Lëtzebuerg",
+        "Country": "Luxembourg",
+        "Favicon": "http://www.rtl.lu//assets/images/favicon-rtl/favicon.ico",
+        "Language": "lb",
+        "Homepage": "http://www.rtl.lu/",
+        "Source1": "https://live-edge.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8"
+    },
+    {
+        "Title": "RTL Schlagerliebe",
+        "Country": "Luxembourg",
+        "Source1": "http://stream.rtlradio.de/schlagerliebe/mp3-192/"
+    },
+    {
+        "Title": "RTL Today",
+        "Country": "Luxembourg",
+        "Language": "en",
+        "Homepage": "http://today.rtl.lu/",
+        "Source1": "https://shoutcast.rtl.lu/rtltodayradio"
+    },
+    {
+        "Title": "Rádio Larochette",
+        "Country": "Luxembourg",
+        "Tags": "pop rock popular",
+        "Homepage": "https://radiolarochette.com/",
+        "Latitude": 49.61135874649236,
+        "Longitude": 6.134748481873939,
+        "Source1": "https://servidor14.brlogic.com:8150/live"
+    }
+]

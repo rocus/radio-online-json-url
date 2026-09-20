@@ -1,0 +1,77 @@
+[
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "Aruba",
+        "Favicon": "https://mp3islam.com/favicon.ico",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "Bo Guia 88.9 FM",
+        "Country": "Aruba",
+        "Favicon": "https://boguiafm.com/bo%20guia%20trans.png",
+        "Homepage": "https://boguiafm.com/",
+        "Source1": "http://whooshserver.net:9880/live"
+    },
+    {
+        "Title": "Canal90 FM",
+        "Country": "Aruba",
+        "Favicon": "https://canal90fm.aw/favicon.ico",
+        "Homepage": "https://canal90fm.aw/",
+        "Source1": "https://stream.canal90.fm/live"
+    },
+    {
+        "Title": "Fresh FM 1043",
+        "Country": "Aruba",
+        "Favicon": "https://webradiodirectory.com/wp-content/uploads/2021/01/5b5c664d518942fc7bdfdff0ed74de52.jpg",
+        "Homepage": "http://www.fresharuba.com/",
+        "Source1": "http://www.coolaruba.com:8006/stream/;"
+    },
+    {
+        "Title": "Magic 96.5 - Oranjestad",
+        "Country": "Aruba",
+        "Tags": "latin music,oranjestad,pop,top 40",
+        "Homepage": "http://www.magic96-5.com/",
+        "Source1": "http://158.69.114.190:8072/;"
+    },
+    {
+        "Title": "MasFM 105.1",
+        "Country": "Aruba",
+        "Favicon": "https://masfmaruba.com/wp-content/uploads/2026/05/cropped-masfm-logo.png",
+        "Homepage": "https://masfmaruba.com/",
+        "Source1": "https://c13.radioboss.fm:8647/live?type=.mp3"
+    },
+    {
+        "Title": "Massive Arub",
+        "Country": "Aruba",
+        "Language": "en",
+        "Homepage": "https://massivearuba.com/",
+        "Source1": "http://surilive.com:8350/"
+    },
+    {
+        "Title": "Massive Aruba",
+        "Country": "Aruba",
+        "Tags": "calypso,caribbean,caribbean music,carnaval,dancehall,gospel,r&b,r&b soul,soca",
+        "Language": "en,nl",
+        "Homepage": "https://massivearuba.com/",
+        "Latitude": 12.435191027630085,
+        "Longitude": -69.91005022323981,
+        "Source1": "http://surilive.com:8350/"
+    },
+    {
+        "Title": "Massive Aruba",
+        "Country": "Aruba",
+        "Tags": "calypso,caribbean,caribbean music,carnaval,dancehall,soca",
+        "Language": "en,es,nl",
+        "Homepage": "https://surilive.com:8350/index.html",
+        "Source1": "https://surilive.com:8350/"
+    },
+    {
+        "Title": "yhju",
+        "Country": "Aruba",
+        "Tags": "music trance",
+        "Homepage": "http://52.0.120.216:8000/stream/4/",
+        "Source1": "http://52.0.120.216:8000/stream/4/"
+    }
+]

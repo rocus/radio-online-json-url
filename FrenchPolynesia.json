@@ -1,0 +1,113 @@
+[
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "FrenchPolynesia",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "HITI FM",
+        "Country": "FrenchPolynesia",
+        "Language": "fr,ty",
+        "Homepage": "http://hitifm.fr/",
+        "Source1": "http://n0a.radiojar.com/u0yz7p0mb.mp3"
+    },
+    {
+        "Title": "Hiti FM",
+        "Country": "FrenchPolynesia",
+        "Tags": "pop music",
+        "Language": "en,fr",
+        "Homepage": "https://hiti-fm.com/",
+        "Latitude": -17.6460802119512,
+        "Longitude": -149.48547363281253,
+        "Source1": "https://n01.radiojar.com/u0yz7p0mb.mp3"
+    },
+    {
+        "Title": "Nostalgie 100% Francais 80",
+        "Country": "FrenchPolynesia",
+        "Tags": "80's,french radio,pop",
+        "Language": "fr",
+        "Homepage": "https://www.nostalgie.fr/webradios/mur-des-radios/nostalgie-100-francais-80",
+        "Source1": "https://streaming.nrjaudio.fm/out2976ubafg?origine=playernostalgie&aw_0_req.userConsentV2=CQkCxgAQkCxgAAHABBENCdFsAP_gAEPgAAqIJ2tR_G_fbWlj-TZ1YbpkeYwP99gj7sQxBgSJk24FyJvW7JwCx2ExJAzapqIKmRIAu3TBAQNlGIDURUAAIIgFqSDMaESUgTNKJ6BEiFMRI2JQCFxvm4FDeQCY4kp_9kcxmB-t7dr8yNzgAgAAAUCAIAAgAIABAACIAAAgAAAAAQAAAiwACAAAAAAAAEAAAFAAAABAAAEAAAACAAAABAAAIJ2gAmGhUQQlgQCBAoCAECAAQVhABQIAgAASBggIASBgQ5AwAXWEyAAAKAAYIAQAAgwABAAAJAAhEAEABAIAQIBAIAAQAAAAIACBAADABQiAQAAgOgYBAQQCBYAJEZUBpgQgAJBASyFCAAAAgAACAAAAAAIAAAAAAAAAgAAAAAAAAggAAAAAAAAAAAEAAAAAAEABAAAAAAAAAAAAABAAAIAA.IJ2tR_G_fbWlj-TZ14bpkeYwf99gj7sQxBgSJk24FyJvW7JwC32EzJAzapqYKmRIAu3TBAQNtGIjURUABIIgVqTDMaESUgTNKJ6BEiHMRY2JQCFxvm4FDeQCZ4kp_90d5mR-t7dr-yNzgAgAgAUCAIAAgAIABAACIAAAgAAAAAQAAgiwACAAAAAAAAEAAAFAAEABAAAEAAAACAAAABAAAIAA.f_wACHwAAAAA&aw_0_1st.station=Nostalgie-100-Francais-80"
+    },
+    {
+        "Title": "Polynesie Première",
+        "Country": "FrenchPolynesia",
+        "Favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Polyn%C3%A9sie_La_1%C3%A8re_-_Logo_2018.svg/langfr-200px-Polyn%C3%A9sie_La_1%C3%A8re_-_Logo_2018.svg.png",
+        "Language": "fr",
+        "Homepage": "https://la1ere.francetvinfo.fr/polynesie/",
+        "Source1": "https://polynesie.ice.infomaniak.ch/polynesie-128.mp3"
+    },
+    {
+        "Title": "Polynésie 1ère",
+        "Country": "FrenchPolynesia",
+        "Tags": "information,local music,local news,pop",
+        "Favicon": "https://la1ere.francetvinfo.fr/favicon.ico",
+        "Language": "fr",
+        "Homepage": "https://la1ere.francetvinfo.fr/polynesie/radio",
+        "Latitude": -17.67122831025464,
+        "Longitude": -149.41680908203128,
+        "Source1": "https://polynesie.ice.infomaniak.ch/polynesie-128.mp3"
+    },
+    {
+        "Title": "Polynésie 1ère",
+        "Country": "FrenchPolynesia",
+        "Tags": "information",
+        "Favicon": "https://la1ere.francetvinfo.fr/favicon.ico",
+        "Language": "fr",
+        "Homepage": "https://la1ere.francetvinfo.fr/polynesie/",
+        "Latitude": -17.55169087038195,
+        "Longitude": -149.58390265703204,
+        "Source1": "https://polynesie.ice.infomaniak.ch/polynesie-128.mp3"
+    },
+    {
+        "Title": "Radio 1 PF",
+        "Country": "FrenchPolynesia",
+        "Language": "fr",
+        "Homepage": "https://www.radio1.pf/",
+        "Latitude": -17.530570107040212,
+        "Longitude": -149.57070350646975,
+        "Source1": "https://live.radio1.pf:8443/radio1"
+    },
+    {
+        "Title": "Radio 1 Tahiti",
+        "Country": "FrenchPolynesia",
+        "Tags": "local information,local music,pop music",
+        "Language": "fr",
+        "Homepage": "https://www.radio1.pf/",
+        "Latitude": -17.667061043279222,
+        "Longitude": -149.44152832031253,
+        "Source1": "http://live.radio1.pf:8001/radio1"
+    },
+    {
+        "Title": "Radio Melod'iles",
+        "Country": "FrenchPolynesia",
+        "Tags": "local,tahitian",
+        "Language": "fr,ty",
+        "Homepage": "https://radiomelodiles.radiostream321.com/",
+        "Latitude": -17.560323219839514,
+        "Longitude": -149.60477828979495,
+        "Source1": "http://uk25freenew.listen2myradio.com:7545/listen.pls"
+    },
+    {
+        "Title": "Radio1 Tahiti",
+        "Country": "FrenchPolynesia",
+        "Homepage": "https://www.radio1.pf/",
+        "Source1": "https://live.radio1.pf:8443/radio1"
+    },
+    {
+        "Title": "tahiti web radio",
+        "Country": "FrenchPolynesia",
+        "Homepage": "https://www.tahitiwebradio.pf/",
+        "Source1": "https://www.tahitiwebradio.pf/"
+    },
+    {
+        "Title": "Tiare FM",
+        "Country": "FrenchPolynesia",
+        "Favicon": "https://www.tiarefm.pf/favicon.ico",
+        "Homepage": "https://www.tiarefm.pf/",
+        "Source1": "https://live.tiarefm.pf:8443/tiarefm"
+    }
+]

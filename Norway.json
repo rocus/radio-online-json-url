@@ -1,0 +1,1102 @@
+[
+    {
+        "Title": "1-NRK Jazz",
+        "Country": "Norway",
+        "Tags": "jazz,smooth jazz",
+        "Favicon": "https://i.imgur.com/vHp1XjT.png",
+        "Language": "no",
+        "Homepage": "https://radio.nrk.no/direkte/jazz",
+        "Source1": "http://cdn0-47115-liveicecast0.dna.contentdelivery.net/jazz_mp3_h"
+    },
+    {
+        "Title": "1FM Jazz",
+        "Country": "Norway",
+        "Tags": "jazz",
+        "Favicon": "https://www.1fmmolde.com/uploads/1/2/2/5/122527073/jazz_orig.png",
+        "Homepage": "https://www.1fmmolde.com/",
+        "Latitude": 62.73687267461513,
+        "Longitude": 7.158652213356894,
+        "Source1": "https://lyd.1fm.no/1fmjazz_mq?rp_source=1"
+    },
+    {
+        "Title": "1FM Molde",
+        "Country": "Norway",
+        "Favicon": "https://www.1fmmolde.com/uploads/1/2/2/5/122527073/editor/1fm-blue-rektangle.png?1539836001",
+        "Homepage": "https://www.1fmmolde.com/",
+        "Source1": "https://s2.radio.co/s914ffa700/listen?rp_source=1&=&&___cb=962597539110953"
+    },
+    {
+        "Title": "1FM Rock",
+        "Country": "Norway",
+        "Favicon": "https://static.mytuner.mobi/media/tvos_radios/420/1fm-rock.0a45dd11.png",
+        "Homepage": "https://www.1fmmolde.com/",
+        "Latitude": 62.737624440786675,
+        "Longitude": 7.159137725830079,
+        "Source1": "https://lyd.1fm.no/1fmrock_hq"
+    },
+    {
+        "Title": "5000 Bergen",
+        "Country": "Norway",
+        "Homepage": "https://5000bergen.no/",
+        "Source1": "https://bergen5000.radioca.st/stream"
+    },
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "Norway",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "CLIAMP EDM Pulse",
+        "Country": "Norway",
+        "Tags": "edm,electronic dance music",
+        "Favicon": "https://www.cliamp.stream/favicon.svg",
+        "Homepage": "https://www.cliamp.stream/",
+        "Source1": "https://radio.cliamp.stream/edm/stream.pls"
+    },
+    {
+        "Title": "CLIAMP Lofi Hip Hop Radio",
+        "Country": "Norway",
+        "Tags": "lofi,lofi hip hop",
+        "Favicon": "https://www.cliamp.stream/favicon.svg",
+        "Homepage": "https://www.cliamp.stream/",
+        "Source1": "https://radio.cliamp.stream/lofi/stream.pls"
+    },
+    {
+        "Title": "CLIAMP NCS Chill",
+        "Country": "Norway",
+        "Tags": "chill,chillout,ncs,ncs radio,no copyright sounds",
+        "Favicon": "https://www.cliamp.stream/favicon.svg",
+        "Homepage": "https://www.cliamp.stream/",
+        "Source1": "https://radio.cliamp.stream/ncs-chill/stream.pls"
+    },
+    {
+        "Title": "CLIAMP NCS Drum & Bass",
+        "Country": "Norway",
+        "Tags": "dnb,drum & bass,drum and bass,ncs,ncs radio,no copyright sounds",
+        "Favicon": "https://www.cliamp.stream/favicon.svg",
+        "Homepage": "https://www.cliamp.stream/",
+        "Source1": "https://radio.cliamp.stream/ncs-dnb/stream.pls"
+    },
+    {
+        "Title": "CLIAMP NCS Dubstep",
+        "Country": "Norway",
+        "Tags": "dubstep,ncs,ncs radio,no copyright sounds",
+        "Favicon": "https://www.cliamp.stream/favicon.svg",
+        "Homepage": "https://www.cliamp.stream/",
+        "Source1": "https://radio.cliamp.stream/ncs-dubstep/stream.pls"
+    },
+    {
+        "Title": "CLIAMP NCS House",
+        "Country": "Norway",
+        "Tags": "house,ncs,ncs radio,no copyright sounds",
+        "Favicon": "https://www.cliamp.stream/favicon.svg",
+        "Homepage": "https://www.cliamp.stream/",
+        "Source1": "https://radio.cliamp.stream/ncs-house/stream.pls"
+    },
+    {
+        "Title": "CLIAMP NCS Phonk",
+        "Country": "Norway",
+        "Tags": "ncs,ncs radio,no copyright sounds,phonk",
+        "Favicon": "https://www.cliamp.stream/favicon.svg",
+        "Homepage": "https://www.cliamp.stream/",
+        "Source1": "https://radio.cliamp.stream/ncs-phonk/stream.pls"
+    },
+    {
+        "Title": "CLIAMP NCS Pop",
+        "Country": "Norway",
+        "Tags": "ncs,ncs radio,no copyright sounds,pop",
+        "Favicon": "https://www.cliamp.stream/favicon.svg",
+        "Homepage": "https://www.cliamp.stream/",
+        "Source1": "https://radio.cliamp.stream/ncs-pop/stream.pls"
+    },
+    {
+        "Title": "CLIAMP NCS Radio",
+        "Country": "Norway",
+        "Tags": "ncs,ncs radio,no copyright sounds",
+        "Favicon": "https://www.cliamp.stream/favicon.svg",
+        "Homepage": "https://www.cliamp.stream/",
+        "Source1": "https://radio.cliamp.stream/ncs/stream.pls"
+    },
+    {
+        "Title": "CLIAMP NCS Trap",
+        "Country": "Norway",
+        "Tags": "ncs,ncs radio,no copyright sounds,trap",
+        "Favicon": "https://www.cliamp.stream/favicon.svg",
+        "Homepage": "https://www.cliamp.stream/",
+        "Source1": "https://radio.cliamp.stream/ncs-trap/stream.pls"
+    },
+    {
+        "Title": "CLIAMP Synthwave Nights",
+        "Country": "Norway",
+        "Tags": "night,synthwave",
+        "Favicon": "https://www.cliamp.stream/favicon.svg",
+        "Homepage": "https://www.cliamp.stream/",
+        "Source1": "https://radio.cliamp.stream/synthwave/stream.pls"
+    },
+    {
+        "Title": "Guovdageainnu Lagasradio",
+        "Country": "Norway",
+        "Homepage": "https://glr.no/",
+        "Source1": "https://streaming.radio.co/s5b773f8d3/listen"
+    },
+    {
+        "Title": "Hamar Radioen",
+        "Country": "Norway",
+        "Tags": "news,pop,rock",
+        "Favicon": "https://assets.radioplayer.org/578/5784092/600/600/kyermgn3.png",
+        "Homepage": "http://radioene.no/radioplayer/hamar/",
+        "Latitude": 60.79453661403291,
+        "Longitude": 11.08177185058594,
+        "Source1": "https://lyd.radioene.no/hamar.mp3"
+    },
+    {
+        "Title": "Harrys Radio",
+        "Country": "Norway",
+        "Favicon": "https://radio.aasterud.com/wp-content/plugins/wp-radio/assets/images/placeholder.jpg",
+        "Homepage": "https://radio.aasterud.com/",
+        "Source1": "https://mpc1.mediacp.eu:8208/stream"
+    },
+    {
+        "Title": "historyradio.org",
+        "Country": "Norway",
+        "Tags": "educational,history,literature,old time radio,radio drama,talk",
+        "Favicon": "https://historyradio.org/wp-content/uploads/2020/08/cropped-favicon-hist-180x180.png",
+        "Language": "en",
+        "Homepage": "https://historyradio.org/",
+        "Source1": "http://stream.radiojar.com/6bmecgg3wd5tv"
+    },
+    {
+        "Title": "Klem FM",
+        "Country": "Norway",
+        "Favicon": "https://ddjh0q34m0xak.cloudfront.net/mmo/channelimages/dab99854-1427-4d94-a01d-693a75bc9b26.png?h=200",
+        "Homepage": "https://www.p7klem.no/",
+        "Source1": "https://p7.p4groupaudio.com/P07_MM"
+    },
+    {
+        "Title": "Metal Express Radio",
+        "Country": "Norway",
+        "Homepage": "http://www.metalexpressradio.com/",
+        "Source1": "http://s39.myradiostream.com:11590/listen.pls"
+    },
+    {
+        "Title": "Metal Express Radio",
+        "Country": "Norway",
+        "Homepage": "https://www.metalexpressradio.com/",
+        "Source1": "http://s39.myradiostream.com:11590/listen.m4a",
+        "Source2": "http://s39.myradiostream.com:11590/listen.m3u"
+    },
+    {
+        "Title": "Metro Buskerud",
+        "Country": "Norway",
+        "Tags": "music",
+        "Homepage": "https://radiometro.no/",
+        "Latitude": 59.742477175562875,
+        "Longitude": 10.206642150878908,
+        "Source1": "https://stream.radiometro.no/buskerud128"
+    },
+    {
+        "Title": "Nea Radio",
+        "Country": "Norway",
+        "Language": "no",
+        "Homepage": "https://nearadio.no/",
+        "Source1": "http://nettradio.nearadio.no:8000/stream.m3u"
+    },
+    {
+        "Title": "NF Radio",
+        "Country": "Norway",
+        "Tags": "actualités,expatrié,francophone,french,news,norvège,norway,talk",
+        "Favicon": "https://nfradio.fr/wp-content/uploads/2026/02/cropped-logo-nfradio-simple-180-90-1.png",
+        "Language": "fr",
+        "Homepage": "https://nfradio.fr/",
+        "Source1": "https://player.nfradio.fr/listen/nf_radio/radio.mp3"
+    },
+    {
+        "Title": "NKR P1+",
+        "Country": "Norway",
+        "Homepage": "https://radio.nrk.no/direkte/p1pluss",
+        "Source1": "http://lyd.nrk.no/nrk_radio_p1pluss_mp3_h"
+    },
+    {
+        "Title": "Norsk Country Radio",
+        "Country": "Norway",
+        "Tags": "country",
+        "Favicon": "https://websitebuilder.one.com/favicon/favicon.ico",
+        "Language": "en",
+        "Homepage": "https://norskcountry.net/",
+        "Source1": "http://s6.voscast.com:10258/"
+    },
+    {
+        "Title": "Norsk Pop",
+        "Country": "Norway",
+        "Tags": "norges beste musikk",
+        "Favicon": "https://non-stop-radio.blr1.cdn.digitaloceanspaces.com/new_images/radio/63566.png",
+        "Language": "no",
+        "Source1": "https://live-bauerno.sharp-stream.com/norskpop_no_mp3"
+    },
+    {
+        "Title": "North & Beyond",
+        "Country": "Norway",
+        "Tags": "hip hop,house,indie,world",
+        "Favicon": "https://north-beyond.no/img/north_beyond.png",
+        "Language": "en,no",
+        "Homepage": "https://north-beyond.no/",
+        "Latitude": 70.66239722918564,
+        "Longitude": 23.681233342729403,
+        "Source1": "http://stream.laut.fm/north-beyond"
+    },
+    {
+        "Title": "NRJ Norge",
+        "Country": "Norway",
+        "Tags": "pop,hits,top 40",
+        "Favicon": "https://media.bauerradio.com/image/upload/c_crop,g_custom/v1733412560/brand_manager/stations/op6xarklazczsrwxi2ga.png",
+        "Language": "NO",
+        "Region": "NO-03",
+        "Homepage": "https://radioplay.no/nrj/",
+        "Source1": "https://live-bauerno.sharp-stream.com/kiss_no_mp3"
+    },
+    {
+        "Title": "NRK Folkemusikk",
+        "Country": "Norway",
+        "Language": "no",
+        "Homepage": "https://lyd.nrk.no/",
+        "Latitude": 59.90124387199247,
+        "Longitude": 10.722377804421768,
+        "Source1": "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/folkemusikk"
+    },
+    {
+        "Title": "NRK Klassisk Radio",
+        "Country": "Norway",
+        "Tags": "classical",
+        "Favicon": "https://static.nrk.no/radio/dist/images/channel-logos/nrk-logo-nrk-klassisk--color-light.svg",
+        "Language": "no",
+        "Homepage": "https://radio.nrk.no/direkte/klassisk",
+        "Source1": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/klassisk_mp3_h"
+    },
+    {
+        "Title": "NRK MP3",
+        "Country": "Norway",
+        "Favicon": "https://lyd.nrk.no/img/favicon.ico",
+        "Homepage": "https://lyd.nrk.no/",
+        "Latitude": 60.08316712042611,
+        "Longitude": 11.118164062500002,
+        "Source1": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/mp3_mp3_h"
+    },
+    {
+        "Title": "NRK Nyheter",
+        "Country": "Norway",
+        "Tags": "news",
+        "Favicon": "https://gfx.nrk.no/LPN2Qc9bIsOAd5gamRth1g0p14XXlANNbxnU9iNh8gZQ",
+        "Language": "no",
+        "Homepage": "https://radio.nrk.no/",
+        "Latitude": 63.45320990191825,
+        "Longitude": 10.383925437927248,
+        "Source1": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/nyheter_aac_h"
+    },
+    {
+        "Title": "NRK Nyhter (MP3 - HI)",
+        "Country": "Norway",
+        "Favicon": "https://lyd.nrk.no/img/favicon.ico",
+        "Homepage": "https://radio.nrk.no/direkte/alltid_nyheter",
+        "Latitude": 59.790270956547566,
+        "Longitude": 10.854492187500002,
+        "Source1": "https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/nyheter"
+    },
+    {
+        "Title": "NRK P1 Buskerud (AAC High)",
+        "Country": "Norway",
+        "Favicon": "https://lyd.nrk.no/img/favicon.ico",
+        "Homepage": "https://lyd.nrk.no/",
+        "Latitude": 59.9054675732672,
+        "Longitude": 10.747375488281252,
+        "Source1": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk13_aac_h"
+    },
+    {
+        "Title": "NRK P1 Finnmark",
+        "Country": "Norway",
+        "Language": "no",
+        "Homepage": "https://www.nrk.no/",
+        "Latitude": 69.7738633118104,
+        "Longitude": 26.867978783425944,
+        "Source1": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk2_mp3_h"
+    },
+    {
+        "Title": "Nrk p1 Hordaland",
+        "Country": "Norway",
+        "Homepage": "https://.nrk.no/",
+        "Source1": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk8_mp3_h"
+    },
+    {
+        "Title": "NRK P1 Innlandet",
+        "Country": "Norway",
+        "Tags": "nrk",
+        "Favicon": "https://gfx.nrk.no/dCNdTrvP7UKwLMb4n3ZdMwi5Ua7PwTcMJygSWXXZSNbA",
+        "Language": "no",
+        "Homepage": "https://lyd.nrk.no/",
+        "Source1": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk14_mp3_h"
+    },
+    {
+        "Title": "NRK P1 Møre og Romsdal",
+        "Country": "Norway",
+        "Favicon": "https://static.nrk.no/publisering/kurator-visning/assets/apple-touch-icon.png",
+        "Homepage": "http://www.nrk.no/",
+        "Source1": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk6_mp3_l"
+    },
+    {
+        "Title": "NRK P1 Nordland",
+        "Country": "Norway",
+        "Tags": "local news,national",
+        "Favicon": "https://info.nrk.no/wp-content/uploads/2023/12/NRK-Nordland-768x256.png",
+        "Homepage": "https://www.nrk.no/",
+        "Source1": "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p1_dk4"
+    },
+    {
+        "Title": "NRK P1 Rogaland",
+        "Country": "Norway",
+        "Favicon": "https://static.nrk.no/radio/dist/favicons/apple-touch-icon.png",
+        "Homepage": "https://nrk.no/",
+        "Latitude": 58.93113711717478,
+        "Longitude": 5.695590376853944,
+        "Source1": "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p1_dk9"
+    },
+    {
+        "Title": "NRK P1 Sogn og Fjordane (Høy kvalitet AAC)",
+        "Country": "Norway",
+        "Favicon": "https://static.nrk.no/core-icons/latest/logo/nrk-logo-nrk-radio-title-below-on-light.svg",
+        "Language": "no",
+        "Homepage": "https://radio.nrk.no/",
+        "Source1": "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p1_dk7"
+    },
+    {
+        "Title": "NRK P1 Sogn og Fjordane (Høy kvalitet MP3)",
+        "Country": "Norway",
+        "Favicon": "https://static.nrk.no/core-icons/latest/logo/nrk-logo-nrk-radio-title-below-on-light.svg",
+        "Language": "no",
+        "Homepage": "https://radio.nrk.no/",
+        "Latitude": 61.45179481096617,
+        "Longitude": 5.853395462036134,
+        "Source1": "https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/p1_dk7"
+    },
+    {
+        "Title": "Nrk P1 Stor-Oslo",
+        "Country": "Norway",
+        "Favicon": "https://lyd.nrk.no/img/favicon.ico",
+        "Homepage": "https://lyd.nrk.no/",
+        "Latitude": 59.907361187996464,
+        "Longitude": 10.810546875000002,
+        "Source1": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_mp3_h"
+    },
+    {
+        "Title": "NRK P1 Troms (Høy kvalitet AAC)",
+        "Country": "Norway",
+        "Favicon": "https://gfx.nrk.no/T8cwv9jPSf8UATaLYiJIRgR0tDQCfubtGMfgvDfeLCdQ",
+        "Homepage": "https://lyd.nrk.no/",
+        "Source1": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk3_aac_h"
+    },
+    {
+        "Title": "NRK P1 Vestfold",
+        "Country": "Norway",
+        "Favicon": "https://radio.nrk.no/",
+        "Homepage": "https://lyd.nrk.no/",
+        "Source1": "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p1_dk12"
+    },
+    {
+        "Title": "NRK P1 Østfold",
+        "Country": "Norway",
+        "Language": "no",
+        "Homepage": "https://radio.nrk.no/",
+        "Latitude": 59.21217050181378,
+        "Longitude": 10.93963623046875,
+        "Source1": "https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/p1_dk15",
+        "Source2": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk15_mp3_h"
+    },
+    {
+        "Title": "NRK P1+",
+        "Country": "Norway",
+        "Favicon": "https://static.nrk.no/radio/dist/images/channel-logos/nrk-logo-nrk-p1+--color-light.svg",
+        "Language": "no",
+        "Homepage": "https://radio.nrk.no/direkte/p1pluss",
+        "Source1": "https://nrk-live-radio-world.akamaized.net/p1pluss/muxed.m3u8?adap=audio&aco=aac"
+    },
+    {
+        "Title": "NRK P1+ (mp3)",
+        "Country": "Norway",
+        "Favicon": "https://static.nrk.no/radio/dist/images/channel-logos/nrk-logo-nrk-p1+--color-light.svg",
+        "Language": "no",
+        "Homepage": "https://radio.nrk.no/direkte/p1pluss",
+        "Source1": "https://lyd.nrk.no/nrk_radio_p1pluss_mp3_h?_hdr=0"
+    },
+    {
+        "Title": "NRK P2 aac_h",
+        "Country": "Norway",
+        "Favicon": "https://gfx.nrk.no/ZeCGB3G5RPX_YQsbB1wz7QvgTeaE3DWcEYY9Ge5yAcyw",
+        "Homepage": "https://radio.nrk.no/",
+        "Latitude": 63.45194398794613,
+        "Longitude": 10.384569168090822,
+        "Source1": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p2_aac_h"
+    },
+    {
+        "Title": "NRK P3",
+        "Country": "Norway",
+        "Favicon": "https://p3.no/wp-content/themes/p3v2/images/favicon/favicon-16x16.png",
+        "Language": "no",
+        "Homepage": "https://www.nrk.no/",
+        "Latitude": 59.91327938264513,
+        "Longitude": 10.740079879760744,
+        "Source1": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p3_mp3_h"
+    },
+    {
+        "Title": "NRK P3 Musikk",
+        "Country": "Norway",
+        "Tags": "alternative",
+        "Favicon": "https://static.nrk.no/radio/dist/images/channel-logos/nrk-logo-nrk-p3-musikk--stacked-color-light.svg",
+        "Homepage": "https://radio.nrk.no/direkte/p3",
+        "Source1": "https://lyd.nrk.no/icecast/mp3/high/bkaen3z6bl/p3musikk?1768728185"
+    },
+    {
+        "Title": "NRK Sport",
+        "Country": "Norway",
+        "Homepage": "https://radio.nrk.no/",
+        "Source1": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/sport_aac_h"
+    },
+    {
+        "Title": "NRK Sápmi",
+        "Country": "Norway",
+        "Favicon": "https://upload.wikimedia.org/wikipedia/commons/e/e5/NRK_S%C3%A1pmi_logo_%282022%29.svg",
+        "Homepage": "https://radio.nrk.no/direkte/sapmi",
+        "Source1": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/sapmi_mp3_h"
+    },
+    {
+        "Title": "NRK Trøndelag",
+        "Country": "Norway",
+        "Homepage": "https://lyd.nrk.no/",
+        "Source1": "https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/p1_dk5"
+    },
+    {
+        "Title": "Nærkanalen",
+        "Country": "Norway",
+        "Homepage": "https://narkanalen.no/",
+        "Latitude": 66.86458036314276,
+        "Longitude": 13.722347617149357,
+        "Source1": "https://stream.radiomeloy.no:8003/radiomeloy"
+    },
+    {
+        "Title": "Ordentlig Radio",
+        "Country": "Norway",
+        "Tags": "norsk musikk på alle språk,norwegian music only",
+        "Favicon": "https://oradio.no/wp-content/uploads/2021/05/a9c653_deb7c428024741e0b9a14356393f1b2e_mv2.png",
+        "Language": "no",
+        "Homepage": "https://oradio.no/",
+        "Source1": "https://stream.oradio.no/oradio_hq"
+    },
+    {
+        "Title": "P10 Country (AAC HQ)",
+        "Country": "Norway",
+        "Tags": "p4,country",
+        "Favicon": "https://ddjh0q34m0xak.cloudfront.net/mmo/ncl/547b5770-dc41-4be3-8d30-583e636a9c18.png?w=600&ar=1x1",
+        "Language": "NO",
+        "Region": "NO-34",
+        "Homepage": "https://www.lydenavnorge.no/p10",
+        "Latitude": 61.120930879735546,
+        "Longitude": 10.462401226998631,
+        "Source1": "https://p10.p4groupaudio.com/P10_AH"
+    },
+    {
+        "Title": "P11 Dance (AAC HQ)",
+        "Country": "Norway",
+        "Tags": "p4,dance",
+        "Favicon": "https://ddjh0q34m0xak.cloudfront.net/mmo/ncl/5ef8a33b-f086-4755-9dd1-b9bc5820c8db.png?w=600&ar=1x1",
+        "Language": "NO",
+        "Region": "NO-34",
+        "Homepage": "https://www.p11dance.no/",
+        "Latitude": 61.120930879735546,
+        "Longitude": 10.462401226998631,
+        "Source1": "https://p11.p4groupaudio.com/P11_AH"
+    },
+    {
+        "Title": "P11 Dance (MP3 128k)",
+        "Country": "Norway",
+        "Tags": "p4,dance",
+        "Favicon": "https://ddjh0q34m0xak.cloudfront.net/mmo/ncl/5ef8a33b-f086-4755-9dd1-b9bc5820c8db.png?w=600&ar=1x1",
+        "Language": "NO",
+        "Region": "NO-34",
+        "Homepage": "https://www.p11dance.no/",
+        "Latitude": 61.120930879735546,
+        "Longitude": 10.462401226998631,
+        "Source1": "https://p11.p4groupaudio.com/P11_MM"
+    },
+    {
+        "Title": "P11 Dance (MP3 192k)",
+        "Country": "Norway",
+        "Tags": "p4,dance",
+        "Favicon": "https://ddjh0q34m0xak.cloudfront.net/mmo/ncl/5ef8a33b-f086-4755-9dd1-b9bc5820c8db.png?w=600&ar=1x1",
+        "Language": "NO",
+        "Region": "NO-34",
+        "Homepage": "https://www.p11dance.no/",
+        "Latitude": 61.120930879735546,
+        "Longitude": 10.462401226998631,
+        "Source1": "https://p11.p4groupaudio.com/P11_MH"
+    },
+    {
+        "Title": "P12 Hitmix (AAC HQ)",
+        "Country": "Norway",
+        "Tags": "p4,hits,pop,top 40",
+        "Favicon": "https://ddjh0q34m0xak.cloudfront.net/mmo/ncl/95c6448b-5cb4-4403-baca-686c22ba0c60.jpg?w=600&ar=1x1",
+        "Language": "NO",
+        "Region": "NO-34",
+        "Homepage": "https://www.p12hitmix.no/",
+        "Latitude": 61.120930879735546,
+        "Longitude": 10.462401226998631,
+        "Source1": "https://nrj.p4groupaudio.com/NRJ_AH"
+    },
+    {
+        "Title": "P12 Hitmix (MP3 128k)",
+        "Country": "Norway",
+        "Tags": "p4,hits,pop,top 40",
+        "Favicon": "https://ddjh0q34m0xak.cloudfront.net/mmo/ncl/95c6448b-5cb4-4403-baca-686c22ba0c60.jpg?w=600&ar=1x1",
+        "Language": "NO",
+        "Region": "NO-34",
+        "Homepage": "https://www.p12hitmix.no/",
+        "Latitude": 61.120930879735546,
+        "Longitude": 10.462401226998631,
+        "Source1": "https://nrj.p4groupaudio.com/NRJ_MM"
+    },
+    {
+        "Title": "P24-7 JuleRadioen",
+        "Country": "Norway",
+        "Tags": "jul",
+        "Favicon": "https://static.mytuner.mobi/media/tvos_radios/4V6wgYEewX.png",
+        "Language": "no",
+        "Homepage": "https://www.radio-norge.org/julerradioen",
+        "Source1": "https://live-bauerno.sharp-stream.com/station17_no_mp3"
+    },
+    {
+        "Title": "P24-7 Kos",
+        "Country": "Norway",
+        "Tags": "pop music",
+        "Favicon": "https://radioplay.no/tesla/static/favicons/radioplay-no/apple-touch-icon.png",
+        "Homepage": "https://radioplay.no/p24-7kos/",
+        "Source1": "https://live-bauerno.sharp-stream.com/p247kos_no_hq?direct=true"
+    },
+    {
+        "Title": "P24-7 Mix",
+        "Country": "Norway",
+        "Language": "no",
+        "Homepage": "http://p247mix.no/",
+        "Source1": "https://live-bauerno.sharp-stream.com/p247mix_no_mp3"
+    },
+    {
+        "Title": "P4 Norge (AAC HQ)",
+        "Country": "Norway",
+        "Tags": "p4,hits,music,pop,news",
+        "Favicon": "https://ddjh0q34m0xak.cloudfront.net/mmo/ncl/6e2f9c96-a018-424a-b3bf-7be5252d806c.png?w=600&ar=1x1",
+        "Language": "NO",
+        "Region": "NO-34",
+        "Homepage": "https://www.p4.no/",
+        "Latitude": 61.120930879735546,
+        "Longitude": 10.462401226998631,
+        "Source1": "https://p4.p4groupaudio.com/P04_AH"
+    },
+    {
+        "Title": "P4 Norge (MP3 128k)",
+        "Country": "Norway",
+        "Tags": "p4,hits,music,pop,news",
+        "Favicon": "https://ddjh0q34m0xak.cloudfront.net/mmo/ncl/6e2f9c96-a018-424a-b3bf-7be5252d806c.png?w=600&ar=1x1",
+        "Language": "NO",
+        "Region": "NO-34",
+        "Homepage": "https://www.p4.no/",
+        "Latitude": 61.120930879735546,
+        "Longitude": 10.462401226998631,
+        "Source1": "https://p4.p4groupaudio.com/P04_MM"
+    },
+    {
+        "Title": "P4 – Lyden av Norge",
+        "Country": "Norway",
+        "Language": "no",
+        "Homepage": "https://www.lydenavnorge.no/",
+        "Latitude": 59.83964047600903,
+        "Longitude": 10.744628906250002,
+        "Source1": "https://p4.p4groupaudio.com/P04_MH"
+    },
+    {
+        "Title": "P4 – Lyden av Norge",
+        "Country": "Norway",
+        "Favicon": "https://www.p4.no/favicon.ic",
+        "Language": "no",
+        "Homepage": "https://www.p4.no/",
+        "Latitude": 59.87532735624847,
+        "Longitude": 10.777587890625002,
+        "Source1": "https://p4.p4groupaudio.com/P04_MH"
+    },
+    {
+        "Title": "P5 Hits (MP3 128k)",
+        "Country": "Norway",
+        "Tags": "p4,hits,pop",
+        "Favicon": "https://ddjh0q34m0xak.cloudfront.net/mmo/ncl/996f007d-9d5a-4b56-9d3b-ac0d6724599d.png?w=600&ar=1x1",
+        "Language": "NO",
+        "Region": "NO-34",
+        "Homepage": "https://www.p5.no/",
+        "Latitude": 61.120930879735546,
+        "Longitude": 10.462401226998631,
+        "Source1": "https://p5.p4groupaudio.com/P05_MM"
+    },
+    {
+        "Title": "P5 Nonstop Hits (AAC HQ)",
+        "Country": "Norway",
+        "Tags": "p4,hits,pop",
+        "Favicon": "https://ddjh0q34m0xak.cloudfront.net/mmo/ncl/488dff43-6567-45ec-bd55-1813ccf861a4.png?w=600&ar=1x1",
+        "Language": "NO",
+        "Region": "NO-34",
+        "Homepage": "https://www.lydenavnorge.no/p5-nonstop-hits",
+        "Latitude": 61.120930879735546,
+        "Longitude": 10.462401226998631,
+        "Source1": "https://p5n.p4groupaudio.com/P05AAH"
+    },
+    {
+        "Title": "P6 Rock (MP3 128k)",
+        "Country": "Norway",
+        "Tags": "p4,rock,classic rock",
+        "Favicon": "https://ddjh0q34m0xak.cloudfront.net/mmo/ncl/f906dad9-93e0-4bbe-a666-45cdf17fa031.png?w=600&ar=1x1",
+        "Language": "NO",
+        "Region": "NO-34",
+        "Homepage": "https://p6.no/",
+        "Latitude": 61.120930879735546,
+        "Longitude": 10.462401226998631,
+        "Source1": "https://p6.p4groupaudio.com/P06_MM"
+    },
+    {
+        "Title": "P7",
+        "Country": "Norway",
+        "Favicon": "https://radio.p7.no/static/uploads/browser_icon/192.1642070717.png",
+        "Homepage": "https://p7.no/",
+        "Source1": "https://radio.p7.no/listen/p7_kristen_riksradio/kristen_riksradio.xspf"
+    },
+    {
+        "Title": "P7 Klem (AAC HQ)",
+        "Country": "Norway",
+        "Tags": "p4,80s,90s,pop,christmas",
+        "Favicon": "https://ddjh0q34m0xak.cloudfront.net/mmo/ncl/637fa6b4-f0ea-415f-8d99-3ca4c2bab5fe.png?w=600&ar=1x1",
+        "Language": "NO",
+        "Region": "NO-34",
+        "Homepage": "https://www.p7klem.no/",
+        "Latitude": 61.120930879735546,
+        "Longitude": 10.462401226998631,
+        "Source1": "https://p7.p4groupaudio.com/P07_AH"
+    },
+    {
+        "Title": "P7 Kristen Pop",
+        "Country": "Norway",
+        "Tags": "contemporary christian music",
+        "Favicon": "https://static.wixstatic.com/media/102321_4c0f2be757ce4f8daab62fdf57ca5fcb%7emv2.png/v1/fill/w_180%2ch_180%2clg_1%2cusm_0.66_1.00_0.01/102321_4c0f2be757ce4f8daab62fdf57ca5fcb%7emv2.png",
+        "Language": "en,no",
+        "Homepage": "https://www.p7.no/p7-kristen-pop",
+        "Source1": "https://radio.p7.no/listen/p7_kristen_pop/kristen_pop.xspf"
+    },
+    {
+        "Title": "P8 Pop (MP3 128k)",
+        "Country": "Norway",
+        "Tags": "p4,80s,90s,classic hits,oldies",
+        "Favicon": "https://ddjh0q34m0xak.cloudfront.net/mmo/ncl/665b308b-626d-469f-859e-1e7430360c50.png?w=600&ar=1x1",
+        "Language": "NO",
+        "Region": "NO-34",
+        "Homepage": "https://www.p8pop.no/",
+        "Latitude": 61.120930879735546,
+        "Longitude": 10.462401226998631,
+        "Source1": "https://p8.p4groupaudio.com/P08_MM"
+    },
+    {
+        "Title": "P9 Retro (MP3 128k)",
+        "Country": "Norway",
+        "Tags": "p4,60s,70s,80s,retro",
+        "Favicon": "https://ddjh0q34m0xak.cloudfront.net/mmo/ncl/258ff588-4e23-49af-88e1-b0b2afedaa4a.png?w=600&ar=1x1",
+        "Language": "NO",
+        "Region": "NO-34",
+        "Homepage": "https://www.p9retro.no/",
+        "Latitude": 61.120930879735546,
+        "Longitude": 10.462401226998631,
+        "Source1": "https://p9.p4groupaudio.com/P09_MH"
+    },
+    {
+        "Title": "Radio 3 Bodø",
+        "Country": "Norway",
+        "Tags": "football commentary,local news,music",
+        "Favicon": "https://radio3bodo.no/radioplayer/assets/favicon.png",
+        "Language": "no",
+        "Homepage": "https://radio3bodo.no/",
+        "Latitude": 67.28292281718065,
+        "Longitude": 14.378440082073212,
+        "Source1": "https://stream.radio3.no/Radio3Bodo48?rp_source=1&=&&___cb=322377588283394"
+    },
+    {
+        "Title": "Radio 3,16 - hele Norges kristne radiokanal",
+        "Country": "Norway",
+        "Homepage": "https://www.radio316.no/",
+        "Latitude": 58.145899238209694,
+        "Longitude": 7.983627319335938,
+        "Source1": "https://streaming.radio.co/se326fb378/listen.m3u"
+    },
+    {
+        "Title": "Radio AI Norge",
+        "Country": "Norway",
+        "Favicon": "https://r.mobirisesite.com/2031852/assets/images/radio_ai_jukebox.png",
+        "Homepage": "https://radioai.mobirisesite.com/",
+        "Source1": "https://a13.asurahosting.com/public/radio_ai/playlist.pls"
+    },
+    {
+        "Title": "Radio Bardufoss",
+        "Country": "Norway",
+        "Homepage": "https://bardufoss.no/",
+        "Latitude": 69.05516125087631,
+        "Longitude": 18.53548049926758,
+        "Source1": "https://stream.bardufoss.no/radiobardufoss192"
+    },
+    {
+        "Title": "Radio Haugaland",
+        "Country": "Norway",
+        "Favicon": "https://radioh.no/wp-content/uploads/2026/04/radio-haugaland-logo-v2.png",
+        "Homepage": "https://radioh.no/",
+        "Source1": "http://radioip.no:443/flac"
+    },
+    {
+        "Title": "Radio Haugaland 96",
+        "Country": "Norway",
+        "Favicon": "https://radioh.no/wp-content/themes/radiohnew/webradio.png",
+        "Homepage": "https://radioh.no/",
+        "Source1": "https://stream.theradiohub.com/?server=radioip.no&port=443&type=mp3&mount=rh.mp3"
+    },
+    {
+        "Title": "Radio Kos",
+        "Country": "Norway",
+        "Favicon": "https://www.facebook.com/favicon.ico",
+        "Homepage": "https://www.facebook.com/radiokos",
+        "Source1": "https://lyd.radiokos.no/kos_lq"
+    },
+    {
+        "Title": "Radio Latin-Amerika",
+        "Country": "Norway",
+        "Tags": "chile,latin,latin pop,latinoamérica,musica latina,musica latinoamericana",
+        "Favicon": "https://radiolatinamerika.no/templates/yoo_showroom/favicon.ico",
+        "Language": "es",
+        "Homepage": "https://radiolatinamerika.no/",
+        "Latitude": 59.92044677135427,
+        "Longitude": 10.750908781385707,
+        "Source1": "https://stream.radiolatinamerika.no/latam_hq"
+    },
+    {
+        "Title": "Radio Lyngdal",
+        "Country": "Norway",
+        "Tags": "classic hits,hits,oldies,pop",
+        "Favicon": "http://radiolyngdal.no/img/icon_32x32.png",
+        "Language": "en",
+        "Homepage": "http://radiolyngdal.no/",
+        "Source1": "http://live.radiolyngdal.com/rly_mq"
+    },
+    {
+        "Title": "Radio Med Oslo",
+        "Country": "Norway",
+        "Tags": "retro",
+        "Favicon": "null",
+        "Homepage": "http://108.59.11.81:10107/stream",
+        "Source1": "http://108.59.11.81:10107/stream"
+    },
+    {
+        "Title": "Radio Metro Oslo",
+        "Country": "Norway",
+        "Tags": "classic hits,hits,local news,news,todays hits",
+        "Language": "no",
+        "Homepage": "https://radiometro.no/",
+        "Latitude": 59.91475044701125,
+        "Longitude": 10.73494613170624,
+        "Source1": "http://stream.oneplay.no/oslo128"
+    },
+    {
+        "Title": "Radio Metro Sørlandet",
+        "Country": "Norway",
+        "Tags": "pop",
+        "Favicon": "https://www.radio.net/images/broadcasts/ff/1e/10026/1/c300.png",
+        "Language": "no",
+        "Homepage": "https://radiometro.no/",
+        "Source1": "https://stream.oneplay.no/sorlandet128"
+    },
+    {
+        "Title": "Radio Nordkapp",
+        "Country": "Norway",
+        "Language": "no",
+        "Homepage": "http://www.radionordkapp.no/",
+        "Source1": "http://audio.visto.no/radionordkapp.ogg"
+    },
+    {
+        "Title": "Radio Norge",
+        "Country": "Norway",
+        "Favicon": "https://radioplay.no/tesla/static/favicons/radioplay-no/favicon.ico",
+        "Language": "no",
+        "Homepage": "https://radioplay.no/radio-norge/",
+        "Latitude": 59.911658001682795,
+        "Longitude": 10.749928951263428,
+        "Source1": "https://live-bauerno.sharp-stream.com/radionorge_no_mp3"
+    },
+    {
+        "Title": "Radio Norge",
+        "Country": "Norway",
+        "Favicon": "https://www.radionorge.no/favicon.ico",
+        "Homepage": "https://www.radionorge.no/",
+        "Latitude": 59.91033050273254,
+        "Longitude": 10.730895996093752,
+        "Source1": "https://live-bauerno.sharp-stream.com/radionorge_no_mp3"
+    },
+    {
+        "Title": "Radio Northern Star",
+        "Country": "Norway",
+        "Tags": "classic rock,norway,pop",
+        "Favicon": "https://www.northernstar.cc/favicon.ico",
+        "Language": "en,no",
+        "Homepage": "https://www.northernstar.cc/",
+        "Source1": "http://5866.cloudrad.io:8018/northernstar.mp3"
+    },
+    {
+        "Title": "Radio Nova",
+        "Country": "Norway",
+        "Favicon": "https://radionova.no/favicon.ico",
+        "Language": "no",
+        "Homepage": "https://radionova.no/",
+        "Source1": "http://stream.radionova.no/mp3"
+    },
+    {
+        "Title": "Radio Randsfjord",
+        "Country": "Norway",
+        "Homepage": "http://radiorandsfjord.no/",
+        "Source1": "http://stream.radiorandsfjord.no/randsfjord128.mp3"
+    },
+    {
+        "Title": "Radio Rock (NO)",
+        "Country": "Norway",
+        "Tags": "classic rock,pop rock,rock,hard rock,heavy metal",
+        "Favicon": "https://play-lh.googleusercontent.com/fYQvCLhcxO1HUgQ1KCryYUKqMe8Q0O5c5NKAByP_vFj7wchAV-RJh8oWrIKL4581kCA",
+        "Language": "NO",
+        "Region": "NO-03",
+        "Homepage": "https://radioplay.no/radio-rock/",
+        "Source1": "https://live-bauerno.sharp-stream.com/radiorock_no_mp3"
+    },
+    {
+        "Title": "Radio Rock Norway AAC",
+        "Country": "Norway",
+        "Tags": "hard rock,metal,rock",
+        "Favicon": "https://media.bauerradio.com/image/upload/c_crop,g_custom/v1765293609/brand_manager/stations/wuscfr7mqtvg4c6efbcf.jpg",
+        "Language": "no",
+        "Homepage": "https://radioplay.no/radio-rock",
+        "Source1": "https://live-bauerno.sharp-stream.com/radiorock_no_aac"
+    },
+    {
+        "Title": "Radio Rox",
+        "Country": "Norway",
+        "Favicon": "https://radiorox.no/wp-content/uploads/2017/09/rox-logo.png",
+        "Language": "no",
+        "Homepage": "https://radiorox.no/",
+        "Source1": "http://stream.radiometro.no/rox128"
+    },
+    {
+        "Title": "Radio Rox",
+        "Country": "Norway",
+        "Favicon": "https://dinlyd.no/wp-content/uploads/2025/06/Radio-Rox_300x300.png",
+        "Language": "no",
+        "Homepage": "https://dinlyd.no/radiorox/",
+        "Source1": "https://live-nors.sharp-stream.com/nors13.mp3"
+    },
+    {
+        "Title": "Radio Sotra",
+        "Country": "Norway",
+        "Language": "no",
+        "Homepage": "https://radiosotra.no/",
+        "Source1": "https://streaming.radiosotra.no:8443/radiosotra"
+    },
+    {
+        "Title": "Radio Tromsø Hits",
+        "Country": "Norway",
+        "Favicon": "https://www.rthits.no/bilder/radiotromsohits-logo516x332.png",
+        "Homepage": "https://radiotromso.no/",
+        "Source1": "https://stream.rthits.no/rthits192"
+    },
+    {
+        "Title": "Radio Tropoli",
+        "Country": "Norway",
+        "Homepage": "https://tropoli.roganett.com/",
+        "Latitude": 58.92467635532222,
+        "Longitude": 5.811767578125,
+        "Source1": "https://radio.roganett.com/listen/radio_tropoli/radio.mp3"
+    },
+    {
+        "Title": "RADIO Trøndelag",
+        "Country": "Norway",
+        "Tags": "entertainment,local music,local news,local radio,news,pop music",
+        "Favicon": "https://www.radiotrondelag.no/wp-content/uploads/2022/02/adaptive-icon.png",
+        "Language": "no",
+        "Homepage": "https://www.radiotrondelag.no/",
+        "Latitude": 63.428403139082626,
+        "Longitude": 10.426025390625002,
+        "Source1": "https://nettradio.radiotrondelag.no:8443/radio_trondelag"
+    },
+    {
+        "Title": "Radio Tønsberg",
+        "Country": "Norway",
+        "Language": "no",
+        "Homepage": "https://radiotonsberg.no/",
+        "Source1": "https://audio.jaerradiogruppen.no/tonsberg_hq"
+    },
+    {
+        "Title": "Radio Vinyl Oslo",
+        "Country": "Norway",
+        "Tags": "info",
+        "Favicon": "http://www.radioplay.no/tesla/static/favicons/radioplay-no/apple-touch-icon.png",
+        "Homepage": "http://www.radioplay.no/",
+        "Latitude": 59.937604933828034,
+        "Longitude": 10.735953301191332,
+        "Source1": "http://live-bauerno.sharp-stream.com/vinyl_no_mp3"
+    },
+    {
+        "Title": "Radio Ålesund",
+        "Country": "Norway",
+        "Favicon": "https://static.mytuner.mobi/media/radios-150px/G3wWG2hNpZ.png",
+        "Homepage": "https://radioaalesund.no/",
+        "Latitude": 62.47264403728397,
+        "Longitude": 6.154747009277345,
+        "Source1": "https://audio.radioaalesund.no/aalesund_mq"
+    },
+    {
+        "Title": "Radio-Topp 40",
+        "Country": "Norway",
+        "Favicon": "https://radioplay.no/tesla/static/favicons/radioplay-no/apple-touch-icon.png",
+        "Homepage": "https://radioplay.no/topp-40/om-topp-40/",
+        "Source1": "http://live-bauerno.sharp-stream.com/top40_no_aac"
+    },
+    {
+        "Title": "Radio102",
+        "Country": "Norway",
+        "Tags": "local,local music,local news,local radio,local talk",
+        "Language": "no",
+        "Homepage": "https://radio102.no/",
+        "Latitude": 59.40573323539249,
+        "Longitude": 5.2856018538659555,
+        "Source1": "https://stream.radio102.no/radio102_hq"
+    },
+    {
+        "Title": "radiolatinamerika",
+        "Country": "Norway",
+        "Tags": "latinamerican music,norway,spanish",
+        "Language": "es",
+        "Homepage": "https://radiolatinamerika.no/",
+        "Source1": "https://stream.radiolatinamerika.no/latam_hq"
+    },
+    {
+        "Title": "radiOrakel",
+        "Country": "Norway",
+        "Tags": "feminist,minority genders,progressive politics",
+        "Favicon": "https://radiorakel.no/wp-content/uploads/2024/10/logo-radiorakel-fm-99.3.png",
+        "Language": "no",
+        "Homepage": "https://radiorakel.no/",
+        "Source1": "https://stream.radiorakel.no/radiorakel_hq"
+    },
+    {
+        "Title": "radiOrakel FM 99.3",
+        "Country": "Norway",
+        "Favicon": "https://radiorakel.no/wp-content/uploads/2020/06/RoR_Logo_Transparent_compact-1.png",
+        "Homepage": "https://radiorakel.no/",
+        "Source1": "https://stream.radiorakel.no/fm993.mp3"
+    },
+    {
+        "Title": "Radiø Bø",
+        "Country": "Norway",
+        "Tags": "lofoten,lokalradio,nordland,vesterålen",
+        "Language": "no",
+        "Homepage": "https://radiobo.no/",
+        "Source1": "https://nettradio.radiobo.com/radiobo-high"
+    },
+    {
+        "Title": "Rock Radio Norway",
+        "Country": "Norway",
+        "Tags": "hard rock,metak",
+        "Homepage": "https://radioplay.no/radio-rock",
+        "Source1": "https://live-bauerno.sharp-stream.com/radiorock_no_mp3"
+    },
+    {
+        "Title": "RRA",
+        "Country": "Norway",
+        "Homepage": "http://rastaarena.no/",
+        "Source1": "http://remote.remoy.org:59913/rasta2"
+    },
+    {
+        "Title": "Scansat Radio (Scandinavian Satellite Radio)",
+        "Country": "Norway",
+        "Favicon": "https://www.scansat.no/favicon.ico",
+        "Language": "no",
+        "Homepage": "https://www.scansat.no/",
+        "Latitude": 58.94976142580665,
+        "Longitude": 5.696228742599488,
+        "Source1": "https://stream.rcast.net/67165"
+    },
+    {
+        "Title": "Sørlandsradioen",
+        "Country": "Norway",
+        "Favicon": "https://sorlandsradioen.no/wp-content/uploads/2024/09/sorlandsradioen-logo-279h.png",
+        "Language": "no",
+        "Homepage": "https://sorlandsradioen.no/",
+        "Source1": "https://nettradio.sorlandsradioen.no/sorlandsradioen_hq"
+    },
+    {
+        "Title": "The Beat",
+        "Country": "Norway",
+        "Homepage": "https://dinlyd.no/thebeat/",
+        "Latitude": 59.91277676028172,
+        "Longitude": 10.749328136444094,
+        "Source1": "https://live-nors.sharp-stream.com/nors17.mp3"
+    },
+    {
+        "Title": "Topp 40",
+        "Country": "Norway",
+        "Favicon": "https://radioplay.no/tesla/static/favicons/radioplay-no/apple-touch-icon.png",
+        "Homepage": "https://radioplay.no/topp-40/",
+        "Source1": "http://live-bauerno.sharp-stream.com/top40_no_mp3"
+    },
+    {
+        "Title": "Toten radio",
+        "Country": "Norway",
+        "Favicon": "https://www.radiototen.no/favicon.ico",
+        "Language": "no",
+        "Homepage": "https://www.radiototen.no/",
+        "Source1": "http://streamer.nextnet.no/radiototen-mp3"
+    },
+    {
+        "Title": "Trysilradioen",
+        "Country": "Norway",
+        "Homepage": "https://radioene.no/trysilradioen",
+        "Source1": "https://lyd.radioene.no/trysil.mp3"
+    },
+    {
+        "Title": "Tube Tamil FM Radio டியூப் தமிழ் எஃப்.எம் பண்பலை ரேடியோtube",
+        "Country": "Norway",
+        "Homepage": "https://tubetamil.fm/",
+        "Source1": "http://s2.voscast.com:12084/;stream1619441439791/1"
+    },
+    {
+        "Title": "Tune Tribe Radio",
+        "Country": "Norway",
+        "Tags": "24/7,ambient,deep house,electronic,jazz,live dj,soul",
+        "Favicon": "https://www.tunetriberadio.com/favicon.ico",
+        "Language": "en",
+        "Homepage": "https://www.tunetriberadio.com/",
+        "Source1": "https://tunetriberadio.com:8556/listen/tune_tribe_radio/radio.mp3",
+        "Source2": "https://tunetriberadio.com:8556/hls/tune_tribe_radio/live.m3u8"
+    },
+    {
+        "Title": "🎥 ues 🎬",
+        "Country": "Norway",
+        "Tags": "epic,movies,ost,soundtracks",
+        "Favicon": "https://pbs.twimg.com/media/Fn3VyiVWQAAqut9?format=png",
+        "Language": "no",
+        "Homepage": "https://www.radioguide.fm/internet-radio-norway/unleashing-epic-soundtrack",
+        "Latitude": 59.91216063048009,
+        "Longitude": 10.739086729008706,
+        "Source1": "https://listen.radionomy.com/unleashingepicsoundtracks"
+    }
+]

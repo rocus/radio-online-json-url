@@ -1,0 +1,749 @@
+[
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "Bolivia",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "AIQUILEÑA RADIO Y TELEVISIÓN",
+        "Country": "Bolivia",
+        "Tags": "cumbia,entretenimiento,folclor,music,nacional",
+        "Favicon": "https://aiquileradiotelevision.com/wp-content/uploads/2024/04/cropped-cropped-cropped-cropped-cropped-AIQUILEvA-TV-160x76.png",
+        "Language": "es",
+        "Homepage": "https://aiquileradiotelevision.com/",
+        "Source1": "http://radios.istbolivia.com:8014/;"
+    },
+    {
+        "Title": "Animax Radio",
+        "Country": "Bolivia",
+        "Tags": "dance,electro,pop",
+        "Favicon": "https://www.animaxradio.com/favicon-32x32.png",
+        "Language": "es",
+        "Homepage": "https://www.animaxradio.com/",
+        "Latitude": -22.086439886312743,
+        "Longitude": -65.59845328330995,
+        "Source1": "https://sc.host-live.com:8150/stream"
+    },
+    {
+        "Title": "ATB Radio",
+        "Country": "Bolivia",
+        "Tags": "noticias",
+        "Language": "es",
+        "Homepage": "https://www.atb.com.bo/atbradio/",
+        "Source1": "https://streamingenbolivia.com/8006/stream"
+    },
+    {
+        "Title": "Atlantida Radio Online",
+        "Country": "Bolivia",
+        "Homepage": "https://atlantidafm903.com/",
+        "Source1": "https://radio.atlantidafm903.com:8020/radio.mp3"
+    },
+    {
+        "Title": "Atlántida FM 903",
+        "Country": "Bolivia",
+        "Tags": "2000 la otra música,80s,90s",
+        "Favicon": "https://atlantidafm903.com/logo-atlantida.png",
+        "Language": "es",
+        "Homepage": "https://atlantidafm903.com/",
+        "Source1": "https://radio.atlantidafm903.com:8020/atlantida_radio.mp3"
+    },
+    {
+        "Title": "Big Radio Bolivia",
+        "Country": "Bolivia",
+        "Tags": "caporal,cueca,huayño,saya,taquirari",
+        "Language": "es,qu",
+        "Homepage": "https://www.bigradio.top/",
+        "Latitude": -17.78807337320219,
+        "Longitude": -63.181686401367195,
+        "Source1": "http://stream.zeno.fm/cb4zhgss538uv"
+    },
+    {
+        "Title": "Ciudad Radio 101.5 FM",
+        "Country": "Bolivia",
+        "Tags": "adult contemporary,classic hits,entretenimiento,hits,music,música en español e inglés,pop",
+        "Favicon": "https://ciudadradiofm.com/imagenes/radio-ciudad-montero.jpg",
+        "Language": "es",
+        "Homepage": "https://ciudadradiofm.com/",
+        "Source1": "https://emiteradio.com/proxy/monteroradio?mp=/stream"
+    },
+    {
+        "Title": "Classica FM",
+        "Country": "Bolivia",
+        "Favicon": "http://classicafm.com/v2/wp-content/uploads/2020/08/logopaginicio.png",
+        "Homepage": "http://classicafm.com/v2/",
+        "Source1": "http://classicafm.scbbs.net:8000/;?type=http&nocache=839969",
+        "Source2": "http://classicafm.scbbs.net:8000/;"
+    },
+    {
+        "Title": "Clásica 100.3 Cochabamba",
+        "Country": "Bolivia",
+        "Tags": "cochabamba,latin music",
+        "Language": "es",
+        "Homepage": "http://www.radioclasica100.com/",
+        "Source1": "http://radios.istbolivia.com:9976/;"
+    },
+    {
+        "Title": "Cristo Viene La Red",
+        "Country": "Bolivia",
+        "Tags": "bible,cristiana,evangelio,religious",
+        "Favicon": "https://static.mytuner.mobi/media/tvos_radios/kjxabnz92vvu.png",
+        "Language": "es",
+        "Homepage": "https://www.radios-bolivia.com/cristo-viene-la-red",
+        "Source1": "https://stream20.usastreams.com:7000/stream"
+    },
+    {
+        "Title": "Diana D 102.1 FM",
+        "Country": "Bolivia",
+        "Tags": "2000s,80s,90s,classic hits,classic rock,clásicos en español,latin music,latin pop,musica latina,musica popular,musica romantica,música en español e inglés,música latina,pop,pop en español,pop en español e inglés,rock,rock en español",
+        "Favicon": "https://cdn.onlineradiobox.com/img/l/3/120323.v2.png",
+        "Language": "en,es",
+        "Homepage": "https://dianadfm.com/",
+        "Latitude": -17.372396004421475,
+        "Longitude": -66.16687774658205,
+        "Source1": "https://cesarradio.realserver.es/listen/diana_d_/radio.mp3"
+    },
+    {
+        "Title": "El Derribador Radio",
+        "Country": "Bolivia",
+        "Tags": "fútbol,música,rock,the strongest",
+        "Language": "es",
+        "Homepage": "http://elderribadorradio.disweb.top/",
+        "Latitude": -16.499773400129055,
+        "Longitude": -68.12343657016756,
+        "Source1": "http://sc10.conectarhosting.com/proxy/derribadorradio/;"
+    },
+    {
+        "Title": "El Fin del Silencio",
+        "Country": "Bolivia",
+        "Tags": "hardcore,hiphop,metal,pop,punk,rap,rock",
+        "Homepage": "https://www.elfindelsilencio.com/",
+        "Latitude": -17.393819125471254,
+        "Longitude": -66.15692138671876,
+        "Source1": "https://servidor24-1.brlogic.com:7302/live"
+    },
+    {
+        "Title": "Emet 441",
+        "Country": "Bolivia",
+        "Favicon": "https://emet441.com/logo-emet441.png",
+        "Homepage": "https://emet441.com/",
+        "Source1": "https://radio.atlantidafm903.com:8010/emet441_radio.mp3"
+    },
+    {
+        "Title": "Eres Radio 98.5 FM",
+        "Country": "Bolivia",
+        "Tags": "80s,90s,baladas en español,ballads,classic hits,classic rock,clásicos en español,commentary,culture,interviews,latin music,latin pop,live show,música en español,música en español e inglés,música latina,pop,pop en español,pop en español e inglés,rock,rock en español,sports",
+        "Language": "en,es",
+        "Homepage": "https://eresradio.bo/",
+        "Latitude": -17.37626215950146,
+        "Longitude": -66.15777969360353,
+        "Source1": "https://sp5.servidorrprivado.com/8789/stream"
+    },
+    {
+        "Title": "esLatino Radio",
+        "Country": "Bolivia",
+        "Tags": "entretenimiento,farándula,música",
+        "Favicon": "https://graph.facebook.com/eslatinoradio/picture?width=200&height=200",
+        "Language": "es",
+        "Homepage": "https://eslatinoradio.com/",
+        "Latitude": -16.501326735693205,
+        "Longitude": -68.1332963705063,
+        "Source1": "https://spanel.gcomstreaming.com/8030/stream"
+    },
+    {
+        "Title": "Estelar Fm",
+        "Country": "Bolivia",
+        "Tags": "entretenimiento,fútbol,música,noticias,variedades",
+        "Favicon": "https://graph.facebook.com/RadioEstelar925/picture?type=large",
+        "Language": "es",
+        "Homepage": "https://estelarfm.com/",
+        "Latitude": -16.50985442853193,
+        "Longitude": -68.1258934736252,
+        "Source1": "https://a3.asurahosting.com:6080/radio.mp3"
+    },
+    {
+        "Title": "Exa FM",
+        "Country": "Bolivia",
+        "Tags": "93.3 fm,entretenimiento,español,estación,exa,exa fm,fm,juvenil,la estación exacta,la estación naranja,moi merino,mvs,mvs noticias,mvs radio,música en español e inglés,música pop,ponte exa,pop,pop en español e inglés,pop music,pop rock,radio",
+        "Favicon": "https://i.iheart.com/v3/re/new_assets/5f9883c7cde5eff19e6eabac",
+        "Language": "es",
+        "Homepage": "https://www.exafm.com/veracruz/",
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac"
+    },
+    {
+        "Title": "Fides La Paz",
+        "Country": "Bolivia",
+        "Tags": "noticias",
+        "Homepage": "https://radiofides.com/es/",
+        "Source1": "http://192.95.23.89:6358/stream"
+    },
+    {
+        "Title": "Fides Tarija",
+        "Country": "Bolivia",
+        "Tags": "entrevistas,noticias",
+        "Favicon": "null",
+        "Language": "es",
+        "Homepage": "https://online.radiofides.com/tarija.html",
+        "Source1": "https://usa14.fastcast4u.com/proxy/fidestarija?mp=/1"
+    },
+    {
+        "Title": "FM La Paz",
+        "Country": "Bolivia",
+        "Tags": "clásicos,noticias",
+        "Homepage": "https://fmlapaz.bo/en-vivo/",
+        "Latitude": -16.498566728053568,
+        "Longitude": -68.13390254974367,
+        "Source1": "https://spanel.gcomstreaming.com:7008/stream"
+    },
+    {
+        "Title": "Fm La Paz 96.7",
+        "Country": "Bolivia",
+        "Tags": "música,noticias",
+        "Language": "es",
+        "Homepage": "https://fmlapaz.bo/",
+        "Latitude": -16.539256138422637,
+        "Longitude": -68.07597756385805,
+        "Source1": "https://spanel.gcomstreaming.com/8018/stream"
+    },
+    {
+        "Title": "Hit 105.7 FM",
+        "Country": "Bolivia",
+        "Tags": "80s,90s,alternative,alternative / indie,baladas en español,clásicos en español,hip-hop,modern pop,música en español,música en español e inglés,música urbana,pop,pop en español e inglés,rnb,rock,rock en español,urban,urban contemporary",
+        "Language": "en,es",
+        "Homepage": "https://www.radiohitbolivia.com/",
+        "Latitude": -17.362139631155184,
+        "Longitude": -66.18138313293458,
+        "Source1": "https://stream-175.zeno.fm/u7ixfizasppvv?zs=hOeDNX_iSJaUUl90gnwQfQ"
+    },
+    {
+        "Title": "la patria",
+        "Country": "Bolivia",
+        "Favicon": "https://lapatria.bo/favicon.ico",
+        "Language": "es",
+        "Homepage": "https://lapatria.bo/radio/",
+        "Latitude": -16.522472589216935,
+        "Longitude": -68.18115234375001,
+        "Source1": "https://inliveserver.com:2000/stream/8136"
+    },
+    {
+        "Title": "Maritima fm",
+        "Country": "Bolivia",
+        "Tags": "local news,news",
+        "Language": "es",
+        "Homepage": "https://www.maritimafm.com/",
+        "Source1": "https://spanel.gcomstreaming.com/8004/stream"
+    },
+    {
+        "Title": "Melodía",
+        "Country": "Bolivia",
+        "Tags": "actualidad,entretenimiento,musica,variedades",
+        "Favicon": "https://graph.facebook.com/radiomelodia991/picture?type=large",
+        "Homepage": "https://radiomelodia.fm/",
+        "Latitude": -16.52741782139647,
+        "Longitude": -68.10707509517671,
+        "Source1": "https://stream.consultoradas.com/8244/stream"
+    },
+    {
+        "Title": "Quechua FM",
+        "Country": "Bolivia",
+        "Tags": "baladas en español,ballads,culture,entertainment,entretenimiento,folclore,folk music,folklore,latin music",
+        "Favicon": "https://img.webme.com/pic/q/quechuafm/FB_IMG_1656200719278.jpg",
+        "Language": "es,qu",
+        "Homepage": "https://quechuafm.es.tl/",
+        "Latitude": -17.393496559281857,
+        "Longitude": -66.17413043975831,
+        "Source1": "https://stream-174.zeno.fm/e78z1h3drd0uv?zs=ikWueaMmSDeduBx58DWGtQ"
+    },
+    {
+        "Title": "Radio \"Cumbia 90s\"",
+        "Country": "Bolivia",
+        "Tags": "cumbia",
+        "Homepage": "https://tropical90.emisora.info/",
+        "Source1": "https://emiteradio.com/proxy/cumbia90s?mp=/stream"
+    },
+    {
+        "Title": "RADIO 24 DE JULIO 97.1 FM VILLA MONTES - TRAIJA",
+        "Country": "Bolivia",
+        "Tags": "hits,latino,music,pop",
+        "Favicon": "https://zeno.fm/_ipx/_/https://images.zeno.fm/K4T08EedRAKq4nVUYZq0dHJSGv88dS-RiODufJeEth8/rs:fill:2048:512/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ1F5T2k5ekFrTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ1FxS2ZEdGdvTW9nRUVlbVZ1YncvbWljcm9zaXRlL2JhY2tncm91bmRfaW1hZ2UvP3U9MTc0NDIyNjc0MjAwMA.webp",
+        "Language": "es",
+        "Homepage": "https://zeno.fm/radio/24dejulio/",
+        "Source1": "https://stream.zeno.fm/tu8weq69fwzuv"
+    },
+    {
+        "Title": "Radio Acer",
+        "Country": "Bolivia",
+        "Tags": "variadas",
+        "Favicon": "https://radioacer.com/favicon.ico",
+        "Homepage": "https://radioacer.com/",
+        "Source1": "https://live.turadiotv.com/8004/stream"
+    },
+    {
+        "Title": "Radio Acer",
+        "Country": "Bolivia",
+        "Favicon": "https://www.facebook.com/RadioAcerOficial",
+        "Homepage": "https://www.radioacer.com/",
+        "Latitude": -18.05554407732049,
+        "Longitude": -64.12259459495546,
+        "Source1": "https://live.turadiotv.com/8004/stream"
+    },
+    {
+        "Title": "Radio Activa Guanay 105.4 Fm",
+        "Country": "Bolivia",
+        "Tags": "deportes,information,latino,música y noticias,noticias,salsa,social",
+        "Favicon": "https://image.winudf.com/v2/image1/Y29tLnRlY25pY29tcHVzZWJhc2VyaS5yYWRpb2FjdGl2YWd1YW5heV9zY3JlZW5fMF8xNzMwMjI3ODkwXzA0OQ/screen-0.webp?h=200&fakeurl=1&type=.webp",
+        "Language": "es",
+        "Homepage": "https://www.tiktok.com/@radio.activa.guan/",
+        "Source1": "https://sonic.dattassd.com:10902/stream"
+    },
+    {
+        "Title": "Radio Aymara",
+        "Country": "Bolivia",
+        "Tags": "cultura,música,noticias",
+        "Favicon": "https://www.radioaymara.com/wp-content/uploads/2021/01/cropped-AYMARA-270x270.png",
+        "Language": "ay,es",
+        "Homepage": "https://www.radioaymara.com/",
+        "Latitude": -16.479532606550592,
+        "Longitude": -68.22282850742342,
+        "Source1": "http://stream.zeno.fm/du0x9skxum0uv"
+    },
+    {
+        "Title": "radio centro cochabamba",
+        "Country": "Bolivia",
+        "Homepage": "https://grupocentro.com.bo/",
+        "Latitude": -17.392270841904956,
+        "Longitude": -66.1595392227173,
+        "Source1": "https://radio.yoemito.net/listen/centrofm/stream"
+    },
+    {
+        "Title": "Radio Chacaltaya",
+        "Country": "Bolivia",
+        "Favicon": "https://graph.facebook.com/chacaltaya93.7/picture?width=200&height=200",
+        "Homepage": "https://radiochacaltayafm.com.bo/",
+        "Source1": "https://cast6.asurahosting.com/proxy/irfradio/stream"
+    },
+    {
+        "Title": "Radio Ciudad",
+        "Country": "Bolivia",
+        "Tags": "latino,música,pop",
+        "Language": "es",
+        "Homepage": "https://ciudad91.net/",
+        "Source1": "http://streamingenbolivia.com/8002/stream"
+    },
+    {
+        "Title": "Radio Conquistador FM 99.1",
+        "Country": "Bolivia",
+        "Tags": "clasicos en inglés,musica,musica romantica",
+        "Favicon": "https://radioconquistadorsucre.com/img/fm.png",
+        "Language": "en",
+        "Homepage": "https://radioconquistadorsucre.com/",
+        "Latitude": -19.05066495807975,
+        "Longitude": -65.26645213365556,
+        "Source1": "http://sp2.servidorrprivado.com:6648/stream"
+    },
+    {
+        "Title": "Radio Constelación",
+        "Country": "Bolivia",
+        "Favicon": "https://www.radioconstelacionbolivia.com/wp-content/uploads/2023/06/ogo-1536x765.png",
+        "Language": "es",
+        "Homepage": "https://www.radioconstelacionbolivia.com/",
+        "Latitude": -16.499299167397574,
+        "Longitude": -68.13171386718751,
+        "Source1": "https://stream.zeno.fm/ks1tsgndvp8uv"
+    },
+    {
+        "Title": "Radio Cumbia 90s",
+        "Country": "Bolivia",
+        "Tags": "90s,bailable,cumbia,latino",
+        "Language": "es",
+        "Homepage": "https://cumbia90.emisora.info/",
+        "Latitude": -16.494838647988793,
+        "Longitude": -68.13890218734743,
+        "Source1": "https://emiteradio.com/proxy/cumbia90s?mp=/stream"
+    },
+    {
+        "Title": "Radio Disney - La Paz FM 102.7",
+        "Country": "Bolivia",
+        "Favicon": "https://ar.radiodisney.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FLogoPlayer.94eccc39.jpg&w=320&q=75",
+        "Homepage": "https://bo.radiodisney.com/",
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_BOL_SCAAC.aac?dist=web-radiodisney"
+    },
+    {
+        "Title": "Radio Estrella 93.1 FM",
+        "Country": "Bolivia",
+        "Tags": "2000s,70s,80s,90s,alternative rock,baladas en español,classic hits,classic rock,clásicos en español,entertainment,entretenimiento,latin music,latin pop,música en español,música en español e inglés,pop,pop en español e inglés,pop latino,pop rock,progressive rock,rock en español",
+        "Favicon": "https://static.mytuner.mobi/media/tvos_radios/4382ymgqkex8.png",
+        "Language": "en,es",
+        "Homepage": "https://www.facebook.com/RadioEstrella93",
+        "Latitude": -17.38612488372266,
+        "Longitude": -66.15421772003175,
+        "Source1": "https://cesarradio.realserver.es/listen/lne_93.1/radio.mp3"
+    },
+    {
+        "Title": "Radio Fides Cbba",
+        "Country": "Bolivia",
+        "Tags": "fides",
+        "Language": "es",
+        "Homepage": "http://online.radiofides.com/cochabamba.html",
+        "Source1": "http://149.56.175.167:5654/;"
+    },
+    {
+        "Title": "Radio Fides Cochabamba",
+        "Country": "Bolivia",
+        "Tags": "música,noticias",
+        "Favicon": "https://graph.facebook.com/radiofidescb/picture?width=200&height=200",
+        "Language": "es",
+        "Homepage": "http://online.radiofides.com/cochabamba.html",
+        "Latitude": -17.38367684957177,
+        "Longitude": -66.15844488143922,
+        "Source1": "https://usa14.fastcast4u.com/proxy/gfloresc?mp=/1"
+    },
+    {
+        "Title": "Radio Fides Cochabamba 94.9 FM",
+        "Country": "Bolivia",
+        "Tags": "clasicos,clásicos en español,folclore,información,information,local news,musica,música en español,música y noticias,noticias,noticias y comentarios",
+        "Favicon": "https://online.radiofides.com/Images/OnLine.png",
+        "Language": "es",
+        "Homepage": "https://online.radiofides.com/cochabamba.html",
+        "Latitude": -17.384134527532307,
+        "Longitude": -66.15810692310335,
+        "Source1": "http://usa14.fastcast4u.com:5654/stream"
+    },
+    {
+        "Title": "Radio Fides La Paz",
+        "Country": "Bolivia",
+        "Tags": "noticias",
+        "Language": "es",
+        "Homepage": "https://radiofides.com/es/",
+        "Source1": "http://192.95.23.89:6358/stream"
+    },
+    {
+        "Title": "Radio Fides Tarija",
+        "Country": "Bolivia",
+        "Tags": "spanish oldies,talk",
+        "Homepage": "https://online.radiofides.com/tarija.html",
+        "Latitude": -21.530840680711037,
+        "Longitude": -64.72720742225648,
+        "Source1": "https://usa14.fastcast4u.com/proxy/fidestarija?mp=/1"
+    },
+    {
+        "Title": "Radio Folklorica Uyuni",
+        "Country": "Bolivia",
+        "Tags": "bolivia,folklore,música",
+        "Language": "es",
+        "Homepage": "https://www.uyuni.org/",
+        "Latitude": -20.491860650687467,
+        "Longitude": -66.80236816406251,
+        "Source1": "https://emiteradio.com/proxy/uyuni?mp=/stream"
+    },
+    {
+        "Title": "RADIO FRONTERA FM 100.3 MHz",
+        "Country": "Bolivia",
+        "Favicon": "https://radiofronterayacuiba.com/imagenes/favicon.png",
+        "Homepage": "https://radiofronterayacuiba.com/",
+        "Source1": "https://stream.inliveserver.com:2020/8140/stream"
+    },
+    {
+        "Title": "Radio GAM Viacha",
+        "Country": "Bolivia",
+        "Tags": "entretenimiento,música,noticias",
+        "Favicon": "https://ibb.co/ksyWcQzg",
+        "Language": "es",
+        "Homepage": "https://www.radio-browser.info/add",
+        "Latitude": -16.65401715994479,
+        "Longitude": -68.30205559730531,
+        "Source1": "https://radio.viacha.gob.bo/radio-stream/"
+    },
+    {
+        "Title": "Radio GAM Viacha",
+        "Country": "Bolivia",
+        "Tags": "institucional,música,noticias",
+        "Favicon": "https://i.ibb.co/v6BKzZfx/logo-viacha.jpg",
+        "Language": "es",
+        "Homepage": "https://viacha.gob.bo/",
+        "Latitude": -16.653960626504713,
+        "Longitude": -68.30205023288728,
+        "Source1": "https://server1.fex.red/letanias/stream"
+    },
+    {
+        "Title": "Radio Gente",
+        "Country": "Bolivia",
+        "Tags": "talk & speech",
+        "Favicon": "https://fexred.com/player/gente/logo.png",
+        "Homepage": "https://radiogentebol.com/",
+        "Source1": "https://server1.fex.red:8366/stream"
+    },
+    {
+        "Title": "Radio Gigante Bolivia",
+        "Country": "Bolivia",
+        "Tags": "cumbia,folklore,música,nacional,tropical",
+        "Language": "es",
+        "Homepage": "https://radiogigantebolivia.com.bo/",
+        "Latitude": -16.502267989253124,
+        "Longitude": -68.13772201538087,
+        "Source1": "https://cloudstream2032.conectarhosting.com:7311/;"
+    },
+    {
+        "Title": "Radio Horizontes 93.1",
+        "Country": "Bolivia",
+        "Tags": "cultura,deportes,musica,noticias y comentarios,variedades",
+        "Favicon": "https://cdn-profiles.tunein.com/s303807/images/logod.jpg",
+        "Homepage": "https://www.horizontes.com.bo/",
+        "Latitude": -19.04339354324619,
+        "Longitude": -65.25286406278612,
+        "Source1": "https://ares.disfrutaenlared.com:9060/"
+    },
+    {
+        "Title": "Radio Kollasuyo FM",
+        "Country": "Bolivia",
+        "Homepage": "https://radiokollasuyo.bo/",
+        "Source1": "https://azura2.bitstreaming.net:8000/radio128.aac"
+    },
+    {
+        "Title": "RADIO MARIA BOLIVIA",
+        "Country": "Bolivia",
+        "Tags": "catholic,religious,talk",
+        "Homepage": "https://www.radiomaria.org.bo/",
+        "Source1": "http://dreamsiteradiocp4.com:8022/stream"
+    },
+    {
+        "Title": "Radio Mega Rurrenabaque",
+        "Country": "Bolivia",
+        "Favicon": "https://cp.rtvenvivo.com/panelradiotv/server/public/images/1729217634fondo.png",
+        "Homepage": "https://radiomegatv.com/",
+        "Source1": "https://live.turadiotv.com/8030/stream"
+    },
+    {
+        "Title": "Radio Monumental Bolivia",
+        "Country": "Bolivia",
+        "Tags": "deporte,música",
+        "Homepage": "https://www.radiomonumental.com.bo/index",
+        "Latitude": -16.497627781199135,
+        "Longitude": -68.12580227827313,
+        "Source1": "http://streaming2.locucionar.com:9149/stream"
+    },
+    {
+        "Title": "Radio Oldies - Red Uyuni",
+        "Country": "Bolivia",
+        "Tags": "clásicos,música,oldies,recuerdos",
+        "Favicon": "https://red.uyuni.org/wp-content/uploads/2023/04/oldies-logo.jpg",
+        "Language": "es",
+        "Homepage": "https://red.uyuni.org/station/radio-oldies/",
+        "Source1": "https://emiteradio.com/proxy/clasicosingles?mp=/stream"
+    },
+    {
+        "Title": "Radio Oueblo",
+        "Country": "Bolivia",
+        "Favicon": "https://i.ibb.co/N2W67qXv/pueblo26.png",
+        "Homepage": "https://rtvpueblo.blogspot.com/",
+        "Source1": "https://stream.zeno.fm/dinhdjwdjeltv"
+    },
+    {
+        "Title": "Radio Panamericana",
+        "Country": "Bolivia",
+        "Tags": "cultura,deportes,noticias,variedades",
+        "Favicon": "https://graph.facebook.com/NoticiasPanamericana/picture?width=200&height=200",
+        "Language": "es",
+        "Homepage": "https://www.panamericana.bo/",
+        "Latitude": -16.501373026958994,
+        "Longitude": -68.13352704048158,
+        "Source1": "http://stream.zeno.fm/pnwpbyfambruv"
+    },
+    {
+        "Title": "Radio Pop - Red Uyuni",
+        "Country": "Bolivia",
+        "Tags": "español,ingles,latino,música,pop",
+        "Favicon": "https://red.uyuni.org/wp-content/uploads/2023/04/pop_logo.jpg",
+        "Language": "es",
+        "Homepage": "https://red.uyuni.org/station/radio-pop-bolivia/",
+        "Source1": "https://emiteradio.com/proxy/boliviapop?mp=/stream"
+    },
+    {
+        "Title": "Radio Pueblo",
+        "Country": "Bolivia",
+        "Homepage": "https://rtvpueblo.blogspot.com/",
+        "Source1": "https://stream.zeno.fm/dinhdjwdjeltv"
+    },
+    {
+        "Title": "Radio Qhana FM98.5",
+        "Country": "Bolivia",
+        "Favicon": "https://qhana.com.bo/wp-content/uploads/2024/03/logo_nav.png",
+        "Language": "es",
+        "Homepage": "https://qhana.com.bo/",
+        "Latitude": -16.506676052107117,
+        "Longitude": -68.13282966613771,
+        "Source1": "https://cast6.asurahosting.com/proxy/radiost4/stream"
+    },
+    {
+        "Title": "Radio Ritmo 97.3 FM",
+        "Country": "Bolivia",
+        "Tags": "80s,90s,classic hits,classic rock,clásicos en español,culture,entertainment,entretenimiento,folclore,folklore,interviews,latin music,latin pop,música en español,música en español e inglés,news,podcast,pop,pop en español e inglés,rock,rock en español,sports",
+        "Favicon": "https://radioritmobolivia.com/wp-content/uploads/2019/01/1024x500.png",
+        "Language": "es",
+        "Homepage": "https://radioritmobolivia.com/",
+        "Latitude": -17.388712869986406,
+        "Longitude": -66.15400314331056,
+        "Source1": "https://azura1.bitstreaming.net/listen/radio_ritmo/radio.aac"
+    },
+    {
+        "Title": "Radio San Gabriel",
+        "Country": "Bolivia",
+        "Tags": "cultura,educación,noticias",
+        "Favicon": "https://www.radiosangabriel.org.bo/rsg/sites/default/files/favicon_1.ico",
+        "Language": "ay,es",
+        "Homepage": "https://www.radiosangabriel.org.bo/rsg/",
+        "Latitude": -16.525288698732084,
+        "Longitude": -68.20127427577974,
+        "Source1": "https://spanel.gcomstreaming.com:7004/;"
+    },
+    {
+        "Title": "Radio San Gabriel AM 620 KHz",
+        "Country": "Bolivia",
+        "Tags": "cultura,información,música",
+        "Favicon": "https://graph.facebook.com/radiosangabrieldebolivia/picture?width=200&height=200",
+        "Language": "ay,es",
+        "Homepage": "https://www.radiosangabriel.org.bo/",
+        "Latitude": -16.525339098464446,
+        "Longitude": -68.20143520832063,
+        "Source1": "https://spanel.gcomstreaming.com:7003/;"
+    },
+    {
+        "Title": "Radio San Rafael 92.5 FM",
+        "Country": "Bolivia",
+        "Tags": "ballads,cumbia,folkloric,local news,pop",
+        "Favicon": "https://radiosanrafael.com.bo/wp-content/uploads/2022/06/logo-san-rafael-simple.jpg",
+        "Language": "es,qu",
+        "Homepage": "https://radiosanrafael.com.bo/",
+        "Latitude": -17.40069914041662,
+        "Longitude": -66.16859436035158,
+        "Source1": "https://guri.tepuyserver.net:7098/stream"
+    },
+    {
+        "Title": "Radio Supermix",
+        "Country": "Bolivia",
+        "Tags": "información,musica",
+        "Favicon": "https://imgur.com/a/OI2hByQ",
+        "Homepage": "https://zeno.fm/radio/radio-supermixj/",
+        "Latitude": -14.44286160989788,
+        "Longitude": -67.56384412074505,
+        "Source1": "https://stream.zeno.fm/v93yq4bmpm0uv"
+    },
+    {
+        "Title": "Radio Wiracocha",
+        "Country": "Bolivia",
+        "Favicon": "https://images.app.goo.gl/HYF8eBmKqrDNNxap8",
+        "Homepage": "https://www.radio.wiracocha.bo/",
+        "Latitude": -15.898190044159008,
+        "Longitude": -67.0889461040497,
+        "Source1": "https://stream.zeno.fm/rtui1p0xscetv"
+    },
+    {
+        "Title": "Radio Éxito (Bolivia)",
+        "Country": "Bolivia",
+        "Favicon": "https://exitonoticias.com.bo/wp-content/uploads/2024/04/radio_exito.jpg",
+        "Language": "es",
+        "Homepage": "https://exitonoticias.com.bo/",
+        "Latitude": -16.661453978111748,
+        "Longitude": -68.09326171875001,
+        "Source1": "https://cast6.my-control-panel.com/proxy/radiostr/;"
+    },
+    {
+        "Title": "RadioSat FM - Bolivia",
+        "Country": "Bolivia",
+        "Favicon": "https://www.radiosatbolivia.com/wp-content/uploads/2025/01/cropped-cropped-Logo-Transparente-para-Web1-768x400.png",
+        "Homepage": "https://www.radiosatbolivia.com/",
+        "Source1": "https://mira.streamerr.co/listen/radiosatbolivia/radio.mp3"
+    },
+    {
+        "Title": "RadioSat FM - Bolivia",
+        "Country": "Bolivia",
+        "Tags": "variedad,world music",
+        "Favicon": "https://i.imgur.com/AbYNwYZ.jpeg",
+        "Language": "es",
+        "Homepage": "https://radiosatbolivia.com/",
+        "Latitude": -17.786035285003916,
+        "Longitude": -63.18048477172852,
+        "Source1": "https://mira.streamerr.co/listen/radiosatbolivia/radio.mp3"
+    },
+    {
+        "Title": "Red Uyuni: Radio Recuerdos",
+        "Country": "Bolivia",
+        "Tags": "latina,música,recuerdo",
+        "Language": "es",
+        "Homepage": "https://radiorecuerdo.uyuni.org/",
+        "Latitude": -20.468961172929443,
+        "Longitude": -66.8181610107422,
+        "Source1": "https://emiteradio.com/proxy/uyuni2?mp=/stream"
+    },
+    {
+        "Title": "RKC RADIO",
+        "Country": "Bolivia",
+        "Favicon": "https://kawsachuncoca.com/assets/img/logo.png",
+        "Homepage": "https://kawsachuncoca.com/radio",
+        "Source1": "https://sonic.dattassd.com/8198/stream"
+    },
+    {
+        "Title": "Stereo 97",
+        "Country": "Bolivia",
+        "Tags": "clásicos,english music",
+        "Favicon": "https://www.stereo97.fm/templates/rt_antares/custom/images/logo/Logo-transparente-website.png",
+        "Language": "es",
+        "Homepage": "https://www.stereo97.fm/",
+        "Latitude": -16.500021317577758,
+        "Longitude": -68.13423514366151,
+        "Source1": "https://stream.consultoradas.com:8340/stream"
+    },
+    {
+        "Title": "Stereo97",
+        "Country": "Bolivia",
+        "Tags": "alternativo,música,pop,rock",
+        "Favicon": "https://graph.facebook.com/Stereo97Bolivia/picture?type=large",
+        "Homepage": "https://stereo97.fm/",
+        "Latitude": -16.527484677527564,
+        "Longitude": -68.10698926448823,
+        "Source1": "https://stream.consultoradas.com/8340/stream"
+    },
+    {
+        "Title": "Sucremanta Tv",
+        "Country": "Bolivia",
+        "Tags": "entretenimiento,musica,noticias",
+        "Favicon": "https://sucremantatv.com/wp-content/uploads/2022/10/cropped-logo-Sucremanta-192x192.png",
+        "Homepage": "https://sucremantatv.com/",
+        "Source1": "https://stream.zeno.fm/gli54dgn5kwuv"
+    },
+    {
+        "Title": "Tuti internacional (cliza)",
+        "Country": "Bolivia",
+        "Tags": "latinoamérica,música en español,recuerdos",
+        "Favicon": "https://img.webme.com/pic/v/vavizacli/tuti.jpg",
+        "Homepage": "https://vavizacli.es.tl/RADIO-TUTI-EN-VIVO.htm",
+        "Latitude": -16.73090658973393,
+        "Longitude": -66.09375000000001,
+        "Source1": "https://stream.zeno.fm/nplf6hpufi5uv"
+    },
+    {
+        "Title": "ZetaxWorld Radio",
+        "Country": "Bolivia",
+        "Tags": "adult contemporary,jazz,pop rock,rock,soul",
+        "Favicon": "https://i.postimg.cc/mkfcGX9K/Radio-ZWlogo.jpg",
+        "Homepage": "https://radio.zetaxworld.xyz/",
+        "Latitude": -16.56848163537745,
+        "Longitude": -68.17977905273439,
+        "Source1": "https://radio.zetaxworld.xyz/stream.mp3"
+    },
+    {
+        "Title": "Zoy Milton",
+        "Country": "Bolivia",
+        "Homepage": "https://zoymilton.com/",
+        "Source1": "https://icepool.silvacast.com/GAYFM.mp3"
+    },
+    {
+        "Title": "ZoyTV RADIO",
+        "Country": "Bolivia",
+        "Favicon": "https://scontent.fvvi1-1.fna.fbcdn.net/v/t39.30808-6/326184832_6670007056347086_1873436069090927339_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=i7XApMS563kAX_fiRdV&_nc_ht=scontent.fvvi1-1.fna&oh=00_AfC9UUre585H1gamHEmuaJQnybTFc-WDjHYH0OZDhQgdoA&oe=6470D51A",
+        "Homepage": "http://zoy.tv/",
+        "Source1": "https://icepool.silvacast.com/GAYFM.mp3"
+    }
+]

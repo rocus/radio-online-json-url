@@ -1,0 +1,4528 @@
+[
+    {
+        "Title": ". Abdulbasit Abdulsamad",
+        "Country": "Switzerland",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": ". Al quran radio",
+        "Country": "Switzerland",
+        "Tags": "classical",
+        "Favicon": "https://i.pinimg.com/564x/3a/a1/a1/3aa1a107c9434ca52b42b2dd0ffc896f.jpg",
+        "Source1": "https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g"
+    },
+    {
+        "Title": "1.FM - A List 80s",
+        "Country": "Switzerland",
+        "Tags": "80s",
+        "Favicon": "https://i.imgur.com/vFiPaW4.png",
+        "Language": "en",
+        "Homepage": "http://www.1.fm/",
+        "Source1": "http://strm112.1.fm/back280s_mobile_mp3"
+    },
+    {
+        "Title": "1.FM - Absolute 70's Pop Radio",
+        "Country": "Switzerland",
+        "Tags": "70s",
+        "Language": "en",
+        "Homepage": "http://www.1.fm/",
+        "Source1": "http://strm112.1.fm/70s_mobile_mp3"
+    },
+    {
+        "Title": "1.FM - Absolute 90s Party Zone Radio",
+        "Country": "Switzerland",
+        "Tags": "90s,party",
+        "Language": "en",
+        "Homepage": "http://www.1.fm/",
+        "Source1": "http://strm112.1.fm/partyzone90s_mobile_mp3"
+    },
+    {
+        "Title": "1.FM - Absolute Country Hits Radio",
+        "Country": "Switzerland",
+        "Tags": "country",
+        "Language": "en",
+        "Homepage": "http://www.1.fm/",
+        "Source1": "http://strm112.1.fm/acountry_mobile_mp3",
+        "Source2": "https://strmreg.1.fm/acountry_mobile_mp3"
+    },
+    {
+        "Title": "1.FM - Absolute Pop Latino Radio",
+        "Country": "Switzerland",
+        "Tags": "latin,pop",
+        "Favicon": "http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg",
+        "Language": "en",
+        "Homepage": "http://www.1.fm/",
+        "Source1": "http://strm112.1.fm/latino_mobile_mp3"
+    },
+    {
+        "Title": "1.FM - Absolute TOP 40 Radio",
+        "Country": "Switzerland",
+        "Tags": "pop,top 40",
+        "Language": "en",
+        "Homepage": "http://www.1.fm/",
+        "Source1": "http://strm112.1.fm/top40_mobile_mp3"
+    },
+    {
+        "Title": "1.FM - Absolute Trance (Euro) Radio",
+        "Country": "Switzerland",
+        "Tags": "trance",
+        "Language": "en",
+        "Homepage": "http://www.1.fm/",
+        "Source1": "http://strm112.1.fm/trance_mobile_mp3"
+    },
+    {
+        "Title": "1.FM - Acappella Radio",
+        "Country": "Switzerland",
+        "Tags": "gospel",
+        "Language": "en",
+        "Homepage": "http://www.1.fm/",
+        "Source1": "http://strm112.1.fm/acpl_mobile_mp3"
+    },
+    {
+        "Title": "1.FM - Adore Jazz Radio",
+        "Country": "Switzerland",
+        "Tags": "1.fm jazz,jazz",
+        "Language": "en",
+        "Homepage": "http://www.1.fm/",
+        "Source1": "http://strm112.1.fm/ajazz_mobile_mp3"
+    },
+    {
+        "Title": "1.FM - Adult Urban Hits Choice Radio",
+        "Country": "Switzerland",
+        "Tags": "rnb,soul,urban adult contemporary",
+        "Language": "en",
+        "Homepage": "http://www.1.fm/",
+        "Source1": "http://strm112.1.fm/oldschool_mobile_mp3"
+    },
+    {
+        "Title": "1.FM - Afterbeat Electronica Radio",
+        "Country": "Switzerland",
+        "Tags": "chillout",
+        "Language": "en",
+        "Homepage": "http://www.1.fm/",
+        "Source1": "http://strm112.1.fm/electronica_mobile_mp3"
+    },
+    {
+        "Title": "1.FM - All Euro 80's Radio",
+        "Country": "Switzerland",
+        "Tags": "80s,european music",
+        "Language": "en",
+        "Homepage": "http://www.1.fm/",
+        "Source1": "http://strm112.1.fm/80s_90s_mobile_mp3"
+    },
+    {
+        "Title": "1.FM - All Times & Urban Gospel Radio",
+        "Country": "Switzerland",
+        "Tags": "gospel",
+        "Favicon": "http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg",
+        "Language": "en",
+        "Homepage": "http://www.1.fm/",
+        "Source1": "http://strm112.1.fm/gospel_mobile_mp3"
+    },
+    {
+        "Title": "1.FM - Alternative Rock X Hits Radio",
+        "Country": "Switzerland",
+        "Tags": "alternative rock",
+        "Language": "en",
+        "Homepage": "http://www.1.fm/",
+        "Source1": "http://strm112.1.fm/x_mobile_mp3"
+    },
+    {
+        "Title": "1.FM - Always-Christmas Radio",
+        "Country": "Switzerland",
+        "Tags": "christmas music",
+        "Language": "en",
+        "Homepage": "https://www.1.fm/",
+        "Source1": "http://strm112.1.fm/christmas_mobile_mp3"
+    },
+    {
+        "Title": "1.FM - Ambient Psychill",
+        "Country": "Switzerland",
+        "Tags": "downtempo,psychedelic chillout grooves,slow trance",
+        "Language": "en",
+        "Homepage": "http://www.1.fm/station/ambientpsy",
+        "Source1": "http://strm112.1.fm/ambientpsy_mobile_mp3"
+    },
+    {
+        "Title": "1.FM - America's Best Ballads Radio",
+        "Country": "Switzerland",
+        "Tags": "ballads",
+        "Language": "en",
+        "Homepage": "https://www.1.fm/",
+        "Source1": "http://strm112.1.fm/onelive_mobile_mp3"
+    },
+    {
+        "Title": "1.FM - Amsterdam Trance Radio",
+        "Country": "Switzerland",
+        "Tags": "trance",
+        "Language": "en",
+        "Homepage": "http://www.1.fm/",
+        "Source1": "http://strm112.1.fm/atr_mobile_mp3"
+    },
+    {
+        "Title": "1.FM - Back To The 50's & 60's Radio",
+        "Country": "Switzerland",
+        "Tags": "50s,60s",
+        "Language": "en",
+        "Homepage": "http://www.1.fm/",
+        "Source1": "http://strm112.1.fm/60s_70s_mobile_mp3"
+    },
+    {
+        "Title": "1.FM - Bay Smooth Jazz Radio",
+        "Country": "Switzerland",
+        "Tags": "smooth jazz",
+        "Language": "en",
+        "Homepage": "http://www.1.fm/",
+        "Source1": "http://strm112.1.fm/smoothjazz_mobile_mp3"
+    },
+    {
+        "Title": "1.FM - Blues Radio",
+        "Country": "Switzerland",
+        "Tags": "blues",
+        "Language": "en",
+        "Homepage": "https://www.1.fm/",
+        "Source1": "http://strm112.1.fm/blues_mobile_mp3"
+    },
+    {
+        "Title": "1.FM - BOM Psytrance Radio",
+        "Country": "Switzerland",
+        "Tags": "full-on,progressive psytrance,psytrance",
+        "Language": "en",
+        "Homepage": "http://www.1.fm/",
+        "Source1": "http://strm112.1.fm/psytrance_mobile_mp3"
+    },
+    {
+        "Title": "1.FM - Bombay Beats India Radio",
+        "Country": "Switzerland",
+        "Tags": "bollywood",
+        "Language": "en",
+        "Homepage": "http://www.1.fm/",
+        "Source1": "http://strm112.1.fm/bombaybeats_mobile_mp3"
+    },
+    {
+        "Title": "1.FM - Bossa Nova Hits",
+        "Country": "Switzerland",
+        "Tags": "latin",
+        "Language": "en",
+        "Homepage": "http://www.1.fm/station/bossanova",
+        "Source1": "http://strm112.1.fm/bossanova_mobile_mp3"
+    },
+    {
+        "Title": "1.FM - Cafe Radio",
+        "Country": "Switzerland",
+        "Tags": "latin,pop,world music",
+        "Language": "en",
+        "Homepage": "https://www.1.fm/",
+        "Source1": "http://strm112.1.fm/caferadio_mobile_mp3"
+    },
+    {
+        "Title": "1.fm - Calming Piano",
+        "Country": "Switzerland",
+        "Tags": "calm,classical piano,piano,relax,relaxing",
+        "Favicon": "https://radio.1cloud.fm/favicon/favicon.svg?v=2",
+        "Language": "en",
+        "Homepage": "https://radio.1cloud.fm/station/calmingpiano",
+        "Source1": "https://strm112.1.fm/gospel_mobile_mp3"
+    },
+    {
+        "Title": "1.FM - Chillout Lounge Radio",
+        "Country": "Switzerland",
+        "Homepage": "https://www.1.fm/",
+        "Source1": "http://strm112.1.fm/chilloutlounge_mobile_mp3"
+    },
+    {
+        "Title": "1.FM - Circuit Pride Radio",
+        "Country": "Switzerland",
+        "Tags": "gay,lgbt",
+        "Language": "en",
+        "Homepage": "http://www.1.fm/",
+        "Source1": "http://strm112.1.fm/circuitpride_mobile_mp3"
+    },
+    {
+        "Title": "1.FM - Classic Country Radio",
+        "Country": "Switzerland",
+        "Tags": "classic country",
+        "Language": "en",
+        "Homepage": "http://www.1.fm/",
+        "Source1": "http://strm112.1.fm/ccountry_mobile_mp3",
+        "Source2": "https://strmreg.1.fm/ccountry_mobile_mp3"
+    },
+    {
+        "Title": "1.FM - Classic Rock Replay Radio",
+        "Country": "Switzerland",
+        "Homepage": "http://www.1.fm/",
+        "Source1": "http://strm112.1.fm/crock_mobile_mp3"
+    },
+    {
+        "Title": "1.FM - Club 1 Radio",
+        "Country": "Switzerland",
+        "Tags": "electronica",
+        "Language": "en",
+        "Homepage": "http://www.1.fm/",
+        "Source1": "http://strm112.1.fm/club_mobile_mp3"
+    },
+    {
+        "Title": "1.FM - Costa Del Mar",
+        "Country": "Switzerland",
+        "Tags": "chillout",
+        "Language": "en",
+        "Homepage": "http://www.1.fm/",
+        "Source1": "http://strm112.1.fm/costadelmarchillout_mobile_mp3"
+    },
+    {
+        "Title": "1.FM - Country One Radio",
+        "Country": "Switzerland",
+        "Tags": "country",
+        "Language": "en",
+        "Homepage": "http://www.1.fm/",
+        "Source1": "http://strm112.1.fm/country_mobile_mp3",
+        "Source2": "https://strmreg.1.fm/country_mobile_mp3"
+    },
+    {
+        "Title": "1.FM - Dance One Radio",
+        "Country": "Switzerland",
+        "Tags": "electronica",
+        "Language": "en",
+        "Homepage": "http://www.1.fm/",
+        "Source1": "http://strm112.1.fm/dance_mobile_mp3"
+    },
+    {
+        "Title": "1.FM - Deep House Radio",
+        "Country": "Switzerland",
+        "Tags": "deep house,techno",
+        "Language": "en",
+        "Homepage": "http://www.1.fm/",
+        "Source1": "http://strm112.1.fm/deephouse_mobile_mp3"
+    },
+    {
+        "Title": "1.FM - Deep Techno & Deep House",
+        "Country": "Switzerland",
+        "Tags": "deep house,techno",
+        "Language": "en",
+        "Homepage": "http://www.1.fm/",
+        "Latitude": 47.195649944578136,
+        "Longitude": 8.525047302246096,
+        "Source1": "http://strm112.1.fm/deeptech_mobile_mp3"
+    },
+    {
+        "Title": "1.FM - Destination: SPA Radio",
+        "Country": "Switzerland",
+        "Tags": "new age,relax",
+        "Language": "en",
+        "Homepage": "http://www.1.fm/",
+        "Source1": "http://strm112.1.fm/spa_mobile_mp3"
+    },
+    {
+        "Title": "1.FM - Disco Ball 70's-80's Radio",
+        "Country": "Switzerland",
+        "Tags": "70s,80s,disco",
+        "Language": "en",
+        "Homepage": "http://www.1.fm/",
+        "Source1": "http://strm112.1.fm/disco_mobile_mp3"
+    },
+    {
+        "Title": "1.FM - Dubstep Forward Radio",
+        "Country": "Switzerland",
+        "Tags": "dubstep",
+        "Language": "en",
+        "Homepage": "http://www.1.fm/",
+        "Source1": "http://strm112.1.fm/dubstep_mobile_mp3"
+    },
+    {
+        "Title": "1.FM - Eternal Praise & Worship Radio",
+        "Country": "Switzerland",
+        "Tags": "christian contemporary",
+        "Language": "en",
+        "Homepage": "http://www.1.fm/",
+        "Source1": "http://strm112.1.fm/praise_mobile_mp3"
+    },
+    {
+        "Title": "1.FM - Exitos del Ayer Radio",
+        "Country": "Switzerland",
+        "Tags": "spanish",
+        "Language": "en",
+        "Homepage": "http://www.1.fm/",
+        "Source1": "http://strm112.1.fm/spanisholdies_mobile_mp3"
+    },
+    {
+        "Title": "1.FM - Full Throttle Phonk",
+        "Country": "Switzerland",
+        "Tags": "brazilian,drift,electronic,phonk",
+        "Language": "en",
+        "Homepage": "https://www.1.fm/",
+        "Source1": "http://strm112.1.fm/fullthrottlephonk_mobile_mp3"
+    },
+    {
+        "Title": "1.FM - Funky Express",
+        "Country": "Switzerland",
+        "Tags": "funk,groove,r&b,soul",
+        "Language": "en",
+        "Homepage": "https://www.1.fm/",
+        "Source1": "http://strm112.1.fm/funkyexpress_mobile_mp3"
+    },
+    {
+        "Title": "1.FM - Funky Express Radio",
+        "Country": "Switzerland",
+        "Tags": "funk",
+        "Language": "en",
+        "Homepage": "http://www.1.fm/",
+        "Source1": "http://185.33.22.15:11121/"
+    },
+    {
+        "Title": "1.FM - Gorilla FM Radio",
+        "Country": "Switzerland",
+        "Tags": "alternative rock,indie rock,progressive rock",
+        "Language": "en",
+        "Homepage": "http://www.1.fm/",
+        "Source1": "http://strm112.1.fm/gorillafm_mobile_mp3"
+    },
+    {
+        "Title": "1.FM - High Voltage Radio",
+        "Country": "Switzerland",
+        "Tags": "alternative rock,metal,rock",
+        "Language": "en",
+        "Homepage": "http://www.1.fm/",
+        "Source1": "http://strm112.1.fm/highvoltage_mobile_mp3"
+    },
+    {
+        "Title": "1.FM - Ibiza Chill Tropical",
+        "Country": "Switzerland",
+        "Tags": "1.fm,chillout,ibiza,tropical,tropical music",
+        "Language": "de,en",
+        "Homepage": "https://www.1.fm/",
+        "Source1": "http://strm112.1.fm/ibizachill_mobile_mp3?aw_0_req.gdpr=true"
+    },
+    {
+        "Title": "1.FM - Italia On Air Radio",
+        "Country": "Switzerland",
+        "Tags": "italian pop",
+        "Language": "en",
+        "Homepage": "http://www.1.fm/",
+        "Source1": "http://strm112.1.fm/italiaonair_mobile_mp3"
+    },
+    {
+        "Title": "1.FM - Jamz Radio",
+        "Country": "Switzerland",
+        "Tags": "hiphop,rnb,soul",
+        "Language": "en",
+        "Homepage": "http://www.1.fm/",
+        "Source1": "http://strm112.1.fm/jamz_mobile_mp3"
+    },
+    {
+        "Title": "1.FM - Kids FM Radio",
+        "Country": "Switzerland",
+        "Tags": "kids",
+        "Language": "en",
+        "Homepage": "http://www.1.fm/",
+        "Source1": "http://strm112.1.fm/kidsfm_mobile_mp3"
+    },
+    {
+        "Title": "1.FM - Love Classics Radio",
+        "Country": "Switzerland",
+        "Tags": "love songs",
+        "Language": "en",
+        "Homepage": "http://www.1.fm/",
+        "Source1": "http://strm112.1.fm/loveclassics_mobile_mp3",
+        "Source2": "https://strmreg.1.fm/loveclassics_mobile_mp3"
+    },
+    {
+        "Title": "1.FM - Magic 80 Radio",
+        "Country": "Switzerland",
+        "Tags": "80s",
+        "Language": "en",
+        "Homepage": "http://www.1.fm/",
+        "Source1": "http://strm112.1.fm/magic80_mobile_mp3"
+    },
+    {
+        "Title": "1.FM - Millennial Nostalgia",
+        "Country": "Switzerland",
+        "Tags": "2000s,electronic,pop,rock",
+        "Language": "en",
+        "Homepage": "https://www.1.fm/",
+        "Source1": "http://strm112.1.fm/eurovision_mobile_mp3"
+    },
+    {
+        "Title": "1.FM - Movie Soundtrack",
+        "Country": "Switzerland",
+        "Tags": "movie soundtracks",
+        "Language": "en",
+        "Homepage": "http://www.1.fm/",
+        "Source1": "http://strm112.1.fm/moviesoundtracks_mobile_mp3"
+    },
+    {
+        "Title": "1.FM - MPB Hits Radio",
+        "Country": "Switzerland",
+        "Tags": "brazilian music",
+        "Language": "en",
+        "Homepage": "http://www.1.fm/",
+        "Source1": "http://strm112.1.fm/mpb_mobile_mp3"
+    },
+    {
+        "Title": "1.FM - Otto's Baroque Music Radio",
+        "Country": "Switzerland",
+        "Tags": "baroque,classical",
+        "Language": "en",
+        "Homepage": "https://www.1.fm/",
+        "Source1": "http://strm112.1.fm/baroque_mobile_mp3"
+    },
+    {
+        "Title": "1.FM - Otto's Opera House",
+        "Country": "Switzerland",
+        "Tags": "opera",
+        "Language": "en",
+        "Homepage": "https://www.1.fm/stations",
+        "Source1": "http://strm112.1.fm/opera_mobile_mp3"
+    },
+    {
+        "Title": "1.FM - Otto's Opera House Music Radio",
+        "Country": "Switzerland",
+        "Tags": "opera",
+        "Language": "en",
+        "Homepage": "http://www.1.fm/",
+        "Source1": "http://strm112.1.fm/opera_mobile_mp3"
+    },
+    {
+        "Title": "1.FM - Radio Gaia",
+        "Country": "Switzerland",
+        "Tags": "world music",
+        "Language": "en",
+        "Homepage": "http://www.1.fm/",
+        "Source1": "http://strm112.1.fm/radiogaia_mobile_mp3"
+    },
+    {
+        "Title": "1.FM - Rap Pregame",
+        "Country": "Switzerland",
+        "Tags": "electronic,hip hop,party,rap",
+        "Language": "en",
+        "Homepage": "https://www.1.fm/",
+        "Source1": "http://strm112.1.fm/edm_mobile_mp3"
+    },
+    {
+        "Title": "1.FM - Reggaeton Heat",
+        "Country": "Switzerland",
+        "Tags": "caribbean,hip hop,latin,reggaeton",
+        "Language": "en",
+        "Homepage": "https://www.1.fm/",
+        "Source1": "http://strm112.1.fm/reggaeton_mobile_mp3"
+    },
+    {
+        "Title": "1.FM - ReggaeTrade Radio",
+        "Country": "Switzerland",
+        "Tags": "reggae",
+        "Language": "en",
+        "Homepage": "http://www.1.fm/",
+        "Source1": "http://strm112.1.fm/reggae_mobile_mp3"
+    },
+    {
+        "Title": "1.FM - Rock Classics Radio",
+        "Country": "Switzerland",
+        "Tags": "classic rock",
+        "Language": "en",
+        "Homepage": "http://www.1.fm/",
+        "Source1": "http://strm112.1.fm/rockclassics_mobile_mp3"
+    },
+    {
+        "Title": "1.FM - Samba Hits Brazil Radio",
+        "Country": "Switzerland",
+        "Tags": "samba",
+        "Language": "en",
+        "Homepage": "http://www.1.fm/",
+        "Source1": "http://strm112.1.fm/samba_mobile_mp3"
+    },
+    {
+        "Title": "1.FM - Samba Rock Radio",
+        "Country": "Switzerland",
+        "Tags": "samba",
+        "Language": "en",
+        "Homepage": "http://www.1.fm/",
+        "Source1": "http://strm112.1.fm/sambarock_mobile_mp3"
+    },
+    {
+        "Title": "1.FM - Sax4Love",
+        "Country": "Switzerland",
+        "Tags": "jazz",
+        "Language": "en",
+        "Homepage": "http://www.1.fm/",
+        "Source1": "http://strm112.1.fm/sax4ever_mobile_mp3"
+    },
+    {
+        "Title": "1.FM - Sertaneja Hits Radio",
+        "Country": "Switzerland",
+        "Tags": "brazilian music",
+        "Language": "en",
+        "Homepage": "http://www.1.fm/",
+        "Source1": "http://strm112.1.fm/sertanejo_mobile_mp3"
+    },
+    {
+        "Title": "1.FM - Slow Jamz Radio",
+        "Country": "Switzerland",
+        "Tags": "rnb,soul",
+        "Language": "en",
+        "Homepage": "http://www.1.fm/",
+        "Source1": "http://strm112.1.fm/slowjamz_mobile_mp3"
+    },
+    {
+        "Title": "1.FM - Sunshine",
+        "Country": "Switzerland",
+        "Source1": "https://strm112.1.fm/allmixedup_mobile_mp3?"
+    },
+    {
+        "Title": "1.FM - Top Fiesta Radio",
+        "Country": "Switzerland",
+        "Tags": "latin music",
+        "Language": "en",
+        "Homepage": "http://www.1.fm/",
+        "Source1": "http://strm112.1.fm/spanishparty_mobile_mp3"
+    },
+    {
+        "Title": "1.FM - Total Hits En Español Radio",
+        "Country": "Switzerland",
+        "Tags": "spanish",
+        "Language": "en",
+        "Homepage": "http://www.1.fm/",
+        "Source1": "http://strm112.1.fm/spanishtophits_mobile_mp3"
+    },
+    {
+        "Title": "1.FM 90s Alternative Radio",
+        "Country": "Switzerland",
+        "Tags": "90s,alternative,alternative rock,rock",
+        "Favicon": "https://i.postimg.cc/qMqdk92Q/Party-Zone-90s.png",
+        "Language": "en",
+        "Homepage": "https://www.1.fm/station/partyzone90s",
+        "Source1": "http://strm112.1.fm/partyzone90s_mobile_mp3"
+    },
+    {
+        "Title": "1.FM Absolute 90's Radio",
+        "Country": "Switzerland",
+        "Tags": "90s,pop",
+        "Favicon": "https://www.1.fm/images/favicon.ico",
+        "Language": "en",
+        "Homepage": "https://www.1.fm/",
+        "Latitude": 47.38103298763893,
+        "Longitude": 8.558349609375002,
+        "Source1": "https://strm112.1.fm/90s_mobile_mp3"
+    },
+    {
+        "Title": "1.fm Back To The 50's",
+        "Country": "Switzerland",
+        "Source1": "https://strm112.1.fm/60s_70s_mobile_mp3?"
+    },
+    {
+        "Title": "1.FM Beloved Ballads",
+        "Country": "Switzerland",
+        "Source1": "https://strm112.1.fm/onelive_mobile_mp3?"
+    },
+    {
+        "Title": "1.fm classic rock",
+        "Country": "Switzerland",
+        "Tags": "classic rock",
+        "Homepage": "https://www.1.fm/station/crock",
+        "Source1": "https://strm112.1.fm/crock_mobile_mp3"
+    },
+    {
+        "Title": "1.FM Essential Classical",
+        "Country": "Switzerland",
+        "Tags": "classic hits",
+        "Language": "en",
+        "Homepage": "https://www.1.fm/station/polskafm",
+        "Source1": "http://strm112.1.fm/polskafm_mobile_mp3"
+    },
+    {
+        "Title": "1.FM Essential Classical Polska FM",
+        "Country": "Switzerland",
+        "Tags": "classical",
+        "Language": "en",
+        "Homepage": "https://www.1.fm/station/polskafm",
+        "Source1": "http://strm112.1.fm/polskafm_mobile_mp3"
+    },
+    {
+        "Title": "1.FM Hot Country Hits Radio",
+        "Country": "Switzerland",
+        "Tags": "country,hot,hot country,todays hits",
+        "Favicon": "https://www.radio.net/images/broadcasts/f6/95/8431/2/c300.png",
+        "Homepage": "https://www.1.fm/station/acountry",
+        "Source1": "http://strm112.1.fm/acountry_mobile_mp3"
+    },
+    {
+        "Title": "1.fm Movie Soundtrack Hits",
+        "Country": "Switzerland",
+        "Source1": "https://strm112.1.fm/moviesoundtracks_mobile_mp3?"
+    },
+    {
+        "Title": "1.fm Otto's Baroque music",
+        "Country": "Switzerland",
+        "Tags": "baroque,classical baroque,classical music",
+        "Favicon": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/6a/58/1366/2/c175.png",
+        "Language": "en",
+        "Homepage": "https://www.1.fm/station/baroque",
+        "Source1": "http://strm112.1.fm/baroque_mobile_aac"
+    },
+    {
+        "Title": "1.fm Otto's Classical music",
+        "Country": "Switzerland",
+        "Homepage": "https://www.1.fm/station/classical",
+        "Source1": "https://strm112.1.fm/classical_mobile_aac"
+    },
+    {
+        "Title": "1.fm Otto's Classical music (http/mp3)",
+        "Country": "Switzerland",
+        "Homepage": "https://www.1.fm/station/classical",
+        "Source1": "http://strm112.1.fm/classical_mobile_mp3"
+    },
+    {
+        "Title": "1.FM Reggae",
+        "Country": "Switzerland",
+        "Homepage": "https://www.1.fm/station/reggae",
+        "Source1": "http://strm112.1.fm/reggae_mobile_mp3"
+    },
+    {
+        "Title": "1.FM Top 40 Ballads Radio",
+        "Country": "Switzerland",
+        "Tags": "ballads,hits,pop,top 40",
+        "Favicon": "https://www.radio.fr/images/broadcasts/ea/8f/1380/2/c300.png",
+        "Homepage": "https://www.1.fm/station/top40ballads",
+        "Source1": "http://strm112.1.fm/top40ballads_mobile_mp3"
+    },
+    {
+        "Title": "1.FM Top 40 Hits",
+        "Country": "Switzerland",
+        "Favicon": "https://www.radio.fr/images/broadcasts/ea/8f/1380/2/c300.png",
+        "Homepage": "https://www.1.fm/station/top40",
+        "Source1": "http://strm112.1.fm/top40_mobile_mp3"
+    },
+    {
+        "Title": "1.fm top rap",
+        "Country": "Switzerland",
+        "Tags": "rap hiphop rnb",
+        "Homepage": "https://www.1.fm/station/jamz",
+        "Source1": "https://strm112.1.fm/jamz_mobile_mp3?aw_0_req.gdpr=true&listenerid=bc625eb7aaf609dd3942dc610e46ed40&awparams=companionAds%3Atrue"
+    },
+    {
+        "Title": "1.FM Y2K Radio (2000s)",
+        "Country": "Switzerland",
+        "Tags": "2000,2000's,2000s,decades,early 2000s,y2k",
+        "Favicon": "https://radio-online.ch/uploads/img/1-fm-y2k.png",
+        "Language": "en",
+        "Homepage": "https://www.1.fm/station/hits2000",
+        "Source1": "http://strm112.1.fm/hits2000_mobile_mp3"
+    },
+    {
+        "Title": "20minuten.radio DAB+ (GOAT Radio)",
+        "Country": "Switzerland",
+        "Tags": "pop music",
+        "Homepage": "https://www.20min.ch/radio",
+        "Source1": "https://www.digris.ch/stream/897a2939-b6db-42c6-8760-28908bcf8b25"
+    },
+    {
+        "Title": "80ies dot radio",
+        "Country": "Switzerland",
+        "Homepage": "https://www.80ies.radio/",
+        "Source1": "https://stream.radiojar.com/6cbvkaa1mrruv?1643199882"
+    },
+    {
+        "Title": "80s Forever - We Keep The 80s Alive",
+        "Country": "Switzerland",
+        "Tags": "80s,alternative rock,eighties,gothic,indie,indie pop,manchester rave,new wave,power pop,rare 80s,rock,synthpop",
+        "Favicon": "https://www.80sforever.radio/favicon.ico",
+        "Language": "en",
+        "Homepage": "https://www.80sforever.radio/",
+        "Source1": "https://premium.shoutcastsolutions.com/radio/8050/256.mp3",
+        "Source2": "http://azuracast.ssl-stream.com/radio/8050/256.mp3"
+    },
+    {
+        "Title": "[1337 4M813N7] RADIO.MASCHINENGEIST.ORG Deep Field Transmissions",
+        "Country": "Switzerland",
+        "Tags": "ambient,downtempo,dreampop,drone,experimental,soundscapes,space",
+        "Favicon": "https://pbs.twimg.com/profile_images/301775983/dj_spock_400x400.jpg",
+        "Language": "de,en",
+        "Homepage": "https://radio.maschinengeist.org/",
+        "Source1": "https://radio.maschinengeist.org/maschinengeist.org.m3u"
+    },
+    {
+        "Title": "A Fine Jazz Gumbo Radio",
+        "Country": "Switzerland",
+        "Tags": "jazz",
+        "Favicon": "https://jazzgumboradio.com/favicon.ico",
+        "Homepage": "https://jazzgumboradio.com/",
+        "Source1": "https://streaming.smartradio.ch:9502/stream"
+    },
+    {
+        "Title": "ABCRADIO",
+        "Country": "Switzerland",
+        "Homepage": "https://www.abc.net.au/listen/live/jazz",
+        "Source1": "https://www.abc.net.au/listen/live/jazz"
+    },
+    {
+        "Title": "Adonia-KidsRadio",
+        "Country": "Switzerland",
+        "Tags": "children,christian,kids,kinder,teens",
+        "Language": "gsw",
+        "Homepage": "http://puma.streemlion.com:1930/",
+        "Source1": "http://puma.streemlion.com:1930/stream"
+    },
+    {
+        "Title": "Adonia-KidsRadio",
+        "Country": "Switzerland",
+        "Tags": "children,christian,kids,kinder,kinderradio",
+        "Language": "gsw",
+        "Homepage": "https://www.adonia.ch/kids#player",
+        "Source1": "http://puma.streemlion.com:1930/stream"
+    },
+    {
+        "Title": "Adore Jazz",
+        "Country": "Switzerland",
+        "Tags": "jazz",
+        "Favicon": "https://i.imgur.com/i2EdxRl.png",
+        "Language": "en",
+        "Homepage": "https://www.1.fm/station/ajazz",
+        "Source1": "http://strm112.1.fm/ajazz_mobile_mp3"
+    },
+    {
+        "Title": "Agaune Radio",
+        "Country": "Switzerland",
+        "Tags": "general",
+        "Favicon": "https://www.agaune.radio/upload/design/69a67c2b9ba951.58189328.png",
+        "Language": "fr",
+        "Homepage": "https://www.agaune.radio/",
+        "Latitude": 46.21542868796163,
+        "Longitude": 7.003699865882283,
+        "Source1": "https://stream.zeno.fm/0r0xa792kwzuv"
+    },
+    {
+        "Title": "Ahuga laut.fm",
+        "Country": "Switzerland",
+        "Tags": "liedermacher",
+        "Language": "de",
+        "Homepage": "https://laut.fm/ahuga",
+        "Source1": "http://stream.laut.fm/ahuga"
+    },
+    {
+        "Title": "ai-musicworld",
+        "Country": "Switzerland",
+        "Tags": "art rock,neoclassical,progressive rock",
+        "Homepage": "https://s6.citrus3.com/public/ai-musicworld",
+        "Source1": "http://s6.citrus3.com:8936/stream"
+    },
+    {
+        "Title": "All time Urban Gospel",
+        "Country": "Switzerland",
+        "Tags": "catholic radio,christian hip hop,gospel hip-hop,hip-hop,ridwan",
+        "Language": "en",
+        "Homepage": "https://1.fm/station/gospel",
+        "Source1": "https://strm112.1.fm/gospel_mobile_mp3"
+    },
+    {
+        "Title": "Alti Radio",
+        "Country": "Switzerland",
+        "Tags": "gospel,worship",
+        "Language": "en,eo,fr",
+        "Homepage": "https://actiradio.com/",
+        "Latitude": 19.465,
+        "Longitude": 6.51,
+        "Source1": "https://transmiss.ion.ovh/listen/altiradio/",
+        "Source2": "https://transmiss.ion.ovh/listen/altiradio/radio.mp3"
+    },
+    {
+        "Title": "Ambi Nature Radio",
+        "Country": "Switzerland",
+        "Tags": "field recording,nature,sounds of nature",
+        "Favicon": "https://cdn-radiotime-logos.tunein.com/s266086d.png",
+        "Homepage": "https://www.ambinature.xyz/",
+        "Source1": "https://nature-rex.radioca.st/stream"
+    },
+    {
+        "Title": "Anntenne Jesus Live",
+        "Country": "Switzerland",
+        "Tags": "christian",
+        "Language": "de",
+        "Homepage": "https://antennejesus.live/",
+        "Source1": "https://radio.antennejesus.live/listen/antennejesuslive/radio.mp3"
+    },
+    {
+        "Title": "Arc Musique",
+        "Country": "Switzerland",
+        "Tags": "classic hits",
+        "Language": "fr",
+        "Homepage": "http://arcmusique.ch/",
+        "Source1": "https://arcmusique.ice.infomaniak.ch/arcmusique-128.mp3"
+    },
+    {
+        "Title": "Audioasyl",
+        "Country": "Switzerland",
+        "Tags": "electronic",
+        "Language": "en",
+        "Homepage": "http://audioasyl.net/",
+        "Source1": "http://stream.audioasyl.net:8000/audioasyl"
+    },
+    {
+        "Title": "Bachata Nation Radio",
+        "Country": "Switzerland",
+        "Language": "en",
+        "Homepage": "https://stream.zeno.fm/",
+        "Latitude": 47.37487215764654,
+        "Longitude": 8.542213439941408,
+        "Source1": "https://stream.zeno.fm/vwcq5n2rruhvv"
+    },
+    {
+        "Title": "Back2Noize Radio",
+        "Country": "Switzerland",
+        "Tags": "club,club dance,dance,dance music,dnb,drum & bass,drum 'n' bass,drum and bass,electro,electronic,electronic dance music,hard dance,hardstyle,house,techno,trance",
+        "Favicon": "https://back2noize.com/wp-content/uploads/2019/08/back2noize-logo-round-300x300.jpg",
+        "Language": "fr",
+        "Homepage": "https://back2noize.com/",
+        "Latitude": 46.55613360429611,
+        "Longitude": 6.5095046790663345,
+        "Source1": "https://securestreams4.autopo.st:1558/Back2Noize"
+    },
+    {
+        "Title": "Barix Radio",
+        "Country": "Switzerland",
+        "Tags": "classic hits,oldies,promo",
+        "Language": "de,en",
+        "Homepage": "https://www.barix.com/",
+        "Latitude": 47.36040882704855,
+        "Longitude": 8.542752005165585,
+        "Source1": "http://barix.streamguys.net/barix_hi.m3u"
+    },
+    {
+        "Title": "Basspistol Radio",
+        "Country": "Switzerland",
+        "Tags": "dance,electronic,experimental,hiphop,indie",
+        "Favicon": "https://basspistol.com/siteicon.png",
+        "Homepage": "https://basspistol.com/radio",
+        "Latitude": 46.207,
+        "Longitude": 6.156,
+        "Source1": "https://radio.basspistol.com/radio.mp3",
+        "Source2": "https://radio.basspistol.com/public/basspistol/playlist.pls"
+    },
+    {
+        "Title": "Bear Metal Radio",
+        "Country": "Switzerland",
+        "Favicon": "https://www.bearmetalradio.com/images/logo.png",
+        "Homepage": "https://www.bearmetalradio.com/",
+        "Source1": "https://cast5.asurahosting.com/proxy/bear?mp=/stream"
+    },
+    {
+        "Title": "Brazilian Birds Radio",
+        "Country": "Switzerland",
+        "Favicon": "https://www.radio.net/300/1fmbrazilianbirds.png?version=9ea0d9ee3e94be9259a863a05f7b56b0",
+        "Homepage": "https://www.1.fm/station/brazilianbirds",
+        "Source1": "https://strm112.1.fm/brazilianbirds_mobile_mp3"
+    },
+    {
+        "Title": "Break Radio",
+        "Country": "Switzerland",
+        "Tags": "hip-hop,hip-hop and rap oldies,hiphop,rap,rap hiphop rnb,rnb,trap",
+        "Favicon": "https://www.breakradio.ch/apple-touch-icon.png",
+        "Language": "en,fr",
+        "Homepage": "https://www.breakradio.ch/",
+        "Latitude": 46.224546466080426,
+        "Longitude": 7.351583540439607,
+        "Source1": "https://breakradio.ice.infomaniak.ch/breakradio-192.mp3"
+    },
+    {
+        "Title": "BurningStation.com",
+        "Country": "Switzerland",
+        "Tags": "charts,oldies",
+        "Language": "de",
+        "Homepage": "https://www.burningstation.com/",
+        "Source1": "https://server1.streamserver-unlimited.de:2199/tunein/iu245.pls"
+    },
+    {
+        "Title": "Canal3 deutsch",
+        "Country": "Switzerland",
+        "Tags": "local news,news,pop",
+        "Favicon": "https://web.canal3.ch/de/sites/all/themes/canal3_theme_v2/favicon.ico",
+        "Language": "gsw",
+        "Homepage": "https://web.canal3.ch/",
+        "Latitude": 47.13602337199739,
+        "Longitude": 7.242736816406251,
+        "Source1": "https://radio.upstream-cloud.ch/canal3allemand-192.aac"
+    },
+    {
+        "Title": "Christmas Radio",
+        "Country": "Switzerland",
+        "Tags": "christian contemporary,christmas music,classical,country,rnb,soul",
+        "Language": "de",
+        "Homepage": "http://www.christmasradio.fm/",
+        "Source1": "http://xmasfm1.dmd2streaming.com/christmasradiofm-128.mp3"
+    },
+    {
+        "Title": "Christmas Radio FM",
+        "Country": "Switzerland",
+        "Language": "en",
+        "Homepage": "http://christmasradio.fm/christmasgateway/",
+        "Source1": "https://xmasfm1.dmd2streaming.com/christmasradiofm-128.mp3"
+    },
+    {
+        "Title": "Classic | Radio Swiss",
+        "Country": "Switzerland",
+        "Tags": "classical,mp3,radio swiss",
+        "Language": "de,en,fr,gsw,it",
+        "Homepage": "https://www.radioswissclassic.ch/",
+        "Source1": "https://stream.srg-ssr.ch/m/rsc_de/mp3_128"
+    },
+    {
+        "Title": "CM Radio Crans-Montana",
+        "Country": "Switzerland",
+        "Tags": "diversity",
+        "Language": "fr",
+        "Homepage": "https://www.crans-montana.radio/",
+        "Source1": "https://listen.radioking.com/radio/605899/stream/669205"
+    },
+    {
+        "Title": "Couleur3",
+        "Country": "Switzerland",
+        "Tags": "indie,pop,rock",
+        "Favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Couleur_3_logo.svg/1200px-Couleur_3_logo.svg.png",
+        "Language": "fr",
+        "Homepage": "http://programmesradio.rts.ch/couleur3",
+        "Source1": "http://stream.srg-ssr.ch/m/couleur3/aacp_96"
+    },
+    {
+        "Title": "Country Radio Switzerland",
+        "Country": "Switzerland",
+        "Source1": "https://countryradioswitzerland.ice.infomaniak.ch/crs-128.mp3"
+    },
+    {
+        "Title": "Country Radio Switzerland",
+        "Country": "Switzerland",
+        "Tags": "country",
+        "Favicon": "https://www.countryradio.ch/favicon.ico",
+        "Language": "gsw",
+        "Homepage": "https://www.countryradio.ch/",
+        "Source1": "http://stream.countryradio.ch/crs-64.mp3"
+    },
+    {
+        "Title": "Country Radio Switzerland (CRS)",
+        "Country": "Switzerland",
+        "Tags": "undefined",
+        "Favicon": "https://www.countryradio.ch/favicon.ico",
+        "Homepage": "https://www.countryradio.ch/",
+        "Source1": "http://stream.countryradio.ch/crs-128.mp3"
+    },
+    {
+        "Title": "DBC radio",
+        "Country": "Switzerland",
+        "Favicon": "https://www.digital-broadcast-channel.com/_images/radio_dbcplayer.fw.png",
+        "Homepage": "https://www.digital-broadcast-channel.com/radio/",
+        "Source1": "http://dbc.ice.infomaniak.ch/dbc-96.mp3?1775297507656"
+    },
+    {
+        "Title": "DIKS ДИКС",
+        "Country": "Switzerland",
+        "Tags": "#",
+        "Homepage": "https://icecast.correctiv.net/sacharow",
+        "Source1": "https://icecast.correctiv.net/sacharow"
+    },
+    {
+        "Title": "Dream Sequence",
+        "Country": "Switzerland",
+        "Favicon": "https://static.wixstatic.com/media/e05539_cbaf7759467242c1843d8bac2619e127~mv2.png/v1/crop/x_9,y_0,w_3107,h_1875/fill/w_490,h_296,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/customcolor_logo_transparent_background.png",
+        "Homepage": "https://www.dreamsequence.ch/",
+        "Source1": "https://www.radioking.com/play/dream-sequence/508976"
+    },
+    {
+        "Title": "driftFM",
+        "Country": "Switzerland",
+        "Tags": "country",
+        "Favicon": "https://www.drift.fm/wp-content/uploads/2020/06/Drift-FM_Logo_transparent_400px_00c8007a1_1367.png",
+        "Homepage": "https://www.drift.fm/",
+        "Source1": "https://s4.radio.co/s5729f2e59/listen"
+    },
+    {
+        "Title": "Electro Radio",
+        "Country": "Switzerland",
+        "Language": "de",
+        "Homepage": "https://www.electroradio.fm/",
+        "Source1": "https://www.electroradio.fm/stream.m3u"
+    },
+    {
+        "Title": "Electrons Libres",
+        "Country": "Switzerland",
+        "Favicon": "https://electronslibres.ch/wp-content/uploads/2021/06/cropped-LogoRadioSimpleSansTxt-1.png",
+        "Homepage": "https://electronslibres.ch/",
+        "Latitude": 46.951187969034066,
+        "Longitude": 7.067127227783204,
+        "Source1": "https://api.radioking.io/radio/427889/listen.m3u"
+    },
+    {
+        "Title": "electroradio.fm",
+        "Country": "Switzerland",
+        "Tags": "electronic",
+        "Homepage": "https://electroradio.fm/",
+        "Source1": "http://n05.radiojar.com/fkyxx4q35k0uv"
+    },
+    {
+        "Title": "Energy Basel (NRJ)",
+        "Country": "Switzerland",
+        "Tags": "charts,local news,pop",
+        "Language": "de,gsw",
+        "Homepage": "https://energy.ch/play/basel",
+        "Source1": "https://energybasel.ice.infomaniak.ch/energybasel-high.mp3"
+    },
+    {
+        "Title": "Energy Bern",
+        "Country": "Switzerland",
+        "Favicon": "https://cdn.energy.ch/energych-broadcast/covers/channels/logo_v2_bern_1638178870.svg",
+        "Language": "gsw",
+        "Homepage": "https://energy.ch/stations/energy-bern",
+        "Latitude": 46.94799958017903,
+        "Longitude": 7.448236942291261,
+        "Source1": "https://energybern.ice.infomaniak.ch/energybern-high.mp3"
+    },
+    {
+        "Title": "Energy Bern (NRJ)",
+        "Country": "Switzerland",
+        "Tags": "news,pop",
+        "Language": "de",
+        "Homepage": "http://www.energy.ch/bern/",
+        "Source1": "http://broadcast.infomaniak.ch/energybern-high.mp3"
+    },
+    {
+        "Title": "Energy Blick Trendz",
+        "Country": "Switzerland",
+        "Homepage": "http://www.energyzueri.ch/",
+        "Source1": "http://energyzuerich.ice.infomaniak.ch/energyzuerich-high.mp3"
+    },
+    {
+        "Title": "Energy Zürich (NRJ)",
+        "Country": "Switzerland",
+        "Tags": "mainstream,news,pop,swiss",
+        "Favicon": "https://energy.ch/ech-new/images/ech/apple-touch-icon.png",
+        "Language": "de",
+        "Homepage": "https://energy.ch/radio/zurich",
+        "Source1": "http://broadcast.infomaniak.ch/energyzuerich-high.mp3"
+    },
+    {
+        "Title": "ERF LifeChannel",
+        "Country": "Switzerland",
+        "Tags": "ccm,christian",
+        "Favicon": "https://lifechannel.ch/wp-content/uploads/sites/2/cropped-Life-Channel-Profil-Logo-32x32.png",
+        "Homepage": "https://lifechannel.ch/",
+        "Source1": "https://stream1.lifechannel.ch/LIFECHANNEL"
+    },
+    {
+        "Title": "FLASHBACK FM",
+        "Country": "Switzerland",
+        "Tags": "1980's,1980s,80's,80s",
+        "Homepage": "https://www.flashbackfm.ch/",
+        "Source1": "https://flashback.streambase.ch/001",
+        "Source2": "http://flashback.streambase.ch/001"
+    },
+    {
+        "Title": "Flowstate Chill Radio",
+        "Country": "Switzerland",
+        "Tags": "24/7,ambient music,chill,chill music,chillout,relaxing music,study music",
+        "Favicon": "https://flowstateradio.net/assets/img/station/chill-logo-128.png",
+        "Language": "en",
+        "Homepage": "https://flowstateradio.net/",
+        "Source1": "https://radio.flowstateradio.net/listen/chill/radio.mp3"
+    },
+    {
+        "Title": "Flowstate Classical Radio",
+        "Country": "Switzerland",
+        "Tags": "24/7,background music,classical,classical music,focus music,instrumental music,study music",
+        "Favicon": "https://flowstateradio.net/assets/img/station/classical-logo-128.png",
+        "Language": "en",
+        "Homepage": "https://flowstateradio.net/",
+        "Source1": "https://radio.flowstateradio.net/listen/classical/radio.mp3"
+    },
+    {
+        "Title": "Flowstate Deep Radio",
+        "Country": "Switzerland",
+        "Homepage": "https://flowstateradio.net/",
+        "Source1": "https://radio.flowstateradio.net/listen/deep/radio.mp3"
+    },
+    {
+        "Title": "Flowstate House Radio",
+        "Country": "Switzerland",
+        "Tags": "24/7,dance,electronic,funky house,house,house music,workout music",
+        "Favicon": "https://flowstateradio.net/assets/img/station/house-logo-128.png",
+        "Language": "en",
+        "Homepage": "https://flowstateradio.net/",
+        "Source1": "https://radio.flowstateradio.net/listen/house/radio.mp3"
+    },
+    {
+        "Title": "GDS.FM",
+        "Country": "Switzerland",
+        "Tags": "acid-house,experimental,hiphop,indie rock,nu-jazz,trip hop",
+        "Favicon": "http://www.gds.fm/_nuxt/icons/icon_64x64.96821f.png",
+        "Homepage": "http://www.gds.fm/",
+        "Source1": "http://gdsfm.out.airtime.pro:8000/gdsfm_a"
+    },
+    {
+        "Title": "GDS.FM",
+        "Country": "Switzerland",
+        "Homepage": "https://gds.fm/",
+        "Source1": "https://live.gds.fm/main.mp3"
+    },
+    {
+        "Title": "Geneva Latina Radio",
+        "Country": "Switzerland",
+        "Favicon": "https://genevalatina.ch/wp-content/uploads/2021/02/cropped-Logo-Geneva-Latina-sans-text-v2-1.png",
+        "Homepage": "https://genevalatina.ch/",
+        "Source1": "http://genevalatina.ice.infomaniak.ch/genevalatina-128.mp3"
+    },
+    {
+        "Title": "GIN Radio 24",
+        "Country": "Switzerland",
+        "Tags": "chillout,country,electro,investigative reports,news,pop,rock",
+        "Language": "de,en,es",
+        "Homepage": "https://surf.aloncast.com/s/gin-radio-24",
+        "Source1": "https://app.aloncast.com/api/stream/gin-radio-24-a7f910"
+    },
+    {
+        "Title": "Global FM",
+        "Country": "Switzerland",
+        "Homepage": "http://www.globalfm.ch/site/",
+        "Source1": "http://globalfm.ice.infomaniak.ch/globalfm-high.mp3"
+    },
+    {
+        "Title": "Global Sport  - Vaud",
+        "Country": "Switzerland",
+        "Tags": "football,hockey,live sports",
+        "Favicon": "https://www.globalsport.ch/uploads/images/illustrations/Logos%20Cantons/btn-vaud.png",
+        "Language": "fr",
+        "Homepage": "https://www.globalsport.ch/",
+        "Latitude": 46.545093540893696,
+        "Longitude": 6.516308784484864,
+        "Source1": "http://live9.avf.ch:8000/globalfmdabvd"
+    },
+    {
+        "Title": "Global Sport - Genève",
+        "Country": "Switzerland",
+        "Tags": "football,hockey,live sports",
+        "Favicon": "https://www.globalsport.ch/uploads/images/illustrations/Logos%20Cantons/btn-geneve.png",
+        "Language": "fr",
+        "Homepage": "https://www.globalsport.ch/",
+        "Source1": "http://live9.avf.ch:8000/globalfmdabge"
+    },
+    {
+        "Title": "Global Sport - Suisse",
+        "Country": "Switzerland",
+        "Tags": "football,hockey,live sports",
+        "Favicon": "https://www.globalsport.ch/uploads/images/illustrations/Logos%20Cantons/btn-suisse.png",
+        "Language": "fr",
+        "Homepage": "https://www.globalsport.ch/",
+        "Latitude": 46.5446803088193,
+        "Longitude": 6.514849662780763,
+        "Source1": "http://live9.avf.ch:8000/globalfm160"
+    },
+    {
+        "Title": "Global Sport Canal Romand",
+        "Country": "Switzerland",
+        "Favicon": "https://www.globalsport.ch/player/bouton_player.png",
+        "Homepage": "https://www.globalsport.ch/player/index_aside.php?canal=vd",
+        "Source1": "https://globalsportvaud.ice.infomaniak.ch/globalsportvaud-128.mp3"
+    },
+    {
+        "Title": "Global Sport SUISSE",
+        "Country": "Switzerland",
+        "Favicon": "https://www.globalsport.ch/uploads/images/site/logo_global_2022.png",
+        "Homepage": "https://www.globalsport.ch/",
+        "Source1": "http://live7.avf.ch:8000/globalfm"
+    },
+    {
+        "Title": "Global Sport Suisse",
+        "Country": "Switzerland",
+        "Language": "fr",
+        "Homepage": "https://globalsport.ch/",
+        "Source1": "http://live7.avf.ch:8000/globalfm.m3u"
+    },
+    {
+        "Title": "Gnu Radio - Metal FM",
+        "Country": "Switzerland",
+        "Tags": "classic metal,drgnu,gnu,gnu radio,metal,metal fm,radio",
+        "Favicon": "https://www.gnuradio.org/favicon.ico",
+        "Language": "en",
+        "Homepage": "https://www.gnuradio.org/",
+        "Source1": "https://fluxfm.streamabc.net/flx-metalfm-mp3-320-9154971?sABC=61s83r32%230%2389nqs1p1q8rrq2q126260sp7877or6oo%23fgernzf.syhksz.qr&amsparams=playerid:streams.fluxfm.de;skey:1643658802"
+    },
+    {
+        "Title": "GOAT Radio",
+        "Country": "Switzerland",
+        "Favicon": "https://cdn.unitycms.io/images/DQapoIlBq478hc9HagcAw7.png",
+        "Homepage": "https://audio.20min.ch/",
+        "Source1": "https://20min.dmd2streaming.com/20minuten_radio_64.aac"
+    },
+    {
+        "Title": "Gorilla.fm",
+        "Country": "Switzerland",
+        "Homepage": "https://pcradio.ru/radio/1fm-gorilla-fm",
+        "Source1": "https://strm112.1.fm/gorillafm_mobile_mp3"
+    },
+    {
+        "Title": "GRRIF",
+        "Country": "Switzerland",
+        "Tags": "blues,eclectic,electronic,indie,rock,soul",
+        "Language": "fr",
+        "Homepage": "https://www.grrif.ch/",
+        "Latitude": 47.36557433494708,
+        "Longitude": 7.343408167362214,
+        "Source1": "https://rjb.ice.infomaniak.ch/rjb-high.mp3"
+    },
+    {
+        "Title": "Happy Radio",
+        "Country": "Switzerland",
+        "Favicon": "https://goodtimeradio.broadcast.radio/favicon.ico",
+        "Language": "gsw",
+        "Homepage": "https://www.happy-radio.ch/",
+        "Source1": "https://uksoutha.streaming.broadcast.radio/stream/11340/gtradio?1672903939995"
+    },
+    {
+        "Title": "hifreaksradio",
+        "Country": "Switzerland",
+        "Tags": "alternative,indie,rock,songwriter,world music",
+        "Language": "de,en",
+        "Homepage": "https://laut.fm/",
+        "Latitude": 46.973571443675574,
+        "Longitude": 8.422851562500014,
+        "Source1": "https://stream.laut.fm/hifreaksradio"
+    },
+    {
+        "Title": "IP music",
+        "Country": "Switzerland",
+        "Tags": "80s,adult hits,pop,rock",
+        "Homepage": "http://www.ipmusic.ch/",
+        "Source1": "http://live9.avf.ch:8000/ipmusicaacplus96"
+    },
+    {
+        "Title": "IP music",
+        "Country": "Switzerland",
+        "Homepage": "https://www.ipmusic.ch/",
+        "Source1": "http://live9.avf.ch:8000/ipmusicaacplus96",
+        "Source2": "http://live7.avf.ch:8000/ipmusic320"
+    },
+    {
+        "Title": "ip music 320",
+        "Country": "Switzerland",
+        "Tags": "pop",
+        "Source1": "http://live7.avf.ch:8000/ipmusic320"
+    },
+    {
+        "Title": "IP Music Slow",
+        "Country": "Switzerland",
+        "Tags": "r&b/urban",
+        "Source1": "http://live7.avf.ch:8000/ipmusicslow256"
+    },
+    {
+        "Title": "IP music slow (128 kbps AAC)",
+        "Country": "Switzerland",
+        "Tags": "pop",
+        "Language": "fr",
+        "Homepage": "http://www.ipmusicslow.ch/",
+        "Source1": "http://live7.avf.ch:8000/ipmusicslowaacp128"
+    },
+    {
+        "Title": "IP music slow (96 kbps AAC)",
+        "Country": "Switzerland",
+        "Tags": "pop",
+        "Language": "fr",
+        "Homepage": "http://www.ipmusicslow.ch/",
+        "Source1": "http://live7.avf.ch:8000/ipmusicslowaacp96"
+    },
+    {
+        "Title": "IP music SLOW - aacPlus@96 Kb/s",
+        "Country": "Switzerland",
+        "Favicon": "https://www.ipmusicslow.ch/images/logo-ipmusicslow.png",
+        "Homepage": "https://www.ipmusicslow.ch/",
+        "Source1": "https://live9.avf.ch/ipmusicslowaacp96"
+    },
+    {
+        "Title": "Jam On Radio",
+        "Country": "Switzerland",
+        "Favicon": "https://jam-on.ch/img/apple-touch-icon.png",
+        "Homepage": "https://jam-on.ch/",
+        "Latitude": 47.18231629523818,
+        "Longitude": 8.520859685269594,
+        "Source1": "https://jam-on.ice.infomaniak.ch/jam-on-128.mp3"
+    },
+    {
+        "Title": "JAMES FM",
+        "Country": "Switzerland",
+        "Language": "gsw",
+        "Homepage": "https://www.jamesfm.ch/",
+        "Latitude": 47.16154704611024,
+        "Longitude": 8.437001109123232,
+        "Source1": "https://jamesfm.ice.infomaniak.ch/jamesfm.mp3"
+    },
+    {
+        "Title": "Jazz Black Music",
+        "Country": "Switzerland",
+        "Source1": "http://jazzblackmusic.ice.infomaniak.ch/jazzblackmusic-high.aac"
+    },
+    {
+        "Title": "Jazz Radio",
+        "Country": "Switzerland",
+        "Source1": "http://broadcast.infomaniak.ch/jazzlounge-high.mp3"
+    },
+    {
+        "Title": "Jazz Radio Lounge",
+        "Country": "Switzerland",
+        "Source1": "http://jazzlounge.ice.infomaniak.ch/jazzlounge-high.aac"
+    },
+    {
+        "Title": "Jazz | Radio Swiss",
+        "Country": "Switzerland",
+        "Tags": "jazz,mp3,radio swiss",
+        "Favicon": "https://www.radioswissjazz.ch/social-media/rsj-web.png",
+        "Language": "de,en,fr,gsw,it",
+        "Homepage": "https://www.radioswissjazz.ch/",
+        "Source1": "https://stream.srg-ssr.ch/m/rsj/mp3_128"
+    },
+    {
+        "Title": "Jukebox - Nonstop Music",
+        "Country": "Switzerland",
+        "Favicon": "https://jukebox.kreuzbergswiss.ch/images/favicon.ico",
+        "Homepage": "https://jukebox.kreuzbergswiss.ch/",
+        "Source1": "https://kreuzbergswiss.sp.radio.fm/stream.hls"
+    },
+    {
+        "Title": "Jukebox - Nonstop Music",
+        "Country": "Switzerland",
+        "Homepage": "https://kreuzbergswiss.spcast.eu/",
+        "Source1": "https://kreuzbergswiss.spcast.eu/stream"
+    },
+    {
+        "Title": "Jukebox - Nonstop Music",
+        "Country": "Switzerland",
+        "Favicon": "https://jukebox.kreuzbergswiss.ch/templates/oldie_jukebox_liquid_glass/oben_oldie_jukebox-min.jpg?version=1782741716",
+        "Homepage": "https://jukebox.kreuzbergswiss.ch/index.php?seite=startseite",
+        "Source1": "http://kreuzbergswiss.spcast.eu:8160/stream"
+    },
+    {
+        "Title": "Kanal K",
+        "Country": "Switzerland",
+        "Favicon": "https://www.kanalk.ch/favicon.png",
+        "Homepage": "https://www.kanalk.ch/",
+        "Source1": "https://play.kanalk.ch/kanalk/mp3-192/webseite"
+    },
+    {
+        "Title": "Kanal K",
+        "Country": "Switzerland",
+        "Favicon": "https://backend.kanalk.ch/wp-content/uploads/2023/10/Kanal_K_Icon_WeissAufSchwarz.png",
+        "Homepage": "https://kanalk.ch/",
+        "Source1": "https://play.kanalk.ch/kanalk/mp3-192/webstream"
+    },
+    {
+        "Title": "kanalk",
+        "Country": "Switzerland",
+        "Tags": "alternative / indie",
+        "Homepage": "https://kanalk.ch/",
+        "Source1": "https://play.kanalk.ch/kanalk/mp3-192/"
+    },
+    {
+        "Title": "Kiss Collector",
+        "Country": "Switzerland",
+        "Favicon": "https://kisscollector.ch/favicon.ico",
+        "Homepage": "https://kisscollector.ch/",
+        "Source1": "http://live7.avf.ch:8000/kisscollector_main"
+    },
+    {
+        "Title": "Kiss Collector Radio",
+        "Country": "Switzerland",
+        "Favicon": "https://kisscollector.ch/favicon.ico",
+        "Homepage": "https://kisscollector.ch/",
+        "Source1": "https://dr2101.ice.infomaniak.ch/dr2101.mp3"
+    },
+    {
+        "Title": "Klassik Radio (Switzerland)",
+        "Country": "Switzerland",
+        "Homepage": "https://www.klassikradio.de/",
+        "Latitude": 47.38237245741154,
+        "Longitude": 8.529647290706636,
+        "Source1": "https://klassikr.streamabc.net/klr-krschweiz-mp3-192-8951205"
+    },
+    {
+        "Title": "Kontrafunk",
+        "Country": "Switzerland",
+        "Source1": "https://s5.radio.co/sca4082ebb/listen"
+    },
+    {
+        "Title": "Kontrafunk",
+        "Country": "Switzerland",
+        "Homepage": "https://kontrafunk.radio/de/",
+        "Source1": "https://s5.radio.co/sca4082ebb/listen"
+    },
+    {
+        "Title": "Kontrafunk",
+        "Country": "Switzerland",
+        "Homepage": "https://www.kontrafunk.radio/de/",
+        "Latitude": 47.18127868812922,
+        "Longitude": 8.460572361946108,
+        "Source1": "https://s5.radio.co/sca4082ebb/listen"
+    },
+    {
+        "Title": "Kontrafunk",
+        "Country": "Switzerland",
+        "Tags": "news",
+        "Language": "de",
+        "Homepage": "https://www.kontrafunk.radio/",
+        "Source1": "https://s5.radio.co/sca4082ebb/listen"
+    },
+    {
+        "Title": "Kontrafunk (AAC 64)",
+        "Country": "Switzerland",
+        "Tags": "conservative,news,politics,talk",
+        "Language": "de",
+        "Homepage": "https://kontrafunk.radio/de/",
+        "Source1": "https://s5.radio.co/sca4082ebb/low"
+    },
+    {
+        "Title": "Kontrafunk (Mobil)",
+        "Country": "Switzerland",
+        "Tags": "news,opinion,talk",
+        "Language": "de",
+        "Homepage": "https://kontrafunk.radio/",
+        "Latitude": 47.668836664216926,
+        "Longitude": 8.986025158152838,
+        "Source1": "https://icecast.multhielemedia.de/listen/kontrafunk/mobil"
+    },
+    {
+        "Title": "Kontrafunk (MP3 192)",
+        "Country": "Switzerland",
+        "Tags": "conservative,news,politics,talk",
+        "Language": "de",
+        "Homepage": "https://kontrafunk.radio/de/",
+        "Source1": "https://stream.kontrafunk.radio/listen/kontrafunk/radio.mp3"
+    },
+    {
+        "Title": "Kontrafunk News",
+        "Country": "Switzerland",
+        "Tags": "news",
+        "Language": "de",
+        "Homepage": "https://kontrafunk.radio/",
+        "Latitude": 46.934147330701826,
+        "Longitude": 7.470703125000001,
+        "Source1": "https://stream.kontrafunk.radio/listen/kontrafunk/radio.mp3"
+    },
+    {
+        "Title": "KTFM / Global Sport",
+        "Country": "Switzerland",
+        "Tags": "70s,80s,disco,rock,sport,various",
+        "Language": "fr",
+        "Homepage": "https://www.globalsport.ch/",
+        "Source1": "http://live9.avf.ch:8000/globalfmdabge"
+    },
+    {
+        "Title": "KTfm Geneva - THE BEST OF 70'S AND 80'S",
+        "Country": "Switzerland",
+        "Tags": "70s,70s disco,80s,disco",
+        "Favicon": "https://i0.wp.com/ktfm-radio.ch/wp-content/uploads/2019/12/KTFM-1.png?fit=50%2C50&ssl=1",
+        "Homepage": "https://ktfm-radio.ch/",
+        "Source1": "https://ktfm.ice.infomaniak.ch/ktfm-high.mp3"
+    },
+    {
+        "Title": "La Radio du bord de l’eau",
+        "Country": "Switzerland",
+        "Tags": "chillout,house,smooth lounge,world music",
+        "Favicon": "https://image.radioking.io/radios/181657/logo/098b1c15-74cf-4638-b264-517fb9b06eac.jpeg",
+        "Homepage": "https://www.auborddeleau.bar/radio/",
+        "Latitude": 46.29091321711407,
+        "Longitude": 7.5306129455566415,
+        "Source1": "https://listen.radioking.com/radio/181657/stream/223420"
+    },
+    {
+        "Title": "Latina Hits Mix",
+        "Country": "Switzerland",
+        "Tags": "latinoamérica",
+        "Language": "gsw",
+        "Homepage": "http://kenaparc3.wixsite.com/latinamix",
+        "Source1": "http://kenaparc3.wixsite.com/latinamix"
+    },
+    {
+        "Title": "LeMixx Radio",
+        "Country": "Switzerland",
+        "Tags": "commercial-free,disco,funk,funky,groove,no ads,rare groove,rnb,soul,soulful",
+        "Favicon": "https://horizons-cdn.hostinger.com/6fc7f52e-1444-494c-bd09-fbd1e898c6de/d660e9f52cb5da0a7ea1ba0734ff1cc1.png",
+        "Homepage": "https://lemixx.fr/",
+        "Source1": "http://maxxima.mine.nu/lemixx"
+    },
+    {
+        "Title": "LFM",
+        "Country": "Switzerland",
+        "Favicon": "https://www.lfm.ch/wp-content/uploads/2021/07/cropped-radio-lausanne-fm-sa-icone-du-site-180x180.png",
+        "Language": "fr",
+        "Homepage": "https://www.lfm.ch/",
+        "Source1": "https://lausannefm.ice.infomaniak.ch/lausannefm-high.aac",
+        "Source2": "https://lausannefm.ice.infomaniak.ch/lausannefm-high.mp3",
+        "Source3": "http://lausannefm.ice.infomaniak.ch/lausannefm-high.mp3"
+    },
+    {
+        "Title": "Lounge Radio",
+        "Country": "Switzerland",
+        "Favicon": "https://lounge-radio.com/wp-content/uploads/fbrfg/apple-touch-icon.png",
+        "Homepage": "https://lounge-radio.com/",
+        "Source1": "http://de1.streamhosting.ch/"
+    },
+    {
+        "Title": "lounge-radio.com",
+        "Country": "Switzerland",
+        "Tags": "chillout+lounge",
+        "Favicon": "https://lounge-radio.com/wp-content/uploads/fbrfg/apple-touch-icon.png",
+        "Homepage": "https://lounge-radio.com/",
+        "Source1": "https://fr1.streamhosting.ch/lounge128.mp3"
+    },
+    {
+        "Title": "LOUNGE-RADIO.COM - swiss made",
+        "Country": "Switzerland",
+        "Favicon": "https://lounge-radio.com/images/lounge-radio_logo.png",
+        "Language": "en",
+        "Homepage": "https://lounge-radio.com/",
+        "Source1": "https://player.streamhosting.ch/lounge128.ogg",
+        "Source2": "https://player.streamhosting.ch/lounge64.aac"
+    },
+    {
+        "Title": "Loungemain Radio Jazz-Chill-Funk",
+        "Country": "Switzerland",
+        "Homepage": "https://loungemain.mozello.com/",
+        "Source1": "http://185.238.128.191:8002/live"
+    },
+    {
+        "Title": "Love Hardstyle",
+        "Country": "Switzerland",
+        "Homepage": "https://radioreg.net/",
+        "Source1": "https://ca.azura.linkodev.ch/listen/lovehardstyle/radio.mp3"
+    },
+    {
+        "Title": "LUX RADIO",
+        "Country": "Switzerland",
+        "Favicon": "https://luxradio.ch/wp-content/uploads/2022/03/Logo-Colour.png",
+        "Homepage": "https://luxradio.ch/",
+        "Source1": "https://fluxradio.ice.infomaniak.ch/fluxradio-32.aac",
+        "Source2": "https://live7.avf.ch/lux_main"
+    },
+    {
+        "Title": "MaXXima",
+        "Country": "Switzerland",
+        "Tags": "club,dance,deep house,edm,electro house,electronic,house,progressive house",
+        "Favicon": "https://maxxima.ch/wp-content/uploads/2018/03/cropped-maxxima_radio_512-180x180.png",
+        "Language": "en,fr",
+        "Homepage": "https://maxxima.ch/",
+        "Latitude": 46.34193573280533,
+        "Longitude": 6.164314448833466,
+        "Source1": "https://maxxima.mine.nu/maxxima.aac"
+    },
+    {
+        "Title": "Musikwälle",
+        "Country": "Switzerland",
+        "Tags": "pop",
+        "Source1": "https://stream.srg-ssr.ch/drsmw/mp3_128.m3u"
+    },
+    {
+        "Title": "my105 - All The Hits",
+        "Country": "Switzerland",
+        "Tags": "hits",
+        "Language": "de",
+        "Homepage": "http://www.my105.ch/all-the-hits",
+        "Source1": "http://stream01.my105.ch/my105allthehits.mp3"
+    },
+    {
+        "Title": "my105 - Charts",
+        "Country": "Switzerland",
+        "Tags": "top 40",
+        "Language": "de",
+        "Homepage": "http://www.my105.ch/charts",
+        "Source1": "http://stream01.my105.ch/my105charts.mp3"
+    },
+    {
+        "Title": "my105 - Chill",
+        "Country": "Switzerland",
+        "Tags": "chillout,relax",
+        "Language": "de",
+        "Homepage": "http://www.my105.ch/chill",
+        "Source1": "http://stream01.my105.ch/my105chill.mp3"
+    },
+    {
+        "Title": "my105 - Dance",
+        "Country": "Switzerland",
+        "Tags": "electro,house",
+        "Language": "de",
+        "Homepage": "http://www.my105.ch/dance",
+        "Source1": "http://stream01.my105.ch/my105dance.mp3"
+    },
+    {
+        "Title": "my105 - Deep",
+        "Country": "Switzerland",
+        "Tags": "deep house",
+        "Language": "de",
+        "Homepage": "http://www.my105.ch/deep",
+        "Source1": "http://stream01.my105.ch/my105deep.mp3"
+    },
+    {
+        "Title": "my105 - Deluxe",
+        "Country": "Switzerland",
+        "Tags": "lounge",
+        "Language": "de",
+        "Homepage": "http://www.my105.ch/deluxe",
+        "Source1": "http://stream01.my105.ch/my105deluxe.mp3"
+    },
+    {
+        "Title": "my105 - DJ Mixes",
+        "Country": "Switzerland",
+        "Tags": "dj sets",
+        "Language": "de",
+        "Homepage": "http://www.my105.ch/dj-nights",
+        "Source1": "http://stream01.my105.ch/my105djnights.mp3"
+    },
+    {
+        "Title": "my105 - Dreist",
+        "Country": "Switzerland",
+        "Tags": "rap",
+        "Language": "de",
+        "Homepage": "http://www.my105.ch/dreist",
+        "Source1": "http://stream01.my105.ch/my105dreist.mp3"
+    },
+    {
+        "Title": "my105 - Fresh",
+        "Country": "Switzerland",
+        "Tags": "new music",
+        "Language": "de",
+        "Homepage": "http://www.my105.ch/fresh",
+        "Source1": "http://stream01.my105.ch/my105fresh.mp3"
+    },
+    {
+        "Title": "my105 - Love",
+        "Country": "Switzerland",
+        "Tags": "love songs",
+        "Language": "de",
+        "Homepage": "http://www.my105.ch/love",
+        "Source1": "http://stream01.my105.ch/my105love.mp3"
+    },
+    {
+        "Title": "my105 - Mashup",
+        "Country": "Switzerland",
+        "Tags": "mashup",
+        "Language": "de",
+        "Homepage": "http://www.my105.ch/mashup",
+        "Source1": "http://stream01.my105.ch/my105mashup.mp3"
+    },
+    {
+        "Title": "my105 - Original",
+        "Country": "Switzerland",
+        "Tags": "dance,hits,pop,top 40",
+        "Language": "de",
+        "Homepage": "http://www.my105.ch/original",
+        "Source1": "http://stream01.my105.ch/my105original.mp3"
+    },
+    {
+        "Title": "my105 - Party",
+        "Country": "Switzerland",
+        "Tags": "party",
+        "Language": "de",
+        "Homepage": "http://www.my105.ch/party",
+        "Source1": "http://stream01.my105.ch/my105party.mp3"
+    },
+    {
+        "Title": "my105 - Ritmo Latino",
+        "Country": "Switzerland",
+        "Tags": "latin",
+        "Language": "de",
+        "Homepage": "http://www.my105.ch/ritmolatino",
+        "Source1": "http://stream01.my105.ch/my105ritmolatino.mp3"
+    },
+    {
+        "Title": "my105 - Rock",
+        "Country": "Switzerland",
+        "Tags": "rock",
+        "Language": "de",
+        "Homepage": "http://www.my105.ch/rock",
+        "Source1": "http://stream01.my105.ch/my105rock.mp3"
+    },
+    {
+        "Title": "my105 - The Battle",
+        "Country": "Switzerland",
+        "Tags": "hiphop,urban",
+        "Language": "de",
+        "Homepage": "http://www.my105.ch/the-battle",
+        "Source1": "http://stream01.my105.ch/my105thebattle.mp3"
+    },
+    {
+        "Title": "my105 X-MAS",
+        "Country": "Switzerland",
+        "Tags": "weihnachten,x-mas",
+        "Language": "de,gsw",
+        "Homepage": "https://www.my105.ch/x-mas",
+        "Source1": "https://stream01.my105.ch/my105xmas.mp3"
+    },
+    {
+        "Title": "my105 X-MAS Radio (AAC)",
+        "Country": "Switzerland",
+        "Homepage": "https://www.my105.ch/xmas",
+        "Source1": "https://stream01.my105.ch/my105xmas-aac.mp3"
+    },
+    {
+        "Title": "Neo1",
+        "Country": "Switzerland",
+        "Homepage": "https://www.neo1.ch/",
+        "Source1": "https://neo1.ice.infomaniak.ch/neo1.mp3"
+    },
+    {
+        "Title": "New Clear Radio",
+        "Country": "Switzerland",
+        "Tags": "brit pop,classic rock,indie",
+        "Favicon": "http://ncradio.fm/favicons/apple-touch-icon.png",
+        "Language": "en",
+        "Homepage": "http://ncradio.fm/",
+        "Source1": "http://live.ncradio.fm/320"
+    },
+    {
+        "Title": "One Dance Ticino",
+        "Country": "Switzerland",
+        "Tags": "dance,electronic,pop,top 40",
+        "Language": "it",
+        "Homepage": "https://onedancefm.ch/",
+        "Source1": "https://ice15.fluidstream.net/onedancech.aac"
+    },
+    {
+        "Title": "One FM",
+        "Country": "Switzerland",
+        "Favicon": "https://cdn-profiles.tunein.com/s7567/images/bannerx.jpg?t=636482377033470000",
+        "Homepage": "https://www.onefm.ch/",
+        "Source1": "https://onefm.ice.infomaniak.ch/onefm-high.mp3",
+        "Source2": "https://onefm.ice.infomaniak.ch/onefm-high.aac"
+    },
+    {
+        "Title": "One FM",
+        "Country": "Switzerland",
+        "Favicon": "https://www.onefm.ch/wp-content/uploads/2018/08/favicon.png",
+        "Language": "fr",
+        "Homepage": "http://www.onefm.ch/",
+        "Source1": "http://onefm.ice.infomaniak.ch/onefm-high.mp3"
+    },
+    {
+        "Title": "One FM 2000s",
+        "Country": "Switzerland",
+        "Tags": "00s,2000s",
+        "Favicon": "https://www.onefm.ch/wp-content/uploads/2018/08/favicon.png",
+        "Language": "en",
+        "Homepage": "https://www.onefm.ch/",
+        "Source1": "https://webradio0009.ice.infomaniak.ch/webradio0009-128.mp3"
+    },
+    {
+        "Title": "One FM 90s",
+        "Country": "Switzerland",
+        "Favicon": "https://www.onefm.ch/wp-content/uploads/2018/08/favicon.png",
+        "Language": "en",
+        "Homepage": "https://www.onefm.ch/",
+        "Source1": "https://webradio0006.ice.infomaniak.ch/webradio0006-128.mp3"
+    },
+    {
+        "Title": "One FM New Hits",
+        "Country": "Switzerland",
+        "Favicon": "https://www.onefm.ch/wp-content/themes/mog-child/webradios/ONE_app_WEBRADIO_NewHit.png",
+        "Language": "fr",
+        "Homepage": "https://www.onefm.ch/",
+        "Source1": "https://webradio0001.ice.infomaniak.ch/webradio0001-128.mp3"
+    },
+    {
+        "Title": "One FM New-Hits",
+        "Country": "Switzerland",
+        "Tags": "hits",
+        "Favicon": "https://www.onefm.ch/wp-content/uploads/2017/07/logos-1.png",
+        "Language": "fr",
+        "Homepage": "https://onefm.ch/",
+        "Source1": "https://webradio0001.ice.infomaniak.ch/webradio0001-128.mp3"
+    },
+    {
+        "Title": "One FM Rock Oldies",
+        "Country": "Switzerland",
+        "Favicon": "https://www.onefm.ch/wp-content/themes/mog-child/webradios/ONE_app_WEBRADIO_Rock.png",
+        "Language": "fr",
+        "Homepage": "https://www.onefm.ch/",
+        "Source1": "https://webradio0002.ice.infomaniak.ch/webradio0002-128.mp3"
+    },
+    {
+        "Title": "OnFlow Hot",
+        "Country": "Switzerland",
+        "Language": "en",
+        "Homepage": "https://api.zeno.fm/mounts/metadata/subscribe/aeppezbhdfkvv",
+        "Source1": "https://stream.zeno.fm/pxqdhcb7gqutv.m3u"
+    },
+    {
+        "Title": "OnFlow Hot",
+        "Country": "Switzerland",
+        "Language": "de,en,gsw",
+        "Homepage": "https://stream.zeno.fm/pxqdhcb7gqutv",
+        "Source1": "https://stream.zeno.fm/pxqdhcb7gqutv"
+    },
+    {
+        "Title": "open broadcast",
+        "Country": "Switzerland",
+        "Favicon": "https://openbroadcast.ch/static/assets/manifest/icon-triangle-white.91b2fd954957.png",
+        "Homepage": "https://openbroadcast.ch/",
+        "Source1": "http://stream.openbroadcast.ch/16bit.flac",
+        "Source2": "http://stream.openbroadcast.ch/320.mp3",
+        "Source3": "https://www.digris.ch/stream/092210ed-4eb4-483b-814f-21df6ecb1352"
+    },
+    {
+        "Title": "open broadcast radio",
+        "Country": "Switzerland",
+        "Tags": "afro,deep house,dub,eclectic,electronic,folk,funk,hip hop,house,jazz,latin,neo soul,pop,reggae,rnb,rock,soul,world music",
+        "Favicon": "https://openbroadcast.ch/static/assets/manifest/icon-triangle-white.91b2fd954957.png",
+        "Homepage": "https://openbroadcast.ch/",
+        "Source1": "http://stream.openbroadcast.ch/320.mp3"
+    },
+    {
+        "Title": "openbroadcast.ch",
+        "Country": "Switzerland",
+        "Homepage": "https://stream.openbroadcast.ch/",
+        "Source1": "https://stream.openbroadcast.ch/16bit.flac"
+    },
+    {
+        "Title": "Option Musique",
+        "Country": "Switzerland",
+        "Tags": "classical",
+        "Source1": "http://stream.srg-ssr.ch/m/option-musique/mp3_128"
+    },
+    {
+        "Title": "Pineapple Juice",
+        "Country": "Switzerland",
+        "Tags": "rock",
+        "Homepage": "https://laut.fm/pineapplejuice",
+        "Source1": "http://stream.laut.fm/pineapplejuice"
+    },
+    {
+        "Title": "Pineapplejuice",
+        "Country": "Switzerland",
+        "Tags": "rock",
+        "Homepage": "https://laut.fm/pineapplejuice",
+        "Source1": "http://stream.laut.fm/pineapplejuice"
+    },
+    {
+        "Title": "pinkradio.com | samo najbolji hitovi",
+        "Country": "Switzerland",
+        "Favicon": "https://pinkradio.com/images/pinkradio-logo.png",
+        "Homepage": "https://pinkradio.com/",
+        "Source1": "http://pink.exyuserver.com/;type=mp3"
+    },
+    {
+        "Title": "Piratenradio",
+        "Country": "Switzerland",
+        "Tags": "alternative,non-commercial",
+        "Language": "de,gsw",
+        "Homepage": "https://www.piratenradio.ch/",
+        "Source1": "http://piratenradioch.ice.infomaniak.ch/piratenradioch-128.mp3"
+    },
+    {
+        "Title": "Planet Ambi HD",
+        "Country": "Switzerland",
+        "Tags": "ambient,drone",
+        "Homepage": "https://planetambi.com/",
+        "Source1": "http://philae.shoutca.st:9019/stream"
+    },
+    {
+        "Title": "Pop | Radio Swiss",
+        "Country": "Switzerland",
+        "Tags": "mp3,pop,radio swiss",
+        "Favicon": "https://www.radioswisspop.ch/favicon.ico",
+        "Language": "de,en,fr,gsw,it",
+        "Homepage": "https://www.radioswisspop.ch/",
+        "Source1": "https://stream.srg-ssr.ch/m/rsp/mp3_128"
+    },
+    {
+        "Title": "Provoda.ch LEGACY MP3",
+        "Country": "Switzerland",
+        "Favicon": "https://provoda.ch/favicon.ico",
+        "Homepage": "http://provoda.ch/",
+        "Source1": "https://station.waveradio.org/provodach.mp3?irqlzgjdlfohjixsouex"
+    },
+    {
+        "Title": "Public Domain Classical",
+        "Country": "Switzerland",
+        "Tags": "classical,public domain,royalty free",
+        "Favicon": "http://radio.publicdomainproject.org/images/pdlogo.svg",
+        "Homepage": "http://radio.publicdomainproject.org/de/index.html",
+        "Source1": "http://relay.publicdomainradio.org/classical.mp3"
+    },
+    {
+        "Title": "Public Domain Jazz",
+        "Country": "Switzerland",
+        "Tags": "royalty free",
+        "Favicon": "http://radio.publicdomainproject.org/images/pdlogo.svg",
+        "Homepage": "http://radio.publicdomainproject.org/de/index.html",
+        "Source1": "http://relay.publicdomainradio.org/jazz_swing.mp3"
+    },
+    {
+        "Title": "Public Domain Swiss Schlager",
+        "Country": "Switzerland",
+        "Tags": "folk,public domain,royalty free,swiss,swiss folk schlager",
+        "Favicon": "http://radio.publicdomainproject.org/images/pdlogo.svg",
+        "Homepage": "http://radio.publicdomainproject.org/de/index.html",
+        "Source1": "http://relay.publicdomainradio.org/swiss_schlager.mp3"
+    },
+    {
+        "Title": "publicdomainproject   classic",
+        "Country": "Switzerland",
+        "Homepage": "http://radio.publicdomainproject.org/de/index.html",
+        "Source1": "http://relay.publicdomainproject.org/classical.mp3"
+    },
+    {
+        "Title": "publicdomainproject  swing jazz",
+        "Country": "Switzerland",
+        "Homepage": "http://radio.publicdomainproject.org/de/index.html",
+        "Source1": "http://relay.publicdomainradio.org/jazz_swing.mp3"
+    },
+    {
+        "Title": "PureGlow Radio",
+        "Country": "Switzerland",
+        "Favicon": "https://2023.pureglowradio.com/wp-content/uploads/2016/09/logo-dark-pgr-2.png",
+        "Homepage": "https://www.pureglowradio.com/",
+        "Source1": "https://pureglowradio.ice.infomaniak.ch/pureglowradio.mp3"
+    },
+    {
+        "Title": "QUEER RADIO",
+        "Country": "Switzerland",
+        "Favicon": "https://www.queerradio.ch/wp-content/uploads/2019/10/QUEER-RADIO-HEART-PLAYER-180-180-pixel-150x150.jpg",
+        "Homepage": "https://www.queerradio.ch/",
+        "Source1": "https://solid67.streamupsolutions.com/proxy/eyprxrqz?mp=/stream"
+    },
+    {
+        "Title": "R102",
+        "Country": "Switzerland",
+        "Tags": "variety",
+        "Language": "it",
+        "Homepage": "http://www.r102.ch/",
+        "Source1": "http://94.23.66.155:9334/listen.pls"
+    },
+    {
+        "Title": "RaBe Radio Bern Switzerland",
+        "Country": "Switzerland",
+        "Tags": "multikulti",
+        "Favicon": "http://www.rabe.ch/favicon/favicon-96x96.png",
+        "Homepage": "http://www.rabe.ch/",
+        "Source1": "http://stream.rabe.ch:8000/livestream/rabe-mid.mp3"
+    },
+    {
+        "Title": "RaBe Radio Bern Switzerland",
+        "Country": "Switzerland",
+        "Tags": "multikulti",
+        "Language": "de",
+        "Homepage": "https://rabe.ch/",
+        "Source1": "http://stream.rabe.ch/livestream/rabe-mid.mp3"
+    },
+    {
+        "Title": "Radio 1",
+        "Country": "Switzerland",
+        "Tags": "schweiz",
+        "Homepage": "http://www.radio1.ch/",
+        "Source1": "http://stream.radio1.ch/128k.m3u"
+    },
+    {
+        "Title": "Radio 1",
+        "Country": "Switzerland",
+        "Tags": "misc",
+        "Source1": "http://stream.radio1.ch/128k.m3u"
+    },
+    {
+        "Title": "Radio 1 - FM 93.6",
+        "Country": "Switzerland",
+        "Tags": "rock",
+        "Homepage": "https://www.radio1.ch/",
+        "Source1": "https://stream.radio1.ch/128k"
+    },
+    {
+        "Title": "Radio 1 Zürich",
+        "Country": "Switzerland",
+        "Homepage": "https://www.radio1.ch/",
+        "Source1": "https://stream.radio1.ch/128k?utm_source=chatgpt.com"
+    },
+    {
+        "Title": "Radio 105 Mash Up",
+        "Country": "Switzerland",
+        "Homepage": "https://www.my105.ch/",
+        "Source1": "https://www.my105.ch/livestreams/mashup/54090"
+    },
+    {
+        "Title": "Radio 24",
+        "Country": "Switzerland",
+        "Tags": "classic rock,easy listening,pop music",
+        "Favicon": "https://upload.wikimedia.org/wikipedia/de/3/33/Radio_24_Logo.svg",
+        "Language": "de",
+        "Homepage": "https://www.radio24.ch/",
+        "Latitude": 47.374620587233906,
+        "Longitude": 8.539037704467775,
+        "Source1": "https://stream.streambase.ch/radio24/mp3-192/direct/"
+    },
+    {
+        "Title": "Radio 2Go",
+        "Country": "Switzerland",
+        "Tags": "adult contemporary,pop,top hits",
+        "Favicon": "https://radio2go.fm/wp-content/uploads/2020/06/favicon.png",
+        "Language": "de,gsw",
+        "Homepage": "https://www.radio2go.fm/",
+        "Latitude": 47.48032774740612,
+        "Longitude": 8.21059584617615,
+        "Source1": "https://uksoutha.streaming.broadcast.radio:15830/radio2go"
+    },
+    {
+        "Title": "Radio 32",
+        "Country": "Switzerland",
+        "Tags": "local news,news,pop",
+        "Favicon": "https://www.presseportal-schweiz.ch/sites/default/files/radio_32_logo_neu.jpg",
+        "Language": "gsw",
+        "Homepage": "https://www.radio32.ch/",
+        "Latitude": 47.20411757986243,
+        "Longitude": 7.542800903320313,
+        "Source1": "https://stream.streambase.ch/radio32/mp3-192/chmedia-today-web"
+    },
+    {
+        "Title": "Radio 32 Goldies",
+        "Country": "Switzerland",
+        "Favicon": "https://ch.az-cdn.ch/static/4.22.1/radio32/device-icons/192x192.png",
+        "Homepage": "https://radio.radio32.ch/?utm_source=website&utm_medium=logo&utm_campaign=header",
+        "Source1": "https://stream.streambase.ch/r32goldies/mp3-192/direct/"
+    },
+    {
+        "Title": "Radio 3FACH",
+        "Country": "Switzerland",
+        "Language": "de",
+        "Homepage": "http://www.3fach.ch/",
+        "Source1": "http://stream01.3fach.ch:8001/live"
+    },
+    {
+        "Title": "Radio 3FACH",
+        "Country": "Switzerland",
+        "Favicon": "https://3fach.ch/themes/3fach/assets/logo_black@2x.png",
+        "Homepage": "https://3fach.ch/",
+        "Source1": "https://stream01.3fach.ch/live"
+    },
+    {
+        "Title": "Radio Alta",
+        "Country": "Switzerland",
+        "Tags": "christian,gospel,louange,worship",
+        "Language": "fr",
+        "Region": "AT-1",
+        "Homepage": "https://transmiss.ion.ovh/public/alta",
+        "Latitude": 46.31,
+        "Longitude": -6.3,
+        "Source1": "https://transmiss.ion.ovh/listen/alta/radio.mp3"
+    },
+    {
+        "Title": "Radio Argovia",
+        "Country": "Switzerland",
+        "Favicon": "https://ch.az-cdn.ch/static/4.46.3/argovia/device-icons/48x48.png",
+        "Homepage": "https://www.argovia.ch/services/radio-argovia-uebers-internet-hoeren-133915549",
+        "Source1": "https://stream.streambase.ch/argovia/mp3-192/direct/"
+    },
+    {
+        "Title": "Radio Argovia",
+        "Country": "Switzerland",
+        "Tags": "hot adult contemporary,pop",
+        "Favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Argovia-logo.svg/800px-Argovia-logo.svg.png",
+        "Language": "gsw",
+        "Homepage": "https://www.argovia.ch/",
+        "Latitude": 47.390836703801256,
+        "Longitude": 8.048558235168459,
+        "Source1": "https://stream.streambase.ch/argovia/mp3-192/radiobrowser/",
+        "Source2": "https://stream.streambase.ch/argovia/mp3-192/direct/"
+    },
+    {
+        "Title": "Radio Argovia Hit Mix",
+        "Country": "Switzerland",
+        "Tags": "top hits",
+        "Language": "gsw",
+        "Homepage": "https://www.argovia.ch/shows/hitmix",
+        "Latitude": 47.39043559344022,
+        "Longitude": 8.045530365914734,
+        "Source1": "https://stream.streambase.ch/hitmix/mp3-192/direct/"
+    },
+    {
+        "Title": "Radio Barix AAC",
+        "Country": "Switzerland",
+        "Tags": "adult contemporary,pop,soul",
+        "Homepage": "https://www.barix.com/",
+        "Source1": "http://barix.streamguys.net/barix_aacp"
+    },
+    {
+        "Title": "Radio Basilisk",
+        "Country": "Switzerland",
+        "Favicon": "http://www.basilisk.ch/assets/favicons/apple-icon-120x120.png",
+        "Homepage": "http://www.basilisk.ch/",
+        "Source1": "http://radiobasilisk-64.ice.infomaniak.ch/radiobasilisk-64-128-2.mp3"
+    },
+    {
+        "Title": "Radio BeO",
+        "Country": "Switzerland",
+        "Language": "de,gsw",
+        "Homepage": "https://www.radiobeo.ch/",
+        "Latitude": 46.684701156285854,
+        "Longitude": 7.852370738983155,
+        "Source1": "http://stream11.radiobeo.ch:8000/radiobeo.mp3",
+        "Source2": "https://streaming.radiobeo.ch/beo/mp3_192/web"
+    },
+    {
+        "Title": "Radio Bern RaBe (HD Stream)",
+        "Country": "Switzerland",
+        "Favicon": "https://rabe.ch/wp-content/uploads/2017/01/logo.svg",
+        "Homepage": "https://rabe.ch/",
+        "Source1": "http://stream.rabe.ch/livestream/rabe-hd.mp3"
+    },
+    {
+        "Title": "RADIO BERN1",
+        "Country": "Switzerland",
+        "Favicon": "https://static.az-cdn.ch/__ip/l0CfiOHmV_gzjlkA8MAghSK6CUs/c8f09de14b2030ffea76cb3ac3a3ab7887770731/remote.adjust.rotate=0&remote.size.w=1080&remote.size.h=1080&local.crop.h=1080&local.crop.w=1080&local.crop.x=0&local.crop.y=0&r=2,radio-162x162",
+        "Homepage": "https://radio.radiobern1.ch/",
+        "Source1": "https://stream.streambase.ch/radiobern1/mp3-192/direct/"
+    },
+    {
+        "Title": "Radio Bistoquette",
+        "Country": "Switzerland",
+        "Favicon": "https://listen.radio-bistoquette.ch/hero-bg.jpg",
+        "Language": "fr",
+        "Homepage": "https://listen.radio-bistoquette.ch/",
+        "Source1": "https://listen.radio-bistoquette.ch/stream"
+    },
+    {
+        "Title": "Radio Bollwerk",
+        "Country": "Switzerland",
+        "Homepage": "https://www.radio-bollwerk.ch/",
+        "Source1": "https://radio.radio-bollwerk.ch/listen/radio_bollwerk/radio.mp3"
+    },
+    {
+        "Title": "Radio Central",
+        "Country": "Switzerland",
+        "Favicon": "https://ch.az-cdn.ch/static/4.68.0/radiocentral/device-icons/512x512.png",
+        "Homepage": "https://www.radiocentral.ch/",
+        "Source1": "https://stream.streambase.ch/rcentral/mp3-192/chmedia-radio-web/",
+        "Source2": "https://stream.streambase.ch/rcentral/mp3-192/chmedia-radio-web/1723615196409_33800762",
+        "Source3": "https://stream.streambase.ch/rcentral/mp3-192/direct/"
+    },
+    {
+        "Title": "Radio Chablais",
+        "Country": "Switzerland",
+        "Language": "fr",
+        "Homepage": "https://www.radiochablais.ch/",
+        "Source1": "http://radiochablais.ice.infomaniak.ch/radiochablais-high.mp3"
+    },
+    {
+        "Title": "Radio Chablais - 100% Français",
+        "Country": "Switzerland",
+        "Tags": "france",
+        "Language": "fr",
+        "Homepage": "https://radiochablais.ch/",
+        "Source1": "http://stream.radiochablais.ch/chablais-100francais.mp3"
+    },
+    {
+        "Title": "Radio Chablais Rock'n'Blues",
+        "Country": "Switzerland",
+        "Favicon": "https://www.radiochablais.ch/images/site/radiochablais1.png",
+        "Homepage": "https://radiochablais.ch/",
+        "Latitude": 46.257863086056034,
+        "Longitude": 6.944719472144949,
+        "Source1": "http://stream.radiochablais.ch/chablais-rocknblues.mp3"
+    },
+    {
+        "Title": "Radio Drachenblut",
+        "Country": "Switzerland",
+        "Favicon": "http://radio-drachenblut.ch/favicon.ico",
+        "Language": "de,fr",
+        "Homepage": "http://radio-drachenblut.ch/",
+        "Source1": "http://radio-drachenblut.ch:8000/stream/3/"
+    },
+    {
+        "Title": "Radio Electrons Libres",
+        "Country": "Switzerland",
+        "Favicon": "https://electronslibres.ch/favicon.ico",
+        "Homepage": "https://electronslibres.ch/",
+        "Latitude": 46.951187969034066,
+        "Longitude": 7.067127227783204,
+        "Source1": "https://api.radioking.io/radio/427889/listen.m3u"
+    },
+    {
+        "Title": "Radio Eviva",
+        "Country": "Switzerland",
+        "Homepage": "https://player.eviva.ch/",
+        "Latitude": 47.144874076132865,
+        "Longitude": 8.434310853481295,
+        "Source1": "https://stream.streambase.ch/reviva/mp3-192/direct/"
+    },
+    {
+        "Title": "Radio FM1",
+        "Country": "Switzerland",
+        "Favicon": "https://ch.az-cdn.ch/static/4.18.0/radiofm1/device-icons/48x48.png",
+        "Homepage": "https://www.radiofm1.ch/",
+        "Source1": "https://chmedia.streamabc.net/79-fm1-mp3-192-7523806?sABC=6499o8o6%230%230016or1p1r381r4485n244q3016qs660%23qverpg&aw_0_1st.playerid=direct&amsparams=playerid:direct;skey:1687795894",
+        "Source2": "https://chmedia.streamabc.net/79-fm1-mp3-192-7523806?sABC=6499oos8%230%230016or1p1r381r4485n244q3016qs660%23qverpg&aw_0_1st.playerid=direct&amsparams=playerid:direct;skey:1687796728"
+    },
+    {
+        "Title": "Radio FM1",
+        "Country": "Switzerland",
+        "Favicon": "https://ch.az-cdn.ch/static/5.23.0/radiofm1/device-icons/512x512.png",
+        "Homepage": "https://www.radiofm1.ch/?utm_source=website&utm_medium=logo&utm_campaign=header",
+        "Source1": "https://stream.streambase.ch/radiofm1/mp3-192/chmedia-radio-web/1781426097046_90149623?metaid=1781426094456_98706427"
+    },
+    {
+        "Title": "Radio Freiburg",
+        "Country": "Switzerland",
+        "Homepage": "https://www.radiofr.ch/freiburg",
+        "Latitude": 46.80213933621702,
+        "Longitude": 7.168565537177166,
+        "Source1": "https://radiofribourg.ice.infomaniak.ch/radiofribourg-high.mp3"
+    },
+    {
+        "Title": "Radio Freundes-Dienst Schweiz",
+        "Country": "Switzerland",
+        "Tags": "christian music,news",
+        "Language": "de",
+        "Homepage": "https://www.radiofd.ch/",
+        "Source1": "https://stream.radiofd.ch/radiofd/mp3_128/radiobrowser"
+    },
+    {
+        "Title": "Radio Freundesdienst Schweiz",
+        "Country": "Switzerland",
+        "Tags": "christian",
+        "Favicon": "http://www.freundesdienst.org/favicon.ico",
+        "Language": "de",
+        "Homepage": "http://www.freundesdienst.org/",
+        "Source1": "http://radiofdch.ice.infomaniak.ch/radiofdch.mp3"
+    },
+    {
+        "Title": "Radio Fribourg",
+        "Country": "Switzerland",
+        "Tags": "local news",
+        "Favicon": "https://radiofr.ch/favicons/apple-touch-icon.png",
+        "Homepage": "https://radiofr.ch/",
+        "Source1": "https://radiofribourg.ice.infomaniak.ch/radiofribourg-high.mp3"
+    },
+    {
+        "Title": "Radio Gaba Switzerland",
+        "Country": "Switzerland",
+        "Tags": "deep house,minimal,nu disco,psytrance,techno,trance",
+        "Homepage": "http://radio-gaba.ddns.net:8000/",
+        "Latitude": 46.99066094500696,
+        "Longitude": 6.932244300842285,
+        "Source1": "http://radio-gaba.ddns.net:8000/play.ogg"
+    },
+    {
+        "Title": "Radio Gaia",
+        "Country": "Switzerland",
+        "Tags": "chillout",
+        "Homepage": "https://www.1.fm/station/radiogaia",
+        "Source1": "https://strm112.1.fm/radiogaia_128"
+    },
+    {
+        "Title": "Radio Gloria",
+        "Country": "Switzerland",
+        "Tags": "christian,katholik",
+        "Favicon": "https://radiogloria.ch/favicon.ico",
+        "Language": "gsw",
+        "Homepage": "https://radiogloria.ch/",
+        "Source1": "https://ch-be06-ice.dmd2streaming.com/radiogloria_lo"
+    },
+    {
+        "Title": "Radio grenzenlos,Radio grenzenlos [SPCast]",
+        "Country": "Switzerland",
+        "Tags": "charts,dance,gay,mainstream,mundart,oldies,pop,queer,schlager,schweiz,top 40",
+        "Favicon": "https://radio.grenzenlos.ch/logo.png",
+        "Language": "de",
+        "Region": "CH-BL",
+        "Latitude": 47.47614,
+        "Longitude": 7.733224,
+        "Source1": "https://grenzenlos.sp.radio.fm/stream"
+    },
+    {
+        "Title": "Radio Grischa",
+        "Country": "Switzerland",
+        "Tags": "infos,music,news",
+        "Favicon": "https://www.radiogrischa.ch/themes/custom/grischa/images/logos/RG_Signet.png",
+        "Language": "de,gsw,it,rm",
+        "Homepage": "https://www.radiogrischa.ch/",
+        "Source1": "https://somedia-4.streaming.deliver.media/radiogrischa_mp3_128",
+        "Source2": "https://stream.radiogrischa.ch/radiogrischa/mp3_128/internetradioschweiz"
+    },
+    {
+        "Title": "Radio Grischa",
+        "Country": "Switzerland",
+        "Favicon": "https://rso.ch/themes/custom/rso/images/RadioGrischa.svg",
+        "Language": "gsw",
+        "Homepage": "https://rso.ch/",
+        "Source1": "https://somedia-1.streaming.deliver.media/radiogrischa_mp3_128?suffix0=RSO"
+    },
+    {
+        "Title": "Radio Gugelhopf",
+        "Country": "Switzerland",
+        "Tags": "experimental rock,punk,ska,world music",
+        "Language": "de,en,es,fr",
+        "Homepage": "http://radiogugelhopf.ch/",
+        "Source1": "http://uk3.internet-radio.com:8113/stream"
+    },
+    {
+        "Title": "Radio Gwendalyn",
+        "Country": "Switzerland",
+        "Language": "it",
+        "Homepage": "https://www.radiogwen.ch/",
+        "Source1": "http://stream.radiojar.com/h6eddm4h9quvv"
+    },
+    {
+        "Title": "Radio HOF—BAR",
+        "Country": "Switzerland",
+        "Tags": "ambient",
+        "Favicon": "https://hof-bar.ch/assets/favicon.png",
+        "Language": "de,en",
+        "Homepage": "https://hof-bar.ch/",
+        "Latitude": 46.94747074222411,
+        "Longitude": 7.445144438609248,
+        "Source1": "https://hofbar.beatnik.ch/stream"
+    },
+    {
+        "Title": "Radio Jura bernois",
+        "Country": "Switzerland",
+        "Favicon": "https://www.rjb.ch/Htdocs/Images/Theme/rjb/HeadIcons/apple-touch-icon.png",
+        "Homepage": "https://www.rjb.ch/",
+        "Source1": "https://rjb.ice.infomaniak.ch/rjb-128.aac"
+    },
+    {
+        "Title": "Radio LAC",
+        "Country": "Switzerland",
+        "Favicon": "https://www.radiolac.ch/wp-content/uploads/2017/08/android-icon-48x48.png",
+        "Homepage": "https://www.radiolac.ch/",
+        "Source1": "https://radiolac.ice.infomaniak.ch/radiolac-high.mp3"
+    },
+    {
+        "Title": "Radio Lac",
+        "Country": "Switzerland",
+        "Tags": "genève,lac,yes fm",
+        "Favicon": "https://www.radiolac.ch/favicon.ico",
+        "Language": "fr",
+        "Homepage": "https://www.radiolac.ch/direct/player/",
+        "Source1": "https://radiolac.ice.infomaniak.ch/radiolac-high.mp3"
+    },
+    {
+        "Title": "Radio LoRa",
+        "Country": "Switzerland",
+        "Tags": "community radio,feminist,freies radio,queer",
+        "Favicon": "https://www.lora.ch/images/favicon/apple-touch-icon.png",
+        "Language": "de",
+        "Homepage": "https://www.lora.ch/",
+        "Source1": "https://livestream.lora.ch/lora.mp3"
+    },
+    {
+        "Title": "Radio LoRa 97.5",
+        "Country": "Switzerland",
+        "Tags": "community radio,feminist,freies radio,queer",
+        "Favicon": "https://www.lora.ch/images/favicon/apple-touch-icon.png",
+        "Language": "de,es,pt,tr",
+        "Homepage": "https://www.lora.ch/",
+        "Latitude": 47.37839873971309,
+        "Longitude": 8.529456853866579,
+        "Source1": "https://livestream.lora.ch/lora.mp3"
+    },
+    {
+        "Title": "RADIO MARIA SWITZERLAND",
+        "Country": "Switzerland",
+        "Tags": "catholic,christian,katholic,religion,talk",
+        "Language": "de",
+        "Homepage": "http://www.radiomaria.ch/",
+        "Source1": "http://dreamsiteradiocp2.com:8106/stream",
+        "Source2": "http://dreamsiteradiocp.com:8020/stream"
+    },
+    {
+        "Title": "Radio Maxxima",
+        "Country": "Switzerland",
+        "Homepage": "https://www.maxxima.org/",
+        "Latitude": 46.58670962811805,
+        "Longitude": 7.752571105957032,
+        "Source1": "https://maxxima.mine.nu/maxxima.mp3"
+    },
+    {
+        "Title": "Radio Melody",
+        "Country": "Switzerland",
+        "Tags": "classic hits,hits,top40",
+        "Favicon": "https://ch.az-cdn.ch/static/3.3.2/radiomelody/device-icons/48x48.png",
+        "Language": "en,gsw",
+        "Homepage": "https://www.radiomelody.ch/",
+        "Source1": "https://chmedia.streamabc.net/79-rm-mp3-192-7754268?sABC=64726ssr%230%23565o8622n9638n515p1pqq82pnq6q099%23zlghare&aw_0_1st.playerid=mytuner&amsparams=playerid:mytuner;skey:1685221374"
+    },
+    {
+        "Title": "Radio Melody Schweiz",
+        "Country": "Switzerland",
+        "Favicon": "https://ch.az-cdn.ch/static/4.18.0/radiomelody/device-icons/512x512.png",
+        "Homepage": "https://www.radiomelody.ch/",
+        "Source1": "https://stream.streambase.ch/rm/mp3-192/mytuner/"
+    },
+    {
+        "Title": "Radio MKI",
+        "Country": "Switzerland",
+        "Homepage": "https://stream.zeno.fm/d0xobhere89uv",
+        "Source1": "https://stream.zeno.fm/d0xobhere89uv"
+    },
+    {
+        "Title": "Radio Morcote International",
+        "Country": "Switzerland",
+        "Tags": "morcote,pop,rock",
+        "Favicon": "https://www.radiomorcoteinternational.com/favicon.ico",
+        "Language": "de,it",
+        "Homepage": "https://www.radiomorcoteinternational.com/",
+        "Source1": "http://streaming.radiomorcoteinternational.com:8000/;"
+    },
+    {
+        "Title": "Radio Munot",
+        "Country": "Switzerland",
+        "Favicon": "https://www.radiomunot.ch/assets/favicons/android-icon-192x192.png",
+        "Language": "gsw",
+        "Homepage": "https://www.radiomunot.ch/",
+        "Latitude": 47.69204095220404,
+        "Longitude": 8.625522851943972,
+        "Source1": "https://munot.ch-central-4.streaming.deliver.media/munot_mp3_128",
+        "Source2": "https://radio-munot.api.radiosphere.io/channels/channel-demo/stream.mp3?quality=4"
+    },
+    {
+        "Title": "Radio Neue Hoffnung",
+        "Country": "Switzerland",
+        "Tags": "christian",
+        "Language": "de",
+        "Homepage": "https://www.mnr.ch/audio/informationen/",
+        "Source1": "https://stream.mnr.ch/rnh-mp3"
+    },
+    {
+        "Title": "Radio Neue Hoffnung",
+        "Country": "Switzerland",
+        "Tags": "christian",
+        "Favicon": "https://www.mnr.ch/favicon.ico",
+        "Language": "gsw",
+        "Homepage": "https://www.mnr.ch/audio/",
+        "Source1": "https://stream.mnr.ch/rnh-mp3"
+    },
+    {
+        "Title": "Radio Neue Hoffnung",
+        "Country": "Switzerland",
+        "Tags": "christian",
+        "Favicon": "https://www.mnr.ch/favicon.ico",
+        "Language": "gsw",
+        "Homepage": "https://www.mnr.ch/radio/",
+        "Source1": "https://stream.mnr.ch/rnh-mp3"
+    },
+    {
+        "Title": "Radio neue Hoffnung (RNH)",
+        "Country": "Switzerland",
+        "Tags": "christian,christian music,talk & speech",
+        "Favicon": "https://www.mnr.ch/favicon.ico",
+        "Language": "ar,de,es",
+        "Homepage": "https://www.mnr.ch/audio/",
+        "Latitude": 47.39666987583798,
+        "Longitude": 8.6050683259964,
+        "Source1": "https://s5.radio.co/seeece1f6b/listen"
+    },
+    {
+        "Title": "Radio Niesen",
+        "Country": "Switzerland",
+        "Homepage": "https://www.radio-niesen.ch/",
+        "Latitude": 46.73524885109413,
+        "Longitude": 7.61129379272461,
+        "Source1": "https://login.streamplus.de/app.php/streamserver/public/31677.m3u"
+    },
+    {
+        "Title": "Radio Onyx",
+        "Country": "Switzerland",
+        "Tags": "italian pop",
+        "Language": "it",
+        "Homepage": "http://www.radioonyx.org/",
+        "Source1": "http://nr4.newradio.it:9432/listen.pls"
+    },
+    {
+        "Title": "Radio Ouistiti",
+        "Country": "Switzerland",
+        "Homepage": "http://www.radioouistiti.ch/",
+        "Source1": "http://radioouistiti2.ice.infomaniak.ch/radioouistiti-high.mp3"
+    },
+    {
+        "Title": "RADIO OUISTITI",
+        "Country": "Switzerland",
+        "Favicon": "https://www.radioouistiti.ch/wp-content/uploads/2024/11/radioouistiti_logo.png",
+        "Homepage": "https://www.radioouistiti.ch/",
+        "Source1": "https://radioouistiti2.ice.infomaniak.ch/radioouistiti-high.mp3?_=1"
+    },
+    {
+        "Title": "Radio Pilatus",
+        "Country": "Switzerland",
+        "Favicon": "https://ch.az-cdn.ch/static/4.10.3/radiopilatus/device-icons/192x192.png",
+        "Homepage": "https://www.radiopilatus.ch/",
+        "Source1": "https://stream.streambase.ch/radiopilatus/mp3-192/chmedia/"
+    },
+    {
+        "Title": "Radio Pilatus",
+        "Country": "Switzerland",
+        "Favicon": "https://static.az-cdn.ch/__ip/-mJfyVrl_jY3yNiQEv1P6bDVERI/e2f4da8bbaacde7412f8067126f84818cfc72783/remote.adjust.rotate=0",
+        "Homepage": "https://www.radiopilatus.ch/?utm_source=website",
+        "Source1": "https://stream.streambase.ch/radiopilatus/mp3-192/direct/"
+    },
+    {
+        "Title": "Radio R",
+        "Country": "Switzerland",
+        "Favicon": "https://radio-r.ch/wp-content/uploads/2020/04/cropped-radio-r-180x180.png",
+        "Language": "fr",
+        "Homepage": "https://radio-r.ch/",
+        "Source1": "http://radior.ice.infomaniak.ch/radior-128.mp3"
+    },
+    {
+        "Title": "Radio R Louange",
+        "Country": "Switzerland",
+        "Favicon": "https://radio-r.ch/wp-content/uploads/2024/03/radio-r-louange_cover_cropOK_1080x1080px-170x170.png",
+        "Homepage": "https://radio-r.ch/",
+        "Source1": "https://radiorlouange.ice.infomaniak.ch/radiorlouange-96.aac?ver=666978",
+        "Source2": "https://radiorlouange.ice.infomaniak.ch/radiorlouange-96.aac"
+    },
+    {
+        "Title": "Radio Rasa Schaffhausen",
+        "Country": "Switzerland",
+        "Tags": "alternative,independent,indie",
+        "Favicon": "https://www.rasa.ch/favicon.ico",
+        "Language": "de,gsw",
+        "Homepage": "https://www.rasa.ch/",
+        "Latitude": 47.69611620326421,
+        "Longitude": 8.633837699890138,
+        "Source1": "https://radio.upstream-cloud.ch/radiorasa-128.mp3"
+    },
+    {
+        "Title": "Radio Rocher",
+        "Country": "Switzerland",
+        "Tags": "community radio,suisse,swiss made",
+        "Favicon": "https://image.radioking.io/radios/321905/logo/26ca805b-11bd-49c0-a13d-d357fb33ffd0.jpeg",
+        "Language": "fr",
+        "Homepage": "https://www.radio-rocher.ch/",
+        "Latitude": 46.99804224911058,
+        "Longitude": 6.934143304824829,
+        "Source1": "https://play.radioking.io/radio-rocher/429886"
+    },
+    {
+        "Title": "Radio Rocket",
+        "Country": "Switzerland",
+        "Tags": "alternative,eclectic prog,rock",
+        "Language": "en,fr",
+        "Homepage": "https://radiorocket.ch/",
+        "Source1": "https://i9.streams.ovh/sc/radioroc/stream"
+    },
+    {
+        "Title": "RADIO ROTATION",
+        "Country": "Switzerland",
+        "Tags": "pop",
+        "Favicon": "https://www.wix.com/favicon.ico",
+        "Homepage": "https://www.radiorotation.ch/",
+        "Source1": "http://stream.laut.fm/radio-rotation"
+    },
+    {
+        "Title": "Radio RTR",
+        "Country": "Switzerland",
+        "Favicon": "https://www.rtr.ch/var/storage/assets/webpack/favicons/rtr-apple-touch-icon.png",
+        "Language": "rm",
+        "Homepage": "https://www.rtr.ch/",
+        "Latitude": 46.85621466243614,
+        "Longitude": 9.523086547851564,
+        "Source1": "https://stream.srg-ssr.ch/rr/aacp_96.m3u"
+    },
+    {
+        "Title": "Radio Rumantsch",
+        "Country": "Switzerland",
+        "Tags": "public radio,srg ssr",
+        "Favicon": "http://www.rtr.ch/var/storage/assets/webpack/favicons/rtr-apple-touch-icon.png",
+        "Language": "rm",
+        "Homepage": "http://www.rtr.ch/",
+        "Source1": "http://stream.srg-ssr.ch/m/rr/mp3_128"
+    },
+    {
+        "Title": "Radio S",
+        "Country": "Switzerland",
+        "Favicon": "https://static.wixstatic.com/media/d168f9_11af99f87f4448daaf0e1bda1d1a1169~mv2.png/v1/fill/w_180,h_125,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/LOGO%20Radio%20S.png",
+        "Language": "de",
+        "Region": "CH-TG",
+        "Homepage": "https://stream.radio-s.ch/stream",
+        "Source1": "https://stream.radio-s.ch/stream"
+    },
+    {
+        "Title": "Radio Schlagerpark",
+        "Country": "Switzerland",
+        "Tags": "partyschlager,schlager",
+        "Language": "de",
+        "Homepage": "https://www.schlagerpark.com/",
+        "Source1": "https://radio.schlagerpark.com/"
+    },
+    {
+        "Title": "Radio SRF 1",
+        "Country": "Switzerland",
+        "Homepage": "https://www.srf.ch/radio-srf-1/",
+        "Source1": "http://stream.srg-ssr.ch/drs1/aacp_32.m3u"
+    },
+    {
+        "Title": "Radio SRF 1 (AAC 192)",
+        "Country": "Switzerland",
+        "Tags": "information,news,pop,srg ssr",
+        "Favicon": "https://www.srf.ch/static-assets/images/srf-apple-touch-icon.png",
+        "Language": "de,gsw",
+        "Homepage": "https://www.srf.ch/radio-srf-1",
+        "Source1": "https://stream.srg-ssr.ch/srgssr/srf1/aac/192"
+    },
+    {
+        "Title": "Radio SRF 1 Aargau Solothurn",
+        "Country": "Switzerland",
+        "Homepage": "https://www.srf.ch/sendungen/regionaljournal-aargau-solothurn",
+        "Source1": "http://stream.srg-ssr.ch/regi_ag_so/aacp_32.m3u"
+    },
+    {
+        "Title": "Radio SRF 1 Basel Baselland",
+        "Country": "Switzerland",
+        "Favicon": "https://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png",
+        "Homepage": "https://www.srf.ch/sendungen/regionaljournal-basel-baselland",
+        "Source1": "http://stream.srg-ssr.ch/regi_bs_bl/aacp_32.m3u",
+        "Source2": "http://stream.srg-ssr.ch/m/regi_bs_bl/aacp_96"
+    },
+    {
+        "Title": "Radio SRF 1 Bern Freibourg Wallis",
+        "Country": "Switzerland",
+        "Homepage": "https://www.srf.ch/sendungen/regionaljournal-bern-freiburg-wallis",
+        "Source1": "http://stream.srg-ssr.ch/regi_be_fr_vs/aacp_32.m3u"
+    },
+    {
+        "Title": "Radio SRF 1 Bern Freiburg Wallis | 96k AAC+",
+        "Country": "Switzerland",
+        "Tags": "commercial free,contemporary,culture,mixed programming,pop",
+        "Favicon": "https://download-media.srf.ch/world/image/audio/2015/07/f10f17ef7b4c4befbebe7f8f6b5dd943.png",
+        "Language": "de",
+        "Homepage": "https://www.srf.ch/audio/regionaljournal-bern-freiburg-wallis",
+        "Latitude": 46.948,
+        "Longitude": 7.4474,
+        "Source1": "https://stream.srg-ssr.ch/m/regi_be_fr_vs/aacp_96"
+    },
+    {
+        "Title": "Radio SRF 1 Graubünden | 32k AAC+",
+        "Country": "Switzerland",
+        "Tags": "commercial free,contemporary,culture,mixed programming,pop",
+        "Favicon": "https://download-media.srf.ch/world/image/audio/2015/07/f10f17ef7b4c4befbebe7f8f6b5dd943.png",
+        "Language": "de",
+        "Homepage": "https://www.srf.ch/audio/regionaljournal-graubuenden",
+        "Latitude": 46.85,
+        "Longitude": 9.5329,
+        "Source1": "https://stream.srg-ssr.ch/m/regi_gr/aacp_32"
+    },
+    {
+        "Title": "Radio SRF 1 Graubünden | 96k AAC+",
+        "Country": "Switzerland",
+        "Tags": "commercial free,contemporary,culture,mixed programming,pop",
+        "Favicon": "https://download-media.srf.ch/world/image/audio/2015/07/f10f17ef7b4c4befbebe7f8f6b5dd943.png",
+        "Language": "de",
+        "Homepage": "https://www.srf.ch/audio/regionaljournal-graubuenden",
+        "Latitude": 46.85,
+        "Longitude": 9.5329,
+        "Source1": "https://stream.srg-ssr.ch/m/regi_gr/aacp_96"
+    },
+    {
+        "Title": "Radio SRF 1 Ostschweiz",
+        "Country": "Switzerland",
+        "Homepage": "https://www.srf.ch/sendungen/regionaljournal-ostschweiz",
+        "Source1": "http://stream.srg-ssr.ch/regi_ost/aacp_32.m3u"
+    },
+    {
+        "Title": "Radio SRF 1 Ostschweiz | 32k AAC+",
+        "Country": "Switzerland",
+        "Tags": "commercial free,contemporary,culture,mixed programming,pop",
+        "Favicon": "https://download-media.srf.ch/world/image/audio/2015/07/f10f17ef7b4c4befbebe7f8f6b5dd943.png",
+        "Language": "de",
+        "Homepage": "https://www.srf.ch/audio/regionaljournal-ostschweiz",
+        "Latitude": 47.4245,
+        "Longitude": 9.3767,
+        "Source1": "https://stream.srg-ssr.ch/m/regi_ost/aacp_32"
+    },
+    {
+        "Title": "Radio SRF 1 Regionaljournal Aargau, Solothurn",
+        "Country": "Switzerland",
+        "Tags": "local news,news,public radio,srg ssr",
+        "Favicon": "https://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png",
+        "Language": "de",
+        "Homepage": "https://www.srf.ch/radio-srf-1/",
+        "Source1": "http://stream.srg-ssr.ch/m/regi_ag_so/mp3_128"
+    },
+    {
+        "Title": "Radio SRF 1 Regionaljournal Basel, Baselland",
+        "Country": "Switzerland",
+        "Tags": "local news,news,public radio",
+        "Favicon": "https://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png",
+        "Language": "de",
+        "Homepage": "https://www.srf.ch/radio-srf-1/",
+        "Source1": "http://stream.srg-ssr.ch/m/regi_bs_bl/mp3_128"
+    },
+    {
+        "Title": "Radio SRF 1 Regionaljournal Bern, Freiburg, Wallis",
+        "Country": "Switzerland",
+        "Tags": "local news,news,public radio",
+        "Favicon": "https://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png",
+        "Language": "de",
+        "Homepage": "https://www.srf.ch/radio-srf-1/",
+        "Source1": "http://stream.srg-ssr.ch/m/regi_be_fr_vs/mp3_128"
+    },
+    {
+        "Title": "Radio SRF 1 Regionaljournal Graubünden",
+        "Country": "Switzerland",
+        "Tags": "local news,news,public radio",
+        "Favicon": "https://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png",
+        "Language": "de",
+        "Homepage": "https://www.srf.ch/radio-srf-1/",
+        "Source1": "http://stream.srg-ssr.ch/m/regi_gr/mp3_128"
+    },
+    {
+        "Title": "Radio SRF 1 Regionaljournal Ostschweiz",
+        "Country": "Switzerland",
+        "Tags": "local news,news,public radio",
+        "Favicon": "https://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png",
+        "Language": "de",
+        "Homepage": "https://www.srf.ch/radio-srf-1/",
+        "Source1": "http://stream.srg-ssr.ch/m/regi_ost/mp3_128"
+    },
+    {
+        "Title": "Radio SRF 1 Regionaljournal Zürich, Schaffhausen",
+        "Country": "Switzerland",
+        "Tags": "local news,news,public radio",
+        "Language": "de",
+        "Homepage": "http://www.srf.ch/radio-srf-1",
+        "Source1": "http://stream.srg-ssr.ch/m/regi_zh_sh/mp3_128"
+    },
+    {
+        "Title": "Radio SRF 1 Zentralschweiz",
+        "Country": "Switzerland",
+        "Homepage": "https://www.srf.ch/sendungen/regionaljournal-zentralschweiz",
+        "Source1": "http://stream.srg-ssr.ch/regi_zentr/aacp_32.m3u"
+    },
+    {
+        "Title": "Radio SRF 1 Zentralschweiz",
+        "Country": "Switzerland",
+        "Tags": "local news,news,public radio",
+        "Favicon": "http://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png",
+        "Language": "de",
+        "Homepage": "http://www.srf.ch/radio-srf-1/",
+        "Source1": "http://stream.srg-ssr.ch/m/regi_zentr/mp3_128"
+    },
+    {
+        "Title": "Radio SRF 1 Zentralschweiz | 32k AAC+",
+        "Country": "Switzerland",
+        "Tags": "commercial free,contemporary,culture,mixed programming,pop",
+        "Favicon": "https://download-media.srf.ch/world/image/audio/2015/07/f10f17ef7b4c4befbebe7f8f6b5dd943.png",
+        "Language": "de",
+        "Homepage": "https://www.srf.ch/audio/regionaljournal-zentralschweiz",
+        "Latitude": 47.0502,
+        "Longitude": 8.3093,
+        "Source1": "https://stream.srg-ssr.ch/m/regi_zentr/aacp_32"
+    },
+    {
+        "Title": "Radio SRF 1 Zürich Schaffhausen",
+        "Country": "Switzerland",
+        "Homepage": "https://www.srf.ch/sendungen/regionaljournal-zuerich-schaffhausen",
+        "Source1": "http://stream.srg-ssr.ch/regi_zh_sh/aacp_32.m3u"
+    },
+    {
+        "Title": "Radio SRF 2 Kultur",
+        "Country": "Switzerland",
+        "Tags": "kultur",
+        "Homepage": "https://www.srf.ch/radio-srf-2-kultur",
+        "Source1": "http://stream.srg-ssr.ch/drs2/aacp_32.m3u",
+        "Source2": "https://stream.srg-ssr.ch/m/drs2/aacp_32",
+        "Source3": "https://stream.srg-ssr.ch/m/drs2/aacp_96"
+    },
+    {
+        "Title": "Radio SRF 2 Kultur",
+        "Country": "Switzerland",
+        "Tags": "talk & speech",
+        "Source1": "http://stream.srg-ssr.ch/m/drs2/mp3_128",
+        "Source2": "http://stream.srg-ssr.ch/drs2/mp3_128.m3u"
+    },
+    {
+        "Title": "Radio SRF 2 Kultur (AAC 192)",
+        "Country": "Switzerland",
+        "Tags": "classical,culture,jazz,srg ssr",
+        "Favicon": "https://www.srf.ch/static-assets/images/srf-apple-touch-icon.png",
+        "Language": "de",
+        "Homepage": "https://www.srf.ch/radio-srf-2-kultur",
+        "Source1": "https://stream.srg-ssr.ch/srgssr/srf2/aac/192"
+    },
+    {
+        "Title": "Radio SRF 3",
+        "Country": "Switzerland",
+        "Homepage": "https://www.srf.ch/radio-srf-3",
+        "Source1": "http://stream.srg-ssr.ch/drs3/aacp_32.m3u",
+        "Source2": "https://stream.srg-ssr.ch/m/drs3/aacp_96",
+        "Source3": "https://stream.srg-ssr.ch/m/drs3/aacp_32"
+    },
+    {
+        "Title": "Radio SRF 3 (AAC 192)",
+        "Country": "Switzerland",
+        "Tags": "pop,rock,srg ssr",
+        "Favicon": "https://www.srf.ch/static-assets/images/srf-apple-touch-icon.png",
+        "Language": "de,gsw",
+        "Homepage": "https://www.srf.ch/radio-srf-3",
+        "Source1": "https://stream.srg-ssr.ch/srgssr/srf3/aac/192"
+    },
+    {
+        "Title": "Radio SRF 4 News",
+        "Country": "Switzerland",
+        "Favicon": "https://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png",
+        "Homepage": "https://www.srf.ch/radio-srf-4-news",
+        "Source1": "http://stream.srg-ssr.ch/drs4news/aacp_32.m3u",
+        "Source2": "https://stream.srg-ssr.ch/m/drs4news/aacp_32",
+        "Source3": "https://stream.srg-ssr.ch/m/drs4news/aacp_96"
+    },
+    {
+        "Title": "Radio SRF 4 News",
+        "Country": "Switzerland",
+        "Tags": "high quality audio,srg ssr",
+        "Favicon": "https://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png",
+        "Language": "de,gsw",
+        "Homepage": "https://www.srf.ch/play/radio/livepopup/radio-srf-4-news",
+        "Source1": "http://stream.srg-ssr.ch/drs3/aacp_96.ram"
+    },
+    {
+        "Title": "Radio SRF 4 News (AAC 192)",
+        "Country": "Switzerland",
+        "Tags": "information,news,srg ssr",
+        "Favicon": "https://www.srf.ch/static-assets/images/srf-apple-touch-icon.png",
+        "Language": "de",
+        "Homepage": "https://www.srf.ch/radio-srf-4-news",
+        "Source1": "https://stream.srg-ssr.ch/srgssr/srf4news/aac/192"
+    },
+    {
+        "Title": "Radio SRF Musikwelle",
+        "Country": "Switzerland",
+        "Homepage": "https://www.srf.ch/radio-srf-musikwelle",
+        "Source1": "http://stream.srg-ssr.ch/drsmw/aacp_32.m3u",
+        "Source2": "https://stream.srg-ssr.ch/drsmw/mp3_128.m3u",
+        "Source3": "http://stream.srg-ssr.ch/m/drsmw/aacp_96"
+    },
+    {
+        "Title": "Radio SRF Virus",
+        "Country": "Switzerland",
+        "Favicon": "https://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png",
+        "Homepage": "https://www.srf.ch/radio-srf-virus/",
+        "Source1": "http://stream.srg-ssr.ch/drsvirus/aacp_32.m3u"
+    },
+    {
+        "Title": "Radio SRF Virus",
+        "Country": "Switzerland",
+        "Tags": "high quality audio,srg ssr",
+        "Favicon": "https://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png",
+        "Language": "de,gsw",
+        "Homepage": "https://www.srf.ch/play/radio/livepopup/radio-srf-virus",
+        "Source1": "http://stream.srg-ssr.ch/drsvirus/aacp_96.ram"
+    },
+    {
+        "Title": "Radio SRF Virus - Indie Rock",
+        "Country": "Switzerland",
+        "Tags": "indie rock,public radio,srf",
+        "Language": "de",
+        "Homepage": "http://virus.ch/",
+        "Source1": "http://streaming.swisstxt.ch/m/drsvirus/mp3_128"
+    },
+    {
+        "Title": "Radio SRF1",
+        "Country": "Switzerland",
+        "Homepage": "http://www.srf.ch/radio-srf-1/player",
+        "Latitude": 47.044642000179365,
+        "Longitude": 8.293304443359377,
+        "Source1": "http://stream.srg-ssr.ch/srgssr/regi_zentr/aac/192"
+    },
+    {
+        "Title": "Radio Stadtfilter (DAB+)",
+        "Country": "Switzerland",
+        "Tags": "city,pop",
+        "Language": "de",
+        "Homepage": "https://stadtfilter.ch/",
+        "Source1": "https://www.digris.ch/stream/8a1a42f0-3f59-4113-b544-aad9275d34a7"
+    },
+    {
+        "Title": "Radio Suisse Classique",
+        "Country": "Switzerland",
+        "Tags": "classical",
+        "Favicon": "http://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png",
+        "Homepage": "http://www.srf.ch/radio-srf-1/",
+        "Source1": "http://www.surfmusik.de/m3u/station/radio-suisse-classique,16403.m3u"
+    },
+    {
+        "Title": "Radio Suisse Classique",
+        "Country": "Switzerland",
+        "Source1": "http://stream.srg-ssr.ch/rsc_fr/aacp_96.asx"
+    },
+    {
+        "Title": "Radio Suisse Classique",
+        "Country": "Switzerland",
+        "Tags": "classical,public radio,srg ssr",
+        "Language": "fr",
+        "Homepage": "http://www.radioswissclassic.ch/fr",
+        "Source1": "http://stream.srg-ssr.ch/m/rsc_fr/mp3_128"
+    },
+    {
+        "Title": "Radio Suisse Jazz",
+        "Country": "Switzerland",
+        "Tags": "blues,jazz,smooth jazz",
+        "Favicon": "https://www.radioswissjazz.ch/_nuxt/img/rsj-logo-claim-desktop.beb322c.png",
+        "Language": "fr",
+        "Homepage": "https://www.radioswissjazz.ch/en",
+        "Latitude": 47.54612998572227,
+        "Longitude": 7.599792480468751,
+        "Source1": "https://stream.srg-ssr.ch/m/rsj/aacp_96"
+    },
+    {
+        "Title": "Radio Summernight",
+        "Country": "Switzerland",
+        "Language": "de",
+        "Homepage": "https://radiosummernight.ch/",
+        "Source1": "https://stream.laut.fm/radiosummernight"
+    },
+    {
+        "Title": "Radio Svizzera Classica",
+        "Country": "Switzerland",
+        "Tags": "classical",
+        "Language": "it",
+        "Homepage": "https://www.radioswissclassic.ch/it",
+        "Source1": "https://stream.srg-ssr.ch/rsc_it/aacp_96.m3u"
+    },
+    {
+        "Title": "Radio Svizzera Classica",
+        "Country": "Switzerland",
+        "Tags": "classical,public radio,srg ssr",
+        "Language": "it",
+        "Homepage": "http://www.radioswissclassic.ch/it",
+        "Source1": "http://stream.srg-ssr.ch/m/rsc_it/mp3_128"
+    },
+    {
+        "Title": "radio swiss classic",
+        "Country": "Switzerland",
+        "Homepage": "http://www.radioswissclassic.ch/",
+        "Source1": "https://stream.srg-ssr.ch/m/rsc_de/aacp_96",
+        "Source2": "http://stream.srg-ssr.ch/m/rsc_de/mp3_128"
+    },
+    {
+        "Title": "Radio Swiss Classic",
+        "Country": "Switzerland",
+        "Favicon": "https://www.radioswissclassic.ch/_nuxt/img/rsc-logo-claim-desktop.520c5d8.png",
+        "Homepage": "https://radioswissclassic.ch/",
+        "Latitude": 47.558225547689226,
+        "Longitude": 7.587776184082032,
+        "Source1": "https://stream.srg-ssr.ch/rsc_de/aacp_96.m3u"
+    },
+    {
+        "Title": "Radio Swiss Classic",
+        "Country": "Switzerland",
+        "Homepage": "https://www.radioswissclassic.ch/de",
+        "Source1": "https://stream.srg-ssr.ch/m/rsc_de/aacp_96",
+        "Source2": "http://stream.srg-ssr.ch/m/rsc_de/aacp_96",
+        "Source3": "http://stream.srg-ssr.ch/m/rsc_de/aacp_32",
+        "Source4": "https://stream.srg-ssr.ch/rsc_de/aacp_96.m3u"
+    },
+    {
+        "Title": "Radio Swiss Classic",
+        "Country": "Switzerland",
+        "Tags": "aac+,classical,musica classica,srg ssr",
+        "Language": "it",
+        "Homepage": "https://www.radioswissclassic.ch/it",
+        "Source1": "https://stream.srg-ssr.ch/rsc_it/aacp_96.m3u",
+        "Source2": "http://stream.srg-ssr.ch/m/rsc_it/mp3_128"
+    },
+    {
+        "Title": "Radio Swiss Classic",
+        "Country": "Switzerland",
+        "Language": "de,fr,it",
+        "Homepage": "http://www.radioswissclassic.ch/de",
+        "Source1": "http://www.radioswissclassic.ch/de/live/aacp.m3u"
+    },
+    {
+        "Title": "Radio Swiss Classic 2026",
+        "Country": "Switzerland",
+        "Tags": "classical,instrumental,orchestra",
+        "Favicon": "https://www.radioswissclassic.ch/favicon.ico",
+        "Homepage": "https://www.radioswissclassic.ch/",
+        "Source1": "https://stream.srg-ssr.ch/m/rsc_de/mp3_128"
+    },
+    {
+        "Title": "Radio Swiss Classic DE (AAC 192)",
+        "Country": "Switzerland",
+        "Tags": "classical,srg ssr",
+        "Favicon": "https://www.radioswissclassic.ch/social-media/rsc-web.png",
+        "Language": "de",
+        "Homepage": "https://www.radioswissclassic.ch/de",
+        "Source1": "https://stream.srg-ssr.ch/srgssr/rsc_de/aac/192"
+    },
+    {
+        "Title": "Radio Swiss Classic FR",
+        "Country": "Switzerland",
+        "Tags": "classical",
+        "Favicon": "https://www.radioswissclassic.ch/favicon.ico",
+        "Language": "fr",
+        "Homepage": "https://www.radioswissclassic.ch/fr",
+        "Source1": "https://stream.srg-ssr.ch/srgssr/rsc_fr/aac/192"
+    },
+    {
+        "Title": "Radio Swiss Classic French",
+        "Country": "Switzerland",
+        "Tags": "classical,french,public radio,srg ssr",
+        "Language": "fr",
+        "Homepage": "http://www.radioswissclassic.ch/",
+        "Source1": "http://www.radioswissclassic.ch/fr/live/aacp.m3u",
+        "Source2": "http://www.radioswissclassic.ch/fr/live/aacp32.m3u"
+    },
+    {
+        "Title": "Radio Swiss Classic German",
+        "Country": "Switzerland",
+        "Tags": "classical,srg ssr",
+        "Language": "de",
+        "Homepage": "http://www.radioswissclassic.ch/",
+        "Source1": "http://www.radioswissclassic.ch/de/live/aacp32.m3u",
+        "Source2": "http://stream.srg-ssr.ch/m/rsc_de/mp3_128"
+    },
+    {
+        "Title": "Radio Swiss Classic Italian",
+        "Country": "Switzerland",
+        "Tags": "classical,italian,public radio,srg ssr",
+        "Language": "it",
+        "Homepage": "http://www.radioswissclassic.ch/",
+        "Source1": "http://www.radioswissclassic.ch/it/live/aacp.m3u",
+        "Source2": "http://www.radioswissclassic.ch/it/live/aacp32.m3u"
+    },
+    {
+        "Title": "Radio Swiss Classic Italian",
+        "Country": "Switzerland",
+        "Tags": "classical",
+        "Language": "it",
+        "Homepage": "https://www.radioswissclassic.ch/it",
+        "Source1": "https://stream.srg-ssr.ch/rsc_it/aacp_96.m3u"
+    },
+    {
+        "Title": "Radio Swiss Classic V2",
+        "Country": "Switzerland",
+        "Tags": "classical,instrumental",
+        "Favicon": "https://www.radioswissclassic.ch/favicon.ico",
+        "Language": "gsw",
+        "Homepage": "https://www.radioswissclassic.ch/",
+        "Source1": "https://stream.srg-ssr.ch/m/rsc_de/mp3_128"
+    },
+    {
+        "Title": "RADIO SWISS CLASSICA ITALIA",
+        "Country": "Switzerland",
+        "Favicon": "https://www.radioswissclassic.ch/favicon.ico",
+        "Homepage": "https://www.radioswissclassic.ch/",
+        "Source1": "https://stream.srg-ssr.ch/rsc_it/aacp_96.m3u",
+        "Source2": "https://stream.srg-ssr.ch/rsc_it/mp3_128.m3u",
+        "Source3": "https://stream.srg-ssr.ch/m/rsc_it/mp3_128"
+    },
+    {
+        "Title": "Radio Swiss Jazz",
+        "Country": "Switzerland",
+        "Tags": "jazz,public radio,srg ssr",
+        "Favicon": "http://www.radioswissjazz.ch/favicon.ico",
+        "Homepage": "http://www.radioswissjazz.ch/",
+        "Source1": "http://stream.srg-ssr.ch/m/rsj/aacp_96",
+        "Source2": "http://www.radioswissjazz.ch/live/aacp32.m3u",
+        "Source3": "http://stream.srg-ssr.ch/m/rsj/mp3_128"
+    },
+    {
+        "Title": "Radio Swiss Jazz",
+        "Country": "Switzerland",
+        "Tags": "jazz",
+        "Favicon": "https://www.radioswissjazz.ch/favicon.ico",
+        "Homepage": "https://www.radioswissjazz.ch/de/",
+        "Source1": "http://stream.srg-ssr.ch/m/rsj/aacp_32",
+        "Source2": "http://stream.srg-ssr.ch/m/rsj/aacp_96"
+    },
+    {
+        "Title": "Radio Swiss Jazz",
+        "Country": "Switzerland",
+        "Tags": "jazz,public radio,srg ssr",
+        "Homepage": "https://www.radioswissjazz.ch/en",
+        "Latitude": 47.54679942197618,
+        "Longitude": 7.585485577583314,
+        "Source1": "http://stream.srg-ssr.ch/m/rsj/mp3_128"
+    },
+    {
+        "Title": "Radio Swiss Jazz",
+        "Country": "Switzerland",
+        "Tags": "jazz,public radio,srg ssr",
+        "Language": "de,en,fr",
+        "Homepage": "https://www.radioswissjazz.ch/",
+        "Source1": "https://stream.srg-ssr.ch/rsj/aacp_96.m3u"
+    },
+    {
+        "Title": "Radio Swiss Jazz",
+        "Country": "Switzerland",
+        "Tags": "aac+,jazz,srg ssr",
+        "Favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Radio_Swiss_Jazz_Logo_2018.svg/2048px-Radio_Swiss_Jazz_Logo_2018.svg.png",
+        "Language": "it",
+        "Homepage": "https://www.radioswissjazz.ch/it",
+        "Source1": "https://stream.srg-ssr.ch/rsj/aacp_96.m3u"
+    },
+    {
+        "Title": "Radio Swiss Jazz",
+        "Country": "Switzerland",
+        "Homepage": "https://www.internetradio-schweiz.ch/",
+        "Source1": "https://www.internetradio-schweiz.ch/radio-swiss-jazz"
+    },
+    {
+        "Title": "Radio Swiss Jazz (AAC 192)",
+        "Country": "Switzerland",
+        "Tags": "jazz,srg ssr",
+        "Favicon": "https://www.radioswissjazz.ch/social-media/rsj-web.png",
+        "Homepage": "https://www.radioswissjazz.ch/de",
+        "Source1": "https://stream.srg-ssr.ch/srgssr/rsj/aac/192"
+    },
+    {
+        "Title": "Radio Swiss Pop",
+        "Country": "Switzerland",
+        "Homepage": "https://www.radioswisspop.ch/",
+        "Source1": "https://stream.srg-ssr.ch/rsp/mp3_128.m3u"
+    },
+    {
+        "Title": "Radio Swiss Pop",
+        "Country": "Switzerland",
+        "Tags": "pop,soft rock",
+        "Favicon": "https://www.radioswisspop.ch/favicon.ico",
+        "Homepage": "https://www.radioswisspop.ch/de",
+        "Source1": "http://stream.srg-ssr.ch/m/rsp/aacp_96",
+        "Source2": "http://stream.srg-ssr.ch/m/rsp/aacp_32"
+    },
+    {
+        "Title": "Radio Swiss Pop",
+        "Country": "Switzerland",
+        "Tags": "pop,public radio,srg ssr",
+        "Favicon": "http://www.radioswisspop.ch/favicon.ico",
+        "Homepage": "http://www.radioswisspop.ch/",
+        "Source1": "http://stream.srg-ssr.ch/m/rsp/mp3_128",
+        "Source2": "http://www.radioswisspop.ch/live/aacp32.m3u"
+    },
+    {
+        "Title": "Radio Swiss Pop",
+        "Country": "Switzerland",
+        "Tags": "aac+,pop,srg ssr",
+        "Favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Radio_Swiss_Pop_Logo_2018.svg/2048px-Radio_Swiss_Pop_Logo_2018.svg.png",
+        "Language": "it",
+        "Homepage": "https://www.radioswisspop.ch/it",
+        "Source1": "https://stream.srg-ssr.ch/rsp/aacp_96.m3u"
+    },
+    {
+        "Title": "Radio Swiss Pop",
+        "Country": "Switzerland",
+        "Tags": "pop",
+        "Favicon": "https://www.radioswisspop.ch/_nuxt/img/rsp-logo-35.2e0febd.png",
+        "Homepage": "https://www.radioswisspop.ch/en",
+        "Latitude": 46.81506738141647,
+        "Longitude": 8.481270201292187,
+        "Source1": "https://livestreaming-node-2.srg-ssr.ch/srgssr/rsp/mp3/128"
+    },
+    {
+        "Title": "Radio Swiss Pop (AAC 192)",
+        "Country": "Switzerland",
+        "Tags": "pop,srg ssr",
+        "Favicon": "https://www.radioswisspop.ch/social-media/rsp-web.png",
+        "Homepage": "https://www.radioswisspop.ch/de",
+        "Source1": "https://stream.srg-ssr.ch/srgssr/rsp/aac/192"
+    },
+    {
+        "Title": "Radio Südostschweiz",
+        "Country": "Switzerland",
+        "Favicon": "https://www.suedostschweiz.ch/themes/suedostschweiz/logo.svg",
+        "Homepage": "https://rso.ch/",
+        "Source1": "https://somedia-1.streaming.deliver.media/rso_mp3_128?suffix0=RSO"
+    },
+    {
+        "Title": "Radio Television Suisse 1",
+        "Country": "Switzerland",
+        "Language": "fr",
+        "Homepage": "https://www.rts.ch/audio-podcast/livepopup/rts-premiere/",
+        "Source1": "http://stream.srg-ssr.ch/la-1ere/mp3_128.m3u"
+    },
+    {
+        "Title": "Radio Tell",
+        "Country": "Switzerland",
+        "Tags": "folklore,volksmusik",
+        "Favicon": "https://radiotell.ch/wp-content/uploads/2021/01/cropped-apfel-180x180.png",
+        "Language": "de",
+        "Homepage": "http://www.radiotell.ch/",
+        "Source1": "http://stream.radiotell.ch/radiotell.mp3"
+    },
+    {
+        "Title": "Radio Tell Bodeständig",
+        "Country": "Switzerland",
+        "Favicon": "https://radiotell.ch/wp-content/uploads/2021/01/cropped-apfel-32x32.png",
+        "Language": "gsw",
+        "Homepage": "https://radiotell.ch/radiochannel/bodestaendig/",
+        "Source1": "https://radiotell.dmd2streaming.com/radiotell03.mp3"
+    },
+    {
+        "Title": "Radio Texoplex",
+        "Country": "Switzerland",
+        "Tags": "ambient,art music,art pop,experimental,funk",
+        "Favicon": "https://radio.texoplex.ch/favicon.png",
+        "Language": "de,en,it",
+        "Homepage": "https://radio.texoplex.ch/",
+        "Source1": "https://radio.texoplex.ch/stream"
+    },
+    {
+        "Title": "Radio Top (Ostschweiz)",
+        "Country": "Switzerland",
+        "Tags": "news,pop",
+        "Favicon": "https://www.toponline.ch/fileadmin/templates/logos/apple-touch-icon.png",
+        "Language": "de",
+        "Homepage": "https://www.toponline.ch/",
+        "Latitude": 47.50519113344825,
+        "Longitude": 8.714137673377992,
+        "Source1": "https://radiotop.ice.infomaniak.ch/radiotop96.aac"
+    },
+    {
+        "Title": "RADIO VINTAGE",
+        "Country": "Switzerland",
+        "Favicon": "https://www.radio-vintage.com/wp-content/uploads/2020/12/cropped-logo-4.png",
+        "Homepage": "https://www.radio-vintage.com/",
+        "Source1": "https://radiovintage.ice.infomaniak.ch/radiovintage-128.mp3?ua=RADIO%20VINTAGE%20-%20audio%20player%201"
+    },
+    {
+        "Title": "Radio Vostok",
+        "Country": "Switzerland",
+        "Language": "fr",
+        "Homepage": "http://www.radiovostok.ch/",
+        "Source1": "http://radiovostok.ice.infomaniak.ch/radiovostok.aac"
+    },
+    {
+        "Title": "Radio X Basel (MP3 Stream)",
+        "Country": "Switzerland",
+        "Tags": "drum and bass,electronica,hiphop,house,indie,reggae,trance",
+        "Homepage": "http://www.radiox.ch/",
+        "Source1": "http://mp3.radiox.ch:8000/standard.mp3.m3u"
+    },
+    {
+        "Title": "Radio X Basel (OGG Stream)",
+        "Country": "Switzerland",
+        "Homepage": "http://www.radiox.ch/",
+        "Source1": "http://mp3.radiox.ch:8000/standard.ogg.m3u"
+    },
+    {
+        "Title": "Radio X FLAC",
+        "Country": "Switzerland",
+        "Homepage": "https://radiox.ch/",
+        "Source1": "https://mp3.radiox.ch/standard.ogg"
+    },
+    {
+        "Title": "Radio Zuerich Nord: Musikbox",
+        "Country": "Switzerland",
+        "Favicon": "https://radio-zuerich-nord.ch/s3/a/wsw.website.1097/public/images/pages/1493162-436252646518688-612187691-njpg2.jpeg",
+        "Homepage": "https://radio-zuerich-nord.ch/",
+        "Source1": "https://bayern.streampanel.cloud:11145/stream"
+    },
+    {
+        "Title": "Radio Zuerisee",
+        "Country": "Switzerland",
+        "Tags": "pop",
+        "Source1": "http://mp3.radio.ch/radiozuerisee256k"
+    },
+    {
+        "Title": "Radio Zuerisee",
+        "Country": "Switzerland",
+        "Tags": "dance,hits,pop,top100",
+        "Favicon": "https://radiozuerisee.ch/assets/favicons/apple-icon-120x120.png",
+        "Language": "de,en",
+        "Homepage": "https://radiozuerisee.ch/",
+        "Source1": "http://mp3.radio.ch/radiozuerisee128k"
+    },
+    {
+        "Title": "Radio Zürich Nord",
+        "Country": "Switzerland",
+        "Homepage": "https://bayern.streampanel.cloud:11145/stream",
+        "Source1": "https://bayern.streampanel.cloud:11145/stream"
+    },
+    {
+        "Title": "Radio Zürisee",
+        "Country": "Switzerland",
+        "Tags": "classic hits,classic rock,pop,top 100",
+        "Favicon": "https://www.radiozuerisee.ch/assets/favicons/apple-icon-120x120.png",
+        "Language": "de",
+        "Homepage": "https://www.radiozuerisee.ch/",
+        "Latitude": 47.22567909950305,
+        "Longitude": 8.816989660263063,
+        "Source1": "https://mp3.radio.ch/radiozuerisee256k"
+    },
+    {
+        "Title": "Radio Zürisee",
+        "Country": "Switzerland",
+        "Tags": "pop",
+        "Language": "de",
+        "Homepage": "https://www.radio.ch/",
+        "Source1": "http://mp3.radio.ch/radiozuerisee128k"
+    },
+    {
+        "Title": "Radio-Drachenblut",
+        "Country": "Switzerland",
+        "Tags": "metal,rock",
+        "Language": "de,gsw",
+        "Homepage": "https://radio-drachenblut.ch/",
+        "Source1": "https://radio-drachenblut.ch/stream.m3u"
+    },
+    {
+        "Title": "Radio-Swiss-Pop",
+        "Country": "Switzerland",
+        "Homepage": "https://www.internetradio-schweiz.ch/radio-swiss-pop",
+        "Latitude": 46.199683513066184,
+        "Longitude": 6.148910522460938,
+        "Source1": "http://stream.srg-ssr.ch/srgssr/rsp/aac/192"
+    },
+    {
+        "Title": "Radio1",
+        "Country": "Switzerland",
+        "Tags": "decades",
+        "Source1": "http://stream.radio1.ch/128k.m3u"
+    },
+    {
+        "Title": "Radio1.ch",
+        "Country": "Switzerland",
+        "Tags": "2000s,80s,90s",
+        "Language": "de",
+        "Homepage": "https://radio1.ch/",
+        "Source1": "https://stream.radio1.ch/128k"
+    },
+    {
+        "Title": "Radio15.ch",
+        "Country": "Switzerland",
+        "Tags": "folk",
+        "Source1": "http://radio15.ice.infomaniak.ch/radio15-192kbps.mp3?fbclid=IwAR1RgI4qFLCInWkcBZBlod__-7UXEufqWJJl2BnOT1s_xnkTuUQg8BG4avc"
+    },
+    {
+        "Title": "Radio24",
+        "Country": "Switzerland",
+        "Tags": "main,mainstream",
+        "Favicon": "https://ch.az-cdn.ch/static/4.14.2/radio24/device-icons/48x48.png",
+        "Language": "gsw",
+        "Homepage": "https://www.radio24.ch/",
+        "Latitude": 47.41856216496032,
+        "Longitude": 8.555195331573488,
+        "Source1": "https://stream.streambase.ch/radio24/mp3-192/direct/"
+    },
+    {
+        "Title": "Radio3i",
+        "Country": "Switzerland",
+        "Favicon": "https://radio3i.ch/assets/images/app-logo.png",
+        "Homepage": "https://radio3i.ch/",
+        "Source1": "https://vstream-cdn.ch/hls/radio3i.m3u8"
+    },
+    {
+        "Title": "Radio4TNG",
+        "Country": "Switzerland",
+        "Language": "de",
+        "Homepage": "http://www.radio4tng.ch/",
+        "Source1": "http://radio4tng.ice.infomaniak.ch/radio4tng-live-web.mp3"
+    },
+    {
+        "Title": "Radio4TNG",
+        "Country": "Switzerland",
+        "Favicon": "https://www.radio4tng.ch/media/Icon-60@3x-170x170.png",
+        "Homepage": "https://www.radio4tng.ch/#",
+        "Source1": "https://radio4tng.ice.infomaniak.ch/radio4tng-live-web.mp3"
+    },
+    {
+        "Title": "RadioFr. Freiburg",
+        "Country": "Switzerland",
+        "Language": "de",
+        "Homepage": "http://www.radiofr.ch/freiburg",
+        "Source1": "http://radiofreiburg.ice.infomaniak.ch/radiofreiburg-high.mp3"
+    },
+    {
+        "Title": "RadioFr. Fresh",
+        "Country": "Switzerland",
+        "Tags": "pop",
+        "Language": "fr",
+        "Homepage": "https://www.radiofr.ch/fresh",
+        "Source1": "https://radiofresh.ice.infomaniak.ch/radiofresh.aac"
+    },
+    {
+        "Title": "RadioFr. Fribourg",
+        "Country": "Switzerland",
+        "Favicon": "http://www.radiofr.ch/favicons/apple-touch-icon.png",
+        "Language": "fr",
+        "Homepage": "http://www.radiofr.ch/fribourg",
+        "Source1": "http://radiofribourg.ice.infomaniak.ch/radiofribourg-high.mp3"
+    },
+    {
+        "Title": "RadioPolis",
+        "Country": "Switzerland",
+        "Homepage": "https://radiopolis.xyz/",
+        "Source1": "http://rs01.swissnwx.ch:20080/stream"
+    },
+    {
+        "Title": "Radiopolis",
+        "Country": "Switzerland",
+        "Language": "de",
+        "Homepage": "http://radiopolis.ch/",
+        "Source1": "http://rs01.swissnwx.ch:20080/stream"
+    },
+    {
+        "Title": "RadioPungis",
+        "Country": "Switzerland",
+        "Favicon": "https://radio.second-hands.org/favicon.ico",
+        "Homepage": "https://radio.second-hands.org/",
+        "Source1": "https://radio.second-hands.org/listen/radiopungis/radio.mp3"
+    },
+    {
+        "Title": "RadioSouvenir.com",
+        "Country": "Switzerland",
+        "Favicon": "http://www.radiosouvenir.com/images/bandeau.jpg",
+        "Homepage": "http://www.radiosouvenir.com/index.html",
+        "Source1": "http://www.radiosouvenir.com/radio.m3u"
+    },
+    {
+        "Title": "Radioswiss",
+        "Country": "Switzerland",
+        "Tags": "pop",
+        "Homepage": "https://laut.fm/",
+        "Source1": "http://stream.laut.fm/radioswiss"
+    },
+    {
+        "Title": "radiox.ch",
+        "Country": "Switzerland",
+        "Favicon": "https://radiox.ch/.resources/radiox-theme/webresources/images/favicon/touch-icon-ipad.png",
+        "Homepage": "https://radiox.ch/",
+        "Source1": "https://mp3.radiox.ch/standard.ogg"
+    },
+    {
+        "Title": "Redline Radio",
+        "Country": "Switzerland",
+        "Tags": "variety",
+        "Language": "fr",
+        "Homepage": "https://www.redlineradio.ch/",
+        "Source1": "http://listen.radioking.com/radio/81865/stream/161119"
+    },
+    {
+        "Title": "RES FM",
+        "Country": "Switzerland",
+        "Favicon": "https://resfmradio.com/wp-content/uploads/2021/09/Logo_RES-FM_Verde_2.png",
+        "Homepage": "https://resfmradio.com/",
+        "Source1": "https://jamesfm.ice.infomaniak.ch/jamesfm.mp3"
+    },
+    {
+        "Title": "Rete Due | 32k AAC+",
+        "Country": "Switzerland",
+        "Tags": "classical,commercial free,contemporary,culture,jazz,mixed programming,reflective,sophisticated,world music",
+        "Favicon": "https://il.rsi.ch/rsi-api/resize/image/v2/public/channel/WEBVISUAL/rete-due.png",
+        "Language": "it",
+        "Homepage": "https://www.rsi.ch/audio/rete-due/",
+        "Latitude": 46.0037,
+        "Longitude": 8.9511,
+        "Source1": "https://stream.srg-ssr.ch/m/retedue/aacp_32"
+    },
+    {
+        "Title": "Rete Tre | 32k AAC+",
+        "Country": "Switzerland",
+        "Tags": "alternative,commercial free,contemporary,culture,energetic,mixed programming,pop,upbeat",
+        "Favicon": "https://il.rsi.ch/rsi-api/resize/image/v2/public/channel/WEBVISUAL/rete-tre.png",
+        "Language": "it",
+        "Homepage": "https://www.rsi.ch/audio/rete-tre/",
+        "Latitude": 46.0037,
+        "Longitude": 8.9511,
+        "Source1": "https://stream.srg-ssr.ch/m/retetre/aacp_32"
+    },
+    {
+        "Title": "Rete Uno | 32k AAC+",
+        "Country": "Switzerland",
+        "Tags": "blues,classical,commercial free,contemporary,culture,folk,hip hop,italian singer-songwriter,jazz,mixed programming,pop,rock",
+        "Favicon": "https://il.rsi.ch/rsi-api/resize/image/v2/public/channel/WEBVISUAL/rete-uno.png",
+        "Language": "it",
+        "Homepage": "https://www.rsi.ch/audio/rete-uno/",
+        "Latitude": 46.0037,
+        "Longitude": 8.9511,
+        "Source1": "https://stream.srg-ssr.ch/m/reteuno/aacp_32"
+    },
+    {
+        "Title": "RFJ",
+        "Country": "Switzerland",
+        "Language": "fr",
+        "Homepage": "http://www.rfj.ch/",
+        "Source1": "https://rfj.ice.infomaniak.ch/rfj-high.mp3"
+    },
+    {
+        "Title": "Rhône FM",
+        "Country": "Switzerland",
+        "Favicon": "http://www.rhonefm.ch/favicon/4/120x120.png",
+        "Language": "fr",
+        "Homepage": "http://www.rhonefm.ch/",
+        "Source1": "http://rhonefm.ice.infomaniak.ch/rhonefm-high.aac",
+        "Source2": "http://rhonefm.ice.infomaniak.ch/rhonefm-high.mp3"
+    },
+    {
+        "Title": "RJB",
+        "Country": "Switzerland",
+        "Language": "fr",
+        "Homepage": "http://www.rjb.ch/",
+        "Source1": "https://rjb.ice.infomaniak.ch/rjb-high.mp3"
+    },
+    {
+        "Title": "Rock Star Main",
+        "Country": "Switzerland",
+        "Favicon": "https://rockstarradio.ch/favicon.ico",
+        "Homepage": "https://rockstarradio.ch/",
+        "Source1": "http://live7.avf.ch:8000/rockstar_main"
+    },
+    {
+        "Title": "Rock the Blues",
+        "Country": "Switzerland",
+        "Source1": "http://stream.laut.fm/rock-the-blues"
+    },
+    {
+        "Title": "Rock The Blues",
+        "Country": "Switzerland",
+        "Tags": "blues,rock",
+        "Language": "de",
+        "Homepage": "http://laut.fm/rock-the-blues",
+        "Source1": "http://stream.laut.fm/rock-the-blues"
+    },
+    {
+        "Title": "Rockit Radio",
+        "Country": "Switzerland",
+        "Tags": "rock",
+        "Favicon": "https://images.ctfassets.net/ydbd72j4j18y/1n7IFHTNPGwwdaRvOXbkmm/ed901e780ac9352ef5e23b882882f40d/Rockit_Logo_2021_Claim_noBorder_2021.png",
+        "Homepage": "https://rockitradio.ch/",
+        "Source1": "https://rockitradio.ice.infomaniak.ch/rockitradio-high.mp3"
+    },
+    {
+        "Title": "Rockstar Radio",
+        "Country": "Switzerland",
+        "Tags": "classic rock,rock,rock music",
+        "Favicon": "https://dr21.mediaonegroup.ch/apps/assets/logo_rockstar_2.svg",
+        "Language": "fr",
+        "Homepage": "https://rockstarradio.ch/",
+        "Latitude": 46.52079217681949,
+        "Longitude": 6.632591607596554,
+        "Source1": "https://dr2101.ice.infomaniak.ch/dr2102.mp3"
+    },
+    {
+        "Title": "ROCKSTATION",
+        "Country": "Switzerland",
+        "Favicon": "https://rockstation.ch/wp-content/uploads/2023/03/cropped-favicon-basis-192x192.jpg",
+        "Homepage": "https://rockstation.ch/",
+        "Source1": "https://radio2.stream24.net:8130/live.mp3"
+    },
+    {
+        "Title": "ROCKSTATION's Broadcast",
+        "Country": "Switzerland",
+        "Tags": "alternative rock,classic rock,rock",
+        "Language": "en",
+        "Homepage": "https://rockstation.ch/",
+        "Source1": "http://radio2.stream24.net:8130/live.mp3"
+    },
+    {
+        "Title": "Rouge",
+        "Country": "Switzerland",
+        "Tags": "classic hits,top hits,top40",
+        "Favicon": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_rougefm1.png",
+        "Language": "fr",
+        "Homepage": "https://www.rouge.ch/",
+        "Latitude": 46.517055809289026,
+        "Longitude": 6.636377470853165,
+        "Source1": "http://rougefm.ice.infomaniak.ch/rougefm-high.aac"
+    },
+    {
+        "Title": "Rouge FM 90s",
+        "Country": "Switzerland",
+        "Tags": "90s",
+        "Favicon": "https://static.wixstatic.com/media/9a9c36_3d1dd8d8cf814ecca8cd2631a43bb249%7emv2.png/v1/fill/w_32%2ch_32%2clg_1%2cusm_0.66_1.00_0.01/9a9c36_3d1dd8d8cf814ecca8cd2631a43bb249%7emv2.png",
+        "Homepage": "http://www.rougefm.com/webradios-90/",
+        "Source1": "http://rouge-90.ice.infomaniak.ch/rouge-90-128.mp3"
+    },
+    {
+        "Title": "Rouge FM Latino",
+        "Country": "Switzerland",
+        "Tags": "latin",
+        "Favicon": "http://www.rougefm.com/imgs/webradios/latino.png",
+        "Language": "fr",
+        "Homepage": "http://www.rougefm.com/webradios-latino/",
+        "Source1": "http://rouge-latino.ice.infomaniak.ch/rouge-latino-128.mp3"
+    },
+    {
+        "Title": "Rouge FM Lounge",
+        "Country": "Switzerland",
+        "Tags": "lounge",
+        "Favicon": "http://www.rougefm.com/imgs/webradios/lounge.png",
+        "Language": "fr",
+        "Homepage": "http://www.rougefm.com/webradios-longe/",
+        "Source1": "http://rougefm.ice.infomaniak.ch/rougefm-high.mp3"
+    },
+    {
+        "Title": "Rouge FM Suisse",
+        "Country": "Switzerland",
+        "Tags": "pop",
+        "Favicon": "http://www.rougefm.com/imgs/webradios/suisse.png",
+        "Language": "fr",
+        "Homepage": "http://www.rougefm.com/webradios-suisse/",
+        "Source1": "http://rouge-suisse.ice.infomaniak.ch/rouge-suisse-128.mp3"
+    },
+    {
+        "Title": "RSI Rete Due",
+        "Country": "Switzerland",
+        "Favicon": "https://www.rsi.ch/icons/apple-touch-icon-70-precomposed.png",
+        "Homepage": "https://www.rsi.ch/rete-due/",
+        "Source1": "http://stream.srg-ssr.ch/retedue/aacp_32.m3u"
+    },
+    {
+        "Title": "RSI Rete Due",
+        "Country": "Switzerland",
+        "Tags": "classical,public radio,srg ssr",
+        "Favicon": "http://www.rsi.ch/icons/apple-touch-icon-70-precomposed.png",
+        "Language": "it",
+        "Homepage": "http://www.rsi.ch/rete-due/",
+        "Source1": "http://stream.srg-ssr.ch/m/retedue/mp3_128"
+    },
+    {
+        "Title": "RSI Rete Tre",
+        "Country": "Switzerland",
+        "Favicon": "https://www.rsi.ch/icons/apple-touch-icon-70-precomposed.png",
+        "Homepage": "https://www.rsi.ch/rete-tre/",
+        "Source1": "http://stream.srg-ssr.ch/retetre/aacp_32.m3u"
+    },
+    {
+        "Title": "RSI Rete Tre",
+        "Country": "Switzerland",
+        "Tags": "pop,public radio,srg ssr",
+        "Favicon": "http://www.rsi.ch/icons/apple-touch-icon-70-precomposed.png",
+        "Language": "it",
+        "Homepage": "http://www.rsi.ch/rete-tre/",
+        "Source1": "http://stream.srg-ssr.ch/m/retetre/mp3_128"
+    },
+    {
+        "Title": "RSI Rete Uno",
+        "Country": "Switzerland",
+        "Favicon": "https://www.rsi.ch/icons/apple-touch-icon-70-precomposed.png",
+        "Homepage": "https://www.rsi.ch/rete-uno/",
+        "Source1": "http://stream.srg-ssr.ch/reteuno/aacp_32.m3u"
+    },
+    {
+        "Title": "RSI Rete Uno",
+        "Country": "Switzerland",
+        "Tags": "public radio,srg ssr",
+        "Favicon": "http://www.rsi.ch/icons/apple-touch-icon-70-precomposed.png",
+        "Language": "it",
+        "Homepage": "http://www.rsi.ch/rete-uno/",
+        "Source1": "http://stream.srg-ssr.ch/m/reteuno/mp3_128"
+    },
+    {
+        "Title": "RSR Couleur 3",
+        "Country": "Switzerland",
+        "Homepage": "http://programmesradio.rts.ch/couleur3/",
+        "Source1": "http://stream.srg-ssr.ch/couleur3/aacp_32.m3u"
+    },
+    {
+        "Title": "RSR Espace 2",
+        "Country": "Switzerland",
+        "Favicon": "https://www.rts.ch/hbv7/static/images/favicon/rts/152x152.png",
+        "Homepage": "http://programmesradio.rts.ch/espace-2/",
+        "Source1": "http://stream.srg-ssr.ch/espace-2/aacp_32.m3u"
+    },
+    {
+        "Title": "RSR La Premiere",
+        "Country": "Switzerland",
+        "Favicon": "https://www.rts.ch/hbv7/static/images/favicon/rts/152x152.png",
+        "Homepage": "http://programmesradio.rts.ch/la-1ere/",
+        "Source1": "http://stream.srg-ssr.ch/la-1ere/aacp_32.m3u"
+    },
+    {
+        "Title": "RSR Option Musique",
+        "Country": "Switzerland",
+        "Favicon": "https://www.rts.ch/hbv7/static/images/favicon/rts/152x152.png",
+        "Homepage": "http://programmesradio.rts.ch/option-musique/",
+        "Source1": "http://stream.srg-ssr.ch/option-musique/aacp_32.m3u"
+    },
+    {
+        "Title": "RTN",
+        "Country": "Switzerland",
+        "Tags": "regional",
+        "Language": "fr",
+        "Homepage": "http://www.rtn.ch/",
+        "Source1": "https://rtn.ice.infomaniak.ch/rtn-high.mp3"
+    },
+    {
+        "Title": "RTR | 32k AAC+",
+        "Country": "Switzerland",
+        "Tags": "alpine traditional music,commercial free,contemporary,culture,graubünden regional folk music,mixed programming,romansh-language pop,swiss folk music",
+        "Favicon": "https://download-media.srf.ch/world/image/audio/2020/07/45780e322f604be8973867ee03cf88e6.png",
+        "Language": "rm",
+        "Homepage": "https://www.rtr.ch/audio",
+        "Latitude": 46.85,
+        "Longitude": 9.5329,
+        "Source1": "https://stream.srg-ssr.ch/m/rr/aacp_32"
+    },
+    {
+        "Title": "RTS Couleur 3",
+        "Country": "Switzerland",
+        "Homepage": "http://www.couleur3.ch/",
+        "Source1": "http://stream.srg-ssr.ch/m/couleur3/mp3_128"
+    },
+    {
+        "Title": "RTS Couleur 3",
+        "Country": "Switzerland",
+        "Favicon": "https://www.rts.ch/favicon.ico",
+        "Homepage": "https://www.rts.ch/couleur3",
+        "Latitude": 46.19998500223498,
+        "Longitude": 6.147022247314454,
+        "Source1": "http://stream.srg-ssr.ch/m/couleur3/mp3_128"
+    },
+    {
+        "Title": "RTS Espace 2",
+        "Country": "Switzerland",
+        "Tags": "classical,jazz,public radio,srg ssr",
+        "Favicon": "http://www.rts.ch/favicon.ico",
+        "Language": "fr",
+        "Homepage": "http://www.rts.ch/espace-2/",
+        "Source1": "http://stream.srg-ssr.ch/m/espace-2/aacp_96",
+        "Source2": "http://stream.srg-ssr.ch/espace-2/mp3_128.m3u"
+    },
+    {
+        "Title": "RTS La Première",
+        "Country": "Switzerland",
+        "Tags": "public radio,srg ssr",
+        "Favicon": "https://www.rts.ch/hbv7/static/images/favicon/rts/152x152.png",
+        "Language": "fr",
+        "Homepage": "http://www.rts.ch/la-1ere/",
+        "Source1": "http://stream.srg-ssr.ch/m/la-1ere/mp3_128"
+    },
+    {
+        "Title": "RTS La Première",
+        "Country": "Switzerland",
+        "Favicon": "https://www.rts.ch/hbv7/static/images/favicon/rts/152x152.png",
+        "Language": "fr",
+        "Homepage": "https://www.rts.ch/rts-premiere/",
+        "Source1": "https://stream.srg-ssr.ch/m/la-1ere/aacp_96"
+    },
+    {
+        "Title": "RTS Option Musique",
+        "Country": "Switzerland",
+        "Tags": "public radio,srg ssr",
+        "Favicon": "https://www.rts.ch/hbv7/static/images/favicon/rts/152x152.png",
+        "Language": "fr",
+        "Homepage": "http://www.rts.ch/option-musique/",
+        "Source1": "http://stream.srg-ssr.ch/option-musique/mp3_128.m3u"
+    },
+    {
+        "Title": "RTS Option Musique",
+        "Country": "Switzerland",
+        "Tags": "chansons,pop",
+        "Favicon": "https://www.rts.ch/hbv7/static/images/favicon/rts/152x152.png",
+        "Language": "fr",
+        "Homepage": "https://programmesradio.rts.ch/option-musique",
+        "Source1": "http://stream.srg-ssr.ch/option-musique/mp3_128.m3u"
+    },
+    {
+        "Title": "RTS Option Musique",
+        "Country": "Switzerland",
+        "Favicon": "https://www.rts.ch/hbv7/static/images/favicon/rts/180x180.png",
+        "Homepage": "https://www.rts.ch/",
+        "Source1": "http://icy-zurich.mpbnl.nl/rts-optionmusique"
+    },
+    {
+        "Title": "RTS Première",
+        "Country": "Switzerland",
+        "Favicon": "https://i.postimg.cc/wTG6YwVj/1000002923.png",
+        "Homepage": "https://www.rts.ch/rts-premiere/",
+        "Source1": "http://stream.srg-ssr.ch/m/la-1ere/mp3_128"
+    },
+    {
+        "Title": "Rundfunk FM",
+        "Country": "Switzerland",
+        "Tags": "easy listening",
+        "Favicon": "https://rundfunk.fm/static/assets/favicon/favicon-32x32.png",
+        "Language": "en",
+        "Homepage": "https://rundfunk.fm/",
+        "Source1": "http://rundfunk.ice.infomaniak.ch/rundfunk-192.mp3"
+    },
+    {
+        "Title": "Rundfunk.fm",
+        "Country": "Switzerland",
+        "Tags": "funk",
+        "Language": "en",
+        "Homepage": "https://rundfunk.fm/",
+        "Latitude": 47.37935989944757,
+        "Longitude": 8.540625572204592,
+        "Source1": "https://rundfunkfm.broadcast.brandsarelive.com:8020/radio.mp3",
+        "Source2": "https://rundfunkfm.broadcast.brandsarelive.com/public/rundfunk.fm/playlist.m3u",
+        "Source3": "https://rundfunkfm.broadcast.brandsarelive.com/public/rundfunk.fm/playlist.pls"
+    },
+    {
+        "Title": "Sabaton радио",
+        "Country": "Switzerland",
+        "Tags": "discography",
+        "Favicon": "null",
+        "Homepage": "https://pcradio.ru/",
+        "Source1": "https://stream.pcradio.ru/sabaton-hi"
+    },
+    {
+        "Title": "Skuizz Hits 90s-00s",
+        "Country": "Switzerland",
+        "Tags": "00s,90s,pop,rock",
+        "Homepage": "https://skuizz.com/",
+        "Source1": "https://traxx024.ice.infomaniak.ch/traxx024-1.mp3"
+    },
+    {
+        "Title": "soundz",
+        "Country": "Switzerland",
+        "Homepage": "https://www.mysoundz.ch/de",
+        "Source1": "https://stream.mysoundz.ch/streams/radio-browser/3602b6f9ee3c4521bdec84ec/shared/stream",
+        "Source2": "https://stream.mysoundz.ch/streams/streema/3602b6f9ee3c4521bdec84ec/shared/stream"
+    },
+    {
+        "Title": "Spoon Radio",
+        "Country": "Switzerland",
+        "Homepage": "https://www.spoonradio.com/",
+        "Source1": "http://spoonradio.ice.infomaniak.ch/spoonradio-hd",
+        "Source2": "http://spoonradio.ice.infomaniak.ch/spoonradio-hd.mp3",
+        "Source3": "https://ic2527.c972.fastserv.com:80/spoonradio_mp3_192"
+    },
+    {
+        "Title": "Spoon Radio",
+        "Country": "Switzerland",
+        "Tags": "rock",
+        "Language": "en,fr",
+        "Homepage": "http://www.spoonradio.com/",
+        "Source1": "http://spoonradio.ice.infomaniak.ch/spoonradio-hd"
+    },
+    {
+        "Title": "Spoon Radio - Acoustic Rock",
+        "Country": "Switzerland",
+        "Favicon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_SHiVIhu9EpfEEl-rxBhQSt3qk7NR6E7IVze0BnDOe8DwJDLNs3AVPxrV4X92gX1Npnm5MymhyphenhyphenU3abvbvqpoxKzvlbstflZlnzHwnA7radKNmrIURHHKN1SOlDP4S7qOGBOhBD73Hdi8S_HiVim5-fs1k8bNJ4kmbIDjqhyWa7Ih2wM8/s220/acoustic.png",
+        "Homepage": "https://www.spoonradio.com/",
+        "Source1": "https://spoonradioacousticrock.ice.infomaniak.ch/spoon-acousticrock-hd.aac"
+    },
+    {
+        "Title": "Spoon Radio - Alternative Rock",
+        "Country": "Switzerland",
+        "Tags": "alternative,alternative rock,commercial-free,no ads,rock",
+        "Homepage": "https://www.spoonradio.com/",
+        "Source1": "https://spoonradioalternativerock.ice.infomaniak.ch/spoon-alternativerock-hd.aac"
+    },
+    {
+        "Title": "Spoon Radio - Classic Rock",
+        "Country": "Switzerland",
+        "Homepage": "https://www.spoonradio.com/",
+        "Source1": "https://spoonradioclassicrock.ice.infomaniak.ch/spoon-classicrock-hd.aac"
+    },
+    {
+        "Title": "Spoon Radio - Hard Rock",
+        "Country": "Switzerland",
+        "Tags": "commercial-free,hard rock,melodic hard rock,no ads,rock",
+        "Homepage": "https://www.spoonradio.com/",
+        "Source1": "https://spoonradiohardrock.ice.infomaniak.ch/spoon-hardrock-hd.aac"
+    },
+    {
+        "Title": "Spoon Radio - Modern Rock",
+        "Country": "Switzerland",
+        "Tags": "commercial-free,modern rock,no ads,rock",
+        "Homepage": "https://www.spoonradio.com/",
+        "Source1": "https://spoonradiomodernrock.ice.infomaniak.ch/spoon-modernrock-hd.aac"
+    },
+    {
+        "Title": "Spoon Radio - Rock Ballads",
+        "Country": "Switzerland",
+        "Favicon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbbjzU-x-9v-CAfwTz9XrvauhyphenhyphencNyh2KpA0x46ci7cr5uir2tTbyeBoDeAJSm2xhtcnC50yQ8n6BUfkuT-LWS9DjFCOiKt8dm2RiYSHLpd3DtQOYXAcvMmjUMNL2AOW1eJylZcvocEj1fuXeUwcOQ9XX2DsvDYEEcKXNpUMz296cJEK32SDDPrvvKILPKw/s300/Rock%20Ballads.png",
+        "Homepage": "https://www.spoonradio.com/",
+        "Source1": "https://spoonradiorockballads.ice.infomaniak.ch/spoon-rockballads-hd.aac"
+    },
+    {
+        "Title": "Spoon Radio Modern Rock",
+        "Country": "Switzerland",
+        "Favicon": "https://drive.google.com/file/d/1MQai1JfYOPzDbJR2uDeZYRBaxTxyqqED/view?usp=drivesdk",
+        "Homepage": "https://www.spoonradio.com/",
+        "Source1": "https://spoonradiomodernrock.ice.infomaniak.ch/spoon-modernrock-hd.aac"
+    },
+    {
+        "Title": "Spoon Rock",
+        "Country": "Switzerland",
+        "Tags": "rock",
+        "Favicon": "https://www.spoonradio.com/newimages/logo.png",
+        "Language": "en",
+        "Homepage": "https://www.spoonradio.com/",
+        "Source1": "https://ic2527.c972.fastserv.com:80/spoonradio_mp3_192"
+    },
+    {
+        "Title": "SRF 1",
+        "Country": "Switzerland",
+        "Tags": "public radio,srg ssr",
+        "Language": "de",
+        "Homepage": "http://ww.srf.ch/radio-srf-1",
+        "Source1": "http://stream.srg-ssr.ch/m/drs1/mp3_128"
+    },
+    {
+        "Title": "SRF 2",
+        "Country": "Switzerland",
+        "Tags": "culture,kultur,public radio,srg ssr",
+        "Favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Radio_SRF_2_Kultur.svg/155px-Radio_SRF_2_Kultur.svg.png",
+        "Language": "de",
+        "Homepage": "http://www.srf.ch/radio-srf-2-kultur",
+        "Source1": "http://stream.srg-ssr.ch/drs2/mp3_128.m3u"
+    },
+    {
+        "Title": "SRF 3",
+        "Country": "Switzerland",
+        "Tags": "pop,public radio,srg ssr",
+        "Favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Radio_SRF_3.svg/200px-Radio_SRF_3.svg.png",
+        "Language": "de",
+        "Homepage": "http://www.srf.ch/radio-srf-3",
+        "Source1": "http://stream.srg-ssr.ch/m/drs3/mp3_128"
+    },
+    {
+        "Title": "SRF 4 News",
+        "Country": "Switzerland",
+        "Tags": "news,public radio,srg ssr",
+        "Favicon": "http://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png",
+        "Language": "de",
+        "Homepage": "http://www.srf.ch/radio-srf-4-news",
+        "Source1": "http://stream.srg-ssr.ch/m/drs4news/mp3_128"
+    },
+    {
+        "Title": "SRF Musikwelle",
+        "Country": "Switzerland",
+        "Tags": "folklore,public radio,srg ssr,volksmusik",
+        "Favicon": "http://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png",
+        "Language": "de",
+        "Homepage": "http://www.srf.ch/radio-srf-musikwelle",
+        "Source1": "http://stream.srg-ssr.ch/drsmw/mp3_128.m3u"
+    },
+    {
+        "Title": "SRF Virus",
+        "Country": "Switzerland",
+        "Tags": "alternative,alternative rock,public radio,srg ssr,youth",
+        "Favicon": "http://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png",
+        "Language": "de",
+        "Homepage": "http://www.srf.ch/radio-srf-virus",
+        "Source1": "http://stream.srg-ssr.ch/drsvirus/mp3_128.m3u"
+    },
+    {
+        "Title": "SRF1 Radio",
+        "Country": "Switzerland",
+        "Language": "de",
+        "Homepage": "https://www.srf.ch/radio-srf-1/",
+        "Source1": "http://stream.srg-ssr.ch/drs1/aacp_96.m3u"
+    },
+    {
+        "Title": "SRF1 Regionaljournal Aargau Solothurn",
+        "Country": "Switzerland",
+        "Favicon": "https://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png",
+        "Language": "de",
+        "Homepage": "https://www.srf.ch/",
+        "Source1": "http://stream.srg-ssr.ch/regi_ag_so/aacp_96.m3u"
+    },
+    {
+        "Title": "SRF1 Regionaljournal Zürich-Schaffhausen",
+        "Country": "Switzerland",
+        "Homepage": "https://www.srf.ch/radio-srf-1",
+        "Latitude": 47.4171900955739,
+        "Longitude": 8.561074733734133,
+        "Source1": "http://stream.srg-ssr.ch/m/regi_zh_sh/aacp_96"
+    },
+    {
+        "Title": "Sunshine Radio (Switzerland)",
+        "Country": "Switzerland",
+        "Favicon": "https://ch.az-cdn.ch/static/4.3.1/radiosunshine/device-icons/512x512.png",
+        "Homepage": "https://www.sunshine.ch/",
+        "Source1": "https://stream.streambase.ch/rsunshine/mp3-192/chmedia-radio-web/1699795900047_8633080"
+    },
+    {
+        "Title": "Superyachtradio",
+        "Country": "Switzerland",
+        "Favicon": "https://superyachtradio.com",
+        "Language": "en",
+        "Homepage": "https://superyachtradio.com/",
+        "Latitude": 47.393330699056875,
+        "Longitude": 8.697406053543093,
+        "Source1": "https://stream.radio.co/s43a403d3a/listen"
+    },
+    {
+        "Title": "Swiss Country Radio",
+        "Country": "Switzerland",
+        "Homepage": "https://swisscountryradio.ch/",
+        "Source1": "https://streaming.swisscountryradio.ch/scr/aac_128"
+    },
+    {
+        "Title": "SWISS GROOVE",
+        "Country": "Switzerland",
+        "Tags": "funk,jazz,latin,lounge,nu grooves,soul,world",
+        "Favicon": "https://swissgroove.ch/favicon.ico",
+        "Homepage": "https://swissgroove.ch/",
+        "Source1": "https://relay2.swissgroove.ch/;"
+    },
+    {
+        "Title": "Swiss Groove",
+        "Country": "Switzerland",
+        "Favicon": "https://www.swissgroove.ch/favicon.ico",
+        "Language": "de,en",
+        "Homepage": "https://www.swissgroove.ch/",
+        "Source1": "https://relay1.swissgroove.ch/"
+    },
+    {
+        "Title": "Swiss Jazz Room",
+        "Country": "Switzerland",
+        "Homepage": "https://www.radioswissjazz.ch/",
+        "Source1": "https://stream.srg-ssr.ch/m/rsj/mp3_128"
+    },
+    {
+        "Title": "Swiss Pop",
+        "Country": "Switzerland",
+        "Source1": "http://www.radioswisspop.ch/live/aacp.m3u"
+    },
+    {
+        "Title": "Swiss Pop",
+        "Country": "Switzerland",
+        "Tags": "pop,public radio,srg ssr",
+        "Favicon": "http://www.radioswisspop.ch/favicon.ico",
+        "Homepage": "http://www.radioswisspop.ch/",
+        "Source1": "http://stream.srg-ssr.ch/m/rsp/mp3_128"
+    },
+    {
+        "Title": "SWISSCLASSICA ITALIA",
+        "Country": "Switzerland",
+        "Favicon": "https://www.radioswissclassic.ch/favicon.ico",
+        "Homepage": "https://www.radioswissclassic.ch/",
+        "Source1": "https://stream.srg-ssr.ch/rsc_it/mp3_128.m3u"
+    },
+    {
+        "Title": "SwissGroove",
+        "Country": "Switzerland",
+        "Tags": "funk,jazz,jazz rock,lounge,smooth jazz",
+        "Favicon": "http://www.swissgroove.ch/favicon.ico",
+        "Homepage": "http://www.swissgroove.ch/en/home-en/",
+        "Source1": "http://158.69.74.203/"
+    },
+    {
+        "Title": "SwissGroove",
+        "Country": "Switzerland",
+        "Homepage": "https://www.swissgroove.ch/",
+        "Source1": "https://swissgroove.ch/listen.php"
+    },
+    {
+        "Title": "Swissgroove",
+        "Country": "Switzerland",
+        "Tags": "funk,jazz",
+        "Favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuIm10ACGZckHaE4fC3Sgay0NjEpwn9mhnpw&s",
+        "Language": "it",
+        "Homepage": "https://swissgroove.ch/",
+        "Source1": "https://relay1.swissgroove.ch/"
+    },
+    {
+        "Title": "Symphoniya Wave",
+        "Country": "Switzerland",
+        "Tags": "classical,symphonic,transe symphonic",
+        "Favicon": "https://symphoniya.com/wp-content/uploads/2026/08/symphoniya-wave.png",
+        "Homepage": "http://symphoniya.com/wave",
+        "Latitude": 45.4971051774524,
+        "Longitude": 10.898437500000002,
+        "Source1": "https://symphoniyawave.ice.infomaniak.ch/symphoniyawave-128.aac"
+    },
+    {
+        "Title": "Symphoniya Wave — Symphoniya.com",
+        "Country": "Switzerland",
+        "Tags": "ambient,classical,instrumental,meditation,orchestral",
+        "Language": "fr",
+        "Homepage": "https://symphoniya.com/en/wave/",
+        "Source1": "https://symphoniyawave.ice.infomaniak.ch/symphoniyawave-128.mp3"
+    },
+    {
+        "Title": "TA RADIO",
+        "Country": "Switzerland",
+        "Language": "fr",
+        "Homepage": "https://taradio.ch/",
+        "Latitude": 47.00940166351215,
+        "Longitude": 7.006219625473023,
+        "Source1": "http://stream.taradio.ch/dab"
+    },
+    {
+        "Title": "Ta Radio",
+        "Country": "Switzerland",
+        "Tags": "dance,funk,hits,live,rnb,rock",
+        "Language": "fr",
+        "Homepage": "https://www.taradio.ch/",
+        "Latitude": 47.00854303011832,
+        "Longitude": 7.010676434615682,
+        "Source1": "https://stream.taradio.ch/dab"
+    },
+    {
+        "Title": "Thaalam FM",
+        "Country": "Switzerland",
+        "Favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6JBVVbZWL_axDfJukuYpkvsRk9l0_jaZ_EliBhQDCIQ",
+        "Homepage": "https://thaalam.ch/",
+        "Source1": "http://thaalam.out.airtime.pro/thaalam_b"
+    },
+    {
+        "Title": "toxic.fm",
+        "Country": "Switzerland",
+        "Tags": "progressive rock",
+        "Language": "de",
+        "Homepage": "http://www.toxic.fm/",
+        "Source1": "http://toxicfm.ice.infomaniak.ch/toxicfm-128"
+    },
+    {
+        "Title": "toxic.fm",
+        "Country": "Switzerland",
+        "Favicon": "http://www.toxic.fm/player/assets/logo_toxicfm.jpg",
+        "Homepage": "https://toxic.fm/site",
+        "Source1": "http://toxicfm.ice.infomaniak.ch/toxicfm-128.mp3"
+    },
+    {
+        "Title": "TRANSITION RADIO",
+        "Country": "Switzerland",
+        "Tags": "experimental,experimental electronic music",
+        "Language": "de,en,fr",
+        "Homepage": "https://transition-radio.com/",
+        "Latitude": 46.79880146130107,
+        "Longitude": 7.147941989722125,
+        "Source1": "https://a9.asurahosting.com/listen/transition_radio/radio.mp3"
+    },
+    {
+        "Title": "Trasformatorio",
+        "Country": "Switzerland",
+        "Favicon": "https://trasformatorio.net/wp-content/uploads/2013/07/cropped-logotondo-2.png",
+        "Homepage": "https://trasformatorio.net/",
+        "Source1": "https://radio.dyne.org/trasformatorio-archives.mp3"
+    },
+    {
+        "Title": "Traxx FM - Ambient",
+        "Country": "Switzerland",
+        "Tags": "ambient,ambient and relaxation music,chill,chillout,commercial-free,no ads,relax,relaxation,relaxation music,relaxing",
+        "Homepage": "http://www.traxx.fm/",
+        "Source1": "http://traxx011.ice.infomaniak.ch/traxx011-low.mp3"
+    },
+    {
+        "Title": "Traxx FM - Classic",
+        "Country": "Switzerland",
+        "Tags": "classic",
+        "Homepage": "http://www.traxx.fm/",
+        "Source1": "http://traxx012.ice.infomaniak.ch/traxx012-low.mp3"
+    },
+    {
+        "Title": "Traxx FM - Cool Jam",
+        "Country": "Switzerland",
+        "Tags": "commercial-free,jazz,lounge,no ads,nu jazz,nu-jazz,relax,relaxing,smooth jazz",
+        "Homepage": "http://www.traxx.fm/",
+        "Source1": "http://traxx005.ice.infomaniak.ch/traxx005-low.mp3"
+    },
+    {
+        "Title": "Traxx FM - Deep",
+        "Country": "Switzerland",
+        "Tags": "commercial-free,deep,deep house,electronic,house,no ads",
+        "Homepage": "http://www.traxx.fm/",
+        "Source1": "http://traxx013.ice.infomaniak.ch/traxx013-low.mp3"
+    },
+    {
+        "Title": "Traxx FM - Deluxe",
+        "Country": "Switzerland",
+        "Tags": "commercial-free,edm,electro,electronic,house,no ads",
+        "Homepage": "http://www.traxx.fm/",
+        "Source1": "http://traxx001.ice.infomaniak.ch/traxx001-low.mp3"
+    },
+    {
+        "Title": "Traxx FM - France",
+        "Country": "Switzerland",
+        "Tags": "french",
+        "Homepage": "http://www.traxx.fm/",
+        "Source1": "http://traxx025.ice.infomaniak.ch/traxx025-1.mp3"
+    },
+    {
+        "Title": "Traxx FM - Funk",
+        "Country": "Switzerland",
+        "Tags": "commercial-free,funk,no ads",
+        "Homepage": "http://www.traxx.fm/",
+        "Source1": "http://traxx016.ice.infomaniak.ch/traxx016-low.mp3"
+    },
+    {
+        "Title": "Traxx FM - Golden Oldies",
+        "Country": "Switzerland",
+        "Tags": "1970s,1980's,1980s,70s,80s,commercial-free,golden oldies,no ads,oldies",
+        "Homepage": "http://www.traxx.fm/",
+        "Source1": "http://traxx023.ice.infomaniak.ch/traxx023-1.mp3"
+    },
+    {
+        "Title": "Traxx FM - Hits",
+        "Country": "Switzerland",
+        "Homepage": "http://www.traxx.fm/",
+        "Source1": "https://traxx010.ice.infomaniak.ch/traxx010-low.mp3"
+    },
+    {
+        "Title": "Traxx FM - House",
+        "Country": "Switzerland",
+        "Tags": "commercial-free,deep house,edm,electronic,house,no ads",
+        "Homepage": "http://www.traxx.fm/",
+        "Source1": "http://traxx002.ice.infomaniak.ch/traxx002-low.mp3"
+    },
+    {
+        "Title": "Traxx FM - Italia",
+        "Country": "Switzerland",
+        "Tags": "italian",
+        "Homepage": "http://www.traxx.fm/",
+        "Source1": "http://traxx021.ice.infomaniak.ch/traxx021-1.mp3"
+    },
+    {
+        "Title": "Traxx FM - Jazz",
+        "Country": "Switzerland",
+        "Tags": "classic jazz,commercial-free,jazz,jazz music,no ads,smooth jazz",
+        "Homepage": "http://www.traxx.fm/",
+        "Source1": "http://traxx014.ice.infomaniak.ch/traxx014-low.mp3"
+    },
+    {
+        "Title": "Traxx FM - Latino",
+        "Country": "Switzerland",
+        "Tags": "commercial-free,latin,latin music,latin pop,latino,latino-pop,musica latina,no ads,pop latino",
+        "Homepage": "http://www.traxx.fm/",
+        "Source1": "http://traxx008.ice.infomaniak.ch/traxx008-low.mp3"
+    },
+    {
+        "Title": "Traxx FM - Latino Pop",
+        "Country": "Switzerland",
+        "Tags": "latino",
+        "Homepage": "http://www.traxx.fm/",
+        "Source1": "http://traxx022.ice.infomaniak.ch/traxx022-1.mp3"
+    },
+    {
+        "Title": "Traxx FM - Lounge",
+        "Country": "Switzerland",
+        "Tags": "commercial-free,lounge,lounge music,no ads,relax,relaxation,relaxation music,relaxing,smooth lounge",
+        "Homepage": "http://www.traxx.fm/",
+        "Source1": "http://traxx004.ice.infomaniak.ch/traxx004-low.mp3"
+    },
+    {
+        "Title": "Traxx FM - Pop",
+        "Country": "Switzerland",
+        "Tags": "commercial-free,no ads,pop,pop music",
+        "Homepage": "http://www.traxx.fm/",
+        "Source1": "http://traxx009.ice.infomaniak.ch/traxx009-low.mp3"
+    },
+    {
+        "Title": "Traxx FM - Rap",
+        "Country": "Switzerland",
+        "Tags": "commercial-free,no ads,rap,rap hiphop rnb,urban,urban music",
+        "Homepage": "http://www.traxx.fm/",
+        "Source1": "http://traxx015.ice.infomaniak.ch/traxx015-low.mp3"
+    },
+    {
+        "Title": "Traxx FM - RnB",
+        "Country": "Switzerland",
+        "Tags": "commercial-free,contemporary rnb,no ads,rhythm and blues,rnb",
+        "Homepage": "http://www.traxx.fm/",
+        "Source1": "http://traxx007.ice.infomaniak.ch/traxx007-low.mp3"
+    },
+    {
+        "Title": "Traxx FM - Rock",
+        "Country": "Switzerland",
+        "Tags": "alternative rock,classic rock,commercial-free,heavy rock,metal,no ads,rock",
+        "Homepage": "http://www.traxx.fm/",
+        "Source1": "http://traxx019.ice.infomaniak.ch/traxx019-low.mp3"
+    },
+    {
+        "Title": "Traxx FM - Soul",
+        "Country": "Switzerland",
+        "Tags": "commercial-free,no ads,soul,soulful",
+        "Homepage": "http://www.traxx.fm/",
+        "Source1": "http://traxx006.ice.infomaniak.ch/traxx006-low.mp3"
+    },
+    {
+        "Title": "Traxx FM - Tech Minimal",
+        "Country": "Switzerland",
+        "Tags": "commercial-free,electronic,minimal,minimal techno,no ads,tech minimal,techno",
+        "Homepage": "http://www.traxx.fm/",
+        "Source1": "http://traxx020.ice.infomaniak.ch/traxx020-low.mp3"
+    },
+    {
+        "Title": "True House Chill",
+        "Country": "Switzerland",
+        "Tags": "chillout",
+        "Language": "en",
+        "Homepage": "http://www.truehouse.net/",
+        "Source1": "http://www.truehouse.net/chill.m3u"
+    },
+    {
+        "Title": "True House Radio",
+        "Country": "Switzerland",
+        "Tags": "house",
+        "Favicon": "http://www.truehouse.net/favicon.ico",
+        "Language": "en",
+        "Homepage": "http://www.truehouse.net/",
+        "Source1": "http://www.truehouse.net/house.m3u"
+    },
+    {
+        "Title": "Truehouse Chill",
+        "Country": "Switzerland",
+        "Tags": "chillout+lounge",
+        "Homepage": "http://www.truehouse.net/",
+        "Source1": "http://www.truehouse.net/chill.m3u"
+    },
+    {
+        "Title": "TVM 3 TV",
+        "Country": "Switzerland",
+        "Language": "fr",
+        "Homepage": "http://www.tvm3.tv/",
+        "Source1": "http://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8"
+    },
+    {
+        "Title": "TVM3.TV",
+        "Country": "Switzerland",
+        "Language": "de",
+        "Homepage": "http://www.tvm3.tv/",
+        "Source1": "http://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8"
+    },
+    {
+        "Title": "URBN",
+        "Country": "Switzerland",
+        "Favicon": "https://www.urbnradio.ch/favicon.ico",
+        "Homepage": "https://www.urbnradio.ch/",
+        "Source1": "http://live7.avf.ch:8000/urbn_main"
+    },
+    {
+        "Title": "URBN Radio",
+        "Country": "Switzerland",
+        "Favicon": "https://urbnradio.ch/favicon.ico",
+        "Homepage": "https://urbnradio.ch/",
+        "Source1": "https://dr2101.ice.infomaniak.ch/dr2103.mp3"
+    },
+    {
+        "Title": "UZIC.CH :: TECHNO - MINIMAL :: best of electronic with techno minimal electro house and progressive",
+        "Country": "Switzerland",
+        "Tags": "electro,house,minimal techno,progressive house,techno",
+        "Favicon": "https://uzic.ch/wp-content/uploads/2025/06/logo_uzic-150x150.png",
+        "Homepage": "https://uzic.ch/",
+        "Source1": "https://uzic.ice.infomaniak.ch/uzic-128.aac"
+    },
+    {
+        "Title": "Vertical Radio",
+        "Country": "Switzerland",
+        "Favicon": "https://www.verticalradio.ch/media/image/11/base/logo-vertical-green.svg?undefined",
+        "Homepage": "https://www.verticalradio.ch/",
+        "Source1": "https://verticalradio.ice.infomaniak.ch/verticalradio-128.mp3"
+    },
+    {
+        "Title": "Vibración Latina",
+        "Country": "Switzerland",
+        "Homepage": "http://www.vibracionlatina.ch/",
+        "Source1": "http://vibration.stream2net.eu:8410/;stream/1"
+    },
+    {
+        "Title": "Vibration Chanson Française",
+        "Country": "Switzerland",
+        "Homepage": "http://www.vibration108.ch/player/vibrationchansonfrancaise/",
+        "Source1": "http://vibration.stream2net.eu:8510/;stream/1"
+    },
+    {
+        "Title": "Vibration FM",
+        "Country": "Switzerland",
+        "Homepage": "https://www.vibration108.ch/",
+        "Source1": "http://vibration-aac.stream2net.eu:8040/listen.pls"
+    },
+    {
+        "Title": "Vibration Gayradio",
+        "Country": "Switzerland",
+        "Homepage": "http://vibrationgayradio.ch/",
+        "Source1": "http://vibration.stream2net.eu:8480/;stream/1"
+    },
+    {
+        "Title": "Vibration Poprock",
+        "Country": "Switzerland",
+        "Homepage": "https://www.vibration108.ch/",
+        "Source1": "http://vibrationpoprock.stream2net.eu:8030/listen.pls"
+    },
+    {
+        "Title": "Vibration Soft Hits",
+        "Country": "Switzerland",
+        "Favicon": "https://radiochablais.ch/images/xradiochablais1.png.pagespeed.ic.p3soqp385z.png",
+        "Homepage": "http://www.vibration108.ch/player/vibrationsofthits/",
+        "Source1": "http://vibration.stream2net.eu:8350/;stream/1"
+    },
+    {
+        "Title": "Vibration Zen Relax",
+        "Country": "Switzerland",
+        "Favicon": "http://www.vibration108.ch/wp-content/uploads/2014/06/favicon.jpg",
+        "Homepage": "http://www.vibration108.ch/player/vibrationzenrelax/",
+        "Source1": "http://vibration.stream2net.eu:8220/;stream/1"
+    },
+    {
+        "Title": "Vintage Radio",
+        "Country": "Switzerland",
+        "Tags": "music",
+        "Language": "de",
+        "Homepage": "https://vintageradio.ch/",
+        "Source1": "https://vintageradio.ice.infomaniak.ch/vintageradio-high.mp3"
+    },
+    {
+        "Title": "Vintageradio.ch",
+        "Country": "Switzerland",
+        "Homepage": "https://vintageradio,ch/",
+        "Latitude": 47.37453067549567,
+        "Longitude": 8.536033630371096,
+        "Source1": "https://vintageradio.ice.infomaniak.ch/vintageradio-high.mp3"
+    },
+    {
+        "Title": "Virgin Radio Switzerland",
+        "Country": "Switzerland",
+        "Homepage": "https://www.virginradio.ch/",
+        "Latitude": 47.41840305627617,
+        "Longitude": 8.555235564708711,
+        "Source1": "https://stream.streambase.ch/vrock/mp3-192/direct/"
+    },
+    {
+        "Title": "VirginRadio",
+        "Country": "Switzerland",
+        "Tags": "rock",
+        "Favicon": "https://ch.az-cdn.ch/static/4.52.1/virginrock/device-icons/48x48.png",
+        "Language": "de",
+        "Homepage": "https://virginradio.ch/",
+        "Source1": "https://stream.streambase.ch/vrock/mp3-192/direct/"
+    },
+    {
+        "Title": "Volnadavida Radio",
+        "Country": "Switzerland",
+        "Favicon": "http://transmiss.ion.ovh/api/station/volnadavida/art/e8c237f255cb9ca7df3a9da1",
+        "Homepage": "http://transmiss.ion.ovh/public/volnadavida",
+        "Source1": "http://transmiss.ion.ovh/public/volnadavida/playlist.pls"
+    },
+    {
+        "Title": "Volnadavida Radio",
+        "Country": "Switzerland",
+        "Favicon": "http://transmiss.ion.ovh/api/station/volnadavida/art/e8c237f255cb9ca7df3a9da1",
+        "Homepage": "http://transmiss.ion.ovh/listen/volnadavida/radio.mp3",
+        "Source1": "http://transmiss.ion.ovh/listen/volnadavida/radio.mp3"
+    },
+    {
+        "Title": "WALTS WELT",
+        "Country": "Switzerland",
+        "Favicon": "https://waltswelt.ch/wp-content/uploads/2017/06/cropped-favicon_512x512_2-150x150.png",
+        "Homepage": "https://waltswelt.ch/",
+        "Source1": "https://waltswelt.out.airtime.pro/waltswelt_a?_ga=2.33964516.474222732.1669644968-446937151.1669306237"
+    },
+    {
+        "Title": "Wildmountain Radio",
+        "Country": "Switzerland",
+        "Favicon": "https://www.wildmountain.ch/favicon.png",
+        "Language": "gsw",
+        "Homepage": "https://www.wildmountain.ch/",
+        "Source1": "https://wildmountain.ice.infomaniak.ch/wmr.mp3"
+    },
+    {
+        "Title": "World Radio Switzerland",
+        "Country": "Switzerland",
+        "Homepage": "https://www.worldradio.ch/",
+        "Source1": "https://uksouth.streaming.broadcast.radio:10290/wrs"
+    },
+    {
+        "Title": "WRS",
+        "Country": "Switzerland",
+        "Tags": "hits,pop",
+        "Language": "en",
+        "Homepage": "https://www.worldradio.ch/",
+        "Source1": "https://uksouth.streaming.broadcast.radio:10290/wrs?_=540910"
+    },
+    {
+        "Title": "WRS \"Swiss Radio in English\"",
+        "Country": "Switzerland",
+        "Favicon": "https://mmo.aiircdn.com/29/61eaca66a914b.png",
+        "Homepage": "https://www.worldradio.ch/",
+        "Source1": "https://uksouth.streaming.broadcast.radio:10290/wrs?_=443217"
+    },
+    {
+        "Title": "Yes FM Switzerland FLAC",
+        "Country": "Switzerland",
+        "Tags": "pop,pop music",
+        "Language": "en",
+        "Homepage": "https://www.yesfm.ch/",
+        "Source1": "http://live7.avf.ch:8000/yesfm_main"
+    },
+    {
+        "Title": "ஊரி தமிழ் வானொலி URI TAMIL RADIO",
+        "Country": "Switzerland",
+        "Tags": "classical",
+        "Source1": "http://stream.zenolive.com/u8nt64f6sfeuv"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "Eritrea",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "Eri-TV",
+        "Country": "Eritrea",
+        "Tags": "drama,news",
+        "Language": "ti",
+        "Homepage": "https://jmc-live.ercdn.net/eritreatv/eritreatv.m3u8",
+        "Source1": "https://jmc-live.ercdn.net/eritreatv/eritreatv.m3u8"
+    },
+    {
+        "Title": "Eritrean Music",
+        "Country": "Eritrea",
+        "Tags": "amharic,tigrigna",
+        "Favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_Eritrea.svg/800px-Flag_of_Eritrea.svg.png",
+        "Language": "am",
+        "Homepage": "https://linuxfreelancer.com/shoutcast-internet-radio",
+        "Source1": "http://linuxfreelancer.com:8000/listen.pls?sid=1"
+    },
+    {
+        "Title": "Eritrean/Ethiopian music",
+        "Country": "Eritrea",
+        "Favicon": "https://en.wikipedia.org/wiki/File:Flag_of_Eritrea.svg",
+        "Homepage": "https://linuxfreelancer.com/shoutcast-internet-radio",
+        "Source1": "https://linuxfreelancer.com:8443/test.mp3"
+    },
+    {
+        "Title": "hip hop",
+        "Country": "Eritrea",
+        "Tags": "music",
+        "Favicon": "https://www.wix.com/favicon.ico",
+        "Homepage": "https://yonaskassahun011.wixsite.com/selamcoffee-1",
+        "Source1": "http://stream.rtlradio.de/rnb/mp3-192/"
+    }
+]

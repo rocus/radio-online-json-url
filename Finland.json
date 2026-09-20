@@ -1,0 +1,1389 @@
+[
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "Finland",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "Aito Iskelmä",
+        "Country": "Finland",
+        "Favicon": "https://static.novelist.nelonenmedia.fi/files/styles/1_360x360/s3/promo-items/square/2024/AitoIskelma_2560x2560.jpg?itok=hieHKR3-",
+        "Homepage": "https://www.supla.fi/aitoiskelma",
+        "Latitude": 60.20216182256565,
+        "Longitude": 24.929351806640625,
+        "Source1": "https://aud-stream-aitoiskelma.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8"
+    },
+    {
+        "Title": "Basso",
+        "Country": "Finland",
+        "Tags": "rap",
+        "Favicon": "https://media.bauerradio.com/image/upload/c_crop,g_custom/v1600857978/brand_manager/stations/urn8bckvf691ddznsnvb.png",
+        "Homepage": "https://radioplay.fi/basso/",
+        "Source1": "https://stream-redirect.bauermedia.fi/basso/bassoradio_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein"
+    },
+    {
+        "Title": "Classic Hits",
+        "Country": "Finland",
+        "Favicon": "https://static.novelist.nelonenmedia.fi/files/styles/1_360x360/s3/promo-items/square/2024/ClassicHits_2560x2560.jpg?itok=GlCBWF9m",
+        "Homepage": "https://www.supla.fi/classichits",
+        "Latitude": 60.202707765622115,
+        "Longitude": 24.925231933593754,
+        "Source1": "https://aud-stream-classichits.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8"
+    },
+    {
+        "Title": "DOUBLECLAP RADIO",
+        "Country": "Finland",
+        "Favicon": "https://doubleclap.dance/wp-content/uploads/2021/05/Doubleclap-Radio-logo-white.png",
+        "Homepage": "https://doubleclap.dance/",
+        "Source1": "https://s3.radio.co/scfd7273b2/low",
+        "Source2": "https://s3.radio.co/scfd7273b2/listen"
+    },
+    {
+        "Title": "Easy Hits",
+        "Country": "Finland",
+        "Favicon": "https://static.novelist.nelonenmedia.fi/files/styles/1_360x360/s3/promo-items/square/2024/EasyHits_2560x2560.jpg?itok=k1gFgGRt",
+        "Homepage": "https://www.supla.fi/easyhits",
+        "Latitude": 60.19670180903388,
+        "Longitude": 24.93209838867188,
+        "Source1": "https://aud-stream-easyhits.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8"
+    },
+    {
+        "Title": "Finest Fm",
+        "Country": "Finland",
+        "Tags": "hits",
+        "Favicon": "http://finestfm.fi/upload/5e10861c127007.32944399.ico",
+        "Language": "et",
+        "Homepage": "http://finestfm.fi/",
+        "Source1": "http://212.47.220.188:8000/listen.mp3"
+    },
+    {
+        "Title": "FinnRadio",
+        "Country": "Finland",
+        "Tags": "alternative,indie,online",
+        "Language": "fi",
+        "Homepage": "https://finnradio.net/",
+        "Source1": "https://servidor39-5.brlogic.com:7076/live"
+    },
+    {
+        "Title": "FugeFM",
+        "Country": "Finland",
+        "Favicon": "https://fuengirola.fi/wp-content/uploads/2024/09/FugeFM-logo.jpg",
+        "Language": "fi",
+        "Homepage": "https://fuengirola.fi/fugefm/",
+        "Source1": "https://streaming.broadcast.radio/fugefm"
+    },
+    {
+        "Title": "Groove FM",
+        "Country": "Finland",
+        "Tags": "blues,funk,groove,jazz,soul",
+        "Favicon": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Groove_color_RGB.png",
+        "Language": "fi",
+        "Homepage": "https://www.supla.fi/groovefm",
+        "Latitude": 60.172443900933374,
+        "Longitude": 24.93785440921784,
+        "Source1": "https://aud-stream-groove.nm-elemental.nelonenmedia.fi/playlist.m3u8",
+        "Source2": "https://aud-stream-groove.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8"
+    },
+    {
+        "Title": "HitMix",
+        "Country": "Finland",
+        "Favicon": "https://static.novelist.nelonenmedia.fi/files/styles/1_360x360/s3/promo-items/square/2024/HitMix_2560x2560.jpg?itok=0vJyAWi8",
+        "Homepage": "https://www.supla.fi/hitmix",
+        "Latitude": 60.20407260434599,
+        "Longitude": 24.922485351562504,
+        "Source1": "https://aud-stream-hitmix.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8"
+    },
+    {
+        "Title": "HYPR demoscene radio",
+        "Country": "Finland",
+        "Tags": "demos,demoscene",
+        "Favicon": "https://hypr.website/favicon.ico",
+        "Language": "en",
+        "Homepage": "https://hypr.website/",
+        "Latitude": 60.2033,
+        "Longitude": 24.9365,
+        "Source1": "https://hypr.website/hypr.mp3"
+    },
+    {
+        "Title": "IDA Radio",
+        "Country": "Finland",
+        "Tags": "alternative,community,electronic,underground",
+        "Favicon": "https://idaidaida.net/og-image.png",
+        "Language": "fi",
+        "Homepage": "https://www.idaidaida.net/",
+        "Source1": "https://broadcast.idaidaida.net:8000/stream"
+    },
+    {
+        "Title": "Iskelmä",
+        "Country": "Finland",
+        "Language": "fi",
+        "Homepage": "https://www.iskelma.fi/",
+        "Source1": "https://stream.bauermedia.fi/iskelma/iskelma_128.mp3"
+    },
+    {
+        "Title": "Järviradio",
+        "Country": "Finland",
+        "Favicon": "https://www.jarviradio.fi/favicon.ico",
+        "Homepage": "https://www.jarviradio.fi/",
+        "Source1": "https://jarviradio.radiotaajuus.fi:9000/jr"
+    },
+    {
+        "Title": "Järviradio Puhe",
+        "Country": "Finland",
+        "Favicon": "https://www.jarviradio.fi/wp-content/uploads/2025/08/JRPUHE_LOGO_taajuus.png",
+        "Homepage": "https://www.jarviradio.fi/jrpuhe",
+        "Source1": "https://jarviradio.radiotaajuus.fi:9000/jrpuhe"
+    },
+    {
+        "Title": "Kaaos Radio 24h Chill",
+        "Country": "Finland",
+        "Tags": "chill",
+        "Favicon": "https://kaaosradio.fi/favicon.ico",
+        "Homepage": "https://kaaosradio.fi/",
+        "Source1": "http://stream.kaaosradio.fi:8000/chill"
+    },
+    {
+        "Title": "Kaaos Radio Chiptune",
+        "Country": "Finland",
+        "Tags": "chiptune",
+        "Favicon": "https://kaaosradio.fi/favicon.ico",
+        "Language": "fi",
+        "Homepage": "https://kaaosradio.fi/",
+        "Source1": "http://stream.kaaosradio.fi:8000/chip"
+    },
+    {
+        "Title": "Kaaos Radio Techno Electro",
+        "Country": "Finland",
+        "Favicon": "https://kaaosradio.fi/favicon.ico",
+        "Homepage": "https://kaaosradio.fi/",
+        "Source1": "http://stream.kaaosradio.fi:8000/stream2"
+    },
+    {
+        "Title": "Kaaosradio - 24h",
+        "Country": "Finland",
+        "Tags": "electronic,hardcore,techno",
+        "Favicon": "http://www.kaaosradio.fi/favicon.ico",
+        "Language": "fi",
+        "Homepage": "http://www.kaaosradio.fi/",
+        "Source1": "http://stream.kaaosradio.fi:8000/stream.m3u"
+    },
+    {
+        "Title": "Kaaosradio - 24h Chill",
+        "Country": "Finland",
+        "Tags": "chillout,downtempo,electronic",
+        "Favicon": "http://www.kaaosradio.fi/favicon.ico",
+        "Language": "fi",
+        "Homepage": "http://www.kaaosradio.fi/",
+        "Source1": "http://stream.kaaosradio.fi:8000/chill"
+    },
+    {
+        "Title": "Kantriradio",
+        "Country": "Finland",
+        "Favicon": "https://static.novelist.nelonenmedia.fi/files/styles/1_360x360/s3/promo-items/square/2024/Kantriradio_2560x2560.jpg?itok=HyCzbiaa",
+        "Homepage": "https://www.supla.fi/kantriradio",
+        "Latitude": 60.18905625537226,
+        "Longitude": 24.93896484375,
+        "Source1": "https://aud-stream-kantriradio.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8"
+    },
+    {
+        "Title": "Karjalainen Syke",
+        "Country": "Finland",
+        "Tags": "local,news,pop,regional",
+        "Favicon": "https://www.karjalainensyke.fi/wp-content/uploads/sites/5/2024/08/og-image-karjalainensyke.jpg",
+        "Language": "fi",
+        "Homepage": "https://www.karjalainensyke.fi/",
+        "Source1": "https://radio.diks.fi/karjalainensyke"
+    },
+    {
+        "Title": "Kasari",
+        "Country": "Finland",
+        "Tags": "decades",
+        "Favicon": "https://assets.planetradio.co.uk/img/ConfigWebListenBarLogoImageUrl/427.png?ver=1577957742",
+        "Homepage": "https://radioplay.fi/kasari/",
+        "Source1": "https://stream-redirect.bauermedia.fi/kasari/kasari_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein"
+    },
+    {
+        "Title": "Kerhoradio",
+        "Country": "Finland",
+        "Tags": "ice-hockey,sport",
+        "Favicon": "https://kerhoradio.fi/wp-content/uploads/2025/08/Kerhoradio_logo_fix_pienikopio-3.png",
+        "Language": "fi",
+        "Homepage": "https://kerhoradio.fi/",
+        "Latitude": 60.995190609307855,
+        "Longitude": 24.43223118782044,
+        "Source1": "https://c40.radioboss.fm:8056/stream.m3u"
+    },
+    {
+        "Title": "Kesäseuraradio",
+        "Country": "Finland",
+        "Tags": "christian,community,talk",
+        "Language": "fi",
+        "Homepage": "https://www.kesaseuraradio.fi/",
+        "Source1": "https://kesaseuraradio.out.airtime.pro/kesaseuraradio_b"
+    },
+    {
+        "Title": "Keygen FM",
+        "Country": "Finland",
+        "Tags": "8bit,chiptune,retro",
+        "Homepage": "https://keygen-fm.kodatek.app/",
+        "Latitude": 60.37628349582399,
+        "Longitude": 25.625588893890384,
+        "Source1": "https://keygen-fm.kodatek.app/listen/keygen-fm/radio.mp3"
+    },
+    {
+        "Title": "Kiss",
+        "Country": "Finland",
+        "Tags": "pop",
+        "Favicon": "https://media.bauerradio.com/image/upload/c_crop,g_custom/v1590490659/brand_manager/stations/snjlzqedegeewmjwz9pd.jpg",
+        "Language": "fi",
+        "Homepage": "https://radioplay.fi/kiss",
+        "Latitude": 60.17102171177075,
+        "Longitude": 24.941883087158207,
+        "Source1": "https://stream-redirect.bauermedia.fi/kiss/kiss_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein"
+    },
+    {
+        "Title": "Kohina - Old School Game and Demo Music",
+        "Country": "Finland",
+        "Favicon": "https://www.kohina.com/images/kohina.gif",
+        "Homepage": "https://www.kohina.com/",
+        "Source1": "http://kohina.duckdns.org:8000/stream.ogg"
+    },
+    {
+        "Title": "Kuhan FM",
+        "Country": "Finland",
+        "Tags": "hobby,music,online,talk",
+        "Language": "fi",
+        "Homepage": "https://kuhanfm.fi/",
+        "Source1": "https://fra-pioneer08.dedicateware.com:3130/stream"
+    },
+    {
+        "Title": "LBC",
+        "Country": "Finland",
+        "Tags": "talk",
+        "Favicon": "http://ice-sov.musicradio.com/favicon.ico",
+        "Homepage": "http://ice-sov.musicradio.com/LBCLondon",
+        "Source1": "http://ice-sov.musicradio.com/LBCLondon"
+    },
+    {
+        "Title": "Loop",
+        "Country": "Finland",
+        "Favicon": "https://static.novelist.nelonenmedia.fi/files/styles/1_360x360/s3/promo-items/square/2024/Loop_2560x2560.jpg?itok=4Nosr7tW",
+        "Homepage": "https://www.supla.fi/loop",
+        "Latitude": 60.209531391500654,
+        "Longitude": 24.922485351562504,
+        "Source1": "https://aud-stream-loop.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8"
+    },
+    {
+        "Title": "MTV Uutiset",
+        "Country": "Finland",
+        "Tags": "news,news talk,talk,tv",
+        "Favicon": "https://www.mtvuutiset.fi/favicon.ico",
+        "Language": "fi",
+        "Homepage": "https://mtvuutiset.fi/",
+        "Source1": "https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8"
+    },
+    {
+        "Title": "Mökkiradio",
+        "Country": "Finland",
+        "Tags": "community,local,regional,summer",
+        "Language": "fi",
+        "Homepage": "https://www.mokkiradio.fi/",
+        "Source1": "https://stream.mokkiradio.fi:18008/mokkiradio"
+    },
+    {
+        "Title": "Nightwish",
+        "Country": "Finland",
+        "Tags": "discography",
+        "Favicon": "null",
+        "Language": "en",
+        "Homepage": "https://pcradio.ru/",
+        "Source1": "https://stream.pcradio.ru/Nightwish-hi"
+    },
+    {
+        "Title": "NinjaBox 24/7",
+        "Country": "Finland",
+        "Tags": "chill,deep house,drum & bass,dubtechno,electronic,neurofunk",
+        "Favicon": "https://www.savustamo.fi/wp-content/uploads/2025/12/cropped-0_c1bc9_14464e10_L-1590724515-300x300.jpg",
+        "Homepage": "https://www.savustamo.fi/",
+        "Source1": "https://djuplink.com/ninjabox.mp3"
+    },
+    {
+        "Title": "Nostalgia",
+        "Country": "Finland",
+        "Tags": "nostalgia",
+        "Favicon": "https://assets.planetradio.co.uk/img/ConfigWebListenBarLogoImageUrl/335.png",
+        "Language": "fi",
+        "Homepage": "https://radioplay.fi/radio-nostalgia",
+        "Latitude": 60.17062162658905,
+        "Longitude": 24.94150757789612,
+        "Source1": "https://stream-redirect.bauermedia.fi/nostalgia/nostalgia_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein"
+    },
+    {
+        "Title": "NRJ",
+        "Country": "Finland",
+        "Tags": "pop",
+        "Favicon": "https://w7.pngwing.com/pngs/469/239/png-transparent-nrj-group-nrj-hits-internet-radio-nrj-international-in-maintenance-text-fm-broadcasting-logo-thumbnail.png",
+        "Language": "fi",
+        "Homepage": "https://radioplay.fi/nrj",
+        "Latitude": 60.171163466501895,
+        "Longitude": 24.941689968109134,
+        "Source1": "https://stream-redirect.bauermedia.fi/nrj/nrj_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein"
+    },
+    {
+        "Title": "NRJ Suomi",
+        "Country": "Finland",
+        "Tags": "pop",
+        "Favicon": "https://radioplay.fi/tesla/static/favicons/radioplay-fi/apple-touch-icon.png",
+        "Language": "fi",
+        "Homepage": "https://radioplay.fi/nrj/",
+        "Latitude": 60.157718727769286,
+        "Longitude": 24.875450134277344,
+        "Source1": "https://stream.bauermedia.fi/nrj/nrj_128.mp3?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein&aw_0_1st.skey=1667679042www"
+    },
+    {
+        "Title": "NRJ Suomi",
+        "Country": "Finland",
+        "Language": "fi",
+        "Homepage": "https://nrj.fi/",
+        "Source1": "http://stream.bauermedia.fi/nrj/nrj_128.mp3"
+    },
+    {
+        "Title": "POP fm",
+        "Country": "Finland",
+        "Favicon": "https://www.hiresaudio.online/wp-content/uploads/2026/04/POP-fm.jpg",
+        "Homepage": "https://www.popfm.fi/",
+        "Source1": "http://stream.nsp.se:8000/popfm",
+        "Source2": "http://stream.nsp.se:8000/pop"
+    },
+    {
+        "Title": "POPfm",
+        "Country": "Finland",
+        "Tags": "pop",
+        "Favicon": "https://www.popfm.fi/uploads/mediabank/dbd8b0c4-5184-459e-912b-661ab845b3ba.png",
+        "Language": "fi",
+        "Homepage": "https://www.popfm.fi/pop/home",
+        "Source1": "https://stream.madmenmedia.se/popfm"
+    },
+    {
+        "Title": "POPFM",
+        "Country": "Finland",
+        "Favicon": "https://www.popfm.fi/uploads/stations/a12df260-69dd-4fb1-b482-8632697f79e8-w150.png",
+        "Homepage": "https://www.popfm.fi/",
+        "Source1": "http://stream.nsp.se:8000/popfm_high",
+        "Source2": "http://stream.nsp.se:8000/pop"
+    },
+    {
+        "Title": "Pride Radio",
+        "Country": "Finland",
+        "Tags": "dance,hits,lgbt,pop",
+        "Favicon": "https://media.bauerradio.com/image/upload/c_crop,g_custom/v1749542901/brand_manager/stations/ssli16wlj77nvc1qxaz3.png",
+        "Language": "fi",
+        "Homepage": "https://radioplay.fi/pride-radio",
+        "Source1": "https://streaming.radioplay.fi/fi_pride_128.mp3"
+    },
+    {
+        "Title": "Radio 957",
+        "Country": "Finland",
+        "Favicon": "https://media.bauerradio.com/image/upload/c_crop,g_custom/v1590490408/brand_manager/stations/mqf6ugkjdlrsr7m1tb8x.png",
+        "Homepage": "https://radioplay.fi/radio-957/?stationId=257",
+        "Source1": "https://stream-redirect.bauermedia.fi/radio957/radio957_128.mp3?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein"
+    },
+    {
+        "Title": "Radio Auran Aallot",
+        "Country": "Finland",
+        "Tags": "adult contemporary,local,pop,rock,top40",
+        "Favicon": "https://media.bauerradio.com/image/upload/c_crop,g_custom/v1757058708/brand_manager/stations/qbecm3zuewkfkdpho0na.jpg",
+        "Language": "fi",
+        "Homepage": "https://radioplay.fi/auran-aallot",
+        "Source1": "https://streaming.radioplay.fi/fi_auranaallot_128.mp3"
+    },
+    {
+        "Title": "Radio Boofi",
+        "Country": "Finland",
+        "Favicon": "https://boofi.fi/boofi/radio-boofi.png",
+        "Homepage": "https://iranian.fi/",
+        "Latitude": 60.432433554506666,
+        "Longitude": 22.244337201118473,
+        "Source1": "https://radio.iranian.fi/listen/vip/radio.mp3"
+    },
+    {
+        "Title": "Radio City",
+        "Country": "Finland",
+        "Tags": "hits,local,pop,rock",
+        "Favicon": "https://media.bauerradio.com/image/upload/c_crop,g_custom/v1675671002/brand_manager/stations/fmt3fagoxw3unvuxm1aj.jpg",
+        "Language": "fi",
+        "Homepage": "https://radioplay.fi/radio-city",
+        "Source1": "https://streaming.radioplay.fi/fi_radiocity_128.mp3"
+    },
+    {
+        "Title": "Radio Classic",
+        "Country": "Finland",
+        "Tags": "classical,instrumental",
+        "Favicon": "https://assets.planetradio.co.uk/img/ConfigWebListenBarLogoImageUrl/463.png?ver=1583241345",
+        "Language": "fi",
+        "Homepage": "https://radioplay.fi/radio-classic",
+        "Source1": "https://streaming.radioplay.fi/fi_classic_128.mp3"
+    },
+    {
+        "Title": "Radio Dei",
+        "Country": "Finland",
+        "Language": "fi",
+        "Homepage": "http://www.radiodei.fi/",
+        "Source1": "http://isojako.radiodei.fi:8000/yleisohjelma"
+    },
+    {
+        "Title": "Radio Dei Helsinki",
+        "Country": "Finland",
+        "Favicon": "http://www.radiodei.fi/favicon.ico",
+        "Language": "fi",
+        "Homepage": "http://www.radiodei.fi/",
+        "Source1": "http://isojako.radiodei.fi:8000/helsinki"
+    },
+    {
+        "Title": "Radio Dei Kajaani",
+        "Country": "Finland",
+        "Tags": "christian",
+        "Favicon": "https://www.radiodei.fi/wp-content/uploads/2016/05/default.png",
+        "Language": "fi",
+        "Homepage": "https://www.radiodei.fi/",
+        "Source1": "https://stream.dei.fi:8443/kajaani"
+    },
+    {
+        "Title": "Radio Dei Kemi",
+        "Country": "Finland",
+        "Language": "fi",
+        "Homepage": "http://www.radiodei.fi/",
+        "Source1": "http://isojako.radiodei.fi:8000/tornio"
+    },
+    {
+        "Title": "Radio Dei Kokkola",
+        "Country": "Finland",
+        "Favicon": "https://www.radiodei.fi/wp-content/uploads/2016/05/default.png",
+        "Language": "fi",
+        "Homepage": "http://www.radiodei.fi/",
+        "Source1": "http://isojako.radiodei.fi:8000/kruunupyy"
+    },
+    {
+        "Title": "Radio Dei Kristiinankaupunki",
+        "Country": "Finland",
+        "Tags": "religion",
+        "Favicon": "https://www.radiodei.fi/wp-content/uploads/2016/05/default.png",
+        "Language": "fi",
+        "Homepage": "http://www.radiodei.fi/",
+        "Source1": "http://isojako.radiodei.fi:8000/kristiinankaupunki"
+    },
+    {
+        "Title": "Radio Dei Lahti",
+        "Country": "Finland",
+        "Favicon": "https://www.radiodei.fi/wp-content/uploads/2016/05/default.png",
+        "Language": "fi",
+        "Homepage": "https://www.radiodei.fi/",
+        "Source1": "https://stream.dei.fi:8443/lahti"
+    },
+    {
+        "Title": "Radio Dei Oulu",
+        "Country": "Finland",
+        "Favicon": "http://www.radiodei.fi/favicon.ico",
+        "Language": "fi",
+        "Homepage": "http://www.radiodei.fi/",
+        "Source1": "http://isojako.radiodei.fi:8000/oulu"
+    },
+    {
+        "Title": "Radio Dei Pohjanmaa",
+        "Country": "Finland",
+        "Language": "fi",
+        "Homepage": "http://www.radiodei.fi/",
+        "Source1": "http://isojako.radiodei.fi:8000/lapua"
+    },
+    {
+        "Title": "Radio Dei Rovaniemi",
+        "Country": "Finland",
+        "Language": "fi",
+        "Homepage": "http://www.radiodei.fi/",
+        "Source1": "http://isojako.radiodei.fi:8000/rovaniemi"
+    },
+    {
+        "Title": "Radio Dei Turku ja Eurajoki",
+        "Country": "Finland",
+        "Language": "fi",
+        "Homepage": "http://www.radiodei.fi/",
+        "Source1": "http://isojako.radiodei.fi:8000/turkueurajoki"
+    },
+    {
+        "Title": "Radio Hear",
+        "Country": "Finland",
+        "Favicon": "https://www.hear.fi/hear-icon-114px.png",
+        "Homepage": "http://www.hear.fi/",
+        "Source1": "http://hear.fi:8000/hear.mp3"
+    },
+    {
+        "Title": "Radio Helsinki",
+        "Country": "Finland",
+        "Tags": "alternative,helsinki,indie,news,talk",
+        "Favicon": "https://radiohelsinki.fi/wp-content/themes/radiohelsinki/favicon.ico",
+        "Language": "fi",
+        "Homepage": "https://radiohelsinki.fi/",
+        "Source1": "https://stream.radiohelsinki.fi/stream"
+    },
+    {
+        "Title": "Radio Helsinki 98,5 Mhz",
+        "Country": "Finland",
+        "Language": "fi",
+        "Homepage": "https://www.radiohelsinki.fi/",
+        "Source1": "http://opml.radiotime.com/Tune.ashx?id=s97243&formats=aac,ogg,mp3&partnerId=16&serial=afe4c1a95cc7f3a92c47dbad1b283293"
+    },
+    {
+        "Title": "Radio Hiekka",
+        "Country": "Finland",
+        "Tags": "community,local,regional,summer",
+        "Language": "fi",
+        "Homepage": "https://radiohiekka.fi/",
+        "Source1": "https://radiohiekka.ovh:8443/stream"
+    },
+    {
+        "Title": "Radio KAAKKO",
+        "Country": "Finland",
+        "Tags": "kymenlaakso",
+        "Language": "fi",
+        "Homepage": "https://radiokaakko.fi/",
+        "Source1": "http://wr2.downtime.fi/kaakko.aac",
+        "Source2": "https://wr2.downtime.fi/kaakko.mp3"
+    },
+    {
+        "Title": "Radio Kaleva",
+        "Country": "Finland",
+        "Favicon": "https://www.radiokaleva.fi/wp-content/uploads/sites/337/2022/01/Kaleva_favicon_1_512x512px-300x300.png",
+        "Language": "fi",
+        "Homepage": "https://www.radiokaleva.fi/",
+        "Latitude": 65.01309626991605,
+        "Longitude": 25.51258068376007,
+        "Source1": "https://radiokaleva.digitacdn.net/radio/kaleva/master.m3u8"
+    },
+    {
+        "Title": "Radio Keskisuomalainen",
+        "Country": "Finland",
+        "Favicon": "https://www.radiokeskisuomalainen.fi/wp-content/uploads/2020/04/cropped-radio-keskisuomalainen-favicon-1-192x192.png",
+        "Language": "fi",
+        "Homepage": "https://www.radiokeskisuomalainen.fi/",
+        "Latitude": 62.248617230243376,
+        "Longitude": 25.774706304073337,
+        "Source1": "https://cast.radiokeskisuomalainen.fi/radiokeskisuomalainen"
+    },
+    {
+        "Title": "Radio Mega",
+        "Country": "Finland",
+        "Tags": "local,pop,rock",
+        "Favicon": "https://media.bauerradio.com/image/upload/c_crop,g_custom/v1695977442/brand_manager/stations/axgv7nukphikxkagqldx.png",
+        "Language": "fi",
+        "Homepage": "https://radioplay.fi/radio-mega",
+        "Source1": "https://streaming.radioplay.fi/fi_radiomega_128.mp3"
+    },
+    {
+        "Title": "Radio Moreeni",
+        "Country": "Finland",
+        "Favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGt9a82dooyJLF6ezBmg3exN_JynT88IilVYDRKESzfg&s=10",
+        "Homepage": "https://radiomoreeni.fi/",
+        "Latitude": 61.50495551276016,
+        "Longitude": 23.74327115307207,
+        "Source1": "https://moreenistream.tuni.fi/moreeni.mp3"
+    },
+    {
+        "Title": "Radio Musa",
+        "Country": "Finland",
+        "Tags": "nostalgia,nostalgic,nostalgico,nostalgie",
+        "Language": "fi",
+        "Homepage": "http://www.radiomusa.fi/",
+        "Source1": "http://n09.radiojar.com/n6yg5q0z8vzuv.m4a"
+    },
+    {
+        "Title": "Radio Musa",
+        "Country": "Finland",
+        "Favicon": "https://scontent.fqlf1-2.fna.fbcdn.net/v/t39.30808-1/308105715_527626122702103_6824181411014449596_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=bKYlPRptaX0Q7kNvwGugkgE&_nc_oc=AdpvOX6ebbVJt9iaIrPU8V152LyogTqTWRjXHqRw2zBq0o40ONhnk5z1fNzYrftio-c&_nc_zt=24&_nc_ht=scontent.fqlf1-2.fna&_nc_gid=6U2Yw9P6qFeeCAxvVR-Gjw&_nc_ss=7a389&oh=00_Af0tqi7_3KzV0zF5YQcQGKkOHvEMcqe63uE_81aRXz4fyA&oe=69DC3D38",
+        "Homepage": "https://www.facebook.com/radiomusa/",
+        "Latitude": 61.50499803913824,
+        "Longitude": 23.74327898025513,
+        "Source1": "http://n09.radiojar.com/n6yg5q0z8vzuv.m4a"
+    },
+    {
+        "Title": "Radio Natale",
+        "Country": "Finland",
+        "Homepage": "https://www.radionatale.com/",
+        "Source1": "https://streaming.radiostreamlive.com/radionatale_devices-low?token=%3C?%20echo%20rand%20(1,200000);%20?%3E",
+        "Source2": "https://streaming.radiostreamlive.com/radionatale_devices"
+    },
+    {
+        "Title": "Radio Nostalgia",
+        "Country": "Finland",
+        "Tags": "nostalgia",
+        "Homepage": "https://www.radioplayer.fi/kanavat/radio-nostalgia",
+        "Source1": "https://streaming.radioplay.fi/nostalgia/nostalgia_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_ukrp&aw_0_req.userConsentV2=~TCSTRING~&rp_source=1&aw_0_1st.skey=1770708690"
+    },
+    {
+        "Title": "Radio Nova",
+        "Country": "Finland",
+        "Tags": "pop",
+        "Favicon": "https://assets.planetradio.co.uk/img/ConfigLockScreenImageUrl/254.jpg",
+        "Language": "fi",
+        "Homepage": "https://radioplay.fi/radio-nova",
+        "Latitude": 60.17104172424049,
+        "Longitude": 24.94128227233887,
+        "Source1": "https://stream-redirect.bauermedia.fi/radionova/radionova_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein"
+    },
+    {
+        "Title": "Radio Nova",
+        "Country": "Finland",
+        "Tags": "pop music",
+        "Favicon": "https://www.radionova.fi/files/meta_images/radionova-fb-cover.png",
+        "Language": "fi",
+        "Homepage": "https://radioplay.fi/radio-nova/",
+        "Source1": "https://stream.radioplay.fi/radionova/radionova_64.aac?aw_0_1st.skey=1692715205&aw_0_1st.bauer_loggedin=false"
+    },
+    {
+        "Title": "Radio Nova",
+        "Country": "Finland",
+        "Tags": "finland,finnish,pop,rock,suomi",
+        "Favicon": "https://radionova.fi/templates/radionova/images/favicon.ico",
+        "Language": "fi",
+        "Homepage": "https://radionova.fi/",
+        "Source1": "https://stream.bauermedia.fi/radionova/radionova_64.aac",
+        "Source2": "https://stream.bauermedia.fi/radionova/radionova_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein&aw_0_1st.skey=1744811390"
+    },
+    {
+        "Title": "Radio nova",
+        "Country": "Finland",
+        "Favicon": "https://www.radionova.fi/templates/radionova/images/favicon-96x96.png",
+        "Language": "fi",
+        "Homepage": "https://www.radionova.fi/",
+        "Source1": "http://stream.bauermedia.fi/radionova/radionova_64.aac",
+        "Source2": "http://stream.bauermedia.fi/radionova/radionova_128.mp3",
+        "Source3": "https://stream.bauermedia.fi/radionova/radionova_128.mp3"
+    },
+    {
+        "Title": "Radio Nova",
+        "Country": "Finland",
+        "Favicon": "https://assets.planetradio.co.uk/img/ConfigWebListenBarLogoImageUrl/254.png?ver=1509982856",
+        "Homepage": "https://rayo.fi/radio-nova",
+        "Latitude": 61.47498892224315,
+        "Longitude": 23.779907226562504,
+        "Source1": "http://live-bauerfi.sharp-stream.com/fi_radionova_64.aac?direct=true&aw_0_1st.playerid=BMUK_inpage_html5&aw_0_1st.skey=1784119314&aw_0_1st.bauer_loggedin=true"
+    },
+    {
+        "Title": "Radio Patmos",
+        "Country": "Finland",
+        "Tags": "religious",
+        "Language": "fi",
+        "Homepage": "https://www.patmos.fi/radio-patmos/",
+        "Source1": "https://s3.yesstreaming.net:7011/radio",
+        "Source2": "http://s3.yesstreaming.net:7011/radio"
+    },
+    {
+        "Title": "Radio Pooki",
+        "Country": "Finland",
+        "Favicon": "https://www.radiopooki.fi/templates/radiopooki/images/favicon-96x96.png",
+        "Language": "fi",
+        "Homepage": "https://www.radiopooki.fi/",
+        "Latitude": 60.19615576604441,
+        "Longitude": 24.9444580078125,
+        "Source1": "https://stream.bauermedia.fi/radiopooki/radiopooki_128.mp3?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein&aw_0_1st.skey=1697625781",
+        "Source2": "http://stream.bauermedia.fi/radiopooki/radiopooki_64.aac"
+    },
+    {
+        "Title": "Radio Pori",
+        "Country": "Finland",
+        "Favicon": "https://media.bauerradio.com/image/upload/c_crop,g_custom/v1590476006/brand_manager/stations/gnxolu1alqpmvisgznda.png",
+        "Homepage": "https://radioplay.fi/radio-pori/",
+        "Source1": "https://stream-redirect.bauermedia.fi/radiopori/radiopori_128.mp3?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein"
+    },
+    {
+        "Title": "Radio Rock",
+        "Country": "Finland",
+        "Favicon": "https://static.novelist.nelonenmedia.fi/files/styles/1_360x360/s3/promo-items/square/2024/RadioRock_2560x2560.jpg?itok=-t2L8AEt",
+        "Homepage": "https://www.supla.fi/radiorock",
+        "Latitude": 60.19724784293818,
+        "Longitude": 24.9334716796875,
+        "Source1": "https://aud-stream-radiorock.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8",
+        "Source2": "https://aud-stream-radiorock.nm-elemental.nelonenmedia.fi/playlist.m3u8"
+    },
+    {
+        "Title": "Radio Rock",
+        "Country": "Finland",
+        "Tags": "rock",
+        "Favicon": "https://i.ibb.co/QFPmXG4R/novelist.webp",
+        "Homepage": "https://radiostream.novawap.com/",
+        "Source1": "https://aud-stream-radiorock.nm-elemental.nelonenmedia.fi/playlist.m3u8"
+    },
+    {
+        "Title": "RADIO SANDELS",
+        "Country": "Finland",
+        "Favicon": "https://www.radiosandels.fi/attachments/Image/InShot_20211202_175929630_1.gif?template=generic",
+        "Homepage": "https://www.radiosandels.fi/",
+        "Source1": "https://radiosandels.radiotaajuus.fi:9050/radio"
+    },
+    {
+        "Title": "Radio Sandels",
+        "Country": "Finland",
+        "Homepage": "https://www.radiosandels.fi/nettiradio/",
+        "Source1": "https://radiosandels.radiotaajuus.fi:9050/radio"
+    },
+    {
+        "Title": "Radio Santa Claus",
+        "Country": "Finland",
+        "Tags": "christmas music,helsinki,rsl",
+        "Favicon": "https://cdn-elements.radiostreamlive.com/v1/images/favicon.ico",
+        "Language": "en",
+        "Homepage": "http://www.radiosantaclaus.com/",
+        "Source1": "https://streaming.radiostreamlive.com/radiosantaclaus_devices"
+    },
+    {
+        "Title": "Radio Soho",
+        "Country": "Finland",
+        "Tags": "community,local,music",
+        "Language": "fi",
+        "Homepage": "https://radiosoho.fi/",
+        "Source1": "https://sohostream.djonline.fi:8008/radio"
+    },
+    {
+        "Title": "Radio SUN",
+        "Country": "Finland",
+        "Favicon": "https://radiosun.fi/wp-content/uploads/2023/10/SUN_logo_valk_desktop.png",
+        "Homepage": "https://radiosun.fi/",
+        "Source1": "https://st.downtime.fi/sun.mp3"
+    },
+    {
+        "Title": "Radio SUN",
+        "Country": "Finland",
+        "Tags": "pop",
+        "Language": "fi",
+        "Homepage": "http://www.radiosun.fi/",
+        "Source1": "http://st.downtime.fi/sun.mp3"
+    },
+    {
+        "Title": "Radio Suomipop",
+        "Country": "Finland",
+        "Homepage": "https://www.supla.fi/radiosuomipop",
+        "Source1": "https://aud-stream-suomipop.nm-elemental.nelonenmedia.fi/playlist.m3u8?rp_source=1",
+        "Source2": "https://aud-stream-suomipop.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8"
+    },
+    {
+        "Title": "Radio SuomiRock",
+        "Country": "Finland",
+        "Language": "fi",
+        "Homepage": "https://www.radiosuomirock.fi/",
+        "Source1": "https://stream.bauermedia.fi/suomirock/suomirock_128.mp3"
+    },
+    {
+        "Title": "Radio Tempo",
+        "Country": "Finland",
+        "Favicon": "https://www.radiotempo.fi/wp-content/themes/radiotempo/images/logo.png",
+        "Homepage": "https://www.radiotempo.fi/",
+        "Source1": "https://cast.radiotempo.fi/radiotempo"
+    },
+    {
+        "Title": "Radio Tuottaja1",
+        "Country": "Finland",
+        "Tags": "music,pop",
+        "Language": "fi",
+        "Homepage": "https://kaupunkikanava.fi/",
+        "Source1": "https://kaupunkiradio.radiotaajuus.fi:9013/radio"
+    },
+    {
+        "Title": "Radio Vaasa",
+        "Country": "Finland",
+        "Tags": "bilingual,community,local,regional",
+        "Favicon": "https://www.radiovaasa.fi/wp-content/uploads/2020/12/cropped-radiovaasa-favicon-300x300.png",
+        "Language": "fi",
+        "Homepage": "https://www.radiovaasa.fi/",
+        "Source1": "https://stream.protonbroadcast.com:8443/radiovaasa.mp3"
+    },
+    {
+        "Title": "Radio Voima",
+        "Country": "Finland",
+        "Favicon": "https://www.radiovoima.fi/wp-content/uploads/sites/2/2020/10/cropped-radio-voima-icon-180x180.png",
+        "Language": "fi",
+        "Homepage": "https://www.radiovoima.fi/",
+        "Source1": "https://cast2.radiovoima.fi/voima.mp3"
+    },
+    {
+        "Title": "RadioSE.fi",
+        "Country": "Finland",
+        "Favicon": "https://www.radiose.fi/wp-content/uploads/2024/06/RadioSE.fi-Suomen-monipuolisin-musiikkikanava-white-1024x327.png.webp",
+        "Language": "fi",
+        "Homepage": "https://www.radiose.fi/",
+        "Latitude": 60.90867598343209,
+        "Longitude": 26.623343825340275,
+        "Source1": "https://wr2.downtime.fi/kaakko.aac"
+    },
+    {
+        "Title": "Radioverkko",
+        "Country": "Finland",
+        "Tags": "community",
+        "Language": "fi",
+        "Homepage": "http://radioverkko.fi/",
+        "Source1": "http://kuuntele.radioverkko.fi:8000/live"
+    },
+    {
+        "Title": "RadiOwO",
+        "Country": "Finland",
+        "Tags": "electronic",
+        "Homepage": "https://stream.muhennos.xyz/public/radiowo",
+        "Source1": "https://stream.muhennos.xyz/listen/radiowo/radio.mp3"
+    },
+    {
+        "Title": "RAKKAUDEN WAPPURADIO",
+        "Country": "Finland",
+        "Language": "fi",
+        "Homepage": "https://wappuradio.fi/",
+        "Source1": "https://stream1.wappuradio.fi/wappuradio.opus",
+        "Source2": "http://stream1.wappuradio.fi/wappuradio.mp3"
+    },
+    {
+        "Title": "RattoRadio",
+        "Country": "Finland",
+        "Homepage": "https://www.rattoradio.fi/",
+        "Latitude": 65.03732084022836,
+        "Longitude": 25.461845397949222,
+        "Source1": "https://www.rattoradio.fi/kuuntele/rattoradio.pls"
+    },
+    {
+        "Title": "REPLAY NEWS - Suomi",
+        "Country": "Finland",
+        "Tags": "information,news",
+        "Favicon": "https://www.publicsante.com/BIENVENU/LOGO%20REPLAY%20NEWS-FI.png",
+        "Homepage": "https://www.replaynews.net/",
+        "Source1": "https://replaynewsfi.ice.infomaniak.ch/replaynewsfi-128.mp3"
+    },
+    {
+        "Title": "Roll FM",
+        "Country": "Finland",
+        "Favicon": "https://www.rollfm.fi/favicon.ico",
+        "Homepage": "https://www.rollfm.fi/",
+        "Latitude": 60.29088741138995,
+        "Longitude": 25.04317077338267,
+        "Source1": "http://stream.rollfm.fi/",
+        "Source2": "https://rollfm.online/"
+    },
+    {
+        "Title": "RollFM",
+        "Country": "Finland",
+        "Homepage": "https://www.rollfm.fi/",
+        "Source1": "https://rollfm.online/"
+    },
+    {
+        "Title": "Rondo Classic Klasu",
+        "Country": "Finland",
+        "Favicon": "https://rondo.fi/wp-content/uploads/2022/04/Rondologo-300.jpg",
+        "Homepage": "https://rondo.fi/?amp=1",
+        "Source1": "http://iradio.fi:8000/klasu-hi.mp3"
+    },
+    {
+        "Title": "Rondo Classic Klasu",
+        "Country": "Finland",
+        "Tags": "classical",
+        "Favicon": "https://liveonlineradio.net/wp-content/uploads/2015/05/Rondo-Classic-Klasu.jpg",
+        "Homepage": "https://rondo.fi/",
+        "Source1": "https://iradio.fi/klasu.flac"
+    },
+    {
+        "Title": "Rondo Classic Klasu Pro",
+        "Country": "Finland",
+        "Tags": "classical",
+        "Favicon": "https://static.mytuner.mobi/media/tvos_radios/UyZJwdEzqv.jpg",
+        "Homepage": "https://rondo.fi/",
+        "Source1": "https://iradio.fi/klasupro.flac"
+    },
+    {
+        "Title": "Savon Aallot",
+        "Country": "Finland",
+        "Favicon": "https://www.savonaallot.fi/wp-content/uploads/sites/3/2020/10/cropped-savon-aallot-ikoni-180x180.png",
+        "Language": "fi",
+        "Homepage": "https://www.savonaallot.fi/",
+        "Source1": "https://cast.savonaallot.fi/savonaallot"
+    },
+    {
+        "Title": "Sea fm",
+        "Country": "Finland",
+        "Favicon": "http://livetaajuus.fi/media/logos/sea-fm.png",
+        "Language": "fi",
+        "Homepage": "http://www.seafm.fi/",
+        "Source1": "http://s3.myradiostream.com:4976/listen.pls"
+    },
+    {
+        "Title": "Sea FM",
+        "Country": "Finland",
+        "Tags": "dance,pop,r´n´b,top 40",
+        "Language": "en",
+        "Homepage": "https://www.seafm.fi/",
+        "Latitude": 65.01121065330118,
+        "Longitude": 25.47135399771738,
+        "Source1": "https://s3.myradiostream.com/4976/listen.mp3"
+    },
+    {
+        "Title": "Sea FM Radio",
+        "Country": "Finland",
+        "Language": "en,fi",
+        "Homepage": "https://seafm.fi/",
+        "Source1": "http://s3.myradiostream.com:4976/;"
+    },
+    {
+        "Title": "SuomiRap",
+        "Country": "Finland",
+        "Tags": "finnish rap,hip hop,rap",
+        "Favicon": "https://media.bauerradio.com/image/upload/c_crop,g_custom/v1710402023/brand_manager/stations/mdenzfihtj0m7lqv8lhb.png",
+        "Language": "fi",
+        "Homepage": "https://radioplay.fi/suomirap",
+        "Source1": "https://streaming.radioplay.fi/fi_suomirap_128.mp3"
+    },
+    {
+        "Title": "Sveriges Radio - SR Sisuradio",
+        "Country": "Finland",
+        "Tags": "finnish,music,news,public radio,sveriges radio",
+        "Favicon": "https://sverigesradio.se/dist/images/apple-touch-icon-default.png",
+        "Language": "fi,sv",
+        "Homepage": "https://sverigesradio.se/",
+        "Source1": "http://sverigesradio.se/topsy/direkt/226-hi-aac.pls"
+    },
+    {
+        "Title": "Tampereen Kiakkoradio: Tappara",
+        "Country": "Finland",
+        "Favicon": "https://kiakkoradio.fi/wp-content/uploads/2023/09/masnepp.png",
+        "Language": "fi",
+        "Homepage": "https://kiakkoradio.fi/",
+        "Latitude": 61.49806881772859,
+        "Longitude": 23.773958086967472,
+        "Source1": "https://st.downtime.fi/kiakko-tappara.aac"
+    },
+    {
+        "Title": "Tekoälyradio",
+        "Country": "Finland",
+        "Tags": "ai,hits,pop",
+        "Favicon": "https://media.bauerradio.com/image/upload/c_crop,g_custom/v1701166742/brand_manager/stations/h71vihwdoll5yuxpwgfe.jpg",
+        "Language": "fi",
+        "Homepage": "https://radioplay.fi/tekoalyradio",
+        "Source1": "https://streaming.radioplay.fi/fi_tekoalyradio_128.mp3"
+    },
+    {
+        "Title": "Tick Tock Radio - 1950",
+        "Country": "Finland",
+        "Tags": "1950",
+        "Favicon": "https://ticktock.radio/static/assets/img/apple-icon-120x120.png",
+        "Language": "fi",
+        "Homepage": "https://ticktock.radio/",
+        "Latitude": 60.23980983862846,
+        "Longitude": 24.92578312754631,
+        "Source1": "https://streaming.ticktock.radio/tt/1950/icecast.audio"
+    },
+    {
+        "Title": "TOP51",
+        "Country": "Finland",
+        "Tags": "pop",
+        "Favicon": "https://radiomedia.fi/wp-content/uploads/2021/06/top51_1000x1000-300x300.png",
+        "Homepage": "https://radioplay.fi/top51/",
+        "Source1": "https://stream-redirect.bauermedia.fi/top51/top51_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein"
+    },
+    {
+        "Title": "Tranceport FM",
+        "Country": "Finland",
+        "Favicon": "https://www.tranceportfm.com/tranceportweblogo.png",
+        "Homepage": "https://www.tranceportfm.com/",
+        "Source1": "https://a12.asurahosting.com/listen/tranceport_fm/radio.mp3"
+    },
+    {
+        "Title": "Unexplained Agency Radio",
+        "Country": "Finland",
+        "Tags": "classical,dance,hip hop,house,jazz,rap,rnb,soul,spoken word,trance",
+        "Language": "en",
+        "Homepage": "https://radio.unexplained.agency/",
+        "Latitude": 60.20643536381548,
+        "Longitude": 24.906005859375004,
+        "Source1": "https://radio.unexplained.agency/stream"
+    },
+    {
+        "Title": "Vömba FM",
+        "Country": "Finland",
+        "Tags": "80s,90s,community,estonian,online",
+        "Language": "et",
+        "Homepage": "https://vombafm.fi/",
+        "Source1": "https://c4.radioboss.fm:18123/live"
+    },
+    {
+        "Title": "Yle Klassinen",
+        "Country": "Finland",
+        "Tags": "classical",
+        "Favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Ylen_logo.svg/300px-Ylen_logo.svg.png",
+        "Language": "fi",
+        "Homepage": "https://yle.fi/aihe/klassinen",
+        "Source1": "https://icecast.live.yle.fi/radio/YleKlassinen/icecast.audio"
+    },
+    {
+        "Title": "Yle Klassinen",
+        "Country": "Finland",
+        "Tags": "classical,music",
+        "Favicon": "https://images.cdn.yle.fi/image/upload/f_auto,c_fill,ar_1:1,w_384,q_auto/v1718639453/yle-klassinen_square",
+        "Language": "fi",
+        "Homepage": "https://yle.fi/",
+        "Source1": "https://yleradiolive.akamaized.net/hls/live/2027676/in-YleKlassinen/master.m3u8"
+    },
+    {
+        "Title": "Yle Klassinen (HLS)",
+        "Country": "Finland",
+        "Tags": "classical",
+        "Favicon": "https://images.cdn.yle.fi/image/upload/c_scale,h_180,w_180/yle-areena-app.png",
+        "Language": "fi",
+        "Homepage": "https://areena.yle.fi/podcastit/opas",
+        "Source1": "https://yleradiolive5.akamaized.net/hls/live/20000872/yleklassinen/master.m3u8"
+    },
+    {
+        "Title": "Yle Puhe",
+        "Country": "Finland",
+        "Tags": "news,public,sport,talk",
+        "Favicon": "https://images.cdn.yle.fi/image/upload/f_auto,c_fill,ar_1:1,w_384,q_auto/yle-puhe_square",
+        "Language": "fi",
+        "Homepage": "https://yle.fi/aihe/yle-puhe",
+        "Source1": "https://yleradiolive.akamaized.net/hls/live/2027677/in-YlePuhe/master.m3u8"
+    },
+    {
+        "Title": "Yle Radio 1",
+        "Country": "Finland",
+        "Tags": "culture,music,news",
+        "Favicon": "https://images.cdn.yle.fi/image/upload/f_auto,c_fill,ar_1:1,w_384,q_auto/v1718639453/yle-radio-1_square",
+        "Language": "fi",
+        "Homepage": "https://yle.fi/",
+        "Source1": "https://yleradiolive.akamaized.net/hls/live/2027672/in-YleRadio1/master.m3u8"
+    },
+    {
+        "Title": "Yle Radio 1 Hifi",
+        "Country": "Finland",
+        "Tags": "classical",
+        "Favicon": "https://images.cdn.yle.fi/f_auto,w_48,h_48,dpr_4.0/v1496664710/yle-areena-app.png",
+        "Language": "fi",
+        "Homepage": "https://areena.yle.fi/podcastit/ohjelmat/yle-radio-1",
+        "Source1": "http://icecast.live.yle.fi/radio/YleRadio1Hifi/icecast.audio"
+    },
+    {
+        "Title": "Yle Radio Suomi - Pori",
+        "Country": "Finland",
+        "Favicon": "https://images.cdn.yle.fi/f_auto,w_48,h_48,dpr_4.0/v1496664710/yle-areena-app.png",
+        "Language": "fi",
+        "Homepage": "https://areena.yle.fi/audio/ohjelmat/yle-radio-suomi?_c=yle-radio-suomi-pori",
+        "Source1": "https://icecast.live.yle.fi/radio/YlePori/icecast.audio"
+    },
+    {
+        "Title": "YLE Radio Suomi - Tampere",
+        "Country": "Finland",
+        "Favicon": "https://images.cdn.yle.fi/image/upload/f_auto,fl_progressive/q_auto/w_2890,h_2890,c_crop,x_632,y_612/w_700/v1641897373/39-90051461dd5d3129248.jpg",
+        "Language": "fi",
+        "Homepage": "https://yle.fi/aihe/s/yle-radio-suomi/yle-tampere",
+        "Source1": "https://icecast.live.yle.fi/radio/YleTampere/icecast.audio"
+    },
+    {
+        "Title": "Yle radio Suomi Etelä-pohjanmaa",
+        "Country": "Finland",
+        "Favicon": "https://areena.yle.fi/favicon.ico",
+        "Homepage": "https://areena.yle.fi/podcastit/ohjelmat/57-3gO4bl7J6?_c=yle-radio-suomi-seinajoki",
+        "Source1": "https://icecast.live.yle.fi/radio/YleSeinajoki/icecast.audio"
+    },
+    {
+        "Title": "Yle Radio Suomi Helsinki",
+        "Country": "Finland",
+        "Favicon": "https://images.cdn.yle.fi/image/upload/f_auto,c_fill,ar_1:1,w_128,q_auto/v1730971077/yle-radio-suomi-helsinki_square",
+        "Homepage": "https://areena.yle.fi/podcastit/ohjelmat/57-3gO4bl7J6",
+        "Source1": "https://yleradiolive.akamaized.net/hls/live/2027675/in-YleRS/256/variant.m3u8"
+    },
+    {
+        "Title": "YLE Radio Suomi Hämeenlinna",
+        "Country": "Finland",
+        "Favicon": "https://images.cdn.yle.fi/image/upload/ar_1:1,b_auto:predominant_gradient:4,c_pad,d_yle-areena.jpg,f_auto,fl_lossy,q_auto:eco,w_720/v1607003766/13-1-1416159.jpg",
+        "Language": "fi",
+        "Homepage": "https://areena.yle.fi/podcastit/ohjelmat/yle-radio-suomi?_c=yle-radio-suomi-hameenlinna",
+        "Latitude": 60.996628428417225,
+        "Longitude": 24.465092079944956,
+        "Source1": "https://icecast.live.yle.fi/radio/YleHameenlinna/icecast.audio"
+    },
+    {
+        "Title": "Yle Radio Suomi Kajaani",
+        "Country": "Finland",
+        "Tags": "music,talk",
+        "Language": "fi",
+        "Homepage": "https://areena.yle.fi/podcastit/ohjelmat/57-3gO4bl7J6?_c=yle-radio-suomi-kajaani",
+        "Latitude": 64.22514384044875,
+        "Longitude": 27.73443549871445,
+        "Source1": "https://yleradiolive5.akamaized.net/hls/live/20000882/ylers-kajaani/256/variant.m3u8"
+    },
+    {
+        "Title": "Yle radio Suomi Pohjanmaa",
+        "Country": "Finland",
+        "Homepage": "https://areena.yle.fi/podcastit/ohjelmat/57-3gO4bl7J6",
+        "Source1": "https://icecast.live.yle.fi/radio/YlePohjanmaa/icecast.audio"
+    },
+    {
+        "Title": "Yle Radio Suomi, Helsinki",
+        "Country": "Finland",
+        "Tags": "helsinki,yle radio suomi",
+        "Favicon": "https://images.cdn.yle.fi/image/upload/yle-radio-suomi-helsinki_vt.png",
+        "Language": "fi",
+        "Homepage": "https://areena.yle.fi/podcastit/ohjelmat/yle-radio-suomi",
+        "Source1": "http://icecast.live.yle.fi/radio/YleRS/icecast.audio"
+    },
+    {
+        "Title": "Yle Radio Suomi, Joensuu",
+        "Country": "Finland",
+        "Favicon": "https://areena.yle.fi/favicon.ico",
+        "Language": "fi",
+        "Homepage": "https://areena.yle.fi/podcastit/ohjelmat/57-3gO4bl7J6?_c=yle-radio-suomi-joensuu",
+        "Source1": "https://icecast.live.yle.fi/radio/YleJoensuu/icecast.audio"
+    },
+    {
+        "Title": "YLE radio Suomi, Jyväskylä",
+        "Country": "Finland",
+        "Language": "fi",
+        "Homepage": "https://areena.yle.fi/podcastit/ohjelmat/57-3gO4bl7J6?_c=yle-radio-suomi-jyvaskyla",
+        "Latitude": 62.24419377138263,
+        "Longitude": 25.75881958007813,
+        "Source1": "https://icecast.live.yle.fi/radio/YleJKL/icecast.audio"
+    },
+    {
+        "Title": "Yle Radio Suomi, Kotka",
+        "Country": "Finland",
+        "Favicon": "https://images.cdn.yle.fi/image/upload/c_fill,f_auto,h_160,q_auto:eco/v0/yle-radio-suomi-kotka_vt.png",
+        "Language": "fi",
+        "Homepage": "https://areena.yle.fi/podcastit/ohjelmat/57-3gO4bl7J6?_c=yle-radio-suomi-kotka",
+        "Source1": "https://icecast.live.yle.fi/radio/YleKotka/icecast.audio"
+    },
+    {
+        "Title": "Yle Radio Suomi, Kuopio",
+        "Country": "Finland",
+        "Favicon": "https://images.cdn.yle.fi/f_auto,w_48,h_48,dpr_4.0/v1496664710/yle-areena-app.png",
+        "Language": "fi",
+        "Homepage": "https://yle.fi/",
+        "Source1": "https://icecast.live.yle.fi/radio/YleKuopio/icecast.audio"
+    },
+    {
+        "Title": "Yle Radio Suomi, Lappeenranta",
+        "Country": "Finland",
+        "Favicon": "https://images.cdn.yle.fi/f_auto,w_48,h_48,dpr_4.0/v1496664710/yle-areena-app.png",
+        "Language": "fi",
+        "Homepage": "https://areena.yle.fi/audio/ohjelmat/57-3gO4bl7J6?_c=yle-radio-suomi-lappeenranta",
+        "Latitude": 61.06631093610722,
+        "Longitude": 28.183651921384104,
+        "Source1": "https://yleradiolive.akamaized.net/hls/live/2027711/in-YleLPR/master.m3u8"
+    },
+    {
+        "Title": "Yle Radio Suomi, Mikkeli",
+        "Country": "Finland",
+        "Favicon": "https://images.cdn.yle.fi/f_auto,w_48,h_48,dpr_4.0/v1496664710/yle-areena-app.png",
+        "Homepage": "https://areena.yle.fi/audio/ohjelmat/57-3gO4bl7J6?_c=yle-radio-suomi-mikkeli",
+        "Latitude": 61.668413380714725,
+        "Longitude": 27.287292480468754,
+        "Source1": "https://icecast.live.yle.fi/radio/YleMikkeli/icecast.audio"
+    },
+    {
+        "Title": "Yle Radio Suomi, Oulu Radio",
+        "Country": "Finland",
+        "Tags": "talk & speech",
+        "Source1": "http://icecast.live.yle.fi/radio/YleOulu/icecast.audio"
+    },
+    {
+        "Title": "Yle Radio Suomi, Rovaniemi",
+        "Country": "Finland",
+        "Language": "fi",
+        "Homepage": "https://areena.yle.fi/podcastit/ohjelmat/57-3gO4bl7J6?_c=yle-radio-suomi-rovaniemi",
+        "Source1": "https://icecast.live.yle.fi/radio/YleRovaniemi/icecast.audio"
+    },
+    {
+        "Title": "Yle Radio Suomi, Turku",
+        "Country": "Finland",
+        "Tags": "local news,local radio,news",
+        "Favicon": "https://images.cdn.yle.fi/image/upload/yle-radio-suomi-turku_vt.png",
+        "Language": "fi",
+        "Homepage": "http://yle.fi/uutiset/turku/",
+        "Latitude": 60.45162600843974,
+        "Longitude": 22.26684093475342,
+        "Source1": "http://icecast.live.yle.fi/radio/YleTurku/icecast.audio"
+    },
+    {
+        "Title": "Yle radio Vega Östnyland",
+        "Country": "Finland",
+        "Language": "fi",
+        "Homepage": "https://areena.yle.fi/radio/suorat/radio-vega-ostnyland",
+        "Latitude": 60.25180728368915,
+        "Longitude": 25.658053646052707,
+        "Source1": "https://icecast.live.yle.fi/radio/YleVegaOstnyland/icecast.audio"
+    },
+    {
+        "Title": "Yle Radio1HIFI 256 Kb/s",
+        "Country": "Finland",
+        "Tags": "classical",
+        "Source1": "http://icecast.live.yle.fi/radio/YleRadio1Hifi/icecast.audio"
+    },
+    {
+        "Title": "Yle Suomi Kemi",
+        "Country": "Finland",
+        "Tags": "yle radio suomi",
+        "Favicon": "https://images.cdn.yle.fi/image/upload/f_auto,c_fill,ar_1:1,w_384,q_auto/v1730971077/yle-radio-suomi-kemi_square",
+        "Homepage": "https://yle.fi/",
+        "Latitude": 65.7352370129823,
+        "Longitude": 24.570536613464355,
+        "Source1": "https://yleradiolive.akamaized.net/hls/live/2027706/in-YleKemi/master.m3u8"
+    },
+    {
+        "Title": "Yle Sámi Radio",
+        "Country": "Finland",
+        "Tags": "culture,inari,minority,public radio,sámi,yle sápmi",
+        "Homepage": "https://yle.fi/sapmi",
+        "Latitude": 68.90548529402149,
+        "Longitude": 27.027155756950386,
+        "Source1": "https://yleradiolive.akamaized.net/hls/live/2027680/in-YleSami/master.m3u8"
+    },
+    {
+        "Title": "Yle Sámi Radio",
+        "Country": "Finland",
+        "Homepage": "https://areena.yle.fi/podcastit/ohjelmat/30-698",
+        "Source1": "http://icecast.live.yle.fi/radio/YleSami/icecast.audio"
+    },
+    {
+        "Title": "Yle Vega Huvudstadsregionen",
+        "Country": "Finland",
+        "Tags": "news,talk",
+        "Favicon": "https://images.cdn.yle.fi/image/upload/f_auto,c_fill,ar_1:1,w_256,q_auto/v1718639453/radio-vega-huvudstadsregionen",
+        "Language": "sv",
+        "Homepage": "https://yle.fi/",
+        "Source1": "https://yleradiolive.akamaized.net/hls/live/2027679/in-YleVega/master.m3u8"
+    },
+    {
+        "Title": "Yle Vega Västnyland",
+        "Country": "Finland",
+        "Favicon": "https://images.cdn.yle.fi/f_auto,w_48,h_48,dpr_4.0/v1496664710/yle-areena-app.png",
+        "Language": "sv",
+        "Homepage": "https://arenan.yle.fi/poddar/program/yle-vega?_c=radio-vega-vastnyland",
+        "Source1": "https://icecast.live.yle.fi/radio/YleVegaVastnyland/icecast.audio"
+    },
+    {
+        "Title": "Yle Vega Åboland",
+        "Country": "Finland",
+        "Favicon": "https://arenan.yle.fi/favicon.ico",
+        "Homepage": "https://www.radioplayer.fi/kanavat/yle-vega-aboland",
+        "Latitude": 60.45242408186946,
+        "Longitude": 22.2653603553772,
+        "Source1": "https://yleradiolive.akamaized.net/hls/live/2027716/in-YleVegaAboland/256/variant.m3u8"
+    },
+    {
+        "Title": "Yle Vega Åboland",
+        "Country": "Finland",
+        "Favicon": "https://arenan.yle.fi/favicon.ico",
+        "Homepage": "https://arenan.yle.fi/poddar/1-72901213",
+        "Source1": "http://icecast.live.yle.fi/radio/YleVegaAboland/icecast.audio"
+    },
+    {
+        "Title": "Yle Vega Österbotten",
+        "Country": "Finland",
+        "Favicon": "https://images.cdn.yle.fi/f_auto,w_48,h_48,dpr_4.0/v1496664710/yle-areena-app.png",
+        "Homepage": "https://arenan.yle.fi/radio/program/yle-vega?_c=radio-vega-osterbotten",
+        "Source1": "https://icecast.live.yle.fi/radio/YleVegaOsterbotten/icecast.audio"
+    },
+    {
+        "Title": "Yle X3M",
+        "Country": "Finland",
+        "Tags": "culture,music,pop,talk",
+        "Favicon": "https://images.cdn.yle.fi/image/upload/f_auto,c_fill,ar_1:1,w_384,q_auto/v1718639453/yle-x3m_square",
+        "Language": "sv",
+        "Homepage": "https://yle.fi/",
+        "Source1": "https://yleradiolive.akamaized.net/hls/live/2027678/in-YleX3M/master.m3u8"
+    },
+    {
+        "Title": "YLE X3M",
+        "Country": "Finland",
+        "Favicon": "https://images.cdn.yle.fi/f_auto,w_48,h_48,dpr_4.0/v1496664710/yle-areena-app.png",
+        "Language": "sv",
+        "Homepage": "http://svenska.yle.fi/x3m",
+        "Source1": "http://icecast.live.yle.fi/radio/YleX3M/icecast.audio"
+    },
+    {
+        "Title": "YleRadioSuomiLahti",
+        "Country": "Finland",
+        "Favicon": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://areena.yle.fi/podcastit/ohjelmat/57-3gO4bl7J6?_c=yle-radio-suomi-lahti&size=128",
+        "Language": "fi",
+        "Homepage": "https://areena.yle.fi/podcastit/ohjelmat/57-3gO4bl7J6?_c=yle-radio-suomi-lahti",
+        "Latitude": 60.98352232234739,
+        "Longitude": 25.654177990620088,
+        "Source1": "https://icecast.live.yle.fi/radio/YleLahti/icecast.audio"
+    },
+    {
+        "Title": "YleRadioSuomiTampere",
+        "Country": "Finland",
+        "Favicon": "https://images.cdn.yle.fi/f_auto,w_48,h_48,dpr_4.0/v1496664710/yle-areena-app.png",
+        "Language": "fi",
+        "Homepage": "https://areena.yle.fi/audio/ohjelmat/yle-radio-suomi?_c=yle-radio-suomi-tampere",
+        "Latitude": 61.48994683185719,
+        "Longitude": 23.77044682390988,
+        "Source1": "https://icecast.live.yle.fi/radio/YleTampere/icecast.audio"
+    },
+    {
+        "Title": "YleX",
+        "Country": "Finland",
+        "Tags": "music,pop,rock",
+        "Favicon": "https://images.cdn.yle.fi/image/upload/f_auto,c_fill,ar_1:1,w_384,q_auto/v1718639453/ylex_square",
+        "Language": "fi",
+        "Homepage": "https://yle.fi/",
+        "Source1": "https://yleradiolive.akamaized.net/hls/live/2027674/in-YleX/master.m3u8"
+    },
+    {
+        "Title": "YleX",
+        "Country": "Finland",
+        "Tags": "pop",
+        "Favicon": "https://images.cdn.yle.fi/f_auto,w_48,h_48,dpr_4.0/v1496664710/yle-areena-app.png",
+        "Language": "fi",
+        "Homepage": "https://www.ylex.fi/",
+        "Latitude": 59.9549142425675,
+        "Longitude": 24.908686056733135,
+        "Source1": "https://icecast.live.yle.fi/radio/YleX/icecast.audio"
+    },
+    {
+        "Title": "Ylex",
+        "Country": "Finland",
+        "Tags": "dance,pop,rap,rock",
+        "Favicon": "https://images.cdn.yle.fi/f_auto,w_48,h_48,dpr_4.0/v1496664710/yle-areena-app.png",
+        "Language": "fi",
+        "Homepage": "https://areena.yle.fi/audio/ohjelmat/ylex",
+        "Source1": "https://yleradiolive.akamaized.net/hls/live/2027674/in-YleX/master.m3u8"
+    },
+    {
+        "Title": "YleX",
+        "Country": "Finland",
+        "Tags": "pop,rap,rock",
+        "Favicon": "https://commons.wikimedia.org/wiki/File:YLEX_logo.png",
+        "Language": "fi",
+        "Homepage": "https://areena.yle.fi/podcastit/opas",
+        "Latitude": 60.20503757038896,
+        "Longitude": 24.923912286758423,
+        "Source1": "http://icecast.live.yle.fi/radio/YleX/icecast.audio"
+    },
+    {
+        "Title": "Ysäri",
+        "Country": "Finland",
+        "Favicon": "https://media.bauerradio.com/image/upload/q_auto/c_crop,g_custom/v1632725925/brand_manager/stations/zjgpsi5wjubhaer63x0j.png",
+        "Homepage": "https://radioplay.fi/ysari/",
+        "Source1": "https://stream-redirect.bauermedia.fi/ysari/ysari_128.mp3?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein"
+    },
+    {
+        "Title": "Ysäri",
+        "Country": "Finland",
+        "Tags": "90s,pop",
+        "Favicon": "https://assets.planetradio.co.uk/img/ConfigWebListenBarLogoImageUrl/426.png",
+        "Language": "fi",
+        "Homepage": "https://radioplay.fi/ysari",
+        "Latitude": 60.17083826356364,
+        "Longitude": 24.94149684906006,
+        "Source1": "https://stream-redirect.bauermedia.fi/ysari/ysari_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein"
+    },
+    {
+        "Title": "Ålands Radio",
+        "Country": "Finland",
+        "Favicon": "https://alandsradio.ax/sites/all/themes/alandsradio/images/ar-default-60x60.png",
+        "Language": "sv",
+        "Homepage": "https://alandsradio.ax/",
+        "Source1": "https://stream.alandsradio.ax/stream.ogg"
+    }
+]

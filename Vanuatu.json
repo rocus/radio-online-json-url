@@ -1,0 +1,47 @@
+[
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "Vanuatu",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "BUZZ FM 96.3",
+        "Country": "Vanuatu",
+        "Favicon": "https://www.buzzfm.vu/wp-content/uploads/2025/02/logo-online.png",
+        "Homepage": "https://www.buzzfm.vu/",
+        "Source1": "https://streamer.dailypost.vu/live"
+    },
+    {
+        "Title": "Femme Pawa FM",
+        "Country": "Vanuatu",
+        "Tags": "variety",
+        "Favicon": "https://vbtc.vu/wp-content/uploads/2025/01/femme-fm-FINAL-Logo_Trans.png",
+        "Language": "bi,en,fr",
+        "Homepage": "https://vbtc.vu/radio",
+        "Latitude": -17.74083892258535,
+        "Longitude": 168.31604003906253,
+        "Source1": "https://radio.vbtc.vu/femmefm"
+    },
+    {
+        "Title": "Paradise 98FM",
+        "Country": "Vanuatu",
+        "Tags": "variety",
+        "Favicon": "https://vbtc.vu/wp-content/uploads/2025/01/Paradise-FM-Logo.png",
+        "Language": "bi,en",
+        "Homepage": "https://vbtc.vu/radio-2",
+        "Latitude": -17.746070780233776,
+        "Longitude": 168.33389282226565,
+        "Source1": "https://radio.vbtc.vu/paradisefm"
+    },
+    {
+        "Title": "radioalfa tropical5",
+        "Country": "Vanuatu",
+        "Tags": "university radio",
+        "Favicon": "http://radioalfatropical5.blogspot.com/favicon.ico",
+        "Homepage": "http://radioalfatropical5.blogspot.com/",
+        "Source1": "http://stream.zeno.fm/x9y4ytkavqzuv"
+    }
+]

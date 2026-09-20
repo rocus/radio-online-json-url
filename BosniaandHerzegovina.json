@@ -1,0 +1,1291 @@
+[
+    {
+        "Title": "A Radio Banja Luka",
+        "Country": "BosniaandHerzegovina",
+        "Tags": "jazz,pop,smooth,urban",
+        "Favicon": "https://radiouzivo.online/files/images/radio-uzivo/A-Radio-Banja-Luka.png",
+        "Language": "sr",
+        "Homepage": "https://atvbl.rs/",
+        "Latitude": 44.7714529800274,
+        "Longitude": 17.19240188598633,
+        "Source1": "https://aradiostream.atvbl.com/live"
+    },
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "BosniaandHerzegovina",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "Alpha 93.1 FM Riscado",
+        "Country": "BosniaandHerzegovina",
+        "Tags": "dance,latin,pop,top 40",
+        "Favicon": "null",
+        "Language": "es",
+        "Homepage": "http://www.vozdibonaire.com/",
+        "Source1": "https://kadushi.westream.cloud/listen/alfafm/xstream"
+    },
+    {
+        "Title": "Antena Radio, Jelah Tešanj",
+        "Country": "BosniaandHerzegovina",
+        "Language": "bs",
+        "Homepage": "http://www.antena-radio.ba/",
+        "Source1": "https://radio.tnt.ba/radio/8020/live?1616060583"
+    },
+    {
+        "Title": "avaz radio",
+        "Country": "BosniaandHerzegovina",
+        "Favicon": "https://www.radioavaz.net/photos/muzicki%20radio%20avaz.png",
+        "Language": "bs",
+        "Homepage": "https://www.radioavaz.net/",
+        "Source1": "http://51.254.61.148:8222/"
+    },
+    {
+        "Title": "Balkan Hip-Hop Radio",
+        "Country": "BosniaandHerzegovina",
+        "Tags": "balkan,banja luka,bosnia,cool,ex-yu,hip hop,hip-hop,hiphop",
+        "Language": "bs,hr,mk,sl,sr",
+        "Homepage": "https://balkanhiphopradio.com/",
+        "Latitude": 44.77875382511901,
+        "Longitude": 17.206247448921207,
+        "Source1": "http://centova.dukahosting.com:2022/stream"
+    },
+    {
+        "Title": "BH Radio 1",
+        "Country": "BosniaandHerzegovina",
+        "Tags": "music,news,talk",
+        "Favicon": "https://bhrt.ba/favicon.ico",
+        "Language": "bs",
+        "Homepage": "https://bhrt.ba/bhr1-uzivo/",
+        "Source1": "https://webtvstream.bhtelecom.ba/bh_radio1.m3u8"
+    },
+    {
+        "Title": "BIG 3",
+        "Country": "BosniaandHerzegovina",
+        "Tags": "banja luka,big 3,big radio",
+        "Favicon": "http://www.bigradiobl.com/favicon.png",
+        "Language": "sr",
+        "Homepage": "http://www.bigradiobl.com/",
+        "Source1": "http://big3.bigportal.ba:8100/big3?1548653014620"
+    },
+    {
+        "Title": "Big :",
+        "Country": "BosniaandHerzegovina",
+        "Source1": "http://big2.bigportal.ba:8100/big2"
+    },
+    {
+        "Title": "Big Radio 1 Banja Luka",
+        "Country": "BosniaandHerzegovina",
+        "Tags": "pop,rock",
+        "Favicon": "http://www.bigradiobl.com/favicon.png",
+        "Language": "sr",
+        "Homepage": "http://www.bigradiobl.com/",
+        "Source1": "http://big1.bigportal.ba:8100/big1"
+    },
+    {
+        "Title": "BIG radio 1 Banja Luka",
+        "Country": "BosniaandHerzegovina",
+        "Tags": "evergreen,pop,rock",
+        "Language": "sr",
+        "Homepage": "https://bigportal.ba/",
+        "Latitude": 44.76553912429527,
+        "Longitude": 17.186806797981266,
+        "Source1": "http://big1.bigportal.ba:8100/big1"
+    },
+    {
+        "Title": "BIG Radio 2 Banja Luka",
+        "Country": "BosniaandHerzegovina",
+        "Favicon": "https://cdn.onlineradiobox.com/img/l/2/26412.v4.png",
+        "Language": "sr",
+        "Homepage": "https://bigportal.ba/",
+        "Latitude": 44.75853786841515,
+        "Longitude": 17.20294608073542,
+        "Source1": "https://www.surfmusik.de/m3u/radio-big-2,17485.m3u"
+    },
+    {
+        "Title": "Big Radio 4 Domaćica",
+        "Country": "BosniaandHerzegovina",
+        "Favicon": "https://bigportal.ba/wp-content/uploads/2023/09/cropped-big-1-180x180.png",
+        "Language": "sr",
+        "Homepage": "http://bigportal.ba/",
+        "Source1": "http://domacica.bigportal.ba:8100/domacica"
+    },
+    {
+        "Title": "Big2",
+        "Country": "BosniaandHerzegovina",
+        "Tags": "banja luka,republica srbska",
+        "Language": "sr",
+        "Homepage": "http://bigportal.ba/",
+        "Source1": "http://big2.bigportal.ba:8100/big2"
+    },
+    {
+        "Title": "dangerzonebl",
+        "Country": "BosniaandHerzegovina",
+        "Tags": "black metal,death metal,extreme metal,heavy metal,metal,thrash metal",
+        "Language": "bs,en,hr,sr",
+        "Homepage": "https://dangerzonebl.com/#home",
+        "Source1": "https://dangerzonebl.com/"
+    },
+    {
+        "Title": "Day Dee Eurodance Radio",
+        "Country": "BosniaandHerzegovina",
+        "Tags": "dance,dj remix,eurodance",
+        "Language": "en",
+        "Homepage": "https://daydeeeurodance.blogspot.com/",
+        "Source1": "http://daydeeeurodance.stream.laut.fm/daydeeeurodance"
+    },
+    {
+        "Title": "Esoterica Radio S1",
+        "Country": "BosniaandHerzegovina",
+        "Tags": "big room,club house,electro house,house,progressive house",
+        "Favicon": "https://esoterica.live/images/favicon.ico",
+        "Language": "en",
+        "Homepage": "https://esoterica.live/",
+        "Latitude": 43.63130443005002,
+        "Longitude": 18.472816666089425,
+        "Source1": "https://esoterica.servemp3.com:444/listen/bigroom_electrohouse/radio.mp3"
+    },
+    {
+        "Title": "Esoterica Radio S1",
+        "Country": "BosniaandHerzegovina",
+        "Tags": "big room house,electro house,progressive house",
+        "Favicon": "https://ibb.co/Y7hTdMtc",
+        "Language": "en",
+        "Homepage": "https://www.esoterica.live/",
+        "Latitude": 43.81504169062217,
+        "Longitude": 18.500976562500004,
+        "Source1": "https://esoterica.servemp3.com:444/listen/bigroom_electrohouse/radio.mp3"
+    },
+    {
+        "Title": "Esoterica Radio S2",
+        "Country": "BosniaandHerzegovina",
+        "Tags": "bass house,cyberpunk,dark electro,darkwave; ebm; futurepop; gothic; electropop; synth-pop; alternative,electro industrial darkwave ebm futurepop synthpop goth,house",
+        "Favicon": "https://esoterica.live/images/favicon.ico",
+        "Language": "en",
+        "Homepage": "https://esoterica.live/",
+        "Latitude": 43.637665960830745,
+        "Longitude": 18.519038169458216,
+        "Source1": "https://esoterica.servemp3.com:444/listen/darkbasshouse_cyberpunk_hybridtrap/radio.mp3"
+    },
+    {
+        "Title": "Esoterica Radio S3",
+        "Country": "BosniaandHerzegovina",
+        "Tags": "bass house,dark electro,dark techno,darkwave; ebm; futurepop; gothic; electropop; synth-pop; alternative,electro,electro industrial darkwave ebm futurepop synthpop goth,electronic dance music,house",
+        "Favicon": "https://esoterica.live/images/favicon.ico",
+        "Language": "en",
+        "Homepage": "https://esoterica.live/",
+        "Latitude": 43.68217491019519,
+        "Longitude": 18.52113926872171,
+        "Source1": "https://esoterica.servemp3.com:444/listen/darkclubbing_darkelectro/radio.mp3"
+    },
+    {
+        "Title": "Esoterica Radio S4",
+        "Country": "BosniaandHerzegovina",
+        "Tags": "electronic dance music,progressive psytrance,psychedelic,psychedelic rock,psytrance",
+        "Favicon": "https://esoterica.live/images/favicon.ico",
+        "Language": "en",
+        "Homepage": "https://esoterica.live/",
+        "Latitude": 43.78378560515112,
+        "Longitude": 18.43552483459046,
+        "Source1": "https://esoterica.servemp3.com:444/listen/psytrance_progressivepsytrance/radio.mp3"
+    },
+    {
+        "Title": "Esoterica Radio S5",
+        "Country": "BosniaandHerzegovina",
+        "Tags": "darksynth,electro industrial darkwave ebm futurepop synthpop goth,electronic dance music,electronic rock,rock,synthwave",
+        "Favicon": "https://esoterica.live/images/favicon.ico",
+        "Language": "en",
+        "Homepage": "https://esoterica.live/",
+        "Latitude": 43.70759350405296,
+        "Longitude": 18.435845835866857,
+        "Source1": "https://esoterica.servemp3.com:444/listen/synthwave_electronicrock/radio.mp3"
+    },
+    {
+        "Title": "Federalni Radio",
+        "Country": "BosniaandHerzegovina",
+        "Language": "bs",
+        "Homepage": "http://www.rtvfbih.ba/",
+        "Source1": "https://webtvstream.bhtelecom.ba/radio_fbih.m3u8"
+    },
+    {
+        "Title": "HIT Radio Brčko",
+        "Country": "BosniaandHerzegovina",
+        "Tags": "folk,pop",
+        "Language": "bs",
+        "Homepage": "http://www.rtvhit.com/",
+        "Source1": "http://51.254.61.148:8152/;autostart=1"
+    },
+    {
+        "Title": "Imperia Radio",
+        "Country": "BosniaandHerzegovina",
+        "Favicon": "https://upload.wikimedia.org/wikipedia/bs/5/58/Imperia_logo.jpg?20200315174653",
+        "Language": "bs",
+        "Homepage": "https://imperia.tv/",
+        "Source1": "https://webtvstream.bhtelecom.ba/imperia_radio.m3u8"
+    },
+    {
+        "Title": "Islamski Radio",
+        "Country": "BosniaandHerzegovina",
+        "Language": "bs",
+        "Homepage": "http://www.islamski-radio.com/index.php/sr/",
+        "Source1": "http://eu3.fastcast4u.com:5762/stream"
+    },
+    {
+        "Title": "Kakanj, Radio Kakanj",
+        "Country": "BosniaandHerzegovina",
+        "Tags": "folk,news,pop,talk",
+        "Favicon": "https://cdn-profiles.tunein.com/s9967/images/logog.png",
+        "Language": "bs",
+        "Homepage": "https://radiokakanj.co.ba/",
+        "Source1": "http://cast2.name.ba:8067/"
+    },
+    {
+        "Title": "Kalesijski Ba",
+        "Country": "BosniaandHerzegovina",
+        "Favicon": "https://kalesijski.ba/wp-content/uploads/2024/09/cropped-images-180x180.png",
+        "Homepage": "https://kalesijski.ba/",
+        "Source1": "https://stream1.srvnetplus.com:18102/listen.pls"
+    },
+    {
+        "Title": "Kalman Radio",
+        "Country": "BosniaandHerzegovina",
+        "Favicon": "http://kalmanradio.ba/wp-content/uploads/2018/02/web-logo.png",
+        "Homepage": "https://kalmanradio.ba/",
+        "Source1": "https://ssl.surfmusic.de/s.php?s=http://188.40.62.20:8004/stream?1707015516",
+        "Source2": "http://188.40.62.20:8004/stream"
+    },
+    {
+        "Title": "Kontakt Radio",
+        "Country": "BosniaandHerzegovina",
+        "Favicon": "https://mojkontakt.com/wp-content/uploads/2022/11/Mediamodifier-Design-2.svg",
+        "Language": "bs",
+        "Homepage": "https://mojkontakt.com/",
+        "Source1": "http://mojstream.eu:8114/kontaktradio"
+    },
+    {
+        "Title": "Koprivljanski radio",
+        "Country": "BosniaandHerzegovina",
+        "Favicon": "https://www.koprivljanskiradio.com/images/13654287_1017881974927424_7392547567572622816_n.jpg",
+        "Language": "bs",
+        "Homepage": "https://www.koprivljanskiradio.com/",
+        "Source1": "http://cast2.name.ba:8101/"
+    },
+    {
+        "Title": "Krajiški Radio Dubica",
+        "Country": "BosniaandHerzegovina",
+        "Homepage": "https://www.krajiski-radio-dubica.com/",
+        "Latitude": 43.426377161339715,
+        "Longitude": 17.963152262651462,
+        "Source1": "https://stream1.srvnetplus.com:18039/"
+    },
+    {
+        "Title": "KUPRESKIRADIO",
+        "Country": "BosniaandHerzegovina",
+        "Tags": "classical",
+        "Source1": "https://ec2s.crolive.com.hr:1265/stream"
+    },
+    {
+        "Title": "Kupreški Radio",
+        "Country": "BosniaandHerzegovina",
+        "Tags": "nebeski radio",
+        "Language": "bs,hr",
+        "Homepage": "https://www.kupreskiradio.com/",
+        "Source1": "http://www.kupreskiradio.com/kupreski.m3u"
+    },
+    {
+        "Title": "Moj Radio",
+        "Country": "BosniaandHerzegovina",
+        "Language": "bs",
+        "Homepage": "http://www.mojradio.ba/",
+        "Source1": "https://webtvstream.bhtelecom.ba/moj_radio.m3u8"
+    },
+    {
+        "Title": "Narodni Radio - Sarajevo",
+        "Country": "BosniaandHerzegovina",
+        "Tags": "bih,bosna,narodni,narodni radio,sarajevo",
+        "Favicon": "https://narodni.ba/wp-content/uploads/2020/08/cropped-narodni-logo-512-180x180.png",
+        "Language": "bs",
+        "Homepage": "http://narodni.ba/",
+        "Source1": "http://server1.tnt.ba:8010/"
+    },
+    {
+        "Title": "Narodni Radio Tuzla",
+        "Country": "BosniaandHerzegovina",
+        "Language": "bs",
+        "Homepage": "https://narodni.ba/",
+        "Source1": "http://server1.tnt.ba:9080/"
+    },
+    {
+        "Title": "Narodni Radio Zenica",
+        "Country": "BosniaandHerzegovina",
+        "Language": "bs",
+        "Homepage": "https://narodni.ba/",
+        "Source1": "http://server1.tnt.ba:9010/"
+    },
+    {
+        "Title": "Nes Radio",
+        "Country": "BosniaandHerzegovina",
+        "Tags": "information,music",
+        "Language": "bs",
+        "Homepage": "http://www.nesradio.com/",
+        "Source1": "http://188.40.62.20:8070/;"
+    },
+    {
+        "Title": "Novi Radio Bihać",
+        "Country": "BosniaandHerzegovina",
+        "Language": "bs",
+        "Homepage": "http://www.noviradiobihac.com/",
+        "Source1": "https://webtvstream.bhtelecom.ba/novi_radio_bihac.m3u8"
+    },
+    {
+        "Title": "novii",
+        "Country": "BosniaandHerzegovina",
+        "Tags": "classical",
+        "Source1": "http://s37.myradiostream.com:8120/"
+    },
+    {
+        "Title": "Pakao Radio",
+        "Country": "BosniaandHerzegovina",
+        "Tags": "rock",
+        "Favicon": "https://www.pakaoradio.net/img/bigthumb.jpg",
+        "Homepage": "https://www.pakaoradio.net/",
+        "Source1": "https://www.pakaoradio.net/pakaoradio.m3u"
+    },
+    {
+        "Title": "patrisamato radio",
+        "Country": "BosniaandHerzegovina",
+        "Homepage": "https://patrisamato.com/public/live",
+        "Latitude": 46.36512854874898,
+        "Longitude": 23.047179423982545,
+        "Source1": "https://patrisamato.com/listen/live/radio.mp3"
+    },
+    {
+        "Title": "Patrisamato Radio",
+        "Country": "BosniaandHerzegovina",
+        "Tags": "80s synth,ambient,breakbeat,breaks,chillout,deep house,electronic,ethnic,hip-hop,house,instrumental,metal,progressive house,punk,reggae,rock,techno,trip-hop",
+        "Favicon": "https://patrisamato.com/cover.png",
+        "Language": "en,ru",
+        "Homepage": "https://patrisamato.com/",
+        "Latitude": 51.98758668066236,
+        "Longitude": 5.869820680550558,
+        "Source1": "https://patrisamato.com/listen/live/radio.mp3"
+    },
+    {
+        "Title": "Pop FM",
+        "Country": "BosniaandHerzegovina",
+        "Favicon": "https://popfm.ba/slike/popfm-logo.png",
+        "Language": "bs",
+        "Homepage": "https://www.popfm.ba/",
+        "Source1": "http://188.40.62.20:8032/"
+    },
+    {
+        "Title": "Pop FM - Slusaj glasno!!!",
+        "Country": "BosniaandHerzegovina",
+        "Favicon": "http://www.popfm.ba/apple-icon-120x120.png",
+        "Homepage": "http://www.popfm.ba/",
+        "Source1": "http://188.40.62.20:8032/;stream.nsv"
+    },
+    {
+        "Title": "Pop FM Bosnia and Herzegovina",
+        "Country": "BosniaandHerzegovina",
+        "Homepage": "http://www.popfm.ba/",
+        "Source1": "http://188.40.62.20:8032/;stream.nsv"
+    },
+    {
+        "Title": "Radio \"Birač\" Milići",
+        "Country": "BosniaandHerzegovina",
+        "Tags": "pop music",
+        "Favicon": "http://radiobirac.ba/radio-birac.ico",
+        "Language": "sr",
+        "Homepage": "http://radiobirac.ba/",
+        "Latitude": 44.16957454280359,
+        "Longitude": 19.07882946755525,
+        "Source1": "http://176.227.215.27:12932/;"
+    },
+    {
+        "Title": "Radio - Livno",
+        "Country": "BosniaandHerzegovina",
+        "Language": "bs",
+        "Homepage": "https://radiolivno.ba/",
+        "Source1": "http://cast2.name.ba:8127/stream/"
+    },
+    {
+        "Title": "Radio 7 Tuzla",
+        "Country": "BosniaandHerzegovina",
+        "Favicon": "https://rtv7.ba/favicon.ico",
+        "Language": "bs",
+        "Homepage": "https://rtv7.ba/",
+        "Source1": "https://webtvstream.bhtelecom.ba/radio_7_tuzla.m3u8"
+    },
+    {
+        "Title": "Radio 8 Sarajevo",
+        "Country": "BosniaandHerzegovina",
+        "Language": "bs",
+        "Homepage": "https://www.radio8.ba/",
+        "Source1": "https://radio8-bhcloud.radioca.st/1.mp3"
+    },
+    {
+        "Title": "Radio ASK Ilidža",
+        "Country": "BosniaandHerzegovina",
+        "Language": "bs",
+        "Homepage": "http://www.ask.ba/",
+        "Source1": "https://webtvstream.bhtelecom.ba/radio_ask.m3u8"
+    },
+    {
+        "Title": "Radio Avlija",
+        "Country": "BosniaandHerzegovina",
+        "Language": "bs",
+        "Homepage": "https://radioavlija.com/",
+        "Source1": "http://51.255.127.128:8900/;"
+    },
+    {
+        "Title": "Radio BA",
+        "Country": "BosniaandHerzegovina",
+        "Favicon": "https://www.radioba.ba/favicon.ico",
+        "Language": "bs",
+        "Homepage": "https://www.radioba.ba/",
+        "Source1": "https://webtvstream.bhtelecom.ba/radio_ba.m3u8"
+    },
+    {
+        "Title": "Radio Begov Han",
+        "Country": "BosniaandHerzegovina",
+        "Favicon": "https://radiobegovhan.com/assets/radiobegovhan_cover.png",
+        "Homepage": "https://radiobegovhan.com/",
+        "Latitude": 44.354037819213,
+        "Longitude": 17.99523543895044,
+        "Source1": "https://stream-175.surfernetwork.com/qggihjl4mgcvv"
+    },
+    {
+        "Title": "Radio Bet",
+        "Country": "BosniaandHerzegovina",
+        "Tags": "folk,izvorna,narodna",
+        "Language": "bs",
+        "Homepage": "https://radiobet.eu/",
+        "Source1": "https://cast1.asurahosting.com/proxy/betradio/stream"
+    },
+    {
+        "Title": "Radio Bihać",
+        "Country": "BosniaandHerzegovina",
+        "Favicon": "https://www.radiobihac.com/images/logo/logo.png",
+        "Language": "bs",
+        "Homepage": "https://www.radiobihac.com/",
+        "Source1": "http://radiobihaclive.radioca.st:8249/stream"
+    },
+    {
+        "Title": "Radio Bihać Caffe",
+        "Country": "BosniaandHerzegovina",
+        "Language": "bs",
+        "Homepage": "https://www.radiobihac.com/",
+        "Source1": "http://5.9.13.39:8075/stream"
+    },
+    {
+        "Title": "Radio Bihać Folk",
+        "Country": "BosniaandHerzegovina",
+        "Language": "bs",
+        "Homepage": "https://www.radiobihac.com/",
+        "Source1": "http://5.9.13.39:8071/stream"
+    },
+    {
+        "Title": "Radio Bir",
+        "Country": "BosniaandHerzegovina",
+        "Tags": "religion,talk",
+        "Language": "bs",
+        "Homepage": "http://www.bir.ba/",
+        "Source1": "http://opml.radiotime.com/Tune.ashx?id=s102873"
+    },
+    {
+        "Title": "Radio BN",
+        "Country": "BosniaandHerzegovina",
+        "Tags": "folk",
+        "Favicon": "https://rtvbn.com/storage/settings/res_1720552469_favicon.png",
+        "Language": "bs",
+        "Homepage": "http://www.rtvbn.com/",
+        "Source1": "http://stream.rtvbn.com:8522/;.mp3"
+    },
+    {
+        "Title": "Radio Bobar",
+        "Country": "BosniaandHerzegovina",
+        "Language": "bs",
+        "Homepage": "https://radiobobar.com/",
+        "Source1": "http://94.130.11.28:9010/",
+        "Source2": "https://stream.radios.rs:9082/stream"
+    },
+    {
+        "Title": "Radio Bosanska Krupa",
+        "Country": "BosniaandHerzegovina",
+        "Favicon": "https://radiobk.ba/wp-content/uploads/2024/11/Radio1-300x112.png",
+        "Language": "bs",
+        "Homepage": "https://radiobk.ba/",
+        "Source1": "https://webtvstream.bhtelecom.ba/radio_bosanska_krupa.m3u8"
+    },
+    {
+        "Title": "Radio Bosanski Brod",
+        "Country": "BosniaandHerzegovina",
+        "Language": "bs",
+        "Homepage": "http://www.brodradio.com/bb/",
+        "Source1": "https://zpilipov-geckohost.radioca.st/stream"
+    },
+    {
+        "Title": "Radio Bosanski Petrovac",
+        "Country": "BosniaandHerzegovina",
+        "Language": "bs",
+        "Homepage": "https://bosanskipetrovac.gov.ba/",
+        "Source1": "https://webtvstream.bhtelecom.ba/radio_bosanski_petrovac.m3u8"
+    },
+    {
+        "Title": "Radio Bosna",
+        "Country": "BosniaandHerzegovina",
+        "Favicon": "https://radiobosna.com/img/favicon.png",
+        "Homepage": "https://radiobosna.com/",
+        "Source1": "https://stream-162.zeno.fm/qggihjl4mgcvv",
+        "Source2": "https://host2.streamafrica.net/listen/radio_bossna/radio.mp3"
+    },
+    {
+        "Title": "Radio Brcko District",
+        "Country": "BosniaandHerzegovina",
+        "Tags": "information,music",
+        "Language": "bs",
+        "Homepage": "http://www.radio-brcko.co.ba/",
+        "Source1": "http://91.191.0.45:8000/listen.pls"
+    },
+    {
+        "Title": "Radio Breza",
+        "Country": "BosniaandHerzegovina",
+        "Tags": "bosna",
+        "Favicon": "https://www.phonostar.de/images/auto_created/Radio_Breza2124x124.png",
+        "Language": "bs",
+        "Homepage": "https://www.radiobreza.com.ba/",
+        "Latitude": 44.018680109734866,
+        "Longitude": 18.2617565490507,
+        "Source1": "https://sonicpanel.vmakerhost.com/8192/stream"
+    },
+    {
+        "Title": "Radio Bugojno",
+        "Country": "BosniaandHerzegovina",
+        "Favicon": "https://rtvbugojno.ba/favicon.ico",
+        "Language": "bs",
+        "Homepage": "https://rtvbugojno.ba/",
+        "Source1": "https://s3.free-shoutcast.com/stream/18156"
+    },
+    {
+        "Title": "Radio Busovača",
+        "Country": "BosniaandHerzegovina",
+        "Tags": "local news,music,public radio,talk show",
+        "Language": "bs,hr",
+        "Homepage": "https://radio-busovaca.eu/",
+        "Source1": "https://ec2s.crolive.com.hr:1510/stream"
+    },
+    {
+        "Title": "Radio Cazin",
+        "Country": "BosniaandHerzegovina",
+        "Favicon": "https://crt.ba/wp-content/uploads/2021/11/crtLogo.png",
+        "Language": "bs",
+        "Homepage": "https://crt.ba/",
+        "Source1": "http://195.222.33.217:8095/"
+    },
+    {
+        "Title": "Radio DAŠ",
+        "Country": "BosniaandHerzegovina",
+        "Tags": "folk",
+        "Language": "sr",
+        "Homepage": "http://www.radiodas.net/",
+        "Latitude": 44.760998967284024,
+        "Longitude": 19.210584461688995,
+        "Source1": "http://158.69.119.6:8095/;&type=mp3"
+    },
+    {
+        "Title": "Radio Daš Extra",
+        "Country": "BosniaandHerzegovina",
+        "Homepage": "https://dasextra.ba/",
+        "Latitude": 44.75737100121291,
+        "Longitude": 19.216165132820606,
+        "Source1": "http://cast2.name.ba:8085/stream"
+    },
+    {
+        "Title": "Radio Donji Vakuf",
+        "Country": "BosniaandHerzegovina",
+        "Language": "bs",
+        "Homepage": "https://radiodonjivakuf.com.ba/",
+        "Source1": "http://5.9.71.122:8134/;stream.mp3"
+    },
+    {
+        "Title": "Radio Džungla Doboj 2",
+        "Country": "BosniaandHerzegovina",
+        "Favicon": "https://dzungla.net/radio-live/wp-content/uploads/2019/11/dzungla-radio-wh-m.png",
+        "Language": "bs",
+        "Homepage": "https://dzungla.net/",
+        "Source1": "http://cast2.name.ba:9054/"
+    },
+    {
+        "Title": "Radio Džungla Doboj 3",
+        "Country": "BosniaandHerzegovina",
+        "Favicon": "https://dzungla.net/radio-live/wp-content/uploads/2019/11/dzungla-radio-wh-m.png",
+        "Language": "bs",
+        "Homepage": "https://dzungla.net/",
+        "Source1": "http://cast2.name.ba:8006/"
+    },
+    {
+        "Title": "Radio Feral 100.4 Sarajevo",
+        "Country": "BosniaandHerzegovina",
+        "Tags": "local",
+        "Favicon": "http://www.uzivoradio.com/favicon.ico",
+        "Language": "bs",
+        "Homepage": "http://www.uzivoradio.com/feral-kalesija.html",
+        "Source1": "http://185.50.56.3/;stream.nsv"
+    },
+    {
+        "Title": "Radio Feral Kalesija",
+        "Country": "BosniaandHerzegovina",
+        "Favicon": "https://www.radio-feral.ba/wp-content/uploads/2022/10/FERAL-LOGO-STRANICA-WEB-1.jpg",
+        "Language": "bs",
+        "Homepage": "https://www.radio-feral.ba/",
+        "Source1": "https://webtvstream.bhtelecom.ba/radio_feral_kalesija.m3u8"
+    },
+    {
+        "Title": "Radio Glas Drine",
+        "Country": "BosniaandHerzegovina",
+        "Tags": "folk,narodna,zabavna",
+        "Favicon": "https://rtvglasdrine.com/wp-content/uploads/2021/03/favicon-16x16-1.png",
+        "Language": "bs",
+        "Homepage": "https://rtvglasdrine.com/",
+        "Source1": "https://cast2.name.ba/proxy/glasdrine/stream"
+    },
+    {
+        "Title": "Radio Goražde",
+        "Country": "BosniaandHerzegovina",
+        "Favicon": "https://rtvbpk.ba/wp-content/uploads/2017/12/radio-gz.jpg",
+        "Language": "bs",
+        "Homepage": "https://rtvbpk.ba/",
+        "Source1": "https://webtvstream.bhtelecom.ba/radio_gorazde.m3u8"
+    },
+    {
+        "Title": "Radio Gradačac",
+        "Country": "BosniaandHerzegovina",
+        "Language": "bs",
+        "Homepage": "https://radiogradacac.ba/",
+        "Source1": "https://webtvstream.bhtelecom.ba/radio_gradacac.m3u8"
+    },
+    {
+        "Title": "Radio Gračanica",
+        "Country": "BosniaandHerzegovina",
+        "Language": "bs",
+        "Homepage": "https://radiogracanica.ba/",
+        "Source1": "https://webtvstream.bhtelecom.ba/radio_gracanica.m3u8"
+    },
+    {
+        "Title": "Radio Grude",
+        "Country": "BosniaandHerzegovina",
+        "Tags": "misc",
+        "Source1": "http://radio.pa-hosting.de:1040/"
+    },
+    {
+        "Title": "Radio HIT FM",
+        "Country": "BosniaandHerzegovina",
+        "Favicon": "https://hitfm.ba/wp-content/uploads/2022/08/Logo-hitfmradio.png",
+        "Language": "bs",
+        "Homepage": "https://hitfm.ba/",
+        "Source1": "https://webtvstream.bhtelecom.ba/radio_hit_fm.m3u8"
+    },
+    {
+        "Title": "Radio Kalesijski Ba",
+        "Country": "BosniaandHerzegovina",
+        "Tags": "folk music",
+        "Favicon": "https://kalesijski.ba/radio",
+        "Language": "bs",
+        "Homepage": "https://kalesijski.ba/",
+        "Latitude": 44.1318564216545,
+        "Longitude": 18.035131841897968,
+        "Source1": "https://stream1.srvnetplus.com:18102/"
+    },
+    {
+        "Title": "Radio Kameleon",
+        "Country": "BosniaandHerzegovina",
+        "Language": "bs",
+        "Homepage": "https://radiokameleon.ba/",
+        "Source1": "https://webtvstream.bhtelecom.ba/radio_kameleon.m3u8"
+    },
+    {
+        "Title": "RADIO KISS KISELJAK",
+        "Country": "BosniaandHerzegovina",
+        "Tags": "classical",
+        "Source1": "http://stream.kissfm.ba:8010/live"
+    },
+    {
+        "Title": "Radio Ključ",
+        "Country": "BosniaandHerzegovina",
+        "Language": "bs",
+        "Homepage": "https://www.media-kljuc.ba/",
+        "Source1": "http://195.222.33.217:8093/;"
+    },
+    {
+        "Title": "Radio Konjic",
+        "Country": "BosniaandHerzegovina",
+        "Language": "bs",
+        "Homepage": "https://radiokonjic.ba/",
+        "Source1": "https://webtvstream.bhtelecom.ba/radio_konjic.m3u8"
+    },
+    {
+        "Title": "Radio Laktasi",
+        "Country": "BosniaandHerzegovina",
+        "Homepage": "https://laktasiturizam.org/",
+        "Latitude": 44.90741780020287,
+        "Longitude": 17.30077922344208,
+        "Source1": "https://radio.laktasiturizam.org/live"
+    },
+    {
+        "Title": "Radio Ljubuški",
+        "Country": "BosniaandHerzegovina",
+        "Favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaI3lhMhQrBrc3EkwkguvmYxa0NMChBnaS2zdLOhy91w&s",
+        "Language": "bs",
+        "Homepage": "https://radioljubuski.ba/",
+        "Source1": "https://s8.iqstreaming.com:8044/stream"
+    },
+    {
+        "Title": "Radio Lukavac",
+        "Country": "BosniaandHerzegovina",
+        "Language": "bs",
+        "Homepage": "https://rtvlukavac.ba/",
+        "Source1": "http://195.222.33.217:8022/"
+    },
+    {
+        "Title": "Radio M",
+        "Country": "BosniaandHerzegovina",
+        "Favicon": "https://radiom.ba/wp-content/uploads/2021/06/Radio-M-rotacija.gif",
+        "Language": "bs",
+        "Homepage": "https://radiom.ba/",
+        "Source1": "http://www.team-data.ba:8030/stream/"
+    },
+    {
+        "Title": "RADIO M CAFE",
+        "Country": "BosniaandHerzegovina",
+        "Favicon": "https://radiom.ba/wp-content/uploads/2021/10/cafe-v3-768x768.jpg",
+        "Homepage": "https://radiom.ba/en/homepage/",
+        "Source1": "https://team-data.ba:9032//;"
+    },
+    {
+        "Title": "Radio M Cafe",
+        "Country": "BosniaandHerzegovina",
+        "Favicon": "https://radiom.ba/assets/storage/photos/shares/radio-m-caffe.png",
+        "Homepage": "https://radiom.ba/bs/radio-m-cafe",
+        "Source1": "https://team-data.ba:9032/play?sid=1&t=1781439858301"
+    },
+    {
+        "Title": "Radio M plus",
+        "Country": "BosniaandHerzegovina",
+        "Tags": "narodna,zabavna",
+        "Favicon": "https://radiom.ba/assets/storage/photos/shares/radio-m-plus.png",
+        "Language": "bs",
+        "Homepage": "https://radiom.ba/bs/radio-m-plus",
+        "Source1": "https://team-data.ba:10000/stream"
+    },
+    {
+        "Title": "Radio Magic",
+        "Country": "BosniaandHerzegovina",
+        "Language": "bs",
+        "Homepage": "http://www.magic.ba/",
+        "Source1": "http://stream.iradio.pro:8034/radiomagic"
+    },
+    {
+        "Title": "Radio Magic Milići",
+        "Country": "BosniaandHerzegovina",
+        "Tags": "folk music",
+        "Language": "sr",
+        "Homepage": "https://www.magic.ba/",
+        "Latitude": 44.16434669882288,
+        "Longitude": 19.07435707468496,
+        "Source1": "http://stream.iradio.pro:8034/;*.mp3"
+    },
+    {
+        "Title": "Radio Mango",
+        "Country": "BosniaandHerzegovina",
+        "Favicon": "https://radiomango.eu/wp-content/uploads/2020/11/cropped-MANGO-PROZIRNA.png",
+        "Homepage": "https://radiomango.eu/",
+        "Source1": "http://158.69.119.6:8780/stream"
+    },
+    {
+        "Title": "RADIO MARIA BOSNIA",
+        "Country": "BosniaandHerzegovina",
+        "Tags": "catholic,religion",
+        "Language": "bs",
+        "Homepage": "https://www.radiomarija.ba/",
+        "Source1": "http://dreamsiteradiocp.com:8034/stream"
+    },
+    {
+        "Title": "Radio Marija",
+        "Country": "BosniaandHerzegovina",
+        "Tags": "catholic",
+        "Favicon": "http://www.radiomarija.ba/templates/t3_bs3_blank/favicon.ico",
+        "Language": "bs",
+        "Homepage": "http://www.radiomarija.ba/",
+        "Source1": "http://cloudrad.io/radiomariabosnia/listen.pls"
+    },
+    {
+        "Title": "Radio Merak",
+        "Country": "BosniaandHerzegovina",
+        "Homepage": "http://konjicanka.com/",
+        "Source1": "http://176.9.113.180:8084/stream"
+    },
+    {
+        "Title": "Radio Miljacka",
+        "Country": "BosniaandHerzegovina",
+        "Homepage": "https://www.radiomiljacka.ba/",
+        "Source1": "https://radiomiljacka-bhcloud.radioca.st/stream.mp3"
+    },
+    {
+        "Title": "Radio Miljacka",
+        "Country": "BosniaandHerzegovina",
+        "Tags": "narodna,zabavna",
+        "Favicon": "https://radiomiljacka.ba/static/images/visuals/logo-miljacka.png",
+        "Language": "bs",
+        "Homepage": "https://radiomiljacka.ba/",
+        "Source1": "https://stream1.custom.ba/listen/radio_miljacka/radio.mp3"
+    },
+    {
+        "Title": "RADIO MIX",
+        "Country": "BosniaandHerzegovina",
+        "Favicon": "https://radio.radiomix.ba/static/assets/apple-touch-icon.png",
+        "Homepage": "https://rsgmedia.ba/",
+        "Source1": "https://stream.rsgmedia.ba/listen/radio_mix/radio.mp3"
+    },
+    {
+        "Title": "Radio MIX, BiH",
+        "Country": "BosniaandHerzegovina",
+        "Tags": "narodna - folk",
+        "Favicon": "https://radio.radiomix.ba/images/mix/logo.png",
+        "Language": "bs",
+        "Homepage": "https://radio.radiomix.ba/",
+        "Source1": "https://stream.rsgmedia.ba/listen/radio_mix/radio.mp3"
+    },
+    {
+        "Title": "Radio Novi Grad",
+        "Country": "BosniaandHerzegovina",
+        "Tags": "folk,pop,rock",
+        "Homepage": "https://.radionovigrad.com/",
+        "Latitude": 45.0491933626507,
+        "Longitude": 16.379727423191074,
+        "Source1": "http://s2.myradiostream.com:5584/"
+    },
+    {
+        "Title": "Radio Novi Grad 100MHz",
+        "Country": "BosniaandHerzegovina",
+        "Homepage": "http://www.radionovigrad.com/",
+        "Latitude": 45.04864494123142,
+        "Longitude": 16.381033658981327,
+        "Source1": "http://s37.myradiostream.com:8120/;stream.mp3"
+    },
+    {
+        "Title": "Radio Olovo",
+        "Country": "BosniaandHerzegovina",
+        "Favicon": "https://radio.olovo.ba/storage/2020/04/logo_radio_olovo@2x.png",
+        "Language": "bs",
+        "Homepage": "https://radio.olovo.ba/",
+        "Source1": "http://sonicpanel.vmakerhost.com:8038/stream"
+    },
+    {
+        "Title": "Radio Posavina Zagreb",
+        "Country": "BosniaandHerzegovina",
+        "Tags": "folk",
+        "Homepage": "https://radioposavina.com/",
+        "Source1": "http://cmr-hosting.com:8500/;stream.mp3"
+    },
+    {
+        "Title": "Radio Postaja Odzak",
+        "Country": "BosniaandHerzegovina",
+        "Tags": "classic rock,folk,top 40",
+        "Language": "bs,hr",
+        "Homepage": "https://www.radioodzak.com/",
+        "Latitude": 45.01231093806119,
+        "Longitude": 18.32663253033179,
+        "Source1": "https://stream.rcast.net/70602"
+    },
+    {
+        "Title": "Radio Posušje",
+        "Country": "BosniaandHerzegovina",
+        "Tags": "croatian,domaća,glazba,herceg-bosna,hercegovina,hrvatska,posusje,posušje",
+        "Language": "hr",
+        "Homepage": "http://www.radioposusje.ba/",
+        "Source1": "http://136.243.144.93:9994/"
+    },
+    {
+        "Title": "Radio Prača",
+        "Country": "BosniaandHerzegovina",
+        "Language": "bs",
+        "Homepage": "https://www.radiopraca.ba/",
+        "Source1": "https://webtvstream.bhtelecom.ba/radio_praca.m3u8"
+    },
+    {
+        "Title": "Radio Preporod Odzak 95,2",
+        "Country": "BosniaandHerzegovina",
+        "Favicon": "https://www.radiopreporod.com/mobile/index_htm_files/4889@2x.png",
+        "Language": "bs",
+        "Homepage": "https://www.radiopreporod.com/",
+        "Source1": "http://s1.voscast.com:7986/;"
+    },
+    {
+        "Title": "Radio RTRS",
+        "Country": "BosniaandHerzegovina",
+        "Favicon": "https://lat.rtrs.tv/_bmp/logo-127x37.png",
+        "Language": "bs",
+        "Homepage": "https://lat.rtrs.tv/",
+        "Source1": "https://webtvstream.bhtelecom.ba/radio_rtrs.m3u8"
+    },
+    {
+        "Title": "Radio Rujnica Zavidovici",
+        "Country": "BosniaandHerzegovina",
+        "Language": "bs",
+        "Homepage": "http://www.radiorujnica.net/",
+        "Source1": "https://r.name.ba:7115/stream"
+    },
+    {
+        "Title": "Radio Sana",
+        "Country": "BosniaandHerzegovina",
+        "Favicon": "https://sanartv.ba/wp-content/uploads/2017/03/Logo_Kapica.png",
+        "Language": "bs",
+        "Homepage": "https://sanartv.ba/",
+        "Source1": "http://quasar.shoutca.st:8174/stream"
+    },
+    {
+        "Title": "Radio Sarajevo 90.2",
+        "Country": "BosniaandHerzegovina",
+        "Tags": "pop,rock",
+        "Favicon": "https://radiosarajevo.ba/assets/img/logo.svg",
+        "Language": "bs",
+        "Homepage": "https://radiosarajevo.ba/",
+        "Source1": "https://443-1.autopo.st/45?type=http"
+    },
+    {
+        "Title": "Radio Sehara",
+        "Country": "BosniaandHerzegovina",
+        "Tags": "bosnia,folk,zabavna - narodna",
+        "Favicon": "https://radiosehara.net/wp-content/uploads/2017/02/logo-2.png",
+        "Language": "bs",
+        "Homepage": "https://radiosehara.net/",
+        "Latitude": 43.85586889011603,
+        "Longitude": 18.41313986322329,
+        "Source1": "https://cast.name.ba:8000/;"
+    },
+    {
+        "Title": "Radio Slobodna Evropa",
+        "Country": "BosniaandHerzegovina",
+        "Favicon": "https://www.slobodnaevropa.org/Content/responsive/RFE/sh-SH/img/logo.svg",
+        "Language": "bs",
+        "Homepage": "https://www.slobodnaevropa.org/",
+        "Source1": "https://n11.radiojar.com/bugesa4nn3quv?rj-ttl=5&rj-tok=AAABihgJBEQA_ptijcBtD6_jYw"
+    },
+    {
+        "Title": "Radio Slon",
+        "Country": "BosniaandHerzegovina",
+        "Homepage": "https://www.rtvslon.ba/",
+        "Latitude": 44.5287089802333,
+        "Longitude": 18.682656168239195,
+        "Source1": "http://31.47.0.130:88/broadwavehigh.mp3"
+    },
+    {
+        "Title": "Radio Srebrenik",
+        "Country": "BosniaandHerzegovina",
+        "Tags": "folk",
+        "Source1": "http://live.radiosrebrenik.ba:7600/"
+    },
+    {
+        "Title": "Radio Srebrenik",
+        "Country": "BosniaandHerzegovina",
+        "Favicon": "https://cdn.radiosrebrenik.ba/RadioSrebrenikLogo-1.png",
+        "Homepage": "https://www.radiosrebrenik.ba/",
+        "Source1": "http://live.radiosrebrenik.ba:7600/;"
+    },
+    {
+        "Title": "Radio Studio D",
+        "Country": "BosniaandHerzegovina",
+        "Tags": "folk,narodna,zabavna - narodna",
+        "Favicon": "http://www.exyuradio.net/pub/catalog/149-radio-studio-d-uzivo.jpg",
+        "Language": "bs",
+        "Homepage": "http://www.studiod.ba/",
+        "Latitude": 44.70426150935293,
+        "Longitude": 18.494195938110355,
+        "Source1": "http://studiod.omerovic.info:8018/;"
+    },
+    {
+        "Title": "Radio Studio M",
+        "Country": "BosniaandHerzegovina",
+        "Tags": "narodna,pop,regional,zabavna",
+        "Favicon": "https://www.studiomteslic.net/images/logo_new.png",
+        "Language": "bs",
+        "Homepage": "https://www.studiomteslic.net/",
+        "Source1": "https://stream.leftor.com/proxy/studiom2/stream"
+    },
+    {
+        "Title": "Radio Tešanj 92.2MHz",
+        "Country": "BosniaandHerzegovina",
+        "Favicon": "https://www.radiotesanj.ba/assets/site/assets/images/logo-white-mobile.png",
+        "Language": "bs",
+        "Homepage": "https://www.radiotesanj.ba/",
+        "Source1": "http://radio.daj.ba:8082/stream"
+    },
+    {
+        "Title": "Radio TK",
+        "Country": "BosniaandHerzegovina",
+        "Language": "bs",
+        "Homepage": "https://rtvtk.ba/",
+        "Source1": "https://webtvstream.bhtelecom.ba/radio_tk.m3u8"
+    },
+    {
+        "Title": "Radio Trebinje",
+        "Country": "BosniaandHerzegovina",
+        "Favicon": "https://radiotrebinje.com/assets/rt/images/logo.jpg",
+        "Homepage": "https://radiotrebinje.com/",
+        "Source1": "https://radio.dukahosting.com:7002/;"
+    },
+    {
+        "Title": "Radio Trebinje",
+        "Country": "BosniaandHerzegovina",
+        "Favicon": "https://radiotrebinje.com/assets/rt/images/logo.jpg",
+        "Language": "bs",
+        "Homepage": "https://radiotrebinje.com/?lang=lat",
+        "Source1": "https://radio.dukahosting.com:7002/"
+    },
+    {
+        "Title": "Radio USK",
+        "Country": "BosniaandHerzegovina",
+        "Language": "bs",
+        "Homepage": "https://www.rtvusk.ba/",
+        "Source1": "https://webtvstream.bhtelecom.ba/radio_usk.m3u8"
+    },
+    {
+        "Title": "Radio USK 1",
+        "Country": "BosniaandHerzegovina",
+        "Language": "bs",
+        "Homepage": "https://www.rtvusk.ba/",
+        "Source1": "https://radiousk.radioca.st/stream/"
+    },
+    {
+        "Title": "Radio USK 2",
+        "Country": "BosniaandHerzegovina",
+        "Language": "bs",
+        "Homepage": "https://www.rtvusk.ba/",
+        "Source1": "https://radiousk2.radioca.st/;"
+    },
+    {
+        "Title": "Radio Usora",
+        "Country": "BosniaandHerzegovina",
+        "Language": "bs",
+        "Homepage": "https://www.radio-usora-dijaspora.com/",
+        "Source1": "https://webtvstream.bhtelecom.ba/radio_usora.m3u8"
+    },
+    {
+        "Title": "Radio Usora",
+        "Country": "BosniaandHerzegovina",
+        "Language": "bs",
+        "Homepage": "https://www.radiousora.info/",
+        "Source1": "https://webtvstream.bhtelecom.ba/radio_usora.m3u8"
+    },
+    {
+        "Title": "Radio Valentino",
+        "Country": "BosniaandHerzegovina",
+        "Language": "bs",
+        "Homepage": "https://valentinobh.com/",
+        "Source1": "https://webtvstream.bhtelecom.ba/radio_valentino.m3u8"
+    },
+    {
+        "Title": "Radio Valentino ORV Life",
+        "Country": "BosniaandHerzegovina",
+        "Homepage": "https://valentinobh.com/",
+        "Source1": "https://otv.ovh/live_radio/orv/icecast.audio"
+    },
+    {
+        "Title": "Radio Veseli Bosanac",
+        "Country": "BosniaandHerzegovina",
+        "Language": "bs",
+        "Homepage": "https://veselibosanac.com/",
+        "Source1": "http://opportunity.shoutca.st:8038/"
+    },
+    {
+        "Title": "Radio Visoko",
+        "Country": "BosniaandHerzegovina",
+        "Tags": "local music,local news,local radio",
+        "Favicon": "https://www.visoko-rtv.ba/wp-content/uploads/2019/07/visocka_icon.png",
+        "Language": "bs",
+        "Homepage": "http://radio.visoko-rtv.ba/",
+        "Source1": "http://188.40.62.20:8080/"
+    },
+    {
+        "Title": "RADIO VITEZ",
+        "Country": "BosniaandHerzegovina",
+        "Tags": "classical",
+        "Homepage": "https://www.radiovitez.ba/",
+        "Source1": "https://radio.iti.hr/listen/radio_vitez/radio.mp3"
+    },
+    {
+        "Title": "Radio Vogošća",
+        "Country": "BosniaandHerzegovina",
+        "Favicon": "https://www.rtvvogosca.ba/logo6.png",
+        "Language": "bs",
+        "Homepage": "https://www.rtvvogosca.ba/",
+        "Source1": "https://webtvstream.bhtelecom.ba/radio_vogosca.m3u8"
+    },
+    {
+        "Title": "RADIO ZENIT",
+        "Country": "BosniaandHerzegovina",
+        "Tags": "classical",
+        "Source1": "http://5.189.168.133:8020/1"
+    },
+    {
+        "Title": "Radio Zenit - caffe",
+        "Country": "BosniaandHerzegovina",
+        "Language": "bs",
+        "Homepage": "https://www.zenit.ba/",
+        "Source1": "http://5.189.168.133:8020/stream/2/;"
+    },
+    {
+        "Title": "Radio ZENIT Zenica",
+        "Country": "BosniaandHerzegovina",
+        "Favicon": "https://www.zenit.ba/logo/zenit-header.png",
+        "Language": "bs",
+        "Homepage": "https://www.zenit.ba/",
+        "Source1": "http://5.189.168.133:8020/1"
+    },
+    {
+        "Title": "Radio Čapljina",
+        "Country": "BosniaandHerzegovina",
+        "Favicon": "https://radio-capljina.com/wp-content/uploads/2023/01/radio-capljina-box2-bijela.png",
+        "Language": "bs",
+        "Homepage": "https://radio-capljina.com/",
+        "Source1": "http://s8.iqstreaming.com:8016/",
+        "Source2": "http://s8.iqstreaming.com:8016/stream"
+    },
+    {
+        "Title": "Radio Čaršija",
+        "Country": "BosniaandHerzegovina",
+        "Tags": "folk,narodna",
+        "Language": "bs",
+        "Homepage": "http://ba.radiocarsija.ca/",
+        "Source1": "http://cast2.name.ba:8081/"
+    },
+    {
+        "Title": "RadioAktivan",
+        "Country": "BosniaandHerzegovina",
+        "Language": "bs",
+        "Homepage": "https://radioaktivan.ba/",
+        "Source1": "https://stream-152.zeno.fm/4qe0awx37wquv?zs=LaZXevHRRP2c8j2V0O-NOA"
+    },
+    {
+        "Title": "RadioMajevica.com",
+        "Country": "BosniaandHerzegovina",
+        "Tags": "izvorna,narodna,zabavna",
+        "Favicon": "https://www.radiomajevica.com/favicon.ico",
+        "Language": "bs",
+        "Homepage": "https://www.radiomajevica.com/",
+        "Latitude": 44.5921357233092,
+        "Longitude": 18.683886747061795,
+        "Source1": "https://live.radiomajevica.com:7520/live"
+    },
+    {
+        "Title": "Radiopostaja Mir - Međugorje",
+        "Country": "BosniaandHerzegovina",
+        "Tags": "catholic,christian,religious",
+        "Language": "hr",
+        "Homepage": "https://radio-medjugorje.com/",
+        "Latitude": 43.190659573987475,
+        "Longitude": 17.677639259699358,
+        "Source1": "http://mirm.live/mir.mp3"
+    },
+    {
+        "Title": "Radios 8 Sarajevo",
+        "Country": "BosniaandHerzegovina",
+        "Tags": "music",
+        "Language": "bs",
+        "Homepage": "http://radio8.ba/",
+        "Latitude": 43.852884082614885,
+        "Longitude": 18.40200149919838,
+        "Source1": "https://radio8-bhcloud.radioca.st/1.mp3"
+    },
+    {
+        "Title": "RITMO",
+        "Country": "BosniaandHerzegovina",
+        "Favicon": "https://images.zeno.fm/On2A_vHsWNu0RkScyur72jYEgxE9IgVkfpbTYtXJ7VY/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJRHcxdDNZZ2drTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRHd6cFdKMWdzTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTc0ODU4MjkwNDAwMA.webp",
+        "Source1": "https://stream-179.zeno.fm/3xufu087fc9uv"
+    },
+    {
+        "Title": "ROBOT HIT RADIO",
+        "Country": "BosniaandHerzegovina",
+        "Favicon": "http://robothitradio.com/pause.png",
+        "Homepage": "http://robothitradio.com/",
+        "Source1": "https://slusaj.off.ba/radio/8000/robot"
+    },
+    {
+        "Title": "RSG Sarajevo",
+        "Country": "BosniaandHerzegovina",
+        "Favicon": "https://radio.rsg.ba/static/assets/rsg-logo.svg",
+        "Homepage": "https://radio.rsg.ba/",
+        "Latitude": 43.85131751322327,
+        "Longitude": 18.4092852473259,
+        "Source1": "https://stream.rsgmedia.ba/listen/radio_stari_grad/radio.mp3"
+    },
+    {
+        "Title": "RVK",
+        "Country": "BosniaandHerzegovina",
+        "Favicon": "https://www.radiovkladusa.ba/favicon.ico",
+        "Language": "bs",
+        "Homepage": "https://www.radiovkladusa.ba/",
+        "Latitude": 45.18573684716295,
+        "Longitude": 15.804758231891734,
+        "Source1": "http://rvk2021.radioca.st:8206/stream"
+    },
+    {
+        "Title": "Skala Radio",
+        "Country": "BosniaandHerzegovina",
+        "Tags": "folk,narodna",
+        "Favicon": "https://www.skalaradio.net/wp-content/uploads/2016/02/logoskala.png",
+        "Language": "bs",
+        "Homepage": "https://www.skalaradio.net/",
+        "Source1": "http://cast2.name.ba:9049/"
+    },
+    {
+        "Title": "Slon Radio Tuzla",
+        "Country": "BosniaandHerzegovina",
+        "Tags": "pop rock,tuzla",
+        "Language": "bs",
+        "Homepage": "https://rtvslon.ba/",
+        "Source1": "http://31.47.0.130:88/broadwavehigh.mp3?src=1;"
+    },
+    {
+        "Title": "Srce Krajine",
+        "Country": "BosniaandHerzegovina",
+        "Language": "sr",
+        "Homepage": "https://srce-krajine.com/",
+        "Source1": "https://srv.mediastriming.com/8330/stream"
+    },
+    {
+        "Title": "Thrash Metal",
+        "Country": "BosniaandHerzegovina",
+        "Homepage": "https://www.edin.ba/",
+        "Source1": "http://79.120.77.11:8000/thrashmetal"
+    },
+    {
+        "Title": "Velkaton",
+        "Country": "BosniaandHerzegovina",
+        "Tags": "folk",
+        "Language": "bs",
+        "Homepage": "http://www.velkaton.ba/",
+        "Latitude": 45.18290800778624,
+        "Longitude": 15.804519653320314,
+        "Source1": "http://188.40.62.20:8044/;stream.mp3?_=1"
+    },
+    {
+        "Title": "Yes Radio",
+        "Country": "BosniaandHerzegovina",
+        "Tags": "exyu,exyu pop,exyu rock,pop,rock,sarajevo",
+        "Language": "bs",
+        "Homepage": "http://77.78.198.84:8000/",
+        "Source1": "http://77.78.198.84:8000/"
+    },
+    {
+        "Title": "﻿﻿Radio Osvit",
+        "Country": "BosniaandHerzegovina",
+        "Tags": "bosnia,serbian music",
+        "Language": "sr",
+        "Homepage": "https://www.radioosvit.com/",
+        "Source1": "https://radio.dukahosting.com/8020/stream"
+    }
+]

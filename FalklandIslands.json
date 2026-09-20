@@ -1,0 +1,43 @@
+[
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "FalklandIslands",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "BFBS Falklands",
+        "Country": "FalklandIslands",
+        "Tags": "bfbs,contemporary,contemporary music,military,speech,talk & speech",
+        "Favicon": "https://media.info/l/o/5/5.1647094643.png",
+        "Language": "en",
+        "Homepage": "https://radio.bfbs.com/stations/bfbs-falklands/",
+        "Source1": "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs6.aac"
+    },
+    {
+        "Title": "Falklands Radio",
+        "Country": "FalklandIslands",
+        "Favicon": "https://api.broadcast.radio/api/image/464937d5-67d8-42e7-886c-426239fa26dd.png?g=center",
+        "Homepage": "https://radio.co.fk/",
+        "Source1": "https://streaming.broadcastradio.com:8332/flklnd?1721893143541="
+    },
+    {
+        "Title": "Falklands Radio",
+        "Country": "FalklandIslands",
+        "Language": "en",
+        "Homepage": "http://www.radio.co.fk/",
+        "Source1": "http://streaming.broadcastradio.com:8330/flklnd"
+    },
+    {
+        "Title": "Falklands Radio 530 Stanley",
+        "Country": "FalklandIslands",
+        "Tags": "bbc news,local news weather,music",
+        "Language": "en",
+        "Homepage": "https://radio.co.fk/",
+        "Latitude": -51.721583890010585,
+        "Longitude": -57.81005859375001,
+        "Source1": "https://streaming.broadcastradio.com:8332/flklnd"
+    }
+]

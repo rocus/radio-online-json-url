@@ -1,0 +1,26 @@
+[
+    {
+        "Title": "EDM Radio",
+        "Country": "SaintHelena",
+        "Favicon": "null",
+        "Homepage": "https://laut.fm/",
+        "Source1": "https://laut.fm/edmradio"
+    },
+    {
+        "Title": "Radio Jamestown 107.7",
+        "Country": "SaintHelena",
+        "Homepage": "https://radio.garden/visit/jamestown/9nlHZbxb?hl=pt-BR",
+        "Latitude": -15.87879040871054,
+        "Longitude": -5.822753906250001,
+        "Source1": "https://orbit.citrus3.com:2020/stream/saintfmcommunityradio/;"
+    },
+    {
+        "Title": "Saint.FM",
+        "Country": "SaintHelena",
+        "Tags": "community radio",
+        "Homepage": "http://www.saint.fm/",
+        "Latitude": -15.632955745681755,
+        "Longitude": -5.822753906250001,
+        "Source1": "https://orbit.citrus3.com:8306/stream"
+    }
+]

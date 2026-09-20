@@ -1,0 +1,73 @@
+[
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "Mongolia",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "Ehlelradio",
+        "Country": "Mongolia",
+        "Tags": "music,news,talk",
+        "Language": "mn",
+        "Source1": "https://stream.zeno.fm/c6cvywws538uv"
+    },
+    {
+        "Title": "Elgen Nutag",
+        "Country": "Mongolia",
+        "Tags": "culture,folk,music,radio books,talk",
+        "Language": "mn",
+        "Source1": "https://a6.asurahosting.com:7210/radio.mp3"
+    },
+    {
+        "Title": "Family Radio FM",
+        "Country": "Mongolia",
+        "Tags": "talk",
+        "Favicon": "https://www.facebook.com/favicon.ico",
+        "Homepage": "https://www.facebook.com/gerbulradio/",
+        "Source1": "https://c2.radioboss.fm/stream/394"
+    },
+    {
+        "Title": "MGL Radio",
+        "Country": "Mongolia",
+        "Language": "mn",
+        "Homepage": "http://mglradio.com/",
+        "Source1": "http://stream17.shoutcastsolutions.com:8096/"
+    },
+    {
+        "Title": "Mongolian Music Radio",
+        "Country": "Mongolia",
+        "Tags": "electro,pop,rock,top 40",
+        "Favicon": "https://static2.mytuner.mobi/media/tvos_radios/hgBdpd39Rk.png",
+        "Language": "mn",
+        "Homepage": "https://www.radiosons.com/",
+        "Source1": "http://65.108.143.81:7700/1"
+    },
+    {
+        "Title": "Xadun 107.5",
+        "Country": "Mongolia",
+        "Tags": "news,oldies,pop,rock,talk",
+        "Language": "mn",
+        "Source1": "https://stream.zeno.fm/z3sbdspshrhvv"
+    },
+    {
+        "Title": "Гэр бүлийн радио 104.5",
+        "Country": "Mongolia",
+        "Tags": "christian,community,culture",
+        "Favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJc5-ql9EF8iTlZNwePtu7WkuZHhgyiCSp6A&s",
+        "Language": "mn",
+        "Homepage": "https://1045.mn/",
+        "Source1": "https://c2.radioboss.fm/stream/394"
+    },
+    {
+        "Title": "内蒙古草原之声 Inner Mongolia Voice of Grassland",
+        "Country": "Mongolia",
+        "Tags": "culture",
+        "Favicon": "https://pic.qtfm.cn/2015/0324/20150324134256614.jpg",
+        "Language": "mn",
+        "Homepage": "https://www.nmtv.cn/",
+        "Source1": "https://lhttp-hw.qtfm.cn/live/20973/64k.mp3"
+    }
+]

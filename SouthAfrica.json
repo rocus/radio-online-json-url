@@ -1,0 +1,1630 @@
+[
+    {
+        "Title": "011 Radio",
+        "Country": "SouthAfrica",
+        "Favicon": "https://eu2.contabostorage.com/b94f201d35554c5283f96247e0e97a2c:famcast-storage/011Radio/011-radio.webp",
+        "Homepage": "https://famcast.co.za/home/stations/011-radio/shows/",
+        "Source1": "https://sv2.famcast.co.za/stream/011_radio?1769529224555"
+    },
+    {
+        "Title": "5FM",
+        "Country": "SouthAfrica",
+        "Favicon": "https://www.5fm.co.za/5fm/wp-content/uploads/2025/08/cropped-5FM-192x192.png",
+        "Homepage": "https://www.5fm.co.za/5fm/",
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/5FM",
+        "Source2": "https://playerservices.streamtheworld.com/api/livestream-redirect/5FMAAC.aac"
+    },
+    {
+        "Title": "702 Johannesburg",
+        "Country": "SouthAfrica",
+        "Tags": "johannesburg,news talk",
+        "Language": "en",
+        "Homepage": "http://www.702.co.za/",
+        "Source1": "http://playerservices.streamtheworld.com/m3u/FM702.m3u"
+    },
+    {
+        "Title": "919",
+        "Country": "SouthAfrica",
+        "Language": "en",
+        "Homepage": "https://919.co.za/",
+        "Latitude": -26.12398721441897,
+        "Longitude": 28.04680824279785,
+        "Source1": "https://edge.iono.fm/xice/112_low.aac",
+        "Source2": "https://edge.iono.fm/xice/112_medium.aac"
+    },
+    {
+        "Title": "94.7",
+        "Country": "SouthAfrica",
+        "Tags": "classic hits,hiphop,hits,pop,rock",
+        "Language": "en",
+        "Homepage": "http://www.947.co.za/",
+        "Source1": "http://playerservices.streamtheworld.com/pls/FM947AAC.pls"
+    },
+    {
+        "Title": "94.7 Highveld Stereo",
+        "Country": "SouthAfrica",
+        "Homepage": "http://www.947.co.za/?override=true",
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/FM947_SC"
+    },
+    {
+        "Title": "947",
+        "Country": "SouthAfrica",
+        "Tags": "adult contemporary,pop,regional radio,talk",
+        "Language": "en",
+        "Homepage": "http://www.947.co.za/",
+        "Source1": "http://playerservices.streamtheworld.com/m3u/FM947.m3u"
+    },
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "SouthAfrica",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "African Praise Radio",
+        "Country": "SouthAfrica",
+        "Favicon": "https://africanpraiseradio.com/images/Cool-Text-250229628295821-1.png",
+        "Homepage": "https://africanpraiseradio.com/",
+        "Source1": "https://fastcast4u.com/player/africanpraiserad/?pl=winamp&c=African%20Praise%20Radio"
+    },
+    {
+        "Title": "Afrobeat N1 FM",
+        "Country": "SouthAfrica",
+        "Tags": "afrobeat",
+        "Language": "en",
+        "Homepage": "https://afrobeatfm.co.za/",
+        "Source1": "https://streamer.radio.co/s919e54210/listen"
+    },
+    {
+        "Title": "afrobeat radio",
+        "Country": "SouthAfrica",
+        "Favicon": "https://afrobeatradio.org/assets/images/iso-ar-clr.webp",
+        "Homepage": "https://afrobeatradio.org/#",
+        "Source1": "https://broadcast.icast.world/listen/afrobeatradio/radio.mp3"
+    },
+    {
+        "Title": "AFROBEATS FM",
+        "Country": "SouthAfrica",
+        "Favicon": "https://afrobeatsfm.com/logo.jpg",
+        "Homepage": "https://afrobeatsfm.com/",
+        "Source1": "https://audio.afrobeatsfm.com:8443/;"
+    },
+    {
+        "Title": "AGANANG FM",
+        "Country": "SouthAfrica",
+        "Favicon": "http://www.aganangfm.org.za/assets/images/aganang-fm-logo-website-216x194.png",
+        "Homepage": "http://www.aganangfm.org.za/",
+        "Source1": "https://streaming.fabrik.fm/aganangfm/echocast/audio/low/index.m3u8?session_id=1pbxzwxy1RWaVFv&device_id=Q7fauplH"
+    },
+    {
+        "Title": "Al Husnaa Quran Radio",
+        "Country": "SouthAfrica",
+        "Homepage": "https://zeno.fm/radio/al-husnaa-quran",
+        "Latitude": -30.5196812727494,
+        "Longitude": 30.058593750000004,
+        "Source1": "https://stream.zeno.fm/pyc8kax6f2zuv"
+    },
+    {
+        "Title": "AL-Ansaar Radio",
+        "Country": "SouthAfrica",
+        "Favicon": "https://linktr.ee/favicon.ico",
+        "Homepage": "https://linktr.ee/Alansaar",
+        "Source1": "https://al-ansaar.simplestreaming.co.za/radio/8000/radio.mp3"
+    },
+    {
+        "Title": "AL-Ansaar Radio",
+        "Country": "SouthAfrica",
+        "Favicon": "https://alansaar.org.za/favicon.ico",
+        "Homepage": "https://alansaar.org.za/",
+        "Source1": "https://al-ansaar.simplestreaming.co.za/radio/8000/radio.mp3?refresh=1653300780766"
+    },
+    {
+        "Title": "Al-Ansaar Radio",
+        "Country": "SouthAfrica",
+        "Tags": "community,islam,islamic",
+        "Language": "en",
+        "Homepage": "https://radioalansaar.org.za/",
+        "Latitude": -29.83218252559296,
+        "Longitude": 30.995644927024845,
+        "Source1": "https://al-ansaar.simplestreaming.co.za/listen/al-ansaar_radio/radio.mp3"
+    },
+    {
+        "Title": "Algoa FM",
+        "Country": "SouthAfrica",
+        "Source1": "http://edge.iono.fm/xice/54_high.mp3"
+    },
+    {
+        "Title": "Amapiano FM",
+        "Country": "SouthAfrica",
+        "Favicon": "https://cdn.webrad.io/images/logos/radiosa-org/amapiano.png",
+        "Homepage": "https://radiosa.org/amapiano/",
+        "Source1": "https://stream.zeno.fm/xs6zeac1ts8uv",
+        "Source2": "https://stream-37.zeno.fm/xs6zeac1ts8uv?zs=Tf36JxfyQTKE-KteyZLrww"
+    },
+    {
+        "Title": "Atiawa Toa FM",
+        "Country": "SouthAfrica",
+        "Favicon": "https://atiawa.com/wp-content/uploads/2020/11/Te-Atiawa-Logow-768x442.jpg",
+        "Homepage": "https://atiawa.com/atiawa-fm/",
+        "Source1": "https://icast1.streamcom.net/Atiawa"
+    },
+    {
+        "Title": "AUDIO LOUNGE 247",
+        "Country": "SouthAfrica",
+        "Favicon": "https://audiolounge247.co.za/logo.png",
+        "Homepage": "https://www.audiolounge247.co.za/",
+        "Source1": "https://a13.asurahosting.com/listen/audio_lounge_247/radio.mp3"
+    },
+    {
+        "Title": "Ballito 88 FM - Radio Life & Style",
+        "Country": "SouthAfrica",
+        "Tags": "80s,90s,classic hits,contemporary,top 100",
+        "Favicon": "https://static.iono.fm/files/p2465/logo_165_20210824_111513_600.jpg",
+        "Language": "en",
+        "Homepage": "https://www.lifeandstyle.fm/",
+        "Latitude": -29.527463144238347,
+        "Longitude": 31.201614102364697,
+        "Source1": "https://edge.iono.fm/xhls/165_high.m3u8"
+    },
+    {
+        "Title": "Befonk in stereo",
+        "Country": "SouthAfrica",
+        "Tags": "pop",
+        "Favicon": "https://open.spotify.com/user/31hyxl7mwvprh7euli3ywlh5rf3u?si=63SHSEjVRrC09Y9EmjGkYA",
+        "Language": "af",
+        "Homepage": "https://c42.radioboss.fm:8073/stream",
+        "Source1": "https://c42.radioboss.fm:8073/stream"
+    },
+    {
+        "Title": "BLU RADIIO",
+        "Country": "SouthAfrica",
+        "Homepage": "https://radiio.link/",
+        "Source1": "https://app.radiio.link/stream.mp3"
+    },
+    {
+        "Title": "Bok Radio",
+        "Country": "SouthAfrica",
+        "Favicon": "https://www.bokradio.co.za/wp-content/uploads/2020/06/logo-4-1-100x100.png",
+        "Homepage": "https://www.bokradio.co.za/",
+        "Source1": "https://bokradio.highquality.radiostream.co.za/"
+    },
+    {
+        "Title": "Bok Radio",
+        "Country": "SouthAfrica",
+        "Favicon": "https://www.bokradio.co.za/wp-content/uploads/2020/06/logo-4-1-370x370.png",
+        "Homepage": "https://www.bokradio.co.za/radiochannel/bok-radio-98-9fm/",
+        "Source1": "http://bokradio.highquality.radiostream.co.za/"
+    },
+    {
+        "Title": "Bokradio",
+        "Country": "SouthAfrica",
+        "Favicon": "http://fmradiobuffer.co.za/wp-content/uploads/2015/03/bok-radio-top-40.jpg",
+        "Language": "af",
+        "Homepage": "http://bokradio.co.za/",
+        "Source1": "http://bokradio.highquality.radiostream.co.za/"
+    },
+    {
+        "Title": "Bosveld Stereo",
+        "Country": "SouthAfrica",
+        "Tags": "pop,rock",
+        "Favicon": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/RRjd3up6aH.png",
+        "Language": "af",
+        "Homepage": "http://www.bosveldstereo.co.za/",
+        "Source1": "http://capeant.antfarm.co.za:8000/Bosveld"
+    },
+    {
+        "Title": "Bosveld Stereo",
+        "Country": "SouthAfrica",
+        "Favicon": "https://bosveldstereo.co.za/wp-content/uploads/2020/01/logo-invert-opt-03.png",
+        "Homepage": "https://bosveldstereo.co.za/",
+        "Source1": "https://radio.eclipse-streaming.co.za/listen/bosveldstereo/Bosveld64k"
+    },
+    {
+        "Title": "BOX : Chillwave",
+        "Country": "SouthAfrica",
+        "Homepage": "https://boxradio.net/",
+        "Source1": "https://play.streamafrica.net/chillwave"
+    },
+    {
+        "Title": "BOX Chillwave",
+        "Country": "SouthAfrica",
+        "Homepage": "https://boxradio-edge-00.streamafrica.net/chillwave",
+        "Source1": "https://boxradio-edge-00.streamafrica.net/chillwave"
+    },
+    {
+        "Title": "BOX Dreamscapes",
+        "Country": "SouthAfrica",
+        "Homepage": "https://boxradio-edge-00.streamafrica.net/dreamscapes",
+        "Source1": "https://boxradio-edge-00.streamafrica.net/dreamscapes"
+    },
+    {
+        "Title": "BurgStudio",
+        "Country": "SouthAfrica",
+        "Tags": "alternative,classic rock,folk rock,indie rock,metal,punk rock,rock",
+        "Favicon": "https://burgstudio.co.za/wp-content/uploads/2020/11/default_logo_dark_200.webp",
+        "Homepage": "https://burgstudio.co.za/",
+        "Latitude": -25.131920030901032,
+        "Longitude": 27.949218750000004,
+        "Source1": "https://radio.burgstudio.co.za:8000/radio.mp3"
+    },
+    {
+        "Title": "Bush Radio",
+        "Country": "SouthAfrica",
+        "Favicon": "https://bushradio.wordpress.com/wp-content/uploads/2025/06/bush-logo-round.png",
+        "Homepage": "https://bushradio.wordpress.com/",
+        "Source1": "https://zas4.ndx.co.za:9100/stream"
+    },
+    {
+        "Title": "Cape Talk",
+        "Country": "SouthAfrica",
+        "Tags": "current affairs,news,talk",
+        "Language": "en",
+        "Homepage": "http://www.capetalk.co.za/",
+        "Source1": "http://playerservices.streamtheworld.com/m3u/CAPE_TALK.m3u"
+    },
+    {
+        "Title": "Cape Talk 567",
+        "Country": "SouthAfrica",
+        "Tags": "adult contemporary,south africa,talk",
+        "Language": "en",
+        "Homepage": "https://www.radio-south-africa.co.za/cape-talk",
+        "Latitude": -33.925196468348354,
+        "Longitude": 18.42630386352539,
+        "Source1": "https://27863.live.streamtheworld.com/CAPE_TALKAAC_SC?dist=CapeTalkWeb&pname=TDSdk"
+    },
+    {
+        "Title": "Cape Town Classic",
+        "Country": "SouthAfrica",
+        "Tags": "classical",
+        "Favicon": "https://www.fmr.co.za/favicon.ico",
+        "Language": "en",
+        "Homepage": "https://www.fmr.co.za/",
+        "Source1": "https://edge.iono.fm/xhls/fmr_live_high.m3u8"
+    },
+    {
+        "Title": "Capital Radio 604",
+        "Country": "SouthAfrica",
+        "Tags": "the best of 80's",
+        "Language": "en",
+        "Homepage": "https://www.capital604.com/",
+        "Source1": "https://stream.galaxywebsolutions.com/proxy/capitalradio604?mp=%2Fstream"
+    },
+    {
+        "Title": "Capricorn FM",
+        "Country": "SouthAfrica",
+        "Tags": "music,news",
+        "Favicon": "https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Capricomfm300.png/200px-Capricomfm300.png",
+        "Language": "en",
+        "Homepage": "https://www.capricornfm.co.za/",
+        "Source1": "http://edge.iono.fm/xice/67_medium.aac"
+    },
+    {
+        "Title": "Cassette Radio",
+        "Country": "SouthAfrica",
+        "Homepage": "https://app.megazone.fm/",
+        "Latitude": -30.63554882653323,
+        "Longitude": 24.521484375000004,
+        "Source1": "https://vm65162.streamerr.co/listen/cassette_radio/radio.mp3"
+    },
+    {
+        "Title": "CCFM 107.5",
+        "Country": "SouthAfrica",
+        "Tags": "christian",
+        "Language": "en",
+        "Homepage": "https://ccfm.org.za/",
+        "Latitude": -34.108669880355244,
+        "Longitude": 18.46768766641617,
+        "Source1": "https://edge.iono.fm/xice/69_medium.aac"
+    },
+    {
+        "Title": "Chai FM",
+        "Country": "SouthAfrica",
+        "Homepage": "https://www.chaifm.com/",
+        "Source1": "https://zas1.ndx.co.za:8008/stream?1702143258610"
+    },
+    {
+        "Title": "Channel Islam International",
+        "Country": "SouthAfrica",
+        "Favicon": "https://ciiradio.com/favicon.ico",
+        "Homepage": "https://ciiradio.com/",
+        "Source1": "http://edge.iono.fm/xice/109_medium.aac"
+    },
+    {
+        "Title": "Classic FM 1027",
+        "Country": "SouthAfrica",
+        "Tags": "classic,classical",
+        "Favicon": "https://www.classic1027.co.za/assets/images/apple-touch-icon.png",
+        "Language": "en",
+        "Homepage": "https://www.classic1027.co.za/",
+        "Source1": "http://edge.iono.fm/xice/49_medium.aac?p=embed"
+    },
+    {
+        "Title": "Cliff Central",
+        "Country": "SouthAfrica",
+        "Language": "en",
+        "Homepage": "https://thereal-network.com/",
+        "Source1": "https://edge.iono.fm/xice/cliffcentral_live_medium.aac"
+    },
+    {
+        "Title": "Diamond Radio",
+        "Country": "SouthAfrica",
+        "Homepage": "https://app.megazone.fm/",
+        "Latitude": -29.55315050898206,
+        "Longitude": 23.8623046875,
+        "Source1": "https://vm65162.streamerr.co/listen/diamond_fm/radio.mp3"
+    },
+    {
+        "Title": "East Coast Gold",
+        "Country": "SouthAfrica",
+        "Tags": "decades",
+        "Source1": "https://live.ecr.co.za/ecrgoldhigh.mp3"
+    },
+    {
+        "Title": "East Coast Radio",
+        "Country": "SouthAfrica",
+        "Favicon": "https://turntable.kagiso.io/core/images/ecr/apple-touch-icon.png",
+        "Homepage": "https://www.ecr.co.za/",
+        "Source1": "https://live.ecr.co.za/ecrhigh.mp3?aw_0_pinpoll=1,2,9&listenerid=94d1ac3bf877b65e4e17cd7e9bfec132&awparams=companionAds%3Atrue&aw_0_1st.ri=iono"
+    },
+    {
+        "Title": "ECR - East Coast Radio -KwaZulu Natal",
+        "Country": "SouthAfrica",
+        "Tags": "news,urban,urban adult contemporary",
+        "Favicon": "https://turntable.kagiso.io/core/images/ecr/apple-touch-icon.png",
+        "Language": "en",
+        "Homepage": "http://www.ecr.co.za/",
+        "Source1": "https://edge.iono.fm/xice/ecr_live_medium.aac"
+    },
+    {
+        "Title": "Eden FM",
+        "Country": "SouthAfrica",
+        "Favicon": "https://app.cue24.co.za/images/24/logo.png",
+        "Homepage": "https://www.edenfm.co.za/",
+        "Source1": "https://iceant.antfarm.co.za/EdenFM"
+    },
+    {
+        "Title": "Edenradio",
+        "Country": "SouthAfrica",
+        "Tags": "rock",
+        "Favicon": "https://eden-radio.broadcast.radio/",
+        "Homepage": "https://eden-radio.broadcast.radio/",
+        "Latitude": -26.126564973364697,
+        "Longitude": 28.142519198461414,
+        "Source1": "https://eden-radio.broadcast.radio/listen"
+    },
+    {
+        "Title": "EVR",
+        "Country": "SouthAfrica",
+        "Favicon": "https://radio.eclipse-streaming.co.za/static/uploads/album_art.1708559460.jpg",
+        "Homepage": "https://eclipse-radio.eclipse-streaming.co.za/public/evr",
+        "Source1": "https://eclipse-radio.eclipse-streaming.co.za/public/evr/playlist.pls"
+    },
+    {
+        "Title": "Express 106.6FM",
+        "Country": "SouthAfrica",
+        "Tags": "christian,christian blues,christian contemporary,christian country,christian dance,christian edm,christian folk,christian hip hop,christian hits,christian indie,christian metal,christian music,christian pop,christian praise,christian praise&worship,christian punk,christian r&b,christian rap,christian reggae,christian rock,christian top 20,christian top40,christian worship,gospel blues,gospel contemporary,gospel country,gospel dance,gospel edm,gospel folk,gospel hip-hop,gospel hits,gospel indie,gospel metal,gospel music,gospel pop,gospel praise,gospel punk,gospel r&b,gospel rap,gospel reggae,gospel rock,gospel top40,gospel worship",
+        "Favicon": "https://www.express-fm.co.za/image/catalog/express_fm_logo_in_colour.png",
+        "Language": "af,en",
+        "Homepage": "https://www.express-fm.co.za/listen",
+        "Latitude": -26.253592266722,
+        "Longitude": 28.371755182743076,
+        "Source1": "http://198.7.59.28:34235/stream"
+    },
+    {
+        "Title": "Express-FM Digital",
+        "Country": "SouthAfrica",
+        "Tags": "christian,christian blues,christian contemporary,christian country,christian dance,christian edm,christian folk,christian hip-hop,christian hits,christian indie,christian metal,christian music,christian pop,christian praise,christian punk,christian r&b,christian rap,christian reggae,christian rock,christian top40,christian worship,gospel,gospel blues,gospel contemporary,gospel country,gospel dance,gospel edm,gospel folk,gospel hip-hop,gospel hits,gospel indie,gospel metal,gospel music,gospel pop,gospel praise,gospel punk,gospel r&b,gospel rap,gospel reggae,gospel rock,gospel top40,gospel worship",
+        "Favicon": "https://www.express-fm.co.za/image/catalog/express_fm_logo_in_colour.png",
+        "Language": "af,en",
+        "Homepage": "https://www.express-fm.co.za/",
+        "Latitude": -26.19238709688294,
+        "Longitude": 28.006870378888102,
+        "Source1": "http://198.7.59.28:34235/stream"
+    },
+    {
+        "Title": "Faithofgodseedchurch",
+        "Country": "SouthAfrica",
+        "Tags": "christian,gospel",
+        "Language": "af",
+        "Homepage": "https://laut.fm/faithofgodseedchurch",
+        "Source1": "http://stream.laut.fm/faithofgodseedchurch.pls"
+    },
+    {
+        "Title": "Fine Music Radio",
+        "Country": "SouthAfrica",
+        "Tags": "classical,m3u8,music",
+        "Favicon": "http://www.fmr.co.za/favicon.ico",
+        "Homepage": "http://www.fmr.co.za/",
+        "Source1": "http://edge.iono.fm/xhls/fmr_live_medium.m3u8"
+    },
+    {
+        "Title": "Fine Music Radio",
+        "Country": "SouthAfrica",
+        "Tags": "classical,jazz",
+        "Favicon": "https://www.fmr.co.za/wp-content/uploads/2020/11/fmr.png",
+        "Language": "af,en",
+        "Homepage": "https://www.fmr.co.za/",
+        "Latitude": -33.91970008169477,
+        "Longitude": 18.430458605289463,
+        "Source1": "https://edge.iono.fm/xhls/fmr_live_high.m3u8"
+    },
+    {
+        "Title": "Gagasi FM",
+        "Country": "SouthAfrica",
+        "Favicon": "https://cdn.instant.audio/images/logos/radiosa-org/gagasi.png",
+        "Homepage": "https://gagasiworld.co.za/",
+        "Latitude": -29.798309751967203,
+        "Longitude": 31.01577758789063,
+        "Source1": "https://streaming.fabrik.fm/gagasi/echocast/audio/low/index.m3u8"
+    },
+    {
+        "Title": "GaySA Radio",
+        "Country": "SouthAfrica",
+        "Tags": "adult contemporary,dance,hits,pop",
+        "Favicon": "https://www.gaysaradio.co.za/",
+        "Homepage": "https://www.gaysaradio.co.za/",
+        "Source1": "https://zas1.ndx.co.za:8018/stream"
+    },
+    {
+        "Title": "Good Hope FM",
+        "Country": "SouthAfrica",
+        "Tags": "music,talk",
+        "Favicon": "https://www.goodhopefm.co.za/goodhopefm/favicon.ico",
+        "Homepage": "https://www.goodhopefm.co.za/goodhopefm/",
+        "Latitude": -33.91079200469001,
+        "Longitude": 18.391542434692383,
+        "Source1": "https://25453.live.streamtheworld.com/GOODHOPEFMAAC"
+    },
+    {
+        "Title": "GospelBluesRadio",
+        "Country": "SouthAfrica",
+        "Homepage": "https://gospelbluesradio.com/",
+        "Source1": "https://gospelblues365.com/listen/gospelbluesradio/radio"
+    },
+    {
+        "Title": "GrootFM",
+        "Country": "SouthAfrica",
+        "Favicon": "https://www.grootfm.co.za/wordpress/wp-content/uploads/2019/04/GrootFM-logo-small-300x130.jpg 300w",
+        "Homepage": "https://www.grootfm.co.za/",
+        "Latitude": -25.836763753434777,
+        "Longitude": 28.179631233215336,
+        "Source1": "https://edge.iono.fm/xice/330_medium.aac"
+    },
+    {
+        "Title": "GROOTfm 90.5",
+        "Country": "SouthAfrica",
+        "Favicon": "https://www.grootfm.co.za/wordpress/wp-content/uploads/2019/04/GrootFM-logo-small.jpg",
+        "Homepage": "https://www.grootfm.co.za/",
+        "Source1": "https://edge.iono.fm/xice/330_medium.aac?ref=https%3A%2F%2Fwww.grootfm.co.za%2F&adToken=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJkdCI6IjIwMjYtMDYtMTAgMTQ6NTIiLCJpcCI6IjQ5LjE1MC4yMDMuMTA2IiwiYWRpZCI6IiJ9._uG9RxGmrJwf2uo53cVj8hHbGfkssGqZ99YZ-fgkky8&pofToken="
+    },
+    {
+        "Title": "Harties FM",
+        "Country": "SouthAfrica",
+        "Tags": "2000's,60's,70's,80's,90's,all the hits",
+        "Language": "af,en",
+        "Homepage": "https://hartiesfm.com/",
+        "Latitude": -25.72568846360867,
+        "Longitude": 27.82574057579041,
+        "Source1": "https://s5.radio.co/s68c6f4028/listen"
+    },
+    {
+        "Title": "Heart FM",
+        "Country": "SouthAfrica",
+        "Favicon": "https://www.heartfm.co.za/content/uploads/2017/12/logo-dark.png",
+        "Homepage": "https://www.heartfm.co.za/",
+        "Source1": "https://streaming.fabrik.fm/heartfm/echocast/audio/low/index.m3u8"
+    },
+    {
+        "Title": "Heaven FM",
+        "Country": "SouthAfrica",
+        "Favicon": "https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2Fs8BCMBe8SFoxoGmF4Gk5pqG5fudBTZsqHIsquERr3W0%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSUNJbHRpQ21Bb01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSUNJbHFpS29BZ01vZ0VFZW1WdWJ3L2ltYWdlLz91cGRhdGVkPTE3MDc0ODg2MTUwMDA.webp&w=3840&q=100",
+        "Language": "en,sw",
+        "Homepage": "https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2Fs8BCMBe8SFoxoGmF4Gk5pqG5fudBTZsqHIsquERr3W0%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSUNJbHRpQ21Bb01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSUNJbHFpS29BZ01vZ0VFZW1WdWJ3L2ltYWdlLz91cGRhdGVkPTE3MDc0ODg2MTUwMDA.webp&w=3840&q=100",
+        "Source1": "https://stream.zeno.fm/eequgfw72hhvv"
+    },
+    {
+        "Title": "Helderberg FM",
+        "Country": "SouthAfrica",
+        "Tags": "community radio",
+        "Favicon": "https://helderbergfm.co.za/wp-content/uploads/2022/07/cropped-Fav-192x192.png",
+        "Language": "af,en",
+        "Homepage": "https://helderbergfm.co.za/",
+        "Latitude": -34.08196786460559,
+        "Longitude": 18.846002519130707,
+        "Source1": "https://helderberg.highquality.radiostream.co.za/"
+    },
+    {
+        "Title": "Hellenic Radio",
+        "Country": "SouthAfrica",
+        "Tags": "greek",
+        "Favicon": "https://www.hellenicradio.org.za/wp-content/uploads/2023/07/LOGO.png",
+        "Region": "AT-1",
+        "Homepage": "http://www.hellenicradio.org.za/",
+        "Source1": "http://iceant.eclipse-streaming.co.za/Hellenic"
+    },
+    {
+        "Title": "Hellenic Radio",
+        "Country": "SouthAfrica",
+        "Tags": "community radio",
+        "Language": "el,en",
+        "Homepage": "https://www.hellenicradio.org.za/",
+        "Source1": "http://iceant.eclipse-streaming.co.za/Hellenic"
+    },
+    {
+        "Title": "Hot 102.7 FM",
+        "Country": "SouthAfrica",
+        "Homepage": "https://hot1027.co.za/",
+        "Source1": "https://edge.iono.fm/xice/57_high.aac"
+    },
+    {
+        "Title": "Hot 102.7 FM Club",
+        "Country": "SouthAfrica",
+        "Homepage": "https://hot1027.co.za/",
+        "Latitude": -26.13383478596778,
+        "Longitude": 28.047301769256595,
+        "Source1": "https://edge.iono.fm/xice/306_high.aac"
+    },
+    {
+        "Title": "Hot 102.7 FM Rock",
+        "Country": "SouthAfrica",
+        "Tags": "classic rock,rock hits",
+        "Favicon": "https://hot1027.co.za/wp-content/uploads/2025/09/hot-rock-stream-icon.png",
+        "Homepage": "https://hot1027.co.za/hot-rock-stream/",
+        "Latitude": -26.212373341359996,
+        "Longitude": 28.039855957031257,
+        "Source1": "https://edge.iono.fm/xice/303_high.aac"
+    },
+    {
+        "Title": "Hot 102.7FM",
+        "Country": "SouthAfrica",
+        "Homepage": "https://hot1027.co.za/",
+        "Source1": "https://edge.iono.fm/xice/57_medium.aac?ref=https%3A%2F%2Fhot1027.co.za%2F&adToken="
+    },
+    {
+        "Title": "HOT 91.9",
+        "Country": "SouthAfrica",
+        "Language": "en",
+        "Homepage": "https://www.hot919.co.za/",
+        "Source1": "http://edge.iono.fm/xice/57_medium.mp3"
+    },
+    {
+        "Title": "IFM 102.2",
+        "Country": "SouthAfrica",
+        "Favicon": "https://static.wixstatic.com/media/0a14cb_6c3c98cf37f64f04b5a60717d63f179f~mv2.png/v1/fill/w_207,h_149,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo_edited_edited.png",
+        "Homepage": "https://www.ifmradio.co.za/",
+        "Source1": "http://cdn.voscast.com/resources/?key=d8adb6a62c17441aa66982bad82a52d3&c=winamp",
+        "Source2": "http://s7.voscast.com:9538/;stream1700094931336/1"
+    },
+    {
+        "Title": "Impala Radio",
+        "Country": "SouthAfrica",
+        "Homepage": "https://www.impalaradio.org/",
+        "Source1": "https://maggie.torontocast.com:8014/stream"
+    },
+    {
+        "Title": "Inanda FM",
+        "Country": "SouthAfrica",
+        "Favicon": "https://www.inandafm.co.za/wp-content/uploads/2025/02/1-e1740565998973.png",
+        "Homepage": "https://www.inandafm.co.za/",
+        "Source1": "https://streaming.fabrik.fm/inandafm/echocast/audio/low/index.m3u8?session_id=F7QhCzr5lwhLx6D&device_id=gCWDK0co"
+    },
+    {
+        "Title": "Izwi LoMzansi",
+        "Country": "SouthAfrica",
+        "Tags": "african music,community radio,folk,kwaito",
+        "Favicon": "https://izwi98fm.co.za/wp-content/uploads/2025/01/cropped-izwi-lomzansi-logo-2-180x180.png",
+        "Language": "en",
+        "Homepage": "https://izwi98fm.co.za/",
+        "Source1": "https://streaming.fabrik.fm/izwi/echocast/audio/index.m3u8"
+    },
+    {
+        "Title": "Jacaranda",
+        "Country": "SouthAfrica",
+        "Favicon": "https://static.iono.fm/files/p155/logo_155_20210311_154401_600.jpg",
+        "Source1": "https://live.jacarandafm.com/jacarandahigh.mp3"
+    },
+    {
+        "Title": "Jacaranda FM",
+        "Country": "SouthAfrica",
+        "Homepage": "https://www.jacarandafm.com/",
+        "Source1": "https://edge.iono.fm/xice/jacarandafm_live_medium.mp3",
+        "Source2": "https://live.jacarandafm.com/jacarandahigh.mp3",
+        "Source3": "https://edge.iono.fm/xice/jacarandafm_live_medium.aac"
+    },
+    {
+        "Title": "Jacaranda FM",
+        "Country": "SouthAfrica",
+        "Tags": "smooth",
+        "Homepage": "https://www.jacaranda.com/",
+        "Source1": "https://live.jacarandafm.com/jacarandahigh.mp3"
+    },
+    {
+        "Title": "jacaranda_high",
+        "Country": "SouthAfrica",
+        "Homepage": "http://radio/",
+        "Source1": "https://edge.iono.fm/xice/jacarandafm_live_high.aac"
+    },
+    {
+        "Title": "Jakaranda FM",
+        "Country": "SouthAfrica",
+        "Tags": "80s",
+        "Language": "af,en",
+        "Homepage": "https://www.jakarandafm.com/",
+        "Source1": "https://edge.iono.fm/xice/jacarandafm_live_high.mp3"
+    },
+    {
+        "Title": "JOY GOSPEL RADIO",
+        "Country": "SouthAfrica",
+        "Tags": "international",
+        "Favicon": "https://www.google.com/search?q=joy+gospel+radio+group&client=ms-android-mobicell&prmd=nmiv&sxsrf=APq-WBvKOVGQbCq5i6NX0F8KleM7OsyOlg:1647248530624&source=lnms&tbm=isch&sa=X&ved=2ahUKEwig6pj8nsX2AhWCYsAKHbWfBZQQ_AUoA3oECAIQAw&biw=377&bih=627&dpr=1.27#imgrc=seUxB2JYeu2ZVM",
+        "Homepage": "https://joygospelradiogroup.webradiosite.com/",
+        "Source1": "https://servidor17.brlogic.com:7012/live"
+    },
+    {
+        "Title": "Jozi FM",
+        "Country": "SouthAfrica",
+        "Tags": "regional radio",
+        "Language": "en",
+        "Homepage": "https://www.jozifm.co.za/",
+        "Source1": "https://edge.iono.fm/xice/51_medium.aac"
+    },
+    {
+        "Title": "Jozi FM (HiFi aac)",
+        "Country": "SouthAfrica",
+        "Language": "en",
+        "Homepage": "https://www.jozifm.co.za/",
+        "Latitude": -26.237540061743104,
+        "Longitude": 27.8948986530304,
+        "Source1": "https://edge.iono.fm/xice/51_high.aac"
+    },
+    {
+        "Title": "Kakarela FM",
+        "Country": "SouthAfrica",
+        "Tags": "news talk music",
+        "Homepage": "https://kakarelafm.websites.co.in/",
+        "Latitude": -25.28490363007804,
+        "Longitude": 28.98346003707758,
+        "Source1": "https://stream.zeno.fm/845opvifkhytv"
+    },
+    {
+        "Title": "KASIE FM",
+        "Country": "SouthAfrica",
+        "Favicon": "https://kasiefm971.co.za/wp-content/uploads/2023/12/cropped-IMG-20210512-WA0010-1_auto_x2-1.jpg",
+        "Homepage": "https://kasiefm971.co.za/",
+        "Source1": "https://s44.myradiostream.com/9128/listen.mp3"
+    },
+    {
+        "Title": "Kaya FM",
+        "Country": "SouthAfrica",
+        "Tags": "adult contemporary,regional radio,talk",
+        "Language": "en",
+        "Homepage": "https://www.kayafm.co.za/",
+        "Source1": "https://edge.iono.fm/xice/82_medium.aac"
+    },
+    {
+        "Title": "KAYA FM 95.9",
+        "Country": "SouthAfrica",
+        "Tags": "african,alternative,pop",
+        "Favicon": "https://cdn-profiles.tunein.com/s6401/images/logog.png",
+        "Homepage": "https://www.kaya959.co.za/",
+        "Source1": "http://edge.iono.fm/xhls/82_high.m3u8"
+    },
+    {
+        "Title": "KFM 94.5",
+        "Country": "SouthAfrica",
+        "Tags": "pop,rock",
+        "Language": "en",
+        "Homepage": "http://www.kfm.co.za/",
+        "Latitude": -33.927294739093114,
+        "Longitude": 18.42520299228287,
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/KFM.mp3"
+    },
+    {
+        "Title": "KM RADIO",
+        "Country": "SouthAfrica",
+        "Favicon": "https://kmradio.net/wp-content/uploads/2021/08/KMLOGOMOVIL-1.png.webp",
+        "Homepage": "https://kmradio.net/",
+        "Source1": "https://centova.hostingelectrica.net/proxy/kmradio?mp=/stream&1704296313782"
+    },
+    {
+        "Title": "Kudu FM",
+        "Country": "SouthAfrica",
+        "Tags": "afrikaans,music",
+        "Favicon": "https://kudu.fm/images/kudu-og-square.jpg",
+        "Language": "af,afr",
+        "Region": "ZA-WC",
+        "Homepage": "https://kudu.fm/",
+        "Latitude": -33.583,
+        "Longitude": 22.2,
+        "Source1": "https://kudu.fm/hls/radio.m3u8"
+    },
+    {
+        "Title": "Lekker FM",
+        "Country": "SouthAfrica",
+        "Tags": "local,top 40",
+        "Favicon": "https://www.lekkerfm.com/favicon.ico",
+        "Language": "af",
+        "Homepage": "https://www.lekkerfm.com/",
+        "Source1": "https://zas3.ndx.co.za:8002/stream"
+    },
+    {
+        "Title": "Lekoa fm",
+        "Country": "SouthAfrica",
+        "Favicon": "https://lekoafm.co.za/wp-content/uploads/2020/10/TRANSPERENT-LOGO-1-400x300.png",
+        "Homepage": "https://lekoafm.co.za/",
+        "Source1": "https://zas1-2-3-6.ndx.co.za/stream/lekoafm?1743647827740"
+    },
+    {
+        "Title": "Lesedi",
+        "Country": "SouthAfrica",
+        "Favicon": "http://www.lesedifm.co.za/sabc/wcm/connect/1c966b4c-f8cb-4b55-a426-9b607a8fa32e/index.jpg?MOD=AJPERES&CACHEID=1c966b4c-f8cb-4b55-a426-9b607a8fa32e&cache=none",
+        "Homepage": "http://www.lesedifm.co.za/sabc/home/lesedifm",
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/LESEDIAAC_SC"
+    },
+    {
+        "Title": "Lifted Radio",
+        "Country": "SouthAfrica",
+        "Favicon": "https://liftedradio.com/lifted-logo.png",
+        "Homepage": "https://liftedradio.com/",
+        "Latitude": -29.912090918781477,
+        "Longitude": 25.839843750000004,
+        "Source1": "https://stream.zeno.fm/dfetfazcwxjtv"
+    },
+    {
+        "Title": "Link FM (RSA-EC)",
+        "Country": "SouthAfrica",
+        "Tags": "christianity,gospel music,local news,weather",
+        "Language": "en,xh",
+        "Homepage": "https://linkfm.co.za/",
+        "Latitude": -32.983180097170404,
+        "Longitude": 27.965698242187504,
+        "Source1": "https://de2.streamingpulse.com/ssl/LinkFM"
+    },
+    {
+        "Title": "Link FM EC",
+        "Country": "SouthAfrica",
+        "Homepage": "https://linkfm.co.za/",
+        "Source1": "https://de2.streamingpulse.com/ssl/LinkFM"
+    },
+    {
+        "Title": "Live Maluti Radio",
+        "Country": "SouthAfrica",
+        "Favicon": "https://Maluti Live Radio.com",
+        "Homepage": "https://malutiliveradio.com/",
+        "Source1": "https://livemalutiradio.ismyradio.com/"
+    },
+    {
+        "Title": "LM Radio",
+        "Country": "SouthAfrica",
+        "Favicon": "https://lmradio.co.za/wp-content/uploads/2024/03/LM-Radio-Light-Version.png",
+        "Homepage": "https://lmradio.co.za/",
+        "Source1": "https://ukwesta.streaming.broadcast.radio/lmradio"
+    },
+    {
+        "Title": "LM Radio 87.8FM Komatipoort South Africa#",
+        "Country": "SouthAfrica",
+        "Homepage": "https://lmradio.co.za/",
+        "Source1": "http://cast.fabrik.fm:8008/"
+    },
+    {
+        "Title": "LM Radio South Africa",
+        "Country": "SouthAfrica",
+        "Homepage": "https://www.radio-south-africa.co.za/lm-radio",
+        "Source1": "http://cast.fabrik.fm:8008/"
+    },
+    {
+        "Title": "Loca FM",
+        "Country": "SouthAfrica",
+        "Favicon": "http://www.locafm.com/assets/img/favicon/android-icon-192x192.png",
+        "Homepage": "http://www.locafm.com/",
+        "Source1": "https://s3.we4stream.com:2020/stream/locafm"
+    },
+    {
+        "Title": "Luister FM",
+        "Country": "SouthAfrica",
+        "Favicon": "http://www.luisterfm.co.za/logo.jpg",
+        "Homepage": "http://www.luisterfm.co.za/",
+        "Source1": "http://stream2.luisterfm.co.za:8000/LuisterFM"
+    },
+    {
+        "Title": "Magic 828",
+        "Country": "SouthAfrica",
+        "Homepage": "https://magic828.co.za/",
+        "Source1": "https://streaming.fabrik.fm/magic828/echocast/audio/high/index.m3u8",
+        "Source2": "https://streaming.fabrik.fm/magic828/echocast/audio/low/index.m3u8",
+        "Source3": "http://cast.fabrik.fm:8106/",
+        "Source4": "https://streaming.fabrik.fm/magic828/echocast/audio/high/index.m3u8?"
+    },
+    {
+        "Title": "Maluti FM",
+        "Country": "SouthAfrica",
+        "Favicon": "https://streammedia.org.za/Streams/malutifm/listenlive/Artwork.jpg",
+        "Homepage": "https://malutifm.co.za/",
+        "Source1": "https://cast3.my-control-panel.com/proxy/malutifm/stream"
+    },
+    {
+        "Title": "Marley Music Radio",
+        "Country": "SouthAfrica",
+        "Homepage": "https://www.marleymusic.fm/",
+        "Source1": "https://marleymusic.online/listen/marleymusic/radio.mp3"
+    },
+    {
+        "Title": "MC 90.3 FM",
+        "Country": "SouthAfrica",
+        "Homepage": "https://www.plettfm.co.za/",
+        "Source1": "http://zas4.ndx.co.za:9066/stream"
+    },
+    {
+        "Title": "mc90.3fm",
+        "Country": "SouthAfrica",
+        "Favicon": "https://www.knysnafm.co.za/assets/site-images/wavelogo.jpg",
+        "Homepage": "https://www.knysnafm.co.za/",
+        "Source1": "https://zas4.ndx.co.za:9066/stream"
+    },
+    {
+        "Title": "Mdantsane FM 89.5  S'guqul'ubom",
+        "Country": "SouthAfrica",
+        "Favicon": "https://mdantsanefm895.co.za/images/soundcloud-image-1.jpg?crc=4123017129",
+        "Homepage": "https://mdantsanefm895.co.za/",
+        "Source1": "https://mdantsanefm.radioca.st:2199/tunein/mdantsanefm-stream.pls"
+    },
+    {
+        "Title": "Megazone Bollywood",
+        "Country": "SouthAfrica",
+        "Tags": "bollywood",
+        "Language": "en",
+        "Homepage": "https://app.megazone.fm/",
+        "Latitude": -29.093377063767363,
+        "Longitude": 24.4775390625,
+        "Source1": "https://vm65162.streamerr.co/listen/megazone_bollywood_/radio.mp3"
+    },
+    {
+        "Title": "Megazone South",
+        "Country": "SouthAfrica",
+        "Homepage": "https://app.megazone.fm/",
+        "Latitude": -29.723837146389062,
+        "Longitude": 23.994140625000004,
+        "Source1": "https://vm65162.streamerr.co/listen/megazone_south/radio.mp3"
+    },
+    {
+        "Title": "Melkies Radio",
+        "Country": "SouthAfrica",
+        "Favicon": "https://radio2.eclipse-streaming.co.za/api/station/melkies/art/743dfd89be4058a65b368cdd",
+        "Homepage": "https://radio2.eclipse-streaming.co.za/public/melkies",
+        "Source1": "https://radio2.eclipse-streaming.co.za/public/melkies/playlist.pls"
+    },
+    {
+        "Title": "MERAFONG 360 ONLINE RADIO",
+        "Country": "SouthAfrica",
+        "Favicon": "https://eu2.contabostorage.com/b94f201d35554c5283f96247e0e97a2c:famcast-storage/ThaboM/merafong-360-online-radio.webp",
+        "Homepage": "https://famcast.co.za/q/stations/merafong-360-online-radio/#",
+        "Source1": "https://sv2.famcast.co.za/stream/merafong?t=1769529345666"
+    },
+    {
+        "Title": "Metro FM",
+        "Country": "SouthAfrica",
+        "Homepage": "https://www.metrofm.co.za/metro-fm/",
+        "Source1": "https://omny.fm/shows/askaman/self-care-8-sep",
+        "Source2": "https://playerservices.streamtheworld.com/api/livestream-redirect/METROFMAAC.aac"
+    },
+    {
+        "Title": "Metro Fm",
+        "Country": "SouthAfrica",
+        "Homepage": "https://www.metrofm.co.za/",
+        "Source1": "https://www.metrofm.co.za/metro-fm/listen-live"
+    },
+    {
+        "Title": "metro fm south Africa",
+        "Country": "SouthAfrica",
+        "Favicon": "null",
+        "Homepage": "https://25283.live.streamtheworld.com/METROFMAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15&sbmid=541b37d8-153e-41d8-85b9-35e10d314d8c",
+        "Source1": "https://25283.live.streamtheworld.com/METROFMAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15&sbmid=541b37d8-153e-41d8-85b9-35e10d314d8c"
+    },
+    {
+        "Title": "MFM",
+        "Country": "SouthAfrica",
+        "Tags": "maties",
+        "Language": "af,en",
+        "Homepage": "https://mfm.co.za/",
+        "Latitude": -33.932990192175836,
+        "Longitude": 18.865408301353455,
+        "Source1": "https://edge.iono.fm/xice/46_medium.aac"
+    },
+    {
+        "Title": "Mirchi FM",
+        "Country": "SouthAfrica",
+        "Homepage": "https://app.megazone.fm/",
+        "Latitude": -30.786677249436945,
+        "Longitude": 23.994140625000004,
+        "Source1": "https://vm65162.streamerr.co/listen/mirchi/radio.mp3"
+    },
+    {
+        "Title": "Mix 93.8 FM",
+        "Country": "SouthAfrica",
+        "Tags": "adult contemporary,easy listening,edm",
+        "Language": "en",
+        "Homepage": "http://mixfm.co.za/",
+        "Source1": "https://edge.iono.fm/xice/113_medium.aac"
+    },
+    {
+        "Title": "More Bounce to the Ounce",
+        "Country": "SouthAfrica",
+        "Favicon": "https://www.morebouncetotheounce.com/images/Ubuntu.FM.MoBounce.logo.webp",
+        "Homepage": "https://www.morebouncetotheounce.com/",
+        "Source1": "https://streaming.coollective.nl:8443/MoBounce"
+    },
+    {
+        "Title": "Munghana Lonene",
+        "Country": "SouthAfrica",
+        "Favicon": "https://www.munghanalonenefm.co.za/munghanalonenefm/wp-content/uploads/2025/03/cropped-MLFM-32x32.png",
+        "Homepage": "https://www.munghanalonenefm.co.za/munghanalonenefm/",
+        "Source1": "https://27743.live.streamtheworld.com/MUNGANALONENEAAC_SC"
+    },
+    {
+        "Title": "Mzansi FM",
+        "Country": "SouthAfrica",
+        "Homepage": "https://www.mzansifm.africa/",
+        "Latitude": -26.204580248661394,
+        "Longitude": 28.045547063140067,
+        "Source1": "https://a7.asurahosting.com:6850/radio.mp3"
+    },
+    {
+        "Title": "Mzansi FM",
+        "Country": "SouthAfrica",
+        "Homepage": "https://hillbrowradio24-7.co.za/",
+        "Source1": "https://a7.asurahosting.com/listen/mzansi_fm/radio.mp3"
+    },
+    {
+        "Title": "NCDOH Radio The Healthy Sound from Northern Cape Department of Health",
+        "Country": "SouthAfrica",
+        "Favicon": "https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2F1MxoTXLPS4WyYKNdvKzDnchNj4leGge4Jr8Uh7_TkKs%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zLzVkYjYxZjEyLTUxYjktNDJkNC1iMzY2LWQ5NzY0YmZhODVkZS9pbWFnZS8_dXBkYXRlZD0xNjY2NzAxMTQzMDAw.webp&w=1920&q=100",
+        "Language": "en",
+        "Homepage": "https://zeno.fm/radio/ncdoh-radio-the-healthy-sound/",
+        "Source1": "https://stream-154.zeno.fm/grjnbwcxbneuv"
+    },
+    {
+        "Title": "OFM 94 & 97 FM Bloemfontein",
+        "Country": "SouthAfrica",
+        "Tags": "bloemfontein,commercial,local news,news,pop",
+        "Language": "en",
+        "Homepage": "http://ofm.co.za/",
+        "Source1": "http://edge.iono.fm/xice/ofm_live_medium.aac"
+    },
+    {
+        "Title": "osmarks internet radio",
+        "Country": "SouthAfrica",
+        "Homepage": "https://radio.osmarks.net/",
+        "Source1": "https://radio-ic.osmarks.net/128k.ogg"
+    },
+    {
+        "Title": "Pan African Space Station",
+        "Country": "SouthAfrica",
+        "Homepage": "https://panafricanspacestation.org.za/",
+        "Source1": "https://pass.out.airtime.pro/pass_a"
+    },
+    {
+        "Title": "Pep Feel good fm",
+        "Country": "SouthAfrica",
+        "Tags": "international",
+        "Homepage": "https://pepstores.com/",
+        "Source1": "https://edge.iono.fm/xice/feelgood_live_high.aac"
+    },
+    {
+        "Title": "Perron FM",
+        "Country": "SouthAfrica",
+        "Tags": "pop",
+        "Homepage": "https://perronfm.co.za/radio/",
+        "Source1": "https://zas7.ndx.co.za:8044/stream?1694973588521"
+    },
+    {
+        "Title": "Phalaphala FM",
+        "Country": "SouthAfrica",
+        "Favicon": "http://listen.phalaphalafm.co.za/listenphalaphalafm/images/favicon.ico",
+        "Homepage": "https://www.phalaphalafm.co.za/phalaphalafm/",
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/PHALAPHALAAAC.aac"
+    },
+    {
+        "Title": "Pitch Radio",
+        "Country": "SouthAfrica",
+        "Favicon": "http://www.pitchradio.co.za/wp-content/plugins/radio-player/assets/images/placeholder.png",
+        "Homepage": "http://www.pitchradio.co.za/",
+        "Source1": "http://stream.zeno.fm/etw8vx9knm0uv"
+    },
+    {
+        "Title": "Plaas Radio - Rad's Vibes",
+        "Country": "SouthAfrica",
+        "Favicon": "https://eclipse-radio.eclipse-streaming.co.za/static/uploads/browser_icon/180.1708559464.png",
+        "Homepage": "https://eclipse-radio.eclipse-streaming.co.za/public/plaas_radio",
+        "Source1": "https://eclipse-radio.eclipse-streaming.co.za/public/plaas_radio/playlist.pls"
+    },
+    {
+        "Title": "Power 98.7",
+        "Country": "SouthAfrica",
+        "Tags": "news,news talk,talk",
+        "Language": "en",
+        "Homepage": "http://www.powerfm.co.za/",
+        "Latitude": -26.154979569323213,
+        "Longitude": 28.058052062988285,
+        "Source1": "https://edge.iono.fm/xice/65_medium.aac"
+    },
+    {
+        "Title": "Pretoria FM",
+        "Country": "SouthAfrica",
+        "Favicon": "https://www.pretoriafm.co.za/wp-content/uploads/2024/09/favicon-150x150.png",
+        "Language": "af",
+        "Homepage": "https://www.pretoriafm.co.za/",
+        "Latitude": -25.753250383384103,
+        "Longitude": 28.222889900207523,
+        "Source1": "https://edge.iono.fm/xice/362_medium.aac?ref=https%3A%2F%2Fwww.pretoriafm.co.za%2F"
+    },
+    {
+        "Title": "Radiio",
+        "Country": "SouthAfrica",
+        "Tags": "ai dj,blu radiio,cape town,club,dance,deep house,dj,downtempo,drum and bass,dubstep,electronic,house,melodic techno,progressive house,south africa,tech house,techno,underground",
+        "Language": "eng",
+        "Homepage": "https://radiio.link/",
+        "Latitude": -34.0489,
+        "Longitude": 18.3487,
+        "Source1": "https://app.radiio.link/stream.mp3"
+    },
+    {
+        "Title": "Radio  Daspoort",
+        "Country": "SouthAfrica",
+        "Tags": "pop rock",
+        "Homepage": "https://c44.radioboss.fm:8174/stream",
+        "Source1": "https://c44.radioboss.fm:8174/stream"
+    },
+    {
+        "Title": "Radio 786",
+        "Country": "SouthAfrica",
+        "Favicon": "https://www.radio786.co.za/wp-content/uploads/elementor/thumbs/cropped-Generic-Testimonial-Logo-1-p7nb9imeuwv5um6i4f7lxsmk46glopvtscb6k2g7k4.png",
+        "Homepage": "https://www.radio786.co.za/",
+        "Source1": "https://stream.krypton.co.za/proxy/radio786?mp=/stream",
+        "Source2": "http://stream.krypton.co.za:8040/stream/",
+        "Source3": "https://stream.krypton.co.za:8052/index.html?sid=1"
+    },
+    {
+        "Title": "Radio Atlantis 107.9FM",
+        "Country": "SouthAfrica",
+        "Favicon": "https://www.radioatlantis.org.za/wp-content/uploads/2023/12/RAFM-Logo.png",
+        "Homepage": "https://www.radioatlantis.org.za/",
+        "Source1": "https://edge.iono.fm/xice/127_medium.aac?ref=https%3A%2F%2Fwww.radioatlantis.org.za%2F&adToken="
+    },
+    {
+        "Title": "Radio Bloem",
+        "Country": "SouthAfrica",
+        "Favicon": "https://vibe.filesafe.space/1785349684933469813/attachments/7cbea602-28e9-4125-bc60-9bb8e3e1d80e.jpg",
+        "Homepage": "https://radiobloem.co.za/#/",
+        "Source1": "https://stream.zeno.fm/9fg1eqywrf9uv"
+    },
+    {
+        "Title": "Radio Daspoort",
+        "Country": "SouthAfrica",
+        "Tags": "contemporary pop rock",
+        "Homepage": "https://c2.radioboss.fm:9202/stream",
+        "Source1": "https://c2.radioboss.fm:9202/stream"
+    },
+    {
+        "Title": "Radio Daspoort",
+        "Country": "SouthAfrica",
+        "Tags": "afrikaans",
+        "Homepage": "https://c40.radioboss.fm:8268/stream",
+        "Source1": "https://c40.radioboss.fm:8268/stream"
+    },
+    {
+        "Title": "Radio Daspoort",
+        "Country": "SouthAfrica",
+        "Tags": "pop music",
+        "Homepage": "https://c44.radioboss.fm:8174/stream",
+        "Source1": "https://c44.radioboss.fm:8174/stream"
+    },
+    {
+        "Title": "Radio Free Tankwa",
+        "Country": "SouthAfrica",
+        "Tags": "afrikaburn",
+        "Favicon": "https://www.radiofreetankwa.com/uploads/8/5/8/1/8581569/published/screenshot-2019-12-27-at-13-00-14.png?1577451635",
+        "Language": "en",
+        "Homepage": "https://www.radiofreetankwa.com/",
+        "Latitude": -32.51022500146542,
+        "Longitude": 19.915466308593754,
+        "Source1": "https://samcloud.spacial.com/api/listen?sid=69819&m=sc&rid=155682"
+    },
+    {
+        "Title": "Radio Fynbos - Stilbaai",
+        "Country": "SouthAfrica",
+        "Homepage": "https://radiofynbos.co.za/program/#start",
+        "Source1": "https://stream-152.zeno.fm/w0cyqt4cyy8uv?zs=KrkViuxOTr6gZl4perU1jA"
+    },
+    {
+        "Title": "Radio Hallelujah",
+        "Country": "SouthAfrica",
+        "Language": "en",
+        "Homepage": "https://app.megazone.fm/",
+        "Latitude": -28.68576880228709,
+        "Longitude": 24.082031250000004,
+        "Source1": "https://vm65162.streamerr.co/listen/radio_hallelujah_/radio.mp3"
+    },
+    {
+        "Title": "Radio Laeveld",
+        "Country": "SouthAfrica",
+        "Favicon": "http://www.radiolaeveld.co.za/wp-content/uploads/2018/01/100.5-Fm-Logo-Final.-png-179-KB-1.png",
+        "Homepage": "http://www.radiolaeveld.co.za/",
+        "Source1": "https://zas2.ndx.co.za:8046/stream"
+    },
+    {
+        "Title": "RADIO NAMAKWALAND",
+        "Country": "SouthAfrica",
+        "Homepage": "https://www.934fm.co.za/",
+        "Source1": "https://zas3.ndx.co.za:8034/stream"
+    },
+    {
+        "Title": "Radio Namaste",
+        "Country": "SouthAfrica",
+        "Homepage": "https://app.megazone.fm/",
+        "Latitude": -29.16115590208764,
+        "Longitude": 24.060058593750004,
+        "Source1": "https://vm65162.streamerr.co/listen/radio_namaste/radio.mp3"
+    },
+    {
+        "Title": "Radio Orania",
+        "Country": "SouthAfrica",
+        "Tags": "music",
+        "Homepage": "https://radioorania.co.za/",
+        "Source1": "https://stream.radio.co/s7adaa782c/listen"
+    },
+    {
+        "Title": "Radio Pulpit",
+        "Country": "SouthAfrica",
+        "Favicon": "https://www.radiopulpit.co.za/wp-content/uploads/2020/10/cropped-10-180x180.png",
+        "Homepage": "https://www.radiopulpit.co.za/",
+        "Source1": "https://edge.iono.fm/xice/189_medium.aac?ref=https%3A%2F%2Fwww.radiopulpit.co.za%2F&adToken="
+    },
+    {
+        "Title": "Radio Rosestad 100.6 FM",
+        "Country": "SouthAfrica",
+        "Tags": "afrikaans,bloemfontein,freestate,south africa",
+        "Favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241025_101050271.jpg?alt=media&token=0b01b450-1b02-4cb1-b3e3-096377ca4a01",
+        "Language": "af",
+        "Homepage": "https://rosestad.co.za/",
+        "Source1": "https://edge.iono.fm/xice/122_medium.aac"
+    },
+    {
+        "Title": "Radio Saranghae",
+        "Country": "SouthAfrica",
+        "Language": "en",
+        "Homepage": "https://app.megazone.fm/",
+        "Latitude": -29.723837146389062,
+        "Longitude": 25.751953125000004,
+        "Source1": "https://vm65162.streamerr.co/listen/radiosaranghae/radio.mp3"
+    },
+    {
+        "Title": "Radio Sonder Grense",
+        "Country": "SouthAfrica",
+        "Favicon": "https://static.wikia.nocookie.net/logopedia/images/8/8d/Radio_Sonder_Grense_logo.png/revision/latest?cb=20171102212609",
+        "Homepage": "https://www.rsg.co.za/rsg/",
+        "Source1": "http://25583.live.streamtheworld.com/RSGAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15&sbmid=9395327b-94a6-4c64-fe05-7f9179443574"
+    },
+    {
+        "Title": "Radio Teemaneng",
+        "Country": "SouthAfrica",
+        "Favicon": "https://rtsfm.co.za/images/LISTENLIVE.png",
+        "Homepage": "https://rtsfm.co.za/",
+        "Source1": "http://zas2.ndx.co.za:8006/stream?1743646346531"
+    },
+    {
+        "Title": "Radio Today",
+        "Country": "SouthAfrica",
+        "Favicon": "https://rt1485.com/wp-content/uploads/2020/06/RTH-Logo01-W.png",
+        "Homepage": "https://rt1485.com/",
+        "Source1": "https://rt1485.out.airtime.pro/rt1485_b"
+    },
+    {
+        "Title": "Radio Turf",
+        "Country": "SouthAfrica",
+        "Favicon": "https://radio-player.eclipse-streaming.co.za/radioturf/img/radioturf_logo.jpeg",
+        "Homepage": "https://radio-player.eclipse-streaming.co.za/radioturf/radioturf_player.html",
+        "Source1": "https://iceant.eclipse-streaming.co.za/radio-turf.mp3"
+    },
+    {
+        "Title": "Radio Veritas",
+        "Country": "SouthAfrica",
+        "Favicon": "https://radioveritas.co.za/wp-content/uploads/2021/10/Logo2024.webp",
+        "Homepage": "https://radioveritas.co.za/",
+        "Source1": "https://zas5.ndx.co.za:9618/stream?1722433923032"
+    },
+    {
+        "Title": "Radio Veritas",
+        "Country": "SouthAfrica",
+        "Homepage": "https://radioveritas.co.za/index.php",
+        "Source1": "https://zas5.ndx.co.za:9618/stream?1702476652972"
+    },
+    {
+        "Title": "Radio Vilakku",
+        "Country": "SouthAfrica",
+        "Homepage": "https://app.megazone.fm/",
+        "Latitude": -30.332583312405575,
+        "Longitude": 25.224609375000004,
+        "Source1": "https://vm65162.streamerr.co/listen/radio_vilakku/radio.mp3"
+    },
+    {
+        "Title": "Radio Yaadien",
+        "Country": "SouthAfrica",
+        "Homepage": "https://app.megazone.fm/",
+        "Latitude": -30.786677249436945,
+        "Longitude": 24.697265625000004,
+        "Source1": "https://vm65162.streamerr.co/listen/radioyaadein/radio.mp3"
+    },
+    {
+        "Title": "RadioCross",
+        "Country": "SouthAfrica",
+        "Homepage": "https://radiocross.org/",
+        "Source1": "https://gospelblues365.com/listen/radiocross/radiocross.mp3"
+    },
+    {
+        "Title": "Rainbow FM",
+        "Country": "SouthAfrica",
+        "Tags": "gospel",
+        "Favicon": "https://rainbowfm.co.za/wp-content/uploads/2024/08/cropped-rainbowfmicon-180x180.png",
+        "Homepage": "https://rainbowfm.co.za/",
+        "Source1": "https://edge.iono.fm/xice/237_low.aac"
+    },
+    {
+        "Title": "Rainbow Gospel Radio",
+        "Country": "SouthAfrica",
+        "Favicon": "https://rainbowgr.com/wp-content/uploads/2023/04/cropped-Rainbow-Gospel-Radio-A-elongated.png",
+        "Homepage": "https://rainbowgr.com/",
+        "Source1": "http://102.130.114.184:8000/Stream/1"
+    },
+    {
+        "Title": "Ramkat Radio Kaapstad",
+        "Country": "SouthAfrica",
+        "Language": "af",
+        "Homepage": "https://ramkatradio.co.za/",
+        "Latitude": -33.928410186166914,
+        "Longitude": 18.41840744018555,
+        "Source1": "https://uslradio.net:8008/stream"
+    },
+    {
+        "Title": "RISE FM",
+        "Country": "SouthAfrica",
+        "Favicon": "https://risefm.co.za/wp-content/uploads/2023/10/Rise-FM-752x1024.png",
+        "Homepage": "https://risefm.co.za/",
+        "Source1": "https://edge.iono.fm/xice/73_medium.aac?ref=https%3A%2F%2Frisefm.co.za%2F&adToken="
+    },
+    {
+        "Title": "Rocka FM",
+        "Country": "SouthAfrica",
+        "Favicon": "https://www.rockafm.co.za/wp-content/uploads/2025/02/2022-Rocka-FM-Logo.png",
+        "Homepage": "https://www.rockafm.co.za/",
+        "Source1": "https://live.urbanza.co.za/listen/roccafm/rockafm"
+    },
+    {
+        "Title": "Rockbox! Radio",
+        "Country": "SouthAfrica",
+        "Favicon": "https://9300.co.za/rockboxalbum.png",
+        "Homepage": "https://9300.co.za/",
+        "Source1": "https://radio.9300.co.za/listen/rockbox-radio/radio.mp3"
+    },
+    {
+        "Title": "SAFFA OnAir World Radio",
+        "Country": "SouthAfrica",
+        "Tags": "misc",
+        "Favicon": "https://drive.google.com/file/d/1jcqay-UPk4x7UCU0tYSetTVZ7N8Hq0ec/view?usp=sharing",
+        "Homepage": "http://stream.zeno.fm/k8cqvwu2za0uv",
+        "Source1": "http://stream.zeno.fm/k8cqvwu2za0uv"
+    },
+    {
+        "Title": "Salaam Media",
+        "Country": "SouthAfrica",
+        "Language": "en",
+        "Homepage": "http://salaamedia.com/",
+        "Source1": "http://capeant.antfarm.co.za:1935/salaam/salaam.stream/chunklist_w1196116988.m3u8"
+    },
+    {
+        "Title": "salaammedia",
+        "Country": "SouthAfrica",
+        "Tags": "humanitarian,islam,islamic,journalism",
+        "Language": "en",
+        "Homepage": "https://salaamedia.com/",
+        "Latitude": -26.246336636161608,
+        "Longitude": 28.007149100303653,
+        "Source1": "https://iceant.antfarm.co.za/Salaam"
+    },
+    {
+        "Title": "SekhukhuneFM",
+        "Country": "SouthAfrica",
+        "Homepage": "https://www.skfm.co.za/",
+        "Latitude": -24.76079890723321,
+        "Longitude": 29.874572753906257,
+        "Source1": "https://edge.iono.fm/xice/301_low.aac"
+    },
+    {
+        "Title": "SFM Streek Radio",
+        "Country": "SouthAfrica",
+        "Favicon": "https://static.wixstatic.com/media/05ae2c_5858aa3f8e6c4d719e147b042f03b0ca%7emv2.png/v1/fill/w_180%2ch_180%2clg_1%2cusm_0.66_1.00_0.01/05ae2c_5858aa3f8e6c4d719e147b042f03b0ca%7emv2.png",
+        "Language": "af",
+        "Homepage": "https://www.sfmstreek.com/",
+        "Latitude": -34.152691465772904,
+        "Longitude": 22.097625732421875,
+        "Source1": "http://capeant.antfarm.co.za:8000/SFM"
+    },
+    {
+        "Title": "Simply Making Success Radio",
+        "Country": "SouthAfrica",
+        "Tags": "amapiano,hip-hop,house,r&b,soul",
+        "Homepage": "https://www.smsradio.co.za/",
+        "Source1": "https://stream.zeno.fm/ylvoyhv6tbntv"
+    },
+    {
+        "Title": "Smile 90.4 FM",
+        "Country": "SouthAfrica",
+        "Language": "af,en",
+        "Homepage": "https://smile904.fm/",
+        "Source1": "https://edge.iono.fm/xice/212_medium.aac"
+    },
+    {
+        "Title": "Southside Stereo",
+        "Country": "SouthAfrica",
+        "Tags": "afrobeats,amapiano,hip hop,johannesburg,kwaito,rnb,south africa",
+        "Favicon": "https://southsidestereo.co.za/favicon.ico",
+        "Language": "en",
+        "Homepage": "https://southsidestereo.co.za/",
+        "Source1": "https://radio.southsidestereo.co.za/listen/southsidestereo/radio.mp3"
+    },
+    {
+        "Title": "Springbok Radio",
+        "Country": "SouthAfrica",
+        "Favicon": "https://springbokradio.org.za/image/catalog/logo3.jpg",
+        "Homepage": "https://springbokradio.org.za/index.php?route=common/home",
+        "Source1": "https://springbokradio.xyz:8443/main"
+    },
+    {
+        "Title": "StarFM",
+        "Country": "SouthAfrica",
+        "Tags": "amapiano,hip hop,house,pop,rnb,rock",
+        "Favicon": "https://star919fm.co.za/storage/2022/08/cropped-StarFm_Logo-2048x1453-1-192x192.png",
+        "Language": "en",
+        "Homepage": "https://star919fm.co.za/",
+        "Source1": "https://edge.iono.fm/xice/112_medium.aac"
+    },
+    {
+        "Title": "Stefan Botha",
+        "Country": "SouthAfrica",
+        "Homepage": "https://c42.radioboss.fm:8073/stream",
+        "Source1": "https://c42.radioboss.fm:8073/stream"
+    },
+    {
+        "Title": "Talk Radio 702",
+        "Country": "SouthAfrica",
+        "Favicon": "https://www.primediaplus.com/images/logos/logo-702.png",
+        "Homepage": "https://www.primediaplus.com/station/702/",
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/FM702_192AAC.aac"
+    },
+    {
+        "Title": "TAMBO FM",
+        "Country": "SouthAfrica",
+        "Favicon": "https://tambofm.co.za/wp-content/uploads/2023/07/Untitled-3545rrrrr3.jpg",
+        "Homepage": "https://tambofm.co.za/",
+        "Source1": "https://listen.radioking.com/radio/326599/stream/374668?fbclid=IwAR3lWR7ZdVVmZBSBedW_Cv1xF_Q7KzGmUQ0stgVCc_A7kx8Cf3Ncek1ntxk"
+    },
+    {
+        "Title": "The Grind Radio",
+        "Country": "SouthAfrica",
+        "Favicon": "https://www.thegrindradio.co.za/wp-content/uploads/2022/10/G-1.png",
+        "Homepage": "https://www.thegrindradio.co.za/",
+        "Source1": "https://radio.eclipse-streaming.co.za/listen/thegrindradio/radio.mp3"
+    },
+    {
+        "Title": "The Grind Radio",
+        "Country": "SouthAfrica",
+        "Favicon": "https://radio.eclipse-streaming.co.za/static/uploads/browser_icon/180.1708559464.png",
+        "Homepage": "https://radio.eclipse-streaming.co.za/public/thegrindradio",
+        "Source1": "https://radio.eclipse-streaming.co.za/public/thegrindradio/playlist.pls"
+    },
+    {
+        "Title": "The Voice of the Cape",
+        "Country": "SouthAfrica",
+        "Tags": "islamic",
+        "Favicon": "https://vocfm.co.za/wp-content/uploads/2020/06/Logo_2022_VOC_D03-1-1.png",
+        "Language": "en",
+        "Homepage": "https://vocfm.co.za/",
+        "Source1": "https://streaming.fabrik.fm/voc/echocast/audio/low/index.m3u8?session_id=8wKfTQs6bLWBkbu&device_id=EPTf1JHg"
+    },
+    {
+        "Title": "theradio.fm",
+        "Country": "SouthAfrica",
+        "Tags": "blues,country,disco,edm,electronic,pop,rock",
+        "Favicon": "https://musiclovequest.pages.dev/img/social.png",
+        "Homepage": "https://theradio.fm/",
+        "Latitude": -26.15543796871355,
+        "Longitude": 27.641601562500004,
+        "Source1": "https://servidor36-2.brlogic.com:7064/live"
+    },
+    {
+        "Title": "ThobelaFM",
+        "Country": "SouthAfrica",
+        "Favicon": "http://www.thobelafm.co.za/sabc/contenthandler/!ut/p/digest!os-IGfRHDAke8Lr8sjz6Wg/war/CustomTheme8Static/themes/Portal8.0/pivot/thobelafm/images/website-header-main-logo.png",
+        "Homepage": "http://www.thobelafm.co.za/sabc/home/thobelafm",
+        "Latitude": -23.8704547763316,
+        "Longitude": 29.432373046875004,
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/THOBELAAAC.aac"
+    },
+    {
+        "Title": "TransWorldRadio Music",
+        "Country": "SouthAfrica",
+        "Favicon": "https://radio.eclipse-streaming.co.za/static/uploads/the_better_dot_fm/album_art.1708590513.jpg",
+        "Homepage": "https://eclipse-radio.eclipse-streaming.co.za/public/the_better_dot_fm",
+        "Source1": "https://radio.eclipse-streaming.co.za/listen/the_better_dot_fm/radio.mp3"
+    },
+    {
+        "Title": "Tuks FM",
+        "Country": "SouthAfrica",
+        "Tags": "alternative,rock",
+        "Language": "en",
+        "Homepage": "http://www.tuksfm.co.za/",
+        "Source1": "http://edge.iono.fm/xice/tuksfm_live_medium.aac"
+    },
+    {
+        "Title": "TUKS FM 107.2",
+        "Country": "SouthAfrica",
+        "Favicon": "https://www.tuksfm.co.za/wp-content/uploads/2025/04/702.png",
+        "Homepage": "https://www.tuksfm.co.za/",
+        "Source1": "https://edge.iono.fm/xice/tuksfm_live_medium.aac?ref=https%3A%2F%2Fwww.tuksfm.co.za%2Fon-air%2Flisten-live%2F&adToken=&pofToken="
+    },
+    {
+        "Title": "UbuntuFM",
+        "Country": "SouthAfrica",
+        "Tags": "afropop,afrosoul,dancehall,folk,funk,hiphop,jazz,kwaito,latin,nu-jazz,reggae,rock,soul",
+        "Favicon": "https://www.ubuntu.fm/sites/default/files//favicons/apple-touch-icon.png",
+        "Homepage": "https://www.ubuntu.fm/radio",
+        "Source1": "https://streaming.coollective.nl:8443/UbuntuFM"
+    },
+    {
+        "Title": "UbuntuFM Africa",
+        "Country": "SouthAfrica",
+        "Tags": "africa",
+        "Homepage": "https://www.ubuntufmafrica.com/",
+        "Latitude": -31.423975737976708,
+        "Longitude": 24.78515625,
+        "Source1": "https://streaming.coollective.nl:8443/UbuntuFMafrica"
+    },
+    {
+        "Title": "UbuntuFM Radio Africa",
+        "Country": "SouthAfrica",
+        "Favicon": "https://www.ubuntufmafrica.com/sites/default/files//favicons/apple-touch-icon.png",
+        "Homepage": "https://www.ubuntufmafrica.com/",
+        "Source1": "https://streaming.coollective.nl:8443/UbuntuFMafrica"
+    },
+    {
+        "Title": "UbuntuFM Radio International",
+        "Country": "SouthAfrica",
+        "Favicon": "https://www.ubuntufm.international/images/logo.webp",
+        "Homepage": "https://www.ubuntufm.international/",
+        "Source1": "https://streaming.coollective.nl:8443/RadioXYZ"
+    },
+    {
+        "Title": "Ukhozi FM S.A",
+        "Country": "SouthAfrica",
+        "Favicon": "https://www.ukhozifm.co.za/wp-content/uploads/2023/07/cropped-ukhozi-tranparent-logo.png",
+        "Homepage": "https://www.ukhozifm.co.za/",
+        "Latitude": -25.87405199899194,
+        "Longitude": 28.652343750000004,
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/UKHOZIFMAAC_SC?dist=triton-widget&pname=tdwidgets"
+    },
+    {
+        "Title": "ultracol FM",
+        "Country": "SouthAfrica",
+        "Homepage": "https://app.megazone.fm/",
+        "Latitude": -29.022251299421665,
+        "Longitude": 24.180908203125,
+        "Source1": "https://vm65162.streamerr.co/listen/ultracol_/radio.mp3"
+    },
+    {
+        "Title": "uMgungundlovu FM 107.6",
+        "Country": "SouthAfrica",
+        "Tags": "community,education,gospel,local",
+        "Favicon": "https://fabrikstore.blob.core.windows.net/9ba0ebb4-7bdd-4cf8-be4d-6cc629cb9500/e573dc31-a7b5-4631-b1a1-2b8a7489e151/directory/livestream/0d398af1-91ae-45e3-b75f-c4e3ef8c1944",
+        "Homepage": "https://thesoundofchoice.co.za/",
+        "Latitude": -29.60905369254167,
+        "Longitude": 30.382862091064457,
+        "Source1": "https://streaming.fabrik.fm/umgungundlovufm/echocast/audio/low/index.m3u8"
+    },
+    {
+        "Title": "Urban Fusion Radio",
+        "Country": "SouthAfrica",
+        "Favicon": "https://urbanfusionmedia.co.za/wp-content/uploads/2022/06/Urban-Fusion-new-LogoMEDIA-1-1.png",
+        "Homepage": "https://urbanfusionmedia.co.za/",
+        "Source1": "http://stream.zeno.fm/wcy3kh4pqv8uv?ver=896973"
+    },
+    {
+        "Title": "Vault Radio 404",
+        "Country": "SouthAfrica",
+        "Tags": "multi genre",
+        "Favicon": "https://baronvonvault.com/wp-content/uploads/2026/03/Vault_Radio_404_Still_Background_Favicon.jpg",
+        "Language": "en",
+        "Homepage": "https://baronvonvault.com/vault-radio-404/",
+        "Source1": "https://radio.baronvonvault.com/listen/vault_radio_404/radio.mp3"
+    },
+    {
+        "Title": "VCR - 90.6 FM Stereo",
+        "Country": "SouthAfrica",
+        "Favicon": "https://static.wixstatic.com/media/39bd45_3c0fa981a9a14e2e9003646db594564a~mv2.png/v1/fill/w_481,h_240,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/39bd45_3c0fa981a9a14e2e9003646db594564a~mv2.png",
+        "Homepage": "https://www.906fmstereo.com/",
+        "Source1": "https://radio2.eclipse-streaming.co.za/listen/vaal_community_radio/radio.mp3"
+    },
+    {
+        "Title": "Victors Radio",
+        "Country": "SouthAfrica",
+        "Homepage": "https://victorsradio.com/",
+        "Source1": "https://a13.asurahosting.com/listen/victors_radio_/radio.mp3"
+    },
+    {
+        "Title": "Viva Nation Radio",
+        "Country": "SouthAfrica",
+        "Favicon": "https://public-rf-upload.minhawebradio.net/244271/broadcaster/ca6fce1ca58b93163c0557fd7b65e99e.png",
+        "Homepage": "https://vivanationradio.net/",
+        "Source1": "https://servidor34-3.brlogic.com:7056/live?source=website"
+    },
+    {
+        "Title": "VOC",
+        "Country": "SouthAfrica",
+        "Tags": "islamic",
+        "Favicon": "https://vocfm.co.za/favicon.jpg",
+        "Language": "en",
+        "Homepage": "https://vocfm.co.za/",
+        "Source1": "https://streaming.fabrik.fm/voc/echocast/audio/low/index.m3u8?session_id=8wKfTQs6bLWBkbu&device_id=EPTf1JHg"
+    },
+    {
+        "Title": "Voice of the Cape",
+        "Country": "SouthAfrica",
+        "Favicon": "https://vocfm.co.za/wp-content/uploads/2020/06/Logo_2022_VOC_D03-1-1.png",
+        "Homepage": "https://vocfm.co.za/",
+        "Source1": "https://streaming.fabrik.fm/voc/echocast/audio/low/index.m3u8?session_id=8wKfTQs6bLWBkbu&device_id=EPTf1JHg"
+    },
+    {
+        "Title": "World Gospel Radio",
+        "Country": "SouthAfrica",
+        "Tags": "christian,gospel,praise,worship",
+        "Favicon": "https://www.worldgospelradio.co.za/wp-content/uploads/2026/05/cropped-Logo_Square.png",
+        "Language": "af,en",
+        "Homepage": "https://www.worldgospelradio.co.za/radio/",
+        "Latitude": -33.76846218428034,
+        "Longitude": 25.397772789001465,
+        "Source1": "https://www.dn-radio.co.za/listen/world_gospel_radio/radio.mp3"
+    },
+    {
+        "Title": "YFM",
+        "Country": "SouthAfrica",
+        "Favicon": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/JfwtLBVEWn.png",
+        "Language": "en",
+        "Homepage": "https://www.yfm.co.za/",
+        "Source1": "http://streaming.fabrik.fm/yfm/echocast/audio/index.m3u8"
+    },
+    {
+        "Title": "zoibi FM",
+        "Country": "SouthAfrica",
+        "Favicon": "https://radio.eclipse-streaming.co.za/static/uploads/album_art.1708559460.jpg",
+        "Homepage": "https://eclipse-radio.eclipse-streaming.co.za/public/zoibi_fm",
+        "Source1": "https://eclipse-radio.eclipse-streaming.co.za/public/zoibi_fm/playlist.pls"
+    },
+    {
+        "Title": "zoibicube",
+        "Country": "SouthAfrica",
+        "Favicon": "https://radio3.eclipse-streaming.co.za/api/station/zoibi/art/6473db46b767a1693b441a2e",
+        "Homepage": "https://radio3.eclipse-streaming.co.za/public/zoibi",
+        "Source1": "https://radio3.eclipse-streaming.co.za/public/zoibi/playlist.pls"
+    },
+    {
+        "Title": "Zone Radio",
+        "Country": "SouthAfrica",
+        "Tags": "blues,community radio,talk",
+        "Favicon": "https://cdn.iono.fm/files/p3519/logo_3519_20250905_204605_750.jpeg",
+        "Language": "en",
+        "Homepage": "https://www.zoneradio.live/",
+        "Latitude": -34.123290073509686,
+        "Longitude": 18.38698267936707,
+        "Source1": "https://edge.iono.fm/xhls/279_medium.m3u8?ref=https%3A%2F%2Fradio-browser.info&adToken=&pofToken="
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "Title": "BBC.jrsy",
+        "Country": "Jersey",
+        "Favicon": "https://www.bbc.co.uk/sounds/play/live/bbc_radio_jersey",
+        "Language": "en",
+        "Homepage": "https://www.bbc.co.uk/sounds/play/live/bbc_radio_jersey",
+        "Source1": "https://www.bbc.co.uk/sounds/play/live/bbc_radio_jersey"
+    },
+    {
+        "Title": "Channel 103",
+        "Country": "Jersey",
+        "Tags": "hits,local,pop",
+        "Favicon": "https://www.channel103.com/",
+        "Homepage": "https://www.channel103.com/",
+        "Latitude": 49.19516658452546,
+        "Longitude": -2.1147149798487064,
+        "Source1": "https://n02-eu.rcs.revma.com/1b7wddebanzuv?rj-ttl=5&rj-tok=AAABnuSkRnsAKAPV9xwJDgAhEA&rp_source=1&___cb=931531437397347"
+    },
+    {
+        "Title": "Soleil Radio",
+        "Country": "Jersey",
+        "Tags": "hits,pop music",
+        "Homepage": "https://www.soleilradio.com/",
+        "Latitude": 49.185922250841394,
+        "Longitude": -2.1086743347935255,
+        "Source1": "https://stream.rcs.revma.com/sa3ccwa9yy8uv?rp_source=1&=&&___cb=396383825633501"
+    }
+]

@@ -1,0 +1,497 @@
+[
+    {
+        "Title": "100.7 Stereo",
+        "Country": "ElSalvador",
+        "Homepage": "https://rocknpopsv.com/",
+        "Source1": "https://stream20.usastreams.com/8138/stream"
+    },
+    {
+        "Title": "105 Salsa",
+        "Country": "ElSalvador",
+        "Tags": "salsa",
+        "Language": "es",
+        "Homepage": "https://zeno.fm/radio/105salsa/",
+        "Source1": "https://stream.zeno.fm/mdn371ycuwzuv"
+    },
+    {
+        "Title": "92.5 Club",
+        "Country": "ElSalvador",
+        "Tags": "adult contemporary",
+        "Language": "es",
+        "Homepage": "http://www.miradio.com.sv/",
+        "Source1": "http://158.69.200.1:8030/stream"
+    },
+    {
+        "Title": "ABC 100.1",
+        "Country": "ElSalvador",
+        "Favicon": "https://cdn.instant.audio/images/logos/radios-com-sv/abc.png",
+        "Homepage": "https://radiocorporacionelsalvador.com/",
+        "Latitude": 13.701010027544646,
+        "Longitude": -89.19297695159914,
+        "Source1": "https://streaming.rcs.com.sv/proxy/abc/stream"
+    },
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "ElSalvador",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "AURA FM 99.3",
+        "Country": "ElSalvador",
+        "Tags": "99.3 fm,aura fm 99.3,aura.fm,electronica,radio mesias 99.3",
+        "Favicon": "https://static2.mytuner.mobi/media/tvos_radios/460/mesias-radio-993-fm.8fb08a60.jpg",
+        "Language": "en,es",
+        "Homepage": "https://auraradio.fm/",
+        "Latitude": 13.697698003762744,
+        "Longitude": -89.19181019067766,
+        "Source1": "https://stream.miradio.in/proxy/aura/stream"
+    },
+    {
+        "Title": "C3 Radio",
+        "Country": "ElSalvador",
+        "Homepage": "https://www.iglesiac3.org/",
+        "Source1": "https://azuracast.myautodj.com/radio/8170/radio.mp3"
+    },
+    {
+        "Title": "COOL FM 89.3",
+        "Country": "ElSalvador",
+        "Tags": "entretenimiento,hits,reggaeton,urbano",
+        "Favicon": "https://statics-v3.streema.com/static/img/radios/profile_background_default_380.abf7abe7e86a.jpg",
+        "Language": "es",
+        "Homepage": "https://www.radiocoolfm.com/",
+        "Source1": "http://media.dominiocreativo.com:8006/coolfm"
+    },
+    {
+        "Title": "Cuscatlán 98.5 FM",
+        "Country": "ElSalvador",
+        "Tags": "dance,electronic,entretenimiento,hits,latino,music,pop dance,urbano",
+        "Favicon": "https://cadenacuscatlan.com.sv/assets/img/logo.png",
+        "Language": "es",
+        "Homepage": "https://cadenacuscatlan.com.sv/",
+        "Source1": "http://icecasthd.net:8298/;"
+    },
+    {
+        "Title": "DOREMIX 92.5 FM",
+        "Country": "ElSalvador",
+        "Favicon": "http://www.doremix.net/img/logodoremix.png",
+        "Homepage": "http://www.doremix.net/",
+        "Source1": "https://media.dominiocreativo.com:8056/doremix"
+    },
+    {
+        "Title": "Exa FM 91.3 El Salvador",
+        "Country": "ElSalvador",
+        "Tags": "pop,top 40",
+        "Language": "es",
+        "Homepage": "http://www.miradio.com.sv/",
+        "Source1": "http://158.69.219.162:8028/stream"
+    },
+    {
+        "Title": "Exa FM El Salvador",
+        "Country": "ElSalvador",
+        "Tags": "91.3,91.3 fm,el salvador,entretenimiento,estación,exa,exa fm,fm,juvenil,la estación exacta,la estación naranja,latin music,latin pop,musica,musica latina,musica latinoamericana,mvs,mvs radio,música,música en español,música pop,música urbana,ponte exa,pop,pop dance,pop music,pop rock,radio,san salvador",
+        "Favicon": "http://exaelsalvador.com/wp-content/uploads/2020/01/cropped-favicon-01-1-180x180.png",
+        "Language": "es",
+        "Homepage": "http://www.exaelsalvador.com/",
+        "Latitude": 13.699111631482896,
+        "Longitude": -89.19134616851808,
+        "Source1": "http://158.69.219.162:8028/"
+    },
+    {
+        "Title": "Femenina",
+        "Country": "ElSalvador",
+        "Favicon": "https://cdn-profiles.tunein.com/s13206/images/logog.png?t=161313",
+        "Homepage": "https://femenina.com.sv/",
+        "Latitude": 13.755125691464809,
+        "Longitude": -89.17465209960938,
+        "Source1": "https://sp4.colombiatelecom.com.co/8028/stream"
+    },
+    {
+        "Title": "FM Globo 93.3",
+        "Country": "ElSalvador",
+        "Tags": "latin pop",
+        "Language": "es",
+        "Homepage": "http://www.miradio.com.sv/",
+        "Source1": "http://158.69.219.162:8026/stream"
+    },
+    {
+        "Title": "La Central 103.7 FM",
+        "Country": "ElSalvador",
+        "Tags": "entretenimiento,hits,latino,popular,reggaeton,regional mexican,top 40,trap,urbano",
+        "Favicon": "https://cadenacentral.com/wp-content/uploads/2022/09/logo-original-300x161.png",
+        "Language": "es",
+        "Homepage": "https://lacentralfm.com/",
+        "Source1": "https://radio.videct.com/8176/stream"
+    },
+    {
+        "Title": "La Jefa Radio El Salvador",
+        "Country": "ElSalvador",
+        "Tags": "banda,grupero,romantica,variado",
+        "Favicon": "https://lajefaradio.blogspot.com/favicon.ico",
+        "Language": "es,la",
+        "Homepage": "https://lajefaradio.blogspot.com/?m=0",
+        "Source1": "http://stream.zeno.fm/b264csn0sy8uv"
+    },
+    {
+        "Title": "La Mejor FM 98.9",
+        "Country": "ElSalvador",
+        "Tags": "latin pop,salsa,tropical",
+        "Language": "es",
+        "Homepage": "http://www.miradio.com.sv/",
+        "Source1": "http://158.69.219.162:8024/stream"
+    },
+    {
+        "Title": "La Tribu FM",
+        "Country": "ElSalvador",
+        "Favicon": "https://latribu.fm/logo2.png",
+        "Homepage": "https://latribu.fm/",
+        "Latitude": 13.70827312916402,
+        "Longitude": -89.2412205694877,
+        "Source1": "https://streamer.radio.co/s3a3c12873/listen"
+    },
+    {
+        "Title": "La Urbana 94.9",
+        "Country": "ElSalvador",
+        "Favicon": "https://radiocorporacionelsalvador.com/wp-content/uploads/2024/10/La-Urbana.png",
+        "Homepage": "https://radiocorporacionelsalvador.com/",
+        "Latitude": 13.70710219222886,
+        "Longitude": -89.21938806088379,
+        "Source1": "https://streaming.rcs.com.sv/proxy/urbana/stream"
+    },
+    {
+        "Title": "Plenitud Radio",
+        "Country": "ElSalvador",
+        "Favicon": "https://radio.elim.org.sv/plenitud/tmp/images/default.png",
+        "Homepage": "https://radio.elim.org.sv/plenitud/",
+        "Source1": "https://ssl.rockhost.com/proxy/plenitud?mp=/mp3_64"
+    },
+    {
+        "Title": "Plus 101.3",
+        "Country": "ElSalvador",
+        "Favicon": "https://plus1013.com/img/logoplus.png",
+        "Homepage": "https://plus1013.com/",
+        "Source1": "https://media.dominiocreativo.com:9006/;?type=http&nocache=1693284624"
+    },
+    {
+        "Title": "Radio  Cadena YSKL La Poderosa",
+        "Country": "ElSalvador",
+        "Language": "es",
+        "Homepage": "https://radioyskl.com/",
+        "Source1": "http://media.dominiocreativo.com:8000/radioyskl"
+    },
+    {
+        "Title": "Radio ABC Stereo 100.1 FM",
+        "Country": "ElSalvador",
+        "Tags": "electronic,misc,pop,top 40",
+        "Homepage": "https://radiocorporacionelsalvador.com/",
+        "Source1": "https://streaming.rcs.com.sv/proxy/abc/stream"
+    },
+    {
+        "Title": "Radio Astral 102.9 FM",
+        "Country": "ElSalvador",
+        "Tags": "astral,heavy metal,radio astral 102.9 fm,rock",
+        "Favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241106_171436681.jpg?alt=media&token=79b5a454-56cf-4717-9002-5e8428978448",
+        "Language": "es",
+        "Homepage": "https://radios.com.sv/astral-san-salvador",
+        "Source1": "https://streaming.rcs.com.sv/proxy/astral/stream"
+    },
+    {
+        "Title": "Radio Bautista",
+        "Country": "ElSalvador",
+        "Tags": "christian praise&worship",
+        "Favicon": "https://tabernaculo.net/favicon.ico",
+        "Homepage": "https://tabernaculo.net/radio/",
+        "Source1": "https://s2.radio.co/s3a7dc3d82/listen"
+    },
+    {
+        "Title": "Radio Campirana",
+        "Country": "ElSalvador",
+        "Tags": "latino,ranchera",
+        "Homepage": "https://lacampirana973.com/",
+        "Latitude": 14.330869483008092,
+        "Longitude": -89.44813013076784,
+        "Source1": "https://sonicpanel.cloudstreaming.eu/7206/stream"
+    },
+    {
+        "Title": "Radio El Camino",
+        "Country": "ElSalvador",
+        "Favicon": "https://iglesiadelcamino.org/wp-content/uploads/2020/06/logo.png",
+        "Homepage": "https://iglesiadelcamino.org/medios/radio/",
+        "Source1": "https://www.streamingcp.com:2000/stream/elcaminofm/;"
+    },
+    {
+        "Title": "Radio El Mundo - 93.7 FM",
+        "Country": "ElSalvador",
+        "Homepage": "http://www.radioelmundo.com.sv/",
+        "Latitude": 13.72231747733696,
+        "Longitude": -89.19238954782487,
+        "Source1": "http://streaming.mundoclasicaupa.com:8000/radioelmundo"
+    },
+    {
+        "Title": "Radio Femenina | 102.5 FM",
+        "Country": "ElSalvador",
+        "Tags": "hits,music,top 40",
+        "Favicon": "https://femenina.com.sv/wp-content/uploads/2020/02/Femenina-logo-1.png",
+        "Language": "es",
+        "Homepage": "https://femenina.com.sv/",
+        "Source1": "https://sp4.colombiatelecom.com.co/8028/stream"
+    },
+    {
+        "Title": "Radio Fiesta",
+        "Country": "ElSalvador",
+        "Homepage": "https://www.fiesta.com.sv/",
+        "Source1": "https://sp4.colombiatelecom.com.co/8026/stream"
+    },
+    {
+        "Title": "Radio La Caliente 90.1 FM",
+        "Country": "ElSalvador",
+        "Tags": "dance,pop,top 40,urbano",
+        "Favicon": "null",
+        "Language": "es",
+        "Homepage": "http://radiocorporacionelsalvador.com/",
+        "Source1": "http://streaming.rcs.com.sv:8014/stream"
+    },
+    {
+        "Title": "Radio la Chvere 100.9",
+        "Country": "ElSalvador",
+        "Favicon": "https://cdn.instant.audio/images/logos/radios-com-sv/radio-la-chevere.png",
+        "Homepage": "https://radiocorporacionelsalvador.com/",
+        "Latitude": 13.707053261406724,
+        "Longitude": -89.21939134597778,
+        "Source1": "https://streaming.rcs.com.sv/proxy/chevere/stream"
+    },
+    {
+        "Title": "Radio La Paz FM",
+        "Country": "ElSalvador",
+        "Tags": "música en español,pop",
+        "Favicon": "https://www.lapaz.fm/img/logonuevoico.ico",
+        "Language": "es",
+        "Homepage": "https://www.lapaz.fm/",
+        "Source1": "https://stream.consultoradas.com/8042/stream"
+    },
+    {
+        "Title": "Radio Legislativa de El Salvador",
+        "Country": "ElSalvador",
+        "Favicon": "https://www.asamblea.gob.sv/themes/asamblea/favicon.ico",
+        "Homepage": "https://www.asamblea.gob.sv/asamblea-social-media/radio-legislativa",
+        "Latitude": 13.706270471834824,
+        "Longitude": -89.19967174530031,
+        "Source1": "https://streaming.asamblea.gob.sv/stream"
+    },
+    {
+        "Title": "Radio Láser Español",
+        "Country": "ElSalvador",
+        "Favicon": "https://www.laser.com.sv/wp-content/uploads/2020/09/cropped-favicon-180x180.png",
+        "Language": "es",
+        "Homepage": "https://www.laser.com.sv/",
+        "Latitude": 13.706067632573276,
+        "Longitude": -89.20254296893877,
+        "Source1": "https://sp4.colombiatelecom.com.co/8030/stream"
+    },
+    {
+        "Title": "Radio Láser Inglés",
+        "Country": "ElSalvador",
+        "Favicon": "https://laser.com.sv/wp-content/uploads/2020/09/cropped-favicon-180x180.png",
+        "Homepage": "https://www.laser.com.sv/",
+        "Latitude": 13.712169960507389,
+        "Longitude": -89.18426513671876,
+        "Source1": "https://sp4.colombiatelecom.com.co/8032/stream"
+    },
+    {
+        "Title": "Radio María El Salvador 107.3 FM",
+        "Country": "ElSalvador",
+        "Tags": "catholic,christian,talk",
+        "Language": "es",
+        "Homepage": "http://www.radiomaria.org.sv/",
+        "Source1": "http://dreamsiteradiocp.com:8098/stream"
+    },
+    {
+        "Title": "Radio Mercado Metapan",
+        "Country": "ElSalvador",
+        "Tags": "noticias y deportes",
+        "Favicon": "https://radiomercadometapan.com/wp-content/uploads/2023/07/cropped-logo-316x143.jpg",
+        "Language": "es",
+        "Homepage": "https://radiomercadometapan.com/",
+        "Latitude": 14.331334170690962,
+        "Longitude": -89.44490611553192,
+        "Source1": "https://centova.playerfullhd.com/proxy/brfrtxcf/stream"
+    },
+    {
+        "Title": "Radio Mil 80 101.7 FM",
+        "Country": "ElSalvador",
+        "Tags": "entretenimiento,hits,music,musica,pop en inglés,top 40,top charts,top hits",
+        "Favicon": "https://www.mil80.com/wp-content/uploads/2022/08/logo-blanco-mil80.png",
+        "Language": "es",
+        "Homepage": "https://www.mil80.com/",
+        "Source1": "https://radio.videct.com/8002/stream"
+    },
+    {
+        "Title": "Radio Nacional de El Salvador  - 96.9",
+        "Country": "ElSalvador",
+        "Favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/RNES_logo.svg/320px-RNES_logo.svg.png",
+        "Homepage": "https://tunein.com/radio/Radio-El-Salvador-s306352/",
+        "Source1": "https://streamingcwsradio30.com/8156/stream"
+    },
+    {
+        "Title": "Radio Que Buena 88.9",
+        "Country": "ElSalvador",
+        "Homepage": "https://www.quebuena.com.sv/",
+        "Source1": "https://cast3.my-control-panel.com/proxy/gabriel4/stream"
+    },
+    {
+        "Title": "Radio Ranchera",
+        "Country": "ElSalvador",
+        "Favicon": "https://ranchera.com.sv/wp-content/uploads/2020/07/logo-1.png",
+        "Homepage": "https://ranchera.com.sv/",
+        "Latitude": 13.694993218881828,
+        "Longitude": -89.22655820846559,
+        "Source1": "https://sp4.colombiatelecom.com.co/8024/stream"
+    },
+    {
+        "Title": "Radio Restauracion",
+        "Country": "ElSalvador",
+        "Favicon": "https://radio.elim.org.sv/restauracion/tmp/images/default.jpg",
+        "Homepage": "https://www.elim.org.sv/restauracion/",
+        "Source1": "https://ssl.rockhost.com/proxy/restauracion?mp=/mp3_64"
+    },
+    {
+        "Title": "Radio Rumba Latina",
+        "Country": "ElSalvador",
+        "Homepage": "https://www.radiorumbalatina.com/",
+        "Source1": "https://c11.radioboss.fm:18303/stream"
+    },
+    {
+        "Title": "Radio Rumba Latina",
+        "Country": "ElSalvador",
+        "Favicon": "https://radiorumbalatina.com/wp-content/uploads/2023/10/LOGO2021.png",
+        "Homepage": "https://radiorumbalatina.com/#",
+        "Source1": "https://c11.radioboss.fm:8303/stream"
+    },
+    {
+        "Title": "Radio Salem 92.5",
+        "Country": "ElSalvador",
+        "Tags": "christian,educational,talk",
+        "Homepage": "http://radiosalem.org/",
+        "Source1": "http://streamingcontrol.com:8500/;"
+    },
+    {
+        "Title": "Radio Soda Stereo 105.3 FM",
+        "Country": "ElSalvador",
+        "Tags": "gospel,pop,top 40,urbano",
+        "Favicon": "https://radiocorporacionelsalvador.com/favicon.ico",
+        "Language": "es",
+        "Homepage": "https://radiocorporacionelsalvador.com/?fbclid=IwZXh0bgNhZW0CMTEAAR2IEzjcJKLAcqiTFqHg9W7iuQtn7erH10LNRBN-DjuY8KWvo2gjst9S3BY_aem_3VsPtkSHHR6dK-ZKmMJ8hA",
+        "Source1": "http://streaming.rcs.com.sv/proxy/soda/stream"
+    },
+    {
+        "Title": "Radio Sonora 104.5 FM",
+        "Country": "ElSalvador",
+        "Tags": "2000s,80s,90s,pop music,reggaeton",
+        "Language": "es",
+        "Homepage": "http://www.radiosonora.com.sv/",
+        "Source1": "http://190.5.147.67:8000/radiosonora"
+    },
+    {
+        "Title": "Radio Sonora 104.5 FM",
+        "Country": "ElSalvador",
+        "Tags": "80s,90s,pop music,reggaeton",
+        "Favicon": "https://www.radiosonora.com.sv/img/logo.png",
+        "Language": "es",
+        "Homepage": "https://www.radiosonora.com.sv/",
+        "Source1": "http://190.5.147.67:8000/radiosonora.m3u"
+    },
+    {
+        "Title": "Radio Supra 90.5 FM",
+        "Country": "ElSalvador",
+        "Homepage": "https://radiosupra905.com/",
+        "Source1": "https://stream-52.zeno.fm/cpoqmejvb7ftv?zs=r9mYF1zHSD-C0In5SO_XUg"
+    },
+    {
+        "Title": "Radio Verdad 95.7 FM",
+        "Country": "ElSalvador",
+        "Favicon": "https://www.radioverdad.com/wp-content/uploads/2021/01/logoRVerdad_mini.png",
+        "Homepage": "https://www.radioverdad.com/",
+        "Source1": "https://cloudstream2036.conectarhosting.com/8168/stream"
+    },
+    {
+        "Title": "Radio Verdad 95.7 FM | Voz del Pentecostes",
+        "Country": "ElSalvador",
+        "Tags": "christian,pentecostalism,worship",
+        "Homepage": "https://www.radioverdad.com/",
+        "Latitude": 13.716642481719372,
+        "Longitude": -89.21733677387239,
+        "Source1": "https://cloudstream2036.conectarhosting.com/8168/stream"
+    },
+    {
+        "Title": "Radio YSKL 104.1 FM",
+        "Country": "ElSalvador",
+        "Homepage": "https://radioyskl.com/",
+        "Source1": "https://media.dominiocreativo.com:8000/stream/1/"
+    },
+    {
+        "Title": "Radio YSUCA, 91.7 FM",
+        "Country": "ElSalvador",
+        "Favicon": "https://ysuca.org.sv/wp-content/uploads/2024/08/favicon-base-blanca-circle.png",
+        "Homepage": "https://ysuca.org.sv/",
+        "Latitude": 13.696067911634076,
+        "Longitude": -89.19387817382812,
+        "Source1": "https://fast.citrus3.com:8314/stream"
+    },
+    {
+        "Title": "Restauracion / 100.5 FM - Mision Cristiana Elim",
+        "Country": "ElSalvador",
+        "Favicon": "https://www.elim.org.sv/wp-content/uploads/2023/04/cropped-imagotipo-elim-blanco-1-180x180.png",
+        "Homepage": "https://www.elim.org.sv/restauracion/",
+        "Source1": "https://ssl.rockhost.com/proxy/restauracion?mp=/mp3_320"
+    },
+    {
+        "Title": "Scan 96.1",
+        "Country": "ElSalvador",
+        "Tags": "spanish pop",
+        "Language": "es",
+        "Homepage": "http://www.miradio.com.sv/",
+        "Source1": "http://158.69.200.1:8022/stream"
+    },
+    {
+        "Title": "Super Estrella 94.1 FM",
+        "Country": "ElSalvador",
+        "Tags": "estrella,music,pop,top 40",
+        "Favicon": "null",
+        "Language": "es",
+        "Homepage": "https://radiocorporacionelsalvador.com/",
+        "Source1": "http://streaming.rcs.com.sv/proxy/super/stream"
+    },
+    {
+        "Title": "Taylor Swift Radio",
+        "Country": "ElSalvador",
+        "Favicon": "https://e1.pngegg.com/pngimages/630/656/png-clipart-taylor-swift-taylor-swift-1-thumbnail.png",
+        "Homepage": "https://zeno.fm/radio/taylor-swift-radio/",
+        "Source1": "https://stream.zeno.fm/xiothj9jrxfvv"
+    },
+    {
+        "Title": "Vox FM",
+        "Country": "ElSalvador",
+        "Favicon": "https://www.voxfm.com/wp-content/uploads/2019/10/cropped-logo-0f7bbd36a1db77073538e98e69346455.png",
+        "Homepage": "https://www.voxfm.com/",
+        "Latitude": 13.675744860270695,
+        "Longitude": -89.25548851490021,
+        "Source1": "https://cast3.asurahosting.com/proxy/gabriel/stream"
+    },
+    {
+        "Title": "Xtremevibes",
+        "Country": "ElSalvador",
+        "Favicon": "https://xtremevibes.com/img/covers/cover.png",
+        "Homepage": "https://xtremevibes.com/",
+        "Source1": "https://c17.radioboss.fm:8162/stream"
+    },
+    {
+        "Title": "YXY 105.7",
+        "Country": "ElSalvador",
+        "Tags": "bachata,latin pop,merengue,reggaeton,salsa",
+        "Language": "es",
+        "Homepage": "http://www.miradio.com.sv/",
+        "Source1": "http://158.69.200.1:8020/stream"
+    }
+]

@@ -1,0 +1,179 @@
+[
+    {
+        "Title": "181.fm true RnB",
+        "Country": "CapeVerde",
+        "Homepage": "https://player.181fm.com/",
+        "Source1": "https://player.181fm.com/?autoplay=39"
+    },
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "CapeVerde",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "Caboradio",
+        "Country": "CapeVerde",
+        "Homepage": "https://caboradio.wixsite.com/caboradio",
+        "Latitude": 15.909168583480565,
+        "Longitude": -23.444824218750004,
+        "Source1": "https://listen.radioking.com/radio/281506/stream/327253"
+    },
+    {
+        "Title": "Cidade FM Cabo Verde",
+        "Country": "CapeVerde",
+        "Favicon": "https://websitenoar.net/contents/558/cover/xm2c62381a21b3489696f003a4358a42e5_558_1751307969.png",
+        "Homepage": "https://www.cidadefm.cv/",
+        "Latitude": 14.911121900092033,
+        "Longitude": -23.518986289957503,
+        "Source1": "https://hts02.brascast.com:9288/stream"
+    },
+    {
+        "Title": "Crioula FM",
+        "Country": "CapeVerde",
+        "Tags": "music,religious",
+        "Favicon": "https://www.crioulafm.cv/wp-content/uploads/2026/01/logo_site_alpha.png",
+        "Homepage": "https://www.crioulafm.cv/",
+        "Latitude": 14.916662768540538,
+        "Longitude": -23.526746351871797,
+        "Source1": "https://nl.digitalrm.pt:8098/stream"
+    },
+    {
+        "Title": "Kriola",
+        "Country": "CapeVerde",
+        "Favicon": "https://assets.laut.fm/e273976e0be978283ce753b37ceeb988?t=_120x120",
+        "Homepage": "https://laut.fm/kriola",
+        "Latitude": 16.885911443214972,
+        "Longitude": -24.985033387067787,
+        "Source1": "https://stream.laut.fm/kriola"
+    },
+    {
+        "Title": "Praia FM",
+        "Country": "CapeVerde",
+        "Favicon": "https://praiafm.biz/wp-content/themes/praiafm/img/logo_2.png",
+        "Homepage": "https://praiafm.biz/",
+        "Latitude": 14.919649044929775,
+        "Longitude": -23.506857966409356,
+        "Source1": "https://mpc1.mediacp.eu:8030/stream"
+    },
+    {
+        "Title": "RADIO ALFA - CV",
+        "Country": "CapeVerde",
+        "Homepage": "https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.radioalfacv.com%2F&h=AUDP-CXES2NZH5BlLcYo78UgiQw1-ZHh66mXkaSvkRBwubIJQ4L6ou202buou_nn9ZhYjaZcF1gSshtyjtWZlkmiugor1hFeiqopElI-0lqUA7wloYcMf6gITjxTFazH_jo1F4pCXnpRXQ",
+        "Latitude": 14.911209764531709,
+        "Longitude": -23.53786142602951,
+        "Source1": "http://uk6freenew.listen2myradio.com:10110/stream"
+    },
+    {
+        "Title": "Radio Atlantico",
+        "Country": "CapeVerde",
+        "Homepage": "https://www.radioatlantico.net/",
+        "Latitude": 16.61782657274705,
+        "Longitude": -24.296927658044563,
+        "Source1": "https://stream.cvhosting.uk/listen/radio_atlantico/radio.mp3"
+    },
+    {
+        "Title": "Radio Cabo Verde International",
+        "Country": "CapeVerde",
+        "Favicon": "https://files.supersite.aruba.it/media/21141_b51392027555bf2c6ffc7a89a12bdeea9b6ae4a0.png/v1/x_0,y_0,w_375,h_159,dpr_2/b51392027555bf2c6ffc7a89a12bdeea9b6ae4a0.webp",
+        "Homepage": "https://www.radiocaboverdeinternational.com/",
+        "Latitude": 16.600163977511645,
+        "Longitude": -22.909809217945813,
+        "Source1": "http://41.221.203.141:8090/;"
+    },
+    {
+        "Title": "Radio Comercial",
+        "Country": "CapeVerde",
+        "Favicon": "https://radiocomercial.cv/wp-content/uploads/2024/03/logo_PNG-2.png",
+        "Homepage": "https://radiocomercial.cv/",
+        "Latitude": 14.91119965673916,
+        "Longitude": -23.515424769490537,
+        "Source1": "https://stream-175.zeno.fm/loombkxpekavv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJsb29tYmt4cGVrYXZ2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImlBZGFIMXN6U2wtTm9NcXpsS21nTVEiLCJpYXQiOjE3ODAyMjUwMTEsImV4cCI6MTc4MDIyNTA3MX0.uRzV1zuJQ28KAdi6l9JGZ8hhp5gIbltCUWgFAgDF3Pw"
+    },
+    {
+        "Title": "Radio de Santo Antao - RSA",
+        "Country": "CapeVerde",
+        "Homepage": "https://rsa.cv/",
+        "Latitude": 17.07165791817416,
+        "Longitude": -25.170865130702925,
+        "Source1": "https://stream.cvhosting.uk/listen/radio_santo_antao/radio.mp3?refresh=1781085695418"
+    },
+    {
+        "Title": "Radio La Mueve",
+        "Country": "CapeVerde",
+        "Favicon": "https://lamueve.net/wp-content/uploads/2025/04/cropped-LOGO.png",
+        "Homepage": "https://lamueve.net/",
+        "Latitude": 14.91555916779722,
+        "Longitude": -23.52902313064047,
+        "Source1": "https://sunaer-stream.com:7007/LA_MUEVE_CADENA_CV_SD"
+    },
+    {
+        "Title": "Radio Maria - Cabo Verde",
+        "Country": "CapeVerde",
+        "Favicon": "https://radiomaria.cv/wp-content/themes/radiomaria/img/logo-chiaro.png",
+        "Homepage": "https://radiomaria.cv/",
+        "Latitude": 16.886622808221773,
+        "Longitude": -24.97544255795547,
+        "Source1": "https://dreamsiteradiocp4.com/proxy/rmcapover?mp=/stream"
+    },
+    {
+        "Title": "Radio Morabeza",
+        "Country": "CapeVerde",
+        "Favicon": "https://radiomorabeza.cv/wp-content/uploads/2018/08/morabeza_logo-1024x321.png",
+        "Homepage": "https://radiomorabeza.cv/",
+        "Latitude": 16.87987991753247,
+        "Longitude": -24.985967005729687,
+        "Source1": "https://sp0.redeaudio.com:10988/9798/stream"
+    },
+    {
+        "Title": "RCE Radio Comunitaria dos Espargos",
+        "Country": "CapeVerde",
+        "Favicon": "https://scontent-lis1-1.xx.fbcdn.net/v/t39.30808-6/307701114_153638580689153_2130199285424453066_n.jpg?stp=dst-jpg_tt6&cstp=mx309x310&ctp=s309x310&_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=d1SqGmhr9FkQ7kNvwE8pr85&_nc_oc=Adqc2TSsn834oh_VDgH-4jj7LJBK7z9VNUNikrxfGn3PATzFBR5aEn9_d7vdiXB0rsc&_nc_zt=23&_nc_ht=scontent-lis1-1.xx&_nc_gid=Br7dwQ9hpxUv0ojhSKQXMQ&_nc_ss=7b289&oh=00_Af8FxWhVASPzs2u_RJYuqglKQ8AKLVVD3Mixi_3OEgG4YQ&oe=6A2F26CB",
+        "Homepage": "https://rce.cv/",
+        "Latitude": 16.757015697912717,
+        "Longitude": -22.94266094721562,
+        "Source1": "https://stream.zeno.fm/c2sm9z24muhvv"
+    },
+    {
+        "Title": "RCV Radio Cabo Verde",
+        "Country": "CapeVerde",
+        "Favicon": "https://rtc.cv/rcv",
+        "Homepage": "https://rtc.cv/",
+        "Source1": "https://a3.asurahosting.com:6980/radio.mp3"
+    },
+    {
+        "Title": "RCV Radio Cabo Verde direct",
+        "Country": "CapeVerde",
+        "Homepage": "https://www.rtc.cv/rcv/direto",
+        "Source1": "https://a3.asurahosting.com/listen/rcv/radio.mp3"
+    },
+    {
+        "Title": "RCV+ Radio Cabo Verde Jovem",
+        "Country": "CapeVerde",
+        "Favicon": "https://www.balai.cv/wp-content/uploads/2021/10/w_rcv-1.png",
+        "Homepage": "https://www.rtc.cv/rcvm",
+        "Latitude": 14.910012568866362,
+        "Longitude": -23.51568242159757,
+        "Source1": "https://a8.my-control-panel.com:8670/radio.mp3"
+    },
+    {
+        "Title": "Ribeira Brava FM - Ilha de Sao Nicolau",
+        "Country": "CapeVerde",
+        "Favicon": "https://ribeirabravafm.com/wp-content/uploads/2023/11/cropped-unnamed-192x192.png",
+        "Homepage": "https://ribeirabravafm.com/",
+        "Latitude": 16.612600120001144,
+        "Longitude": -24.29705599669865,
+        "Source1": "https://sc1.xdevel.com/ribeirabrava"
+    },
+    {
+        "Title": "RTE – Radio Educativa",
+        "Country": "CapeVerde",
+        "Favicon": "https://www.balai.cv/wp-content/uploads/2021/10/w_RTE.png",
+        "Homepage": "https://radioeducativa.gov.cv/",
+        "Latitude": 14.920483857503331,
+        "Longitude": -23.50692301908292,
+        "Source1": "https://a13.my-control-panel.com/listen/rte/radio.mp3"
+    }
+]

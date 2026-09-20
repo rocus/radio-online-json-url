@@ -1,0 +1,246 @@
+[
+    {
+        "Title": "80's Bylgjan",
+        "Country": "Iceland",
+        "Tags": "80s,local music",
+        "Favicon": "http://vefutvarp.visir.is/favicons/apple-touch-icon.png",
+        "Language": "is",
+        "Homepage": "http://vefutvarp.visir.is/player/#/",
+        "Source1": "http://icecast.365net.is:8000/orb80s.aac.m3u"
+    },
+    {
+        "Title": "80´s Flash Back",
+        "Country": "Iceland",
+        "Tags": "80´s pop",
+        "Favicon": "http://spilarinn.is",
+        "Homepage": "http://spilarinn.is/",
+        "Source1": "http://ice-11.spilarinn.is/80flashback"
+    },
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "Iceland",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "Apparatid",
+        "Country": "Iceland",
+        "Tags": "local music",
+        "Language": "is",
+        "Homepage": "http://spilarinn.is/#apparatid",
+        "Source1": "http://icecast.365net.is:8000/orbApparatid.aac"
+    },
+    {
+        "Title": "Bylgjan",
+        "Country": "Iceland",
+        "Favicon": "https://static-media.streema.com/media/object-images/3ce71e1f401554d4d004a91888272f7c.jpg",
+        "Language": "is",
+        "Homepage": "http://bylgjan.visir.is/",
+        "Latitude": 64.18276350794666,
+        "Longitude": -21.884765625,
+        "Source1": "http://icecast.365net.is:8000/orbbylgjan.aac"
+    },
+    {
+        "Title": "Bylgjan 98.9 Reykjavik",
+        "Country": "Iceland",
+        "Tags": "local music,music,news,reykjavik,sport,talk",
+        "Language": "is",
+        "Homepage": "http://bylgjan.visir.is/",
+        "Source1": "http://icecast.365net.is:8000/orbbylgjan.aac"
+    },
+    {
+        "Title": "Cathedral 13",
+        "Country": "Iceland",
+        "Favicon": "http://cathedral13.com/wp-content/uploads/2017/10/c13logo13-170x170.png",
+        "Homepage": "http://cathedral13.com/#!",
+        "Source1": "http://listen.shoutcast.com/cathedralxiii"
+    },
+    {
+        "Title": "Country Bylgjan",
+        "Country": "Iceland",
+        "Tags": "country",
+        "Favicon": "https://www.visir.is/mi/cio/ad84742b-46c3-44e2-8ba5-9b1755e65677.png",
+        "Language": "is",
+        "Homepage": "https://vefutvarp.visir.is/country/",
+        "Latitude": 64.09352633755087,
+        "Longitude": -21.86141967773438,
+        "Source1": "http://icecast.365net.is:8000/orbFmExtra.aac.m3u"
+    },
+    {
+        "Title": "Flashback 60s",
+        "Country": "Iceland",
+        "Favicon": "https://www.radio.net/300/flashback60s.png",
+        "Homepage": "https://www.spilarinn.is/60's%20FlashBack",
+        "Source1": "https://ice-11.spilarinn.is/60flashback"
+    },
+    {
+        "Title": "Fred Film Radio-26 Íslenska",
+        "Country": "Iceland",
+        "Tags": "film",
+        "Favicon": "https://www.fred.fm/wp-content/uploads/2014/12/Fred-Logo_trasp_-copia.png",
+        "Language": "is",
+        "Homepage": "https://www.fred.fm/",
+        "Source1": "https://s10.webradio-hosting.com/proxy/fredradiois/stream"
+    },
+    {
+        "Title": "Gull Bylgjan 90.9 Reykjavik",
+        "Country": "Iceland",
+        "Tags": "classic rock,local music,reykjavik",
+        "Favicon": "http://vefutvarp.visir.is/favicons/apple-touch-icon.png",
+        "Language": "is",
+        "Homepage": "http://vefutvarp.visir.is/gull_bylgjan/",
+        "Source1": "http://icecast.365net.is:8000/orbGullBylgjan.aac.m3u"
+    },
+    {
+        "Title": "K 100",
+        "Country": "Iceland",
+        "Homepage": "https://k100.mbl.is/",
+        "Source1": "https://ice-11.spilarinn.is/kaninnmobile"
+    },
+    {
+        "Title": "Létt Bylgjan",
+        "Country": "Iceland",
+        "Tags": "easy listening,local music",
+        "Language": "is",
+        "Homepage": "http://lettbylgjan.visir.is/",
+        "Source1": "http://icecast.365net.is:8000/orbLettBylgjan.aac.m3u"
+    },
+    {
+        "Title": "Radio Bodun 105.5 Reykjavik",
+        "Country": "Iceland",
+        "Tags": "religion,reykjavik",
+        "Favicon": "http://cdn-radiotime-logos.tunein.com/s102576q.png",
+        "Language": "is",
+        "Homepage": "http://tunein.com/radio/Utvarp-Bodun-1055-s102576/",
+        "Source1": "http://radio.bodun.is:8000/stream"
+    },
+    {
+        "Title": "Restro 89,5",
+        "Country": "Iceland",
+        "Language": "is",
+        "Homepage": "https://spilarinn.is/Retro",
+        "Source1": "http://ice-11.spilarinn.is/retromobile"
+    },
+    {
+        "Title": "Retro",
+        "Country": "Iceland",
+        "Tags": "80s,90s,oldies,pop",
+        "Favicon": "https://k100.mbl.is/a/k100/retro/retro-logo-2-108x59.png",
+        "Homepage": "https://k100.mbl.is/retro/",
+        "Source1": "https://ice-11.spilarinn.is/retromobile"
+    },
+    {
+        "Title": "Rondó",
+        "Country": "Iceland",
+        "Favicon": "https://www.ruv.is/apple-touch-icon.png",
+        "Homepage": "https://www.ruv.is/rondo",
+        "Latitude": 64.14388034700936,
+        "Longitude": -21.93557739257813,
+        "Source1": "https://ruv-radio-live.akamaized.net/streymi/rondo/rondo.m3u8"
+    },
+    {
+        "Title": "RUV 1",
+        "Country": "Iceland",
+        "Favicon": "https://www.ruv.is/apple-touch-icon.png",
+        "Homepage": "https://www.ruv.is/netutvarpsstreymi",
+        "Latitude": 64.12545231538824,
+        "Longitude": -21.891704248264436,
+        "Source1": "http://netradio.ruv.is/ras1.aac.m3u"
+    },
+    {
+        "Title": "Rás 1",
+        "Country": "Iceland",
+        "Tags": "classical",
+        "Source1": "http://netradio.ruv.is/ras1.aac.m3u"
+    },
+    {
+        "Title": "Rás2",
+        "Country": "Iceland",
+        "Favicon": "https://www.ruv.is/apple-touch-icon.png",
+        "Homepage": "https://www.ruv.is/",
+        "Latitude": 64.09860708598023,
+        "Longitude": -21.914978027343754,
+        "Source1": "http://netradio.ruv.is/ras2.aac"
+    },
+    {
+        "Title": "RÚV Rás 2",
+        "Country": "Iceland",
+        "Tags": "culture,news",
+        "Favicon": "https://ruv.is/favicon-32x32.png",
+        "Homepage": "https://www.ruv.is/ras2",
+        "Source1": "http://netradio.ruv.is/ras2.mp3"
+    },
+    {
+        "Title": "Rúv rás1",
+        "Country": "Iceland",
+        "Tags": "culture,news",
+        "Favicon": "https://www.ruv.is/apple-touch-icon.png",
+        "Language": "is",
+        "Homepage": "https://www.ruv.is/",
+        "Source1": "http://netradio.ruv.is/ras1.aac.m3u"
+    },
+    {
+        "Title": "Seyðisfjörður Community Radio",
+        "Country": "Iceland",
+        "Favicon": "https://www.seydisfjordurcommunityradio.net/favicon.png",
+        "Homepage": "https://www.seydisfjordurcommunityradio.net/",
+        "Source1": "https://seyisfjorur-community-radio.radiocult.fm/stream"
+    },
+    {
+        "Title": "Suðurland FM",
+        "Country": "Iceland",
+        "Tags": "country,pop,rock,varied",
+        "Favicon": "https://www.sudurlandfm.is/wp-content/uploads/2016/05/logo_blue-3.png",
+        "Language": "is",
+        "Homepage": "https://www.sudurlandfm.is/",
+        "Latitude": 63.94790932594013,
+        "Longitude": -21.01044595241547,
+        "Source1": "https://ice-11.spilarinn.is/xsudurlandfm"
+    },
+    {
+        "Title": "Trolli FM 103.7 Siglufjordu",
+        "Country": "Iceland",
+        "Tags": "adult contemporary,siglufjordu,top 40",
+        "Favicon": "http://spilarinn.is/uploads/1486999431932.png",
+        "Language": "is",
+        "Homepage": "http://fm.trolli.is/",
+        "Source1": "http://live.trolli.is:8200/;"
+    },
+    {
+        "Title": "Visir \"FM 957 Extra\" Reykjavik",
+        "Country": "Iceland",
+        "Tags": "contemporary hits,reykjavik,top 40",
+        "Language": "is",
+        "Homepage": "http://fm957.visir.is/",
+        "Source1": "http://icecast.365net.is:8000/orbFmExtra.aac"
+    },
+    {
+        "Title": "Visir \"FM957\" 95.7 Reykjavik",
+        "Country": "Iceland",
+        "Tags": "local music,pop,reykjavik",
+        "Language": "is",
+        "Homepage": "http://fm957.visir.is/",
+        "Source1": "http://icecast.365net.is:8000/orbFm957.aac.m3u"
+    },
+    {
+        "Title": "X977",
+        "Country": "Iceland",
+        "Tags": "local music,rock",
+        "Language": "is",
+        "Homepage": "http://x977.visir.is/",
+        "Source1": "http://icecast.365net.is:8000/orbXid.aac.m3u"
+    },
+    {
+        "Title": "Útvarp Saga",
+        "Country": "Iceland",
+        "Tags": "news talk,talk & speech,talk radio",
+        "Favicon": "https://utvarpsaga.is/wp-content/uploads/2016/05/merki-toppur.png",
+        "Language": "is",
+        "Homepage": "https://utvarpsaga.is/",
+        "Latitude": 64.14003957306845,
+        "Longitude": -21.90259306150723,
+        "Source1": "https://stream.utvarpsaga.is/Hljodver"
+    }
+]

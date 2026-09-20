@@ -1,0 +1,55 @@
+[
+    {
+        "Title": "2dayFM 104.0 Suva",
+        "Country": "Fiji",
+        "Tags": "pop,suva,top 40",
+        "Favicon": "http://2dayfm.fbc.com.fj/admin-favicon.ico",
+        "Language": "en",
+        "Homepage": "http://2dayfm.fbc.com.fj/",
+        "Source1": "http://peridot.streamguys.com:7150/2Day"
+    },
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "Fiji",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "Bula FM",
+        "Country": "Fiji",
+        "Tags": "fijian programming",
+        "Favicon": "http://bulafm.fbc.com.fj/admin-favicon.ico",
+        "Language": "fj",
+        "Homepage": "http://bulafm.fbc.com.fj/",
+        "Source1": "http://peridot.streamguys.com:7150/Bula"
+    },
+    {
+        "Title": "Fiji Gold FM 100.4 Suva",
+        "Country": "Fiji",
+        "Tags": "fiji,local news,pop,suva",
+        "Favicon": "http://goldfm.fbc.com.fj/admin-favicon.ico",
+        "Language": "en",
+        "Homepage": "http://goldfm.fbc.com.fj/",
+        "Source1": "http://peridot.streamguys.com:7150/Gold"
+    },
+    {
+        "Title": "Radio Fiji One",
+        "Country": "Fiji",
+        "Tags": "pacific island music",
+        "Favicon": "http://rf1.fbc.com.fj/admin-favicon.ico",
+        "Language": "fj",
+        "Homepage": "http://rf1.fbc.com.fj/",
+        "Source1": "http://peridot.streamguys.com:7150/RFOne"
+    },
+    {
+        "Title": "Radio Fiji Two",
+        "Country": "Fiji",
+        "Tags": "south asian music",
+        "Favicon": "http://rf2.fbc.com.fj/admin-favicon.ico",
+        "Language": "en",
+        "Homepage": "http://rf2.fbc.com.fj/",
+        "Source1": "http://peridot.streamguys.com:7150/RFTwo"
+    }
+]

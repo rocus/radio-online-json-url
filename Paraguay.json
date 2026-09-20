@@ -1,0 +1,558 @@
+[
+    {
+        "Title": "94.3 FM del Este",
+        "Country": "Paraguay",
+        "Tags": "cumbia,music,musica,música urbana,talk,urban,vallenato",
+        "Favicon": "https://www.cadenaradialdeleste.com.py/wp-content/uploads/2021/03/logo_4.png",
+        "Language": "es",
+        "Homepage": "https://www.cadenaradialdeleste.com.py/",
+        "Source1": "http://radio.cdehosting.net:8040/;"
+    },
+    {
+        "Title": "ABC Cardinal 730AM",
+        "Country": "Paraguay",
+        "Tags": "news",
+        "Language": "es",
+        "Homepage": "https://www.abc.com.py/",
+        "Latitude": -25.286154811556575,
+        "Longitude": -57.63477087020875,
+        "Source1": "http://media.streambrothers.com:18342/stream"
+    },
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "Paraguay",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "Amabmay FM 100.5",
+        "Country": "Paraguay",
+        "Tags": "2000s,70s,80s,90s,classic hits,hits,music",
+        "Favicon": "https://amambayfm.com/wp-content/uploads/2020/07/Logo-ajustada-1.png",
+        "Language": "es",
+        "Homepage": "https://amambayfm.com/",
+        "Source1": "http://cp9.serverse.com:7221/amambayfm"
+    },
+    {
+        "Title": "Aranduka 87.9 FM Paraguay",
+        "Country": "Paraguay",
+        "Tags": "classic hits,pop,top 40,world music",
+        "Favicon": "null",
+        "Language": "es",
+        "Homepage": "http://www.desdeparaguay.com/aranduka",
+        "Source1": "http://tigocloud.desdeparaguay.net/movaranduka/movaranduka.stream/playlist.m3u8"
+    },
+    {
+        "Title": "Aspen FM 102.7 Paraguay",
+        "Country": "Paraguay",
+        "Tags": "community,pop,top 40",
+        "Favicon": "null",
+        "Homepage": "https://www.radioaspen.com.py/",
+        "Source1": "https://copaco.desdeparaguay.net/movaspen/movaspen.stream/playlist.m3u8"
+    },
+    {
+        "Title": "Cuevas FM 91.7",
+        "Country": "Paraguay",
+        "Tags": "entretenimiento,grupera,latin pop,musica romantica,música variada",
+        "Favicon": "https://paraguayonline.net/wp-content/uploads/2019/03/cuevas.png",
+        "Language": "es",
+        "Homepage": "https://paraguayonline.net/cuevasfm/",
+        "Source1": "https://radio.host.com.py:7020/;"
+    },
+    {
+        "Title": "Educación FM 99.7",
+        "Country": "Paraguay",
+        "Tags": "dance,hits,oldies,pop,reggaeton,rock,top 40",
+        "Favicon": "https://educacionfm.com.py/wp-content/uploads/2021/08/favicon-183x300.png",
+        "Language": "es",
+        "Homepage": "https://educacionfm.com.py/",
+        "Source1": "https://proxy01.servidorenlinea.net/cdehosting/8050/;"
+    },
+    {
+        "Title": "Emisoras Paraguay 106.1",
+        "Country": "Paraguay",
+        "Tags": "music",
+        "Favicon": "null",
+        "Homepage": "http://www.emisorasparaguay.com.py/",
+        "Source1": "https://rds3.desdeparaguay.net/movemisoras/movemisoras.stream/chunklist_w1882715633.m3u8?k=90ba439d59a58390e5abac95530dd4becd61b4e573b237e6fe0bf9eb4a529caf&exp=1693084452"
+    },
+    {
+        "Title": "Emisoras Paraguay 106.1 FM",
+        "Country": "Paraguay",
+        "Tags": "cumbia,entretenimiento,folclore,music,música variada,tropical,vallenato",
+        "Favicon": "https://www.desdeparaguay.com/favicon.ico",
+        "Language": "es",
+        "Homepage": "https://www.desdeparaguay.com/emisoras",
+        "Source1": "https://rds3.desdeparaguay.net/movemisoras/movemisoras.stream/playlist.m3u8"
+    },
+    {
+        "Title": "Estacion 105  105.1 FM",
+        "Country": "Paraguay",
+        "Tags": "cumbia,dance,entretenimiento,tropical",
+        "Favicon": "https://turadio.com.py/wp-content/uploads/2021/09/WhatsApp-Image-2021-09-22-at-07.05.19-300x292.jpeg",
+        "Language": "es",
+        "Homepage": "https://turadio.com.py/estacion105/",
+        "Source1": "http://radio.host.com.py:9460/;"
+    },
+    {
+        "Title": "Exa FM",
+        "Country": "Paraguay",
+        "Tags": "93.3 fm,entretenimiento,español,estación,exa,exa fm,fm,juvenil,la estación exacta,la estación naranja,moi merino,mvs,mvs noticias,mvs radio,música en español e inglés,música pop,ponte exa,pop,pop en español e inglés,pop music,pop rock,radio",
+        "Language": "es",
+        "Homepage": "https://www.exafm.com/veracruz/",
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac"
+    },
+    {
+        "Title": "Exclusiva FM 103.7",
+        "Country": "Paraguay",
+        "Tags": "music",
+        "Homepage": "http://www.exclusiva.com.py/",
+        "Source1": "https://rds3.desdeparaguay.net/movexclusiva/movexclusiva.stream/playlist.m3u8"
+    },
+    {
+        "Title": "Exclusiva FM 103.7 FM",
+        "Country": "Paraguay",
+        "Tags": "folclore,music,noticias,popular,variety",
+        "Favicon": "https://www.exclusivafm.com.py/FLYER%20WEB.png",
+        "Language": "es,gn",
+        "Homepage": "https://www.exclusivafm.com.py/",
+        "Source1": "https://rds3.desdeparaguay.net/movexclusiva/movexclusiva.stream/playlist.m3u8"
+    },
+    {
+        "Title": "Fabulosa FM 104.5",
+        "Country": "Paraguay",
+        "Tags": "folclore,music,nacional,popular",
+        "Favicon": "https://turadio.com.py/wp-content/uploads/2022/07/fablog123234.png",
+        "Language": "es,gn",
+        "Homepage": "https://turadio.com.py/fabulosafm/",
+        "Source1": "https://radio.host.com.py:7034/;"
+    },
+    {
+        "Title": "FM POPULAR 103.1",
+        "Country": "Paraguay",
+        "Tags": "music",
+        "Favicon": "https://hoypyspace.sfo2.cdn.digitaloceanspaces.com/imagenes/favicon-150x150.png",
+        "Homepage": "http://www.hoy.com.py/",
+        "Source1": "https://rds3.desdeparaguay.net/transpopular/transpopular/playlist.m3u8"
+    },
+    {
+        "Title": "GO Radio",
+        "Country": "Paraguay",
+        "Favicon": "null",
+        "Language": "es",
+        "Homepage": "http://goradio.com.py/",
+        "Source1": "https://rds3.desdeparaguay.net:8002/go"
+    },
+    {
+        "Title": "Golden Classic Radio PY",
+        "Country": "Paraguay",
+        "Favicon": "https://ibb.co/prLvsVGn",
+        "Language": "es",
+        "Homepage": "https://goldenclassicradiopy.wixsite.com/my-site-8",
+        "Source1": "https://stream.zeno.fm/9wxcnjd0dievv"
+    },
+    {
+        "Title": "La Clave 103.9",
+        "Country": "Paraguay",
+        "Tags": "música y noticias",
+        "Favicon": "https://www.laclave.com.py/wp-content/uploads/2024/01/unnamed-e1712685386448.png",
+        "Homepage": "https://www.laclave.com.py/",
+        "Latitude": -25.50602846574105,
+        "Longitude": -54.65389251708985,
+        "Source1": "https://radio.host.com.py:7181/"
+    },
+    {
+        "Title": "Monumental 1080 AM",
+        "Country": "Paraguay",
+        "Homepage": "https://monumental.com.py/en-vivo/",
+        "Source1": "https://mdstrm.com/audio/62d81ca6a459e4082203c95b/icecast.audio"
+    },
+    {
+        "Title": "Radio 1000 AM",
+        "Country": "Paraguay",
+        "Tags": "entrevistas,información,noticias,noticias y comentarios,radio hablada",
+        "Favicon": "https://1000noticias.com.py/wp-content/uploads/2024/03/130x30-1000-Noticias-1.png",
+        "Language": "es",
+        "Homepage": "https://1000noticias.com.py/",
+        "Source1": "https://1000noticias.live:8000/radio.mp3"
+    },
+    {
+        "Title": "Radio ABC Cardinal 730 AM",
+        "Country": "Paraguay",
+        "Tags": "news,sports,sports news",
+        "Favicon": "https://cdn-radiotime-logos.tunein.com/s17748q.png",
+        "Language": "es",
+        "Homepage": "https://www.abc.com.py/730am/",
+        "Source1": "http://sc.abc.com.py:8000/stream"
+    },
+    {
+        "Title": "Radio ABC Cardinal 730 AM (Asunción)",
+        "Country": "Paraguay",
+        "Tags": "cardinal,news,pop,sports,top40",
+        "Favicon": "null",
+        "Language": "es",
+        "Homepage": "http://www.abc.com.py/",
+        "Source1": "https://media.streambrothers.com:8342/stream"
+    },
+    {
+        "Title": "Radio ABC FM 98.5",
+        "Country": "Paraguay",
+        "Tags": "music,pop,rock,soft,top40",
+        "Favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241105_202739298.jpg?alt=media&token=4e8619fe-ed18-4fce-b1ba-c2ecdd4239c3",
+        "Homepage": "http://www.abc.com.py/fm",
+        "Source1": "http://200.3.249.91:8000/abcradio/fm.mp3"
+    },
+    {
+        "Title": "Radio ABC FM 98.5 (Asunción)",
+        "Country": "Paraguay",
+        "Tags": "asunción,pop,rock,top40",
+        "Favicon": "null",
+        "Homepage": "http://www.abc.com.pyl/",
+        "Source1": "https://media.streambrothers.com:8350/stream"
+    },
+    {
+        "Title": "Radio Amambay 100.5 FM",
+        "Country": "Paraguay",
+        "Tags": "latino,pop,rock,top 40",
+        "Favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241210_104440626.jpg?alt=media&token=27211221-2aba-4383-8e1b-dcc3f0e53e1a",
+        "Homepage": "http://www.amambayfm.com/",
+        "Source1": "http://cp9.serverse.com:7221/stream"
+    },
+    {
+        "Title": "Radio Amor 95.9FM",
+        "Country": "Paraguay",
+        "Tags": "amor,clasicos,latino,música romántica,nuevos",
+        "Favicon": "https://www.facebook.com/favicon.ico",
+        "Language": "es",
+        "Homepage": "https://www.facebook.com/FMAmor959/",
+        "Latitude": -25.32256266258606,
+        "Longitude": -57.56148487329484,
+        "Source1": "https://copaco.desdeparaguay.net/movamor/movamor.stream/playlist.m3u8"
+    },
+    {
+        "Title": "Radio Aranduka 87.9 FM",
+        "Country": "Paraguay",
+        "Tags": "music,pop,talk,world",
+        "Favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240809_152448137.jpg?alt=media&token=c2f91e77-f1e2-4779-aefc-625153c140a5",
+        "Homepage": "https://m.desdeparaguay.com/aranduka",
+        "Source1": "http://rds3.desdeparaguay.net/movaranduka/movaranduka.stream/playlist.m3u8"
+    },
+    {
+        "Title": "Radio Arasuncion",
+        "Country": "Paraguay",
+        "Tags": "ai,ai radio,ambient,asuncion,jazz,paraguay,pop,spanish radio",
+        "Favicon": "https://radiaura.net/apple-touch-icon.png",
+        "Language": "spa",
+        "Homepage": "https://radiaura.net/arasuncion",
+        "Source1": "https://stream.radiaura.net/station-2ab200ee-b166-415a-b8df-7b20c6a37ff9"
+    },
+    {
+        "Title": "Radio Aspen 102.7 FM",
+        "Country": "Paraguay",
+        "Tags": "dance,hiphop,pop,rock,top 40",
+        "Favicon": "https://www.radioaspen.com.py/wp-content/uploads/2021/05/cropped-android-chrome-512x512-1-1-180x180.png",
+        "Homepage": "http://www.radioaspen.com.py/",
+        "Source1": "https://rds3.desdeparaguay.net/movaspen/movaspen.stream/playlist.m3u8"
+    },
+    {
+        "Title": "Radio Aspen Paraguay",
+        "Country": "Paraguay",
+        "Favicon": "https://www.radioaspen.com.py/wp-content/uploads/2021/05/cropped-android-chrome-512x512-1-1-180x180.png",
+        "Homepage": "https://www.radioaspen.com.py/",
+        "Source1": "https://tigocloud.desdeparaguay.net/movaspen/movaspen.stream/playlist.m3u8?k=cab33b6f9bb8d7e340d2a8ce8d4476e4576ce92fbc993b81666e7db795dc1da7&exp=1664206557"
+    },
+    {
+        "Title": "RADIO CAAPUCU FM 91.7",
+        "Country": "Paraguay",
+        "Tags": "alternative,indie,local radio,rock,rock nacional",
+        "Favicon": "https://turadio.com.py/wp-content/uploads/2019/10/caapucu-300x259.png",
+        "Language": "es",
+        "Homepage": "https://turadio.com.py/caapucufm/",
+        "Source1": "http://radio.host.com.py:9452/;"
+    },
+    {
+        "Title": "Radio Canal 100.1 FM",
+        "Country": "Paraguay",
+        "Tags": "pop,soft,talk,world",
+        "Favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240720_160828943.jpg?alt=media&token=f299e9c1-3181-400b-a31c-39bd9b668160",
+        "Homepage": "https://m.desdeparaguay.com/canal100",
+        "Source1": "https://rds3.desdeparaguay.net/movcanal100/movcanal100.stream/playlist.m3u8"
+    },
+    {
+        "Title": "Radio Capital 101.7 FM",
+        "Country": "Paraguay",
+        "Tags": "pop,soca,talk,varios",
+        "Favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241105_204252387.jpg?alt=media&token=da81a455-548b-4df2-8a82-0ea75530bd00",
+        "Homepage": "https://m.desdeparaguay.com/capital",
+        "Source1": "http://ic2489.c1788.fastserv.com/stream"
+    },
+    {
+        "Title": "Radio Cerro Cora 91.5 FM",
+        "Country": "Paraguay",
+        "Tags": "dance,latina,música,pop",
+        "Favicon": "null",
+        "Language": "es",
+        "Homepage": "http://www.cerrocorafm.com.py/",
+        "Source1": "http://135.181.103.10:8018/stream"
+    },
+    {
+        "Title": "Radio Concierto 89.1",
+        "Country": "Paraguay",
+        "Favicon": "https://radioconcierto.com.py/wp-content/uploads/2018/04/flaicon-2.png",
+        "Homepage": "https://radioconcierto.com.py/",
+        "Source1": "https://radio.host.com.py/9572/stream"
+    },
+    {
+        "Title": "Radio Digital 88.5 Fm Paraguay",
+        "Country": "Paraguay",
+        "Homepage": "http://streaming.camaronhosting.com:8036/",
+        "Latitude": -24.082831313256037,
+        "Longitude": -57.083891057716606,
+        "Source1": "http://streaming.camaronhosting.com:8036/"
+    },
+    {
+        "Title": "Radio Disney Paraguay FM 96.5",
+        "Country": "Paraguay",
+        "Favicon": "https://py.radiodisney.com/favicon.ico",
+        "Language": "es",
+        "Homepage": "https://py.radiodisney.com/",
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_PAR_ASAAC.m3u8?dist=web-radiodisney"
+    },
+    {
+        "Title": "Radio Estación 40 91.1 FM",
+        "Country": "Paraguay",
+        "Tags": "latino,música,pop,varios",
+        "Favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240930_211923664.jpg?alt=media&token=754b957d-19bb-49d6-8748-4da589fb8939",
+        "Homepage": "https://estacion40.com.py/",
+        "Source1": "http://rds3.desdeparaguay.net/transestacion40/transestacion40/playlist.m3u8"
+    },
+    {
+        "Title": "Radio Estación 40 91.1 FM",
+        "Country": "Paraguay",
+        "Tags": "dance,latina,pop,top 40",
+        "Favicon": "null",
+        "Language": "es",
+        "Homepage": "http://www.estacion40.com.py/",
+        "Source1": "http://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/62d81cfbbfbcee0837ba1b60"
+    },
+    {
+        "Title": "RADIO EXITOS DE AYER",
+        "Country": "Paraguay",
+        "Language": "en,es",
+        "Homepage": "http://stream.zeno.fm/hvnh6d5uebruv",
+        "Source1": "http://stream.zeno.fm/hvnh6d5uebruv"
+    },
+    {
+        "Title": "Radio Impacto 95.3",
+        "Country": "Paraguay",
+        "Homepage": "https://paraguayonline.net/",
+        "Source1": "https://radio.host.com.py:7137/;"
+    },
+    {
+        "Title": "Radio Impacto 95.3 FM",
+        "Country": "Paraguay",
+        "Tags": "music,rock,soft,world",
+        "Favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240707_215147809.jpg?alt=media&token=f575a19f-9671-488a-9d22-3ea89f5ad321",
+        "Language": "es",
+        "Homepage": "https://paraguayonline.net/impacto953/",
+        "Source1": "http://radio.host.com.py:9714/stream"
+    },
+    {
+        "Title": "RADIO MARIA PARAGUAY",
+        "Country": "Paraguay",
+        "Tags": "catholic,religion,talk",
+        "Favicon": "http://radiomaria.org.py/wp-content/uploads/2019/01/cropped-LogoRadioMaría-Favicon-512x512-32x32.png",
+        "Homepage": "http://radiomaria.org.py/",
+        "Source1": "http://dreamsiteradiocp.com:8090/stream"
+    },
+    {
+        "Title": "Radio Mix 90.1 FM",
+        "Country": "Paraguay",
+        "Tags": "music,pop,rock,soft",
+        "Favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240809_152219338.jpg?alt=media&token=75e6cd7a-5213-4c68-afe8-fbe9968b6dc8",
+        "Homepage": "https://radiomix.com.py/",
+        "Source1": "https://rds3.desdeparaguay.net/movmix/movmix.stream/playlist.m3u8"
+    },
+    {
+        "Title": "Radio Monumental 1080 AM",
+        "Country": "Paraguay",
+        "Tags": "dance,news,pop,spansh",
+        "Favicon": "null",
+        "Language": "es",
+        "Homepage": "http://monumental.com.py/",
+        "Source1": "http://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/62d81ca6a459e4082203c95b"
+    },
+    {
+        "Title": "Radio Nacional del Paraguay 920 AM",
+        "Country": "Paraguay",
+        "Tags": "full service,public radio,radio publica",
+        "Language": "es,gn",
+        "Homepage": "http://www.radionacional.gov.py/",
+        "Source1": "http://audio.radionacional.gov.py:8085/920"
+    },
+    {
+        "Title": "Radio OBEDIRA Online",
+        "Country": "Paraguay",
+        "Homepage": "https://www.obedira.com.py/",
+        "Source1": "https://s17.ssl-stream.com/proxy/obedira?mp=/live"
+    },
+    {
+        "Title": "Radio Palma 106.5 FM",
+        "Country": "Paraguay",
+        "Tags": "dance,latina,music,pop,spanish",
+        "Favicon": "null",
+        "Homepage": "http://www.palma.com.py/",
+        "Source1": "http://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/62d81d48f5ef320830c8becf"
+    },
+    {
+        "Title": "Radio Palma 106.5 FM",
+        "Country": "Paraguay",
+        "Tags": "latino,music,pop",
+        "Favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240930_212416672.jpg?alt=media&token=fb9395f8-389a-4d42-ac12-0e7da655b528",
+        "Homepage": "https://palma.com.py/",
+        "Source1": "http://rds3.desdeparaguay.net/transpalma/transpalma/playlist.m3u8"
+    },
+    {
+        "Title": "Radio Pop 93.3 FM",
+        "Country": "Paraguay",
+        "Tags": "latino,music,pop,world",
+        "Favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241105_203135093.jpg?alt=media&token=3532e8d0-3443-48a5-beff-891a79cadf7b",
+        "Homepage": "http://radiopop.com.py/",
+        "Source1": "http://rps1.radiopop.com.py:8000/stream"
+    },
+    {
+        "Title": "Radio RQP 94.3 FM",
+        "Country": "Paraguay",
+        "Tags": "pop,rock,soft,top 40",
+        "Favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241215_234329937.jpg?alt=media&token=f015eeac-3c79-4ae9-b799-b676845814d9",
+        "Homepage": "http://www.rqp.com.py/",
+        "Source1": "http://rds3.desdeparaguay.net/transrqp/transrqp/playlist.m3u",
+        "Source2": "http://dx85eyfuo1x2i.cloudfront.net/index.m3u8"
+    },
+    {
+        "Title": "Radio Sagrados Online",
+        "Country": "Paraguay",
+        "Tags": "pop,rock,soft,top 40",
+        "Favicon": "null",
+        "Language": "es",
+        "Homepage": "http://rsonline.com.py/",
+        "Source1": "http://rds3.desdeparaguay.net/movsagrados/movsagrados.stream/playlist.m3u8"
+    },
+    {
+        "Title": "Radio Tapiracuai 88.7 FM",
+        "Country": "Paraguay",
+        "Favicon": "null",
+        "Language": "es",
+        "Homepage": "https://www.desdeparaguay.com/tapiracuai",
+        "Source1": "https://tigocloud.desdeparaguay.net/movtapiracuai/movtapiracuai.stream/playlist.m3u8"
+    },
+    {
+        "Title": "Radio Top Milenium 91.5 FM",
+        "Country": "Paraguay",
+        "Tags": "dance,electronic,pop,top 40",
+        "Favicon": "null",
+        "Homepage": "http://www.topmilenium915.com.py/",
+        "Source1": "http://sonic.host-live.com:8398/stream"
+    },
+    {
+        "Title": "Radio Universo 92.5 Fm",
+        "Country": "Paraguay",
+        "Homepage": "https://www.cadenaradialdeleste.com.py/",
+        "Source1": "http://radio.cdehosting.net:8042/stream"
+    },
+    {
+        "Title": "Radio Urbana 106.9 FM",
+        "Country": "Paraguay",
+        "Tags": "00s,dance 90s,hiphop,hits,music,pop,rap",
+        "Favicon": "null",
+        "Homepage": "http://www.urbana.com.py/",
+        "Source1": "http://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/62d81cdabff0bc082f8f1a24"
+    },
+    {
+        "Title": "Radio Urbana 106.9 FM",
+        "Country": "Paraguay",
+        "Tags": "music,pop",
+        "Favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240930_212316657.jpg?alt=media&token=19071bd7-a09d-492a-8c04-5faf673b3c09",
+        "Homepage": "https://urbana.com.py/",
+        "Source1": "http://rds3.desdeparaguay.net/transurbana/transurbana/playlist.m3u8"
+    },
+    {
+        "Title": "RADIO VALLENATOS CLÁSICOS",
+        "Country": "Paraguay",
+        "Language": "es",
+        "Homepage": "http://stream.zeno.fm/z07vyxbqz8quv",
+        "Source1": "http://stream.zeno.fm/z07vyxbqz8quv"
+    },
+    {
+        "Title": "Radio Vibras 92.7FM",
+        "Country": "Paraguay",
+        "Tags": "latino,reggaetón,urban,urbano",
+        "Favicon": "https://i0.wp.com/www.ipparaguay.com.py/wp-content/uploads/2020/10/Radio-Vibras.jpg?resize=1024%2C1024&ssl=1",
+        "Language": "es",
+        "Homepage": "https://www.vibras.com.py/",
+        "Latitude": -25.32263880660027,
+        "Longitude": -57.56137490272523,
+        "Source1": "https://rds3.desdeparaguay.net/movvibras/movvibras.stream/playlist.m3u8"
+    },
+    {
+        "Title": "Radio Ysapy 90.7 FM",
+        "Country": "Paraguay",
+        "Tags": "dance,pop,spanish,top 40",
+        "Favicon": "null",
+        "Language": "nl",
+        "Homepage": "http://radioysapy.com.py/",
+        "Source1": "http://streamsoymedios.com:8014/stream"
+    },
+    {
+        "Title": "Rock&Pop Paraguay",
+        "Country": "Paraguay",
+        "Favicon": "https://rockandpop.com.py/wp-content/uploads/2020/06/cropped-cropped-logorockas-180x180-1-180x180.png",
+        "Homepage": "https://rockandpop.com.py/",
+        "Latitude": -25.300012836598857,
+        "Longitude": -57.59406298398972,
+        "Source1": "https://cp9.serverse.com/proxy/rockandpop/stream"
+    },
+    {
+        "Title": "Sin Fronteras 98.5 FM",
+        "Country": "Paraguay",
+        "Tags": "disco,latino,music,pop",
+        "Favicon": "null",
+        "Language": "es",
+        "Homepage": "http://www.sinfronterasfm.com/",
+        "Source1": "http://tigocloud.desdeparaguay.net/movsinfronteras/movsinfronteras.stream/playlist.m3u8"
+    },
+    {
+        "Title": "super radio",
+        "Country": "Paraguay",
+        "Homepage": "https://c32.radioboss.fm:8139/stream",
+        "Source1": "https://c32.radioboss.fm:8139/stream"
+    },
+    {
+        "Title": "Tereré Mix Paraguay",
+        "Country": "Paraguay",
+        "Tags": "cumbia,folclore",
+        "Favicon": "https://zeno.fm/apple-icon-120x120.png",
+        "Homepage": "https://zeno.fm/radio/terere-mix-paraguay",
+        "Source1": "https://stream.zeno.fm/a0z8gjrlucluv"
+    },
+    {
+        "Title": "Tropicalia 93.9FM",
+        "Country": "Paraguay",
+        "Tags": "cumbia,latino,pop urbano,reggaeton,trap,urbano",
+        "Favicon": "https://www.tropicalia.com.py/dist/images/apple-touch-icon.png",
+        "Language": "es",
+        "Homepage": "https://www.tropicalia.com.py/",
+        "Latitude": -25.322544971407744,
+        "Longitude": -57.56139028351755,
+        "Source1": "https://rds3.desdeparaguay.net/movtropicalia/movtropicalia.stream/playlist.m3u8"
+    },
+    {
+        "Title": "Vibras 92.7FM",
+        "Country": "Paraguay",
+        "Tags": "r&b/urban",
+        "Homepage": "https://www.vibras.com.py/",
+        "Source1": "https://copaco.desdeparaguay.net/movvibras/movvibras.stream/chunklist_w1786225280.m3u8?k=5d1b32cc4cfb2b10be3ecff56d8aeee5e59993cfc1a5234cc73eca0b8b7f7487&exp=1651095717"
+    }
+]

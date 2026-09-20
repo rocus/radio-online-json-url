@@ -1,0 +1,520 @@
+[
+    {
+        "Title": "#radio quran",
+        "Country": "Pakistan",
+        "Tags": "classical",
+        "Source1": "https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g"
+    },
+    {
+        "Title": "101peshawar",
+        "Country": "Pakistan",
+        "Favicon": "null",
+        "Homepage": "https://whmsonic.radio.gov.pk:8070/relay?type=http&nocache=9",
+        "Source1": "https://whmsonic.radio.gov.pk:8070/relay?type=http&nocache=9"
+    },
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "Pakistan",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "AK radio Trarkhal",
+        "Country": "Pakistan",
+        "Tags": "❤️",
+        "Favicon": "null",
+        "Language": "ur",
+        "Homepage": "https://whmsonic.radio.gov.pk:8076/relay?type=http&nocache=9",
+        "Source1": "https://whmsonic.radio.gov.pk:8076/relay?type=http&nocache=9"
+    },
+    {
+        "Title": "Aladin Radio Network",
+        "Country": "Pakistan",
+        "Language": "ur",
+        "Homepage": "http://aladinradio.com/",
+        "Latitude": 33.664657282179306,
+        "Longitude": 73.0693817138672,
+        "Source1": "https://cc.vmakerhost.com/proxy/magic?mp=/live"
+    },
+    {
+        "Title": "All4Masti",
+        "Country": "Pakistan",
+        "Tags": "beats,jazz,rock,smooth",
+        "Favicon": "https://listenonlineradio.com/wp-content/uploads/All4Masti.jpg",
+        "Language": "en,hi,ur",
+        "Homepage": "https://all4masti.com/",
+        "Latitude": 32.073505272699286,
+        "Longitude": 72.68018165945509,
+        "Source1": "http://stream.zeno.fm/bahhkuge5zhvv"
+    },
+    {
+        "Title": "BAHAWAL PUR MW STATION",
+        "Country": "Pakistan",
+        "Favicon": "null",
+        "Language": "ur",
+        "Homepage": "https://www.radio.gov.pk/live-streaming",
+        "Source1": "https://whmsonic.radio.gov.pk:8088/stream?type=http&nocache=4"
+    },
+    {
+        "Title": "City FM 89",
+        "Country": "Pakistan",
+        "Homepage": "https://cityfm89.com/",
+        "Source1": "https://radio.cityfm89.com/stream"
+    },
+    {
+        "Title": "City FM 89 Islamabad",
+        "Country": "Pakistan",
+        "Tags": "city fm 89 islamabad",
+        "Favicon": "https://cityfm89.com/favicon.ico",
+        "Language": "en,ur",
+        "Homepage": "https://cityfm89.com/",
+        "Latitude": 33.640990668362946,
+        "Longitude": 73.02886962890626,
+        "Source1": "https://radio.cityfm89.com/stream"
+    },
+    {
+        "Title": "fm",
+        "Country": "Pakistan",
+        "Tags": "classical",
+        "Source1": "http://canada1.reliastream.com:8191/stream"
+    },
+    {
+        "Title": "FM 100 Pakistan",
+        "Country": "Pakistan",
+        "Tags": "folk,islamic,talk",
+        "Favicon": "http://fm100pakistan.com/favicon.ico",
+        "Language": "ur",
+        "Homepage": "http://fm100pakistan.com/",
+        "Source1": "http://162.244.80.118:4900/;stream.mp3"
+    },
+    {
+        "Title": "FM 100 Pakistan Abbottabad",
+        "Country": "Pakistan",
+        "Favicon": "http://fm100pakistan.com/favicon.ico",
+        "Language": "ur",
+        "Homepage": "http://fm100pakistan.com/",
+        "Latitude": 34.144638202391015,
+        "Longitude": 73.21460723876955,
+        "Source1": "http://162.244.80.118:4900/stream.mp3"
+    },
+    {
+        "Title": "FM 100 Pakistan Gujrat",
+        "Country": "Pakistan",
+        "Favicon": "http://fm100pakistan.com/favicon.ico",
+        "Language": "en",
+        "Homepage": "http://fm100pakistan.com/",
+        "Latitude": 32.567376636216494,
+        "Longitude": 74.07600402832033,
+        "Source1": "http://162.244.80.118:4900/stream.mp3?ver=682776"
+    },
+    {
+        "Title": "FM 100 Pakistan Hyderabad",
+        "Country": "Pakistan",
+        "Favicon": "http://fm100pakistan.com/favicon.ico",
+        "Language": "sd,ur",
+        "Homepage": "http://fm100pakistan.com/",
+        "Latitude": 25.357755107936605,
+        "Longitude": 68.34320068359376,
+        "Source1": "http://162.244.80.118:3024/stream.mp3?ver=517748"
+    },
+    {
+        "Title": "FM 100 Pakistan Islamabad",
+        "Country": "Pakistan",
+        "Favicon": "http://fm100pakistan.com/favicon.ico",
+        "Language": "en,ur",
+        "Homepage": "http://fm100pakistan.com/",
+        "Latitude": 33.673532816513664,
+        "Longitude": 73.06045532226564,
+        "Source1": "http://162.244.80.118:4900/stream.mp3?ver=604498"
+    },
+    {
+        "Title": "FM 100 Pakistan Jhelum",
+        "Country": "Pakistan",
+        "Homepage": "http://fm100pakistan.com/",
+        "Latitude": 32.92286169607658,
+        "Longitude": 73.72787475585939,
+        "Source1": "http://162.244.80.118:4900/stream.mp3"
+    },
+    {
+        "Title": "FM 100 Pakistan Karachi",
+        "Country": "Pakistan",
+        "Favicon": "http://fm100pakistan.com/favicon.ico",
+        "Language": "en,sd,ur",
+        "Homepage": "http://fm100pakistan.com/",
+        "Latitude": 24.874133877351746,
+        "Longitude": 67.09899902343751,
+        "Source1": "http://162.244.80.118:3024/stream.mp3?ver=349829"
+    },
+    {
+        "Title": "FM 101 Islamabad",
+        "Country": "Pakistan",
+        "Homepage": "https://radio.gov.pk/",
+        "Source1": "https://whmsonic.radio.gov.pk:7008/stream"
+    },
+    {
+        "Title": "FM 101 Karachi",
+        "Country": "Pakistan",
+        "Homepage": "https://radio.gov.pk/",
+        "Source1": "https://whmsonic.radio.gov.pk:8048/stream"
+    },
+    {
+        "Title": "FM 101 Khairpur",
+        "Country": "Pakistan",
+        "Tags": "public radio",
+        "Homepage": "https://radio.gov.pk/",
+        "Source1": "https://whmsonic.radio.gov.pk:8054/stream"
+    },
+    {
+        "Title": "FM 101 Larkana",
+        "Country": "Pakistan",
+        "Homepage": "https://radio.gov.pk/",
+        "Source1": "https://whmsonic.radio.gov.pk:8050/stream"
+    },
+    {
+        "Title": "FM 101 Mithi",
+        "Country": "Pakistan",
+        "Homepage": "https://radio.gov.pk/",
+        "Source1": "https://whmsonic.radio.gov.pk:8052/stream"
+    },
+    {
+        "Title": "FM 101 Sargodha",
+        "Country": "Pakistan",
+        "Tags": "public radio",
+        "Homepage": "https://radio.gov.pk/",
+        "Source1": "https://whmsonic.radio.gov.pk:8040/relay"
+    },
+    {
+        "Title": "FM 93 Chitral",
+        "Country": "Pakistan",
+        "Homepage": "https://radio.gov.pk/",
+        "Source1": "https://whmsonic.radio.gov.pk:8066/relay"
+    },
+    {
+        "Title": "FM 93 Faisalabad",
+        "Country": "Pakistan",
+        "Homepage": "https://radio.gov.pk/",
+        "Source1": "https://whmsonic.radio.gov.pk:8022/relay"
+    },
+    {
+        "Title": "FM 93 Karachi",
+        "Country": "Pakistan",
+        "Homepage": "https://radio.gov.pk/",
+        "Source1": "https://whmsonic.radio.gov.pk:7022/stream"
+    },
+    {
+        "Title": "FM 93 Lahore",
+        "Country": "Pakistan",
+        "Homepage": "https://radio.gov.pk/",
+        "Source1": "https://whmsonic.radio.gov.pk:8088/stream"
+    },
+    {
+        "Title": "FM 93 Mianwali",
+        "Country": "Pakistan",
+        "Homepage": "https://radio.gov.pk/",
+        "Source1": "https://whmsonic.radio.gov.pk:8028/relay"
+    },
+    {
+        "Title": "FM 93 Multan",
+        "Country": "Pakistan",
+        "Homepage": "https://radio.gov.pk/",
+        "Source1": "https://whmsonic.radio.gov.pk:8032/stream"
+    },
+    {
+        "Title": "FM 93 Rawalpindi",
+        "Country": "Pakistan",
+        "Homepage": "https://radio.gov.pk/",
+        "Source1": "https://whmsonic.radio.gov.pk:8036/relay"
+    },
+    {
+        "Title": "fm...",
+        "Country": "Pakistan",
+        "Tags": "classical",
+        "Source1": "http://n0a.radiojar.com/htnudfgugm8uv?rj-ttl=5&rj-tok=AAABjGvN8wYArmabhGP5SLHW1A"
+    },
+    {
+        "Title": "fm.92",
+        "Country": "Pakistan",
+        "Tags": "classical",
+        "Source1": "http://s33.myradiostream.com:13872/listen.m4a"
+    },
+    {
+        "Title": "fm.92.",
+        "Country": "Pakistan",
+        "Tags": "classical",
+        "Source1": "http://s47.myradiostream.com:12804/listen.m4a"
+    },
+    {
+        "Title": "Fm.94.4",
+        "Country": "Pakistan",
+        "Tags": "classical",
+        "Source1": "https://whmsonic.radio.gov.pk:7002/stream?type=http&nocache=12"
+    },
+    {
+        "Title": "Highrise 24/7 Radio - PAKISTAN",
+        "Country": "Pakistan",
+        "Tags": "highrise,music",
+        "Source1": "http://78.154.103.2:9326/stream"
+    },
+    {
+        "Title": "Hot FM 105",
+        "Country": "Pakistan",
+        "Tags": "entertainment,news,sports,talk",
+        "Favicon": "http://www.hotfm.com.pk/favicon.ico",
+        "Language": "ur",
+        "Homepage": "http://www.hotfm.com.pk/home.php",
+        "Source1": "http://172.93.237.106:8000/listen.mp3"
+    },
+    {
+        "Title": "HOT FM Karachi",
+        "Country": "Pakistan",
+        "Favicon": "http://www.hotfm.com.pk/favicon.ico",
+        "Language": "ur",
+        "Homepage": "http://www.hotfm.com.pk/home.php",
+        "Source1": "http://172.93.237.106:8000/"
+    },
+    {
+        "Title": "Hot fm Nawabshah",
+        "Country": "Pakistan",
+        "Homepage": "http://zeno.fm/",
+        "Source1": "https://stream.zeno.fm/t961q1d0vp6vv/"
+    },
+    {
+        "Title": "Hum FM 106.2",
+        "Country": "Pakistan",
+        "Tags": "bollywood",
+        "Favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyfsXeLHe8pcIRbGUSr7KczIjjpiMiGNh101nywFkEQkHmz1yKAftWRL06&s=10",
+        "Language": "en,ur",
+        "Homepage": "https://www.1062.fm/",
+        "Latitude": 24.795206860749147,
+        "Longitude": 67.0706943424193,
+        "Source1": "https://server.mediacast4u.stream/8002/stream"
+    },
+    {
+        "Title": "ILM Radio Renala FM 92",
+        "Country": "Pakistan",
+        "Favicon": "https://zeno.fm/favicon.ico",
+        "Language": "ur",
+        "Homepage": "https://zeno.fm/radio/ilm-radio-renala/",
+        "Latitude": 30.8747551904531,
+        "Longitude": 73.59861373901369,
+        "Source1": "https://stream.zeno.fm/7wre21u7xa0uv"
+    },
+    {
+        "Title": "Insaf Radio",
+        "Country": "Pakistan",
+        "Homepage": "https://www.insaf.pk/insafradio",
+        "Source1": "https://cdn.voscast.com/resources/?key=4e1e2d7ac97ea7ad9493c529df2ab16c&c=wmp"
+    },
+    {
+        "Title": "live",
+        "Country": "Pakistan",
+        "Tags": "classical",
+        "Source1": "http://live.mp3quran.net:9752/"
+    },
+    {
+        "Title": "Love-Islam-Radio",
+        "Country": "Pakistan",
+        "Language": "ar,ur",
+        "Homepage": "https://stream-52.zeno.fm/",
+        "Source1": "https://stream-52.zeno.fm/f9h69cgbu68uv"
+    },
+    {
+        "Title": "Mera FM 107.4",
+        "Country": "Pakistan",
+        "Language": "ur",
+        "Homepage": "https://www.merafm.com/",
+        "Latitude": 33.657531190464844,
+        "Longitude": 73.08517456054689,
+        "Source1": "https://samaakhi107-itelservices.radioca.st/stream"
+    },
+    {
+        "Title": "Mera FM 107.4 Lahore",
+        "Country": "Pakistan",
+        "Favicon": "null",
+        "Homepage": "https://www.merafm.com/radio-stations/",
+        "Source1": "https://samaalhr107-itelservices.radioca.st/stream"
+    },
+    {
+        "Title": "Multan MW",
+        "Country": "Pakistan",
+        "Tags": "🕺",
+        "Favicon": "null",
+        "Language": "ur",
+        "Homepage": "https://whmsonic.radio.gov.pk:8034/stream?type=http&nocache=12",
+        "Source1": "https://whmsonic.radio.gov.pk:8034/stream?type=http&nocache=12"
+    },
+    {
+        "Title": "Papa John's Pizza Pakistan",
+        "Country": "Pakistan",
+        "Favicon": "https://media.licdn.com/dms/image/C4D0BAQEI7mldY8HjDQ/company-logo_200_200/0/1646142095845/papajohnspk_logo?e=2147483647&v=beta&t=RFodNsVeiGcT4jU520HdsgjnHcfRiyJMk0WoLbBQ4XY",
+        "Language": "en,es,hi,sd,ta,ur",
+        "Homepage": "https://www/papajohns.com.pk",
+        "Source1": "http://162.252.85.85:7086/listen.pls?sid=1"
+    },
+    {
+        "Title": "Radio Mirpur",
+        "Country": "Pakistan",
+        "Tags": "☕",
+        "Favicon": "null",
+        "Language": "ur",
+        "Homepage": "https://whmsonic.radio.gov.pk:8074/?type=http&nocache=9",
+        "Source1": "https://whmsonic.radio.gov.pk:8074/?type=http&nocache=9"
+    },
+    {
+        "Title": "Radio One FM 91",
+        "Country": "Pakistan",
+        "Tags": "islamabad,karachi,lahore,pakistan fm radio,radio one fm91",
+        "Language": "en,ur",
+        "Homepage": "https://fm91.com.pk/",
+        "Latitude": 31.52016648911368,
+        "Longitude": 74.32800292968751,
+        "Source1": "https://cc.vmakerhost.com/proxy/karachi?mp=/stream"
+    },
+    {
+        "Title": "Radio One FM 91 Gwadar",
+        "Country": "Pakistan",
+        "Tags": "music,news,radio one fm 91 gwadar,talk",
+        "Favicon": "https://fm91.com.pk/wp-content/uploads/2021/10/site-logo-2.png",
+        "Language": "ur",
+        "Homepage": "https://fm91.com.pk/",
+        "Latitude": 25.151354521662668,
+        "Longitude": 62.32303619384766,
+        "Source1": "http://cc.vmakerhost.com:8147/stream"
+    },
+    {
+        "Title": "Radio Pak Filmi",
+        "Country": "Pakistan",
+        "Tags": "lollywood,radio pak filmi,urdu",
+        "Favicon": "https://hpanel.hostinger.com/favicons/hostinger.png",
+        "Language": "ur",
+        "Homepage": "https://www.pakfilmi.com/",
+        "Latitude": 33.618121647181376,
+        "Longitude": 73.01788330078126,
+        "Source1": "https://s17.ssl-stream.com:2199/tunein/radiopak.pls"
+    },
+    {
+        "Title": "Radio Pakistan D.I. Khan MW 711",
+        "Country": "Pakistan",
+        "Tags": "public radio",
+        "Homepage": "https://radio.gov.pk/",
+        "Source1": "https://whmsonic.radio.gov.pk:7000/Dikhan"
+    },
+    {
+        "Title": "Radio Pakistan Hyderabad MW 1008 KHz",
+        "Country": "Pakistan",
+        "Homepage": "https://radio.gov.pk/",
+        "Source1": "https://whmsonic.radio.gov.pk:8042/stream"
+    },
+    {
+        "Title": "Radio Pakistan Islamabad",
+        "Country": "Pakistan",
+        "Homepage": "https://radio.gov.pk/",
+        "Source1": "https://whmsonic.radio.gov.pk:7003/stream"
+    },
+    {
+        "Title": "Radio Pakistan Karachi MW 639",
+        "Country": "Pakistan",
+        "Tags": "public radio",
+        "Homepage": "https://radio.gov.pk/",
+        "Source1": "https://whmsonic.radio.gov.pk:7000/MW639khi"
+    },
+    {
+        "Title": "Radio Pakistan Lahore",
+        "Country": "Pakistan",
+        "Tags": "🌀",
+        "Favicon": "null",
+        "Language": "ur",
+        "Homepage": "https://whmsonic.radio.gov.pk:8026/relay?type=http&nocache=9",
+        "Source1": "https://whmsonic.radio.gov.pk:8026/relay?type=http&nocache=9"
+    },
+    {
+        "Title": "Radio Pakistan Lahore News and Current Affair AM 1332 KHZ",
+        "Country": "Pakistan",
+        "Language": "ur",
+        "Homepage": "https://radio.gov.pk/",
+        "Source1": "https://whmsonic.radio.gov.pk:7004/stream?type=http&nocache=12"
+    },
+    {
+        "Title": "Radio Pakistan Multan",
+        "Country": "Pakistan",
+        "Tags": "🇵🇰",
+        "Favicon": "null",
+        "Language": "ur",
+        "Homepage": "https://whmsonic.radio.gov.pk:8034/stream?type=http&nocache=12",
+        "Source1": "https://whmsonic.radio.gov.pk:8034/stream?type=http&nocache=12"
+    },
+    {
+        "Title": "Radio Pakistan Multan MW",
+        "Country": "Pakistan",
+        "Homepage": "https://radio.gov.pk/",
+        "Source1": "https://whmsonic.radio.gov.pk:8034/stream"
+    },
+    {
+        "Title": "Radio Pakistan Peshawar MW",
+        "Country": "Pakistan",
+        "Homepage": "https://radio.gov.pk/",
+        "Source1": "https://whmsonic.radio.gov.pk:8072/relay"
+    },
+    {
+        "Title": "Radio Pakistan Quetta MW",
+        "Country": "Pakistan",
+        "Favicon": "https://radio.gov.pk/site_logo.png",
+        "Homepage": "https://radio.gov.pk/",
+        "Source1": "https://whmsonic.radio.gov.pk:8060/relay"
+    },
+    {
+        "Title": "Radio Pakistan World Service",
+        "Country": "Pakistan",
+        "Homepage": "https://radio.gov.pk/",
+        "Source1": "https://whmsonic.radio.gov.pk:7005/stream"
+    },
+    {
+        "Title": "Radio Pakistan WS",
+        "Country": "Pakistan",
+        "Tags": "🌙🌙🌙",
+        "Favicon": "null",
+        "Language": "ur",
+        "Homepage": "https://whmsonic.radio.gov.pk:7005/stream?type=http&nocache=12",
+        "Source1": "https://whmsonic.radio.gov.pk:7005/stream?type=http&nocache=12"
+    },
+    {
+        "Title": "Samaa FM 107.4",
+        "Country": "Pakistan",
+        "Tags": "news,talk",
+        "Language": "ur",
+        "Homepage": "https://www.samaafm.com/",
+        "Source1": "https://samaakhi107-itelservices.radioca.st/stream"
+    },
+    {
+        "Title": "Shopen Anime Radio",
+        "Country": "Pakistan",
+        "Favicon": "https://myecomshop.imgix.net/store_16799/b542879182d332fe6628d9504fc1f66d.png?fit=clip&h=30&ixlib=php-1.2.1&q=75&auto=format",
+        "Homepage": "https://shopen.pk/",
+        "Source1": "https://s97.radiolize.com:8040/radio.mp3"
+    },
+    {
+        "Title": "SOUTUL QURAN PBC FM 93.4 ISLAMABAD",
+        "Country": "Pakistan",
+        "Tags": "radio",
+        "Language": "ur",
+        "Homepage": "https://whmsonic.radio.gov.pk:7002/stream?type=http&nocache=12",
+        "Source1": "https://whmsonic.radio.gov.pk:7002/stream?type=http&nocache=12"
+    },
+    {
+        "Title": "Universal Health Radio (اردو)",
+        "Country": "Pakistan",
+        "Tags": "cdc,education,fda,health,news,public health,urdu,who",
+        "Favicon": "https://universalhealthradio.org/favicon.png",
+        "Language": "ur",
+        "Homepage": "https://universalhealthradio.org/",
+        "Source1": "https://radio.universalhealthradio.org/uhr-ur.mp3"
+    },
+    {
+        "Title": "পাকিস্তান",
+        "Country": "Pakistan",
+        "Tags": "classical",
+        "Source1": "https://whmsonic.radio.gov.pk:7005/stream?type=http&nocache=12"
+    }
+]

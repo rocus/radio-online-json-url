@@ -1,0 +1,115 @@
+[
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "IvoryCoast",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "Africa Radio Abidjan",
+        "Country": "IvoryCoast",
+        "Tags": "african,news,pop",
+        "Language": "fr",
+        "Homepage": "https://www.africaradio.com/",
+        "Latitude": 5.31988482674005,
+        "Longitude": -4.020309448242188,
+        "Source1": "https://africaradio.ice.infomaniak.ch/abidjan128.mp3"
+    },
+    {
+        "Title": "Afrobeat international",
+        "Country": "IvoryCoast",
+        "Tags": "afrobeat",
+        "Language": "fr",
+        "Homepage": "https://fr.welove.radio/radio/afrobeat-inter/",
+        "Latitude": 5.318517449545745,
+        "Longitude": -4.019622802734376,
+        "Source1": "https://listen.radioking.com/radio/397789/stream/449770"
+    },
+    {
+        "Title": "EB FM",
+        "Country": "IvoryCoast",
+        "Tags": "actualités,gospel,émission",
+        "Language": "fr",
+        "Homepage": "https://zeno.fm/radio/eb-fm/",
+        "Latitude": 4.723396683110023,
+        "Longitude": -4.3369388580322275,
+        "Source1": "https://stream.zeno.fm/oy1uo8lwuy9uv"
+    },
+    {
+        "Title": "Life radio Côte d’Ivoire",
+        "Country": "IvoryCoast",
+        "Tags": "african pop,afropop",
+        "Language": "fr",
+        "Homepage": "https://liferadio.ci/",
+        "Latitude": 5.317423520565482,
+        "Longitude": -4.029235839843751,
+        "Source1": "https://cast4.asurahosting.com/proxy/life/stream"
+    },
+    {
+        "Title": "Radio Jam",
+        "Country": "IvoryCoast",
+        "Tags": "african music,folk music",
+        "Language": "fr",
+        "Homepage": "http://www.radiojam.biz/",
+        "Latitude": 5.932220939026557,
+        "Longitude": -5.326652526855469,
+        "Source1": "https://listen.radioking.com/radio/61201/stream/98566"
+    },
+    {
+        "Title": "Radio Maria Ivory Coast",
+        "Country": "IvoryCoast",
+        "Favicon": "https://www.radiomaria.ci/wp-content/uploads/2016/09/per-itunes.jpg",
+        "Homepage": "https://www.radiomaria.ci/",
+        "Source1": "https://dreamsiteradioplayer.it/wf/wfivorycoast/?pl=vlc&c=Radio%20Maria%20C%C3%B4te%20D%27Ivoire"
+    },
+    {
+        "Title": "Radio Pulsar Katiola",
+        "Country": "IvoryCoast",
+        "Tags": "generalist,ivory coast,katiola",
+        "Favicon": "https://radiopulsarkatiola.vestaradio.eu/uploads/temp/logos/logo_2776_1030_1786630814_11fe93.jpg",
+        "Language": "fr",
+        "Homepage": "https://radiopulsarkatiola.vestaradio.eu/",
+        "Source1": "https://stream10.vestaradio.com/RADIO-PULSAR-KATIOLA"
+    },
+    {
+        "Title": "RadioAgonshu",
+        "Country": "IvoryCoast",
+        "Tags": "meditation,religious",
+        "Favicon": "https://studio10.vestaradio.com/uploads/user-music/1748/covers/cover_1748_1782679287_a66968.jpg",
+        "Language": "fr",
+        "Homepage": "https://bouddhismeagonshu.org/",
+        "Source1": "https://stream10.vestaradio.com/RadioAgonshu"
+    },
+    {
+        "Title": "Skyrock Abidjan",
+        "Country": "IvoryCoast",
+        "Tags": "african pop,afrobeat,rock",
+        "Language": "fr",
+        "Homepage": "https://skyrock.fm/",
+        "Latitude": 5.316466378058485,
+        "Longitude": -4.018936157226563,
+        "Source1": "https://icecast.skyrock.net/s/abidjan_aac_64k"
+    },
+    {
+        "Title": "Trace FM Côte d’Ivoire",
+        "Country": "IvoryCoast",
+        "Tags": "african music,hiphop",
+        "Favicon": "https://trace.ci/wp-content/uploads/2019/11/cropped-cropped-favicon-100x100.png",
+        "Language": "fr",
+        "Homepage": "http://trace.ci/",
+        "Source1": "http://stream.trace.tv/trace_fm_ci-midfi.aac"
+    },
+    {
+        "Title": "WaveMaster Radio",
+        "Country": "IvoryCoast",
+        "Tags": "afrobeat,hip hop,jazz,r&b,urban contemporary,zouglou,zouk",
+        "Favicon": "https://wavemaster.diskstation.me/static/uploads/browser_icon/original.1787247046.png",
+        "Language": "en,fr",
+        "Homepage": "https://wavemaster.diskstation.me/public/wavemaster_radio",
+        "Latitude": 5.350364805362932,
+        "Longitude": -4.009838104248048,
+        "Source1": "https://wavemaster.diskstation.me/listen/wavemaster_radio/radio.mp3"
+    }
+]

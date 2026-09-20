@@ -1,0 +1,1920 @@
+[
+    {
+        "Title": ". Abdulbasit Abdulsamad",
+        "Country": "NewZealand",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "100,3FM South Canterbury",
+        "Country": "NewZealand",
+        "Tags": "geraldine,local radio,temuka,timaru,variety",
+        "Language": "en",
+        "Homepage": "http://100point3fm.co.nz/",
+        "Source1": "http://uk4-vn.mixstream.net:8066/stream/1/"
+    },
+    {
+        "Title": "2XS FM",
+        "Country": "NewZealand",
+        "Favicon": "https://2xsfm.cloudlink.nz/logo.jpg",
+        "Homepage": "https://2xsfm.co.nz/",
+        "Source1": "https://2xsfm.cloudlink.nz/stream-proxy.php"
+    },
+    {
+        "Title": "2XS FM Palmerston North",
+        "Country": "NewZealand",
+        "Tags": "retro,rock",
+        "Homepage": "http://www.2xsfm.co.nz/",
+        "Latitude": -40.351306184941095,
+        "Longitude": 175.61388015747073,
+        "Source1": "http://125.236.204.178:8001/listen.mp3"
+    },
+    {
+        "Title": "3ABN Christian Radio",
+        "Country": "NewZealand",
+        "Tags": "bible teaching,christian,music",
+        "Favicon": "https://3abn.org/icons/3abn-apple-icon-120x120.png",
+        "Language": "en",
+        "Homepage": "https://3abn.org/3abn-radio.html",
+        "Source1": "https://stream.3abnaustralia.org.au:8443/stream"
+    },
+    {
+        "Title": "531pi - AAC",
+        "Country": "NewZealand",
+        "Tags": "music,news,pacific cultures",
+        "Favicon": "https://i.iheart.com/v3/re/new_assets/60fded128d281279cae3068e",
+        "Language": "EN,MI,FJ,SM,TO",
+        "Region": "NZ-AUK",
+        "Homepage": "https://pmn.co.nz/radio-stations/531-pi",
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/531PIAAC_SC"
+    },
+    {
+        "Title": "531pi - MP3",
+        "Country": "NewZealand",
+        "Tags": "music,news,pacific cultures",
+        "Favicon": "https://i.iheart.com/v3/re/new_assets/60fded128d281279cae3068e",
+        "Language": "EN,MI,FJ,SM,TO",
+        "Region": "NZ-AUK",
+        "Homepage": "https://pmn.co.nz/radio-stations/531-pi",
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/531PI_SC"
+    },
+    {
+        "Title": "8K.NZ",
+        "Country": "NewZealand",
+        "Tags": "eclectic,independent,local,otautahi",
+        "Language": "en",
+        "Homepage": "https://www.8k.nz/",
+        "Source1": "http://radio8k.out.airtime.pro:8000/radio8k_a"
+    },
+    {
+        "Title": "8K.NZ",
+        "Country": "NewZealand",
+        "Tags": "community radio,eclectic,freeform,indie",
+        "Language": "en",
+        "Homepage": "http://8k.nz/8K/phone/index.html",
+        "Source1": "http://radio8k.out.airtime.pro:8000/radio8k_a.m3u"
+    },
+    {
+        "Title": "8K.NZ || Christchurch, NZ",
+        "Country": "NewZealand",
+        "Homepage": "https://www.8k.nz/",
+        "Source1": "http://radio8k.out.airtime.pro:8000/radio8k_a"
+    },
+    {
+        "Title": "91.2 Oamaru FM",
+        "Country": "NewZealand",
+        "Favicon": "https://s3-ap-southeast-2.amazonaws.com/the-radio-bureau/assets/logos/OamaruFM_2021-03-22-203549.jpg",
+        "Homepage": "https://www.trb.co.nz/brand-profiles/91-2fm-oamaru",
+        "Source1": "https://usa1-vn.mixstream.net/8096/listen.mp3"
+    },
+    {
+        "Title": "93 5 Eagle Radio",
+        "Country": "NewZealand",
+        "Favicon": "https://canva.link/1hef0nenf0vyz88",
+        "Homepage": "https://www.eagle-radio.co.nz/",
+        "Source1": "https://az10.yesstreaming.net:8680/radio.mp3"
+    },
+    {
+        "Title": "93 5 Eagle Radio - The True Alternative",
+        "Country": "NewZealand",
+        "Favicon": "https://primary.jwwb.nl/public/m/o/a/temp-qwwivcgxsmoafqnsfida/ai-logo-b2b5d92b6b7c-standard.png?enable-io=true&width=96",
+        "Homepage": "https://www.eagle-radio.co.nz/",
+        "Latitude": -38.718164048836606,
+        "Longitude": 176.09298706054688,
+        "Source1": "https://az10.yesstreaming.net:8680/radio.mp3"
+    },
+    {
+        "Title": "93 5 The Eagle",
+        "Country": "NewZealand",
+        "Homepage": "https://www.eagle-radio.co.nz/",
+        "Source1": "https://streaming.live365.com/a88592"
+    },
+    {
+        "Title": "95bFM - 256Kbps MP3",
+        "Country": "NewZealand",
+        "Tags": "university radio,university of auckland,auckland,alternative",
+        "Favicon": "https://95bfm.com/sites/all/themes/bfm_ui/favicons/favicon-128.png",
+        "Language": "EN",
+        "Region": "NZ-AUK",
+        "Homepage": "https://95bfm.com/",
+        "Source1": "https://streams.95bfm.com/stream95"
+    },
+    {
+        "Title": "95bFM - 64kbps AAC+",
+        "Country": "NewZealand",
+        "Tags": "university radio,university of auckland,auckland,alternative",
+        "Favicon": "https://95bfm.com/sites/all/themes/bfm_ui/favicons/favicon-128.png",
+        "Language": "EN",
+        "Region": "NZ-AUK",
+        "Homepage": "https://95bfm.com/",
+        "Source1": "https://streams.95bfm.com/stream128"
+    },
+    {
+        "Title": "95bFM - FLAC",
+        "Country": "NewZealand",
+        "Tags": "university radio,university of auckland,auckland,alternative",
+        "Favicon": "https://95bfm.com/sites/all/themes/bfm_ui/favicons/favicon-128.png",
+        "Language": "EN",
+        "Region": "NZ-AUK",
+        "Homepage": "https://95bfm.com/",
+        "Source1": "https://streams.95bfm.com/stream112"
+    },
+    {
+        "Title": "95bFM Radio",
+        "Country": "NewZealand",
+        "Favicon": "https://cdn.sanity.io/images/orhkaa59/production/c7fc603e01364182d1bea3abd01ea5ffa2247150-1180x1180.png?w=384&q=75",
+        "Homepage": "https://streams.95bfm.com/",
+        "Source1": "https://streams.95bfm.com/stream112"
+    },
+    {
+        "Title": "Access Radio Taranaki 104.4FM",
+        "Country": "NewZealand",
+        "Tags": "community,world",
+        "Favicon": "https://cdn.prod.website-files.com/6600ba7b2bf4dc146691b611/679a92e0f7ea62c1e78e5d3a_favicon-32x32.png",
+        "Language": "en",
+        "Homepage": "https://www.accessradiotaranaki.com/",
+        "Source1": "https://live.accessmedia.nz/Taranaki.stream_aac/playlist.m3u8"
+    },
+    {
+        "Title": "Akaroa World Radio",
+        "Country": "NewZealand",
+        "Tags": "easy listening",
+        "Favicon": "https://cdn-profiles.tunein.com/s86464/images/logod.jpg?t=152329",
+        "Language": "en",
+        "Homepage": "https://www.akaroaradio.co.nz/",
+        "Source1": "https://n07.radiojar.com/k0t12bsns1duv?rj-ttl=5&rj-tok=AAABf7nGP10A7NK4A0_6v63i4w"
+    },
+    {
+        "Title": "Amped AI",
+        "Country": "NewZealand",
+        "Tags": "various",
+        "Language": "en",
+        "Homepage": "https://amped-ai.tgnz.net/",
+        "Source1": "https://amped-ai1.azuracast.tgnz.net/listen/amped_ai/radio.mp3"
+    },
+    {
+        "Title": "Anthemz",
+        "Country": "NewZealand",
+        "Favicon": "https://images.ctfassets.net/r65x6q43xsmv/70j1jCRUfurYX5pXlaGoc1/fffb74f2f59a1a4b400e50f06d81d30d/anthemz-workdays-1x1.jpg?fm=webp&w=1536&q=75&f=center&h=1536&fit=fill",
+        "Language": "en",
+        "Homepage": "https://anthemz.nz/",
+        "Source1": "https://mediaworks.streamguys1.com/anthemz-chc-high_icy"
+    },
+    {
+        "Title": "Arrow FM",
+        "Country": "NewZealand",
+        "Favicon": "http://www.arrowfm.co.nz/presentation/arrow-fm-logo.png",
+        "Homepage": "https://www.arrowfm.co.nz/",
+        "Source1": "https://live.accessmedia.nz/ArrowFM.stream/playlist.m3u8"
+    },
+    {
+        "Title": "Arrow FM 92.7",
+        "Country": "NewZealand",
+        "Favicon": "http://www.arrowfm.co.nz/presentation/arrow-fm-logo.png",
+        "Homepage": "https://www.arrowfm.co.nz/",
+        "Source1": "https://live.accessmedia.nz/ArrowFM.stream/playlist.m3u8",
+        "Source2": "https://live.accessmedia.nz/ArrowFM.stream_aac/playlist.m3u8"
+    },
+    {
+        "Title": "Auckland 80's",
+        "Country": "NewZealand",
+        "Tags": "80's",
+        "Favicon": "https://public-rf-upload.minhawebradio.net/247629/logo/9c88caf1c58bcb1ec3598e400cb23e47.jpg",
+        "Language": "en",
+        "Homepage": "https://tiri2.webradiosite.com/",
+        "Latitude": -36.74592752103735,
+        "Longitude": 174.72656250000003,
+        "Source1": "https://servidor34.brlogic.com:7138/live"
+    },
+    {
+        "Title": "AWA FM",
+        "Country": "NewZealand",
+        "Tags": "community radio,iwi,maori culture,music",
+        "Favicon": "https://awafm.co.nz/wp-content/uploads/2021/05/AWA-Logo-Plain.png",
+        "Language": "en",
+        "Homepage": "https://awafm.co.nz/",
+        "Source1": "https://wowza.iwi.radio/icecast-to-hls/ngrp:AwaFM.stream/playlist.m3u8"
+    },
+    {
+        "Title": "Bandwagon Radio",
+        "Country": "NewZealand",
+        "Favicon": "https://static2.mytuner.mobi/media/tvos_radios/602/bandwagon-radio.8250a334.jpg",
+        "Homepage": "https://mytuner-radio.com/radio/bandwagon-radio-516602/",
+        "Source1": "https://streaming.radio.co/scfae3b30e/listen"
+    },
+    {
+        "Title": "Bay FM 100.7",
+        "Country": "NewZealand",
+        "Tags": "classic rock",
+        "Favicon": "https://static-media.streema.com/media/cache/9f/95/9f9598196955d2228f613c8f0cda3da9.jpg",
+        "Language": "en",
+        "Homepage": "https://radio.garden/listen/radio-bay-fm-100-7/XeC94ir4",
+        "Source1": "https://s38.myradiostream.com:8876/;;?listening-from-radio-garden=1686796930"
+    },
+    {
+        "Title": "BeachFM 106.3",
+        "Country": "NewZealand",
+        "Tags": "00s,60s,70s,80s,90s,entertainment,local events,local news",
+        "Favicon": "https://www.beachfm.co.nz/favicon.ico",
+        "Language": "en",
+        "Homepage": "https://www.beachfm.co.nz/",
+        "Latitude": -40.907696344555966,
+        "Longitude": 174.99956131057849,
+        "Source1": "http://s8.myradiostream.com:58408/"
+    },
+    {
+        "Title": "Beagle 88.1",
+        "Country": "NewZealand",
+        "Tags": "alternative,funk,rock,unique",
+        "Favicon": "https://www.beagleradio.co.nz/wp-content/themes/beagle/gfx/logo-header.gif",
+        "Language": "en",
+        "Homepage": "https://www.beagleradio.co.nz/",
+        "Latitude": -35.72126659255408,
+        "Longitude": 174.32079792022705,
+        "Source1": "https://stream.beagleradio.co.nz/stream"
+    },
+    {
+        "Title": "Beagle Radio",
+        "Country": "NewZealand",
+        "Favicon": "https://www.beagleradio.co.nz/wp-content/uploads/2025/02/beagle-dog-logo-100.png",
+        "Homepage": "https://www.beagleradio.co.nz/",
+        "Source1": "https://stream.beagleradio.co.nz/stream"
+    },
+    {
+        "Title": "Big River FM",
+        "Country": "NewZealand",
+        "Favicon": "http://www.bigriverfm.co.nz/bigriverfm.png",
+        "Homepage": "http://www.bigriverfm.co.nz/",
+        "Source1": "http://bigriver.broadcast.co.nz/bigriverfm.mp3"
+    },
+    {
+        "Title": "Big River FM",
+        "Country": "NewZealand",
+        "Tags": "community,music",
+        "Favicon": "https://www.facebook.com/favicon.ico",
+        "Language": "en",
+        "Homepage": "https://www.facebook.com/Awa-Whanui-Big-River-FM-Northern-Wairoa-Community-Radio-Trust-185296624864141/",
+        "Source1": "http://bigriver.broadcast.co.nz/bigriverfm.mp3"
+    },
+    {
+        "Title": "Bollybop",
+        "Country": "NewZealand",
+        "Tags": "music",
+        "Favicon": "null",
+        "Language": "hi",
+        "Homepage": "https://s3.radio.co/s2f19d44d0/listen",
+        "Source1": "https://s3.radio.co/s2f19d44d0/listen"
+    },
+    {
+        "Title": "Brian FM 105.2 Taranaki",
+        "Country": "NewZealand",
+        "Tags": "alternative,classic rock,rock",
+        "Favicon": "https://brianfm.com/wp-content/uploads/brian-fm-logo.png",
+        "Language": "en",
+        "Homepage": "https://brianfm.com/taranaki/",
+        "Latitude": -39.05893857850266,
+        "Longitude": 174.07914161682132,
+        "Source1": "http://ais-sa1.streamon.fm/7759_128k.aac"
+    },
+    {
+        "Title": "Brian FM 105.6 Nelson NZ",
+        "Country": "NewZealand",
+        "Homepage": "https://brianfm.com/nelson/",
+        "Latitude": -41.32815138300663,
+        "Longitude": 173.21319580078125,
+        "Source1": "https://ais-sa1.streamon.fm/7358_128k.aac/playlist.m3u8?",
+        "Source2": "https://ais-sa1.streamon.fm/7358_128k.aac/playlist.m3u8"
+    },
+    {
+        "Title": "Brian FM 91.2 Wanganui NZ",
+        "Country": "NewZealand",
+        "Homepage": "https://brianfm.com/whanganui/",
+        "Latitude": -39.933053977491255,
+        "Longitude": 175.0523328781128,
+        "Source1": "https://ais-sa1.streamon.fm/7100_128k.aac"
+    },
+    {
+        "Title": "Brian FM 91.2 Whanganui NZ",
+        "Country": "NewZealand",
+        "Homepage": "https://brianfm.com/whanganui/",
+        "Latitude": -39.93280614416419,
+        "Longitude": 175.05194664001468,
+        "Source1": "https://ais-sa1.streamon.fm/7100_128k.aac"
+    },
+    {
+        "Title": "Brian FM 91.4 Wanaka",
+        "Country": "NewZealand",
+        "Homepage": "https://brianfm.com/",
+        "Source1": "https://ais-sa1.streamon.fm/7657_128k.aac?playerid=esPlayer&cb=481952.m4ahttps://brianfm.com"
+    },
+    {
+        "Title": "CFM Coromandel",
+        "Country": "NewZealand",
+        "Tags": "community radio,contemporary,decades",
+        "Favicon": "https://i.postimg.cc/6qgdcWxL/CFM.jpg",
+        "Language": "en",
+        "Homepage": "https://cfm.co.nz/",
+        "Source1": "https://stream.cfm.co.nz/low"
+    },
+    {
+        "Title": "Channel X",
+        "Country": "NewZealand",
+        "Favicon": "https://s3-ap-southeast-2.amazonaws.com/the-radio-bureau/assets/logos/Channel-X-600-x-600.jpg",
+        "Language": "en",
+        "Homepage": "https://www.trb.co.nz/brand-profiles/channel-x",
+        "Source1": "https://mediaworks.streamguys1.com/chx_net_icy"
+    },
+    {
+        "Title": "Chill-Radio",
+        "Country": "NewZealand",
+        "Tags": "chill,relax,smooth",
+        "Favicon": "https://www.smoothradio.com/assets_v4r/smooth/img/favicon-196x196.png",
+        "Language": "en",
+        "Homepage": "https://www.smoothradio.com/chill/",
+        "Source1": "https://media-sov.musicradio.com/Chill"
+    },
+    {
+        "Title": "Classic1027",
+        "Country": "NewZealand",
+        "Tags": "classical music",
+        "Homepage": "http://www.classicfm.co.za/",
+        "Source1": "http://edge.iono.fm/xice/49_high.aac"
+    },
+    {
+        "Title": "Coast",
+        "Country": "NewZealand",
+        "Language": "en",
+        "Homepage": "http://www.thecoast.net.nz/",
+        "Source1": "http://streaming.radiomyway.co.nz/coast2.pls"
+    },
+    {
+        "Title": "Coast Access Radio",
+        "Country": "NewZealand",
+        "Tags": "community radio",
+        "Language": "en",
+        "Homepage": "https://www.coastaccessradio.org.nz/index.aspx",
+        "Source1": "https://live.accessmedia.nz/Coast.stream_aac/playlist.m3u8"
+    },
+    {
+        "Title": "Coast Access Radio MP3",
+        "Country": "NewZealand",
+        "Tags": "community radio",
+        "Favicon": "https://cdn3.firecrestsystems.com/FC_Coast/Images/coastlogo.png",
+        "Language": "en",
+        "Homepage": "https://www.coastaccessradio.org.nz/Schedule.aspx",
+        "Latitude": -40.87694182532185,
+        "Longitude": 175.0644850730828,
+        "Source1": "https://live.accessmedia.nz/Coast.stream/playlist.m3u8"
+    },
+    {
+        "Title": "Coast FM",
+        "Country": "NewZealand",
+        "Tags": "80's",
+        "Favicon": "https://i.postimg.cc/8k3S3mQP/coast-fm.png",
+        "Language": "en",
+        "Homepage": "https://www.thecoast.net.nz/",
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_07AAC.m3u8?aw_0_1st.playerid=iHeartRadioWebPlayer&aw_0_1st.skey=9774168307&clientType=web&companionAds=false&deviceName=web-desktop&dist=iheart&host=webapp.NZ&listenerId=&playedFrom=157&pname=live_profile&profileId=9774168307&stationid=6193&terminalId=162&territory=NZ"
+    },
+    {
+        "Title": "Compass FM",
+        "Country": "NewZealand",
+        "Tags": "community radio,local news",
+        "Favicon": "http://compassfm.org.nz/favicon.ico",
+        "Language": "en",
+        "Homepage": "http://compassfm.org.nz/",
+        "Source1": "http://stream.compassfm.org.nz:8000/Compass_FM_104.9"
+    },
+    {
+        "Title": "Cool Blue Taupo",
+        "Country": "NewZealand",
+        "Tags": "jazz",
+        "Homepage": "https://www.coolbluetaupo.com/",
+        "Source1": "http://falcon.shoutca.st:8166/stream"
+    },
+    {
+        "Title": "Country Radio Invercargill 105.2FM",
+        "Country": "NewZealand",
+        "Tags": "country,kiwi country",
+        "Language": "en",
+        "Homepage": "http://www.countryradio.co.nz/",
+        "Source1": "http://countryradio2.no-ip.org:8000/;"
+    },
+    {
+        "Title": "Country Radio Invercargilll",
+        "Country": "NewZealand",
+        "Tags": "community,country",
+        "Favicon": "https://www.facebook.com/favicon.ico",
+        "Language": "en",
+        "Homepage": "https://www.facebook.com/CountryRadioInvercargill",
+        "Source1": "http://countryradio2.no-ip.org:8000/;"
+    },
+    {
+        "Title": "Cruize.fm",
+        "Country": "NewZealand",
+        "Homepage": "https://cruizefm.airtime.pro/",
+        "Latitude": -39.057360892572326,
+        "Longitude": 174.08266067504886,
+        "Source1": "http://cruizefm.out.airtime.pro:8000/cruizefm_b"
+    },
+    {
+        "Title": "Dave FM",
+        "Country": "NewZealand",
+        "Tags": "70s,80s,90s,classic hits",
+        "Favicon": "https://www.facebook.com/favicon.ico",
+        "Language": "en",
+        "Homepage": "https://www.facebook.com/davefmnz/",
+        "Source1": "http://davefmradio.no-ip.org:8000/stream"
+    },
+    {
+        "Title": "Drop FM",
+        "Country": "NewZealand",
+        "Tags": "bass,listener supported,underground",
+        "Favicon": "http://www.dropfm.com/uploads/1/2/4/0/124005161/new-logo-black.png",
+        "Language": "en",
+        "Homepage": "http://www.dropfm.com/",
+        "Source1": "https://s2.radio.co/s7649837db/listen"
+    },
+    {
+        "Title": "East FM",
+        "Country": "NewZealand",
+        "Tags": "classic rock,eclectic,hits,misc,pop,rock,soft rock,various",
+        "Favicon": "https://listen.eastfm.nz/logo.png",
+        "Language": "en",
+        "Region": "NZ-AUK",
+        "Homepage": "https://www.eastfm.nz/",
+        "Latitude": -36.89493,
+        "Longitude": 174.93232,
+        "Source1": "https://listen.eastfm.nz/stream-aac-64",
+        "Source2": "https://listen.eastfm.nz/stream.aac",
+        "Source3": "https://listen.eastfm.nz/stream.mp3"
+    },
+    {
+        "Title": "East FM",
+        "Country": "NewZealand",
+        "Favicon": "https://listen.eastfm.nz/logo.png",
+        "Language": "en",
+        "Region": "NZ-AUK",
+        "Homepage": "https://eastfm.nz/",
+        "Latitude": -36.89493,
+        "Longitude": 174.93232,
+        "Source1": "https://listen.eastfm.nz/stream-aac-64"
+    },
+    {
+        "Title": "Easy 80s",
+        "Country": "NewZealand",
+        "Tags": "80s,easy listening",
+        "Favicon": "https://cdn-profiles.tunein.com/s302357/images/logoq.png",
+        "Language": "en",
+        "Homepage": "https://www.auckland80s.com/easy-80s.html",
+        "Source1": "http://procyon.shoutca.st:8032/;"
+    },
+    {
+        "Title": "Echoes Radio",
+        "Country": "NewZealand",
+        "Homepage": "https://radio.flexmedia.stream/public/echoes_radio",
+        "Source1": "https://radio.flexmedia.stream/listen/echoes_radio/radio.mp3"
+    },
+    {
+        "Title": "Flava",
+        "Country": "NewZealand",
+        "Tags": "hip hop,old school hip hop,rnb,urban",
+        "Favicon": "https://www.flava.co.nz/content/music/images/interface/icons/flava/apple-touch-icon.png",
+        "Language": "en",
+        "Homepage": "https://www.flava.co.nz/",
+        "Latitude": -36.84588942887061,
+        "Longitude": 174.8031234741211,
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_08AAC.aac"
+    },
+    {
+        "Title": "Free FM 89 Hamilton",
+        "Country": "NewZealand",
+        "Tags": "community,entertainment,news",
+        "Language": "en",
+        "Homepage": "https://www.freefm.org.nz/Default.aspx",
+        "Source1": "https://live.accessmedia.nz/FreeFM.stream_aac/chunklist_w1448621681.m3u8"
+    },
+    {
+        "Title": "FreshFM",
+        "Country": "NewZealand",
+        "Tags": "blenheim,community,nelson,takaka",
+        "Favicon": "https://www.freshfm.net/favicon.ico",
+        "Language": "en",
+        "Homepage": "https://www.freshfm.net/",
+        "Source1": "https://live.accessmedia.nz/Fresh.stream_aac/chunklist_w1462567576.m3u8"
+    },
+    {
+        "Title": "Gaia FM (New Zealand)",
+        "Country": "NewZealand",
+        "Tags": "celtic,easy listening,instrumental,jazz,newage,smooth jazz,world music",
+        "Favicon": "https://gaiafm.stationplaylist.com/logo.gif",
+        "Homepage": "https://gaiafm.stationplaylist.com/",
+        "Latitude": -37.68903678658054,
+        "Longitude": 176.1404101388368,
+        "Source1": "https://s2.stationplaylist.com:9000/gaiafm.aac"
+    },
+    {
+        "Title": "Gaia FM New Zealand",
+        "Country": "NewZealand",
+        "Source1": "http://s2.stationplaylist.com:9000/gaiafm.aac"
+    },
+    {
+        "Title": "Galaxy 107 FM  Kawerau",
+        "Country": "NewZealand",
+        "Tags": "adult contemporary,community radio,kawerau",
+        "Favicon": "http://www.galaxyfm.co.nz/favicon.ico",
+        "Language": "en",
+        "Homepage": "http://www.galaxyfm.co.nz/",
+        "Source1": "http://s39.myradiostream.com:14858/;listen.mp3"
+    },
+    {
+        "Title": "George FM",
+        "Country": "NewZealand",
+        "Favicon": "https://s3-ap-southeast-2.amazonaws.com/the-radio-bureau/assets/22814443_10155347753227013_9008123902810078771_n.jpg",
+        "Homepage": "https://rova.nz/",
+        "Source1": "https://mediaworks.streamguys1.com/george_net_icy"
+    },
+    {
+        "Title": "George FM",
+        "Country": "NewZealand",
+        "Language": "en",
+        "Homepage": "https://www.georgefm.co.nz/home.html",
+        "Source1": "https://digitalstreams.mediaworks.nz/george_net/playlist.m3u8"
+    },
+    {
+        "Title": "George FM - Chillsville",
+        "Country": "NewZealand",
+        "Tags": "chill house",
+        "Favicon": "https://images.ctfassets.net/r65x6q43xsmv/6fBl7Yr0fvCSKEDkPOFJT7/346791405202f33f8316c8d0001f9659/chillsville_boby_armor_sqaure.png?fm=png&w=200&q=95&f=center",
+        "Homepage": "https://www.rova.nz/playlists/george-fm-chillsville",
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/CHILLSVILLE_S01.aac"
+    },
+    {
+        "Title": "George FM - Club Classics",
+        "Country": "NewZealand",
+        "Tags": "90s dance,club hits,dance",
+        "Favicon": "https://images.ctfassets.net/r65x6q43xsmv/1hs2ejFCmf8irHi0j8KmZn/1c10053daace384f82288a7b85c22095/Club_Classics_1080x1080.png?fm=png&w=200&q=95&f=center",
+        "Homepage": "https://www.rova.nz/playlists/george-club-classics",
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/GEORGEFM_CC_S01.aac"
+    },
+    {
+        "Title": "George FM - Cocktail Hour",
+        "Country": "NewZealand",
+        "Tags": "chillout,house,vocal lounge",
+        "Favicon": "https://images.ctfassets.net/r65x6q43xsmv/308P6uWsXoijQkQbMBTsGV/8a6cca4fc65e97c504a99a8ec44536bb/GRG_RVA_CocktailHour_600x600_1_.png?fm=png&w=200&q=95&f=center",
+        "Homepage": "https://www.rova.nz/playlists/george-cocktail-hour",
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/COCKTAILHOUR_S01AAC.aac"
+    },
+    {
+        "Title": "George FM - DnB",
+        "Country": "NewZealand",
+        "Tags": "dnb,drum & bass,drum and bass",
+        "Favicon": "https://images.ctfassets.net/r65x6q43xsmv/2CBBxwPWsAwKU0bjzHM8y1/76fd3e4bab34449b2dff2d2adc719e1d/GRG_George_FM_DnB_Hundy_600x600px.png?fm=png&w=200&q=95&f=center",
+        "Homepage": "https://www.rova.nz/playlists/george-dnb",
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/GEORGE_DNB_S01.aac"
+    },
+    {
+        "Title": "George FM - Latest Bangers",
+        "Country": "NewZealand",
+        "Tags": "dnb,drum and bass,electronic,electronic dance music",
+        "Favicon": "https://images.ctfassets.net/r65x6q43xsmv/6kYCr49AIFrqBnXRbmHo5M/d8f64b4efeb114d188ce0599d44257c1/lates_bangers_new_new.png?fm=png&w=200&q=95&f=center",
+        "Homepage": "https://www.rova.nz/playlists/george-latest-bangers",
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/GEORGEFRESHHITS_S01.aac"
+    },
+    {
+        "Title": "Gold Sport AM",
+        "Country": "NewZealand",
+        "Tags": "classic rock,live sport",
+        "Favicon": "https://i.postimg.cc/0j3pmL7Z/Untitled.jpg",
+        "Language": "en",
+        "Homepage": "https://www.gold.co.nz/",
+        "Source1": "http://playerservices.streamtheworld.com/api/livestream-redirect/NZME_06AAC.m3u8"
+    },
+    {
+        "Title": "Gone Country",
+        "Country": "NewZealand",
+        "Tags": "country,internet station",
+        "Favicon": "https://cdn-profiles.tunein.com/s206528/images/logod.png?t=638120163900000000",
+        "Language": "en",
+        "Homepage": "https://gonecountry.co.nz/",
+        "Source1": "https://usa10.fastcast4u.com:6010/;?type=http&nocache=1676417570"
+    },
+    {
+        "Title": "Heads FM Mangawhai 106.4",
+        "Country": "NewZealand",
+        "Tags": "community,rock",
+        "Favicon": "https://www.headsfm.co.nz/wp-content/uploads/2017/06/heads_logo_1064.png",
+        "Language": "en",
+        "Homepage": "https://www.headsfm.co.nz/",
+        "Source1": "https://headsfm.radioca.st/stream"
+    },
+    {
+        "Title": "https://badradio.nz/ - 24/7 PHONK",
+        "Country": "NewZealand",
+        "Homepage": "https://badradio.nz/",
+        "Source1": "https://s2.radio.co/s2b2b68744/listen"
+    },
+    {
+        "Title": "https://www.newstalkzb.co.nz/",
+        "Country": "NewZealand",
+        "Homepage": "https://www.newstalkzb.co.nz/",
+        "Source1": "http://streaming.radiomyway.co.nz/zbakalt.pls"
+    },
+    {
+        "Title": "Humm Radio",
+        "Country": "NewZealand",
+        "Tags": "bollywood hits,indian radio",
+        "Favicon": "https://static.mytuner.mobi/media/tvos_radios/jB7Xr58rYS.jpg",
+        "Language": "en",
+        "Homepage": "https://rova.nz/",
+        "Source1": "https://mediaworks.streamguys1.com/humm_net_icy"
+    },
+    {
+        "Title": "iHeartCountry New Zealand",
+        "Country": "NewZealand",
+        "Tags": "country,country music",
+        "Favicon": "https://i.iheart.com/v3/re/assets.streams/6812fd4982aae621b8b5867c",
+        "Language": "en",
+        "Homepage": "https://www.iheartcountry.co.nz/",
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_09AAC.m3u8"
+    },
+    {
+        "Title": "jakemusic",
+        "Country": "NewZealand",
+        "Tags": "random",
+        "Homepage": "https://camera.jakebriggs.com/jakemusic",
+        "Latitude": -41.150274918271016,
+        "Longitude": 175.01237869262695,
+        "Source1": "https://camera.jakebriggs.com/jakemusic"
+    },
+    {
+        "Title": "Jazz Cafe",
+        "Country": "NewZealand",
+        "Tags": "jazz,smooth jazz",
+        "Language": "en",
+        "Homepage": "https://radio.wanderingsheep.org/",
+        "Source1": "http://radio.wanderingsheep.tv:8000/jazzcafe"
+    },
+    {
+        "Title": "JAZZ CAFE",
+        "Country": "NewZealand",
+        "Tags": "easy listening,smooth jazz",
+        "Favicon": "https://wsradio.net/wp-content/uploads/2016/08/cropped-WanderingsheepRadioLogoSQ-big-192x192.png",
+        "Language": "en",
+        "Homepage": "https://wsradio.net/djs/jazz-cafe/",
+        "Latitude": -39.15051403380312,
+        "Longitude": 176.13281250000003,
+        "Source1": "https://radio.wanderingsheep.net:8000/jazzcafe"
+    },
+    {
+        "Title": "JAZZGROOVE.org - Smooth Jazz (64k)",
+        "Country": "NewZealand",
+        "Favicon": "https://jazzgroove.org/favicon.ico",
+        "Homepage": "https://jazzgroove.org/",
+        "Source1": "http://streams.radiomast.io/4fdf004c-c2f3-49c1-bdb1-22e208d48780"
+    },
+    {
+        "Title": "Keep Laughing Forever Radio",
+        "Country": "NewZealand",
+        "Tags": "80's,90's,movie themes,nostalgia,soundtracks,tv themes",
+        "Favicon": "https://static.wixstatic.com/media/53e57b_acd90b3739fe4bde8acaadfd96d35520~mv2.jpg/v1/fill/w_415,h_415,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Radio%20Monkey-01%20(1).jpg",
+        "Homepage": "https://www.keeplaughingforever.com/radio",
+        "Latitude": -37.98953375384658,
+        "Longitude": 176.91833496093753,
+        "Source1": "http://carol.epichosts.co.uk:8610/autodj.mp3"
+    },
+    {
+        "Title": "Kiwi Folk Radio",
+        "Country": "NewZealand",
+        "Tags": "folk,local",
+        "Favicon": "https://i.postimg.cc/pLDxX33r/Kiwi-Folk.jpg",
+        "Language": "en",
+        "Homepage": "https://www.kiwifolk.com/",
+        "Source1": "https://streamer.radio.co/sde527a41e/listen"
+    },
+    {
+        "Title": "KIX FM",
+        "Country": "NewZealand",
+        "Tags": "classic rock",
+        "Favicon": "https://kixfm.co.nz/images/cover.png",
+        "Language": "en",
+        "Region": "NZ-9",
+        "Homepage": "http://www.kixfm.co.nz/",
+        "Latitude": -41.3234954647835,
+        "Longitude": 174.81326803101808,
+        "Source1": "https://stream.kixfm.co.nz:8178/stream"
+    },
+    {
+        "Title": "LibertyNZ on The Wireless",
+        "Country": "NewZealand",
+        "Tags": "talk & speech",
+        "Homepage": "http://thewireless.nz/",
+        "Source1": "https://stream.zeno.fm/lamr6x1fxrruv.pls"
+    },
+    {
+        "Title": "Life FM - AAC",
+        "Country": "NewZealand",
+        "Tags": "christian,christian contemporary",
+        "Favicon": "https://player.streamguys.com/rhema-lifefm/sgplayer/include/assets/img/logo-lifefm.jpg",
+        "Language": "en",
+        "Homepage": "https://www.lifefm.co.nz/",
+        "Source1": "https://rhema-radio.streamguys1.com/rhema-lifefm.aac"
+    },
+    {
+        "Title": "Life FM - MP3",
+        "Country": "NewZealand",
+        "Tags": "christian,christian contemporary",
+        "Favicon": "https://player.streamguys.com/rhema-lifefm/sgplayer/include/assets/img/logo-lifefm.jpg",
+        "Language": "EN",
+        "Region": "NZ-AUK",
+        "Homepage": "https://www.lifefm.co.nz",
+        "Source1": "https://rhema-radio.streamguys1.com/rhema-lifefm.mp3"
+    },
+    {
+        "Title": "MAD FM Auckland 106.7",
+        "Country": "NewZealand",
+        "Tags": "commercial free,eclectic,hobsonville,indie,variety",
+        "Favicon": "https://www.madfm.net/favicon.ico",
+        "Language": "en",
+        "Homepage": "https://www.madfm.net/index.html",
+        "Source1": "https://madfm-gecko.radioca.st/stream"
+    },
+    {
+        "Title": "Magic",
+        "Country": "NewZealand",
+        "Tags": "oldies",
+        "Favicon": "https://www.magic.co.nz/experience-fragments/mws-sites-nextgen/magic/en/site/header/master/_jcr_content/root/container/container_545837448/image.coreimg.svg/1662540657531/logo-01.svg",
+        "Language": "en",
+        "Homepage": "https://www.magic.co.nz/home/music.html",
+        "Source1": "https://digitalstreams.mediaworks.nz/mmusic_net/playlist.m3u8"
+    },
+    {
+        "Title": "Magic FM",
+        "Country": "NewZealand",
+        "Tags": "the songs you love",
+        "Favicon": "https://static-media.streema.com/media/cache/c7/c1/c7c1117b7e50c5b753703c52b2dc1a16.jpg",
+        "Language": "en",
+        "Homepage": "https://rova.nz/",
+        "Source1": "https://mediaworks.streamguys1.com/magic_net_icy"
+    },
+    {
+        "Title": "Mai FM",
+        "Country": "NewZealand",
+        "Tags": "rnb",
+        "Favicon": "https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Mai_FM_logo.svg/1200px-Mai_FM_logo.svg.png",
+        "Language": "en",
+        "Homepage": "https://rova.nz/",
+        "Source1": "https://mediaworks.streamguys1.com/mai_net_icy"
+    },
+    {
+        "Title": "Mai FM",
+        "Country": "NewZealand",
+        "Tags": "hip hop,r'n'b",
+        "Favicon": "https://www.rova.nz/home/radio/mai-fm/_jcr_content/par/grid/par1/image.dynimg.1200.q75.jpg/v1592272923496/LOGO_MAI.jpg",
+        "Language": "en",
+        "Homepage": "https://www.maifm.co.nz/home.html",
+        "Source1": "https://ais-sa1.streamon.fm/7102_128k.aac"
+    },
+    {
+        "Title": "Maunganui FM",
+        "Country": "NewZealand",
+        "Homepage": "https://maunganui.fm/",
+        "Source1": "https://radio.mmc.school.nz/listen/mmc_radio/radio.mp3"
+    },
+    {
+        "Title": "metalradio.co.nz",
+        "Country": "NewZealand",
+        "Tags": "rock",
+        "Homepage": "http://www.metalradio.co.nz/",
+        "Source1": "http://curiosity.shoutca.st:9073/stream"
+    },
+    {
+        "Title": "metalradio.co.nz",
+        "Country": "NewZealand",
+        "Homepage": "https://metalradio.co.nz/",
+        "Source1": "http://curiosity.shoutca.st:9073/stream"
+    },
+    {
+        "Title": "metalradio.co.nz",
+        "Country": "NewZealand",
+        "Tags": "rock",
+        "Source1": "http://curiosity.shoutca.st:9073/stream"
+    },
+    {
+        "Title": "metalradio.co.nz",
+        "Country": "NewZealand",
+        "Favicon": "https://storage.ko-fi.com/cdn/useruploads/e34955c7-a202-4989-8dca-8eec69dabed6_8fe662b6-b480-43d9-8684-aefcd2d529c9.png",
+        "Homepage": "https://www.metalradio.co.nz/",
+        "Source1": "http://curiosity.shoutca.st:9073/stream"
+    },
+    {
+        "Title": "Mix FM 87.9, Wellington, New Zealand",
+        "Country": "NewZealand",
+        "Homepage": "https://mixfm.nz/",
+        "Source1": "https://stream.mixfm.nz/"
+    },
+    {
+        "Title": "MIX FM Wellington",
+        "Country": "NewZealand",
+        "Homepage": "https://mixfm.nz/",
+        "Source1": "https://stream.mixfm.nz/"
+    },
+    {
+        "Title": "More FM - Bay of Plenty",
+        "Country": "NewZealand",
+        "Tags": "adult contemporary",
+        "Favicon": "https://s3-ap-southeast-2.amazonaws.com/the-radio-bureau/assets/more-fm-icon.png",
+        "Language": "en",
+        "Homepage": "https://www.rova.nz/radio/more-fm",
+        "Latitude": -37.68495892891954,
+        "Longitude": 176.166128218174,
+        "Source1": "https://mediaworks.streamguys1.com/more-tga-high_icy"
+    },
+    {
+        "Title": "More FM - Nelson",
+        "Country": "NewZealand",
+        "Favicon": "https://s3-ap-southeast-2.amazonaws.com/the-radio-bureau/assets/more-fm-icon.png",
+        "Language": "en",
+        "Homepage": "https://www.rova.nz/radio/more-fm",
+        "Latitude": -41.27074094086323,
+        "Longitude": 173.28263282775882,
+        "Source1": "https://mediaworks.streamguys1.com/more-nsn-high_icy"
+    },
+    {
+        "Title": "More FM Canterbury",
+        "Country": "NewZealand",
+        "Tags": "adult contemporary",
+        "Favicon": "https://s3-ap-southeast-2.amazonaws.com/the-radio-bureau/assets/more-fm-icon.png",
+        "Homepage": "https://www.rova.nz/radio/more-fm",
+        "Latitude": -43.542654767647285,
+        "Longitude": 172.61292815208438,
+        "Source1": "https://mediaworks.streamguys1.com/more-chc-high_icy"
+    },
+    {
+        "Title": "More FM Waikato",
+        "Country": "NewZealand",
+        "Homepage": "https://www.mediaworks.co.nz/more-fm",
+        "Source1": "https://mediaworks.streamguys1.com/more-ham-high_icy"
+    },
+    {
+        "Title": "Mountainside FM",
+        "Country": "NewZealand",
+        "Tags": "charity,community,mt wellington,oldies,tamaki",
+        "Language": "en",
+        "Homepage": "http://www.mountainsidefm.co.nz/",
+        "Source1": "http://stream.nrgkits.co.nz:5000/mountainside"
+    },
+    {
+        "Title": "Mouthfull Radio",
+        "Country": "NewZealand",
+        "Favicon": "https://i1.sndcdn.com/avatars-VaAJ9hfpsq0ADS8p-3I0Ubg-t200x200.jpg",
+        "Homepage": "https://mouthfull.live/",
+        "Source1": "https://mouthfull-radio.radiocult.fm/stream"
+    },
+    {
+        "Title": "MPR Manawatu People's Radio",
+        "Country": "NewZealand",
+        "Tags": "community,languages,local,music",
+        "Language": "en",
+        "Homepage": "https://www.accessmanawatu.co.nz/",
+        "Source1": "https://live.accessmedia.nz/MPR.stream/playlist.m3u8"
+    },
+    {
+        "Title": "Mushroom Escape",
+        "Country": "NewZealand",
+        "Homepage": "https://mushroomfm.com/escape",
+        "Source1": "http://mushroomfm.com/media/escape.pls",
+        "Source2": "https://cast3.my-control-panel.com/proxy/jonatha1/escape?1664781783632"
+    },
+    {
+        "Title": "Mushroom FM",
+        "Country": "NewZealand",
+        "Homepage": "https://mushroomfm.com/",
+        "Source1": "https://www.mushroomfm.com/media/listen.pls"
+    },
+    {
+        "Title": "New Zealand Net Radio",
+        "Country": "NewZealand",
+        "Favicon": "https://i0.wp.com/www.nznetradio.net.nz/wp-content/uploads/2025/08/cropped-NZ-Net-Radio-logo-2025-2048-600.jpg?resize=768%2C401&ssl=1",
+        "Homepage": "https://www.nznetradio.net.nz/",
+        "Source1": "https://radio.nznetradio.net.nz/stream3"
+    },
+    {
+        "Title": "Newstalk ZB",
+        "Country": "NewZealand",
+        "Homepage": "https://www.newstalkzb.co.nz/",
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_41AAC.aac",
+        "Source2": "https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_01AAC.m3u8?aw_0_1st.playerid=iHeartRadioWebPlayer&aw_0_1st.skey=9631949606&clientType=web&companionAds=false&deviceName=web-desktop&dist=iheart&host=webapp.NZ&listenerId=&playedFrom=157&pname=live_profile&profileId=9631949606&stationid=6187&terminalId=162&territory=NZ"
+    },
+    {
+        "Title": "Newstalk ZB Christchurch",
+        "Country": "NewZealand",
+        "Tags": "local news,news,news talk",
+        "Favicon": "https://www.newstalkzb.co.nz/content/news/images/interface/icons/newstalkzb/apple-touch-icon.png",
+        "Language": "en",
+        "Homepage": "https://www.newstalkzb.co.nz/",
+        "Source1": "http://streaming.radiomyway.co.nz/zbchalt.pls"
+    },
+    {
+        "Title": "Newstalk ZB Wellington",
+        "Country": "NewZealand",
+        "Tags": "local news,news,news talk",
+        "Favicon": "https://www.newstalkzb.co.nz/content/news/images/interface/icons/newstalkzb/apple-touch-icon.png",
+        "Language": "en",
+        "Homepage": "https://www.newstalkzb.co.nz/",
+        "Source1": "http://streaming.radiomyway.co.nz/zbwnalt.pls"
+    },
+    {
+        "Title": "Niu FM - AAC",
+        "Country": "NewZealand",
+        "Tags": "culture,music,pacific",
+        "Favicon": "https://i.iheart.com/v3/re/new_assets/60fdf21e8d281279cae30692",
+        "Language": "EN",
+        "Region": "NZ-AUK",
+        "Homepage": "https://pmn.co.nz/radio-stations/niu-fm",
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/NIUFMAAC_SC"
+    },
+    {
+        "Title": "Niu FM - MP3",
+        "Country": "NewZealand",
+        "Tags": "culture,music,pacific",
+        "Favicon": "https://i.iheart.com/v3/re/new_assets/60fdf21e8d281279cae30692",
+        "Language": "en",
+        "Homepage": "https://pmn.co.nz/radio-stations/niu-fm",
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/NIUFM_SC"
+    },
+    {
+        "Title": "Oamaru Heritage Radio",
+        "Country": "NewZealand",
+        "Tags": "alternative,canterbury,community,oldies,otago,southland",
+        "Language": "en",
+        "Homepage": "http://www.ohr.nz/",
+        "Source1": "http://202.9.116.204:8000/ohrweb"
+    },
+    {
+        "Title": "OAR 105.4FM Dunedin",
+        "Country": "NewZealand",
+        "Tags": "community,music,otago,talk",
+        "Favicon": "https://liveonlineradio.net/wp-content/uploads/2017/05/Otago-Access-Radio-220x108.jpg",
+        "Language": "en",
+        "Homepage": "https://oar.org.nz/",
+        "Source1": "https://live.accessmedia.nz/Otago.stream/playlist.m3u8"
+    },
+    {
+        "Title": "OAR FM - Otago Access Radio",
+        "Country": "NewZealand",
+        "Favicon": "https://oar.org.nz/wp-content/uploads/2024/09/cropped-favicon-180x180.png",
+        "Homepage": "https://oar.org.nz/",
+        "Source1": "https://live.accessmedia.nz/Otago.stream_aac/chunklist_w1332745084.m3u8"
+    },
+    {
+        "Title": "One Christian Radio",
+        "Country": "NewZealand",
+        "Tags": "christian,hymn,praise",
+        "Language": "en",
+        "Homepage": "https://onechristianradio.co.nz/",
+        "Source1": "https://radio.wanderingsheep.net:33001/onechristianradio"
+    },
+    {
+        "Title": "One Double-X",
+        "Country": "NewZealand",
+        "Tags": "local,news,ohope,pop,whakatane",
+        "Favicon": "https://static.wixstatic.com/media/2997c4_037e291ea90b41719f166f41a3ea5005%7emv2.png/v1/fill/w_32%2ch_32%2clg_1%2cusm_0.66_1.00_0.01/2997c4_037e291ea90b41719f166f41a3ea5005%7emv2.png",
+        "Language": "en",
+        "Homepage": "https://www.1xx.co.nz/",
+        "Source1": "https://radio.e-cast.co.nz/1xxone/stream.m3u8"
+    },
+    {
+        "Title": "Paekakariki",
+        "Country": "NewZealand",
+        "Favicon": "http://groundtruth.co.nz/favicon.ico",
+        "Language": "en",
+        "Homepage": "http://groundtruth.co.nz/paekakariki-882-fm-and-kapiti-island-birdsong",
+        "Source1": "http://icecast.groundtruth.co.nz:8000/paekakfm.mp3.m3u"
+    },
+    {
+        "Title": "Paekakariki 88.2FM",
+        "Country": "NewZealand",
+        "Tags": "community,eclectic,kapiti coast,local,paekakariki",
+        "Favicon": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.radio.net%2Fimages%2Fbroadcasts%2Fe3%2F9b%2F126709%2F1%2Fc300.png&f=1&nofb=1",
+        "Language": "en",
+        "Homepage": "https://paekakariki.fm/",
+        "Source1": "https://icecast.groundtruth.co.nz/paekakfm.aac"
+    },
+    {
+        "Title": "Plains FM 96.9",
+        "Country": "NewZealand",
+        "Tags": "community",
+        "Homepage": "https://plainsfm.org.nz/",
+        "Latitude": 28.723629275173927,
+        "Longitude": 33.04687500000001,
+        "Source1": "http://live.accessmedia.nz/plains.stream_aac/playlist.m3u8",
+        "Source2": "https://live.accessmedia.nz/plains.stream/playlist.m3u8"
+    },
+    {
+        "Title": "Planet FM 104.6 - AAC",
+        "Country": "NewZealand",
+        "Tags": "community radio,community,culture,non-profit,not-for-profit",
+        "Favicon": "https://images.accessmedia.nz/StationFolder/planetfm/Images/PlanetLogoSquare02.jpg",
+        "Language": "EN",
+        "Region": "NZ-AUK",
+        "Homepage": "https://www.planetaudio.org.nz/",
+        "Source1": "https://live.accessmedia.nz/PlanetFM.stream_aac/playlist.m3u8"
+    },
+    {
+        "Title": "Planet FM 104.6 - MP3",
+        "Country": "NewZealand",
+        "Tags": "community,community radio,culture,non-profit,not-for-profit",
+        "Favicon": "https://images.accessmedia.nz/StationFolder/planetfm/Images/PlanetLogoSquare02.jpg",
+        "Language": "en",
+        "Homepage": "https://www.planetaudio.org.nz/",
+        "Source1": "https://live.accessmedia.nz/PlanetFM.stream/playlist.m3u8"
+    },
+    {
+        "Title": "Positively Morrinsville 87.7FM",
+        "Country": "NewZealand",
+        "Tags": "community,contemporary music",
+        "Favicon": "https://www.wix.com/favicon.ico",
+        "Language": "en",
+        "Homepage": "https://tearoha34.wixsite.com/morrinsville",
+        "Source1": "https://c16.radioboss.fm:8262/stream?1652324863134"
+    },
+    {
+        "Title": "Power Hit FM 87.8 - Christchurch, NZ",
+        "Country": "NewZealand",
+        "Tags": "pop music,top 40",
+        "Homepage": "http://www.powerhitfm.co.nz/",
+        "Latitude": -43.53108396635563,
+        "Longitude": 172.63691782951358,
+        "Source1": "http://listen.powerhitfm.co.nz:16100/stream"
+    },
+    {
+        "Title": "Q97",
+        "Country": "NewZealand",
+        "Tags": "contemporary hits,whakatane",
+        "Favicon": "https://static.wixstatic.com/media/2997c4_dd6042bd43aa449c9318d09ed79dd9eb%7emv2.png/v1/fill/w_32%2ch_32%2clg_1%2cusm_0.66_1.00_0.01/2997c4_dd6042bd43aa449c9318d09ed79dd9eb%7emv2.png",
+        "Language": "en",
+        "Homepage": "https://www.q97.co.nz/",
+        "Source1": "https://radio.e-cast.co.nz/q97/stream.m3u8"
+    },
+    {
+        "Title": "RadiJohan",
+        "Country": "NewZealand",
+        "Tags": "decades,eclectic,indie,variety",
+        "Favicon": "https://i.postimg.cc/3JX2jxvZ/Radi-Johan.jpg",
+        "Language": "en",
+        "Homepage": "http://wp.radijohan.com/",
+        "Source1": "http://69.30.214.54:13740/;?type=http&nocache=1708209708?0.5747864581171453"
+    },
+    {
+        "Title": "Radio - X",
+        "Country": "NewZealand",
+        "Tags": "rock",
+        "Language": "en",
+        "Homepage": "http://radioxnz.com/",
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/SAM02AAC65_SC?dist=onlineradiobox"
+    },
+    {
+        "Title": "Radio A",
+        "Country": "NewZealand",
+        "Favicon": "https://static2.mytuner.mobi/media/tvos_radios/784/radio-a-new-zealand.13435436.jpg",
+        "Homepage": "https://www.thebroadcaststudio.co.nz/commercial-radio",
+        "Source1": "https://play.radioking.io/radio-a-music"
+    },
+    {
+        "Title": "Radio A - Nelson NZ",
+        "Country": "NewZealand",
+        "Homepage": "https://www.radioa.co.nz/",
+        "Latitude": -41.282037755340546,
+        "Longitude": 173.27533721923828,
+        "Source1": "https://listen.radioking.com/radio/106324/stream/145267"
+    },
+    {
+        "Title": "Radio Bay FM 100.7",
+        "Country": "NewZealand",
+        "Tags": "music",
+        "Favicon": "https://static-media.streema.com/media/cache/9f/95/9f9598196955d2228f613c8f0cda3da9.jpg",
+        "Language": "en",
+        "Homepage": "https://www.facebook.com/radiobayfm/",
+        "Source1": "https://s38.myradiostream.com:8876/;;?listening-from-radio-garden=1686969300"
+    },
+    {
+        "Title": "Radio Bolly Bop",
+        "Country": "NewZealand",
+        "Tags": "music",
+        "Language": "hi",
+        "Homepage": "http://s3.radio.co/s2f19d44d0/listen",
+        "Source1": "http://s3.radio.co/s2f19d44d0/listen"
+    },
+    {
+        "Title": "Radio Bollybop",
+        "Country": "NewZealand",
+        "Tags": "music",
+        "Favicon": "null",
+        "Language": "hi",
+        "Homepage": "https://s3.radio.co/s2f19d44d0/listen",
+        "Source1": "https://s3.radio.co/s2f19d44d0/listen"
+    },
+    {
+        "Title": "Radio BurgerFuel",
+        "Country": "NewZealand",
+        "Tags": "alt rock,alternative rock,electronic,electronic music,hip hop",
+        "Favicon": "https://images.radio.co/station_logos/s9909bd65f.20200505033228.jpg",
+        "Language": "en",
+        "Homepage": "https://www.radioburgerfuel.com/",
+        "Source1": "https://s3.radio.co/s9909bd65f/listen"
+    },
+    {
+        "Title": "Radio Chinese FM90.6",
+        "Country": "NewZealand",
+        "Favicon": "https://fm906.co.nz/images/logo-h.png",
+        "Homepage": "https://fm906.co.nz/index.html",
+        "Source1": "https://s26.myradiostream.com/:20274/listen.mp3?nocache=1628504081"
+    },
+    {
+        "Title": "Radio Control 99.4FM",
+        "Country": "NewZealand",
+        "Tags": "kiwi,maori culture,massey university,random,student,variety",
+        "Language": "en",
+        "Homepage": "https://radiocontrol.org.nz/welcome/",
+        "Source1": "https://michae14-gecko.radioca.st/stream"
+    },
+    {
+        "Title": "Radio Ferrymead 1413 AM",
+        "Country": "NewZealand",
+        "Homepage": "https://www.radioferrymead.co.nz/",
+        "Source1": "https://s2.stationplaylist.com:9440/listen.aac?1780841789005"
+    },
+    {
+        "Title": "Radio Hauraki",
+        "Country": "NewZealand",
+        "Favicon": "https://www.hauraki.co.nz/content/music/images/interface/icons/hauraki/favicon.ico",
+        "Language": "en",
+        "Homepage": "https://www.hauraki.co.nz/",
+        "Latitude": -36.84687849935388,
+        "Longitude": 174.7590118646622,
+        "Source1": "https://23163.live.streamtheworld.com/NZME_04AAC/HLS/playlist.m3u8?aw_0_1st.playerid=iHeartRadioWebPlayer&aw_0_1st.skey=12121006026&clientType=web&companionAds=false&deviceName=web-desktop&dist=iheart&host=webapp.NZ&listenerId=&playedFrom=157&pname=live_profile&profileId=12121006026&stationid=6191&terminalId=162&territory=NZ",
+        "Source2": "https://23163.live.streamtheworld.com/NZME_04AAC/HLS/playlist.m3u8",
+        "Source3": "https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_04AAC_SC"
+    },
+    {
+        "Title": "Radio Hawkes Bay",
+        "Country": "NewZealand",
+        "Tags": "community radio,music,show",
+        "Favicon": "https://cdn3.firecrestsystems.com/FC_Kidnappers/Images/RadioHawkesBay-Logo-NB.png",
+        "Language": "en",
+        "Homepage": "https://radiohawkesbay.org.nz/Default.aspx",
+        "Source1": "https://live.accessmedia.nz/Kidnappers.stream/playlist.m3u8"
+    },
+    {
+        "Title": "Radio Hydra",
+        "Country": "NewZealand",
+        "Tags": "classic hits,piha",
+        "Language": "en",
+        "Homepage": "https://radiohydra.org/",
+        "Source1": "https://streaming.radio.co/sed9109681/listen"
+    },
+    {
+        "Title": "Radio Kidnappers",
+        "Country": "NewZealand",
+        "Language": "en",
+        "Homepage": "https://www.radiokidnappers.org.nz/",
+        "Source1": "https://live.accessmedia.nz/Kidnappers.stream_aac/playlist.m3u8"
+    },
+    {
+        "Title": "Radio KPS (Kauri Park School)",
+        "Country": "NewZealand",
+        "Tags": "children,pop,student radio",
+        "Favicon": "https://lh3.googleusercontent.com/sitesv/AA5AbUA_u_j1gvQEVPUAiosRq7lTsmW11yYC9dm4m8rUOrEWdaGDDkabOJYIkjLVAytN5U04J6iqCRV1NQoDGfmynj-yO4ZdP1Gf8m6yBe5V54zsTwEhFHrSzGvIifYsd0Ba5XacQx3Ee3MP-yJ3rW9cQsLeyzuoo6LDBIIr8AVwjwX8zEYZ8IsoAkyuMOXTrlmyXY9hn9a4Dlmh99vT919cJ9WtOg",
+        "Language": "en",
+        "Homepage": "https://www.radiokps.nz/",
+        "Source1": "http://202.150.97.198:8000/;"
+    },
+    {
+        "Title": "Radio New Zealand National",
+        "Country": "NewZealand",
+        "Favicon": "https://www.rnz.co.nz/x/favicons/production/apple-touch-icon-14e8cc0d5e9a21845ce6a582e39617baeebe39d41412666ecebcdba7f3c1770a.png",
+        "Homepage": "https://www.rnz.co.nz/national",
+        "Source1": "http://radionz-ice.streamguys.com/national.mp3"
+    },
+    {
+        "Title": "Radio Ngāti Porou",
+        "Country": "NewZealand",
+        "Tags": "community,iwi,kapa haka,maori culture",
+        "Favicon": "https://radiongatiporou.com/wp-content/uploads/2019/08/logo_blue-200x133.png",
+        "Language": "en",
+        "Homepage": "https://radiongatiporou.com/",
+        "Source1": "https://wowza.iwi.radio/icecast-to-hls/ngrp:NgatiPorou.stream/playlist.m3u8"
+    },
+    {
+        "Title": "Radio one 91 fm",
+        "Country": "NewZealand",
+        "Tags": "eclectic",
+        "Favicon": "https://www.r1.co.nz/images/favicons/apple-touch-icon-120x120.png",
+        "Language": "en",
+        "Homepage": "https://www.r1.co.nz/",
+        "Source1": "https://play.r1.co.nz/live"
+    },
+    {
+        "Title": "Radio One 91FM",
+        "Country": "NewZealand",
+        "Tags": "community radio,disco,local news,maori culture,news,pop,punk,synth,various",
+        "Favicon": "https://www.r1.co.nz/images/logo.png",
+        "Language": "en",
+        "Homepage": "https://www.r1.co.nz/",
+        "Latitude": -45.8661370797173,
+        "Longitude": 170.51174193620685,
+        "Source1": "https://play.r1.co.nz/live"
+    },
+    {
+        "Title": "RADIO PANJABI",
+        "Country": "NewZealand",
+        "Tags": "folk,hip-hop,news,news talk,podcast,pop,punjabi,world news",
+        "Language": "en",
+        "Homepage": "http://www.radiopanjabi.com/",
+        "Source1": "https://s20.reliastream.com/stream/8134"
+    },
+    {
+        "Title": "Radio Robotic",
+        "Country": "NewZealand",
+        "Tags": "alternative,indie",
+        "Favicon": "https://static.wixstatic.com/media/3e4049_7800f3b666694fbfab646b89828ce32d%7emv2.png/v1/fill/w_32%2ch_32%2clg_1%2cusm_0.66_1.00_0.01/3e4049_7800f3b666694fbfab646b89828ce32d%7emv2.png",
+        "Language": "en",
+        "Homepage": "https://www.radiorobotic.com/",
+        "Source1": "https://stream.zeno.fm/rhscse2a41zuv",
+        "Source2": "https://stream.zeno.fm/x4hneey2vwzuv"
+    },
+    {
+        "Title": "Radio Samoa 1593am",
+        "Country": "NewZealand",
+        "Tags": "community,culture,music",
+        "Language": "en",
+        "Homepage": "https://radiosamoa.co.nz/",
+        "Source1": "http://radiosamoa.stream.broadcast.co.nz:8000/rsamoa48k"
+    },
+    {
+        "Title": "Radio Sangeet Masti",
+        "Country": "NewZealand",
+        "Tags": "music",
+        "Favicon": "null",
+        "Language": "hi",
+        "Homepage": "https://servidor19-4.brlogic.com:7304/live?source=website",
+        "Source1": "https://servidor19-4.brlogic.com:7304/live?source=website"
+    },
+    {
+        "Title": "Radio Spice (Auckland, New Zealand)",
+        "Country": "NewZealand",
+        "Tags": "music",
+        "Favicon": "https://cdn.webrad.io/images/brand/icon_192x192.png",
+        "Homepage": "http://radio.org.nz/spice",
+        "Source1": "http://stream9.broadcast.co.nz:8000/radiospicewebsiteaudio.mp3"
+    },
+    {
+        "Title": "Radio Te Aroha 88FM",
+        "Country": "NewZealand",
+        "Tags": "community,oldies,variety",
+        "Language": "en",
+        "Homepage": "https://tearoha34.wixsite.com/radiotearoha",
+        "Source1": "https://c2.radioboss.fm:18440/stream"
+    },
+    {
+        "Title": "Radio Universo FM",
+        "Country": "NewZealand",
+        "Favicon": "https://static.wixstatic.com/media/997731_6db60f6e7a53483b81213fa9eac4da43~mv2.jpg/v1/fill/w_250,h_116,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/a%20logo.jpg",
+        "Homepage": "https://www.radiouniversofm.co.nz/",
+        "Source1": "https://stationplaylist.com:7140/listen.aac"
+    },
+    {
+        "Title": "Radioactive.FM 88.6",
+        "Country": "NewZealand",
+        "Tags": "alternative,indie,local radio,student radio",
+        "Language": "en",
+        "Homepage": "https://www.radioactive.fm/",
+        "Latitude": -41.29216980401187,
+        "Longitude": 174.77877330912636,
+        "Source1": "https://radio123-gecko.radioca.st/radioactivefm"
+    },
+    {
+        "Title": "Radiowave NZ",
+        "Country": "NewZealand",
+        "Tags": "80s,90s,hits,today,tourist info",
+        "Language": "en",
+        "Homepage": "https://www.radiowavenz.com/",
+        "Source1": "https://listen.radioking.com/radio/106324/stream/145267",
+        "Source2": "https://stream.radiowavenz.com/stream",
+        "Source3": "https://stream.radiowavenz.com/stream-aac",
+        "Source4": "https://stream.radiowavenz.com/stream-aac-low"
+    },
+    {
+        "Title": "RAG-FM 107.7FM",
+        "Country": "NewZealand",
+        "Tags": "kiwi,oldies",
+        "Favicon": "https://i.postimg.cc/br29f0dX/RAG-FM.jpg",
+        "Language": "en",
+        "Homepage": "https://www.ragfm.com/",
+        "Source1": "https://cast6.asurahosting.com/proxy/ragfmcom/stream"
+    },
+    {
+        "Title": "Raglan Community Radio",
+        "Country": "NewZealand",
+        "Favicon": "https://cdn3.firecrestsystems.com/FC_RaglanCR/Images/cropped-Raglan-Community-Radio.png",
+        "Homepage": "https://raglanradio.com/Default.aspx",
+        "Source1": "https://s36.myradiostream.com/20712/;?type=http&nocache=1738237589?0.8271986316497546"
+    },
+    {
+        "Title": "Raglan Communtiy Radio",
+        "Country": "NewZealand",
+        "Favicon": "https://cdn3.firecrestsystems.com/FC_RaglanCR/Images/RaglanICO.png",
+        "Language": "en",
+        "Homepage": "https://raglanradio.com/",
+        "Latitude": -37.80028223408415,
+        "Longitude": 174.87002849578855,
+        "Source1": "https://s36.myradiostream.com/20712/;?type=http&nocache=1738237956"
+    },
+    {
+        "Title": "RDU",
+        "Country": "NewZealand",
+        "Tags": "alternative",
+        "Language": "en",
+        "Homepage": "https://rdu.org.nz/",
+        "Source1": "https://rdu985fm-gecko.radioca.st/stream"
+    },
+    {
+        "Title": "RDU 98.5FM",
+        "Country": "NewZealand",
+        "Favicon": "https://rdu.org.nz/favicon.ico",
+        "Homepage": "https://rdu.org.nz/",
+        "Source1": "https://rdu985fm-gecko.radioca.st/listen.pls?sid=1"
+    },
+    {
+        "Title": "Retro Hit Radio",
+        "Country": "NewZealand",
+        "Tags": "1980s,1990s,adult hits,classic hits,pop rock,retro",
+        "Favicon": "http://retrohitradio.co.nz/favicon.ico",
+        "Homepage": "http://retrohitradio.co.nz/",
+        "Latitude": -36.86317362230059,
+        "Longitude": 174.7324848175049,
+        "Source1": "https://riphel02.radioca.st/;",
+        "Source2": "http://riphel02.radioca.st/stream",
+        "Source3": "https://riphel02.radioca.st/stream"
+    },
+    {
+        "Title": "Rhema - MP3",
+        "Country": "NewZealand",
+        "Tags": "christian",
+        "Favicon": "https://origin-player.streamguys.com/rhema/sgplayer/include/assets/img/logo-rhema.jpg",
+        "Language": "EN",
+        "Region": "NZ-AUK",
+        "Homepage": "https://rhema.co.nz/",
+        "Source1": "https://rhema-radio.streamguys1.com/rhema.mp3"
+    },
+    {
+        "Title": "RNZ Concert AAC (128kbps)",
+        "Country": "NewZealand",
+        "Tags": "classical,classical music",
+        "Favicon": "https://www.rnz.co.nz/x/favicons/production/apple-touch-icon-14e8cc0d5e9a21845ce6a582e39617baeebe39d41412666ecebcdba7f3c1770a.png",
+        "Language": "EN",
+        "Region": "NZ-AUK",
+        "Homepage": "https://www.rnz.co.nz/concert",
+        "Source1": "http://radionz-ice.streamguys.com/Concert_aac128"
+    },
+    {
+        "Title": "RNZ Concert MP3",
+        "Country": "NewZealand",
+        "Tags": "classical,classical music",
+        "Favicon": "https://www.rnz.co.nz/x/favicons/production/apple-touch-icon-14e8cc0d5e9a21845ce6a582e39617baeebe39d41412666ecebcdba7f3c1770a.png",
+        "Language": "EN",
+        "Region": "NZ-AUK",
+        "Homepage": "https://www.rnz.co.nz/concert",
+        "Source1": "http://radionz-ice.streamguys.com/concert.mp3"
+    },
+    {
+        "Title": "RNZ National",
+        "Country": "NewZealand",
+        "Favicon": "http://www.radionz.co.nz/x/favicons/apple-icon-120x120-2a68f62bcd63220044c71f3e7eb3ee0e0ea2d1079d3b50b3f90eab3c48a7a46b.png",
+        "Homepage": "https://www.rnz.co.nz/",
+        "Latitude": -41.40771586770284,
+        "Longitude": 173.58398437500003,
+        "Source1": "http://radionz-ice.streamguys.com/national.mp3"
+    },
+    {
+        "Title": "RNZ National AAC (128kbps)",
+        "Country": "NewZealand",
+        "Tags": "features,national affairs,news",
+        "Favicon": "https://www.rnz.co.nz/x/favicons/production/apple-touch-icon-14e8cc0d5e9a21845ce6a582e39617baeebe39d41412666ecebcdba7f3c1770a.png",
+        "Language": "EN,MI",
+        "Region": "NZ-AUK",
+        "Homepage": "https://www.rnz.co.nz/national",
+        "Source1": "http://radionz-ice.streamguys.com/National_aac128"
+    },
+    {
+        "Title": "RNZ National MP3",
+        "Country": "NewZealand",
+        "Tags": "features,national affairs,news",
+        "Favicon": "https://www.rnz.co.nz/x/favicons/production/apple-touch-icon-14e8cc0d5e9a21845ce6a582e39617baeebe39d41412666ecebcdba7f3c1770a.png",
+        "Language": "EN,MI",
+        "Region": "NZ-AUK",
+        "Homepage": "https://www.rnz.co.nz/national",
+        "Source1": "http://radionz-ice.streamguys.com/national.mp3"
+    },
+    {
+        "Title": "RNZ Pacific AAC (64kbps)",
+        "Country": "NewZealand",
+        "Tags": "features,national affairs,news,pacific",
+        "Favicon": "https://www.rnz.co.nz/x/favicons/production/apple-touch-icon-14e8cc0d5e9a21845ce6a582e39617baeebe39d41412666ecebcdba7f3c1770a.png",
+        "Language": "EN,MI",
+        "Region": "NZ-AUK",
+        "Homepage": "https://www.rnz.co.nz/international",
+        "Source1": "http://radionz-ice.streamguys.com/international_aac64"
+    },
+    {
+        "Title": "RNZ Pacific MP3",
+        "Country": "NewZealand",
+        "Tags": "features,national affairs,news,pacific",
+        "Favicon": "https://www.rnz.co.nz/x/favicons/production/apple-touch-icon-14e8cc0d5e9a21845ce6a582e39617baeebe39d41412666ecebcdba7f3c1770a.png",
+        "Language": "EN,MI",
+        "Region": "NZ-AUK",
+        "Homepage": "https://www.rnz.co.nz/international",
+        "Source1": "http://radionz-ice.streamguys.com/international.mp3"
+    },
+    {
+        "Title": "RNZ Parliament MP3 (Sanctuary outside Parliament hours)",
+        "Country": "NewZealand",
+        "Tags": "politics,legislative,government,opposition",
+        "Favicon": "https://www.rnz.co.nz/x/favicons/production/apple-touch-icon-14e8cc0d5e9a21845ce6a582e39617baeebe39d41412666ecebcdba7f3c1770a.png",
+        "Language": "EN",
+        "Region": "NZ-WGN",
+        "Homepage": "https://videos.parliament.nz/",
+        "Source1": "http://radionz-ice.streamguys.com/parliament.mp3"
+    },
+    {
+        "Title": "ROVA CHILL HOP",
+        "Country": "NewZealand",
+        "Homepage": "https://rova.nz/",
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/ROVA_CHILLHOP_S01AAC.aac?dist=?n=de33099414fdd83859df"
+    },
+    {
+        "Title": "Rush FM",
+        "Country": "NewZealand",
+        "Tags": "fringe,music,red pill",
+        "Language": "en",
+        "Homepage": "http://rushfm.co.nz/",
+        "Source1": "http://rushbroadcasting.serverroom.us:5204/;"
+    },
+    {
+        "Title": "Sanctuary - AAC",
+        "Country": "NewZealand",
+        "Tags": "christian,worship",
+        "Favicon": "https://yoursanctuary.nz/_ipx/_/images/cover.jpg",
+        "Language": "EN",
+        "Region": "NZ-AUK",
+        "Homepage": "https://yoursanctuary.nz/",
+        "Source1": "https://rhema-radio.streamguys1.com/rhema-sanctuary.aac"
+    },
+    {
+        "Title": "Sanctuary - MP3",
+        "Country": "NewZealand",
+        "Tags": "christian,worship",
+        "Favicon": "https://yoursanctuary.nz/_ipx/_/images/cover.jpg",
+        "Language": "EN",
+        "Region": "NZ-AUK",
+        "Homepage": "https://yoursanctuary.nz/",
+        "Source1": "https://rhema-radio.streamguys1.com/rhema-sanctuary.mp3"
+    },
+    {
+        "Title": "SayHiFM",
+        "Country": "NewZealand",
+        "Tags": "filipino radio in new zealand,filipino station,radio new zealand",
+        "Favicon": "https://sayhifm.com/images/favicon.ico",
+        "Language": "en,tl",
+        "Homepage": "https://sayhifm.com/",
+        "Latitude": -37.040665453418654,
+        "Longitude": 174.92066860198975,
+        "Source1": "https://play.radioking.io/sayhifm"
+    },
+    {
+        "Title": "Ski FM",
+        "Country": "NewZealand",
+        "Tags": "contemporary hits,ski mountain",
+        "Language": "en",
+        "Homepage": "https://skifmnetwork.co.nz/",
+        "Source1": "https://s2.radio.co/s6436891bc/listen"
+    },
+    {
+        "Title": "Sleep Radio",
+        "Country": "NewZealand",
+        "Favicon": "https://static.wixstatic.com/media/02acb2_6cce978449504683b9d9a5b6861b25e3.png/v1/fill/w_180%2ch_180%2clg_1%2cusm_0.66_1.00_0.01/02acb2_6cce978449504683b9d9a5b6861b25e3.png",
+        "Homepage": "https://www.sleepradio.co.nz/listen",
+        "Source1": "https://cast4.my-control-panel.com/proxy/sleeprad/stream?1721309187745"
+    },
+    {
+        "Title": "sleep radio",
+        "Country": "NewZealand",
+        "Tags": "sleep relaxation",
+        "Favicon": "https://static.wixstatic.com/media/02acb2_6cce978449504683b9d9a5b6861b25e3.png/v1/fill/w_180%2ch_180%2clg_1%2cusm_0.66_1.00_0.01/02acb2_6cce978449504683b9d9a5b6861b25e3.png",
+        "Language": "en",
+        "Homepage": "https://www.sleepradio.co.nz/",
+        "Source1": "http://65.109.81.84:9851/stream",
+        "Source2": "https://cast4.asurahosting.com:2199/tunein/sleeprad.pls"
+    },
+    {
+        "Title": "Smooth 105.6FM",
+        "Country": "NewZealand",
+        "Tags": "easy listening,smooth",
+        "Favicon": "https://i.postimg.cc/C1wKgw1w/Smooth.jpg",
+        "Language": "en",
+        "Homepage": "https://www.smoothfm.co.nz/",
+        "Source1": "https://servidor26.brlogic.com:7110/live"
+    },
+    {
+        "Title": "Southern Cross Country",
+        "Country": "NewZealand",
+        "Tags": "country",
+        "Favicon": "https://player.streamerr.co/uploads/logos/Untitled_design_-_2023-10-211.png",
+        "Language": "en",
+        "Homepage": "https://southerncrosscountry.co.nz/",
+        "Source1": "https://sxcountry.radioca.st/stream"
+    },
+    {
+        "Title": "Sport Nation - AAC",
+        "Country": "NewZealand",
+        "Tags": "sports,cricket",
+        "Favicon": "https://sportnation.nz/radio.png",
+        "Language": "EN",
+        "Region": "NZ-AUK",
+        "Homepage": "https://sportnation.nz/",
+        "Source1": "https://sen.streamguys1.com/SENZ-AAC/playlist.m3u8"
+    },
+    {
+        "Title": "Sub FM",
+        "Country": "NewZealand",
+        "Tags": "deep house,drum 'n' bass,dub,dubstep,garage,grime,student,techno",
+        "Favicon": "https://www.sub.fm/wp-content/uploads/2017/07/cropped-black-sub-180x180.png",
+        "Language": "en",
+        "Homepage": "https://www.sub.fm/",
+        "Source1": "https://fmsub.radioca.st/stream?type=http&nocache=140"
+    },
+    {
+        "Title": "Switch FM Gisborne",
+        "Country": "NewZealand",
+        "Tags": "dance",
+        "Favicon": "https://cdn.onlineradiobox.com/img/l/6/74836.v5.png",
+        "Language": "en",
+        "Homepage": "http://www.theswitch.co.nz/",
+        "Source1": "http://s8.myradiostream.com:56886/listen.m4a"
+    },
+    {
+        "Title": "Tahu FM",
+        "Country": "NewZealand",
+        "Tags": "hip hop,hits,kāi tahu,māori,ngāi tahu,nz,rnb",
+        "Favicon": "https://tahufm.online/_resources/themes/tahufm/images/logo.svg?m=1742941472",
+        "Language": "en",
+        "Homepage": "https://tahufm.online/",
+        "Source1": "https://icast1.streamcom.net/TahuFM"
+    },
+    {
+        "Title": "Tautoko FM",
+        "Country": "NewZealand",
+        "Favicon": "https://tautokofm.com/wp-content/uploads/2021/08/cropped-Logo2021T-300x134.png",
+        "Homepage": "https://tautokofm.com/",
+        "Source1": "https://icast1.streamcom.net/J_Tautoko.aac"
+    },
+    {
+        "Title": "Te Hiku Radio",
+        "Country": "NewZealand",
+        "Favicon": "https://tehiku.radio/favicon.ico",
+        "Homepage": "https://tehiku.radio/",
+        "Source1": "http://libreice.tehiku.radio:8000/tehikufm_ogg"
+    },
+    {
+        "Title": "Te Reo Irirangi O Ngāti Kahungunu",
+        "Country": "NewZealand",
+        "Tags": "community,iwi,kapa huka,maori culture,music",
+        "Favicon": "https://static.wixstatic.com/media/d14534_259a89e4fcec4fb1a130d955fd584e8e~mv2_d_4534_2593_s_4_2.png/v1/fill/w_203,h_116,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Radio%20K%20Logo%20small.png",
+        "Language": "en",
+        "Homepage": "https://www.radiokahungunu.nz/",
+        "Source1": "https://wowza.iwi.radio/icecast-to-hls/ngrp:Kahungunu.stream/playlist.m3u8"
+    },
+    {
+        "Title": "The Breeze 93.4",
+        "Country": "NewZealand",
+        "Favicon": "https://cdn-profiles.tunein.com/s17930/images/logod.png?t=638017388010000000",
+        "Language": "en",
+        "Homepage": "http://www.thebreeze.co.nz/",
+        "Source1": "https://mediaworks.streamguys1.com/breeze-akl-high_icy"
+    },
+    {
+        "Title": "The Cheese",
+        "Country": "NewZealand",
+        "Tags": "gen-x,music",
+        "Favicon": "https://nz.radio.net/300/884thecheese.png?version=d3bd97b7c4aadd62cf9c17dfe894f8f9",
+        "Homepage": "https://thecheese.co.nz/",
+        "Source1": "https://station.thecheese.co.nz/listen/the_cheese/128.mp3",
+        "Source2": "https://station.thecheese.co.nz/hls/the_cheese/live.m3u8"
+    },
+    {
+        "Title": "The Cheese FLAC",
+        "Country": "NewZealand",
+        "Tags": "gen x,hits,pop",
+        "Homepage": "https://thecheese.co.nz/",
+        "Source1": "https://station.thecheese.co.nz/listen/the_cheese/flac"
+    },
+    {
+        "Title": "The Edge",
+        "Country": "NewZealand",
+        "Language": "en",
+        "Homepage": "https://www.theedge.co.nz/home.html",
+        "Latitude": -36.846016494844946,
+        "Longitude": 174.75006401538852,
+        "Source1": "https://digitalstreams.mediaworks.nz/edge_net/playlist.m3u8"
+    },
+    {
+        "Title": "The Generator",
+        "Country": "NewZealand",
+        "Tags": "classic rock,hard rock,heavy metal,rock",
+        "Language": "en",
+        "Homepage": "https://thegenerator.co.nz/",
+        "Source1": "https://s1.myradiostream.com/:14268/;?type=http&nocache=1608640718?0.7458407789862892"
+    },
+    {
+        "Title": "The Generator FM",
+        "Country": "NewZealand",
+        "Homepage": "https://thegenerator.co.nz/",
+        "Source1": "https://s1.myradiostream.com/14268/stream/1/"
+    },
+    {
+        "Title": "The Hits",
+        "Country": "NewZealand",
+        "Tags": "contemporary hits",
+        "Favicon": "https://i.postimg.cc/gkQ2VPks/the-hits-c99846c6.png",
+        "Language": "en",
+        "Homepage": "https://www.thehits.co.nz/",
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_71AAC.m3u8?aw_0_1st.playerid=iHeartRadioWebPlayer&aw_0_1st.skey=9774168307&clientType=web&companionAds=false&deviceName=web-desktop&dist=iheart&host=webapp.NZ&listenerId=&playedFrom=157&pname=live_profile&profileId=9774168307&stationid=6204&terminalId=162&territory=NZ"
+    },
+    {
+        "Title": "The Most Fm",
+        "Country": "NewZealand",
+        "Language": "en",
+        "Homepage": "http://www.mostfm.co.nz/",
+        "Source1": "http://gordon.mostfm.com:8000/high.m3u"
+    },
+    {
+        "Title": "The Most FM 104.4",
+        "Country": "NewZealand",
+        "Tags": "alternative,taranaki,top 40 pop",
+        "Language": "en",
+        "Homepage": "http://mostfm.co.nz/",
+        "Source1": "http://gordon.mostfm.com:8000/high"
+    },
+    {
+        "Title": "The Platform Kiwi",
+        "Country": "NewZealand",
+        "Tags": "talk radio",
+        "Homepage": "https://theplatform.kiwi/",
+        "Latitude": -40.2023706029768,
+        "Longitude": 175.27457794832068,
+        "Source1": "https://streaming.shoutcast.com/the-platformlive",
+        "Source2": "https://hls.exiledkiwi.nz/theplatform.m3u8"
+    },
+    {
+        "Title": "The Rhythm 89FM",
+        "Country": "NewZealand",
+        "Tags": "alternative,local,variety",
+        "Language": "en",
+        "Homepage": "http://www.therhythm.co.nz/",
+        "Source1": "http://stream.zeno.fm/7v9aaqeqhs8uv"
+    },
+    {
+        "Title": "The Rock",
+        "Country": "NewZealand",
+        "Tags": "rock",
+        "Language": "en",
+        "Homepage": "https://www.therock.net.nz/home.html",
+        "Latitude": -36.84603710059265,
+        "Longitude": 174.75007742643356,
+        "Source1": "https://digitalstreams.mediaworks.nz/rock_net/playlist.m3u8"
+    },
+    {
+        "Title": "The Rock",
+        "Country": "NewZealand",
+        "Homepage": "https://www.rova.nz/radio/the-rock",
+        "Source1": "https://www.rova.nz/radio/the-rock"
+    },
+    {
+        "Title": "The Rock - NZ's #1 rock radio station",
+        "Country": "NewZealand",
+        "Tags": "alternative rock,classic rock,hard rock,pop rock,rock,soft rock",
+        "Homepage": "https://www.therock.net.nz/",
+        "Latitude": -36.87788876938578,
+        "Longitude": 174.7673492676169,
+        "Source1": "https://digitalstreams.mediaworks.nz/rock_net_icy"
+    },
+    {
+        "Title": "The Rock NZ",
+        "Country": "NewZealand",
+        "Homepage": "https://www.rova.nz/radio/the-rock",
+        "Source1": "https://www.rova.nz/radio/the-rock"
+    },
+    {
+        "Title": "The Sound",
+        "Country": "NewZealand",
+        "Tags": "classic rock",
+        "Favicon": "https://www.thesound.co.nz/etc.clientlibs/mws-sites-nextgen/clientlibs/clientlib-thesound/resources/favicons/apple-touch-icon-180x180.png",
+        "Language": "en",
+        "Homepage": "https://www.thesound.co.nz/home.html",
+        "Latitude": -36.87625639620818,
+        "Longitude": 174.81719970703128,
+        "Source1": "https://digitalstreams.mediaworks.nz/sound_net/playlist.m3u8"
+    },
+    {
+        "Title": "The Wireless (Today's Best Country)",
+        "Country": "NewZealand",
+        "Tags": "country",
+        "Homepage": "http://thewireless.nz/",
+        "Source1": "https://stream.zeno.fm/lamr6x1fxrruv"
+    },
+    {
+        "Title": "Tiri 2",
+        "Country": "NewZealand",
+        "Tags": "classic pop,classic rock,pirate",
+        "Favicon": "https://i.postimg.cc/RVdL50ZZ/Tiri-2.jpg",
+        "Language": "en",
+        "Homepage": "https://tiri2.webradiosite.com/",
+        "Source1": "https://servidor34-4.brlogic.com:7138/live?source=website"
+    },
+    {
+        "Title": "TLC Radio Northland",
+        "Country": "NewZealand",
+        "Language": "en",
+        "Homepage": "https://www.thelittlecountryradio.co.nz/",
+        "Source1": "http://203.118.136.79:88/broadwave.mp3"
+    },
+    {
+        "Title": "True Light FM",
+        "Country": "NewZealand",
+        "Favicon": "https://truelightfm.co.nz/images/TLFM-Logo.png",
+        "Homepage": "http://www.truelightfm.co.nz/",
+        "Source1": "http://stream.truelightfm.co.nz:8000/stream"
+    },
+    {
+        "Title": "TYFM",
+        "Country": "NewZealand",
+        "Favicon": "https://static2.mytuner.mobi/media/tvos_radios/852/tyfm-auckland.7894fd3c.png",
+        "Homepage": "https://tyfm.co.nz/?from=mtr",
+        "Source1": "https://radio.parkplacesounds.co.nz/listen/tyfm/apps/mtr"
+    },
+    {
+        "Title": "UP FM 107.5",
+        "Country": "NewZealand",
+        "Tags": "dance",
+        "Favicon": "https://liveonlineradio.net/wp-content/uploads/2013/09/Up-FM.jpg",
+        "Language": "en",
+        "Homepage": "https://twitter.com/upfm",
+        "Source1": "https://stream.upfm.live/radio/8000/radio.mp3"
+    },
+    {
+        "Title": "Vinyl Radio NZ",
+        "Country": "NewZealand",
+        "Tags": "classic rock,hits,old hits",
+        "Favicon": "https://cdn.onlineradiobox.com/img/favicon-194x194.png",
+        "Language": "en",
+        "Homepage": "https://onlineradiobox.com/nz/vinylnz/",
+        "Latitude": -36.88884741531178,
+        "Longitude": 174.77325439453128,
+        "Source1": "https://s40.myradiostream.com:17794/listen.aac?"
+    },
+    {
+        "Title": "Wandering Sheep Radio - Christian Smooth Jazz",
+        "Country": "NewZealand",
+        "Tags": "christian,smooth jazz",
+        "Language": "en",
+        "Homepage": "https://wsradio.net/",
+        "Source1": "http://radio.wanderingsheep.tv:8021/christianjazz"
+    },
+    {
+        "Title": "Wandering Sheep Radio - Hope Alive",
+        "Country": "NewZealand",
+        "Tags": "christian,praise,worship",
+        "Language": "en",
+        "Homepage": "https://wsradio.net/",
+        "Source1": "http://radio.wanderingsheep.tv:8012/hopealive"
+    },
+    {
+        "Title": "Wandering Sheep Radio - Jazz Cafe",
+        "Country": "NewZealand",
+        "Tags": "christian,smooth jazz",
+        "Favicon": "http://wsradio.net/wp-content/uploads/2014/07/gordonsheep1.ico",
+        "Language": "en",
+        "Homepage": "http://wsradio.net/",
+        "Source1": "http://radio.wanderingsheep.tv:8000/jazzcafe"
+    },
+    {
+        "Title": "WCR 87.6 FM",
+        "Country": "NewZealand",
+        "Tags": "variety",
+        "Favicon": "https://static-media.streema.com/media/cache/e5/70/e57010a75d567bdc3e4152a4a5cfa42b.jpg",
+        "Language": "en",
+        "Homepage": "https://www.wcrfm.co.nz/",
+        "Source1": "http://stream2.nrgkits.co.nz:5000/wcrfm"
+    },
+    {
+        "Title": "Wellington Access Radio",
+        "Country": "NewZealand",
+        "Tags": "community,culture,languages,local,music",
+        "Language": "en",
+        "Homepage": "https://www.accessradio.org.nz/",
+        "Source1": "https://live.accessmedia.nz/Wellington.stream/playlist.m3u8"
+    },
+    {
+        "Title": "West Coast Radio",
+        "Country": "NewZealand",
+        "Favicon": "https://www.wcrfm.co.nz/index_files/image3251.jpg",
+        "Language": "en",
+        "Homepage": "https://www.wcrfm.co.nz/index.html",
+        "Latitude": -36.85447985980667,
+        "Longitude": 174.76673126220703,
+        "Source1": "http://stream2.nrgkits.co.nz:5000/wcrfm"
+    },
+    {
+        "Title": "West FM Swing Radio",
+        "Country": "NewZealand",
+        "Tags": "1920s,1930's,1940's,jazz,swing",
+        "Favicon": "https://i.postimg.cc/VNjvHX2V/West-FM.jpg",
+        "Language": "en",
+        "Homepage": "http://westfmradio.com/",
+        "Source1": "http://westfm.freeddns.org:8000/westfm"
+    },
+    {
+        "Title": "World FM Tawa 88.2",
+        "Country": "NewZealand",
+        "Tags": "current affairs,kiwi,tawa,wellington,world",
+        "Language": "en",
+        "Homepage": "http://worldfm.co.nz/",
+        "Source1": "http://www.worldfm.co.nz:8882/worldfm.aac"
+    },
+    {
+        "Title": "XS80s",
+        "Country": "NewZealand",
+        "Favicon": "http://xs80s.com/favicon.ico",
+        "Homepage": "http://xs80s.com/",
+        "Latitude": -43.72029972981779,
+        "Longitude": 172.8369140625,
+        "Source1": "http://s1.myradiostream.com:12508/listen.mp3"
+    },
+    {
+        "Title": "XS80s",
+        "Country": "NewZealand",
+        "Tags": "1980's,1980s,80's,80s,decades,hits,pop,rock",
+        "Favicon": "https://xs80s.com/img/XS80s-PP.png",
+        "Language": "en",
+        "Homepage": "https://xs80s.com/",
+        "Source1": "http://s1.myradiostream.com:12508/listen.mp3"
+    },
+    {
+        "Title": "ZFM Global",
+        "Country": "NewZealand",
+        "Tags": "contemporary,internet station,pop,top40",
+        "Language": "en",
+        "Homepage": "https://zfmglobal.com/",
+        "Source1": "http://nebula.shoutca.st:8545/stream/1/"
+    },
+    {
+        "Title": "ZM Wellington (new)",
+        "Country": "NewZealand",
+        "Favicon": "https://i.iheart.com/v3/re/assets.streams/66cd032848755edc76e696f3",
+        "Homepage": "https://www.zmonline.com/",
+        "Latitude": -41.27278259499812,
+        "Longitude": 174.7760226743494,
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_33AAC.m3u8"
+    },
+    {
+        "Title": "新西兰中文广播电台 FM90.6 Radio Chinese",
+        "Country": "NewZealand",
+        "Tags": "chinese,culture,information,lifestyle,music,new zealand",
+        "Favicon": "https://fm906.co.nz/images/nzc-logo.jpg",
+        "Language": "hak,yue,zh",
+        "Homepage": "https://fm906.co.nz/",
+        "Source1": "https://s26.myradiostream.com:20274/listen.mp3"
+    }
+]

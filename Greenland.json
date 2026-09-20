@@ -1,0 +1,50 @@
+[
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "Greenland",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "Dfm rtv int160k",
+        "Country": "Greenland",
+        "Language": "nl",
+        "Homepage": "http://dfm.nu/",
+        "Source1": "http://dfm.nu/DFM_RTV_INT_1.m3u"
+    },
+    {
+        "Title": "KNR Live Radio",
+        "Country": "Greenland",
+        "Favicon": "https://knr.gl/themes/custom/pco_theme/favicon.ico?v=1",
+        "Homepage": "https://knr.gl/en/live-radio",
+        "Source1": "https://i1.cdn.jetstre.am:8000/sz=knr=audio192?token=ea282bc02bb373156231dd1522a33943&time=6a184ec2"
+    },
+    {
+        "Title": "Nanoq FM",
+        "Country": "Greenland",
+        "Favicon": "https://nanoqmedia.gl/apple-touch-icon.png",
+        "Homepage": "https://nanoqmedia.gl/da/radio/",
+        "Source1": "http://getnanoq.retro-radio.dk/Nanoq-TX-1"
+    },
+    {
+        "Title": "Original Laikos",
+        "Country": "Greenland",
+        "Homepage": "https://radiooriginallaikos.blogspot.com/",
+        "Source1": "https://play.streams.gr:22035/stream"
+    },
+    {
+        "Title": "test",
+        "Country": "Greenland",
+        "Homepage": "http://test/",
+        "Source1": "https://pub0302.101.ru:8000/stream/pro/aac/64/158?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6Ij"
+    },
+    {
+        "Title": "ΡΑΔΙΟ ΔΙΠΛΟΠΕΝΙΕΣ",
+        "Country": "Greenland",
+        "Favicon": "https://cdn.onlineradiobox.com/img/l/8/146808.v6.png",
+        "Homepage": "https://www.radiodiplopenies.gr/",
+        "Source1": "https://play.streams.gr/sc/radiodiplopenies/stream"
+    }
+]

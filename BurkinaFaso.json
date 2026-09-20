@@ -1,0 +1,81 @@
+[
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "BurkinaFaso",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "Horizon FM 104.4 Ouagadougou",
+        "Country": "BurkinaFaso",
+        "Tags": "african music",
+        "Favicon": "https://www.facebook.com/favicon.ico",
+        "Language": "fr",
+        "Homepage": "https://www.facebook.com/profile.php?id=100027654896551",
+        "Source1": "https://stream.zeno.fm/0945crn4bf9uv"
+    },
+    {
+        "Title": "Horizon FM Koudougou",
+        "Country": "BurkinaFaso",
+        "Tags": "african music",
+        "Favicon": "https://zeno.fm/favicon.ico",
+        "Language": "fr",
+        "Homepage": "https://zeno.fm/radio/horizonfmk/",
+        "Source1": "https://stream.zeno.fm/s2ypmeg0cf9uv"
+    },
+    {
+        "Title": "Radio Balafon 102.7 Bobo-Dioulasso",
+        "Country": "BurkinaFaso",
+        "Tags": "african music",
+        "Favicon": "https://www.facebook.com/favicon.ico",
+        "Language": "fr",
+        "Homepage": "https://www.facebook.com/profile.php?id=100064902343932",
+        "Source1": "https://stream.zeno.fm/v3ddfda0cf9uv"
+    },
+    {
+        "Title": "Radio Biwi Inter",
+        "Country": "BurkinaFaso",
+        "Favicon": "https://www.radiobizi.com/templates/radiowave/includes/images/ios/icon@2x.png",
+        "Language": "fr",
+        "Homepage": "https://www.radiobizi.com/",
+        "Latitude": 12.685894460144546,
+        "Longitude": -2.0214843750000004,
+        "Source1": "https://sonic.mediacp.eu/8040/;"
+    },
+    {
+        "Title": "Radio Bizi Inter",
+        "Country": "BurkinaFaso",
+        "Language": "fr",
+        "Homepage": "https://www.radiobizi.com/",
+        "Latitude": 11.654926370243752,
+        "Longitude": -1.845703125,
+        "Source1": "https://sonic.mediacp.eu/8040/;"
+    },
+    {
+        "Title": "Radio Legende",
+        "Country": "BurkinaFaso",
+        "Tags": "music",
+        "Favicon": "https://www.facebook.com/favicon.ico",
+        "Language": "fr",
+        "Homepage": "https://www.facebook.com/radiolegendeofficiel/",
+        "Source1": "https://stream.zeno.fm/p1e2466d6ehvv"
+    },
+    {
+        "Title": "Rqdio Biwi Inter",
+        "Country": "BurkinaFaso",
+        "Homepage": "https://www.radiobizi.com/",
+        "Latitude": 11.827029771365778,
+        "Longitude": -1.4941406250000002,
+        "Source1": "https://sonic.mediacp.eu/8040/;"
+    },
+    {
+        "Title": "Rqdio Bizi Inter",
+        "Country": "BurkinaFaso",
+        "Homepage": "https://www.radiobizi.com/",
+        "Latitude": 11.654926370243752,
+        "Longitude": -1.845703125,
+        "Source1": "https://sonic.mediacp.eu/8040/;"
+    }
+]

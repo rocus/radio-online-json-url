@@ -1,0 +1,136 @@
+[
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "Madagascar",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "ESDES Radio",
+        "Country": "Madagascar",
+        "Tags": "educational,hits,jazz",
+        "Favicon": "https://www.esdesmada.com/wp-content/uploads/2024/11/esdes-logo-80x80-1.png",
+        "Language": "fr",
+        "Homepage": "https://esdesmada.com/",
+        "Latitude": -19.846810534206593,
+        "Longitude": 46.66992187500001,
+        "Source1": "https://esdesradio.netpro.tv/listen/esdes_radio/radio.mp3"
+    },
+    {
+        "Title": "Hopefy Radio MG",
+        "Country": "Madagascar",
+        "Tags": "christian,gospel,religious",
+        "Favicon": "https://hopefy.fanantenanahoanao.org/static/uploads/album_art.1718582233.png",
+        "Language": "mg",
+        "Homepage": "https://radio.fanantenanahoanao.org/",
+        "Latitude": -18.9127823783159,
+        "Longitude": 47.553634643554695,
+        "Source1": "https://hopefy.fanantenanahoanao.org/listen/hopefy_radio_mg/radio.mp3"
+    },
+    {
+        "Title": "NetPro.TV Radio",
+        "Country": "Madagascar",
+        "Tags": "education,entertainment,hits,news,technology",
+        "Favicon": "https://app.netpro.tv/assets/apps/user_506/app_7327/draft/icon/app_icon.png",
+        "Homepage": "https://www.netpro.tv/",
+        "Latitude": -20.50678207718623,
+        "Longitude": 47.02148437500001,
+        "Source1": "https://radio.netpro.tv/listen/netpro_radio/radio.mp3"
+    },
+    {
+        "Title": "Paradisagasy",
+        "Country": "Madagascar",
+        "Favicon": "http://www.radioparadisagasy.com/img/favicon-96x96.png",
+        "Language": "mg",
+        "Homepage": "http://www.radioparadisagasy.com/",
+        "Source1": "http://www.radioparadisagasy.com/stream/radioparadisagasy.m3u"
+    },
+    {
+        "Title": "Radio des jeunes (RDJ)",
+        "Country": "Madagascar",
+        "Tags": "96.6,antananarivo,rdj",
+        "Favicon": "https://becakgalon.com/img/begal-fiveicon.png",
+        "Language": "mg",
+        "Homepage": "http://rdj.mg/",
+        "Source1": "http://rdj966.net:8000/rdj966.mp3"
+    },
+    {
+        "Title": "Radio Don Bosco",
+        "Country": "Madagascar",
+        "Tags": "catholic",
+        "Language": "en",
+        "Homepage": "https://rdb.mg/",
+        "Source1": "http://onair15.xdevel.com:9248/;"
+    },
+    {
+        "Title": "Radio Don Bosco Madagascar",
+        "Country": "Madagascar",
+        "Favicon": "https://onair.rdb.mg/logo.webp",
+        "Homepage": "https://rdb.mg/",
+        "Source1": "http://onair15.xdevel.com:9248/;stream.mp3"
+    },
+    {
+        "Title": "Radio Feon'ny Filazantsara",
+        "Country": "Madagascar",
+        "Tags": "christian-gospel,educational",
+        "Favicon": "https://flm-rff.org/logo.png",
+        "Homepage": "https://www.flm-rff.org/",
+        "Latitude": -19.864300648811327,
+        "Longitude": 47.03295886516572,
+        "Source1": "https://fpsnew1.listen2myradio.com:2199/listen.php?ip=82.145.63.6&port=8622&type=s1"
+    },
+    {
+        "Title": "Radio HIFI",
+        "Country": "Madagascar",
+        "Homepage": "https://hifi-madanet.org/",
+        "Source1": "https://listen.radioking.com/radio/52108/stream/89122"
+    },
+    {
+        "Title": "Radio Oasis",
+        "Country": "Madagascar",
+        "Tags": "christian,religious",
+        "Homepage": "https://www.fanantenanahoanao.org/",
+        "Source1": "https://hopefy.fanantenanahoanao.org/listen/radiooasistana/radio.mp3"
+    },
+    {
+        "Title": "Radio Rock Madagascar",
+        "Country": "Madagascar",
+        "Homepage": "https://www.once.mg/",
+        "Source1": "https://tanjona.radioca.st/stream"
+    },
+    {
+        "Title": "Radio Vazo Gasy",
+        "Country": "Madagascar",
+        "Homepage": "https://radiovazogasy.com/",
+        "Source1": "https://stream.radiovazogasy.com/stream?1.mp3"
+    },
+    {
+        "Title": "RDJ",
+        "Country": "Madagascar",
+        "Favicon": "https://becakgalon.com/img/begal-fiveicon.png",
+        "Homepage": "https://rdj.mg/",
+        "Source1": "http://rdj966.net:8000/rdj966.mp3"
+    },
+    {
+        "Title": "RNA Madagascar",
+        "Country": "Madagascar",
+        "Favicon": "http://www.rna-madagascar.com/favicon.ico",
+        "Homepage": "http://www.rna-madagascar.com/",
+        "Source1": "http://drs-live-rna.gasy-internet.info:9001/;"
+    },
+    {
+        "Title": "RNM",
+        "Country": "Madagascar",
+        "Favicon": "https://www.radiomadagasikara.com/wp-content/uploads/2026/02/cropped-cropped-cropped-download.jpeg",
+        "Homepage": "https://www.radiomadagasikara.com/",
+        "Source1": "https://direct.radiomadagasikara.com/listen/rnm/radio.mp3"
+    },
+    {
+        "Title": "Top Radio 102.8",
+        "Country": "Madagascar",
+        "Homepage": "https://www.facebook.com/topradio1028fm/",
+        "Source1": "https://listen.radioking.com/radio/309053/stream/356036"
+    }
+]

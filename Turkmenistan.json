@@ -1,0 +1,48 @@
+[
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "Turkmenistan",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "Alaşehir Damar FM",
+        "Country": "Turkmenistan",
+        "Favicon": "https://online-radio.eu/logo/144/144671.jpg",
+        "Homepage": "https://online-radio.eu/radio/144671-ala%C5%9Fehir-damar-fm",
+        "Source1": "http://178.32.4.127:8358/;"
+    },
+    {
+        "Title": "Hayatmix",
+        "Country": "Turkmenistan",
+        "Favicon": "https://www.hayatmix.com/png/hayatmix.png",
+        "Homepage": "https://www.hayatmix.com/remix/",
+        "Source1": "http://hayatmix.net/;yayin.mp3/;"
+    },
+    {
+        "Title": "The Holy Quran  by Sheikh Mahmoud Al-Husari",
+        "Country": "Turkmenistan",
+        "Tags": "islamic، classical",
+        "Language": "ar",
+        "Homepage": "https://qurango.net/radio/mahmoud_khalil_alhussary_warsh",
+        "Source1": "https://qurango.net/radio/mahmoud_khalil_alhussary_warsh"
+    },
+    {
+        "Title": "Tv24",
+        "Country": "Turkmenistan",
+        "Favicon": "https://turkmedya.com.tr/assets/img/favico.png",
+        "Language": "tr",
+        "Homepage": "https://turkmedya.com.tr/",
+        "Source1": "https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8"
+    },
+    {
+        "Title": "Uğur Öztürk",
+        "Country": "Turkmenistan",
+        "Tags": "greek folk music,türk halk müziği",
+        "Favicon": "https://www.turkuradyo.info/public/default/images/upload/1776181619061079.png",
+        "Homepage": "https://www.turkuradyo.info/",
+        "Source1": "https://eu8.fastcast4u.com/proxy/ugur4129?mp=/1"
+    }
+]

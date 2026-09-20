@@ -1,0 +1,1142 @@
+[
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "Slovenia",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "Ars",
+        "Country": "Slovenia",
+        "Tags": "classical,cultural,public radio,rtvslo",
+        "Favicon": "https://img.rtvslo.si/_static/novi/bootstrap/public/themes/raars/icons/apple-touch-icon.png",
+        "Language": "sl",
+        "Homepage": "http://ars.rtvslo.si/",
+        "Source1": "http://mp3.rtvslo.si/ars"
+    },
+    {
+        "Title": "bAm BaM RADIO - All shades of house",
+        "Country": "Slovenia",
+        "Tags": "club,club dance,club hits,club house,deep house,funky house,hits,house,party hits,tech house,vocal house",
+        "Favicon": "https://www.bambamradio.com/img/favicon.png",
+        "Homepage": "https://www.bambamradio.com/",
+        "Source1": "https://stream.laidbackvib.es:8888/320"
+    },
+    {
+        "Title": "Best FM Ljubljana",
+        "Country": "Slovenia",
+        "Homepage": "https://bestfm.svet24.si/live/radio.html",
+        "Source1": "https://live.radio.si/BestFM"
+    },
+    {
+        "Title": "BestFM",
+        "Country": "Slovenia",
+        "Tags": "balkan,slovenia",
+        "Favicon": "https://bestfm.si/icons/apple-touch-icon.png",
+        "Language": "sl",
+        "Homepage": "https://bestfm.si/",
+        "Source1": "https://live.radio.si/BestFM"
+    },
+    {
+        "Title": "Capital Radio SL",
+        "Country": "Slovenia",
+        "Favicon": "https://www.capitalradio.sl/wp/wp-content/uploads/2021/01/cropped-caplogo.gif",
+        "Homepage": "https://www.capitalradio.sl/",
+        "Source1": "http://live.capitalradio.sl/"
+    },
+    {
+        "Title": "ENTER.RADIO",
+        "Country": "Slovenia",
+        "Tags": "dance,electronic,house",
+        "Favicon": "https://www.datocms-assets.com/91953/1748623411-radio-enter-logo.svg",
+        "Language": "sl",
+        "Homepage": "https://enter.radio/",
+        "Latitude": 46.03365085916674,
+        "Longitude": 14.48281905584166,
+        "Source1": "https://stream.nextmedia.si/proxy/enter_1?mp=/enter"
+    },
+    {
+        "Title": "FRAJER RADIO",
+        "Country": "Slovenia",
+        "Favicon": "https://api.lemon-radio.com/public/logos/19410.png",
+        "Homepage": "https://radiofrajer.si/",
+        "Source1": "https://stream.nextmedia.si/proxy/frajer_1?mp=/frajer?uid=frjweb;"
+    },
+    {
+        "Title": "Gorenjska TV",
+        "Country": "Slovenia",
+        "Language": "sl",
+        "Homepage": "http://www.gtv.si/",
+        "Source1": "http://91.220.221.60/gtv_hls/gtv.m3u8"
+    },
+    {
+        "Title": "Hit Radio Center (Ljubljana - 102.4MHz)",
+        "Country": "Slovenia",
+        "Tags": "mix,pop,rock",
+        "Language": "sl",
+        "Homepage": "http://radiocenter.si/",
+        "Latitude": 46.05059924996085,
+        "Longitude": 14.504184722900392,
+        "Source1": "http://stream3.radiocenter.si:8000/;center/1"
+    },
+    {
+        "Title": "Hitradio Center",
+        "Country": "Slovenia",
+        "Favicon": "https://www.radiocenter.si/images/icons/icon_192x192.png",
+        "Homepage": "https://www.radiocenter.si/",
+        "Source1": "http://stream2.radiocenter.si:8058/stream"
+    },
+    {
+        "Title": "Hitradio Center",
+        "Country": "Slovenia",
+        "Tags": "public radio",
+        "Favicon": "http://radiocenter.si/images/icons/icon_192x192.png",
+        "Language": "en",
+        "Homepage": "http://radiocenter.si/",
+        "Source1": "http://stream3.radiocenter.si:8000/center"
+    },
+    {
+        "Title": "Hitradio center 80's",
+        "Country": "Slovenia",
+        "Tags": "public radio",
+        "Favicon": "http://radiocenter.si/images/icons/icon_192x192.png",
+        "Language": "en",
+        "Homepage": "http://radiocenter.si/",
+        "Source1": "http://stream3.radiocenter.si:8064/;stream/1"
+    },
+    {
+        "Title": "Hitradio center fresh pop",
+        "Country": "Slovenia",
+        "Tags": "public radio",
+        "Favicon": "http://radiocenter.si/images/icons/icon_192x192.png",
+        "Language": "en",
+        "Homepage": "http://radiocenter.si/",
+        "Source1": "http://stream3.radiocenter.si:8058/;stream/1"
+    },
+    {
+        "Title": "Hitradio center latin",
+        "Country": "Slovenia",
+        "Tags": "public radio",
+        "Favicon": "http://radiocenter.si/images/icons/icon_192x192.png",
+        "Language": "en,es",
+        "Homepage": "http://radiocenter.si/",
+        "Source1": "http://stream3.radiocenter.si:8200/;stream/1"
+    },
+    {
+        "Title": "Hitradio center love",
+        "Country": "Slovenia",
+        "Favicon": "http://radiocenter.si/images/icons/icon_192x192.png",
+        "Language": "en",
+        "Homepage": "http://radiocenter.si/",
+        "Source1": "http://stream3.radiocenter.si:8060/;stream/1"
+    },
+    {
+        "Title": "Hitradio center megamix",
+        "Country": "Slovenia",
+        "Tags": "public radio",
+        "Favicon": "http://radiocenter.si/images/icons/icon_192x192.png",
+        "Language": "en",
+        "Homepage": "http://radiocenter.si/",
+        "Source1": "http://stream3.radiocenter.si:8066/;stream/1"
+    },
+    {
+        "Title": "Hitradio center rock",
+        "Country": "Slovenia",
+        "Tags": "public radio",
+        "Favicon": "http://radiocenter.si/images/icons/icon_192x192.png",
+        "Language": "en,sl",
+        "Homepage": "http://radiocenter.si/",
+        "Source1": "http://stream.rockradio.si:9034/;stream/1"
+    },
+    {
+        "Title": "Hitradio center top 100",
+        "Country": "Slovenia",
+        "Favicon": "http://radiocenter.si/images/icons/icon_192x192.png",
+        "Language": "en",
+        "Homepage": "http://radiocenter.si/",
+        "Source1": "http://stream3.radiocenter.si:9020/;stream/1"
+    },
+    {
+        "Title": "Hitradio center yu",
+        "Country": "Slovenia",
+        "Tags": "public radio",
+        "Favicon": "http://radiocenter.si/images/icons/icon_192x192.png",
+        "Language": "hr,sl",
+        "Homepage": "http://radiocenter.si/",
+        "Source1": "http://stream3.radiocenter.si:8100/;stream/1"
+    },
+    {
+        "Title": "Koroški radio",
+        "Country": "Slovenia",
+        "Language": "sl",
+        "Homepage": "https://www.koroski-radio.si/",
+        "Latitude": 46.510489732847745,
+        "Longitude": 15.081301239284276,
+        "Source1": "https://live.radio.si/Koroski"
+    },
+    {
+        "Title": "MARŠ 95,9 MHz",
+        "Country": "Slovenia",
+        "Favicon": "http://radiomars.si/sites/default/files/logo_1.png",
+        "Homepage": "http://www.radiomars.si/",
+        "Source1": "http://frekvenca.eu:8000/radiomars.mp3.m3u"
+    },
+    {
+        "Title": "Muravidéki Magyar Rádió",
+        "Country": "Slovenia",
+        "Tags": "minority,public radio,rtvslo",
+        "Favicon": "http://img.rtvslo.si/_static/novi/bootstrap/public/themes/mmr/icons/apple-touch-icon.png",
+        "Language": "hu",
+        "Homepage": "http://www.rtvslo.si/mmr/",
+        "Source1": "http://mp3.rtvslo.si/mmr"
+    },
+    {
+        "Title": "Radi Frajer",
+        "Country": "Slovenia",
+        "Tags": "narodnozabavna glasba,oberkrainer",
+        "Favicon": "https://www.datocms-assets.com/162001/1751630822-frajer-logo.svg",
+        "Homepage": "https://radiofrajer.si/",
+        "Latitude": 46.03366257471062,
+        "Longitude": 14.482834339141847,
+        "Source1": "https://stream2.nextmedia.si/hls/frj/128k/frj-128.m3u8"
+    },
+    {
+        "Title": "Radio 1",
+        "Country": "Slovenia",
+        "Tags": "entertainment,music,news",
+        "Favicon": "https://media.radio1.si/ico/32.png",
+        "Language": "sl",
+        "Homepage": "https://www.radio1.si/",
+        "Source1": "http://live.radio.si/Radio1"
+    },
+    {
+        "Title": "Radio 1",
+        "Country": "Slovenia",
+        "Tags": "pop",
+        "Favicon": "https://media.radio1.si/ico/32.png",
+        "Language": "sl",
+        "Homepage": "https://radio1.si/",
+        "Latitude": 46.084772031353296,
+        "Longitude": 14.485806226730348,
+        "Source1": "https://live.radio1.si/Radio1"
+    },
+    {
+        "Title": "Radio 1",
+        "Country": "Slovenia",
+        "Tags": "commercial,hits,news,pop,slovenia,talk",
+        "Favicon": "https://media.radio1.si/ico/192.png",
+        "Language": "sl",
+        "Homepage": "https://radio1.svet24.si/",
+        "Latitude": 46.08460380025714,
+        "Longitude": 14.485453269913254,
+        "Source1": "https://live.radio.si/Radio1"
+    },
+    {
+        "Title": "Radio 1 - Maribor (107.9MHz)",
+        "Country": "Slovenia",
+        "Favicon": "https://www.radio1.si/favicon.ico",
+        "Language": "sl",
+        "Homepage": "https://www.radio1.si/",
+        "Latitude": 46.5583291389085,
+        "Longitude": 15.645861625671388,
+        "Source1": "https://live.radio1.si/Radio1"
+    },
+    {
+        "Title": "Radio 1 80-a",
+        "Country": "Slovenia",
+        "Favicon": "https://radio.svet24.si/favicon.ico",
+        "Language": "sl",
+        "Homepage": "https://radio.svet24.si/Radio80-v-zivo",
+        "Source1": "http://live.radio1.si/Radio80"
+    },
+    {
+        "Title": "Radio 1 Koroska",
+        "Country": "Slovenia",
+        "Tags": "commercial,hits,koroska,pop",
+        "Favicon": "https://media.radio1.si/ico/192.png",
+        "Homepage": "https://radio1.svet24.si/",
+        "Latitude": 46.08457403436264,
+        "Longitude": 14.485469324598116,
+        "Source1": "https://live.radio1.si/Radio1KOR"
+    },
+    {
+        "Title": "Radio 1 Rock",
+        "Country": "Slovenia",
+        "Tags": "rock",
+        "Favicon": "https://media.radio1.si/ico/rock/32.png",
+        "Language": "sl",
+        "Homepage": "https://radio1rock.si/",
+        "Latitude": 46.04883590239146,
+        "Longitude": 14.606323242187502,
+        "Source1": "https://live.radio.si/Radio1Rock?t=1776880155210"
+    },
+    {
+        "Title": "Radio 2",
+        "Country": "Slovenia",
+        "Favicon": "https://media.radio1.si/ico/80/32.png",
+        "Homepage": "https://www.radio2.si/",
+        "Source1": "http://live.radio2.si/Radio2?1448457274706.mo3",
+        "Source2": "http://live.radio2.si/Radio2?1448457274706.mp3"
+    },
+    {
+        "Title": "Radio 94",
+        "Country": "Slovenia",
+        "Language": "sl",
+        "Homepage": "https://www.radio94.si/",
+        "Source1": "http://77.38.12.198:8000/radio94"
+    },
+    {
+        "Title": "Radio Aktual",
+        "Country": "Slovenia",
+        "Tags": "dalmatia,ex-yu music,slovenian music",
+        "Favicon": "http://radioaktual.si/img/logo.png",
+        "Language": "sl",
+        "Homepage": "http://www.radioaktual.si/",
+        "Source1": "http://195.95.158.131:9080/"
+    },
+    {
+        "Title": "Radio Antena",
+        "Country": "Slovenia",
+        "Tags": "pop,top 40",
+        "Language": "sl",
+        "Homepage": "https://radioantena.si/",
+        "Source1": "http://live.radioantena.si/Antena"
+    },
+    {
+        "Title": "Radio Antena (105.2MHz)",
+        "Country": "Slovenia",
+        "Tags": "mix,pop,rock,song hits",
+        "Favicon": "https://media.radioantena.si/ico/32.png",
+        "Language": "sl",
+        "Homepage": "https://www.radioantena.si/",
+        "Latitude": 46.08466189789014,
+        "Longitude": 14.484400749206545,
+        "Source1": "https://live.radio.si/Antena"
+    },
+    {
+        "Title": "Radio ARS",
+        "Country": "Slovenia",
+        "Favicon": "https://img.rtvslo.si/_static/novi/bootstrap/public/themes/raars/icons/apple-touch-icon.png",
+        "Homepage": "https://ars.rtvslo.si/",
+        "Latitude": 46.05440176625423,
+        "Longitude": 14.5093136999097,
+        "Source1": "https://mp3.rtvslo.si/ars"
+    },
+    {
+        "Title": "Radio Bob",
+        "Country": "Slovenia",
+        "Tags": "rock",
+        "Language": "sl",
+        "Homepage": "https://radiobob.si/",
+        "Latitude": 46.05407793251436,
+        "Longitude": 14.50675964355469,
+        "Source1": "https://live.radio.si/BOB",
+        "Source2": "http://live6.infonetmedia.si/Europa05"
+    },
+    {
+        "Title": "Radio Capodistria",
+        "Country": "Slovenia",
+        "Tags": "adult contemporary,international,italian programming,local programming,public radio,rtvslo",
+        "Favicon": "http://cdn-radiotime-logos.tunein.com/s16010q.png",
+        "Language": "it",
+        "Homepage": "http://www.rtvslo.si/radiocapodistria/",
+        "Source1": "http://mp3.rtvslo.si/capo"
+    },
+    {
+        "Title": "Radio Capris 80",
+        "Country": "Slovenia",
+        "Favicon": "https://www.radiocapris.si/data/images/favicon/favicon-32x32.png",
+        "Language": "sl",
+        "Homepage": "https://www.radiocapris.si/",
+        "Latitude": 45.5478369923404,
+        "Longitude": 13.731043338775637,
+        "Source1": "http://stream02.exit.si:8000/80?"
+    },
+    {
+        "Title": "Radio Capris 90 DANCE",
+        "Country": "Slovenia",
+        "Favicon": "https://www.radiocapris.si/data/images/favicon/favicon-32x32.png",
+        "Language": "sl",
+        "Homepage": "https://www.radiocapris.si/",
+        "Latitude": 45.54741623202582,
+        "Longitude": 13.73097896575928,
+        "Source1": "http://stream02.exit.si:8000/MEGAMIX?"
+    },
+    {
+        "Title": "Radio Capris 90 POP",
+        "Country": "Slovenia",
+        "Favicon": "https://www.radiocapris.si/data/images/favicon/favicon-32x32.png",
+        "Language": "sl",
+        "Homepage": "https://www.radiocapris.si/",
+        "Latitude": 45.5478369923404,
+        "Longitude": 13.730828762054443,
+        "Source1": "http://stream02.exit.si:8000/90?"
+    },
+    {
+        "Title": "Radio Capris Dalmacija",
+        "Country": "Slovenia",
+        "Favicon": "https://www.radiocapris.si/data/images/favicon/favicon-32x32.png",
+        "Language": "sl",
+        "Homepage": "https://www.radiocapris.si/",
+        "Latitude": 45.54789710069964,
+        "Longitude": 13.730356693267822,
+        "Source1": "http://stream02.exit.si:8000/DALMACIJA?"
+    },
+    {
+        "Title": "Radio Capris EX - YU",
+        "Country": "Slovenia",
+        "Language": "sl",
+        "Homepage": "https://www.radiocapris.si/",
+        "Latitude": 45.54780693813665,
+        "Longitude": 13.730313777923584,
+        "Source1": "http://stream02.exit.si:8000/EXYU?"
+    },
+    {
+        "Title": "Radio Capris Hits",
+        "Country": "Slovenia",
+        "Language": "sl",
+        "Homepage": "https://www.radiocapris.si/",
+        "Source1": "http://stream02.exit.si:8000/HITS?"
+    },
+    {
+        "Title": "Radio Capris ITALIA",
+        "Country": "Slovenia",
+        "Language": "sl",
+        "Homepage": "https://www.radiocapris.si/",
+        "Source1": "http://stream02.exit.si:8000/ITA?"
+    },
+    {
+        "Title": "Radio Capris LOVE",
+        "Country": "Slovenia",
+        "Tags": "love songs",
+        "Language": "sl",
+        "Homepage": "https://www.radiocapris.si/",
+        "Source1": "http://stream02.exit.si:8000/LOVE?"
+    },
+    {
+        "Title": "Radio Capris Number 1's",
+        "Country": "Slovenia",
+        "Favicon": "https://www.radiocapris.si/data/images/logo-capris.svg",
+        "Homepage": "https://www.radiocapris.si/",
+        "Source1": "https://www.radiocapris.si/si/onair/no1",
+        "Source2": "http://stream02.exit.si:8000/NO1?"
+    },
+    {
+        "Title": "Radio Capris POLETJE",
+        "Country": "Slovenia",
+        "Language": "sl",
+        "Homepage": "https://www.radiocapris.si/",
+        "Source1": "http://stream02.exit.si:8000/POLETJE?"
+    },
+    {
+        "Title": "Radio Capris Rock",
+        "Country": "Slovenia",
+        "Tags": "rock",
+        "Language": "sl",
+        "Homepage": "https://www.radiocapris.si/",
+        "Latitude": 45.54723590521258,
+        "Longitude": 13.730807304382326,
+        "Source1": "http://stream02.exit.si:8000/ROCK?"
+    },
+    {
+        "Title": "Radio Capris SLO",
+        "Country": "Slovenia",
+        "Favicon": "https://www.radiocapris.si/data/images/favicon/favicon-32x32.png",
+        "Language": "sl",
+        "Homepage": "https://www.radiocapris.si/",
+        "Latitude": 45.547716775429045,
+        "Longitude": 13.730528354644775,
+        "Source1": "http://stream02.exit.si:8000/SLO?"
+    },
+    {
+        "Title": "Radio Celje",
+        "Country": "Slovenia",
+        "Language": "sl",
+        "Homepage": "https://www.radiocelje.si/",
+        "Source1": "http://online-radio.eu/export/winamp/110935-radio-celje"
+    },
+    {
+        "Title": "Radio Center 80s",
+        "Country": "Slovenia",
+        "Tags": "80s,classic hits,oldies",
+        "Language": "en,sl",
+        "Homepage": "https://radiocenter.si/",
+        "Source1": "http://stream2.radioekspres.si:8064/stream"
+    },
+    {
+        "Title": "Radio Center Gen X",
+        "Country": "Slovenia",
+        "Tags": "80s,rock",
+        "Favicon": "http://radiocenter.si/images/icons/icon_192x192.png",
+        "Language": "sl",
+        "Homepage": "https://www.radiocenter.si/",
+        "Latitude": 46.55013969936318,
+        "Longitude": 15.650711059570314,
+        "Source1": "https://stream2.nextmedia.si/hls/gex/live.m3u8"
+    },
+    {
+        "Title": "Radio City",
+        "Country": "Slovenia",
+        "Homepage": "https://www.radiocity.si/",
+        "Source1": "https://stream1.radiocity.si/CityMp3128.mp3"
+    },
+    {
+        "Title": "Radio City (Maribor) 100.6 FM",
+        "Country": "Slovenia",
+        "Tags": "adult hits,regional",
+        "Language": "sl",
+        "Homepage": "http://www.radiocity.si/",
+        "Source1": "http://82.149.22.34:8000/CityMp364mono.mp3"
+    },
+    {
+        "Title": "Radio City MB",
+        "Country": "Slovenia",
+        "Homepage": "http://www.radiocity.si/",
+        "Source1": "http://82.149.22.34:8000/CityMp3128.mp3"
+    },
+    {
+        "Title": "Radio Ekspres SI",
+        "Country": "Slovenia",
+        "Tags": "80s,90s",
+        "Homepage": "https://www.radioekspres.si/#",
+        "Source1": "http://145.14.14.93:8016/stream/1/"
+    },
+    {
+        "Title": "Radio ENTER",
+        "Country": "Slovenia",
+        "Tags": "disco,house,techno",
+        "Favicon": "https://enter.radio/images/icons/icon_192x192.png",
+        "Language": "en",
+        "Homepage": "https://enter.radio/",
+        "Source1": "https://stream.nextmedia.si/proxy/enter_1?mp=/enter"
+    },
+    {
+        "Title": "Radio Expres",
+        "Country": "Slovenia",
+        "Tags": "entertainment",
+        "Language": "sl",
+        "Homepage": "https://www.radioekspres.si/live/",
+        "Source1": "http://stream2.radioekspres.si:8016/stream?type=http&nocache=138"
+    },
+    {
+        "Title": "Radio Frajer",
+        "Country": "Slovenia",
+        "Tags": "folk,oberkrainer,polka",
+        "Favicon": "https://www.datocms-assets.com/162001/1751630822-frajer-logo.svg",
+        "Language": "sl",
+        "Homepage": "https://radiofrajer.si/",
+        "Latitude": 46.03363347962416,
+        "Longitude": 14.482808264701482,
+        "Source1": "https://stream2.nextmedia.si/hls/frj/live.m3u8"
+    },
+    {
+        "Title": "Radio Generacija",
+        "Country": "Slovenia",
+        "Tags": "dance,pop",
+        "Favicon": "https://radiogeneracija.net/wp-content/uploads/2026/08/Radio-Generacija-logo.png",
+        "Language": "sl",
+        "Homepage": "https://radiogeneracija.net/",
+        "Source1": "https://a9.asurahosting.com/listen/radio_generacija/radio.mp3"
+    },
+    {
+        "Title": "Radio Gorenc",
+        "Country": "Slovenia",
+        "Favicon": "http://cdn-radiotime-logos.tunein.com/s9953q.png",
+        "Language": "sl",
+        "Homepage": "https://www.radiogorenc.si/",
+        "Source1": "http://stream.radiogorenc.si:8000/radiogorenc.mp3"
+    },
+    {
+        "Title": "Radio Hit",
+        "Country": "Slovenia",
+        "Tags": "hits",
+        "Favicon": "https://media.radiohit.si/ico/hit/32.png",
+        "Language": "sl",
+        "Homepage": "https://radiohit.si/",
+        "Latitude": 46.03768185559552,
+        "Longitude": 14.499151935665513,
+        "Source1": "http://stream03.exit.si:8000/radiohit"
+    },
+    {
+        "Title": "Radio HIT Domzale",
+        "Country": "Slovenia",
+        "Tags": "hits,pop,top40",
+        "Favicon": "http://media.radiohit.si/ico/hit/32.png",
+        "Language": "en,sl",
+        "Homepage": "http://radiohit.si/",
+        "Latitude": 46.06995560577441,
+        "Longitude": 14.520535469055178,
+        "Source1": "http://stream03.exit.si:8000/radiohit"
+    },
+    {
+        "Title": "Radio Koper",
+        "Country": "Slovenia",
+        "Tags": "local programming,public radio,rtvslo",
+        "Favicon": "http://img.rtvslo.si/_static/r180/rakp/icons/favicon-194x194.png",
+        "Language": "sl",
+        "Homepage": "http://www.rtvslo.si/radiokoper",
+        "Source1": "http://mp3.rtvslo.si/rakp"
+    },
+    {
+        "Title": "Radio KRka",
+        "Country": "Slovenia",
+        "Tags": "balkan,mix,pop,rock",
+        "Favicon": "https://radiokrka.si/images/favicon.bmp",
+        "Language": "sl",
+        "Homepage": "https://radiokrka.si/",
+        "Latitude": 45.814383844698945,
+        "Longitude": 15.154566764831545,
+        "Source1": "https://live.radio.si/Krka"
+    },
+    {
+        "Title": "Radio Maribor",
+        "Country": "Slovenia",
+        "Tags": "general,local",
+        "Favicon": "https://img.rtvslo.si/_static/novi/bootstrap/public/themes/ramb/icons/favicon-32x32.png",
+        "Language": "sl",
+        "Homepage": "https://www.rtvslo.si/radio-maribor",
+        "Latitude": 46.546051895137865,
+        "Longitude": 15.613701939582826,
+        "Source1": "https://mp3.rtvslo.si/rmb"
+    },
+    {
+        "Title": "Radio MARŠ",
+        "Country": "Slovenia",
+        "Tags": "student radio",
+        "Language": "sl",
+        "Homepage": "http://radiomars.si/",
+        "Source1": "http://frekvenca.eu:8000/radiomars.mp3.m3u"
+    },
+    {
+        "Title": "Radio Maxi",
+        "Country": "Slovenia",
+        "Favicon": "https://media.radiomaxi.si/ico/32.png",
+        "Homepage": "https://www.radiomaxi.si/",
+        "Source1": "http://live2.infonetmedia.si:8000/Maxi"
+    },
+    {
+        "Title": "Radio Maxi",
+        "Country": "Slovenia",
+        "Favicon": "https://media.radiomaxi.si/ico/32.png",
+        "Homepage": "https://radiomaxi.si/",
+        "Source1": "https://live.radio.si/Maxi?t=1722577989752"
+    },
+    {
+        "Title": "Radio Meteor",
+        "Country": "Slovenia",
+        "Tags": "pop",
+        "Homepage": "http://www.radiometeor.si/",
+        "Source1": "http://eu1.fastcast4u.com:20052/stream"
+    },
+    {
+        "Title": "Radio METEOR .si",
+        "Country": "Slovenia",
+        "Tags": "pop,variety",
+        "Favicon": "https://www.radiometeor.si/logo.png",
+        "Language": "sl",
+        "Homepage": "https://www.radiometeor.si/",
+        "Source1": "https://stream.radiometeor.si/listen/meteor/live.mp3"
+    },
+    {
+        "Title": "Radio Mister Deejay",
+        "Country": "Slovenia",
+        "Tags": "clubbing,dance,dj mix,eurodance,house",
+        "Favicon": "https://mister-deejay.com/favicon.ico",
+        "Language": "sl",
+        "Homepage": "https://mister-deejay.com/",
+        "Source1": "http://stream.mister-deejay.com:9008/;"
+    },
+    {
+        "Title": "Radio MMR",
+        "Country": "Slovenia",
+        "Favicon": "https://img.rtvslo.si/_static/novi/channels/radio-mmr.png",
+        "Homepage": "https://mmr.rtvslo.si/",
+        "Source1": "https://mp3.rtvslo.si/mmr"
+    },
+    {
+        "Title": "RADIO NET FM",
+        "Country": "Slovenia",
+        "Favicon": "http://radionet.si/images/logo_footer.png",
+        "Homepage": "http://radionet.si/",
+        "Source1": "http://reflector.radionet.si:8000/stream.ogg"
+    },
+    {
+        "Title": "Radio Nula",
+        "Country": "Slovenia",
+        "Tags": "cafe,disco,funk,hiphop,jazz,soul",
+        "Favicon": "https://radionula.com/favicon.png",
+        "Homepage": "https://radionula.com/",
+        "Source1": "https://strm.radionula.com/classics"
+    },
+    {
+        "Title": "Radio NULA - Classics",
+        "Country": "Slovenia",
+        "Favicon": "https://radionula.com/favicon.png",
+        "Homepage": "https://radionula.com/",
+        "Source1": "https://strm.radionula.com/classics"
+    },
+    {
+        "Title": "radio nula 2",
+        "Country": "Slovenia",
+        "Homepage": "http://www.radionula.com/",
+        "Source1": "http://streaming.radionula.com:8800/channel2"
+    },
+    {
+        "Title": "Radio Nula Beatz",
+        "Country": "Slovenia",
+        "Favicon": "https://cdn-radiotime-logos.tunein.com/s111827g.png",
+        "Homepage": "https://radionula.com/",
+        "Source1": "https://strm.radionula.com/lounge"
+    },
+    {
+        "Title": "Radio Nula Classic",
+        "Country": "Slovenia",
+        "Favicon": "https://cdn-radiotime-logos.tunein.com/s111827g.png",
+        "Homepage": "https://radionula.com/",
+        "Source1": "https://strm.radionula.com/classics"
+    },
+    {
+        "Title": "Radio Nula Classics",
+        "Country": "Slovenia",
+        "Tags": "beat,funk,hiphop,jazz,soul",
+        "Favicon": "http://radionula.com/favicon.png",
+        "Homepage": "http://radionula.com/",
+        "Source1": "http://streaming.radionula.com:8800/classics"
+    },
+    {
+        "Title": "radio nula lounge",
+        "Country": "Slovenia",
+        "Homepage": "http://www.radionula.com/",
+        "Source1": "http://streaming.radionula.com:8800/lounge"
+    },
+    {
+        "Title": "Radio Nula Organic",
+        "Country": "Slovenia",
+        "Favicon": "https://cdn-radiotime-logos.tunein.com/s111827g.png",
+        "Homepage": "https://radionula.com/",
+        "Source1": "https://strm.radionula.com/channel2"
+    },
+    {
+        "Title": "Radio Ognjišče",
+        "Country": "Slovenia",
+        "Tags": "misc",
+        "Homepage": "https://radio.ognjisce.si/",
+        "Source1": "https://live.radio.si/ognjisce.mp3"
+    },
+    {
+        "Title": "Radio Ognjišče - mp3 stream",
+        "Country": "Slovenia",
+        "Tags": "katoliški,ognjišče,public radio,radio,slovenija",
+        "Language": "sl",
+        "Homepage": "http://radio.ognjisce.si/",
+        "Source1": "http://radio.ognjisce.si/ognjisce/iradio/ognjiscemp3.m3u"
+    },
+    {
+        "Title": "Radio Prlek",
+        "Country": "Slovenia",
+        "Favicon": "https://www.radioprlek.net/templates/jd_medical/images/presets/preset3/logo.png",
+        "Homepage": "https://www.radioprlek.net/",
+        "Source1": "http://86.61.68.81:8000/;stream.nsv&type=mp3"
+    },
+    {
+        "Title": "Radio Prvi",
+        "Country": "Slovenia",
+        "Tags": "news,public radio,rtvslo",
+        "Favicon": "https://img.rtvslo.si/_static/novi/bootstrap/public/themes/raprvi/icons/apple-touch-icon.png",
+        "Language": "sl",
+        "Homepage": "http://radioprvi.rtvslo.si/",
+        "Source1": "http://mp3.rtvslo.si/ra1"
+    },
+    {
+        "Title": "Radio Ptuj",
+        "Country": "Slovenia",
+        "Favicon": "https://radioptuj.svet24.si/images/RadioPtuj_logo.png",
+        "Homepage": "https://radioptuj.svet24.si/",
+        "Source1": "https://live.radio.si/Ptuj"
+    },
+    {
+        "Title": "Radio robin",
+        "Country": "Slovenia",
+        "Tags": "entertainment,local radio,mix,pop",
+        "Favicon": "https://www.robin.si/wp-content/uploads/2021/09/cropped-robin-favicon-270x270.png",
+        "Language": "sl",
+        "Homepage": "https://www.robin.si/",
+        "Latitude": 45.95455794007237,
+        "Longitude": 13.668209910392765,
+        "Source1": "https://live.radio.si/Robin"
+    },
+    {
+        "Title": "Radio Rogla",
+        "Country": "Slovenia",
+        "Tags": "pop,rock",
+        "Favicon": "https://www.radiorogla.si/wp-content/uploads/2021/01/cropped-logo_rogla.png",
+        "Language": "sl",
+        "Homepage": "https://www.radiorogla.si/",
+        "Latitude": 46.34141281830138,
+        "Longitude": 15.42395979166031,
+        "Source1": "http://193.105.67.24:8010/;?type=http&nocache=3804"
+    },
+    {
+        "Title": "Radio Roška",
+        "Country": "Slovenia",
+        "Tags": "ljubljana,slovenija",
+        "Language": "bs,hr,sl,sr",
+        "Homepage": "https://www.radioroska.online/",
+        "Source1": "http://stream.zeno.fm/q7300aptbwzuv"
+    },
+    {
+        "Title": "Radio S",
+        "Country": "Slovenia",
+        "Homepage": "https://www.radios.si/Onas",
+        "Source1": "http://live.radio.si/radios"
+    },
+    {
+        "Title": "Radio Salomon",
+        "Country": "Slovenia",
+        "Tags": "dance,hiphop,pop",
+        "Favicon": "http://www.radiosalomon.si/img/favicon.png",
+        "Language": "sl",
+        "Homepage": "http://www.radiosalomon.si/",
+        "Source1": "http://84.52.138.44/Salomon"
+    },
+    {
+        "Title": "Radio Si",
+        "Country": "Slovenia",
+        "Tags": "adult contemporary,international,public radio,rtvslo",
+        "Favicon": "http://img.rtvslo.si/_static/novi/bootstrap/public/themes/rasi/icons/apple-touch-icon.png",
+        "Homepage": "http://radiosi.eu/",
+        "Source1": "http://mp3.rtvslo.si/rsi"
+    },
+    {
+        "Title": "Radio Si - Radio Slovenija International",
+        "Country": "Slovenia",
+        "Tags": "local news,traffic,world music,world news",
+        "Favicon": "https://img.rtvslo.si/_static/novi/bootstrap/public/themes/rasi/icons/favicon-32x32.png",
+        "Language": "de,en",
+        "Homepage": "https://www.rtvslo.si/radio-si/",
+        "Source1": "http://mp3.rtvslo.si/rsi"
+    },
+    {
+        "Title": "Radio Sloven'c",
+        "Country": "Slovenia",
+        "Tags": "dance,folk,pop,talk",
+        "Favicon": "https://radioslovenc.si/images/slovenc.png",
+        "Language": "sl",
+        "Homepage": "https://radioslovenc.si/",
+        "Latitude": 46.00516727077994,
+        "Longitude": 15.307104356432776,
+        "Source1": "http://89.142.192.172/live"
+    },
+    {
+        "Title": "Radio Slovenija 1",
+        "Country": "Slovenia",
+        "Favicon": "https://img.rtvslo.si/_static/novi/bootstrap/public/themes/raprvi/icons/apple-touch-icon.png",
+        "Homepage": "https://prvi.rtvslo.si/",
+        "Latitude": 46.04885808856456,
+        "Longitude": 14.506727079253473,
+        "Source1": "https://mp3.rtvslo.si/prvi"
+    },
+    {
+        "Title": "Radio Sora",
+        "Country": "Slovenia",
+        "Tags": "pop",
+        "Language": "sl",
+        "Homepage": "http://www.radio-sora.si/",
+        "Source1": "http://radio-sora.si:8000/radio-sora.mp3"
+    },
+    {
+        "Title": "Radio Sraka",
+        "Country": "Slovenia",
+        "Tags": "folk,folklore",
+        "Favicon": "http://radiosraka.com/wp-content/themes/porto/images/logo/apple-touch-icon_120x120.png",
+        "Language": "sl",
+        "Homepage": "http://www.radiosraka.com/",
+        "Source1": "http://193.105.67.24:8006/"
+    },
+    {
+        "Title": "Radio Student",
+        "Country": "Slovenia",
+        "Tags": "university radio",
+        "Source1": "http://kruljo.radiostudent.si:8000/ehiq"
+    },
+    {
+        "Title": "Radio Student",
+        "Country": "Slovenia",
+        "Homepage": "https://radiostudent.si/",
+        "Source1": "https://kruljo.radiostudent.si:8001/hiq",
+        "Source2": "http://kruljo.radiostudent.si:8000/hiq"
+    },
+    {
+        "Title": "Radio Terminal",
+        "Country": "Slovenia",
+        "Tags": "alternative",
+        "Favicon": "https://radioterminal.si/favicon.ico",
+        "Language": "en,sl",
+        "Homepage": "https://radioterminal.si/",
+        "Source1": "https://air.radioterminal.si/live"
+    },
+    {
+        "Title": "Radio Tomi",
+        "Country": "Slovenia",
+        "Tags": "80s,classic hits,oldies",
+        "Language": "en,sl",
+        "Homepage": "https://www.radiotomi.si/",
+        "Source1": "http://93.103.130.12:8080/tomi.mp3"
+    },
+    {
+        "Title": "Radio Triglav",
+        "Country": "Slovenia",
+        "Language": "sl",
+        "Homepage": "http://www.radiotriglav.si/",
+        "Source1": "http://live.radiotriglav.si/Triglav"
+    },
+    {
+        "Title": "Radio Veseljak",
+        "Country": "Slovenia",
+        "Tags": "folk",
+        "Language": "sl",
+        "Homepage": "http://veseljak.si/",
+        "Source1": "http://195.95.158.131:9060/"
+    },
+    {
+        "Title": "Radio Veseljak-Pumpa",
+        "Country": "Slovenia",
+        "Homepage": "https://veseljak.si/oddaje/petkova-pumpa",
+        "Latitude": 48.69976759741503,
+        "Longitude": 19.687500000000004,
+        "Source1": "http://live.radio.si/VeseljakPumpa"
+    },
+    {
+        "Title": "Radio Zica",
+        "Country": "Slovenia",
+        "Tags": "alternative,ambiental,blues,classic rock,funk,psychedelic rock,rock",
+        "Language": "sl",
+        "Homepage": "http://radiozica.eu/",
+        "Source1": "http://live.1chi.si/zica"
+    },
+    {
+        "Title": "Radio Štajerski val",
+        "Country": "Slovenia",
+        "Tags": "local news,local radio,pop",
+        "Favicon": "https://www.stajerskival.si/assets/banners/0855810001603838423.png",
+        "Language": "sl",
+        "Homepage": "https://www.stajerskival.si/",
+        "Latitude": 46.21566624921268,
+        "Longitude": 15.395450592041016,
+        "Source1": "https://stream.stajerskival.si:8443/live"
+    },
+    {
+        "Title": "Radio Študent",
+        "Country": "Slovenia",
+        "Tags": "cultural,low bandwidth,public,student",
+        "Favicon": "https://radiostudent.si/sites/default/files/favicon_3.ico",
+        "Language": "sl",
+        "Homepage": "https://radiostudent.si/",
+        "Source1": "http://kruljo.radiostudent.si:8000/loq.m3u"
+    },
+    {
+        "Title": "Radio Študent",
+        "Country": "Slovenia",
+        "Tags": "cultural,public,student",
+        "Language": "sl",
+        "Homepage": "http://radiostudent.si/",
+        "Source1": "http://kruljo.radiostudent.si:8000/hiq.m3u"
+    },
+    {
+        "Title": "Radio1",
+        "Country": "Slovenia",
+        "Homepage": "https://live.radio1.si/",
+        "Source1": "https://live.radio1.si/Radio80"
+    },
+    {
+        "Title": "Retro Radio",
+        "Country": "Slovenia",
+        "Tags": "misc",
+        "Homepage": "https://www.retrodab.plus/",
+        "Source1": "https://zvok.ragla.si/gr?1670057106819"
+    },
+    {
+        "Title": "Retro Radio",
+        "Country": "Slovenia",
+        "Tags": "oldies",
+        "Favicon": "https://www.retro.sg/favicon.ico",
+        "Language": "sl",
+        "Homepage": "https://www.retro.sg/",
+        "Latitude": 45.88373420818209,
+        "Longitude": 14.438685178756716,
+        "Source1": "https://zvok.ragla.si/gr"
+    },
+    {
+        "Title": "Rock Maribor",
+        "Country": "Slovenia",
+        "Favicon": "https://media.radio1.si/ico/rock/32.png",
+        "Homepage": "https://rockmaribor.si/",
+        "Source1": "https://live.radio.si/RockMB?t=1732114443550"
+    },
+    {
+        "Title": "Rock Maribor",
+        "Country": "Slovenia",
+        "Tags": "rock",
+        "Favicon": "http://media.rockmaribor.si/ico/32.png",
+        "Language": "sl",
+        "Homepage": "http://rockmaribor.si/",
+        "Source1": "http://live.rockmaribor.si/RockMB"
+    },
+    {
+        "Title": "Rock Radio",
+        "Country": "Slovenia",
+        "Tags": "rock",
+        "Favicon": "https://www.rockradio.si/images/icons/icon_192x192.png",
+        "Language": "sl",
+        "Homepage": "https://www.rockradio.si/",
+        "Latitude": 46.033711989724935,
+        "Longitude": 14.482727050781252,
+        "Source1": "https://stream.nextmedia.si/proxy/rockr1_1?mp=/rock;"
+    },
+    {
+        "Title": "Rock Radio",
+        "Country": "Slovenia",
+        "Tags": "rock",
+        "Favicon": "http://www.rockradio.si/images/icons/icon_192x192.png",
+        "Language": "sl",
+        "Homepage": "http://www.rockradio.si/",
+        "Source1": "http://stream3.radiocenter.si:9032/;"
+    },
+    {
+        "Title": "Rock Radio Best Ballads SLO",
+        "Country": "Slovenia",
+        "Tags": "rock,rock ballads,soft rock",
+        "Favicon": "https://radijskepostaje.si/uploads/img/rock-radio.jpg",
+        "Language": "sl",
+        "Homepage": "https://www.rockradio.si/",
+        "Source1": "https://stream.nextmedia.si/proxy/rocks_1?mp=/stream"
+    },
+    {
+        "Title": "Rock radio classics",
+        "Country": "Slovenia",
+        "Homepage": "https://stream.nextmedia.si/proxy/rocks_3",
+        "Source1": "https://stream.nextmedia.si/proxy/rocks_3"
+    },
+    {
+        "Title": "Rock Radio Classics",
+        "Country": "Slovenia",
+        "Tags": "classic rock",
+        "Language": "sl",
+        "Homepage": "https://stream.nextmedia.si/proxy/rocks_3?mp=/rock?uid=rrweb",
+        "Source1": "https://stream.nextmedia.si/proxy/rocks_3?mp=/rock?uid=rrweb"
+    },
+    {
+        "Title": "Rock Radio Classics SLO",
+        "Country": "Slovenia",
+        "Tags": "classic hits,classic rock",
+        "Favicon": "https://radijskepostaje.si/uploads/img/rock-radio.jpg",
+        "Language": "sl",
+        "Homepage": "https://www.rockradio.si/",
+        "Source1": "https://stream.nextmedia.si/proxy/rocks_3?mp=/stream"
+    },
+    {
+        "Title": "ROCK RADIO Hard & Heavy",
+        "Country": "Slovenia",
+        "Favicon": "https://www.datocms-assets.com/49761/1624049293-icon.png?auto=format&h=192&w=192",
+        "Homepage": "https://www.rockradio.si/",
+        "Source1": "https://stream.nextmedia.si/proxy/rocks_2?mp=/stream"
+    },
+    {
+        "Title": "Rock Radio Hard & Heavy SLO",
+        "Country": "Slovenia",
+        "Tags": "hard rock,hard rock heavy metal,heavy metal,heavy rock",
+        "Favicon": "https://radijskepostaje.si/uploads/img/rock-radio.jpg",
+        "Language": "sl",
+        "Homepage": "https://www.rockradio.si/",
+        "Source1": "https://stream.nextmedia.si/proxy/rocks_2?mp=/stream"
+    },
+    {
+        "Title": "ROCK RADIO SI",
+        "Country": "Slovenia",
+        "Tags": "rock",
+        "Favicon": "http://www.rockradio.si/images/icons/icon_192x192.png",
+        "Language": "sl",
+        "Homepage": "http://www.rockradio.si/",
+        "Source1": "http://stream.rockradio.si:9034/;"
+    },
+    {
+        "Title": "Rock Radio SLO",
+        "Country": "Slovenia",
+        "Tags": "rock",
+        "Favicon": "https://radijskepostaje.si/uploads/img/rock-radio.jpg",
+        "Homepage": "https://www.rockradio.si/",
+        "Source1": "https://stream.nextmedia.si/proxy/rockr2_2?mp=/stream"
+    },
+    {
+        "Title": "Rock Radio Slovenia",
+        "Country": "Slovenia",
+        "Homepage": "https://www.rockradio.si/",
+        "Source1": "https://stream.nextmedia.si/proxy/rockr1_1?mp=/rock"
+    },
+    {
+        "Title": "Rádio Timea",
+        "Country": "Slovenia",
+        "Tags": "classic hits,folk music,hits,pop",
+        "Language": "en,sl",
+        "Homepage": "https://radiotimea.si/",
+        "Source1": "http://evcast.mediacp.eu:1480/stream"
+    },
+    {
+        "Title": "Toti Maxi",
+        "Country": "Slovenia",
+        "Favicon": "https://media.radiomaxi.si/maxi.svg?3",
+        "Homepage": "https://radiomaxi.si/",
+        "Source1": "https://live.radio.si/Maxi"
+    },
+    {
+        "Title": "Toti Radio",
+        "Country": "Slovenia",
+        "Favicon": "https://media.totiradio.si/ico/toti32.png?2",
+        "Homepage": "https://totiradio.si/",
+        "Source1": "https://live.radio.si/Toti?t=1722581297315",
+        "Source2": "https://live.radio.si/Toti"
+    },
+    {
+        "Title": "Univox",
+        "Country": "Slovenia",
+        "Favicon": "https://univox.si/wp-content/uploads/2021/01/cropped-univox-favicon-192x192.png",
+        "Homepage": "https://univox.si/",
+        "Source1": "https://solid33.streamupsolutions.com/proxy/vtmpasiq?mp=/stream"
+    },
+    {
+        "Title": "VAL 202",
+        "Country": "Slovenia",
+        "Favicon": "https://img.rtvslo.si/_static/novi/bootstrap/public/themes/raval202/icons/apple-touch-icon.png",
+        "Homepage": "https://val202.rtvslo.si/",
+        "Latitude": 46.0499678221549,
+        "Longitude": 14.50706950967697,
+        "Source1": "http://mp3.rtvslo.si:8000/val202"
+    },
+    {
+        "Title": "Val 202",
+        "Country": "Slovenia",
+        "Tags": "adult contemporary,national music,public radio,rtvslo",
+        "Favicon": "https://img.rtvslo.si/_static/novi/bootstrap/public/themes/raval202/icons/apple-touch-icon.png",
+        "Language": "sl",
+        "Homepage": "http://val202.rtvslo.si/",
+        "Source1": "http://mp3.rtvslo.si/val202"
+    },
+    {
+        "Title": "Val202",
+        "Country": "Slovenia",
+        "Homepage": "https://val202.rtvslo.si/",
+        "Latitude": 46.054421923390095,
+        "Longitude": 14.50847625732422,
+        "Source1": "http://mp3.rtvslo.si:8000/val202"
+    },
+    {
+        "Title": "Zeleni val",
+        "Country": "Slovenia",
+        "Tags": "slovenian music",
+        "Language": "sl",
+        "Homepage": "https://radio.zelenival.com/",
+        "Source1": "https://jurepeterka.radioca.st/stream"
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "Title": "EXA FM: Popmusik på engelska och spanska",
+        "Country": "AlandIslands",
+        "Tags": "moi merino,åland islands",
+        "Favicon": "https://cdn-profiles.tunein.com/s90984/images/logog.png",
+        "Language": "es",
+        "Homepage": "https://exafm.com/",
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac"
+    },
+    {
+        "Title": "Ålands Radio",
+        "Country": "AlandIslands",
+        "Favicon": "https://alandsradio.ax/sites/default/files/favicon_artv.ico",
+        "Language": "sv",
+        "Homepage": "https://alandsradio.ax/",
+        "Latitude": 60.10266975355154,
+        "Longitude": 19.937198420777847,
+        "Source1": "https://stream.alandsradio.ax/stream.ogg"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "Palau",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "UpBeat Radio",
+        "Country": "Palau",
+        "Favicon": "https://upbeatradio.net/v3/_images_/_favicon_/apple-icon-180x180.png",
+        "Homepage": "https://upbeatradio.net/v3/UpBeat.Home",
+        "Source1": "https://live.upbeat.pw/"
+    },
+    {
+        "Title": "UpBeat.pw",
+        "Country": "Palau",
+        "Favicon": "https://upbeatradio.net/v3/_images_/_favicon_/android-icon-192x192.png",
+        "Homepage": "https://upbeatradio.net/v3/UpBeat.Home",
+        "Source1": "https://live.upbeat.pw/"
+    }
+]

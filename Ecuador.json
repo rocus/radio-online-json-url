@@ -1,0 +1,1396 @@
+[
+    {
+        "Title": "Abba FM",
+        "Country": "Ecuador",
+        "Source1": "http://streamingecuador.net:7500/stream"
+    },
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "Ecuador",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "Alfa Radio",
+        "Country": "Ecuador",
+        "Tags": "dance,electronic",
+        "Favicon": "https://www.alfa.com.ec/wp-content/uploads/2021/11/alfa-degra.png",
+        "Language": "es",
+        "Homepage": "https://www.alfa.com.ec/",
+        "Latitude": -2.1414725885446217,
+        "Longitude": -79.91281270980836,
+        "Source1": "https://d2oubcpl50vyui.cloudfront.net/index.m3u8"
+    },
+    {
+        "Title": "Amazonas FM 92.1",
+        "Country": "Ecuador",
+        "Tags": "chicha,cumbia,music,popular,various",
+        "Favicon": "https://radioamazonas.ec/wp-content/uploads/2023/11/radio-amazonas-logo-1.png",
+        "Language": "es",
+        "Homepage": "https://radioamazonas.ec/",
+        "Source1": "https://dattavolt.com/8346/stream"
+    },
+    {
+        "Title": "Antena Uno 90.5",
+        "Country": "Ecuador",
+        "Tags": "classic rock,country rock,noticias,rock,rock & roll",
+        "Language": "es",
+        "Homepage": "http://www.antenauno.com/",
+        "Source1": "https://dattavolt.com/8202/stream"
+    },
+    {
+        "Title": "area deportiva",
+        "Country": "Ecuador",
+        "Tags": "deportes",
+        "Homepage": "https://areadeportiva.ec/",
+        "Source1": "https://cast.uncuartocomunicacion.com/listen/areadeportivafm/live"
+    },
+    {
+        "Title": "Area Deportiva 99.3 FM",
+        "Country": "Ecuador",
+        "Tags": "deportes,entretenimiento,noticias y deportes,radio hablada,sports",
+        "Favicon": "https://areadeportiva.ec/wp-content/uploads/2024/01/cropped-IMG_3205-1.png",
+        "Language": "es",
+        "Homepage": "https://areadeportiva.ec/",
+        "Source1": "https://radio.uncuartocomunicacion.com:8020/stream"
+    },
+    {
+        "Title": "Armonica FM",
+        "Country": "Ecuador",
+        "Homepage": "https://web.radioarmonica.com/",
+        "Source1": "https://armonicafm.makrodigital.com:9570/stream"
+    },
+    {
+        "Title": "Besame",
+        "Country": "Ecuador",
+        "Tags": "baladas 70 80 varios",
+        "Favicon": "https://radioobesame.blogspot.com/favicon.ico",
+        "Homepage": "https://radioobesame.blogspot.com/",
+        "Source1": "http://stream.zeno.fm/5xq756t2gchvv"
+    },
+    {
+        "Title": "Brisa Azul FM",
+        "Country": "Ecuador",
+        "Tags": "etc,música,variedad",
+        "Favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250111_124054028.jpg?alt=media&token=48c5e3b2-df62-4913-9cb4-41664f497810",
+        "Homepage": "https://radiobrisaazul.com/inicio/",
+        "Source1": "https://streaming01.radiosenlinea.com.ar/8196/stream"
+    },
+    {
+        "Title": "Café Radio 91.7 FM",
+        "Country": "Ecuador",
+        "Tags": "chicha,cumbia,entretenimiento,musica,música variada,reggaeton,variety",
+        "Favicon": "https://caferadio917.com.ec/wp-content/uploads/2020/10/logotipo-cafe-radio-917.svg",
+        "Language": "es",
+        "Homepage": "https://caferadio917.com.ec/",
+        "Source1": "https://usa3.lhdserver.es:8139/stream"
+    },
+    {
+        "Title": "Católica Cuenca 98.1 FM",
+        "Country": "Ecuador",
+        "Tags": "catolica,cristiana,cumbia,noticias,religious,retro,tropical,variety",
+        "Favicon": "https://i1.wp.com/radiocatolicacuenca.com.ec/wp/wp-content/uploads/2017/02/logo-GRANDE.jpg",
+        "Language": "es",
+        "Homepage": "https://radiocatolicacuenca.com.ec/wp/",
+        "Source1": "https://radiohdstreaming.com/radio/8230/catolica"
+    },
+    {
+        "Title": "Cañar Stereo 97.3 FM",
+        "Country": "Ecuador",
+        "Tags": "entretenimiento,hits,latino,música en español,música variada",
+        "Language": "es",
+        "Homepage": "https://www.canarstereo.com/",
+        "Source1": "https://ecuamedios.net:10937/stream"
+    },
+    {
+        "Title": "Clásica FM",
+        "Country": "Ecuador",
+        "Tags": "clasic rock,clasicos en ingles,classic hits",
+        "Language": "en",
+        "Homepage": "https://clasica.gvara.net/",
+        "Latitude": -1.4906515229506307,
+        "Longitude": -77.99886345863344,
+        "Source1": "https://radio.soft-dg.com/clasica_fm/index.m3u8"
+    },
+    {
+        "Title": "Color Stereo 105.3 FM",
+        "Country": "Ecuador",
+        "Tags": "chicha,chicha ecuatoriana,cumbia,cumbia ecuatoriana,entretenimiento,música ecuatoriana,tropical",
+        "Favicon": "https://www.colorstereo1053.com/web/images/encabezado1.png",
+        "Language": "es",
+        "Homepage": "https://www.colorstereo1053.com/web/",
+        "Source1": "https://cloudstream2032.conectarhosting.com/9470/;"
+    },
+    {
+        "Title": "Conecta 2 Radio",
+        "Country": "Ecuador",
+        "Tags": "dance,electronic,hits,music,pop",
+        "Favicon": "https://www.conecta2service.com/gallery_gen/aeb2309bdc6caff617c2acc2abc99d77_796x222.88.png",
+        "Language": "es",
+        "Homepage": "https://www.conecta2service.com/",
+        "Source1": "https://radio.conecta2service.com/8060/stream"
+    },
+    {
+        "Title": "Contigo Fm",
+        "Country": "Ecuador",
+        "Favicon": "https://contigofm.live/wp-content/uploads/fbrfg/apple-touch-icon.png",
+        "Homepage": "https://contigofm.live/",
+        "Source1": "https://panel.innovatestream.pe:10852/stream"
+    },
+    {
+        "Title": "Contigo FM 104.9",
+        "Country": "Ecuador",
+        "Tags": "2000s,80s,90s,adlut contemporary,classic hits,entretenimiento,retro",
+        "Favicon": "https://contigofm.live/wp-content/uploads/2023/09/cropped-Mesa-de-trabajo-2.png",
+        "Language": "es",
+        "Homepage": "https://contigofm.live/",
+        "Source1": "https://panel.innovatestream.pe:10852/;"
+    },
+    {
+        "Title": "Corp. Stereo 94.1",
+        "Country": "Ecuador",
+        "Tags": "classical",
+        "Homepage": "https://corpstereo.blogspot.com/",
+        "Source1": "http://stream.zeno.fm/rgbmruwhtuhvv"
+    },
+    {
+        "Title": "Cuenca TV",
+        "Country": "Ecuador",
+        "Tags": "classical",
+        "Source1": "http://stream.zeno.fm/63eny6sypuhvv"
+    },
+    {
+        "Title": "Cómplice FM 99.7 FM",
+        "Country": "Ecuador",
+        "Tags": "baladas en español,entretenimiento,information,musica romantica,radio hablada",
+        "Language": "es",
+        "Homepage": "https://complicefm.com/",
+        "Source1": "https://dattavolt.com/8422/stream"
+    },
+    {
+        "Title": "DIBLU FM 88.9",
+        "Country": "Ecuador",
+        "Tags": "deportes,entretenimiento,information,noticias,radio hablada",
+        "Favicon": "https://diblu.ec/wp-content/uploads/2023/03/logodibluradio-300x148.png",
+        "Language": "es",
+        "Homepage": "https://diblu.ec/",
+        "Source1": "https://streamingecuador.net:9002/stream"
+    },
+    {
+        "Title": "Ecua Stereo Bohemia",
+        "Country": "Ecuador",
+        "Homepage": "http://radioecuastereo.com/",
+        "Source1": "https://stream-069.zeno.fm/xlrqrx7wuwcvv"
+    },
+    {
+        "Title": "Expresiun FM 102.9",
+        "Country": "Ecuador",
+        "Tags": "cumbia,entretenimiento,latino,music,tropical",
+        "Favicon": "https://radioexpresionfm.com/wp-content/uploads/2023/06/logo-grande.jpeg",
+        "Language": "es",
+        "Homepage": "https://radioexpresionfm.com/",
+        "Source1": "https://usa3.lhdserver.es:8031/stream"
+    },
+    {
+        "Title": "Fabu 105.7 FM",
+        "Country": "Ecuador",
+        "Tags": "amor,baladas en español,musica romantica,música en español",
+        "Favicon": "https://www.fabu.com.ec/wp-content/uploads/2022/02/22220555/Sin-titulo-3.png",
+        "Language": "es",
+        "Homepage": "https://www.fabu.com.ec/",
+        "Source1": "https://alba-ec-fabu-fabuguayaquil.stream.mediatiquestream.com/chunks.m3u8"
+    },
+    {
+        "Title": "FB Radio 105.7 FM",
+        "Country": "Ecuador",
+        "Tags": "amor,baladas en español,musica romantica,música en español",
+        "Favicon": "https://fbradio.ec/wp-content/uploads/thegem-logos/logo_0335860a0b7f69ccdc4ff35cd20eb201_1x.png",
+        "Language": "es",
+        "Homepage": "https://fbradio.ec/",
+        "Source1": "https://streamingecuador.com:7032/stream"
+    },
+    {
+        "Title": "Flama Plus 104.5 FM",
+        "Country": "Ecuador",
+        "Tags": "entretenimiento,information,latino,música en español e inglés,radio comunitaria,reggaeton",
+        "Favicon": "https://flamaplus.com.ec/wp-content/uploads/2024/03/logoFlamaN.png",
+        "Language": "es",
+        "Homepage": "https://flamaplus.com.ec/",
+        "Source1": "https://streaming.viphosting.cl/8286/stream?ver=541539"
+    },
+    {
+        "Title": "FM MUNDO 98.1 FM",
+        "Country": "Ecuador",
+        "Favicon": "https://fmmundo.com/wp-content/uploads/2022/04/Logo-Fm-Mundo-radio-copy.png",
+        "Homepage": "https://fmmundo.com/",
+        "Source1": "https://streamingecuador.com:9810/stream"
+    },
+    {
+        "Title": "Forever Radio 92.5",
+        "Country": "Ecuador",
+        "Tags": "actualidas,noticias",
+        "Homepage": "https://www.radioforever925.com/",
+        "Latitude": -2.1612083093503776,
+        "Longitude": -79.88330841064455,
+        "Source1": "https://streamingecuador.net:8014/forever"
+    },
+    {
+        "Title": "Gualaceo Stereo 92.7",
+        "Country": "Ecuador",
+        "Favicon": "https://cuencatve.blogspot.com/favicon.ico",
+        "Homepage": "https://cuencatve.blogspot.com/",
+        "Source1": "https://stream.zeno.fm/s74szs5uquhvv"
+    },
+    {
+        "Title": "HCJB La Voz de los Andes 89.3 FM",
+        "Country": "Ecuador",
+        "Tags": "christian,christian music,cristiana,music,musica cristiana,news,noticias,radio cristiana",
+        "Language": "es",
+        "Homepage": "http://radiohcjb.org/",
+        "Source1": "https://streamingecuador.net:8287/hcjb.m3u"
+    },
+    {
+        "Title": "hot 106",
+        "Country": "Ecuador",
+        "Homepage": "https://hot106fuego.com/",
+        "Source1": "https://vmi2217864.contaboserver.net:8000/live"
+    },
+    {
+        "Title": "http://streamingecuador.com:7048/stream",
+        "Country": "Ecuador",
+        "Homepage": "https://makrodigitaltelevision.com/",
+        "Source1": "http://streamingecuador.com:7048/stream"
+    },
+    {
+        "Title": "JC La Bruja",
+        "Country": "Ecuador",
+        "Tags": "música pop",
+        "Language": "en,es",
+        "Homepage": "http://www.jcradio.com.ec/",
+        "Latitude": -0.1941888786962397,
+        "Longitude": -78.4867572784424,
+        "Source1": "http://s7.yesstreaming.net:8040/stream?1655753305283"
+    },
+    {
+        "Title": "Jumbo Deep Radio",
+        "Country": "Ecuador",
+        "Tags": "deep,deep house",
+        "Language": "en,es",
+        "Homepage": "http://www.jumboradio.epizy.com/",
+        "Latitude": -0.1878374430482115,
+        "Longitude": -78.47233772277833,
+        "Source1": "http://stream.zeno.fm/juhqepbmmxqvv"
+    },
+    {
+        "Title": "La 961 - Suprema estacion",
+        "Country": "Ecuador",
+        "Tags": "bachata,cumbia,merengue,regaeton",
+        "Favicon": "https://www.la961.com/images2/logo961.png",
+        "Homepage": "https://www.la961.com/",
+        "Latitude": -2.9063705538689497,
+        "Longitude": -79.0164962410927,
+        "Source1": "https://dattavolt.com/8150/stream"
+    },
+    {
+        "Title": "la chismosa",
+        "Country": "Ecuador",
+        "Tags": "80's,reguetón,rock",
+        "Favicon": "https://lachismosafm.ec/wp-content/uploads/elementor/thumbs/LOGO-LA-CHISMOSA-qis9zqmwpdkd3vsuxzl4s8l65m4b877e574iskpse8.png",
+        "Language": "es",
+        "Homepage": "https://lachismosafm.ec/",
+        "Latitude": -2.793814361043002,
+        "Longitude": -78.84887695312501,
+        "Source1": "https://sp.dattavolt.com/8052/stream"
+    },
+    {
+        "Title": "La Coquetisima Online",
+        "Country": "Ecuador",
+        "Tags": "latina,música en español",
+        "Favicon": "https://www.wix.com/favicon.ico",
+        "Language": "es",
+        "Homepage": "https://lacoquetisimaonlin.wixsite.com/my-site",
+        "Latitude": 0.22912679185597204,
+        "Longitude": -78.05666509214664,
+        "Source1": "http://stream.zeno.fm/529kmm15gv8uv"
+    },
+    {
+        "Title": "La Dinastia FM",
+        "Country": "Ecuador",
+        "Tags": "baladas clásicos tecno 70 80 varios",
+        "Favicon": "https://ladinastiaentertainment.blogspot.com/favicon.ico",
+        "Homepage": "https://ladinastiaentertainment.blogspot.com/",
+        "Source1": "http://stream.zeno.fm/204egk2n5ehvv"
+    },
+    {
+        "Title": "La M3G4",
+        "Country": "Ecuador",
+        "Tags": "lam3g4 lamegaecuador",
+        "Language": "es",
+        "Homepage": "https://lam3g4.com/",
+        "Source1": "http://gradio.net:8000/lam3g4"
+    },
+    {
+        "Title": "La Main Street (Radios Ecuador Online)",
+        "Country": "Ecuador",
+        "Tags": "chicha ecuatoriana,cumbia ecuatoriana,ecuador quito,pasillos,radios ecuador online",
+        "Language": "es",
+        "Homepage": "https://www.ecuatorianita.com/",
+        "Source1": "https://radiolatina.info/9930/stream"
+    },
+    {
+        "Title": "La Matro",
+        "Country": "Ecuador",
+        "Tags": "rock",
+        "Favicon": "https://alba-ec-lametro.cdn.mediatiquepress.com/wp-content/uploads/2022/10/la-metro-logo-2022-1.jpg",
+        "Language": "es",
+        "Homepage": "https://www.lametro.com.ec/",
+        "Source1": "https://due8atvq1x46v.cloudfront.net/ts:abr.m3u8"
+    },
+    {
+        "Title": "La Metro",
+        "Country": "Ecuador",
+        "Tags": "rock",
+        "Favicon": "https://alba-ec-lametro.cdn.mediatiquepress.com/wp-content/uploads/2022/10/la-metro-logo-2022-1.jpg",
+        "Homepage": "https://www.lametro.com.ec/",
+        "Source1": "https://due8atvq1x46v.cloudfront.net/ts:abr.m3u8"
+    },
+    {
+        "Title": "La Nueva Unica",
+        "Country": "Ecuador",
+        "Favicon": "https://radiounica945.com/wp-content/uploads/2024/03/LogoLaUnica2024.png",
+        "Homepage": "https://radiounica945.com/",
+        "Latitude": -0.3927581544837045,
+        "Longitude": -79.45312500000001,
+        "Source1": "https://streamingecuador.net:8035/stream"
+    },
+    {
+        "Title": "La Radio Redonda 96.9 Quito",
+        "Country": "Ecuador",
+        "Tags": "deportes",
+        "Language": "es",
+        "Homepage": "https://laradioredonda.ec/",
+        "Latitude": -0.22604312317387623,
+        "Longitude": -78.51036071777345,
+        "Source1": "https://laredondafm.makrodigital.com/stream/radiolaredondaquito"
+    },
+    {
+        "Title": "La Radio Redonda Guayaquil",
+        "Country": "Ecuador",
+        "Homepage": "https://laradioredonda.ec/",
+        "Source1": "https://laredondafm.makrodigital.com:9550/stream"
+    },
+    {
+        "Title": "La Radio Redonda Quito - 96.9 FM",
+        "Country": "Ecuador",
+        "Favicon": "https://laradioredonda.ec/favicon.ico",
+        "Homepage": "https://laradioredonda.ec/",
+        "Source1": "http://laredondafm.makrodigital.com:9560/stream"
+    },
+    {
+        "Title": "La tukka Ec",
+        "Country": "Ecuador",
+        "Tags": "bachata,chicha,cumbia ecuatoriana,musica ecuatoriana,pasillos,rockolero,sanjuanitos,vallenato",
+        "Language": "es",
+        "Homepage": "http://latukka.com/",
+        "Source1": "http://grupomundodigital.com:8673/live"
+    },
+    {
+        "Title": "La Voz de los Caras 95.3 FM",
+        "Country": "Ecuador",
+        "Tags": "music,musica,news,noticias",
+        "Favicon": "https://cdn-radiotime-logos.tunein.com/s157447q.png",
+        "Language": "es",
+        "Homepage": "http://lvcradio.com/",
+        "Source1": "http://streaming.hdserver.biz:9368/listen.pls"
+    },
+    {
+        "Title": "la voz del Tomebamba",
+        "Country": "Ecuador",
+        "Tags": "70s disco,musica,musica romantica,noticias",
+        "Favicon": "https://www.lavozdeltomebamba.com/wp-content/uploads/2022/07/LogoTomebamba-230-2.png",
+        "Language": "es",
+        "Homepage": "https://www.lavozdeltomebamba.com/",
+        "Latitude": -2.9221942904558817,
+        "Longitude": -78.93676757812501,
+        "Source1": "https://streamingecuador.com:8074/lavozdeltomebamba"
+    },
+    {
+        "Title": "La Voz del Tomebamba 1070 AM",
+        "Country": "Ecuador",
+        "Tags": "latin music,música ecuatoriana,música en español,música latinoamericana,noticias,noticias locales",
+        "Language": "es",
+        "Homepage": "https://www.lavozdeltomebamba.com/",
+        "Latitude": -2.889798373839243,
+        "Longitude": -79.00358676910402,
+        "Source1": "https://streamingecuador.net:8074/lavozdeltomebamba"
+    },
+    {
+        "Title": "La99Radio",
+        "Country": "Ecuador",
+        "Favicon": "https://www.la99radio.com/wp-content/uploads/2023/02/La99Radio180x180.png",
+        "Homepage": "https://www.la99radio.com/",
+        "Source1": "https://cast10.plugstreaming.com/stream/la99fm"
+    },
+    {
+        "Title": "Los 40 Ecuador",
+        "Country": "Ecuador",
+        "Tags": "música pop",
+        "Homepage": "https://www.los40.com.ec/",
+        "Latitude": -0.22927327360954372,
+        "Longitude": -78.51864337921144,
+        "Source1": "https://streamingecuador.com:7051/stream.m3u"
+    },
+    {
+        "Title": "LV Radio Satelital FM",
+        "Country": "Ecuador",
+        "Tags": "70 80 baladas varios",
+        "Favicon": "https://i.ytimg.com/vi/s4rgiw1yd84/hqdefault.jpg",
+        "Language": "es",
+        "Homepage": "https://wwwradiocadenastereo.blogspot.com/",
+        "Source1": "http://stream.zeno.fm/ech627b6u18uv"
+    },
+    {
+        "Title": "machdeportes",
+        "Country": "Ecuador",
+        "Favicon": "http://machdeportes.com.ec/wp-content/uploads/2014/07/logoMachDeportesini1.png",
+        "Language": "es",
+        "Homepage": "https://machdeportes.com.ec/",
+        "Latitude": -1.1249320105321443,
+        "Longitude": -78.75000000000001,
+        "Source1": "https://ss.ecuastreamhd.com:8186/stream"
+    },
+    {
+        "Title": "MANIATICARADIO",
+        "Country": "Ecuador",
+        "Tags": "electronic,house,music,podcast,techno,traditional,trance",
+        "Favicon": "https://maniaticaradio.com/logo.png",
+        "Language": "es",
+        "Homepage": "https://maniaticaradio.com/",
+        "Latitude": -0.2140807687703583,
+        "Longitude": -78.48684310913087,
+        "Source1": "https://a7.asurahosting.com/listen/maniaticaradio/radio.mp3"
+    },
+    {
+        "Title": "Mega St☆r",
+        "Country": "Ecuador",
+        "Tags": "baladas rock alternativa varios",
+        "Favicon": "https://i.ytimg.com/vi/s4rgiw1yd84/hqdefault.jpg",
+        "Language": "es",
+        "Homepage": "https://wwwradiocadenastereo.blogspot.com/",
+        "Source1": "http://stream.zeno.fm/4xcrps37zs8uv"
+    },
+    {
+        "Title": "Mega St☆r Ecuador",
+        "Country": "Ecuador",
+        "Tags": "bachata 70 & 80 varios",
+        "Favicon": "https://i.ytimg.com/vi/s4rgiw1yd84/hqdefault.jpg",
+        "Language": "es",
+        "Homepage": "https://wwwradiocadenastereo.blogspot.com/",
+        "Source1": "http://stream.zeno.fm/kc5hfz4aqs8uv"
+    },
+    {
+        "Title": "MelodiaFM",
+        "Country": "Ecuador",
+        "Tags": "pop,pop rock,rock",
+        "Favicon": "https://melodiafm905.com/wp-content/uploads/2026/04/icono-melodia-FM.png",
+        "Language": "en,es",
+        "Homepage": "https://melodiafm905.com/",
+        "Latitude": -1.2415188446456795,
+        "Longitude": -78.62194061279298,
+        "Source1": "https://rr5100.globalhost1.com/8260/stream"
+    },
+    {
+        "Title": "Metro Stereo",
+        "Country": "Ecuador",
+        "Tags": "pop,rock,urban",
+        "Favicon": "https://alba-ec-lametro.cdn.mediatiquepress.com/wp-content/uploads/2022/10/la-metro-logo-2022-1.jpg",
+        "Language": "en,es",
+        "Homepage": "https://www.lametro.com.ec/",
+        "Latitude": -2.157265581316765,
+        "Longitude": -79.88854408264162,
+        "Source1": "https://due8atvq1x46v.cloudfront.net/medialist_14854753276708185244_hls.m3u8"
+    },
+    {
+        "Title": "Modelo 97.7 FM",
+        "Country": "Ecuador",
+        "Tags": "hits,merengue,news,talk",
+        "Language": "es",
+        "Homepage": "https://modelofm.com/",
+        "Latitude": -0.9497869757840856,
+        "Longitude": -80.72775632143022,
+        "Source1": "https://usa3.lhdserver.es:8197/stream"
+    },
+    {
+        "Title": "Música para ver llover",
+        "Country": "Ecuador",
+        "Tags": "baladas,baladas en español,musica latina,musica romantica",
+        "Favicon": "https://radio.lien.tv/favicon.ico",
+        "Homepage": "https://www.lien.tv/",
+        "Latitude": -0.2792138358262728,
+        "Longitude": -78.52863805464588,
+        "Source1": "https://stream.zeno.fm/8ekvqc5urfhvv"
+    },
+    {
+        "Title": "No es merengue es una merengazo",
+        "Country": "Ecuador",
+        "Tags": "baile,latino,merengue,tecnomerengue",
+        "Favicon": "https://radio.lien.tv/favicon.ico",
+        "Homepage": "https://www.lien.tv/",
+        "Latitude": -0.2272785641245884,
+        "Longitude": -78.43333560267638,
+        "Source1": "https://stream.zeno.fm/twem5wa0k0hvv"
+    },
+    {
+        "Title": "Pa ti Pati cumbia",
+        "Country": "Ecuador",
+        "Tags": "cumbia,cumbia argentina,cumbia colombiana,cumbia ecuatoriana,cumbia mexicana,cumbia pegadita,cumbia peruana",
+        "Favicon": "https://radio.lien.tv/favicon.ico",
+        "Homepage": "https://www.lien.tv/",
+        "Latitude": -0.3161681416410852,
+        "Longitude": -78.40007309223127,
+        "Source1": "https://stream.zeno.fm/7cm28ptuhxhvv"
+    },
+    {
+        "Title": "Play FM 95.3",
+        "Country": "Ecuador",
+        "Tags": "deportes,entretenimiento,information,music,noticias,radio hablada",
+        "Favicon": "https://www.sucrefm.com/images/logo.png",
+        "Language": "es",
+        "Homepage": "https://sucrefm.com/",
+        "Source1": "https://streamingecuador.net:8008/radioplayfm"
+    },
+    {
+        "Title": "Play Radio Online",
+        "Country": "Ecuador",
+        "Homepage": "https://playradionline.netlify.app/",
+        "Latitude": -0.2882182363605261,
+        "Longitude": -78.49182128906251,
+        "Source1": "https://stream.zeno.fm/thjs0ijturotv"
+    },
+    {
+        "Title": "PM RADIO Quevedo",
+        "Country": "Ecuador",
+        "Tags": "decades",
+        "Homepage": "https://www.pmradioquevedo.com/",
+        "Source1": "https://as100.globalhost1.com/8010/stream"
+    },
+    {
+        "Title": "Pon salsa y todo norte",
+        "Country": "Ecuador",
+        "Homepage": "https://radio.lien.tv/",
+        "Latitude": -0.4260285987778071,
+        "Longitude": -78.55010129674322,
+        "Source1": "https://stream.zeno.fm/eft72w1vrnhvv"
+    },
+    {
+        "Title": "R.S.N. La Indestructible",
+        "Country": "Ecuador",
+        "Tags": "entretenimiento,noticias,variedad",
+        "Favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240625_154821820.jpg?alt=media&token=e1c802e1-e899-4457-860b-adf5ed912ca7",
+        "Homepage": "https://www.radiorsn.com/?m=1",
+        "Source1": "https://stream.zeno.fm/wahxwkbdaoduv"
+    },
+    {
+        "Title": "Radio 11Q 104.9 FM",
+        "Country": "Ecuador",
+        "Tags": "80s,90s,music,musica,pop,rock,world music",
+        "Favicon": "https://radio11q.com/wp-content/uploads/2017/10/apple-touch-icon.png",
+        "Language": "es",
+        "Homepage": "https://radio11q.com/",
+        "Source1": "https://streamingecuador.net:8012/radio11q.m3u"
+    },
+    {
+        "Title": "Radio 27 Electro",
+        "Country": "Ecuador",
+        "Favicon": "https://static.mytuner.mobi/media/tvos_radios/390/radio-27-network.e1f7881f.png",
+        "Homepage": "https://radio.franklinsandoval.com/",
+        "Source1": "https://cast1.prosandoval.com/listen/radio_27_network/radio.mp3"
+    },
+    {
+        "Title": "Radio Activa",
+        "Country": "Ecuador",
+        "Tags": "entretenimiento,musica,variedades",
+        "Favicon": "null",
+        "Homepage": "https://www.radioactiva.ec/",
+        "Source1": "https://dattavolt.com/8394/stream"
+    },
+    {
+        "Title": "Radio Alegria",
+        "Country": "Ecuador",
+        "Tags": "bachata,merengue,reggaeton,salsa",
+        "Favicon": "https://radioalegriafm.com/logo-android-alegria.png",
+        "Language": "en,es",
+        "Homepage": "https://radioalegriafm.com/index.html",
+        "Latitude": -1.2423794638793626,
+        "Longitude": -78.62704217433931,
+        "Source1": "https://rr5100.globalhost1.com:8156/stream"
+    },
+    {
+        "Title": "Radio Alegriafm",
+        "Country": "Ecuador",
+        "Favicon": "https://i0.wp.com/radioalegriafm.com/wp-content/uploads/2020/10/logoalegria-1.png?fit=32%2C20&ssl=1",
+        "Language": "es",
+        "Homepage": "https://radioalegriafm.com/",
+        "Source1": "https://cloudstream2032.conectarhosting.com/9376/;"
+    },
+    {
+        "Title": "Radio Amiga",
+        "Country": "Ecuador",
+        "Favicon": "https://www.eldiario.ec/radioamiga/wp-content/uploads/sites/3/2021/02/radio-amiga-cabecera.png",
+        "Homepage": "https://www.eldiario.ec/radioamiga/",
+        "Source1": "http://190.57.161.179:8000/stream"
+    },
+    {
+        "Title": "Radio América 104.5 FM",
+        "Country": "Ecuador",
+        "Tags": "104.5,américa,ecuador,quito,radio",
+        "Homepage": "https://americaestereo.com/radio-america-quito.html",
+        "Source1": "https://streamingecuador.com:7030/stream?1657848016283"
+    },
+    {
+        "Title": "Radio Andina",
+        "Country": "Ecuador",
+        "Tags": "musica latinoamericana,popular culture,regional music",
+        "Homepage": "https://radioandinariobamba.com/",
+        "Latitude": -1.6843276922289687,
+        "Longitude": -78.6584762390703,
+        "Source1": "https://grupomundodigital.com:8580/stream"
+    },
+    {
+        "Title": "Radio Antena 3 91.7 FM",
+        "Country": "Ecuador",
+        "Tags": "commercial,latin,music,musica,musica latina,news,noticias,reggaeton,salsa",
+        "Language": "es",
+        "Homepage": "https://www.radioantena3.com/",
+        "Source1": "https://streamingecuador.net:9368/radioantena3.m3u"
+    },
+    {
+        "Title": "RADIO ANTENA SUR 89.5FM (LA SEñAL DE ORO DESDE PONCE ENRIQUEZ(",
+        "Country": "Ecuador",
+        "Tags": "cumbia,folclor,musica andina,popular",
+        "Favicon": "https://radioantenasur.com.ec/images/logo_antenasur2016yes1.png",
+        "Language": "es",
+        "Homepage": "https://radioantenasur.com.ec/",
+        "Source1": "https://grupomundodigital.com:8504/antenashd"
+    },
+    {
+        "Title": "Radio Armonía 100.1 FM",
+        "Country": "Ecuador",
+        "Tags": "cumbia,entretenimiento,radio comunitaria,tropical",
+        "Language": "es",
+        "Homepage": "https://armoniasuperfm.com/",
+        "Source1": "https://radiohdstreaming.com/radio/8040/armonia"
+    },
+    {
+        "Title": "Radio Atenas",
+        "Country": "Ecuador",
+        "Homepage": "https://radioatenasfm.com/",
+        "Source1": "http://stream.zeno.fm/63feuw9ezs8uv"
+    },
+    {
+        "Title": "Radio Aventura 107.1 FM",
+        "Country": "Ecuador",
+        "Tags": "music,musica,news,noticias",
+        "Favicon": "https://cdn-profiles.tunein.com/s142387/images/logoq.png?t=155248",
+        "Language": "es",
+        "Homepage": "https://twitter.com/radioaventurafm",
+        "Source1": "http://streaming.hdserver.biz:9424/listen.pls"
+    },
+    {
+        "Title": "Radio Cadena Stereo 107.1",
+        "Country": "Ecuador",
+        "Tags": "decades",
+        "Source1": "http://stream.zeno.fm/10g8v80ta2zuv"
+    },
+    {
+        "Title": "Radio Cadena Stereo Country",
+        "Country": "Ecuador",
+        "Tags": "classical",
+        "Favicon": "https://i.ytimg.com/vi/s4rgiw1yd84/hqdefault.jpg",
+        "Homepage": "https://wwwradiocadenastereo.blogspot.com/",
+        "Source1": "http://stream.zeno.fm/wyr2sxuito5vv"
+    },
+    {
+        "Title": "Radio Canela 106.5 FM",
+        "Country": "Ecuador",
+        "Tags": "chicha,cumbia,entretenimiento,musica,tropical",
+        "Language": "es",
+        "Homepage": "https://web.canelaradio.com/",
+        "Source1": "https://canelaradio.makrodigital.com/stream/canelaradiotungurahua"
+    },
+    {
+        "Title": "Radio Canela Azuay 107.3 FM",
+        "Country": "Ecuador",
+        "Tags": "chicha,cumbia ecuatoriana,entretenimiento,musica,tropical",
+        "Language": "es",
+        "Homepage": "https://web.canelaradio.com/",
+        "Source1": "https://canelaradio.makrodigital.com/stream/canelaradiocuenca"
+    },
+    {
+        "Title": "Radio Canela Chimborazo 94.5 FM",
+        "Country": "Ecuador",
+        "Tags": "cumbia,cumbia ecuatoriana,entretenimiento,musica,tropical",
+        "Language": "es",
+        "Homepage": "https://web.canelaradio.com/",
+        "Source1": "https://canelaradio.makrodigital.com/stream/canelaradiochimborazo"
+    },
+    {
+        "Title": "Radio Canela El Oro 100.7 FM",
+        "Country": "Ecuador",
+        "Tags": "chicha,cumbia,cumbia ecuatoriana,entretenimiento,musica,tropical",
+        "Language": "es",
+        "Homepage": "https://web.canelaradio.com/",
+        "Source1": "https://canelaradio.makrodigital.com/stream/canelaradiomachala"
+    },
+    {
+        "Title": "Radio Canela Guayas",
+        "Country": "Ecuador",
+        "Tags": "merengue,pop,reggaeton,rock,variado",
+        "Language": "en,es",
+        "Homepage": "https://web.canelaradio.com/",
+        "Latitude": -2.162631548566959,
+        "Longitude": -79.88631248474123,
+        "Source1": "https://canelaradio.makrodigital.com/stream/canelaradioguayaquil"
+    },
+    {
+        "Title": "Radio Canela Guayas 90.5 FM",
+        "Country": "Ecuador",
+        "Tags": "entretenimiento,folclor,folclore,música regional",
+        "Language": "es",
+        "Homepage": "https://web.canelaradio.com/",
+        "Source1": "https://canelaradio.makrodigital.com/stream/canelaradioguayaquil"
+    },
+    {
+        "Title": "Radio Canela Imbabura 92.7 FM",
+        "Country": "Ecuador",
+        "Tags": "chicha,cumbia,entretenimiento,musica,tropical",
+        "Favicon": "https://web.canelaradio.com/favicon.ico",
+        "Language": "es",
+        "Homepage": "https://web.canelaradio.com/",
+        "Source1": "https://canelaradio.makrodigital.com/stream/canelaradioibarra"
+    },
+    {
+        "Title": "Radio Canela Manabí 102.5 FM",
+        "Country": "Ecuador",
+        "Tags": "chicha,cumbia,cumbia ecuatoriana,entretenimiento,musica,tropical",
+        "Language": "es",
+        "Homepage": "https://web.canelaradio.com/",
+        "Source1": "https://canelaradio.makrodigital.com/stream/canelaradiomanabi"
+    },
+    {
+        "Title": "Radio Canela Morona Santiago 91.7 FM",
+        "Country": "Ecuador",
+        "Tags": "chicha,cumbia,cumbia ecuatoriana,entretenimiento,musica,tropical",
+        "Favicon": "https://web.canelaradio.com/favicon.ico",
+        "Language": "es,qu",
+        "Homepage": "https://web.canelaradio.com/",
+        "Source1": "https://canelaradio.makrodigital.com/stream/canelaradiomacas"
+    },
+    {
+        "Title": "Radio Canela Napo 106.1 FM",
+        "Country": "Ecuador",
+        "Tags": "chicha,cumbia,cumbia ecuatoriana,entretenimiento,tropical",
+        "Favicon": "https://web.canelaradio.com/favicon.ico",
+        "Language": "es",
+        "Homepage": "https://web.canelaradio.com/",
+        "Source1": "https://canelaradio.makrodigital.com/stream/canelaradionapo"
+    },
+    {
+        "Title": "Radio Canela Pichincha",
+        "Country": "Ecuador",
+        "Homepage": "https://web.canelaradio.com/",
+        "Latitude": -0.206636934558138,
+        "Longitude": -78.49868774414064,
+        "Source1": "https://canelaradio.makrodigital.com:9280/stream",
+        "Source2": "https://ecuadorstreaming.net:9280/stream"
+    },
+    {
+        "Title": "Radio Canela Pichincha 106.5 FM",
+        "Country": "Ecuador",
+        "Tags": "chicha,chicha ecuatoriana,cumbia ecuatoriana,entretenimiento,entrevistas,mch,musica,tropical",
+        "Favicon": "https://web.canelaradio.com/favicon.ico",
+        "Language": "es",
+        "Homepage": "https://web.canelaradio.com/",
+        "Latitude": -0.20173126115347484,
+        "Longitude": -78.48477464000352,
+        "Source1": "https://canelaradio.makrodigital.com/stream/canelaradioquito"
+    },
+    {
+        "Title": "Radio Complice Fm.",
+        "Country": "Ecuador",
+        "Homepage": "http://www.complicefm.com/",
+        "Source1": "https://dattavolt.com/8422/stream"
+    },
+    {
+        "Title": "Radio Coqueta 96.5 FM",
+        "Country": "Ecuador",
+        "Favicon": "http://www.radiocoqueta.com/img/header-bg.jpg",
+        "Homepage": "http://www.radiocoqueta.com/",
+        "Source1": "http://cloudstream2032.conectarhosting.com:8214/;"
+    },
+    {
+        "Title": "Radio Corazón de Jesús FM",
+        "Country": "Ecuador",
+        "Tags": "misc",
+        "Source1": "http://stream.zeno.fm/cu68600hswzuv"
+    },
+    {
+        "Title": "Radio Diblu",
+        "Country": "Ecuador",
+        "Tags": "classical",
+        "Source1": "https://streamingecuador.net:9002/stream"
+    },
+    {
+        "Title": "Radio DJ's Retro",
+        "Country": "Ecuador",
+        "Favicon": "https://radio.djsretro.com/favicon.png?2021-1-5-1-638693982889673767",
+        "Homepage": "https://radio.djsretro.com/",
+        "Source1": "https://www.streamingrv.com:8000/stream"
+    },
+    {
+        "Title": "RADIO ECOS DE RUMIÑAHUI 88.9 FM",
+        "Country": "Ecuador",
+        "Tags": "entretenimiento,government,information,música ecuatoriana,noticias,variety",
+        "Favicon": "https://www.ecosderuminahui.gob.ec/assets/img/logo.png",
+        "Language": "es",
+        "Homepage": "https://www.ecosderuminahui.gob.ec/",
+        "Source1": "https://streamingecuador.com:9040/stream"
+    },
+    {
+        "Title": "Radio Elite 99.7 FM",
+        "Country": "Ecuador",
+        "Homepage": "https://radioelite997.com/",
+        "Source1": "https://streamingecuador.net:8135/radioelite",
+        "Source2": "https://streamingecuador.net:8135/radioelite.m3u"
+    },
+    {
+        "Title": "Radio Eres",
+        "Country": "Ecuador",
+        "Favicon": "null",
+        "Language": "es",
+        "Homepage": "https://radioeres.com/",
+        "Source1": "https://sv70.ecuaradiotv.net:8000/eres933"
+    },
+    {
+        "Title": "Radio Evolución",
+        "Country": "Ecuador",
+        "Homepage": "https://www.evolucion.ec/",
+        "Latitude": -0.1739127182669537,
+        "Longitude": -78.48708249722695,
+        "Source1": "https://stream.gradio.net/evolucion"
+    },
+    {
+        "Title": "Radio Evolución 107.7 FM",
+        "Country": "Ecuador",
+        "Homepage": "https://www.evolucion.ec/",
+        "Source1": "https://stream.gradio.net/evolucion"
+    },
+    {
+        "Title": "Radio Gaviota 105.1 FM",
+        "Country": "Ecuador",
+        "Tags": "music,musica,news,noticias",
+        "Favicon": "https://radiogaviotafm.com/wp-content/uploads/2017/05/cropped-icono-gaviota-180x180.png",
+        "Language": "es",
+        "Homepage": "https://radiogaviotafm.com/",
+        "Source1": "https://streamingecuador.net:9000/radiogaviota.m3u"
+    },
+    {
+        "Title": "Radio HCJB German",
+        "Country": "Ecuador",
+        "Tags": "christian",
+        "Favicon": "https://andenstimme.org/wp-content/uploads/cropped-favicon-1-180x180.gif",
+        "Language": "de",
+        "Homepage": "http://andenstimme.org/empfang",
+        "Source1": "http://segenswelle.de:8000/hcjb"
+    },
+    {
+        "Title": "Radio HCJB German (32kbps)",
+        "Country": "Ecuador",
+        "Tags": "christian",
+        "Favicon": "https://andenstimme.org/wp-content/uploads/cropped-favicon-1-180x180.gif",
+        "Language": "de",
+        "Homepage": "http://andenstimme.org/empfang",
+        "Source1": "http://segenswelle.de:8000/hcjb-aac"
+    },
+    {
+        "Title": "RADIO IMPACTO 107.9",
+        "Country": "Ecuador",
+        "Favicon": "http://radioimpacto.com.ec/wp-content/uploads/2023/03/logo-impacto-new1.png",
+        "Homepage": "https://radioimpacto.com.ec/",
+        "Source1": "https://cast.uncuartocomunicacion.com/listen/radioimpacto/live"
+    },
+    {
+        "Title": "Radio La Metro Stereo",
+        "Country": "Ecuador",
+        "Tags": "rock",
+        "Favicon": "https://www.lametro.com.ec/wp-content/uploads/2022/10/la-metro-logo-2022-1.jpg",
+        "Language": "en",
+        "Homepage": "https://www.lametro.com.ec/",
+        "Latitude": -0.2111773472728167,
+        "Longitude": -78.50543240669383,
+        "Source1": "https://alba-ec-lametro-lametro.stream.mediatiquestream.com/chunks.m3u8"
+    },
+    {
+        "Title": "Radio La Otra - 91.3 FM",
+        "Country": "Ecuador",
+        "Homepage": "https://web.laotrafm.com/",
+        "Source1": "https://laotrafm.makrodigital.com/stream/laotrafmquito"
+    },
+    {
+        "Title": "Radio La Red 102.1 FM",
+        "Country": "Ecuador",
+        "Homepage": "https://lared.com.ec/",
+        "Source1": "https://icecast.radiolared.com.ec/radiolared"
+    },
+    {
+        "Title": "RADIO LA UNIKA 92.3FM",
+        "Country": "Ecuador",
+        "Favicon": "https://launika.ec/es/wp-content/uploads/2023/06/icon-1.png",
+        "Homepage": "https://launika.ec/es/",
+        "Source1": "https://stream-150.zeno.fm/rpcvrn769e9uv?zs=cw5SUc59ROa91dNEStrAww"
+    },
+    {
+        "Title": "Radio Magica 87.7 (Ecuador)",
+        "Country": "Ecuador",
+        "Tags": "80s",
+        "Language": "en",
+        "Homepage": "https://magica877.000webhostapp.com/index.html",
+        "Latitude": -2.160728367858905,
+        "Longitude": -79.84278023242952,
+        "Source1": "http://usa10.fastcast4u.com:1680/"
+    },
+    {
+        "Title": "Radio Makro Digital",
+        "Country": "Ecuador",
+        "Tags": "80s,90s,classic hits,oldies",
+        "Language": "en,es",
+        "Homepage": "https://radiomakrodigital.ec/",
+        "Source1": "http://streamingecuador.net:7000/stream"
+    },
+    {
+        "Title": "Radio Marejada 100.9 FM",
+        "Country": "Ecuador",
+        "Tags": "music,musica,news,noticias",
+        "Language": "es",
+        "Homepage": "http://www.radiomarejada.com/",
+        "Source1": "http://streaming.hdserver.biz:9330/listen.pls"
+    },
+    {
+        "Title": "Radio Maria (Cuenca)",
+        "Country": "Ecuador",
+        "Tags": "catolica,catolicidad,catolicismo,catolico,iglesia catolica,musica catolica,radio catolica",
+        "Language": "es",
+        "Homepage": "https://www.radiomariaecuador.org/",
+        "Source1": "http://radioserver11.profesionalhosting.com:9069/stream"
+    },
+    {
+        "Title": "RADIO MARIA ECUADOR",
+        "Country": "Ecuador",
+        "Tags": "catholic,religion,talk",
+        "Homepage": "http://www.radiomariaecuador.org/",
+        "Source1": "http://dreamsiteradiocp4.com:8010/stream"
+    },
+    {
+        "Title": "Radio Mix 105.7 FM",
+        "Country": "Ecuador",
+        "Favicon": "https://fmradiomix.com/Radiomix.png",
+        "Homepage": "https://fmradiomix.com/",
+        "Source1": "https://streaming.ecuaradios.com/radiomix/stream"
+    },
+    {
+        "Title": "Radio Mokawa 93.9 FM",
+        "Country": "Ecuador",
+        "Tags": "folk,music,musica,news,noticias",
+        "Language": "es",
+        "Homepage": "https://radiomokawafm.com/",
+        "Source1": "http://stream.hdserver.biz:9474/listen.pls"
+    },
+    {
+        "Title": "Radio Mágica 87.7 (Ecuador)",
+        "Country": "Ecuador",
+        "Tags": "80's",
+        "Homepage": "https://magica877.000webhostapp.com/index.html",
+        "Latitude": -2.158972601550252,
+        "Longitude": -79.84222769737245,
+        "Source1": "https://usa10.fastcast4u.com:1680/;?type=http&nocache=1683302387",
+        "Source2": "https://usa10.fastcast4u.com:1680/;?type=http&nocache=1683305161"
+    },
+    {
+        "Title": "Radio Nexo",
+        "Country": "Ecuador",
+        "Tags": "baladas música popular colombiana nacional varios",
+        "Favicon": "https://nexoradioo.blogspot.com/favicon.ico",
+        "Language": "es",
+        "Homepage": "https://nexoradioo.blogspot.com/",
+        "Source1": "http://stream.zeno.fm/xvyq4g94fchvv"
+    },
+    {
+        "Title": "Radio Nuevo Tiempo 92.1 FM",
+        "Country": "Ecuador",
+        "Tags": "christian,christian rock,cristiana,music,musica cristiana,news,noticias,radio cristiana",
+        "Language": "es",
+        "Homepage": "http://nuevotiempo.org/ecuador/",
+        "Source1": "http://stream.live.novotempo.com/radio/smil:rntQuitoEC.smil/playlist.m3u8"
+    },
+    {
+        "Title": "Radio Olímpica 96.3 FM",
+        "Country": "Ecuador",
+        "Tags": "music,musica,news,noticias",
+        "Favicon": "https://olimpicafmradio.com/favicon.ico",
+        "Language": "es",
+        "Homepage": "https://olimpicafmradio.com/",
+        "Source1": "http://stream.hdserver.biz:9320/stream"
+    },
+    {
+        "Title": "Radio Onda Positiva 94.1 FM",
+        "Country": "Ecuador",
+        "Tags": "latin music,merengue,music,musica latina,musica romantica,news,religion,salsa,urban music",
+        "Language": "es",
+        "Homepage": "https://radioondapositiva.com/",
+        "Source1": "https://streamingecuador.net:8011/radioondapositiva.m3u"
+    },
+    {
+        "Title": "Radio Pasion",
+        "Country": "Ecuador",
+        "Tags": "christian,cristiana",
+        "Language": "es",
+        "Homepage": "https://www.radiopasionfm.com/",
+        "Source1": "http://streamingecuador.net:7500/stream"
+    },
+    {
+        "Title": "Radio Pichincha",
+        "Country": "Ecuador",
+        "Tags": "local news",
+        "Homepage": "https://radiopichincha.com/",
+        "Source1": "https://icecast.radiopichincha.com/radiopichincha"
+    },
+    {
+        "Title": "Radio Platinum Fm",
+        "Country": "Ecuador",
+        "Tags": "adult contemporary,adulto contemporáneo,news,noticias locales",
+        "Language": "es",
+        "Homepage": "https://www.ecuadoradio.ec/",
+        "Latitude": -0.1957956019765508,
+        "Longitude": -78.48037093877794,
+        "Source1": "https://streamingecuador.com:8160/radioplatinum"
+    },
+    {
+        "Title": "Radio Popular 1230 AM",
+        "Country": "Ecuador",
+        "Tags": "latin music,música ecuatoriana,música en español,música latinoamericana",
+        "Language": "es",
+        "Homepage": "https://radiopopular1230.blogspot.com/",
+        "Source1": "http://stream-50.zeno.fm/py6f6znfntzuv?zs=noiOyzMaTqWxs_wNcfkWgg&1679303614411"
+    },
+    {
+        "Title": "Radio Quito 760 AM",
+        "Country": "Ecuador",
+        "Tags": "latin music,multicultural,música en español,música latinoamericana,noticias,noticias locales",
+        "Language": "es",
+        "Homepage": "https://www.ecuadoradio.ec/horarios-radio-quito",
+        "Source1": "https://streamingecuador.net:8332/radioquito?1679294453918"
+    },
+    {
+        "Title": "Radio Rumba",
+        "Country": "Ecuador",
+        "Homepage": "http://radiorumba.fm/",
+        "Source1": "https://streamingecuador.net:8078/radiorumbanetwork"
+    },
+    {
+        "Title": "Radio Rumba 107.3 FM",
+        "Country": "Ecuador",
+        "Favicon": "https://radiorumba.fm/wp-content/uploads/2021/01/LOGO-PNG-BORDE-BLANCO-3.png",
+        "Homepage": "https://radiorumba.fm/",
+        "Source1": "https://streamingecuador.net:8078/RadioRumba"
+    },
+    {
+        "Title": "Radio Samantha 89.3 FM",
+        "Country": "Ecuador",
+        "Tags": "music,news,noticias",
+        "Language": "es",
+        "Homepage": "http://samanthafm.com/",
+        "Source1": "http://5.135.183.124:8153/stream.m3u"
+    },
+    {
+        "Title": "Radio Son De Manta 93.3 FM",
+        "Country": "Ecuador",
+        "Tags": "music,musica,news,noticias",
+        "Language": "es",
+        "Homepage": "https://www.radiosondemanta.com.ec/",
+        "Source1": "http://grupomundodigital.com:8649/live.m3u"
+    },
+    {
+        "Title": "Radio Sucumbíos 105.3 FM",
+        "Country": "Ecuador",
+        "Tags": "music,musica,news,noticias",
+        "Language": "es",
+        "Homepage": "https://radiosucumbios.org.ec/",
+        "Source1": "http://aler.org:8000/radiosucumbios.mp3"
+    },
+    {
+        "Title": "Radio Super Sol - 96.3 FM",
+        "Country": "Ecuador",
+        "Favicon": "https://radiosupersolfm.com/envivo_supersol.jpg",
+        "Homepage": "https://www.radiosupersolfm.com/la-radio/",
+        "Source1": "https://streamingecuador.com:8002/radiosupersol"
+    },
+    {
+        "Title": "Radio Tambo Mix",
+        "Country": "Ecuador",
+        "Favicon": "https://static.wixstatic.com/media/363a26_69ebef21ed91414399c257ed1a2a11a2~mv2.png/v1/fill/w_280,h_173,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/FM%20ONLINE%20MIX.png",
+        "Homepage": "https://radiotambomix.wixsite.com/25fm",
+        "Source1": "https://stream.zeno.fm/gey7t9er11zuv"
+    },
+    {
+        "Title": "Radio Turbo 106.9 FM",
+        "Country": "Ecuador",
+        "Favicon": "https://laturbofm.com/wp-content/uploads/2022/12/turbogye-560x560.png",
+        "Homepage": "https://laturbofm.com/",
+        "Source1": "https://streamingecuador.com/stream/radioturbogye"
+    },
+    {
+        "Title": "Radio Ultimito Mix",
+        "Country": "Ecuador",
+        "Tags": "bachata,baladas,bolero,chicha ecuatoriana,cumbias,latin music,merengue,musica latina,paso doble,pop,rock latino,salsa,tecnocumbia,tecnomerengue",
+        "Homepage": "https://radioultimitomixec.blogspot.com/",
+        "Latitude": -0.958855691292497,
+        "Longitude": -80.70719718933105,
+        "Source1": "https://usa4.fastcast4u.com/proxy/rwrw1?mp=/1"
+    },
+    {
+        "Title": "RADIO VALLE FM",
+        "Country": "Ecuador",
+        "Tags": "pop",
+        "Source1": "http://stream.zeno.fm/veu31437sm0uv",
+        "Source2": "https://stream-152.zeno.fm/veu31437sm0uv?zs=XGDQvsPmRX-Q-AFSbnseBg"
+    },
+    {
+        "Title": "Radio Xtrema FM",
+        "Country": "Ecuador",
+        "Tags": "electro,pop,rock",
+        "Favicon": "https://static.wixstatic.com/media/40a6b2_e9468b7d4581460da56d4ed5844066f7%7Emv2.png/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/40a6b2_e9468b7d4581460da56d4ed5844066f7%7Emv2.png",
+        "Language": "en,es",
+        "Homepage": "https://www.xtremafmecuador.com/",
+        "Latitude": -1.2429681540895334,
+        "Longitude": -78.62649768590929,
+        "Source1": "https://s1.raudiostream.com:8004/stream"
+    },
+    {
+        "Title": "Radio Zaracay 100.5 FM",
+        "Country": "Ecuador",
+        "Tags": "106.5,ecuador,quito,radio,zaracay",
+        "Favicon": "null",
+        "Homepage": "https://www.zaracayradio.com/",
+        "Source1": "http://stream-36.zeno.fm/as3xhhc0ts8uv?_=1"
+    },
+    {
+        "Title": "Radio11Q 104.9 FM",
+        "Country": "Ecuador",
+        "Favicon": "https://radio11q.com/wp-content/uploads/2017/10/11QHOME-1.png",
+        "Homepage": "https://radio11q.com/#noticias",
+        "Source1": "https://streamingecuador.net:8012/stream"
+    },
+    {
+        "Title": "RCN CATOLICA NACIONAL",
+        "Country": "Ecuador",
+        "Tags": "bible,catolica,cristiana,evangelio,radio hablada,religious",
+        "Favicon": "https://rcncatolica.com/wp-content/uploads/2023/07/LOGO-RCN.png",
+        "Language": "es",
+        "Homepage": "https://rcncatolica.com/",
+        "Source1": "https://dattavolt.com/8358/stream"
+    },
+    {
+        "Title": "RCS.  Manabi Stereo",
+        "Country": "Ecuador",
+        "Tags": "cumbia salsa tecno 70 80 baladas varios",
+        "Favicon": "https://i.ytimg.com/vi/s4rgiw1yd84/hqdefault.jpg",
+        "Language": "es",
+        "Homepage": "https://wwwradiocadenastereo.blogspot.com/",
+        "Source1": "http://stream.zeno.fm/esda9vaw438uv"
+    },
+    {
+        "Title": "RCS. Chimborazo Stereo",
+        "Country": "Ecuador",
+        "Tags": "nacional cumbia 70 80 varios",
+        "Favicon": "https://i.ytimg.com/vi/s4rgiw1yd84/hqdefault.jpg",
+        "Language": "es",
+        "Homepage": "https://wwwradiocadenastereo.blogspot.com/",
+        "Source1": "http://stream.zeno.fm/epr9867v438uv"
+    },
+    {
+        "Title": "RCS. El Oro Stereo",
+        "Country": "Ecuador",
+        "Tags": "salsa tecno 70 80 baladas varios",
+        "Favicon": "https://i.ytimg.com/vi/s4rgiw1yd84/hqdefault.jpg",
+        "Language": "es",
+        "Homepage": "https://wwwradiocadenastereo.blogspot.com/",
+        "Source1": "http://stream.zeno.fm/v4bvybbw438uv"
+    },
+    {
+        "Title": "RCS. Guayas Stereo",
+        "Country": "Ecuador",
+        "Tags": "cumbia salsa tecno 70 80 baladas varios",
+        "Language": "es",
+        "Homepage": "https://wwwradiocadenastereo.blogspot.com/",
+        "Source1": "http://stream.zeno.fm/75b5ah2v438uv"
+    },
+    {
+        "Title": "RCS. Imbabura Stereo",
+        "Country": "Ecuador",
+        "Tags": "baladas 70 80 cumbia varios",
+        "Favicon": "https://i.ytimg.com/vi/s4rgiw1yd84/hqdefault.jpg",
+        "Language": "es",
+        "Homepage": "https://wwwradiocadenastereo.blogspot.com/",
+        "Source1": "http://stream.zeno.fm/kewgx19v438uv"
+    },
+    {
+        "Title": "RCS. Morona Santiago Stereo",
+        "Country": "Ecuador",
+        "Tags": "salsa tecno 70 80 baladas bachata nacional varios",
+        "Favicon": "https://i.ytimg.com/vi/s4rgiw1yd84/hqdefault.jpg",
+        "Language": "es",
+        "Homepage": "https://wwwradiocadenastereo.blogspot.com/",
+        "Source1": "http://stream.zeno.fm/2r6uvhcw438uv"
+    },
+    {
+        "Title": "RCS. Noticias",
+        "Country": "Ecuador",
+        "Tags": "noticias nacionales e internacionales",
+        "Favicon": "https://i.ytimg.com/vi/s4rgiw1yd84/hqdefault.jpg",
+        "Homepage": "https://wwwradiocadenastereo.blogspot.com/",
+        "Source1": "http://stream.zeno.fm/mz04b1exz08uv"
+    },
+    {
+        "Title": "RCS. Orellana Stereo",
+        "Country": "Ecuador",
+        "Tags": "baladas 70 80 cumbia tecno varios",
+        "Favicon": "https://i.ytimg.com/vi/s4rgiw1yd84/hqdefault.jpg",
+        "Homepage": "https://wwwradiocadenastereo.blogspot.com/",
+        "Source1": "http://stream.zeno.fm/pb4351gw438uv"
+    },
+    {
+        "Title": "RCS. Quito Stereo",
+        "Country": "Ecuador",
+        "Tags": "cumbia baladas bachata nacional varios",
+        "Favicon": "https://i.ytimg.com/vi/s4rgiw1yd84/hqdefault.jpg",
+        "Language": "es",
+        "Homepage": "https://wwwradiocadenastereo.blogspot.com/",
+        "Source1": "http://stream.zeno.fm/p6dy80yt6s8uv"
+    },
+    {
+        "Title": "Retro Music by Pelambre Records",
+        "Country": "Ecuador",
+        "Favicon": "https://static.wixstatic.com/media/11a381_59e62d5da10b4d6ca063f65e65d94748~mv2.png/v1/fill/w_35,h_35,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo%20Pelambre%20Records%201.png",
+        "Homepage": "https://www.djpelambrerecords.com/",
+        "Source1": "http://streamingecuador.net:9300/stream"
+    },
+    {
+        "Title": "RNC La Mundialista 103.3 FM (AAC)",
+        "Country": "Ecuador",
+        "Tags": "deportes,futbol,music,musica,news,noticias,soccer",
+        "Language": "es",
+        "Homepage": "http://lamundialista103.com/",
+        "Source1": "https://streamingecuador.net:7008/radiornc.m3u"
+    },
+    {
+        "Title": "Rockeando con Reguetón",
+        "Country": "Ecuador",
+        "Tags": "daddy yankee,flow,latino,rap,reguetón",
+        "Favicon": "https://radio.lien.tv/favicon.ico",
+        "Homepage": "https://www.lien.tv/",
+        "Latitude": -0.2582401979633686,
+        "Longitude": -78.3973472796601,
+        "Source1": "https://stream.zeno.fm/ck2uqw2dgphvv"
+    },
+    {
+        "Title": "Rosate con bachata",
+        "Country": "Ecuador",
+        "Tags": "bachata,bachata dominicana,bachata romántica,bachata sensual,prince roys,romeo santos,torito",
+        "Favicon": "https://radio.lien.tv/favicon.ico",
+        "Homepage": "https://www.lien.tv/",
+        "Latitude": -0.36910159398715847,
+        "Longitude": -78.49830921887441,
+        "Source1": "https://stream.zeno.fm/uagzy1yc5uhvv"
+    },
+    {
+        "Title": "RTP 96.5 FM",
+        "Country": "Ecuador",
+        "Homepage": "http://www.rtp.ec/",
+        "Source1": "https://streamingecuador.net:8167/radiotropicana"
+    },
+    {
+        "Title": "RVT Satelital 91.5 FM",
+        "Country": "Ecuador",
+        "Tags": "music,musica,news,noticias",
+        "Language": "es",
+        "Homepage": "http://rvtradio.com/",
+        "Source1": "http://209.208.111.122:8000/rvtpeninsula"
+    },
+    {
+        "Title": "San Fernando FM",
+        "Country": "Ecuador",
+        "Tags": "baladas nacional corridos varios",
+        "Favicon": "https://i.ytimg.com/vi/s4rgiw1yd84/hqdefault.jpg",
+        "Homepage": "https://wwwradiocadenastereo.blogspot.com/",
+        "Source1": "http://stream.zeno.fm/gqn5xf0fd18uv"
+    },
+    {
+        "Title": "super 949",
+        "Country": "Ecuador",
+        "Tags": "rock",
+        "Language": "es",
+        "Homepage": "https://www.super949.com/",
+        "Latitude": -2.8179550211350866,
+        "Longitude": -78.99719238281251,
+        "Source1": "https://dattavolt.com/8028/stream"
+    },
+    {
+        "Title": "Tambo Stereo FM",
+        "Country": "Ecuador",
+        "Tags": "decades",
+        "Source1": "http://stream.zeno.fm/uqwrvvpvhm0uv"
+    },
+    {
+        "Title": "Tropicalida",
+        "Country": "Ecuador",
+        "Tags": "merengue,pop,reggaeton,tropical",
+        "Favicon": "https://alba-ec-tropicalida.cdn.mediatiquepress.com/wp-content/uploads/2022/02/22173451/circulo.png",
+        "Language": "es",
+        "Homepage": "https://www.tropicalida.com.ec/",
+        "Latitude": -2.154507541830164,
+        "Longitude": -79.90013122558595,
+        "Source1": "https://d2qzj7eqicisth.cloudfront.net/medialist_14854753276708185244_hls.m3u8"
+    },
+    {
+        "Title": "Tu Voz Stereo",
+        "Country": "Ecuador",
+        "Tags": "nacional varios",
+        "Favicon": "https://i.ytimg.com/vi/s4rgiw1yd84/hqdefault.jpg",
+        "Homepage": "https://wwwradiocadenastereo.blogspot.com/",
+        "Source1": "http://stream.zeno.fm/zy7aqxp4q98uv"
+    },
+    {
+        "Title": "TURBO FM - 93.3 FM TUNGURAHUA",
+        "Country": "Ecuador",
+        "Favicon": "https://laturbofm.com/wp-content/uploads/2022/12/turbo-560x560.png",
+        "Homepage": "https://laturbofm.com/",
+        "Source1": "https://streamingecuador.com/stream/radioturboambato"
+    },
+    {
+        "Title": "Turbo Imparable",
+        "Country": "Ecuador",
+        "Favicon": "https://turboimparable.com/wp-content/uploads/2018/03/cropped-ico-180x180.png",
+        "Homepage": "https://turboimparable.com/",
+        "Source1": "http://sonic.portalfoxmix.cl:8394/stream/;"
+    },
+    {
+        "Title": "Virgen de Guadalupe Radio",
+        "Country": "Ecuador",
+        "Tags": "santa misa santo rosario católica",
+        "Favicon": "https://i.ytimg.com/vi/s4rgiw1yd84/hqdefault.jpg",
+        "Homepage": "https://wwwradiocadenastereo.blogspot.com/",
+        "Source1": "http://stream.zeno.fm/9f0rk1re508uv"
+    }
+]

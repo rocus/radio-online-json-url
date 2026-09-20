@@ -1,0 +1,278 @@
+[
+    {
+        "Title": "101.1 BIG HEART FM",
+        "Country": "Macao",
+        "Tags": "variety,world music",
+        "Favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqDYrujwxE2yBwEKh2u8RjH7tmi6LGsImmWeCugDjLUQ&s",
+        "Language": "cmn,yue",
+        "Homepage": "https://bigheartfm.weebly.com/",
+        "Source1": "http://162.220.162.10:8011/stream"
+    },
+    {
+        "Title": "101.1 Smooth FM",
+        "Country": "Macao",
+        "Tags": "jazz,smooth jazz",
+        "Language": "pt,zh",
+        "Homepage": "https://smoothfm.pt/",
+        "Source1": "https://stream-icy.bauermedia.pt/smooth.aac"
+    },
+    {
+        "Title": "101.7 BIG HEART FM",
+        "Country": "Macao",
+        "Tags": "top 40,variety,world music",
+        "Favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJlv53fkkLJDk_Kfdz2kv20-Rad_UnpdEgUKjuHbnKHmwoL7lSyYTsZLe6&s=10",
+        "Language": "en",
+        "Homepage": "https://bigheartfm.weebly.com/",
+        "Source1": "https://62.138.18.102:8133/stream"
+    },
+    {
+        "Title": "91.5 HIT FM MACAU (成都）",
+        "Country": "Macao",
+        "Tags": "hot ac,pop,top 40",
+        "Favicon": "https://upload.wikimedia.org/wikipedia/zh/1/1b/CRI_Hit_FM_logo.png",
+        "Language": "cmn",
+        "Homepage": "https://www.hitfm.cn/",
+        "Source1": "http://lhttp.qingting.fm/live/15318703/64k.mp3"
+    },
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "Macao",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "Asia FM 106.9",
+        "Country": "Macao",
+        "Tags": "asian music,variety",
+        "Language": "yue",
+        "Homepage": "http://www.asiafm.cn/",
+        "Source1": "https://lhttp.qingting.fm/live/20071/64k.mp3"
+    },
+    {
+        "Title": "Asia FM 106.9",
+        "Country": "Macao",
+        "Tags": "asian music,variety",
+        "Favicon": "http://www.asiafm.net/favicon.ico",
+        "Language": "yue",
+        "Homepage": "http://www.asiafm.net/",
+        "Source1": "https://lhttp.qingting.fm/live/20071/64k.mp3"
+    },
+    {
+        "Title": "CGTN Radio - Macau 1341 AM",
+        "Country": "Macao",
+        "Tags": "world news",
+        "Favicon": "https://upload.wikimedia.org/wikipedia/commons/2/25/CGTN.png",
+        "Language": "en,pt,zh",
+        "Homepage": "https://radio.cgtn.com/",
+        "Source1": "https://sk.cri.cn/am846.m3u8"
+    },
+    {
+        "Title": "Channel [V] International",
+        "Country": "Macao",
+        "Tags": "hot ac,music videos,top 40",
+        "Favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/800px-Channel_V_Logo.svg.png",
+        "Language": "en",
+        "Homepage": "https://en.m.wikipedia.org/wiki/Channel_V",
+        "Source1": "https://listen.radioking.com/radio/453221/stream/508076"
+    },
+    {
+        "Title": "CityFM Macau - 90.5 FM",
+        "Country": "Macao",
+        "Tags": "internet radio,music",
+        "Favicon": "https://pic.qtfm.cn/2022/0703/20220703121159.jpeg",
+        "Language": "pt,zh",
+        "Homepage": "https://m.qtfm.cn/",
+        "Source1": "https://lhttp.qtfm.cn/live/20500153/64k.mp3"
+    },
+    {
+        "Title": "CNR-7 粵港澳大灣區之聲",
+        "Country": "Macao",
+        "Tags": "full service",
+        "Favicon": "https://wx4.sinaimg.cn/mw2000/0081HCo7ly8g9uvqyy67nj30dw0dw756.jpg",
+        "Language": "yue,zh",
+        "Homepage": "http://rtgb.cnr.cn/",
+        "Source1": "https://satellitepull.cnr.cn/live/wxhxzs/playlist.m3u8?wsSession=a919bd0baf31a1a6f3966f08-174761752612586&wsIPSercert=270c8446fe14303f2433a2f164ccd9e5"
+    },
+    {
+        "Title": "Lotus FM Macau HD - 97.4 FM",
+        "Country": "Macao",
+        "Tags": "variety,world music",
+        "Favicon": "https://upload.wikimedia.org/wikipedia/en/9/99/Lotus_TV_Macau_logo.jpg",
+        "Language": "cmn,en",
+        "Homepage": "https://wap.macaulotustv.cc/wap.php",
+        "Source1": "https://lhttp.qtfm.cn/live/20533/64k.mp3"
+    },
+    {
+        "Title": "Lotus Macau Radio - 1062 AM",
+        "Country": "Macao",
+        "Tags": "variety,world music",
+        "Favicon": "https://upload.wikimedia.org/wikipedia/en/9/99/Lotus_TV_Macau_logo.jpg",
+        "Language": "cmn,en",
+        "Homepage": "https://wap.macaulotustv.cc/wap.php",
+        "Source1": "https://lhttp.qtfm.cn/live/20133/64k.mp3"
+    },
+    {
+        "Title": "M80 Radio Macau - 107.1 FM",
+        "Country": "Macao",
+        "Tags": "pop,rock,variety",
+        "Favicon": "https://m80.pt/favicon.ico",
+        "Language": "pt,zh",
+        "Homepage": "https://m80.pt/",
+        "Source1": "https://stream-icy.bauermedia.pt/m80.mp3"
+    },
+    {
+        "Title": "M80 Radio Macau - 80s",
+        "Country": "Macao",
+        "Tags": "classic hits",
+        "Language": "cmn,yue",
+        "Homepage": "https://m80.pt/",
+        "Source1": "https://stream-icy.bauermedia.pt/m8080.aac"
+    },
+    {
+        "Title": "M80 Radio Macau - 90s",
+        "Country": "Macao",
+        "Tags": "90s,hits,pop,retro,rock",
+        "Favicon": "https://bauermedia.pt/m80/m80-90/favicon.ico",
+        "Language": "pt,zh",
+        "Homepage": "https://bauermedia.pt/m80/m80-90",
+        "Source1": "https://stream-icy.bauermedia.pt/m8090.aac"
+    },
+    {
+        "Title": "M80 Radio Macau - Rock",
+        "Country": "Macao",
+        "Tags": "classic rock",
+        "Favicon": "https://bauermedia.pt/m80/m80-rock/favicon.ico",
+        "Language": "pt,zh",
+        "Homepage": "https://bauermedia.pt/m80/m80-rock",
+        "Source1": "https://stream-icy.bauermedia.pt/m80rock.aac"
+    },
+    {
+        "Title": "RADIO MARIA MACAU",
+        "Country": "Macao",
+        "Tags": "catholic,catolica,christian,katholik,religion,religious,talk",
+        "Homepage": "http://www.voiceofmary.org.mo/VoiceOfMary/jsp/index.jsp",
+        "Source1": "http://dreamsiteradiocp2.com:8038/stream"
+    },
+    {
+        "Title": "Radio Top 80 Macau 強電台 - 89.9 FM",
+        "Country": "Macao",
+        "Tags": "2000s,80s,90s,classic hits,retro",
+        "Favicon": "https://img.radios.com.br/radio/xl/radio232214_1699645003.jpg",
+        "Language": "cmn,yue",
+        "Homepage": "https://www.top80.fm/",
+        "Source1": "http://live.top80.fm:8086/;"
+    },
+    {
+        "Title": "Radio Veritas Asia 1044 AM",
+        "Country": "Macao",
+        "Tags": "religious",
+        "Favicon": "https://www.rvasia.org/favicon",
+        "Language": "cmn,en",
+        "Homepage": "https://www.rvasia.org/",
+        "Source1": "http://icecast.eradioportal.com:8000/radyo-veritas-846"
+    },
+    {
+        "Title": "Radio Vilaverde Lda",
+        "Country": "Macao",
+        "Homepage": "https://www.vfm995.com/m.html",
+        "Source1": "https://fm995.ddns.net/hls1/fm995.m3u8"
+    },
+    {
+        "Title": "Record FM 100.3 Macau",
+        "Country": "Macao",
+        "Tags": "hot ac,talk,variety",
+        "Favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWxzia_Bkrj8iaa6iQ7uAbi1eem1GcDGKDFYGmE_HYjdlILYB2R9hKtMoF&s=10",
+        "Language": "pt,yue",
+        "Homepage": "https://www.recordfm.pt/player_m_lisboa.htm",
+        "Source1": "https://nl.digitalrm.pt:8028/stream"
+    },
+    {
+        "Title": "Romance Radio 95.5 FM",
+        "Country": "Macao",
+        "Tags": "love songs",
+        "Favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0ZaX_MeobQXgZYNlYWuf1F_UdPiX_QHNuHQ&usqp=CAU",
+        "Language": "cmn,zh",
+        "Homepage": "https://norilynonecoin.wixsite.com/criradioplayers-push",
+        "Source1": "http://162.220.162.10:8011/stream"
+    },
+    {
+        "Title": "RTP Macau - 97.1 FM",
+        "Country": "Macao",
+        "Tags": "music,news",
+        "Favicon": "https://madeira.rtp.pt/favicon.ico",
+        "Language": "cmn,pt",
+        "Homepage": "https://madeira.rtp.pt/",
+        "Source1": "https://radiocast.rtp.pt/antena1madeira80a.mp3"
+    },
+    {
+        "Title": "Rádio Macau FM98.0",
+        "Country": "Macao",
+        "Tags": "public radio",
+        "Favicon": "https://cdn.sao.fm/wp-content/uploads/20240115004813288.jpg",
+        "Language": "pt",
+        "Homepage": "https://www.tdm.com.mo/zh-hant/program/radio_zh",
+        "Source1": "https://mo.ufofm.com/live/rch1.live/chunklist_w1881620473.m3u8?audio"
+    },
+    {
+        "Title": "SZR 城市 FM 97.1 Macau - HD2",
+        "Country": "Macao",
+        "Tags": "top 40,variety,world music",
+        "Favicon": "https://upload.wikimedia.org/wikipedia/en/9/95/Szr.jpg?20060826171746",
+        "Language": "pt,yue",
+        "Homepage": "https://www.szmg.com.cn/",
+        "Source1": "https://stream-hls.bauermedia.pt/cidade.aac/playlist.m3u8"
+    },
+    {
+        "Title": "VOA Macau",
+        "Country": "Macao",
+        "Tags": "news,world news",
+        "Favicon": "https://www.voachinese.com/favicon",
+        "Language": "pt,yue",
+        "Homepage": "https://www.voachinese.com/",
+        "Source1": "http://voa-ingest.akamaized.net/hls/live/2035206/151_124L/playlist.m3u8",
+        "Source2": "https://voa-ingest.akamaized.net/hls/live/2035206/151_124L/playlist.m3u8"
+    },
+    {
+        "Title": "YW City Radio - Macau 954 AM",
+        "Country": "Macao",
+        "Tags": "talk radio",
+        "Favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAloACLs4j25afKVh2uzyJX3NGhCBaZTLSo_Ud6VcuDiP358zYKXSPuw&s=10",
+        "Language": "cmn",
+        "Homepage": "https://www.ywcity.cn/#/homepage",
+        "Source1": "https://lhttp.qingting.fm/live/1259/64k.mp3?app_id=web"
+    },
+    {
+        "Title": "澳門綠邨電台",
+        "Country": "Macao",
+        "Tags": "lifestyle",
+        "Language": "yue",
+        "Homepage": "https://www.vfm995.com/m.html",
+        "Source1": "https://fm995.ddns.net/hls1/fm995.m3u8"
+    },
+    {
+        "Title": "澳門綠邨電台",
+        "Country": "Macao",
+        "Tags": "lifestyle",
+        "Favicon": "https://mfm995.com/wp-content/uploads/2022/09/cropped-icon20220930_1.png",
+        "Language": "yue",
+        "Homepage": "https://www.vfm995.com/pc.html",
+        "Source1": "https://macaofm995.com/hls1/fm995.m3u8"
+    },
+    {
+        "Title": "澳門電台 FM100.7",
+        "Country": "Macao",
+        "Tags": "public radio",
+        "Favicon": "https://cdn.sao.fm/wp-content/uploads/20240115003259241.jpg",
+        "Language": "yue",
+        "Homepage": "https://www.tdm.com.mo/zh-hant/program/radio_zh",
+        "Source1": "https://mo.ufofm.com/live/rch2.live/chunklist_w905210118.m3u8?audio"
+    },
+    {
+        "Title": "綠邨",
+        "Country": "Macao",
+        "Homepage": "https://fm995.ddns.net/",
+        "Source1": "https://fm995.ddns.net/hls1/fm995.m3u8"
+    }
+]

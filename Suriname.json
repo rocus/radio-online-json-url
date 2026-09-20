@@ -1,0 +1,93 @@
+[
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "Suriname",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "Ishara",
+        "Country": "Suriname",
+        "Homepage": "http://www.isharafm.com/",
+        "Latitude": 5.942233809492641,
+        "Longitude": -56.97108238935471,
+        "Source1": "https://a8.asurahosting.com:7030/radio.mp3"
+    },
+    {
+        "Title": "MPB Radio Suriname",
+        "Country": "Suriname",
+        "Favicon": "https://static2.mytuner.mobi/media/tvos_radios/7uhduQMtjg.png",
+        "Homepage": "https://radiozender.mpbnetwerken.nl/radiosuriname.mp3",
+        "Source1": "https://radiozender.mpbnetwerken.nl/radiosuriname.mp3"
+    },
+    {
+        "Title": "MPB Radio Suriname",
+        "Country": "Suriname",
+        "Favicon": "https://static2.mytuner.mobi/media/tvos_radios/7uhduQMtjg.png",
+        "Homepage": "https://radiozender.mpbnetwerken.nl/radiosuriname",
+        "Source1": "https://radiozender.mpbnetwerken.nl/radiosuriname"
+    },
+    {
+        "Title": "NIO 107.5FM",
+        "Country": "Suriname",
+        "Tags": "various",
+        "Favicon": "https://nio.sr/wp-content/uploads/2017/10/logo.png",
+        "Homepage": "https://nio.sr/",
+        "Latitude": 3.337953961416485,
+        "Longitude": -55.72265625,
+        "Source1": "https://loa.beheerstream.nl:8060/stream"
+    },
+    {
+        "Title": "Radio 10 Magic FM",
+        "Country": "Suriname",
+        "Favicon": "https://images.radio.co/station_logos/s85a633f73.20220705111511.jpg",
+        "Homepage": "https://www.radio10.sr/",
+        "Source1": "https://s5.radio.co/s85a633f73/listen"
+    },
+    {
+        "Title": "Radio Apintie",
+        "Country": "Suriname",
+        "Homepage": "https://www.apintie.sr/radio",
+        "Latitude": 4.286157851321014,
+        "Longitude": -54.31640625000001,
+        "Source1": "http://surilive.com:8000/str",
+        "Source2": "https://surilive.com:8000/;"
+    },
+    {
+        "Title": "Radio ishara",
+        "Country": "Suriname",
+        "Tags": "music",
+        "Favicon": "null",
+        "Language": "hi",
+        "Homepage": "https://a8.asurahosting.com:7030/radio.mp3",
+        "Source1": "https://a8.asurahosting.com:7030/radio.mp3"
+    },
+    {
+        "Title": "Radio Sangeetmala",
+        "Country": "Suriname",
+        "Tags": "music",
+        "Favicon": "null",
+        "Language": "hi",
+        "Homepage": "https://rs.suricloud.com/radio/8030/radio.mp3",
+        "Source1": "https://rs.suricloud.com/radio/8030/radio.mp3"
+    },
+    {
+        "Title": "Radio Shruti",
+        "Country": "Suriname",
+        "Tags": "music",
+        "Language": "hi",
+        "Homepage": "https://rs.suricloud.com/radio/8000/radio.mp3",
+        "Source1": "https://rs.suricloud.com/radio/8000/radio.mp3"
+    },
+    {
+        "Title": "Surinet radio",
+        "Country": "Suriname",
+        "Tags": "various",
+        "Favicon": "https://cdn.onlineradiobox.com/img/l/0/120820.v7.png",
+        "Language": "en",
+        "Homepage": "http://surinetradio.sr/",
+        "Source1": "https://loa.beheerstream.nl:8066/listen.pls?sid=1"
+    }
+]

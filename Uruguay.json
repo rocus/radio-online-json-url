@@ -1,0 +1,1309 @@
+[
+    {
+        "Title": ". Abdulbasit Abdulsamad",
+        "Country": "Uruguay",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "102.3 FM CORONILLA",
+        "Country": "Uruguay",
+        "Tags": "entretenimiento,information,música variada,pop,radio hablada,reggaeton,rock,variety",
+        "Favicon": "https://fmcoronilla.uy/img/logo.png?v=1.1",
+        "Language": "es",
+        "Homepage": "https://fmcoronilla.uy/",
+        "Source1": "https://streaming01.shockmedia.com.ar/9184/stream"
+    },
+    {
+        "Title": "24 de Agosto",
+        "Country": "Uruguay",
+        "Tags": "classic rock oldies,golden oldies,goldies,oldies",
+        "Language": "en",
+        "Homepage": "https://24deagosto.com/",
+        "Latitude": -34.89705437628847,
+        "Longitude": -56.2005615234375,
+        "Source1": "https://24deagosto-zikoxweb.radioca.st/stream"
+    },
+    {
+        "Title": "90.3 FM DEL ESTE",
+        "Country": "Uruguay",
+        "Tags": "entretenimiento,information,music",
+        "Favicon": "https://noventatres.com/index_htm_files/2.png",
+        "Language": "es",
+        "Homepage": "https://noventatres.com/",
+        "Source1": "http://usa15.ciudaddigital.com.uy:8010/DelEsteFM"
+    },
+    {
+        "Title": "970 Universal",
+        "Country": "Uruguay",
+        "Tags": "futbol,noticias",
+        "Homepage": "https://970universal.com/",
+        "Source1": "https://970universal-3.nty.uy/"
+    },
+    {
+        "Title": "Aire FM 100.3",
+        "Country": "Uruguay",
+        "Tags": "cumbia,music,plena,reggaeton",
+        "Language": "es",
+        "Homepage": "https://www.airefm.com.uy/",
+        "Source1": "https://streaming3.hostingmontevideo.com/8064/stream"
+    },
+    {
+        "Title": "Alfa FM 96.3",
+        "Country": "Uruguay",
+        "Tags": "cumbia,music,música en español e inglés",
+        "Favicon": "https://alfafm.com.uy/assets/img/inicio__izquierda__video--splashscreen.png",
+        "Language": "es",
+        "Homepage": "https://alfafm.com.uy/",
+        "Source1": "http://radioonline.netgate.com.uy:8000/alfafm"
+    },
+    {
+        "Title": "Amatista FM 90.7",
+        "Country": "Uruguay",
+        "Tags": "gospel,religion",
+        "Favicon": "https://amatistafm.com/Imagenes/desde%20artigas%20capital%20piedras.JPG",
+        "Language": "es",
+        "Homepage": "https://amatistafm.com/",
+        "Source1": "http://usa15.ciudaddigital.com.uy:8044/AmatistaFM"
+    },
+    {
+        "Title": "America FM",
+        "Country": "Uruguay",
+        "Tags": "salto uruguay",
+        "Language": "es",
+        "Homepage": "http://americafm.com.uy/",
+        "Source1": "http://emisiones.com.uy:8118/america"
+    },
+    {
+        "Title": "América FM 103.3",
+        "Country": "Uruguay",
+        "Tags": "entretenimiento,latino,música en español,pop en español",
+        "Favicon": "http://americafm.com.uy/assets/america.png",
+        "Language": "es",
+        "Homepage": "http://americafm.com.uy/",
+        "Source1": "http://emisiones.com.uy:8118/america"
+    },
+    {
+        "Title": "ARAPEY (AM 1450)",
+        "Country": "Uruguay",
+        "Tags": "noticias opinion,sports,talking,variety",
+        "Favicon": "https://cdn-radiotime-logos.tunein.com/s86075g.png",
+        "Language": "es",
+        "Homepage": "https://10minutos.com.uy/arapeyon-line/",
+        "Source1": "http://emisiones.com.uy:8085/arapey"
+    },
+    {
+        "Title": "Armonía FM 92.5",
+        "Country": "Uruguay",
+        "Tags": "deportes,hits,music,música en español e inglés,noticias,pop,radio hablada,top 40,variety",
+        "Favicon": "https://emisoras.com.uy/uploads/img/armonia-fm.png",
+        "Language": "es",
+        "Homepage": "https://emisorastacuarembo.com/radio/",
+        "Source1": "http://usa15.ciudaddigital.com.uy:8132/ArmoniaFM"
+    },
+    {
+        "Title": "Atlantida FM 89.9",
+        "Country": "Uruguay",
+        "Tags": "80s,90s,classic hits,hits 80s",
+        "Favicon": "https://atlantidafm.com.uy/assets/images/bg.jpg",
+        "Language": "es",
+        "Homepage": "https://atlantidafm.com.uy/",
+        "Source1": "http://server-uk1.radioseninternet.net:8034/;"
+    },
+    {
+        "Title": "Azul FM 101.9",
+        "Country": "Uruguay",
+        "Favicon": "https://azulfm.com.uy/public/img/favicons/apple-touch-icon.png?v=5",
+        "Homepage": "https://azulfm.com.uy/",
+        "Source1": "https://azul-2.nty.uy/",
+        "Source2": "https://azul-1.nty.uy/"
+    },
+    {
+        "Title": "Azul Punta del Este 93.5",
+        "Country": "Uruguay",
+        "Source1": "https://icecasthd.net/proxy/azulp/live"
+    },
+    {
+        "Title": "Babel",
+        "Country": "Uruguay",
+        "Tags": "instrumental,jazz,music,radio pública,uruguay",
+        "Language": "es",
+        "Homepage": "https://babel.uy/",
+        "Source1": "https://radios.iwstreaming.uy/8030/stream"
+    },
+    {
+        "Title": "Boliche Radio",
+        "Country": "Uruguay",
+        "Tags": "music",
+        "Homepage": "https://bolicheradio.com/",
+        "Source1": "https://streaming1.locucionar.com/proxy/bolicheradio?mp=/stream"
+    },
+    {
+        "Title": "Cadena del Mar",
+        "Country": "Uruguay",
+        "Favicon": "https://cadenadelmar.uy/assets/grafica/logo.png",
+        "Homepage": "https://cadenadelmar.uy/",
+        "Source1": "https://streamingraddios.online/proxy/cadena?mp=/stream&1669851387477"
+    },
+    {
+        "Title": "Cadena del Mar 106.5 FM",
+        "Country": "Uruguay",
+        "Tags": "deportes,entretenimiento,local radio,música variada,noticias,noticias y comentarios,noticias y deportes,radio hablada",
+        "Favicon": "https://cadenadelmar.uy/assets/grafica/logo.png",
+        "Language": "es",
+        "Homepage": "https://cadenadelmar.uy/",
+        "Source1": "http://streamingraddios.online:9455/;"
+    },
+    {
+        "Title": "Carve Deportiva",
+        "Country": "Uruguay",
+        "Favicon": "https://carvedeportiva.uy/wp-content/themes/radio1010_theme/assets/images/logo-carve-deportiva.svg",
+        "Homepage": "https://carvedeportiva.uy/",
+        "Source1": "https://streamingcasazorrilla.innovanexo.com:8000/carvedeportiva.mp3"
+    },
+    {
+        "Title": "Carve Deportiva",
+        "Country": "Uruguay",
+        "Favicon": "https://radiocarve.uy/wp-content/themes/carve_theme/assets/images/favicon.png",
+        "Homepage": "https://radiocarve.uy/",
+        "Source1": "https://streamingcasazorrilla.innovanexo.com:8000/radiocarve850.mp3"
+    },
+    {
+        "Title": "Casupá FM 94.1",
+        "Country": "Uruguay",
+        "Tags": "entretenimiento,local radio,música variada,noticias",
+        "Favicon": "https://cdn.webrad.io/images/logos/radios-com-uy/casupa-fm.png",
+        "Language": "es",
+        "Homepage": "https://radiocasupa941.webnode.com.uy/",
+        "Source1": "https://stm1.ifantasy.com.br:7256/;"
+    },
+    {
+        "Title": "Causes FM 89.1",
+        "Country": "Uruguay",
+        "Tags": "baladas en español,deportes,entretenimiento,music,musica romantica,pop en español,variety",
+        "Favicon": "https://ss-static-001.esmsv.com/r/content/host1/6820fb3e32772eece15e2c7c6ce7fd7a/favicon/uMkSfsqrbY-32.png",
+        "Language": "es",
+        "Homepage": "https://caucesfm.uy/",
+        "Source1": "https://streaming.radiosenlinea.com.ar/8870/stream"
+    },
+    {
+        "Title": "Celestial Fm 90.7",
+        "Country": "Uruguay",
+        "Tags": "gospel,religious",
+        "Language": "es",
+        "Homepage": "https://www.celestialfm.com/sitio/",
+        "Source1": "https://cloudstream2036.conectarhosting.com/8032/stream"
+    },
+    {
+        "Title": "Centenario",
+        "Country": "Uruguay",
+        "Favicon": "https://radio36.com.uy/wp-content/uploads/2025/11/CABEZAL-WEB-36-e1762485361875.png",
+        "Homepage": "https://radio36.com.uy/",
+        "Source1": "https://streamusa.netgate.com.uy:8010/centenario"
+    },
+    {
+        "Title": "Clásica 650 AM",
+        "Country": "Uruguay",
+        "Tags": "música clásica,radio pública",
+        "Language": "es",
+        "Homepage": "https://clasica.uy/",
+        "Source1": "https://radios.iwstreaming.uy/8032/stream"
+    },
+    {
+        "Title": "colonia am 550",
+        "Country": "Uruguay",
+        "Tags": "talk & speech",
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/COLONIA_ADP.aac"
+    },
+    {
+        "Title": "Columbia FM 88.5",
+        "Country": "Uruguay",
+        "Tags": "cumbia,entretenimiento,latino,música variada,tropical",
+        "Favicon": "https://fmcolumbia.com/wp-content/uploads/2020/02/columbia-1024x576.png",
+        "Language": "es",
+        "Homepage": "https://fmcolumbia.com/",
+        "Source1": "https://stm.gmpro.top:7008/;"
+    },
+    {
+        "Title": "Conaicop",
+        "Country": "Uruguay",
+        "Favicon": "http://radioconaicop.blogspot.com",
+        "Language": "es",
+        "Homepage": "http://radioconaicop.blogspot.com/",
+        "Source1": "http://stream.zeno.fm/w5k0y0qbft5tv"
+    },
+    {
+        "Title": "Concierto FM 95.1",
+        "Country": "Uruguay",
+        "Tags": "dance,reggaeton,rock",
+        "Language": "es",
+        "Homepage": "https://www.conciertofm.com/",
+        "Latitude": -34.945659921867396,
+        "Longitude": -54.93473052978516,
+        "Source1": "https://conectperu.com/8012/stream"
+    },
+    {
+        "Title": "Contacto FM",
+        "Country": "Uruguay",
+        "Favicon": "https://contactofm.com.uy/assets/images/10483130-803201883072743-5790030209514230704-n-300x300.png",
+        "Language": "es",
+        "Homepage": "https://contactofm.com.uy/",
+        "Latitude": -32.32613234406631,
+        "Longitude": -58.08540344238282,
+        "Source1": "https://salida.stream.com.uy:8512/stream"
+    },
+    {
+        "Title": "Cosquin Rock Radio Uruguay",
+        "Country": "Uruguay",
+        "Tags": "chat,fun,gossip,rock",
+        "Favicon": "https://cosquinrockuy.net/wp-content/uploads/2025/11/logo-color-17.png",
+        "Language": "es",
+        "Homepage": "https://cosquinrockuy.net/",
+        "Latitude": -34.842971903208884,
+        "Longitude": -56.2005615234375,
+        "Source1": "https://icecast15.innovanexo.com:9000/radiocero.mp3"
+    },
+    {
+        "Title": "CW54 Emisora Del Este",
+        "Country": "Uruguay",
+        "Tags": "folk,latin,news,sports",
+        "Favicon": "https://www.cw54emisoradeleste.com.uy/wp-content/uploads/2026/01/cw54_logo.webp",
+        "Language": "es",
+        "Homepage": "https://www.cw54emisoradeleste.com.uy/",
+        "Latitude": -34.3771545842907,
+        "Longitude": -55.23789793252946,
+        "Source1": "http://usa15.ciudaddigital.com.uy:8076/EmisoraDelEste"
+    },
+    {
+        "Title": "CX 10 Radio Continente 730 AM",
+        "Country": "Uruguay",
+        "Tags": "religious",
+        "Language": "es",
+        "Homepage": "http://cx10continente.com/",
+        "Source1": "http://cx10continente.com:8152/"
+    },
+    {
+        "Title": "CX 20 Radio Monte Carlo",
+        "Country": "Uruguay",
+        "Tags": "aqui esta su disco,la super radio,music,news",
+        "Language": "es",
+        "Homepage": "https://www.radiomontecarlo.com.uy/",
+        "Source1": "https://streamingcasazorrilla.innovanexo.com:8000/montecarlo.mp3"
+    },
+    {
+        "Title": "CX 30 Radio Nacional",
+        "Country": "Uruguay",
+        "Favicon": "https://www.radionacional.com.uy/web/wp-content/uploads/2022/07/cropped-favicons-180x180.png",
+        "Homepage": "https://www.radionacional.com.uy/web/",
+        "Source1": "https://a1.asurahosting.com:8650/radio.mp3"
+    },
+    {
+        "Title": "CX 30 Radio Nacional (La Treinta)",
+        "Country": "Uruguay",
+        "Tags": "conservative talk,talk radio",
+        "Language": "es",
+        "Homepage": "https://www.radionacional.com.uy/web/",
+        "Source1": "https://stream.rcast.net/73479"
+    },
+    {
+        "Title": "CX 40 Radio Fenix",
+        "Country": "Uruguay",
+        "Language": "es",
+        "Homepage": "https://radiofenix.com.uy/",
+        "Source1": "https://sp3.servidorrprivado.com/8070/;"
+    },
+    {
+        "Title": "CX 46 Radio America",
+        "Country": "Uruguay",
+        "Tags": "religious",
+        "Language": "es",
+        "Homepage": "https://www.cx46.com.uy/",
+        "Source1": "https://america-2.nty.uy/stream"
+    },
+    {
+        "Title": "CX 580 Radio Rural",
+        "Country": "Uruguay",
+        "Tags": "rural",
+        "Language": "es",
+        "Homepage": "https://radiorural.uy/",
+        "Source1": "https://radiolatina.live/9206/stream"
+    },
+    {
+        "Title": "CX12 Radio Oriental 770 AM",
+        "Country": "Uruguay",
+        "Tags": "cx12 radio oriental 770 am",
+        "Favicon": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Orientalcx12.gif",
+        "Language": "es",
+        "Homepage": "https://oriental.com.uy/inicio/",
+        "Source1": "http://radiolatina.live:7906/1"
+    },
+    {
+        "Title": "De La Cumbre",
+        "Country": "Uruguay",
+        "Language": "es",
+        "Homepage": "http://www.delacumbrefm.com/",
+        "Latitude": -31.77600097107714,
+        "Longitude": -54.688712954521186,
+        "Source1": "http://158.106.131.228:9020/"
+    },
+    {
+        "Title": "De La Cumbre FM 102.9",
+        "Country": "Uruguay",
+        "Favicon": "https://www.delacumbrefm.com/images/Logo.jpeg",
+        "Homepage": "https://www.delacumbrefm.com/",
+        "Latitude": -31.77606406795762,
+        "Longitude": -54.68864858150482,
+        "Source1": "https://nazca.globalhost1.com:7127/stream"
+    },
+    {
+        "Title": "Del Plata FM 95.5",
+        "Country": "Uruguay",
+        "Tags": "music",
+        "Homepage": "https://www.delplatafm.com/",
+        "Source1": "https://alba-uy-delplata-delplata.stream.mediatiquestream.com/index.m3u8"
+    },
+    {
+        "Title": "Del Sol FM",
+        "Country": "Uruguay",
+        "Favicon": "https://delsol.uy/favicon.ico",
+        "Homepage": "https://delsol.uy/",
+        "Latitude": -34.89612513770326,
+        "Longitude": -56.16485595703126,
+        "Source1": "https://delsol-1.nty.uy/?type=http&nocache=2780&dbl=0"
+    },
+    {
+        "Title": "Del Sol FM",
+        "Country": "Uruguay",
+        "Favicon": "https://cdn-profiles.tunein.com/s13953/images/bannerx.jpg?t=636203379790000000",
+        "Language": "es",
+        "Homepage": "http://fmdelsol.com/",
+        "Source1": "http://radio.dl.uy:9950/radio"
+    },
+    {
+        "Title": "DelSol",
+        "Country": "Uruguay",
+        "Favicon": "https://delsol.uy//public/lb/img/favicons/apple-touch-icon.png?v=2020",
+        "Homepage": "https://delsol.uy/",
+        "Source1": "https://delsol-1.nty.uy/?type=http&nocache=2780&dbl=0"
+    },
+    {
+        "Title": "Delta FM 88.3",
+        "Country": "Uruguay",
+        "Tags": "folclore,information,local radio,music,radio hablada,social,variety",
+        "Favicon": "https://deltafm.com.uy/sitio/wp-content/uploads/2020/04/logo-deltafm-1.png",
+        "Language": "es",
+        "Homepage": "https://deltafm.com.uy/sitio/",
+        "Source1": "http://server-uk1.radioseninternet.net:8104/;"
+    },
+    {
+        "Title": "Diamante FM 98.7",
+        "Country": "Uruguay",
+        "Homepage": "https://www.diamantefm.com/",
+        "Source1": "https://radiolatina.live/8058/stream"
+    },
+    {
+        "Title": "Difusora Treinta y Tres 1390 AM",
+        "Country": "Uruguay",
+        "Tags": "baladas en español,entretenimiento,information,musica romantica,música variada,noticias,radio hablada",
+        "Favicon": "https://difusoratreintaytres.com.uy/assets/images/logo.png",
+        "Language": "es",
+        "Homepage": "https://difusoratreintaytres.com.uy/",
+        "Source1": "https://server-usa2.radioseninternet.net/8132/stream"
+    },
+    {
+        "Title": "El Espectador 810",
+        "Country": "Uruguay",
+        "Tags": "news",
+        "Favicon": "https://espectador.com/public/img/favicon/apple-touch-icon.png",
+        "Language": "es",
+        "Homepage": "https://espectador.com/",
+        "Latitude": -34.91037506940214,
+        "Longitude": -56.17058783769608,
+        "Source1": "https://espectador-1.nty.uy/"
+    },
+    {
+        "Title": "El Libertador",
+        "Country": "Uruguay",
+        "Favicon": "https://i0.wp.com/ellibertador.com.uy/wp-content/uploads/2020/11/cropped-cropped-Logo-El-Libertador-1-1.png?fit=935%2C337&ssl=1",
+        "Homepage": "https://ellibertador.com.uy/",
+        "Source1": "https://streamingraddios.online/proxy/llamadad?mp=/stream"
+    },
+    {
+        "Title": "El Libertador 1210 AM",
+        "Country": "Uruguay",
+        "Tags": "folclore,folk,music,noticias,social,variety",
+        "Favicon": "https://i0.wp.com/ellibertador.com.uy/wp-content/uploads/2020/11/cropped-cropped-Logo-El-Libertador-1-1.png?fit=935%2C337&ssl=1",
+        "Language": "es",
+        "Homepage": "https://ellibertador.com.uy/",
+        "Source1": "https://streamingraddios.online/proxy/llamadad?mp=/stream"
+    },
+    {
+        "Title": "El Puente FM 103.3",
+        "Country": "Uruguay",
+        "Tags": "radio comunitaria",
+        "Language": "es",
+        "Homepage": "https://elpuenteportal.org.uy/",
+        "Source1": "https://as100.globalhost1.com/8082/stream"
+    },
+    {
+        "Title": "El Shaddai MIHA Online",
+        "Country": "Uruguay",
+        "Tags": "religious",
+        "Language": "es",
+        "Homepage": "https://elshaddaimiha.uy/",
+        "Source1": "https://stm2.livecastradio.com:20160/stream/"
+    },
+    {
+        "Title": "Emisora del Sur",
+        "Country": "Uruguay",
+        "Tags": "información,música uruguaya,radio pública,uruguay",
+        "Language": "es",
+        "Homepage": "https://emisoradelsur.uy/",
+        "Source1": "https://radios.iwstreaming.uy/8034/stream"
+    },
+    {
+        "Title": "Emisora Principal",
+        "Country": "Uruguay",
+        "Favicon": "https://emisoraprincipal.com/wp-content/uploads/2020/02/emisoraprincipal_logo.png",
+        "Homepage": "https://emisoraprincipal.com/",
+        "Source1": "https://s7.myradiostream.com/10764/listen.mp3?ver=755704"
+    },
+    {
+        "Title": "ESPACIO SPORT 91.5 FM",
+        "Country": "Uruguay",
+        "Tags": "deportes,entretenimiento,information,music,noticias",
+        "Favicon": "https://www.915espaciofm.com/assets/logo-DwXxCiga.webp",
+        "Language": "es",
+        "Homepage": "https://www.915espaciofm.com/",
+        "Source1": "https://medios.ciudaddigital.com.uy:18098/EspacioFM"
+    },
+    {
+        "Title": "Exa FM",
+        "Country": "Uruguay",
+        "Tags": "93.3 fm,entretenimiento,español,estación,exa,exa fm,fm,juvenil,la estación exacta,la estación naranja,moi merino,mvs,mvs noticias,mvs radio,música en español e inglés,música pop,ponte exa,pop,pop en español e inglés,pop music,pop rock,radio",
+        "Favicon": "https://i.iheart.com/v3/re/new_assets/5f9883c7cde5eff19e6eabac",
+        "Language": "es",
+        "Homepage": "https://www.exafm.com/veracruz/",
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac"
+    },
+    {
+        "Title": "Exito - FM 99.7",
+        "Country": "Uruguay",
+        "Tags": "comunicación,cultura,información,música,pop,rock",
+        "Favicon": "https://exitofm.com.uy/wp-content/uploads/2023/06/cropped-favvicon-32x32.jpg",
+        "Homepage": "https://exitofm.com.uy/",
+        "Source1": "http://salida.stream.com.uy:8506/stream"
+    },
+    {
+        "Title": "Exito FM 99.7",
+        "Country": "Uruguay",
+        "Tags": "adult contemporary,entretenimiento,hits,music,música en español e inglés,top 40",
+        "Favicon": "https://exitofm.com.uy/wp-content/uploads/2023/06/EXITO-LOGO3-338x132.png",
+        "Language": "es",
+        "Homepage": "https://exitofm.com.uy/",
+        "Source1": "https://salida.stream.com.uy:8506/stream"
+    },
+    {
+        "Title": "Federal FM 99.1",
+        "Country": "Uruguay",
+        "Tags": "deportes,information,noticias,noticias y comentarios,radio hablada,variety",
+        "Favicon": "https://federalfm.com.uy/img/fachada.gif",
+        "Language": "es",
+        "Homepage": "https://federalfm.com.uy/",
+        "Source1": "http://usa15.ciudaddigital.com.uy:8040/FederalFM"
+    },
+    {
+        "Title": "Felicidad - AM 1240",
+        "Country": "Uruguay",
+        "Tags": "cultura,deportes,información,música",
+        "Favicon": "https://www.radiofelicidad.com.uy/am_felicidad.jpg",
+        "Homepage": "https://www.radiofelicidad.com.uy/",
+        "Source1": "http://medios.ciudaddigital.com.uy:8042/Felicidad"
+    },
+    {
+        "Title": "FM Azul",
+        "Country": "Uruguay",
+        "Homepage": "https://azulfm.com.uy/",
+        "Latitude": -34.90682485963762,
+        "Longitude": -56.178932189941406,
+        "Source1": "https://azul-1.nty.uy/"
+    },
+    {
+        "Title": "FM Buenos Aires 104.1",
+        "Country": "Uruguay",
+        "Tags": "baladas en español,hits,musica romantica,música en español e inglés,música variada",
+        "Favicon": "https://fmbuenosaires.net/FMBA%20CXC281B2.png",
+        "Language": "es",
+        "Homepage": "https://fmbuenosaires.net/",
+        "Source1": "http://radio.solumedia.com.ar:8352/stream"
+    },
+    {
+        "Title": "FM Cerro de Nico Perez",
+        "Country": "Uruguay",
+        "Tags": "folk,news,pop,sports",
+        "Favicon": "https://esenvivo.com/play/nicoperez/logo23.png",
+        "Language": "es",
+        "Homepage": "https://fmnicoperez965.com/",
+        "Latitude": -33.46723505409555,
+        "Longitude": -55.14928579330444,
+        "Source1": "https://radiosar.com:9358/stream"
+    },
+    {
+        "Title": "FM Ciudadela 88.7",
+        "Country": "Uruguay",
+        "Tags": "musica,radio comunitaria",
+        "Language": "es",
+        "Homepage": "https://www.fmciudadela.com/",
+        "Source1": "https://streaming1.locucionar.com/proxy/fmciudadela887?mp=/stream"
+    },
+    {
+        "Title": "FM cordialidad 94.9",
+        "Country": "Uruguay",
+        "Tags": "entretenimiento,music,música variada,noticias,radio hablada",
+        "Favicon": "https://fmcordialidad.com/assets/img/basic/logo2.png",
+        "Language": "es",
+        "Homepage": "https://fmcordialidad.com/",
+        "Source1": "https://cordialidad-zikoxweb2.radioca.st/stream"
+    },
+    {
+        "Title": "FM de La Cumbre 102.9",
+        "Country": "Uruguay",
+        "Tags": "cumbia,entretenimiento,popular,various",
+        "Favicon": "http://www.delacumbrefm.com/images/WhatsApp_Image_2023-06-06_at_11.20.40.jpeg",
+        "Language": "es",
+        "Homepage": "http://www.delacumbrefm.com/",
+        "Source1": "http://158.106.131.228:9020/;"
+    },
+    {
+        "Title": "FM del Carmen 105.3",
+        "Country": "Uruguay",
+        "Tags": "information,music,noticias,radio comunitaria,social",
+        "Favicon": "http://www.fmdelcarmen.com/img/isotipo.png",
+        "Language": "es",
+        "Homepage": "http://www.fmdelcarmen.com/",
+        "Source1": "http://radios-online.info:2930/;"
+    },
+    {
+        "Title": "FM Digital 100.1",
+        "Country": "Uruguay",
+        "Tags": "entretenimiento,hits,latino,music,reggaeton,urbano",
+        "Favicon": "https://fmdigital.net/Digital.png",
+        "Language": "es",
+        "Homepage": "https://fmdigital.net/",
+        "Source1": "https://sh1.radioonlinehd.com:8001/stream"
+    },
+    {
+        "Title": "FM Días de Gloria 101.9",
+        "Country": "Uruguay",
+        "Tags": "70s,80s,90s,classic hits,hits,music,oldies",
+        "Favicon": "https://www.diasdegloria.com/images/logotipo.png",
+        "Language": "es",
+        "Homepage": "https://www.diasdegloria.com/",
+        "Source1": "http://server.laradio.online:9114/;"
+    },
+    {
+        "Title": "FM HIT 90.3 Uruguay",
+        "Country": "Uruguay",
+        "Favicon": "https://fmhit.uy/wp-content/uploads/2020/07/cropped-FmHIT90.3-192x192.jpg",
+        "Homepage": "https://fmhit.uy/",
+        "Source1": "https://hit-1.nty.uy/stream"
+    },
+    {
+        "Title": "Fm Inolvidable 93.1",
+        "Country": "Uruguay",
+        "Source1": "https://inolvidable-2.nty.uy/"
+    },
+    {
+        "Title": "FM La Costa 88.3",
+        "Country": "Uruguay",
+        "Tags": "latino,music,pop music",
+        "Language": "es",
+        "Homepage": "https://www.lacostafm88.com/",
+        "Source1": "https://streaming3.hostingmontevideo.com:8074/stream"
+    },
+    {
+        "Title": "FM La Ley",
+        "Country": "Uruguay",
+        "Tags": "music",
+        "Homepage": "https://fmlaley.com/",
+        "Source1": "https://streaming2.locucionar.com/proxy/laleyfm?mp=/stream"
+    },
+    {
+        "Title": "Fm Like Uruguay",
+        "Country": "Uruguay",
+        "Tags": "music",
+        "Homepage": "https://www.fmlike.com.uy/",
+        "Source1": "https://alba-uy-fmlike-likefm.stream.mediatiquestream.com/index.m3u8"
+    },
+    {
+        "Title": "FM Naturaleza 88.1",
+        "Country": "Uruguay",
+        "Favicon": "https://static-media.streema.com/media/cache/14/d4/14d4f52131dda600648c334d10fb335e.jpg",
+        "Language": "es",
+        "Homepage": "https://fmnaturaleza.com/",
+        "Latitude": -34.344327227609256,
+        "Longitude": -55.761014521121986,
+        "Source1": "http://stm.gmpro.top:7006/"
+    },
+    {
+        "Title": "FM Sueños 106.7",
+        "Country": "Uruguay",
+        "Favicon": "https://fm1067.com.uy/assets/images/favicon.png?v=405a4609",
+        "Homepage": "https://fm1067.com.uy/",
+        "Source1": "https://radios.iwstreaming.uy/8012/stream"
+    },
+    {
+        "Title": "Galaxia FM 105.9",
+        "Country": "Uruguay",
+        "Tags": "music,religious",
+        "Language": "es",
+        "Homepage": "https://zeno.fm/radio/galaxiafm1059/",
+        "Source1": "https://stream-30.zeno.fm/bf4gt1pem0quv"
+    },
+    {
+        "Title": "Horizonte - FM 106.3",
+        "Country": "Uruguay",
+        "Tags": "cultura,folclore,información,música,pop,rock,sociedad",
+        "Favicon": "https://horizonte1063.com.uy/wp-content/uploads/2024/03/WhatsApp-Image-2024-03-08-at-10.19.54-AM.jpeg",
+        "Homepage": "https://horizonte1063.com.uy/",
+        "Source1": "http://1063fm.ddns.net:8025/online"
+    },
+    {
+        "Title": "Impacto FM - Fray Bentos",
+        "Country": "Uruguay",
+        "Homepage": "https://impacto989.com.uy/",
+        "Source1": "https://a3.asurahosting.com:7740/radio.mp3"
+    },
+    {
+        "Title": "INOLVIDABLE FM",
+        "Country": "Uruguay",
+        "Homepage": "https://www.inolvidablefm.com.uy/#",
+        "Source1": "https://inolvidable-1.nty.uy/"
+    },
+    {
+        "Title": "Kairos FM Uruguay",
+        "Country": "Uruguay",
+        "Tags": "religious",
+        "Language": "es",
+        "Homepage": "https://www.radiokairos.net/",
+        "Source1": "https://panel.streamenviron.com:8264/radiokairos"
+    },
+    {
+        "Title": "La Bottega Radio Online",
+        "Country": "Uruguay",
+        "Favicon": "https://static-media.streema.com/media/cache/b7/b8/b7b8d13cd752de8782070ccec44ab932.png",
+        "Homepage": "https://www.labottegaonline.com/radio/index.html",
+        "Source1": "https://streaming6.locucionar.com:24048/stream"
+    },
+    {
+        "Title": "La Clave Uruguay 92.9 FM",
+        "Country": "Uruguay",
+        "Tags": "music",
+        "Favicon": "https://laclave92.000webhostapp.com/reproductorluna/playershoutcastv2/favicon.png",
+        "Language": "es",
+        "Homepage": "https://la-clave-92-9-fm.webnode.es/",
+        "Source1": "https://stream-151.zeno.fm/ndwvn44vebruv?zs=gsCKxmQESE6hL5yVzBYFAA"
+    },
+    {
+        "Title": "La Cotorra FM",
+        "Country": "Uruguay",
+        "Tags": "cerro,radio comunitaria",
+        "Language": "es",
+        "Homepage": "https://www.lacotorrafm.com/",
+        "Source1": "http://204.197.245.100:8238/;"
+    },
+    {
+        "Title": "La Diaria Radio",
+        "Country": "Uruguay",
+        "Tags": "cultural,news,talk radio",
+        "Language": "es",
+        "Homepage": "https://radio.ladiaria.com.uy/",
+        "Source1": "https://radiolatina.live/8156/stream"
+    },
+    {
+        "Title": "La Elegida FM",
+        "Country": "Uruguay",
+        "Homepage": "https://laelegidafm.com/",
+        "Source1": "https://stm1.srvif.com:7042/",
+        "Source2": "https://stm1.srvif.com:7042/;"
+    },
+    {
+        "Title": "La Isla Radio Online Del Uruguay",
+        "Country": "Uruguay",
+        "Tags": "arte,candombe,cultura,folclore,folklore,música,poesía,sociedad,tango,uruguay",
+        "Favicon": "https://4.bp.blogspot.com/-kEcSU07Giuc/W_ghHfD0ufI/AAAAAAAAABs/7MizkiJ9v6QDzLkbUdpM9fUEfzabxBJVQCK4BGAYYCw/w800/La%2BIsla%2BRadio%2BOnline%2BDel%2BUruguay.png",
+        "Language": "es",
+        "Homepage": "http://radiolaisla.blogspot.com/",
+        "Source1": "http://lirodu.zapto.org:8000/laislaradio"
+    },
+    {
+        "Title": "La Nueva del Sur",
+        "Country": "Uruguay",
+        "Favicon": "https://zeno.fm/favicon.ico",
+        "Homepage": "https://zeno.fm/lanuevadelsur",
+        "Latitude": -34.91053644229421,
+        "Longitude": -54.84324312107887,
+        "Source1": "http://stream.zeno.fm/s6hdmgb9na0uv.m3u"
+    },
+    {
+        "Title": "La Otra - FM 104.5",
+        "Country": "Uruguay",
+        "Tags": "cultura,folclore,información,música,pop,rock,sociedad",
+        "Favicon": "https://laotrafmpaysandu.blogspot.com/favicon.ico",
+        "Language": "es",
+        "Homepage": "https://laotrafmpaysandu.blogspot.com/",
+        "Source1": "https://cento02.mipanelradio.com/proxy/fmlaotra?mp=/stream"
+    },
+    {
+        "Title": "LA VEREDA WEB RADIO",
+        "Country": "Uruguay",
+        "Homepage": "https://laveredawebradio.com/",
+        "Source1": "https://srv2.radiostreamuy.com/8012/stream"
+    },
+    {
+        "Title": "La Voz De Melo",
+        "Country": "Uruguay",
+        "Homepage": "https://www.lavozdemelo.com.uy/",
+        "Source1": "https://stream.zeno.fm/fzc86k96yy8uv"
+    },
+    {
+        "Title": "La voz de Paysandú - AM 1320",
+        "Country": "Uruguay",
+        "Tags": "cultura,folclore,información,música,pop,rock",
+        "Favicon": "https://www.radiocw39.com/cw39.jpg",
+        "Homepage": "https://www.radiocw39.com/",
+        "Source1": "http://salida.stream.com.uy:8508/stream"
+    },
+    {
+        "Title": "Laser FM",
+        "Country": "Uruguay",
+        "Tags": "entretenimiento,información,musica",
+        "Language": "es",
+        "Homepage": "http://www.laserfm.com.uy/",
+        "Latitude": -34.965606223683096,
+        "Longitude": -54.94773334343337,
+        "Source1": "https://server.laradio.online/proxy/eduardo_correa?mp=/stream"
+    },
+    {
+        "Title": "Latina - FM 95.3",
+        "Country": "Uruguay",
+        "Tags": "cultura,información,música,pop,rock",
+        "Favicon": "https://www.latinafm.com.uy/site/wp-content/uploads/2020/06/logolatina.png",
+        "Homepage": "https://www.latinafm.com.uy/",
+        "Source1": "http://medios.ciudaddigital.com.uy:8168/LatinaFM"
+    },
+    {
+        "Title": "LOVE FM: All you need is Love / Música Romántica",
+        "Country": "Uruguay",
+        "Favicon": "https://i.postimg.cc/pd2qpS5j/lovefm1037.jpg",
+        "Homepage": "https://lovefm.com.mx/",
+        "Source1": "https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8"
+    },
+    {
+        "Title": "M24 - 97.9 fm MVD y 102.5 fm Maldonado",
+        "Country": "Uruguay",
+        "Tags": "entretenimiento,information,music,noticias,radio hablada,various",
+        "Favicon": "https://cdn.onlineradiobox.com/img/l/2/86622.v3.png",
+        "Language": "es",
+        "Homepage": "https://www.m24.com.uy/",
+        "Source1": "https://streaming1.hostingmontevideo.com/8034/stream"
+    },
+    {
+        "Title": "M24 · La radio que nos mueve (97.9  / 102.5 )",
+        "Country": "Uruguay",
+        "Tags": "news,sport,talk & speech",
+        "Favicon": "https://administrador.m24.com.uy/wp-content/uploads/2022/06/Banner_MiBrou.gif",
+        "Language": "es",
+        "Homepage": "https://www.m24.com.uy/",
+        "Source1": "https://streaming1.hostingmontevideo.com/8034/stream"
+    },
+    {
+        "Title": "Mas FM 101.3",
+        "Country": "Uruguay",
+        "Favicon": "https://i0.wp.com/masfm.com.uy/wp-content/uploads/2016/06/portadadereproductor.jpg?resize=256%2C256&ssl=1",
+        "Homepage": "https://masfm.com.uy/",
+        "Source1": "https://one.cloudstreaming.eu:7002/stream"
+    },
+    {
+        "Title": "Mega FM",
+        "Country": "Uruguay",
+        "Favicon": "https://cdn-profiles.tunein.com/s210344/images/logod.png?t=164432",
+        "Homepage": "https://megafm.com.uy/mega/",
+        "Source1": "https://radio.cimaspeed.com/8070/stream"
+    },
+    {
+        "Title": "Metropolis 104.9",
+        "Country": "Uruguay",
+        "Source1": "https://metropolis-web-1.nty.uy/"
+    },
+    {
+        "Title": "Metropolis Punta 95.9",
+        "Country": "Uruguay",
+        "Source1": "https://metropolis-web-1.nty.uy/"
+    },
+    {
+        "Title": "Montevideo Jazz Radio",
+        "Country": "Uruguay",
+        "Favicon": "https://montevideojazzradio.com/wp-content/uploads/2022/07/cropped-72396285_952890841735510_2637510734681997312_n-270x270.png",
+        "Homepage": "https://montevideojazzradio.com/",
+        "Source1": "http://node-34.zeno.fm/2ykx0xbm6gruv?rj-ttl=5&amp=&rj-tok=AAABgdsb5DoAz8MV8KJpNVyteA"
+    },
+    {
+        "Title": "Multimedios Rincón AM 1510 - Fray Bentos",
+        "Country": "Uruguay",
+        "Tags": "general",
+        "Favicon": "https://scontent.fmvd2-1.fna.fbcdn.net/v/t39.30808-6/337384218_1595585237572448_8701487168143709854_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=oMl_JwxkgOQQ7kNvgFRKET9&_nc_ht=scontent.fmvd2-1.fna&oh=00_AYDVOWlfjxf-9fLoPFn84FIjQMOVEfvA0xykA6ut8bX05w&oe=66FE82EF",
+        "Language": "es",
+        "Homepage": "https://multimediosrincon.com.uy/",
+        "Source1": "https://rinconam-zikoxweb.radioca.st/stream"
+    },
+    {
+        "Title": "Multimedios Rincón FM 107.7 - Fray Bentos",
+        "Country": "Uruguay",
+        "Tags": "general",
+        "Favicon": "https://multimediosrincon.com.uy/wp-content/uploads/2023/03/cropped-cropped-Rs-32x32.png",
+        "Language": "en,es",
+        "Homepage": "https://multimediosrincon.com.uy/",
+        "Latitude": -33.11769092259536,
+        "Longitude": -58.31334613482767,
+        "Source1": "https://rincon2-zikoxweb.radioca.st/stream"
+    },
+    {
+        "Title": "Mundo fm",
+        "Country": "Uruguay",
+        "Favicon": "http://mundofm.net/favicon.ico",
+        "Homepage": "http://mundofm.net/",
+        "Source1": "http://emisiones.com.uy:8088/mundo"
+    },
+    {
+        "Title": "mundo fm uruguay",
+        "Country": "Uruguay",
+        "Tags": "musica",
+        "Language": "es",
+        "Homepage": "http://mundofm.net/2016/",
+        "Source1": "http://emisiones.com.uy:8088/mundo"
+    },
+    {
+        "Title": "Neutral FM",
+        "Country": "Uruguay",
+        "Tags": "latin,news,pop",
+        "Favicon": "https://www.radioneutralfm.com/wp-content/uploads/2022/03/logo-radio-neutral-fm.jpg",
+        "Language": "es",
+        "Homepage": "https://www.radioneutralfm.com/",
+        "Latitude": -33.47110850352389,
+        "Longitude": -55.15087366104126,
+        "Source1": "https://sp.dattavolt.com:7024/stream"
+    },
+    {
+        "Title": "OCEANO",
+        "Country": "Uruguay",
+        "Favicon": "https://oceanofm.com/wp-content/uploads/2024/11/cropped-favicon-180x180.png",
+        "Homepage": "https://oceanofm.com/",
+        "Source1": "https://oceano-2.nty.uy/netradio/listen.mp3"
+    },
+    {
+        "Title": "Oceano FM",
+        "Country": "Uruguay",
+        "Tags": "music",
+        "Homepage": "https://oceanofm.com/",
+        "Latitude": -34.905132883084974,
+        "Longitude": -56.18499398231507,
+        "Source1": "https://oceano-2.nty.uy/"
+    },
+    {
+        "Title": "OCÉANO FM",
+        "Country": "Uruguay",
+        "Favicon": "https://oceanofm.com/wp-content/uploads/2024/11/cropped-favicon-180x180.png",
+        "Homepage": "https://oceanofm.com/",
+        "Source1": "https://oceano-2.nty.uy/netradio/listen.mp3:8000/;?download=false"
+    },
+    {
+        "Title": "Oldies FM",
+        "Country": "Uruguay",
+        "Tags": "80s,90s,classic hits,oldies",
+        "Language": "en,es",
+        "Homepage": "https://fmhit.uy/",
+        "Source1": "https://hit-1.nty.uy/stream"
+    },
+    {
+        "Title": "Perfil FM",
+        "Country": "Uruguay",
+        "Homepage": "https://perfilfm.com/",
+        "Source1": "https://radiosar.com:8086/stream"
+    },
+    {
+        "Title": "Radio 098",
+        "Country": "Uruguay",
+        "Tags": "2000s,60s,70s,80s,90s,jazz,pop,punk,rock",
+        "Favicon": "https://static.wixstatic.com/media/3ef6b0_9fba2216d6de4ed4859f75c578f02074~mv2.png/v1/crop/x_0,y_35,w_1280,h_454/fill/w_642,h_228,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/LOGO%201280x680%20ROJO.png",
+        "Language": "en,es",
+        "Homepage": "https://radio098.wixsite.com/radio098",
+        "Source1": "https://stream.zeno.fm/aam2ts855p8uv"
+    },
+    {
+        "Title": "Radio 41",
+        "Country": "Uruguay",
+        "Favicon": "https://www.radio41.com.uy/templates/radio41_2017/img/logo-radio41-80px.png",
+        "Homepage": "https://www.radio41.com.uy/",
+        "Source1": "https://stream20.usastreams.com:7008/;"
+    },
+    {
+        "Title": "Radio Activa Florida 101.1",
+        "Country": "Uruguay",
+        "Tags": "information,radio comunitaria,social,various",
+        "Favicon": "https://radioactivaflorida.com/wp-content/uploads/2022/12/Logo-1-Retocado-2048x2048.jpg",
+        "Language": "es",
+        "Homepage": "https://radioactivaflorida.com/",
+        "Source1": "https://streaming1.hostingmontevideo.com:7014/;"
+    },
+    {
+        "Title": "Radio Acuarela",
+        "Country": "Uruguay",
+        "Favicon": "https://cdn.onlineradiobox.com/img/l/6/75696.v4.png",
+        "Homepage": "https://onlineradiobox.com/uy/acuarela/",
+        "Source1": "https://onlineradiobox.com/json/uy/acuarela/play?platform=web"
+    },
+    {
+        "Title": "Radio Arapey",
+        "Country": "Uruguay",
+        "Language": "es",
+        "Homepage": "https://10minutos.com.uy/arapeyon-line/",
+        "Source1": "http://emisiones.com.uy:8085/arapey"
+    },
+    {
+        "Title": "Radio Babilonia",
+        "Country": "Uruguay",
+        "Homepage": "https://audioserver.pro/babilonia/",
+        "Source1": "http://89.167.37.248:8000/listen/babilonia2/radio.mp3"
+    },
+    {
+        "Title": "Radio Carmelo",
+        "Country": "Uruguay",
+        "Favicon": "https://www.radiocarmelo.com/images/faviconcarmelo.jpg",
+        "Homepage": "https://www.radiocarmelo.com/",
+        "Latitude": -34.016336098849806,
+        "Longitude": -58.29345703125001,
+        "Source1": "https://server.laradio.online/proxy/martin_barragan05?mp=/stream"
+    },
+    {
+        "Title": "Radio Carve",
+        "Country": "Uruguay",
+        "Favicon": "https://radiocarve.uy/wp-content/themes/carve_theme/assets/images/logo.svg",
+        "Homepage": "https://radiocarve.uy/",
+        "Source1": "https://streamingcasazorrilla.innovanexo.com:8000/radiocarve850.mp3"
+    },
+    {
+        "Title": "Radio Centenario CX36 1250 AM",
+        "Country": "Uruguay",
+        "Favicon": "https://radio36.com.uy/wp-content/uploads/2024/08/cropped-android-chrome-192x192-1-1-180x180.png",
+        "Language": "es",
+        "Homepage": "http://www.radio36.com.uy/",
+        "Source1": "http://rfm.radio.netgate.com.uy:8000/centenario"
+    },
+    {
+        "Title": "Radio Chiveo",
+        "Country": "Uruguay",
+        "Tags": "infancia,musica infantil,música para niños,niñas,niñes,niños",
+        "Favicon": "https://comodin.uy/static/uploads/chiveo/album_art.1680347629.png",
+        "Homepage": "https://comodin.uy/public/chiveo",
+        "Source1": "https://comodin.uy/listen/chiveo/320.mp3",
+        "Source2": "https://comodin.uy/listen/chiveo/128.mp3"
+    },
+    {
+        "Title": "Radio Clarin",
+        "Country": "Uruguay",
+        "Favicon": "https://radioclarin.uy/wp-content/uploads/2024/01/cropped-ic_launcher-playstore-180x180.png",
+        "Homepage": "https://radioclarin.uy/",
+        "Source1": "https://radioclarin-zikoxweb.radioca.st/stream"
+    },
+    {
+        "Title": "Radio Continental 1600 AM Pando",
+        "Country": "Uruguay",
+        "Language": "es",
+        "Homepage": "https://www.radiocontinental.com.uy/",
+        "Source1": "https://server-usa2.radioseninternet.net/9316/stream"
+    },
+    {
+        "Title": "Radio Cristal AM 1470 - Las Piedras",
+        "Country": "Uruguay",
+        "Favicon": "https://static.wixstatic.com/media/70feb5_58ac170957af42108431964e6845d606%7emv2.png/v1/fill/w_180%2ch_180%2clg_1%2cusm_0.66_1.00_0.01/70feb5_58ac170957af42108431964e6845d606%7emv2.png",
+        "Homepage": "https://radiocristaldeluruguay.com.uy/",
+        "Source1": "https://medios.ciudaddigital.com.uy:18126/CristalAM"
+    },
+    {
+        "Title": "Radio Cultura 1290 AM",
+        "Country": "Uruguay",
+        "Language": "es",
+        "Homepage": "https://mediospublicos.uy/category/radio/radio-cultura/",
+        "Source1": "https://radios.iwstreaming.uy/8034/stream"
+    },
+    {
+        "Title": "Radio Cultura AM 1280",
+        "Country": "Uruguay",
+        "Tags": "news talk",
+        "Homepage": "https://mediospublicos.uy/category/radio/radio-cultura/",
+        "Latitude": -34.89989838222927,
+        "Longitude": -56.14837646484376,
+        "Source1": "https://radios.iwstreaming.uy/8034/stream"
+    },
+    {
+        "Title": "Radio Difusora 33",
+        "Country": "Uruguay",
+        "Favicon": "https://www.cxradio.com.br/img/Radio/Logo/046315c745c9d39f5815ac5bc4ef45e3.webp",
+        "Homepage": "https://radios.com.uy/difusora-treinta-y-tres/",
+        "Source1": "https://server-usa2.radioseninternet.net/8132/stream"
+    },
+    {
+        "Title": "Radio Disney Uruguay",
+        "Country": "Uruguay",
+        "Tags": "music,pop music",
+        "Language": "es",
+        "Homepage": "https://uy.radiodisney.com/",
+        "Source1": "https://27383.live.streamtheworld.com/DISNEY_URY_MV.mp3"
+    },
+    {
+        "Title": "Radio Disney Uruguay 103.7 (AAC Stream)",
+        "Country": "Uruguay",
+        "Tags": "2000's,classic hits,music 70s 80s 90s,musica moderna,others,pop,rock",
+        "Favicon": "https://uy.radiodisney.com/favicon.ico",
+        "Language": "es",
+        "Homepage": "https://uy.radiodisney.com/",
+        "Latitude": -34.91043849412562,
+        "Longitude": -56.1706468462944,
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_URY_MVAAC.aac"
+    },
+    {
+        "Title": "Radio El Espectador",
+        "Country": "Uruguay",
+        "Homepage": "https://espectador.com/",
+        "Source1": "https://espectador-1.nty.uy/"
+    },
+    {
+        "Title": "RADIO FELICIDAD - URUGUAY",
+        "Country": "Uruguay",
+        "Favicon": "https://www.radiofelicidad.com.uy/am_felicidad.jpg",
+        "Homepage": "https://www.radiofelicidad.com.uy/",
+        "Source1": "https://medios.ciudaddigital.com.uy:18042/Felicidad"
+    },
+    {
+        "Title": "Radio Fm 99.1",
+        "Country": "Uruguay",
+        "Tags": "adult contemporary,deportes,local radio,music,música en inglés,noticias,oldies,radio hablada",
+        "Favicon": "https://www.radiofm991.com/wp-content/uploads/2022/07/117723095_3171402616247190_7121555974750199924_n-150x150.jpg",
+        "Language": "es",
+        "Homepage": "https://www.radiofm991.com/",
+        "Source1": "https://rr5100.globalhost1.com/8454/stream"
+    },
+    {
+        "Title": "Radio Futura - 91.1 FM",
+        "Country": "Uruguay",
+        "Homepage": "https://www.rf.com.uy/",
+        "Latitude": -34.884216530631484,
+        "Longitude": -56.19025111198426,
+        "Source1": "https://alba-uy-radiofutura-futura.stream.mediatiquestream.com/index.m3u8"
+    },
+    {
+        "Title": "Radio Futura - 91.1 FM",
+        "Country": "Uruguay",
+        "Favicon": "https://www.radiofutura.com.uy/icon.png",
+        "Homepage": "https://www.radiofutura.com.uy/",
+        "Latitude": -34.884228851928775,
+        "Longitude": -56.18998289108277,
+        "Source1": "https://radiolatina.live:10849/"
+    },
+    {
+        "Title": "Radio La Zurda",
+        "Country": "Uruguay",
+        "Tags": "folk,latinamerican music,local music",
+        "Language": "es",
+        "Homepage": "https://radiolazurda.com/",
+        "Latitude": -34.843112789175365,
+        "Longitude": -56.21292114257813,
+        "Source1": "https://radios.solumedia.com:6270/stream"
+    },
+    {
+        "Title": "RADIO MARIA URUGUAY",
+        "Country": "Uruguay",
+        "Tags": "catholic,religion,talk",
+        "Favicon": "https://www.radiomaria.org.uy/favicon.ico",
+        "Homepage": "https://www.radiomaria.org.uy/",
+        "Source1": "http://dreamsiteradiocp.com:8088/stream"
+    },
+    {
+        "Title": "Radio Mas FM",
+        "Country": "Uruguay",
+        "Tags": "music",
+        "Language": "es",
+        "Homepage": "https://www.radiomasfm.com/",
+        "Source1": "https://s1.radiosenialesfm.com:8020/radio.mp3"
+    },
+    {
+        "Title": "Radio Nuevo Tiempo Uruguay",
+        "Country": "Uruguay",
+        "Tags": "religious",
+        "Homepage": "https://www.nuevotiempo.org/uruguay/",
+        "Source1": "https://stream.live.novotempo.com/radio/smil:rntMontevideoUY.smil/playlist.m3u8",
+        "Source2": "https://streamradio.novotempo.com/CDN-RADIO-ES/smil:rntMontevideoUY.smil/playlist.m3u8"
+    },
+    {
+        "Title": "Radio Patria",
+        "Country": "Uruguay",
+        "Homepage": "https://www.radiopatria.com.uy/",
+        "Source1": "https://medios.ciudaddigital.com.uy:18052/PatriaAM"
+    },
+    {
+        "Title": "Radio Pedal",
+        "Country": "Uruguay",
+        "Language": "es",
+        "Homepage": "https://radiopedal.uy/",
+        "Source1": "https://streaming1.hostingmontevideo.com:7003/stream.mp3"
+    },
+    {
+        "Title": "Radio Pipí Cucú",
+        "Country": "Uruguay",
+        "Tags": "musica popular,música uruguaya",
+        "Favicon": "https://comodin.uy/static/uploads/pipi_cucu/album_art.1703858689.jpg",
+        "Language": "es",
+        "Homepage": "https://comodin.uy/",
+        "Source1": "https://comodin.uy/hls/pipi_cucu/live.m3u8"
+    },
+    {
+        "Title": "Radio Pipí Cucú",
+        "Country": "Uruguay",
+        "Tags": "argentina,brasil,música,popular,uruguay",
+        "Language": "es",
+        "Homepage": "https://fediverse.blog/~/RadioPip%C3%ADCuc%C3%BA",
+        "Source1": "https://comodin.uy/radio/8000/320.mp3"
+    },
+    {
+        "Title": "Radio Pipí Cucú (128 kbps)",
+        "Country": "Uruguay",
+        "Homepage": "https://fediverse.blog/~/RadioPip%C3%ADCuc%C3%BA",
+        "Source1": "https://comodin.uy/radio/8000/128.mp3"
+    },
+    {
+        "Title": "Radio Prado Sur",
+        "Country": "Uruguay",
+        "Tags": "ballads,classic rock,jazz,oldies,pop,pop rock",
+        "Favicon": "https://radiopradosur.com/wp-content/uploads/2022/06/cropped-faviconrps-270x270.png",
+        "Homepage": "https://radiopradosur.com/",
+        "Latitude": -34.860942307044844,
+        "Longitude": -56.20442390441895,
+        "Source1": "https://usa2.fastcast4u.com/proxy/wqzjjais?mp=/;"
+    },
+    {
+        "Title": "Radio Rivera CX144 AM 1440",
+        "Country": "Uruguay",
+        "Tags": "news talk",
+        "Homepage": "http://www.radiorivera.com.uy/",
+        "Source1": "http://usa15.ciudaddigital.com.uy:8060/RiveraAM"
+    },
+    {
+        "Title": "Radio Río Branco",
+        "Country": "Uruguay",
+        "Homepage": "https://www.radioriobranco.com.uy/",
+        "Source1": "https://medios.ciudaddigital.com.uy:18164/RioBranco"
+    },
+    {
+        "Title": "Radio San Carlos",
+        "Country": "Uruguay",
+        "Tags": "variado",
+        "Homepage": "http://radiosancarlos.uy/",
+        "Latitude": -34.799370220901615,
+        "Longitude": -54.91104125976563,
+        "Source1": "http://198.49.65.43:10396/;"
+    },
+    {
+        "Title": "Radio Señales",
+        "Country": "Uruguay",
+        "Tags": "music",
+        "Language": "es",
+        "Homepage": "https://radiosenialesfm.com/index.html",
+        "Source1": "https://s1.radiosenialesfm.com:8030/radio.mp3"
+    },
+    {
+        "Title": "Radio Uno FM",
+        "Country": "Uruguay",
+        "Language": "es",
+        "Homepage": "http://radiounofm.com.uy/",
+        "Latitude": -34.346953699933955,
+        "Longitude": -55.76395958662034,
+        "Source1": "http://radio.hostlagarto.com:9822/"
+    },
+    {
+        "Title": "Radio Uruguay 1050",
+        "Country": "Uruguay",
+        "Tags": "información,radio pública,uruguay",
+        "Language": "es",
+        "Homepage": "https://radiouruguay.uy/",
+        "Source1": "https://radios.iwstreaming.uy/8036/stream"
+    },
+    {
+        "Title": "Radio Vichadero",
+        "Country": "Uruguay",
+        "Favicon": "https://cdn.onlineradiobox.com/img/l/6/29206.v4.png",
+        "Homepage": "https://www.radiovichadero.com/",
+        "Latitude": -31.775986862452008,
+        "Longitude": -54.6886619925499,
+        "Source1": "http://204.197.245.100:9146/;"
+    },
+    {
+        "Title": "Radiocero 104.3 FM",
+        "Country": "Uruguay",
+        "Tags": "music,talk radio",
+        "Language": "es",
+        "Homepage": "https://www.radiocero.uy/",
+        "Source1": "http://streamingcasazorrilla.innovanexo.com:9000/radiocero.mp3"
+    },
+    {
+        "Title": "Radiomundo",
+        "Country": "Uruguay",
+        "Tags": "talk",
+        "Favicon": "https://enperspectiva.uy/logo_radiomundo.jpeg",
+        "Language": "es",
+        "Region": "UY-MO",
+        "Homepage": "https://enperspectiva.uy/",
+        "Latitude": -34.9055,
+        "Longitude": -56.1996,
+        "Source1": "https://stream1.enperspectiva.net:8443/radio.mp4"
+    },
+    {
+        "Title": "Radiomundo 1170 AM - En Perspectiva",
+        "Country": "Uruguay",
+        "Tags": "news",
+        "Language": "es",
+        "Homepage": "https://enperspectiva.uy/",
+        "Source1": "https://edge.mixlr.com/channel/nuuij"
+    },
+    {
+        "Title": "Sarandi 690",
+        "Country": "Uruguay",
+        "Tags": "news,talk radio",
+        "Language": "es",
+        "Homepage": "https://www.sarandi690.com.uy/",
+        "Source1": "https://radiolatina.live:10977/sarandi"
+    },
+    {
+        "Title": "Sport 890",
+        "Country": "Uruguay",
+        "Tags": "futbol",
+        "Homepage": "https://www.sport890.com.uy/",
+        "Source1": "https://alba-uy-sport890-sport890.stream.mediatiquestream.com/index.m3u8"
+    },
+    {
+        "Title": "Sport 890",
+        "Country": "Uruguay",
+        "Tags": "deportes,noticias",
+        "Favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240623_101428021.jpg?alt=media&token=4553b784-4a5a-41b8-ae80-1e11e7359772",
+        "Homepage": "https://sport890.com.uy/",
+        "Source1": "https://alba-uy-sport890-sport890.stream.mediatiquestream.com/index.m3u8"
+    },
+    {
+        "Title": "Zorrilla de San Martin",
+        "Country": "Uruguay",
+        "Tags": "classical",
+        "Source1": "https://server-usa2.radioseninternet.net/9312/stream"
+    }
+]

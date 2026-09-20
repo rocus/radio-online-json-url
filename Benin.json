@@ -1,0 +1,50 @@
+[
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "Benin",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "DIMusic Trance Club  🇧🇯",
+        "Country": "Benin",
+        "Tags": "dance,electro,trance",
+        "Favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240605_205404475.jpg?alt=media&token=7e00c4a6-0db7-4d46-a07f-986ccc98b821",
+        "Language": "en",
+        "Homepage": "http://dimusic.club/",
+        "Source1": "http://stream1.dimusic.club:11534/rw?type=.aac"
+    },
+    {
+        "Title": "ORTB Radio Bénin",
+        "Country": "Benin",
+        "Tags": "news",
+        "Favicon": "https://srtb.bj/wp-content/uploads/2024/08/BANNIERE-SITE-RADIO-BENIN-mod.jpg",
+        "Language": "fr",
+        "Homepage": "https://srtb.bj/",
+        "Latitude": 9.36540155366242,
+        "Longitude": 2.5285720825195317,
+        "Source1": "https://listen.radioking.com/radio/47608/stream/84430"
+    },
+    {
+        "Title": "ORTB Radio Parakou",
+        "Country": "Benin",
+        "Tags": "music,news",
+        "Favicon": "https://srtb.bj/wp-content/uploads/2024/07/BANNIERE-SITE-RADIO-PARAKOU.jpg",
+        "Language": "fr",
+        "Homepage": "https://ortb.bj/radioparakou.html",
+        "Latitude": 9.382804217392255,
+        "Longitude": 2.511287927627564,
+        "Source1": "https://listen.radioking.com/radio/51919/stream/88927"
+    },
+    {
+        "Title": "Radio Cotonou 94.3",
+        "Country": "Benin",
+        "Tags": "african music,general",
+        "Favicon": "https://www.facebook.com/favicon.ico",
+        "Language": "fr",
+        "Homepage": "https://www.facebook.com/radiocotonou",
+        "Source1": "https://stream.zeno.fm/o9bspgm4y78vv"
+    }
+]

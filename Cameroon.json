@@ -1,0 +1,51 @@
+[
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "Cameroon",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "Balla Radio",
+        "Country": "Cameroon",
+        "Tags": "african music",
+        "Favicon": "https://www.radio.net/images/broadcasts/66/61/27507/c300.png",
+        "Language": "en,fr",
+        "Homepage": "http://ballaradio.com/",
+        "Source1": "http://167.114.11.79:5730/;stream/1"
+    },
+    {
+        "Title": "CRTV Radio",
+        "Country": "Cameroon",
+        "Tags": "music,news",
+        "Favicon": "https://radioenlignefrance.com/storage/radios/6885/8855/conversions/DkvJakmCUOOuVMaiESwrtRtXbTOkl6-metaQ1JUVi1SYWRpby5qcGc=--lg.webp",
+        "Language": "fr",
+        "Homepage": "https://www.crtv.cm/",
+        "Source1": "https://listen.radioking.com/radio/39218/stream/75659"
+    },
+    {
+        "Title": "Equinoxe Radio",
+        "Country": "Cameroon",
+        "Tags": "electronic",
+        "Homepage": "http://www.radioequinoxe.com/",
+        "Source1": "https://listen.radioking.com/radio/39218/stream/76118"
+    },
+    {
+        "Title": "Globe 360 Radio",
+        "Country": "Cameroon",
+        "Tags": "actualités,afrique international bilingue,geopolitique",
+        "Language": "en,fr",
+        "Homepage": "http://139.84.240.171:8000/",
+        "Latitude": 4.577398146550086,
+        "Longitude": 11.325685511339108,
+        "Source1": "http://139.84.240.171:8000/globe360"
+    },
+    {
+        "Title": "Mmuock Community Radio",
+        "Country": "Cameroon",
+        "Homepage": "https://radio.mmuock.info/",
+        "Source1": "https://a7.asurahosting.com/listen/mmuock_community_radio_/radio.mp3"
+    }
+]

@@ -1,0 +1,156 @@
+[
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "Angola",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "Absolute country",
+        "Country": "Angola",
+        "Tags": "country",
+        "Language": "en",
+        "Homepage": "http://strm112.1.fm/acountry_mobile_mp3",
+        "Source1": "http://strm112.1.fm/acountry_mobile_mp3"
+    },
+    {
+        "Title": "AfriRádio",
+        "Country": "Angola",
+        "Language": "pt",
+        "Homepage": "https://afriradio.co.ao/",
+        "Latitude": -8.82981718021374,
+        "Longitude": 13.227281570434572,
+        "Source1": "https://cast4.asurahosting.com/proxy/afriradi/stream"
+    },
+    {
+        "Title": "Ebnézer Rádio",
+        "Country": "Angola",
+        "Tags": "religion",
+        "Language": "pt",
+        "Homepage": "http://www.shaloministerio.org/",
+        "Source1": "http://08.stmip.net:10028/;;"
+    },
+    {
+        "Title": "EXA FM: Música pop em inglês e espanhol",
+        "Country": "Angola",
+        "Favicon": "https://i.iheart.com/v3/re/new_assets/5f9883c7cde5eff19e6eabac",
+        "Language": "es",
+        "Homepage": "https://www.exafm.com/veracruz/",
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac"
+    },
+    {
+        "Title": "LOVE FM:  Músicas pop espanholas clássicas dos anos 80, 90 e 2000",
+        "Country": "Angola",
+        "Favicon": "https://i.postimg.cc/pd2qpS5j/lovefm1037.jpg",
+        "Homepage": "https://maxplay.com.mx/",
+        "Source1": "https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8"
+    },
+    {
+        "Title": "Powermix FM",
+        "Country": "Angola",
+        "Tags": "90s dance",
+        "Homepage": "https://powermixfm.com/",
+        "Source1": "https://cast.iplayradio.net/listen/powermixfm/stream"
+    },
+    {
+        "Title": "Radio Bairro de Angola",
+        "Country": "Angola",
+        "Tags": "variety",
+        "Favicon": "https://postimg.cc/5HR8nS0W",
+        "Language": "en,pt",
+        "Homepage": "https://player.xradios.com.br/player-home-page/6794",
+        "Source1": "https://stm4.xradios.com.br:6794/stream"
+    },
+    {
+        "Title": "Radio Jihenda",
+        "Country": "Angola",
+        "Tags": "african music,flashback,salsa",
+        "Favicon": "https://minhawebradio.com/contents/14886/cover/xm126892c1bc31f36300a057381855f3ab_14886_1750685385.png",
+        "Homepage": "https://radiojihenda.com/",
+        "Latitude": -11.39118676704614,
+        "Longitude": 18.369140625000004,
+        "Source1": "https://s02.brascast.com:7830/live"
+    },
+    {
+        "Title": "Radio Kuia Bue",
+        "Country": "Angola",
+        "Tags": "african music,salsa",
+        "Favicon": "https://blogger.googleusercontent.com/img/a/AVvXsEjaxhBAuprxwqueMvQ9jmw8MD5rxew5OUYBENkO36-lOsH4bgVHalTTHO_O-mSgXnyTKK5-K97ZXQJ7LOn3FUjlOFsUv-cRszHhFPbyG_dbU4dUsRzOxjzTiiMefGk4cBMR48K1VrVqPa5GMKjA2N0qbBtWIsY_yI0CISj4u0z0UXLWujPAVDkBylI9Or4=s495",
+        "Homepage": "https://radiokuiabue.us/",
+        "Latitude": -11.21881617411406,
+        "Longitude": 18.896484375000004,
+        "Source1": "https://a11.asurahosting.com:7400/radio.aac"
+    },
+    {
+        "Title": "Radio Luanda",
+        "Country": "Angola",
+        "Homepage": "https://rna.ao/",
+        "Latitude": -8.826883152309717,
+        "Longitude": 13.235435485839846,
+        "Source1": "https://www.radios.com.br/play/playlist/9905/listen-radio.m3u"
+    },
+    {
+        "Title": "Radio Rashi",
+        "Country": "Angola",
+        "Tags": "broken beat,djaz,foklore,folk,muzică populară,pop,regional music,regional radio,rnb",
+        "Favicon": "https://imgur.com/totzCmb",
+        "Homepage": "https://radiorashi.alle.bg/",
+        "Source1": "https://s2.free-shoutcast.com/stream/18214"
+    },
+    {
+        "Title": "RNA - Canal A",
+        "Country": "Angola",
+        "Favicon": "https://pcradio.app/images/stations/61b09c9d4e570.jpg",
+        "Homepage": "https://pcradio.app/radio/rna-canal-a",
+        "Source1": "https://stream.pcradio.ru/rna_canala-med"
+    },
+    {
+        "Title": "Rádio Fé Angola",
+        "Country": "Angola",
+        "Tags": "religião",
+        "Favicon": "https://zeno.fm/favicon.ico",
+        "Language": "pt",
+        "Homepage": "https://zeno.fm/radio/radio-fe-angola/",
+        "Latitude": -10.445241337215023,
+        "Longitude": 17.601529955863956,
+        "Source1": "http://stream.zeno.fm/gsndh1xvczetv"
+    },
+    {
+        "Title": "Rádio Mais",
+        "Country": "Angola",
+        "Homepage": "https://www.radiomais.ao/",
+        "Latitude": -8.834346722176308,
+        "Longitude": 13.23680877685547,
+        "Source1": "https://www.radios.com.br/play/playlist/222590/listen-radio.m3u"
+    },
+    {
+        "Title": "Rádio MFM Angola",
+        "Country": "Angola",
+        "Homepage": "https://radiomfmangola.com/",
+        "Latitude": -11.961948267201173,
+        "Longitude": 18.742675781250004,
+        "Source1": "https://centova87.instainternet.com/proxy/mfm?mp=/stream"
+    },
+    {
+        "Title": "Rádio Vibrar Angola",
+        "Country": "Angola",
+        "Tags": "mundo,versaty",
+        "Favicon": "https://sites.google.com/view/radiobairrodeangola",
+        "Language": "en",
+        "Homepage": "https://sites.google.com/view/radiobairrodeangola",
+        "Latitude": -12.38982657630846,
+        "Longitude": 16.941143904026088,
+        "Source1": "https://cp-1.owh.radio.br/listen/r%C3%A1dio_vibrar_angola/radio-mp3"
+    },
+    {
+        "Title": "Rádio Vibrar Angola",
+        "Country": "Angola",
+        "Favicon": "https://im.ge/i/file-00000000cb707243bd019d75f481bf60-QMpk6Ap",
+        "Homepage": "https://radiovibrarangola-com.netlify.app/",
+        "Latitude": -12.443357407333416,
+        "Longitude": 16.943486313068743,
+        "Source1": "https://stream.zeno.fm/ousf94tzyhkuv"
+    }
+]

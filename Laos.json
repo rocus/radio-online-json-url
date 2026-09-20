@@ -1,0 +1,30 @@
+[
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "Laos",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "Lao National Radio 103.7",
+        "Country": "Laos",
+        "Favicon": "https://lnr.org.la/wp-content/uploads/2021/02/Radio-Logo-lnr01-300x300.png",
+        "Homepage": "https://lnr.org.la/",
+        "Source1": "https://radio.lnr.org.la/fm103"
+    },
+    {
+        "Title": "Lao National Radio 94.3",
+        "Country": "Laos",
+        "Favicon": "https://lnr.org.la/wp-content/uploads/2021/02/Radio-Logo-lnr01-300x300.png",
+        "Homepage": "https://lnr.org.la/",
+        "Source1": "https://radio.lnr.org.la/fm94"
+    },
+    {
+        "Title": "Toki Pona Radio",
+        "Country": "Laos",
+        "Homepage": "https://kute.pona.la/",
+        "Source1": "https://kute.pona.la/stream/tpr"
+    }
+]

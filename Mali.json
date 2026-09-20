@@ -1,0 +1,123 @@
+[
+    {
+        "Title": "Kalux FM Bamako",
+        "Country": "Mali",
+        "Tags": "african music",
+        "Favicon": "https://www.lwshosting.name/img/faviconlws.png",
+        "Language": "bm,fr",
+        "Homepage": "https://kaluxfm.blogspot.com/",
+        "Source1": "http://stream.zeno.fm/kgadkjdbexqtv"
+    },
+    {
+        "Title": "Noura FM 94.5 Bamako",
+        "Country": "Mali",
+        "Tags": "african music",
+        "Favicon": "https://www.facebook.com/favicon.ico",
+        "Language": "bm,fr",
+        "Homepage": "https://www.facebook.com/radionourafm/",
+        "Source1": "https://stream-151.zeno.fm/60x209af8e9uv"
+    },
+    {
+        "Title": "Radio Bougouni Kunkan 102.9",
+        "Country": "Mali",
+        "Tags": "african music",
+        "Favicon": "https://www.facebook.com/favicon.ico",
+        "Language": "bm,fr",
+        "Homepage": "https://www.facebook.com/bugunikunkan/",
+        "Source1": "https://stream.zeno.fm/x3gb8t9nzk0uv"
+    },
+    {
+        "Title": "Radio Fréquence 3 93.8 Bamako",
+        "Country": "Mali",
+        "Tags": "music",
+        "Favicon": "http://africaliveradios.com/img/radio_icon/9f373cf641d9a0919e3c9e5a8e4b6b32.png",
+        "Language": "fr",
+        "Homepage": "https://www.facebook.com/profile.php?id=100063945637574",
+        "Source1": "http://ice.stream.frequence3.net/frequence3-64.aac"
+    },
+    {
+        "Title": "Radio Kassara Barikama 107.4 Kayes",
+        "Country": "Mali",
+        "Tags": "african music,talk",
+        "Language": "bm,fr",
+        "Homepage": "https://www.facebook.com/kassara.barikama.3",
+        "Source1": "https://stream.zeno.fm/0ef19uaxh4duv"
+    },
+    {
+        "Title": "Radio Kledu",
+        "Country": "Mali",
+        "Tags": "african,bamako,culture,music",
+        "Language": "bm,fr",
+        "Homepage": "https://info-mali.com/",
+        "Latitude": 12.645296283722566,
+        "Longitude": -8.002973584940053,
+        "Source1": "https://stream.zeno.fm/f38bxpt3v2quv"
+    },
+    {
+        "Title": "Radio Kledu 101.2",
+        "Country": "Mali",
+        "Favicon": "https://static-media.streema.com/media/cache/50/01/5001b701398eeea139659d36c8970979.jpg",
+        "Homepage": "http://www.info-mali.com/",
+        "Source1": "https://www.surfmusic.de/m3u/radio-kledu-101-2-fm,20465.m3u"
+    },
+    {
+        "Title": "Radio Madjoura Nourou Dine Touba",
+        "Country": "Mali",
+        "Favicon": "https://static-media.streema.com/media/cache/14/f2/14f220fbd1700ed010689ee913a84771.jpg",
+        "Homepage": "http://www.madjoura.com/",
+        "Source1": "https://stream.zeno.fm/kgnvaarqu0quv"
+    },
+    {
+        "Title": "Radio Malijet",
+        "Country": "Mali",
+        "Tags": "african music",
+        "Favicon": "https://www.facebook.com/favicon.ico",
+        "Language": "bm,fr",
+        "Homepage": "https://www.facebook.com/malijetactu/",
+        "Source1": "https://stream-157.zeno.fm/yerp85sughwtv?zs=bzqHawb1Rha3gGg97iW8xg"
+    },
+    {
+        "Title": "Radio Miracle FM Bougouni",
+        "Country": "Mali",
+        "Tags": "african music",
+        "Favicon": "https://www.facebook.com/favicon.ico",
+        "Language": "bm,fr",
+        "Homepage": "https://www.facebook.com/profile.php?id=100068696658269&paipv=0&eav=AfYmR1BB0kBc9MG33cOZrpKXqrNJd0NwZsOI6jt9hGRkcEaMAW-onNwEolbAL4JRePM",
+        "Source1": "https://stream.zeno.fm/hpi2qbj1hh8vv"
+    },
+    {
+        "Title": "Radio Neneba FM 97.7 Markala",
+        "Country": "Mali",
+        "Tags": "african music",
+        "Language": "bm,fr",
+        "Homepage": "https://nenebafm.info/",
+        "Source1": "https://stream.zeno.fm/e9xqg1ah22quv"
+    },
+    {
+        "Title": "Radio Tissa la Voix du Mamelon 99.7 FM",
+        "Country": "Mali",
+        "Tags": "african music,bamako",
+        "Favicon": "https://www.facebook.com/favicon.ico",
+        "Language": "bm,fr",
+        "Homepage": "https://www.facebook.com/p/Radio-Tissa-La-Voix-Du-Mamelon-100085167473617/?paipv=0&eav=AfZkqlcEeZnMxQwXEH4k2vYeIH_jletL8PHhIMY4201Iq0-QOQzHUbMft2r50P_RBlU&_rdr",
+        "Source1": "https://stream.zeno.fm/s8ng63k4tchvv"
+    },
+    {
+        "Title": "Radio Woyowayanko 93.0 Bamako",
+        "Country": "Mali",
+        "Tags": "african music",
+        "Favicon": "https://zeno.fm/favicon.ico",
+        "Language": "bm,fr",
+        "Homepage": "https://zeno.fm/radio/radio-woyowayanko/",
+        "Source1": "https://stream.zeno.fm/1mr8wdywz68uv"
+    },
+    {
+        "Title": "Radio Yélé Sagabali La Voix Du Beledougou",
+        "Country": "Mali",
+        "Tags": "african music",
+        "Favicon": "https://zeno.fm/favicon.ico",
+        "Language": "bm,fr",
+        "Homepage": "https://zeno.fm/radio/radio-yele-sagabali-la-voix-du-beledougou/",
+        "Source1": "https://stream.zeno.fm/au9gskurq0hvv"
+    }
+]

@@ -1,0 +1,4138 @@
+[
+    {
+        "Title": "\"name\": \"'undefined' -> 'AFN 360 Benelux'\",",
+        "Country": "Belgium",
+        "Tags": "american forces network",
+        "Language": "en",
+        "Homepage": "http://playerservices.strhttp//www.afneurope.net/AFN-360/",
+        "Source1": "http://playerservices.streamtheworld.com/m3u/AFNE_BLX.m3u"
+    },
+    {
+        "Title": "' t Is Vloms Affligem, be",
+        "Country": "Belgium",
+        "Homepage": "https://tisvloms.eu/",
+        "Source1": "http://bluford.torontocast.com:8093/stream",
+        "Source2": "https://bluford.torontocast.com/proxy/iimfoptl/stream"
+    },
+    {
+        "Title": "'t Is Vloms",
+        "Country": "Belgium",
+        "Tags": "folk,folklore,nederlandstalig",
+        "Favicon": "https://tisvloms.eu/wp-content/uploads/2017/10/tis-vloms-logo-400.png",
+        "Language": "nl",
+        "Homepage": "https://tisvloms.eu/",
+        "Latitude": 43.657471302616834,
+        "Longitude": -79.39407348632814,
+        "Source1": "https://bluford.torontocast.com/proxy/iimfoptl/stream"
+    },
+    {
+        "Title": "'t Is Vloms - Affligem,. be (n.s.)",
+        "Country": "Belgium",
+        "Tags": "vlaamse muziek",
+        "Language": "nl",
+        "Homepage": "https://tisvloms.eu/",
+        "Latitude": 50.924274019812586,
+        "Longitude": 4.113942274085924,
+        "Source1": "https://cast1.torontocast.com:4605/stream"
+    },
+    {
+        "Title": "'tis Vloms - Affligem, be (ns)",
+        "Country": "Belgium",
+        "Tags": "local radio,pop",
+        "Language": "nl",
+        "Homepage": "https://cast1.torontocast.com:4605/stream",
+        "Latitude": 50.91285218147863,
+        "Longitude": 4.113618350560323,
+        "Source1": "https://cast1.torontocast.com:4605/stream"
+    },
+    {
+        "Title": "100% Retro",
+        "Country": "Belgium",
+        "Favicon": "https://www.starradio.online/favicon-194x194.png?v=0.3.0",
+        "Homepage": "https://www.starradio.online/",
+        "Source1": "https://server.musicstars.online/radio/8000/listen"
+    },
+    {
+        "Title": "100% Retro Starradio",
+        "Country": "Belgium",
+        "Homepage": "https://www.starradio.online/",
+        "Source1": "https://server.musicstars.online/radio/8000/listen"
+    },
+    {
+        "Title": "100,5",
+        "Country": "Belgium",
+        "Language": "de",
+        "Homepage": "http://www.dashitradio.de/",
+        "Source1": "http://stream.dashitradio.de/dashitradio/aac-48/stream.mp3"
+    },
+    {
+        "Title": "100,5 Das Hitradio",
+        "Country": "Belgium",
+        "Tags": "hits,lederland,news,pop,rock",
+        "Favicon": "http://www.dashitradio.de/favicon.ico",
+        "Language": "de",
+        "Homepage": "http://www.dashitradio.de/",
+        "Source1": "http://stream.dashitradio.de/dashitradio/aac-48/stream.mp3"
+    },
+    {
+        "Title": "10584",
+        "Country": "Belgium",
+        "Language": "nl",
+        "Homepage": "http://s1.voscast.com:10584/stream",
+        "Source1": "http://s1.voscast.com:10584/stream"
+    },
+    {
+        "Title": "2dance",
+        "Country": "Belgium",
+        "Tags": "dance music",
+        "Language": "en",
+        "Homepage": "https://onlineradiobox.com/be/goldies4u/?cs=be.goldies4u&played=1&lang=en",
+        "Source1": "https://webradiobe.be/listen/2dance/2dance128.mp3"
+    },
+    {
+        "Title": "48FM",
+        "Country": "Belgium",
+        "Favicon": "https://48fm.com/wp-content/uploads/48FM_Logo_header-site.png",
+        "Homepage": "https://48fm.com/",
+        "Source1": "https://stream.48fm.com:8000/listen"
+    },
+    {
+        "Title": "8090rocks",
+        "Country": "Belgium",
+        "Favicon": "https://img1.wsimg.com/isteam/ip/405836de-9b54-4347-a9dd-4870992390f3/logo%20square%20390%20X%20388.png/:/rs=w:105,h:104,cg:true,m/cr=w:105,h:104/qt=q:100/ll",
+        "Homepage": "https://8090.rocks/home",
+        "Source1": "https://radio.8090rocks.com/"
+    },
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "Belgium",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "Accent Radio",
+        "Country": "Belgium",
+        "Favicon": "https://www.radioaccent.be/apple-touch-icon.png",
+        "Language": "nl",
+        "Homepage": "https://www.radioaccent.be/",
+        "Latitude": 51.005088697532535,
+        "Longitude": 3.885984420776368,
+        "Source1": "https://www.clubfmserver.be/accent.mp3"
+    },
+    {
+        "Title": "AFN 360 Benelux",
+        "Country": "Belgium",
+        "Tags": "pop,rock,top40",
+        "Language": "en",
+        "Homepage": "https://www.afneurope.net/Stations/Benelux/msclkid/7338843bcfad11ecae7c71e22599f1cc/",
+        "Latitude": 50.57486349859909,
+        "Longitude": 4.825194776058198,
+        "Source1": "http://playerservices.streamtheworld.com/m3u/AFNE_BLX.m3u"
+    },
+    {
+        "Title": "Afrikana Radio – Live African",
+        "Country": "Belgium",
+        "Homepage": "https://www.afrikanabestsounds.com/",
+        "Latitude": 50.8418155170503,
+        "Longitude": 4.352302551269532,
+        "Source1": "https://admin.afrikanabestsounds.com/listen/live_african/radio.mp3",
+        "Source2": "https://radio.afrikanabestsounds.com/listen/live_african/radio.mp3"
+    },
+    {
+        "Title": "Ajoin Music",
+        "Country": "Belgium",
+        "Tags": "carnaval",
+        "Favicon": "https://www.ajoinmusic.be/",
+        "Homepage": "https://www.ajoinmusic.be/",
+        "Latitude": 50.93836217337773,
+        "Longitude": 4.039170086581302,
+        "Source1": "https://play.ajoinmusic.be/ajoinmusic.mp3"
+    },
+    {
+        "Title": "ANTIPODE",
+        "Country": "Belgium",
+        "Favicon": "https://www.antipode.be/images/antipode-red.png",
+        "Homepage": "https://www.antipode.be/",
+        "Source1": "https://streaming.antipode.be/antipode.mp3?rp_source=1&=&&___cb=389966099991420"
+    },
+    {
+        "Title": "Antipode",
+        "Country": "Belgium",
+        "Tags": "belgium,french,louvain-la-neuve,wallonia",
+        "Language": "fr",
+        "Homepage": "http://antipode.be/",
+        "Source1": "https://streaming.antipode.be/antipode.mp3"
+    },
+    {
+        "Title": "Antipode",
+        "Country": "Belgium",
+        "Homepage": "https://antipode.be/",
+        "Source1": "https://antipode.be/"
+    },
+    {
+        "Title": "AudioDrama Radio",
+        "Country": "Belgium",
+        "Favicon": "https://media.audiodrama.com/2026/01/10142806/cropped-Copy-of-AUDIODRAMA-1000-x-1000-px_20260123_171114_0000-180x180.png",
+        "Homepage": "https://www.audiodrama.com/",
+        "Source1": "https://fritske.be:8000/stream"
+    },
+    {
+        "Title": "Be One - Xmas",
+        "Country": "Belgium",
+        "Homepage": "https://www.xmasfm.be/",
+        "Source1": "http://live.radiostudio.be/beonexmas"
+    },
+    {
+        "Title": "Bel RTL",
+        "Country": "Belgium",
+        "Tags": "généraliste",
+        "Favicon": "https://rtlmedias.rtl.be/GED/webradios/logo_belrtl.png",
+        "Homepage": "https://www.belrtl.be/index-bel-rtl.htm",
+        "Source1": "http://broadcast.infomaniak.ch/belrtl-mp3-192.mp3"
+    },
+    {
+        "Title": "Bel RTL",
+        "Country": "Belgium",
+        "Favicon": "https://www.rtl.be/favicon.ico",
+        "Language": "fr",
+        "Homepage": "https://www.rtl.be/belrtl/index-bel-rtl.htm",
+        "Source1": "http://belrtl.ice.infomaniak.ch/belrtl-mp3-192.mp3"
+    },
+    {
+        "Title": "Belgian Dance Radio",
+        "Country": "Belgium",
+        "Homepage": "https://belgian-dance-radio.com/",
+        "Source1": "https://s4.radio.co/sf5a880a25/listen"
+    },
+    {
+        "Title": "BEST OLDIES RADIO (BOR)",
+        "Country": "Belgium",
+        "Favicon": "https://impro.usercontent.one/appid/oneComWsb/domain/bestoldiesstation.com/media/bestoldiesstation.com/onewebmedia/BOR%20radio%20%20transparant%20favicon.png?etag=%222260-66d60cec%22&sourceContentType=image%2Fpng",
+        "Homepage": "https://www.bestoldiesstation.com/",
+        "Source1": "https://a8.asurahosting.com:8090/radio.mp3"
+    },
+    {
+        "Title": "Best Oldies Radio 2 THC",
+        "Country": "Belgium",
+        "Homepage": "https://www.bestoldiesradio.net/",
+        "Source1": "https://custom-azura1.asurahosting.com/listen/best_oldies_radio_2/radio.mp3"
+    },
+    {
+        "Title": "BNL",
+        "Country": "Belgium",
+        "Tags": "alternative,culture,rock",
+        "Favicon": "https://bnlradio.be/wp-content/uploads/2025/11/logo_trans_vierkant.png",
+        "Language": "nl",
+        "Homepage": "https://bnlradio.be/",
+        "Latitude": 51.049641988801255,
+        "Longitude": 5.147770643234254,
+        "Source1": "https://stream.bnlradio.be/stream.mp3"
+    },
+    {
+        "Title": "Boo",
+        "Country": "Belgium",
+        "Tags": "music",
+        "Language": "nl",
+        "Homepage": "http://www.radioboo.be/",
+        "Source1": "http://stream03.level27.be/;stream.mp3"
+    },
+    {
+        "Title": "Boo 105.1 FM - Bilzen, be",
+        "Country": "Belgium",
+        "Homepage": "http://www.radioboo.be/",
+        "Source1": "http://stream03.level27.be/;stream.mp3"
+    },
+    {
+        "Title": "Boutersem On Air",
+        "Country": "Belgium",
+        "Tags": "classic hits,dance,nederlandstalig,pop,rock,schlager",
+        "Homepage": "https://www.boutersemonair.be/",
+        "Latitude": 50.83841694958833,
+        "Longitude": 4.8334693908691415,
+        "Source1": "https://135.125.183.109/listen/boutersemonair/radio.mp3"
+    },
+    {
+        "Title": "BRF1",
+        "Country": "Belgium",
+        "Tags": "regional",
+        "Favicon": "https://1.brf.be/wp-content/themes/pixelpress/dist/assets/images/2/icons/apple-icon-120x120.png",
+        "Language": "de",
+        "Homepage": "http://1.brf.be/",
+        "Source1": "http://streaming.brf.be/brf1-high.mp3"
+    },
+    {
+        "Title": "BRF1 Radio",
+        "Country": "Belgium",
+        "Favicon": "https://brf.be/wp-content/themes/pixelpress/dist/assets/images/1/icons/apple-icon-180x180.png",
+        "Homepage": "https://brf.be/",
+        "Source1": "https://streaming.brf.be/brf1-high.mp3"
+    },
+    {
+        "Title": "BRF1 Radio",
+        "Country": "Belgium",
+        "Favicon": "https://1.brf.be/favicon.ico",
+        "Language": "de,fr,nl",
+        "Homepage": "https://1.brf.be/",
+        "Source1": "https://streaming.brf.be/brf1-high.mp3"
+    },
+    {
+        "Title": "BRF2",
+        "Country": "Belgium",
+        "Tags": "schlager",
+        "Favicon": "http://2.brf.be/favicon.ico",
+        "Language": "de",
+        "Homepage": "http://2.brf.be/",
+        "Source1": "http://streaming.brf.be/brf2-high.mp3"
+    },
+    {
+        "Title": "BRF2 Radio",
+        "Country": "Belgium",
+        "Favicon": "https://brf.be/wp-content/themes/pixelpress/dist/assets/images/1/icons/apple-icon-180x180.png",
+        "Homepage": "https://brf.be/",
+        "Source1": "https://streaming.brf.be/brf2-high.mp3"
+    },
+    {
+        "Title": "BRF2 Radio",
+        "Country": "Belgium",
+        "Favicon": "https://2.brf.be/wp-content/themes/pixelpress/dist/assets/images/3/icons/apple-icon-120x120.png",
+        "Language": "de,fr,nl",
+        "Homepage": "https://2.brf.be/",
+        "Source1": "https://streaming.brf.be/brf2-high.mp3"
+    },
+    {
+        "Title": "Bruzz",
+        "Country": "Belgium",
+        "Favicon": "https://www.bruzz.be/themes/custom/drupack/favicons/apple-touch-icon.png",
+        "Homepage": "https://www.bruzz.be/",
+        "Source1": "https://rrr.sz.xlcdn.com/?account=fmbrussel&file=fmb988.mp3&type=live&service=icecast&protocol=https&port=8000&output=pls"
+    },
+    {
+        "Title": "BRUZZ",
+        "Country": "Belgium",
+        "Favicon": "https://play-lh.googleusercontent.com/f57H5FZt9ZyztXUDWFOz0BiO56m7k8tlZWozFWq-BAgWv7z03N13rhcKfouB29gzy8y8=w480-h960-rw",
+        "Homepage": "https://www.bruzz.be/live/popup/#/bruzz/listen",
+        "Source1": "https://ice.cr6.streamzilla.xlcdn.com:8000/sz=fmbrussel=fmb988.mp3"
+    },
+    {
+        "Title": "BUZZ RADIO",
+        "Country": "Belgium",
+        "Favicon": "https://www.buzzradio.be/wp-content/uploads/2015/04/Buzzban.png",
+        "Homepage": "https://www.buzzradio.be/",
+        "Source1": "https://buzzradio.ice.infomaniak.ch/buzzradio-128.mp3?ua=Buzz%20Radio%20-%20audio%20player%201"
+    },
+    {
+        "Title": "BX1",
+        "Country": "Belgium",
+        "Favicon": "https://bx1.be/apple-touch-icon.png",
+        "Homepage": "https://bx1.be/",
+        "Source1": "https://bx1radio.ice.infomaniak.ch/bx1radio.mp3?4376"
+    },
+    {
+        "Title": "c-dance retro",
+        "Country": "Belgium",
+        "Tags": "90",
+        "Favicon": "null",
+        "Homepage": "https://s45.myradiostream.com/:18304/;",
+        "Source1": "https://s45.myradiostream.com/:18304/;"
+    },
+    {
+        "Title": "c_dance",
+        "Country": "Belgium",
+        "Tags": "retro",
+        "Homepage": "http://198.100.145.187:18304/;",
+        "Source1": "http://198.100.145.187:18304/;"
+    },
+    {
+        "Title": "Candie",
+        "Country": "Belgium",
+        "Favicon": "https://candie.eu/wp-content/uploads/2023/07/candie_logo_trans@4x-768x333.png",
+        "Homepage": "https://candie.eu/",
+        "Source1": "https://clubfmserver.be/pink.mp3"
+    },
+    {
+        "Title": "Charleking Radio",
+        "Country": "Belgium",
+        "Tags": "adult contemporary,adult hits,hits,pop,pop music",
+        "Language": "fr",
+        "Homepage": "http://radiocharleking.be/",
+        "Source1": "http://charlekingradio.ice.infomaniak.ch/ckradio-192.mp3"
+    },
+    {
+        "Title": "Chillout CROOZE",
+        "Country": "Belgium",
+        "Favicon": "https://crooze.fm/favicon.ico",
+        "Homepage": "https://crooze.fm/streams/chillout/",
+        "Source1": "http://streams.crooze.fm:8006/stream/1/"
+    },
+    {
+        "Title": "Chérie Belgique",
+        "Country": "Belgium",
+        "Tags": "64kbps,aac,lovesongs,soft pop",
+        "Favicon": "https://www.cheriebelgique.be/build/images/favicon.png",
+        "Language": "fr",
+        "Homepage": "https://www.cheriebelgique.be/",
+        "Latitude": 50.8588627889988,
+        "Longitude": 4.412834644317628,
+        "Source1": "https://stream.rcs.revma.com/r3cprzsqtg0uv"
+    },
+    {
+        "Title": "CityMusic",
+        "Country": "Belgium",
+        "Tags": "aalst,local radio,pop music",
+        "Favicon": "https://citymusic.be/wp-content/uploads/2024/12/City_music_logo-hr-150.jpg",
+        "Language": "nl",
+        "Homepage": "https://citymusic.be/",
+        "Latitude": 50.93860995729761,
+        "Longitude": 4.039363861083985,
+        "Source1": "http://play.citymusic.be/citymusic.mp3"
+    },
+    {
+        "Title": "CK Bleu",
+        "Country": "Belgium",
+        "Tags": "classic rock,pop rock,popular",
+        "Favicon": "https://www.ck-radio.com/upload/5fd8b3b7c4c2b2.18853261.ico",
+        "Homepage": "https://www.ck-radio.com/",
+        "Source1": "https://mixmyday.ice.infomaniak.ch/ckbleu.mp3"
+    },
+    {
+        "Title": "CK Deejay",
+        "Country": "Belgium",
+        "Tags": "club house trance dance,deejay remix,disco,electronic music,eurodance",
+        "Favicon": "https://radio-pub.be/CKDJ/CK%20DJ'smix.png",
+        "Homepage": "https://www.ckradio.be/",
+        "Source1": "https://radio-pub.be/CKDJ/ckdjmix.mp3"
+    },
+    {
+        "Title": "CK Radio",
+        "Country": "Belgium",
+        "Tags": "charleking,charleroi,dance,dj mixes,house,pop,techno",
+        "Favicon": "http://www.ck-radio.com/upload/design/65e9f581394a33.38466363.png",
+        "Homepage": "http://www.ck-radio.com/",
+        "Latitude": 50.411766641013806,
+        "Longitude": 4.444508457374501,
+        "Source1": "https://charlekingradio.ice.infomaniak.ch/charlekingradio.mp3"
+    },
+    {
+        "Title": "CK RADIO Belgique",
+        "Country": "Belgium",
+        "Favicon": "https://radio-pub.be/CKRADIO/CK%20RADIO%20Officiel.png",
+        "Homepage": "https://www.ck-radio.com/",
+        "Source1": "https://charlekingradio.ice.infomaniak.ch/ckradio-192.mp3"
+    },
+    {
+        "Title": "Classic 21 80's New Wave",
+        "Country": "Belgium",
+        "Tags": "1980's,new wave",
+        "Favicon": "https://static.mytuner.mobi/media/tvos_radios/m4US9L9A3g.jpg",
+        "Homepage": "https://www.rtbf.be/radio/liveradio/classic21_80_new_wave",
+        "Source1": "https://redbeemedia.streamabc.net/redbm-c2180snw-mp3-128-2391383?sABC=65084369%230%232qqpnss01895rqr0s8oq129o03s183o0%23zr&aw_0_1st.playerid=me&amsparams=playerid:me;skey:1695040361"
+    },
+    {
+        "Title": "Classic 21 80's New Wave",
+        "Country": "Belgium",
+        "Tags": "80's,new wave",
+        "Favicon": "https://www.rtbf.be/favicon.ico",
+        "Language": "fr",
+        "Homepage": "https://www.rtbf.be/classic21",
+        "Latitude": 50.85264410246763,
+        "Longitude": 4.402896835636057,
+        "Source1": "https://radio.rtbf.be/c21-80nw/mp3-128/me"
+    },
+    {
+        "Title": "Classic 21 80’s Hits",
+        "Country": "Belgium",
+        "Tags": "80's,pop,rock",
+        "Favicon": "https://www.rtbf.be/favicon.ico",
+        "Language": "fr",
+        "Homepage": "https://www.rtbf.be/classic21",
+        "Latitude": 50.85257186865885,
+        "Longitude": 4.402885296603928,
+        "Source1": "https://radio.rtbf.be/c21-80s/mp3-128/me"
+    },
+    {
+        "Title": "Classic 21 Blues",
+        "Country": "Belgium",
+        "Tags": "classic blues",
+        "Favicon": "http://www.rtbfradioplayer.be/favicon.ico",
+        "Homepage": "http://www.rtbfradioplayer.be/",
+        "Source1": "https://radios.rtbf.be/wr-c21-blues-128.mp3",
+        "Source2": "http://radios.rtbf.be/wr-c21-blues-128.mp3"
+    },
+    {
+        "Title": "Classic 21 Metal",
+        "Country": "Belgium",
+        "Tags": "metal",
+        "Favicon": "https://assets.maradio.be/stationimages/29_programme_image.png",
+        "Homepage": "http://www.rtbf.be/radio/",
+        "Source1": "http://radio.rtbf.be/c21-metal/aac-128/fl"
+    },
+    {
+        "Title": "Classic21",
+        "Country": "Belgium",
+        "Tags": "classical",
+        "Favicon": "https://www.static.rtbf.be/rtbf/home/images/ico/favicon-info-32x32.png",
+        "Homepage": "http://www.rtbf.be/",
+        "Source1": "http://radios.rtbf.be/classic21-128.mp3"
+    },
+    {
+        "Title": "ClubFM Oost-Vlaanderen",
+        "Country": "Belgium",
+        "Language": "nl",
+        "Homepage": "http://www.clubfm.be/",
+        "Source1": "http://www.clubfmserver.be:8000/radioclubfm.mp3"
+    },
+    {
+        "Title": "Contact MAX",
+        "Country": "Belgium",
+        "Tags": "2000's,80's,90's",
+        "Favicon": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://contactmax.be&size=256",
+        "Language": "fr",
+        "Homepage": "http://contactmax.be/",
+        "Source1": "https://contactmax.ice.infomaniak.ch/contactmax-192.mp3"
+    },
+    {
+        "Title": "Crooze Radio",
+        "Country": "Belgium",
+        "Tags": "electronic dance music,pop music",
+        "Favicon": "https://belgiefm.com/sites/default/files/radio/logos/logo-croozefm.png",
+        "Homepage": "https://crooze.eu/en/",
+        "Source1": "https://streaming.shoutcast.com/crooze-mp3"
+    },
+    {
+        "Title": "DAX FM RADIO",
+        "Country": "Belgium",
+        "Tags": "80's,90's",
+        "Favicon": "https://primary.jwwb.nl/public/o/c/v/temp-pdvdrgzrikqbudviaidm/dax-fm-logo-2021-klein-high.jpg",
+        "Language": "nl",
+        "Homepage": "https://gratis-3982935.jouwweb.be/",
+        "Latitude": 51.04139389812637,
+        "Longitude": 4.7900390625,
+        "Source1": "http://master.shoutcast.com:8000/dax-fm"
+    },
+    {
+        "Title": "De Geluidsfabriek",
+        "Country": "Belgium",
+        "Tags": "blues,classic rock,dutch music,jazz,pop,r&b soul,singer-songwriter",
+        "Homepage": "https://www.degeluidsfabriek.com/",
+        "Latitude": 51.4942631734122,
+        "Longitude": 4.770812988281251,
+        "Source1": "https://s5.radio.co/s4674a3b1c/listen"
+    },
+    {
+        "Title": "De Goeie Ouwe Tijd",
+        "Country": "Belgium",
+        "Favicon": "https://spacial.com/wp-content/uploads/2019/08/cropped-favicon-180x180.png",
+        "Language": "nl",
+        "Homepage": "http://spacial.com/",
+        "Source1": "http://samcloud.spacial.com/api/listen?sid=118908&rid=238881&f=mp3,any&br=128000,any&m=m3u&t=ssl"
+    },
+    {
+        "Title": "De Jukebox",
+        "Country": "Belgium",
+        "Favicon": "https://www.dejukebox.com/de%20jukebox2.ico",
+        "Homepage": "https://www.dejukebox.com/",
+        "Source1": "http://s35.myradiostream.com:14472/"
+    },
+    {
+        "Title": "De Tijdloze",
+        "Country": "Belgium",
+        "Tags": "alternative indie rock,metal,vrt",
+        "Favicon": "https://upload.wikimedia.org/wikipedia/commons/5/56/De_Tijdloze.png",
+        "Language": "NL",
+        "Region": "BE-BRU",
+        "Homepage": "https://www.stubru.be/",
+        "Latitude": 50.85325707417748,
+        "Longitude": 4.402635790952025,
+        "Source1": "http://icecast.vrtcdn.be/stubru_tijdloze-high.mp3"
+    },
+    {
+        "Title": "De Tijdloze",
+        "Country": "Belgium",
+        "Tags": "classic rock,electronic,pop,rock",
+        "Language": "nl",
+        "Homepage": "https://www.vrt.be/vrtmax/livestream/audio/tijdloze/",
+        "Latitude": 50.83716687845954,
+        "Longitude": 4.394531250000001,
+        "Source1": "http://icecast.vrtcdn.be/stubru_tijdloze.aac"
+    },
+    {
+        "Title": "depechemode.be",
+        "Country": "Belgium",
+        "Tags": "depeche mode",
+        "Language": "en",
+        "Homepage": "https://www.depechemode.be/webradio",
+        "Source1": "https://c2.radioboss.fm:8494/stream"
+    },
+    {
+        "Title": "Dmusic",
+        "Country": "Belgium",
+        "Tags": "club dance,dance,dance pop,edm,hardstyle,house,retro music,techno",
+        "Favicon": "https://dmusic.be//themes/Dmusicv2/favicon.ico",
+        "Language": "nl",
+        "Homepage": "https://dmusic.be/",
+        "Latitude": 50.857535645524,
+        "Longitude": 3.312874920788414,
+        "Source1": "https://stream.dmusic.be/listen/dmusic/radio.mp3"
+    },
+    {
+        "Title": "DooBeeSummer",
+        "Country": "Belgium",
+        "Tags": "summer",
+        "Homepage": "http://stream.noordzee105.be:8000/",
+        "Latitude": 51.22666790215268,
+        "Longitude": 2.9141235351562504,
+        "Source1": "http://stream.noordzee105.be:8000/zomer"
+    },
+    {
+        "Title": "Elisa FM, Brugge, be",
+        "Country": "Belgium",
+        "Homepage": "https://stream.vbro.be/",
+        "Source1": "http://stream.vbro.be:9200/ElisaFM"
+    },
+    {
+        "Title": "Emotion",
+        "Country": "Belgium",
+        "Language": "fr",
+        "Homepage": "http://www.radioemotion.be/",
+        "Source1": "http://stream.radioemotion.be/;stream.mp3"
+    },
+    {
+        "Title": "Equinoxe, La Radio Découverte",
+        "Country": "Belgium",
+        "Tags": "country,jazz,rock,talk",
+        "Language": "fr",
+        "Homepage": "https://www.equinoxenamur.be/",
+        "Latitude": 50.4396224464237,
+        "Longitude": 4.897220134735108,
+        "Source1": "https://stream.equinoxenamur.be/Equinoxe.mp3"
+    },
+    {
+        "Title": "familieradio enjoy fm",
+        "Country": "Belgium",
+        "Language": "nl",
+        "Homepage": "http://www.familieradio-enjoy.be/",
+        "Source1": "http://live.radiostudio.be/enjoyfm"
+    },
+    {
+        "Title": "Family Radio",
+        "Country": "Belgium",
+        "Tags": "family",
+        "Favicon": "https://i0.wp.com/www.family-radio.be/wp-content/uploads/2019/10/cropped-familyradio.jpg?fit=180%2c180",
+        "Language": "nl",
+        "Homepage": "http://www.familyradio.be/",
+        "Source1": "http://www.clubfmserver.be:8000/family.mp3"
+    },
+    {
+        "Title": "Family Radio (België/Belgique/Belgien)",
+        "Country": "Belgium",
+        "Favicon": "https://i0.wp.com/www.family-radio.be/wp-content/uploads/2019/10/cropped-familyradio.jpg?fit=180%2c180",
+        "Language": "nl",
+        "Homepage": "http://www.familyradio.be/",
+        "Source1": "http://www.clubfmserver.be:8000/family.mp3"
+    },
+    {
+        "Title": "FamilyRadio - Bij ons ben je thuis",
+        "Country": "Belgium",
+        "Tags": "family",
+        "Favicon": "https://i0.wp.com/www.family-radio.be/wp-content/uploads/2019/10/cropped-familyradio.jpg?fit=180%2c180",
+        "Language": "nl",
+        "Homepage": "http://www.familyradio.be/",
+        "Source1": "http://www.clubfmserver.be:8000/family.mp3"
+    },
+    {
+        "Title": "Fiësta Radio",
+        "Country": "Belgium",
+        "Favicon": "https://www.fiestaradio.be/wp-content/uploads/2020/05/fiesta_radio_logo.png",
+        "Homepage": "https://www.fiestaradio.be/",
+        "Source1": "https://media1.hostin.cc/fiestaradio.mp3"
+    },
+    {
+        "Title": "FM Goud Limburg",
+        "Country": "Belgium",
+        "Favicon": "https://www.fmgoud.be/uploads/3/9/6/3/3963899/logopngtransparant.png",
+        "Homepage": "https://www.fmgoud.be/",
+        "Source1": "https://stream.fmgoud.be/fm-goud-noord-limburg"
+    },
+    {
+        "Title": "FM Goud Maasland",
+        "Country": "Belgium",
+        "Favicon": "https://www.fmgoud.be/uploads/3/9/6/3/3963899/logopngtransparant.png",
+        "Homepage": "https://www.fmgoud.be/",
+        "Source1": "https://stream.fmgoud.be/fm-goud-maasland"
+    },
+    {
+        "Title": "FM Goud Tenerife",
+        "Country": "Belgium",
+        "Favicon": "https://www.fmgoud.be/uploads/3/9/6/3/3963899/logopngtransparant.png",
+        "Homepage": "https://www.fmgoud.be/",
+        "Source1": "https://stream.fmgoud.be/fm-goud-tenerife"
+    },
+    {
+        "Title": "Frequence Eghezee",
+        "Country": "Belgium",
+        "Tags": "variety",
+        "Language": "fr",
+        "Homepage": "https://www.fr-eghezee.be/",
+        "Source1": "http://stream.fr-eghezee.be:8054/FE"
+    },
+    {
+        "Title": "Fréquence Plus Andenne",
+        "Country": "Belgium",
+        "Tags": "andenne",
+        "Favicon": "https://www.frequenceplus.be/images/LogoBlanc_2.jpg",
+        "Language": "fr",
+        "Homepage": "https://www.frequenceplus.be/index.html",
+        "Source1": "http://frequenceplusandenne.ice.infomaniak.ch/frequenceplusandenne-192.mp3"
+    },
+    {
+        "Title": "Fun Radio",
+        "Country": "Belgium",
+        "Favicon": "http://www.funradio.be/wp-content/themes/rise/assets/img/fav/apple-touch-icon.png",
+        "Language": "fr",
+        "Homepage": "http://funradio.be/",
+        "Source1": "http://statslive.infomaniak.ch/playlist/funradiobe/funradiobe-high.mp3/playlist.pls"
+    },
+    {
+        "Title": "galaxiebelgium.com",
+        "Country": "Belgium",
+        "Homepage": "https://galaxiebelgium.com/",
+        "Source1": "https://listen.radioking.com/radio/309647/stream/356660"
+    },
+    {
+        "Title": "Gaveromroep",
+        "Country": "Belgium",
+        "Tags": "local radio",
+        "Language": "nl",
+        "Homepage": "http://gaveromroep.be/",
+        "Source1": "http://s43.myradiostream.com:18192/"
+    },
+    {
+        "Title": "Geel fm",
+        "Country": "Belgium",
+        "Homepage": "http://www.geelfm.be/",
+        "Source1": "http://geelfm.nsupdate.info:8080/geelfm.mp3"
+    },
+    {
+        "Title": "Goeiedag Radio",
+        "Country": "Belgium",
+        "Favicon": "https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Fwww.goeiedagradio.be%2F",
+        "Homepage": "https://www.goeiedagradio.be/",
+        "Latitude": 50.93884444242304,
+        "Longitude": 4.038677890580345,
+        "Source1": "https://stream.goeiedagradio.be/"
+    },
+    {
+        "Title": "GOLD FM",
+        "Country": "Belgium",
+        "Favicon": "https://goldfm.be/wp-content/uploads/2020/09/GOLDFMNEWLOGO3-170x170.png",
+        "Homepage": "https://goldfm.be/#!",
+        "Source1": "https://onair.goldfm.be:8000/stream"
+    },
+    {
+        "Title": "Gold FM",
+        "Country": "Belgium",
+        "Favicon": "http://www.goldfm.be/favicon.ico",
+        "Language": "tr",
+        "Homepage": "http://www.goldfm.be/v2/",
+        "Source1": "http://www.goldfm.be/live/playlist.php?name=listen.pls"
+    },
+    {
+        "Title": "Goldies Radio",
+        "Country": "Belgium",
+        "Tags": "oldies",
+        "Favicon": "https://www.goldiesradio.be///templates/urbanlife/favicon.ico",
+        "Language": "nl",
+        "Homepage": "https://www.goldiesradio.be/",
+        "Source1": "http://www.goldiesradio.be/live/playlist.pls"
+    },
+    {
+        "Title": "GothVille Radio",
+        "Country": "Belgium",
+        "Favicon": "https://gothville.radio/static/uploads/gothville/album_art.1709762064.png",
+        "Homepage": "https://gothville.radio/public/gothville",
+        "Source1": "https://gothville.radio/public/gothville/playlist.pls"
+    },
+    {
+        "Title": "Gothville radio",
+        "Country": "Belgium",
+        "Tags": "darkwave,ebm,gothic,gothic rock",
+        "Favicon": "https://gothville.com/web/image/website/1/logo/GothVille%20Community?unique=dc65b55",
+        "Homepage": "https://gothville.com/",
+        "Source1": "http://streams.radio.co/s62583474c/listen"
+    },
+    {
+        "Title": "Grand Prix Radio",
+        "Country": "Belgium",
+        "Favicon": "https://grandprixradio.be/themes/flixi/favicons/apple-touch-icon.png?v=2",
+        "Homepage": "https://grandprixradio.be/",
+        "Source1": "https://eu-playerservices.streamtheworld.com/api/livestream-redirect/GPRDANCEAAC.aac?lsid=app%3Abrowser-1732200021666izj9zpla1"
+    },
+    {
+        "Title": "Grandprix Radio - BE",
+        "Country": "Belgium",
+        "Tags": "classics,pop,sports news",
+        "Favicon": "https://grandprixradio.be/themes/flixi/favicons/apple-touch-icon.png?v=2",
+        "Language": "nl",
+        "Homepage": "https://grandprixradio.be/",
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/GPRDANCE.mp3"
+    },
+    {
+        "Title": "GRK",
+        "Country": "Belgium",
+        "Tags": "sport",
+        "Language": "nl",
+        "Homepage": "https://grk.fm/",
+        "Latitude": 50.96524855739218,
+        "Longitude": 5.5008137226104745,
+        "Source1": "https://grk.level27.be/;stream.mp3"
+    },
+    {
+        "Title": "Génération bel RTL",
+        "Country": "Belgium",
+        "Tags": "80-90,retro music",
+        "Language": "fr",
+        "Homepage": "https://www.rtl.be/belrtl",
+        "Source1": "https://www.rtl.be/belrtl/playeraudio"
+    },
+    {
+        "Title": "Het is Vloms - Affligem , be (new stream)",
+        "Country": "Belgium",
+        "Homepage": "https://tisvloms.eu/",
+        "Source1": "https://cast1.torontocast.com:4605/stream"
+    },
+    {
+        "Title": "Het Is Vloms Affligem, be",
+        "Country": "Belgium",
+        "Homepage": "https://tisvloms.eu/",
+        "Source1": "https://bluford.torontocast.com/proxy/iimfoptl/stream"
+    },
+    {
+        "Title": "hitstory classics 24/7",
+        "Country": "Belgium",
+        "Tags": "classic hits 60s 70a 80s",
+        "Homepage": "https://feel-good-radioo.cms.webnode.be/",
+        "Latitude": 49.90228247442463,
+        "Longitude": 5.378047935930367,
+        "Source1": "https://pstnet12.shoutcastnet.com:10274/stream"
+    },
+    {
+        "Title": "Impact FM",
+        "Country": "Belgium",
+        "Language": "fr",
+        "Homepage": "http://www.impact-fm.be/fr/impact.htm",
+        "Source1": "http://statslive.infomaniak.ch/playlist/impactfm/impactfm-64.aac/playlist.pls"
+    },
+    {
+        "Title": "Inside Radio",
+        "Country": "Belgium",
+        "Tags": "must fm,namur",
+        "Favicon": "https://static.radioplayer.be/v1/image/station/1011/logo_600x600.png",
+        "Language": "fr",
+        "Homepage": "https://inside-radio.com/",
+        "Source1": "https://n19a-eu.rcs.revma.com/cm96zpmrmm0uv"
+    },
+    {
+        "Title": "Instrumental Radio, Be",
+        "Country": "Belgium",
+        "Tags": "entertainment,various",
+        "Favicon": "https://instrumentalradio.eu/wp-content/uploads/2017/10/favicon.png",
+        "Language": "nl",
+        "Homepage": "http://www.instrumentalradio.eu/",
+        "Source1": "http://streams.shoutcastsolutions.com:8599/stream"
+    },
+    {
+        "Title": "Instrumentals Forever",
+        "Country": "Belgium",
+        "Tags": "big band,easy listening,instrumental",
+        "Favicon": "https://instrumentalsforever.eu/favicon.ico",
+        "Language": "en",
+        "Homepage": "https://instrumentalsforever.eu/",
+        "Latitude": 50.90356382851463,
+        "Longitude": 4.117594491645385,
+        "Source1": "http://quincy.torontocast.com:1910/stream",
+        "Source2": "https://c30.radioboss.fm/stream/1031"
+    },
+    {
+        "Title": "Instrumentals forever (64kbp)",
+        "Country": "Belgium",
+        "Tags": "big band,easy listening,instrumental",
+        "Favicon": "https://instrumentalsforever.eu/favicon.ico",
+        "Language": "en",
+        "Homepage": "https://instrumentalsforever.eu/",
+        "Latitude": 50.90352237111368,
+        "Longitude": 4.117700248493584,
+        "Source1": "http://quincy.torontocast.com:1920/stream"
+    },
+    {
+        "Title": "Instrumentals Forever [AAC 64 kbit]",
+        "Country": "Belgium",
+        "Tags": "beautiful music,easy listening,instrumental",
+        "Favicon": "https://instrumentalsforever.eu/wp-content/uploads/2018/03/Instrumentals-Forever.png",
+        "Homepage": "https://instrumentalsforever.eu/",
+        "Source1": "https://quincy.torontocast.com:1925/stream"
+    },
+    {
+        "Title": "Islam en français",
+        "Country": "Belgium",
+        "Tags": "international",
+        "Favicon": "https://www.radio.fr/images/broadcasts/f2/12/132128/2/c300.png",
+        "Homepage": "https://www.radio.fr/s/radioislamenfrancais",
+        "Source1": "http://104.7.66.64:8099/stream/1/"
+    },
+    {
+        "Title": "Jamendo Lounge",
+        "Country": "Belgium",
+        "Favicon": "https://www.jamendo.com/Client/assets/toolkit/images/icon/apple-touch-icon-180x180.780963008.png",
+        "Homepage": "https://www.jamendo.com/radios/Lounge",
+        "Source1": "http://streamingp.shoutcast.com/JamendoLounge"
+    },
+    {
+        "Title": "Joe",
+        "Country": "Belgium",
+        "Homepage": "https://streams.radio.dpgmedia.cloud/redirect/joe_fm/mp3",
+        "Source1": "https://streams.radio.dpgmedia.cloud/redirect/joe_fm/aac"
+    },
+    {
+        "Title": "JOE",
+        "Country": "Belgium",
+        "Tags": "oldies",
+        "Favicon": "https://cdn-profiles.tunein.com/s25741/images/logog.jpg?t=1",
+        "Language": "nl",
+        "Homepage": "https://joe.be/",
+        "Latitude": 50.833291106348234,
+        "Longitude": 4.329986572265626,
+        "Source1": "https://icecast-qmusicbe-cdp.triple-it.nl/joe.mp3"
+    },
+    {
+        "Title": "Joe - All the way",
+        "Country": "Belgium",
+        "Tags": "pop",
+        "Favicon": "https://www.joe.be/favicon.ico",
+        "Language": "nl",
+        "Homepage": "https://www.joe.be/",
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOE.mp3"
+    },
+    {
+        "Title": "Joe - Top 2000",
+        "Country": "Belgium",
+        "Homepage": "https://streams.radio.dpgmedia.cloud/redirect/top2000/mp3",
+        "Source1": "https://streams.radio.dpgmedia.cloud/redirect/top2000/mp3"
+    },
+    {
+        "Title": "Joe 80's & 90's",
+        "Country": "Belgium",
+        "Tags": "80's,90's,hits",
+        "Favicon": "https://static.mytuner.mobi/media/tvos_radios/x7fzbddfxjqy.jpg",
+        "Language": "nl",
+        "Homepage": "https://joe.be/",
+        "Source1": "https://icecast-qmusicbe-cdp.triple-it.nl/joe_80s_90s.mp3"
+    },
+    {
+        "Title": "Joe 80s & 90s",
+        "Country": "Belgium",
+        "Favicon": "https://cdn-radio.dpgmedia.net/c/7e/12/49/87/JOE_80s___90s-4-WEBSITE-220x220.png",
+        "Homepage": "https://joe.be/luister/joe_80s_90s",
+        "Source1": "https://icecast-qmusicbe-cdp.triple-it.nl/joe_80s_90s.aac?aw_0_1st.skey=1686378273&aw_0_1st.playerid=site-player"
+    },
+    {
+        "Title": "JOE 80s & 90s",
+        "Country": "Belgium",
+        "Tags": "80s & 90s",
+        "Favicon": "https://cdn-radio.dpgmedia.net/c/7e/12/49/87/JOE_80s___90s-4-WEBSITE-220x220.png",
+        "Language": "nl",
+        "Homepage": "https://joe.be/",
+        "Source1": "https://streams.radio.dpgmedia.cloud/redirect/joe_80s_90s/mp3"
+    },
+    {
+        "Title": "JOE BE",
+        "Country": "Belgium",
+        "Tags": "oldies",
+        "Favicon": "https://cdn-profiles.tunein.com/s25741/images/logog.jpg?t=1",
+        "Language": "nl",
+        "Homepage": "https://joe.be/",
+        "Source1": "https://icecast-qmusicbe-cdp.triple-it.nl/joe.mp3"
+    },
+    {
+        "Title": "joe easy",
+        "Country": "Belgium",
+        "Tags": "smoothest songs",
+        "Homepage": "https://streams.radio.dpgmedia.cloud/redirect/joe_easy/aac",
+        "Source1": "https://streams.radio.dpgmedia.cloud/redirect/joe_easy/mp3"
+    },
+    {
+        "Title": "Joe Gold",
+        "Country": "Belgium",
+        "Tags": "oldies",
+        "Homepage": "https://www.joe.be/",
+        "Source1": "https://streams.radio.dpgmedia.cloud/redirect/joe_gold/aac"
+    },
+    {
+        "Title": "JOE Gold",
+        "Country": "Belgium",
+        "Favicon": "https://cdn-radio.dpgmedia.net/7/32/78/a4/113/JOE_GOLD-7-WEBSITE-220x220.png",
+        "Homepage": "https://joe.be/",
+        "Source1": "https://streams.radio.dpgmedia.cloud/redirect/joe_gold/mp3"
+    },
+    {
+        "Title": "Joe Lage Landen",
+        "Country": "Belgium",
+        "Favicon": "https://joe.be/favicon.ico",
+        "Homepage": "https://joe.be/luister/joe_lage_landen",
+        "Source1": "https://icecast-qmusicbe-cdp.triple-it.nl/joe_lage_landen.mp3"
+    },
+    {
+        "Title": "Joe Lage Landen",
+        "Country": "Belgium",
+        "Favicon": "https://cdn-radio.dpgmedia.net/d/67/d8/ab/39/JOE_EASY-4-WEBSITE-220x220.png",
+        "Homepage": "https://joe.be/luister/joe_easy",
+        "Source1": "https://icecast-qmusicbe-cdp.triple-it.nl/joe_easy.aac?aw_0_1st.skey=1686378120&aw_0_1st.playerid=site-player"
+    },
+    {
+        "Title": "Jouw Radio",
+        "Country": "Belgium",
+        "Favicon": "http://www.jouwradio.be/images/layout/jouwradio-logo-wit23.png",
+        "Homepage": "http://www.jouwradio.be/",
+        "Source1": "https://online-radio.eu/export/winamp/13781-jouw-radio"
+    },
+    {
+        "Title": "K I F",
+        "Country": "Belgium",
+        "Favicon": "https://kif.be/assets/img/logo@2x.png",
+        "Homepage": "https://kif.be/#",
+        "Source1": "https://broadcast.sksgroup.com/kif_aac"
+    },
+    {
+        "Title": "Kerstradio Noordzee",
+        "Country": "Belgium",
+        "Tags": "christmas music",
+        "Homepage": "https://www.radionoordzee105.be/",
+        "Latitude": 51.22666790215268,
+        "Longitude": 2.918930053710938,
+        "Source1": "http://stream.noordzee105.be:8000/krn"
+    },
+    {
+        "Title": "Ketnet Hits",
+        "Country": "Belgium",
+        "Favicon": "https://www.vrt.be/vrtnu-resources/images/apple-touch-icon_max.png",
+        "Homepage": "https://www.vrt.be/vrtmax/livestream/audio/ketnethits/",
+        "Source1": "https://icecast.vrtcdn.be/ketnetradio-high.mp3?dist=belgiefm"
+    },
+    {
+        "Title": "Ketnet Hits",
+        "Country": "Belgium",
+        "Tags": "vrt",
+        "Language": "nl",
+        "Homepage": "https://www.ketnet.be/wrap/luister-naar-ketnet-hits",
+        "Source1": "http://icecast.vrtcdn.be/ketnetradio-high.mp3"
+    },
+    {
+        "Title": "Kiosk Radio",
+        "Country": "Belgium",
+        "Tags": "independent,music,variety,dj sets,electro",
+        "Favicon": "https://kioskradio.com/favicon.png",
+        "Language": "EN,FR",
+        "Region": "BE-BRU",
+        "Homepage": "https://kioskradio.com/",
+        "Latitude": 50.844369,
+        "Longitude": 4.363053,
+        "Source1": "https://kioskradiobxl.out.airtime.pro/kioskradiobxl_b"
+    },
+    {
+        "Title": "Kix",
+        "Country": "Belgium",
+        "Favicon": "https://cdn.radiokix.be/favicon-32x32.png",
+        "Homepage": "https://www.radiokix.be/",
+        "Source1": "https://www.radiokix.be/interactive/livestream_kix_aac.m3u"
+    },
+    {
+        "Title": "Klara",
+        "Country": "Belgium",
+        "Tags": "classical,cultural,jazz,vrt",
+        "Favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Klara_Logo_Black_Screen.jpg/150px-Klara_Logo_Black_Screen.jpg",
+        "Language": "NL",
+        "Region": "BE-BRU",
+        "Homepage": "https://www.klara.be/",
+        "Latitude": 50.85325707417748,
+        "Longitude": 4.402635790952025,
+        "Source1": "http://icecast.vrtcdn.be/klara.aac"
+    },
+    {
+        "Title": "Klara",
+        "Country": "Belgium",
+        "Tags": "classical,cultural,jazz,vrt",
+        "Favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Klara_Logo_Black_Screen.jpg/150px-Klara_Logo_Black_Screen.jpg",
+        "Language": "NL",
+        "Region": "BE-BRU",
+        "Homepage": "http://www.klara.be/",
+        "Latitude": 50.85325707417748,
+        "Longitude": 4.402635790952025,
+        "Source1": "http://icecast.vrtcdn.be/klara-high.mp3"
+    },
+    {
+        "Title": "Klara Continuo",
+        "Country": "Belgium",
+        "Tags": "classical,vrt",
+        "Favicon": "https://www.vrt.be/content/dam/vrtvideo/branding/logos/klara-continuo/v2/color.svg",
+        "Language": "NL",
+        "Region": "BE-BRU",
+        "Homepage": "https://www.klara.be/",
+        "Latitude": 50.85325707417748,
+        "Longitude": 4.402635790952025,
+        "Source1": "http://icecast.vrtcdn.be/klaracontinuo-high.mp3",
+        "Source2": "http://icecast.vrtcdn.be/klaracontinuo.aac"
+    },
+    {
+        "Title": "KOMILFOO FM",
+        "Country": "Belgium",
+        "Favicon": "https://komilfoo.be/live/songinfo/images/artists/default.png",
+        "Homepage": "https://www.komilfoo.be/",
+        "Source1": "http://www.komilfoo.be/live/komilfoo.pls"
+    },
+    {
+        "Title": "Komilfoo FM - 106.9 FM Aarschot",
+        "Country": "Belgium",
+        "Tags": "adult contemporary,oldies",
+        "Language": "nl",
+        "Homepage": "http://www.komifoo.be/",
+        "Latitude": 50.99651678631151,
+        "Longitude": 4.84256167175901,
+        "Source1": "http://www.komilfoo.be/live/komilfoo.m3u",
+        "Source2": "http://eu1.reliastream.com:8033/;"
+    },
+    {
+        "Title": "La Cible",
+        "Country": "Belgium",
+        "Tags": "70's,80's,music,oldies,pop,slow,smooth,soft rock",
+        "Favicon": "http://www.lacibleradio.net/favicon.ico",
+        "Language": "fr",
+        "Homepage": "http://www.lacibleradio.net/",
+        "Latitude": 50.411318134859734,
+        "Longitude": 4.44838333720866,
+        "Source1": "https://quincy.torontocast.com:3195/stream"
+    },
+    {
+        "Title": "La Classica",
+        "Country": "Belgium",
+        "Tags": "classical",
+        "Language": "fr",
+        "Homepage": "https://opml.radiotime.com/",
+        "Source1": "http://stream.laclassica.be:8023/stream"
+    },
+    {
+        "Title": "La Classica",
+        "Country": "Belgium",
+        "Tags": "classical",
+        "Language": "nl",
+        "Homepage": "https://laclassica.be/",
+        "Source1": "http://stream.laclassica.be:8023/stream2"
+    },
+    {
+        "Title": "La Première - Bruxelles",
+        "Country": "Belgium",
+        "Favicon": "https://www.static.rtbf.be/rtbf/home/images/ico/favicon-info-32x32.png",
+        "Language": "fr",
+        "Homepage": "https://www.rtbf.be/lapremiere",
+        "Source1": "http://radios.rtbf.be/laprem1erebxl-128.mp3"
+    },
+    {
+        "Title": "Lazer Hot Hits",
+        "Country": "Belgium",
+        "Tags": "house,oldschool,retro,techno",
+        "Language": "en",
+        "Homepage": "http://www.lazerhothits.eu/",
+        "Source1": "http://streams.servicehosting.be:3730/;"
+    },
+    {
+        "Title": "Lehabs Radio",
+        "Country": "Belgium",
+        "Tags": "afrobeats,dance,hip hop",
+        "Homepage": "https://lehabsradio.netlify.app/",
+        "Source1": "https://stream.zeno.fm/v4ney0hn5z3uv"
+    },
+    {
+        "Title": "LN Radio",
+        "Country": "Belgium",
+        "Homepage": "https://lnradio.be/",
+        "Source1": "http://stream.rcs.revma.com/th89pet3pzzuv"
+    },
+    {
+        "Title": "Lokale Radio Lanaken",
+        "Country": "Belgium",
+        "Tags": "pop",
+        "Language": "nl",
+        "Homepage": "http://www.lokaleradiolanaken.be/",
+        "Latitude": 50.889447588263856,
+        "Longitude": 5.653230482083644,
+        "Source1": "http://s2.ssl-stream.com:8070/1;"
+    },
+    {
+        "Title": "Magic Radio Herentals",
+        "Country": "Belgium",
+        "Tags": "adult contemporary,oldies",
+        "Language": "nl",
+        "Homepage": "http://www.magicradio.be/",
+        "Latitude": 51.17290823985229,
+        "Longitude": 4.840915099731684,
+        "Source1": "http://shoutcast.movemedia.eu/pdgfm"
+    },
+    {
+        "Title": "Maximum FM",
+        "Country": "Belgium",
+        "Tags": "liège,pop",
+        "Favicon": "https://www.maximumfm.be/images/logo/logo_maximum_color.png",
+        "Language": "fr",
+        "Homepage": "https://www.maximumfm.be/",
+        "Source1": "http://stream.rcs.revma.com/vnmbzemrmm0uv"
+    },
+    {
+        "Title": "Melinda FM",
+        "Country": "Belgium",
+        "Tags": "hits,pop,top40",
+        "Language": "en",
+        "Homepage": "https://melindafm.be/",
+        "Latitude": 50.88242903179293,
+        "Longitude": 4.7022342681884775,
+        "Source1": "http://stream.decibelhuis.be:8000/1"
+    },
+    {
+        "Title": "MelindaFM",
+        "Country": "Belgium",
+        "Tags": "classic,hits,pop",
+        "Favicon": "https://melindafm.be/wp-content/uploads/2022/03/cropped-android-chrome-512x512-2-192x192.png",
+        "Homepage": "https://melindafm.be/",
+        "Latitude": 51.18093190885211,
+        "Longitude": 2.897729873657227,
+        "Source1": "http://stream.decibelhuis.be:8000/1"
+    },
+    {
+        "Title": "Mint",
+        "Country": "Belgium",
+        "Favicon": "https://assets.radioplayer.org/056/0567/600/600/kz4elh2i.png",
+        "Homepage": "http://player.mint.be/",
+        "Source1": "https://mint.ice.infomaniak.ch/mint-mp3-128.mp3"
+    },
+    {
+        "Title": "Mint",
+        "Country": "Belgium",
+        "Tags": "belgiqie,mint",
+        "Language": "fr",
+        "Homepage": "https://mint.be/player/",
+        "Source1": "https://mint.ice.infomaniak.ch/mint-mp3-128.mp3"
+    },
+    {
+        "Title": "Mint Radio",
+        "Country": "Belgium",
+        "Homepage": "https://www.mint.be/player/",
+        "Source1": "https://mint.ice.infomaniak.ch/mint-mp3-128.mp3"
+    },
+    {
+        "Title": "Mixx FM Charleroi",
+        "Country": "Belgium",
+        "Favicon": "https://mixxfm.be/assets/favicon.png",
+        "Homepage": "https://mixxfm.be/",
+        "Latitude": 50.41177849225618,
+        "Longitude": 4.444496249152908,
+        "Source1": "https://mixxfm.ice.infomaniak.ch/mixxfm-192.mp3"
+    },
+    {
+        "Title": "MNM",
+        "Country": "Belgium",
+        "Tags": "pop,vrt",
+        "Favicon": "https://upload.wikimedia.org/wikipedia/commons/0/02/MNM_logo_2024.svg",
+        "Language": "NL",
+        "Region": "BE-BRU",
+        "Homepage": "https://www.mnm.be/",
+        "Latitude": 50.85325707417748,
+        "Longitude": 4.402635790952025,
+        "Source1": "http://icecast.vrtcdn.be/mnm-high.mp3"
+    },
+    {
+        "Title": "MNM Hits",
+        "Country": "Belgium",
+        "Tags": "pop,vrt",
+        "Favicon": "https://www.vrt.be/content/dam/vrtvideo/branding/logos/mnm-hits/v3/color.svg",
+        "Language": "NL",
+        "Region": "BE-BRU",
+        "Homepage": "https://www.mnm.be/mnmbighits",
+        "Latitude": 50.85325707417748,
+        "Longitude": 4.402635790952025,
+        "Source1": "http://icecast.vrtcdn.be/mnm_hits-high.mp3"
+    },
+    {
+        "Title": "Mooi Radio 106.6 FM   Mechelen,be",
+        "Country": "Belgium",
+        "Favicon": "http://www.opsinjoor.be/img/favicons/apple-touch-icon.png",
+        "Homepage": "http://www.opsinjoor.be/",
+        "Latitude": 51.02550020034451,
+        "Longitude": 4.49024128194874,
+        "Source1": "http://mooiradio.live-streams.nl/"
+    },
+    {
+        "Title": "MooyZo",
+        "Country": "Belgium",
+        "Favicon": "https://mooyzo.be/wp-content/uploads/2018/06/mooyzo-favicon.png",
+        "Language": "nl",
+        "Homepage": "https://mooyzo.be/",
+        "Source1": "http://play.mooyzo.be/mooyzo.mp3"
+    },
+    {
+        "Title": "MOOYZO (MP3)",
+        "Country": "Belgium",
+        "Favicon": "https://mooyzo.be/wp-content/uploads/2022/01/mooyzo-FB.jpg",
+        "Homepage": "https://mooyzo.be/",
+        "Source1": "https://play.mooyzo.be/mooyzo.mp3"
+    },
+    {
+        "Title": "MOOYZO aac",
+        "Country": "Belgium",
+        "Favicon": "https://mooyzo.be/wp-content/uploads/2018/06/mooyzo-favicon.png",
+        "Homepage": "https://mooyzo.be/",
+        "Source1": "https://media2.hostin.cc/mooyzo.aac"
+    },
+    {
+        "Title": "MUSI.BE",
+        "Country": "Belgium",
+        "Tags": "alternative,experimental,indie",
+        "Favicon": "http://45.13.239.248/static/uploads/musi/album_art.1787755577.jpg",
+        "Language": "en,fr",
+        "Homepage": "https://musi.be/",
+        "Latitude": 50.598290341861784,
+        "Longitude": 5.5507238626253885,
+        "Source1": "http://45.13.239.248/listen/musi/radio.mp3"
+    },
+    {
+        "Title": "Musiq3 Baroque",
+        "Country": "Belgium",
+        "Favicon": "https://www.rtbf.be/favicon.ico",
+        "Homepage": "https://www.rtbf.be/radio/liveradio/musiq3-baroque",
+        "Source1": "https://radios.rtbf.be/wr-m3-baroque-128.mp3"
+    },
+    {
+        "Title": "Musiq3 Jazz",
+        "Country": "Belgium",
+        "Favicon": "https://www.rtbf.be/favicon.ico",
+        "Homepage": "https://www.rtbf.be/radio/liveradio/webradio-musiq3-jazz",
+        "Source1": "https://radios.rtbf.be/wr-m3-baroque-128.mp3"
+    },
+    {
+        "Title": "Musiq3 Jazz RTBF",
+        "Country": "Belgium",
+        "Favicon": "https://cdn.onlineradiobox.com/img/l/2/107862.v1.png",
+        "Homepage": "https://www.rtbf.be/radio/liveradio/webradio-musiq3-jazz",
+        "Source1": "https://radios.rtbf.be/wr-m3-jazz-128.mp3"
+    },
+    {
+        "Title": "MyNoise Drone Zone",
+        "Country": "Belgium",
+        "Tags": "ambient,ambient and relaxation music",
+        "Favicon": "https://mynoise.net/apple-touch-icon.png",
+        "Language": "en",
+        "Homepage": "https://mynoise.net/",
+        "Source1": "http://dronezone-mynoise.radioca.st/stream"
+    },
+    {
+        "Title": "MyNoise Ocean Waves",
+        "Country": "Belgium",
+        "Tags": "ambient,ambient and relaxation music,nature",
+        "Language": "en",
+        "Homepage": "https://mynoise.net/",
+        "Source1": "http://oceanwaves.radio.mynoise.net/"
+    },
+    {
+        "Title": "MyNoise Pure Nature",
+        "Country": "Belgium",
+        "Tags": "ambient,ambient and relaxation music,nature",
+        "Favicon": "https://mynoise.net/apple-touch-icon.png",
+        "Language": "en",
+        "Homepage": "https://mynoise.net/",
+        "Source1": "https://purenature-mynoise.radioca.st/stream"
+    },
+    {
+        "Title": "MyNoise Rainy Day",
+        "Country": "Belgium",
+        "Tags": "ambient,ambient and relaxation music,nature",
+        "Favicon": "https://mynoise.net/apple-touch-icon.png",
+        "Language": "en",
+        "Homepage": "https://mynoise.net/",
+        "Source1": "http://rainyday.radio.mynoise.net/"
+    },
+    {
+        "Title": "MyNoise Siren Songs",
+        "Country": "Belgium",
+        "Tags": "ambient,ambient and relaxation music",
+        "Favicon": "https://mynoise.net/apple-touch-icon.png",
+        "Language": "en",
+        "Homepage": "https://mynoise.net/",
+        "Source1": "http://sirensongs-mynoise.radioca.st/stream"
+    },
+    {
+        "Title": "MyNoise Space Odyssey",
+        "Country": "Belgium",
+        "Tags": "ambient,ambient and relaxation music,ambient techno",
+        "Favicon": "https://mynoise.net/apple-touch-icon.png",
+        "Language": "en",
+        "Homepage": "https://mynoise.net/",
+        "Source1": "http://spaceodyssey-mynoise.radioca.st/stream"
+    },
+    {
+        "Title": "MyNoise Zen Garden",
+        "Country": "Belgium",
+        "Tags": "ambient,ambient and relaxation music,nature",
+        "Favicon": "https://mynoise.net/apple-touch-icon.png",
+        "Language": "en",
+        "Homepage": "https://mynoise.net/",
+        "Source1": "http://zengarden.radio.mynoise.net/"
+    },
+    {
+        "Title": "Mélodie FM",
+        "Country": "Belgium",
+        "Favicon": "http://www.melodiefm.be/templates/rt_vermilion/favicon.ico",
+        "Language": "fr",
+        "Homepage": "http://www.melodiefm.be/",
+        "Source1": "http://188.165.35.60:8008/;"
+    },
+    {
+        "Title": "Métropole Radio",
+        "Country": "Belgium",
+        "Favicon": "http://www.metropoleradio.be/upload/design/60ae576e470173.54313154.jpeg",
+        "Homepage": "http://metropoleradio.be/",
+        "Source1": "http://metropoleradio.ice.infomaniak.ch/metropoleradio-192.mp3"
+    },
+    {
+        "Title": "Noordzee Gold",
+        "Country": "Belgium",
+        "Tags": "oldies",
+        "Favicon": "https://kerst.noordzee105.be/img/Noordzee_Gold78x.png",
+        "Homepage": "https://www.radionoordzee105.be/gold/",
+        "Latitude": 51.22688290443737,
+        "Longitude": 2.9182434082031254,
+        "Source1": "http://stream.noordzee105.be:8000/gold"
+    },
+    {
+        "Title": "Nostalgie + (Belgique)",
+        "Country": "Belgium",
+        "Tags": "60s,64kbps,70s,aac,belgium,chansons françaises,classic hits",
+        "Favicon": "https://www.nostalgie.be/build/images/favicon.png",
+        "Language": "fr",
+        "Homepage": "https://www.nostalgie.be/",
+        "Latitude": 50.85885657215275,
+        "Longitude": 4.412856101989747,
+        "Source1": "https://stream.rcs.revma.com/s9mkgtsqtg0uv"
+    },
+    {
+        "Title": "Nostalgie 80's",
+        "Country": "Belgium",
+        "Tags": "pop",
+        "Homepage": "http://www.nostalgie.be/",
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWAF80.mp3"
+    },
+    {
+        "Title": "Nostalgie Belgique",
+        "Country": "Belgium",
+        "Tags": "64kbps,aac,belgium,chanson française,classic hits",
+        "Favicon": "https://www.nostalgie.be/build/images/favicon.png",
+        "Homepage": "https://www.nostalgie.be/",
+        "Latitude": 50.85881538221984,
+        "Longitude": 4.41277027130127,
+        "Source1": "https://stream.rcs.revma.com/5gd04cwptg0uv"
+    },
+    {
+        "Title": "Nostalgie Belgique Live",
+        "Country": "Belgium",
+        "Favicon": "https://www.nostalgie.be/build/images/favicon.png",
+        "Homepage": "https://www.nostalgie.be/",
+        "Latitude": 50.85891644253663,
+        "Longitude": 4.4128936529159555,
+        "Source1": "https://stream.rcs.revma.com/gk3466c9rv3vv"
+    },
+    {
+        "Title": "Nostalgie Cinema",
+        "Country": "Belgium",
+        "Tags": "cinema,classic,french,movie,ost,soundtracks",
+        "Favicon": "https://www.nostalgie.be/favicon.ico",
+        "Language": "fr",
+        "Homepage": "https://www.nostalgie.be/radioplayer/cinema",
+        "Source1": "https://stream.rcs.revma.com/urds0v43ehuvv"
+    },
+    {
+        "Title": "Nostalgie Extra (What a Feeling)",
+        "Country": "Belgium",
+        "Tags": "192kbps,easy listening,pop",
+        "Favicon": "https://nl.nostalgie.be/icons/icon-144x144.png?v=afcbc45fada5babe32741403f76fa06c",
+        "Language": "nl",
+        "Homepage": "https://nl.nostalgie.be/radio-player/nostalgie-classics-top-2021",
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWAFEXTRA.mp3"
+    },
+    {
+        "Title": "Nostalgie Italia",
+        "Country": "Belgium",
+        "Tags": "musica italiana",
+        "Language": "en",
+        "Homepage": "https://www.nostalgie.be/",
+        "Source1": "https://stream.rcs.revma.com/81ta7143ehuvv"
+    },
+    {
+        "Title": "Nostalgie Love Belgique",
+        "Country": "Belgium",
+        "Favicon": "https://nostalgie.be",
+        "Homepage": "https://www.nostalgie.be/radioplayer/love",
+        "Source1": "http://streamingp.shoutcast.com/NostalgieLove-aac"
+    },
+    {
+        "Title": "Nostalgie Love1",
+        "Country": "Belgium",
+        "Homepage": "https://www.nostalgie.be/radioplayer/love",
+        "Source1": "https://stream.rcs.revma.com/53zabb43ehuvv"
+    },
+    {
+        "Title": "Nostalgie New Wave",
+        "Country": "Belgium",
+        "Tags": "new wave,no ads,non stop music,rock",
+        "Favicon": "https://uk.radio.net/300/nostalgiebenewwave.png?version=1f972569565aa614589625271462bc2f",
+        "Language": "en,fr",
+        "Homepage": "https://www.nostalgie.be/radioplayer/newwave",
+        "Latitude": 50.57996657570569,
+        "Longitude": 4.691162109375001,
+        "Source1": "https://n03.rcs.revma.com/52g2hx43ehuvv"
+    },
+    {
+        "Title": "Nostalgie Plus",
+        "Country": "Belgium",
+        "Tags": "60's,70's,80's",
+        "Favicon": "https://nostalgieplus.eu/images/favicon/favicon-32x32.png",
+        "Language": "nl",
+        "Homepage": "https://nostalgieplus.eu/",
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEPLUS.mp3"
+    },
+    {
+        "Title": "Nostalgie Vlaanderen",
+        "Country": "Belgium",
+        "Tags": "70's,80's,90's,oldies",
+        "Favicon": "https://nl.nostalgie.be/icons/icon-144x144.png?v=f2b073e495322d52deec159c8bdcaf20",
+        "Language": "nl",
+        "Homepage": "https://nl.nostalgie.be/",
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWHATAFEELING.mp3?dist=radiobrowser"
+    },
+    {
+        "Title": "Nostalgie_Love",
+        "Country": "Belgium",
+        "Homepage": "https://www.nostalgie.be/radioplayer/love",
+        "Source1": "https://stream.rcs.revma.com/53zabb43ehuvv"
+    },
+    {
+        "Title": "NRJ Belgique",
+        "Country": "Belgium",
+        "Tags": "contemporary hits radio,dance,pop,top40",
+        "Favicon": "https://www.nrj.be/build/images/favicon.ico",
+        "Language": "fr",
+        "Homepage": "https://www.nrj.be/",
+        "Latitude": 50.85884641355995,
+        "Longitude": 4.412882924079896,
+        "Source1": "https://stream.rcs.revma.com/xh00fwuptg0uv"
+    },
+    {
+        "Title": "NRJ België",
+        "Country": "Belgium",
+        "Tags": "hits,top 40",
+        "Language": "nl",
+        "Homepage": "https://nl.nrj.be/",
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/NRJBELGIE.mp3?dist=radiobrowser"
+    },
+    {
+        "Title": "NRJ+ (Belgique)",
+        "Country": "Belgium",
+        "Tags": "00s,64kbps,90s,aac,contemporary hits radio,dance,pop",
+        "Favicon": "https://www.nrj.be/build/images/favicon.ico",
+        "Language": "fr",
+        "Homepage": "https://www.nrj.be/",
+        "Latitude": 50.85884302736188,
+        "Longitude": 4.412877559661866,
+        "Source1": "https://stream.rcs.revma.com/1a6hdnzbebuvv"
+    },
+    {
+        "Title": "Ocean Waves (myNoise Radio)",
+        "Country": "Belgium",
+        "Favicon": "https://mynoise.net/apple-touch-icon.png",
+        "Homepage": "https://mynoise.net/radios.php",
+        "Source1": "http://oceanwaves.radio.mynoise.net/"
+    },
+    {
+        "Title": "Oilsjt Mjoezik",
+        "Country": "Belgium",
+        "Favicon": "https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Fwww.oilsjtmjoezik.be%2F",
+        "Homepage": "https://www.oilsjtmjoezik.be/",
+        "Source1": "https://stream.oilsjtmjoezik.be/?1739170252723"
+    },
+    {
+        "Title": "Omroep Neteland",
+        "Country": "Belgium",
+        "Tags": "variety",
+        "Language": "nl",
+        "Homepage": "https://www.omroepneteland.be/nl/home/",
+        "Latitude": 51.12702515134834,
+        "Longitude": 4.629699516103273,
+        "Source1": "http://media1.hostin.cc/omroepneteland.mp3"
+    },
+    {
+        "Title": "Omroep Voeren - Vroenhoven, Be",
+        "Country": "Belgium",
+        "Language": "nl",
+        "Homepage": "https://www.omroepvoeren.be/",
+        "Latitude": 50.75703157706693,
+        "Longitude": 5.7597253890361975,
+        "Source1": "http://stream.omroepvoeren.be/radio/8000/radio.mp3"
+    },
+    {
+        "Title": "One World Radio",
+        "Country": "Belgium",
+        "Tags": "dance",
+        "Favicon": "https://www.tomorrowland.com/home/apple-touch-icon.png",
+        "Homepage": "https://www.tomorrowland.com/home/radio",
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_INTERNATIONAL_ADP.aac"
+    },
+    {
+        "Title": "One World Radio - Tomorrowland",
+        "Country": "Belgium",
+        "Favicon": "https://www.tomorrowland.com/favicon.ico",
+        "Language": "en",
+        "Homepage": "https://www.tomorrowland.com/",
+        "Source1": "http://playerservices.streamtheworld.com/api/livestream-redirect/OWR_INTERNATIONAL_ADP.aac"
+    },
+    {
+        "Title": "ONIB Disco",
+        "Country": "Belgium",
+        "Favicon": "https://onibradio.com/wp-content/uploads/2024/03/01-ONIB-DISCO-400X400-copie-170x170.jpg",
+        "Homepage": "https://onibradio.com/#",
+        "Source1": "https://play.radioking.io/onib-disco/698749?ver=487018"
+    },
+    {
+        "Title": "ONIB Dj RADIO",
+        "Country": "Belgium",
+        "Favicon": "https://onibradio.com/wp-content/uploads/2023/10/onib-radio-dj-radio-170x170.jpg",
+        "Homepage": "https://onibradio.com/#",
+        "Source1": "https://play.radioking.io/onib-dj-radio/643364?ver=699277"
+    },
+    {
+        "Title": "ONIB Radio",
+        "Country": "Belgium",
+        "Favicon": "https://onibradio.com/favicon.ico",
+        "Homepage": "https://onibradio.com/",
+        "Source1": "https://www.radioking.com/play/galaxieradio-belgium-1/356660"
+    },
+    {
+        "Title": "Opsinjoor Volksradio",
+        "Country": "Belgium",
+        "Tags": "dutch,flemish",
+        "Language": "nl",
+        "Homepage": "https://www.opsinjoor.be/volksradio",
+        "Latitude": 51.02478263894571,
+        "Longitude": 4.484481811523438,
+        "Source1": "https://media2.hostin.cc/volksradio.mp3"
+    },
+    {
+        "Title": "Paradise",
+        "Country": "Belgium",
+        "Tags": "electronic",
+        "Source1": "http://stream.radioparadise.com/flac"
+    },
+    {
+        "Title": "Pep's Radio",
+        "Country": "Belgium",
+        "Favicon": "https://pepsradio.be/upload/60396f9575fa23.74426916.ico",
+        "Language": "fr",
+        "Homepage": "https://pepsradio.be/",
+        "Latitude": 50.28537703071016,
+        "Longitude": 5.915054082870484,
+        "Source1": "https://behofm.ice.infomaniak.ch/behofm.mp3"
+    },
+    {
+        "Title": "PHARE FM Belgique",
+        "Country": "Belgium",
+        "Favicon": "https://pharefm.com/wp-content/uploads/2017/08/slider-2017-08-24-pharefm_rentree-logo.png",
+        "Homepage": "https://pharefm.com/",
+        "Source1": "https://str0.creacast.com/pharefm_mons"
+    },
+    {
+        "Title": "PINK",
+        "Country": "Belgium",
+        "Tags": "female vocalists,female voices,femalevocals,pink,pinkradio,woman",
+        "Favicon": "http://www.pinkradio.be/favicon.ico",
+        "Homepage": "http://www.pinkradio.be/",
+        "Latitude": 51.09400860285411,
+        "Longitude": 4.275449216365815,
+        "Source1": "https://www.clubfmserver.be/pink.mp3"
+    },
+    {
+        "Title": "PINK!",
+        "Country": "Belgium",
+        "Tags": "pop,top 40",
+        "Favicon": "http://www.pinkradio.be/favicon.ico",
+        "Homepage": "http://www.pinkradio.be/",
+        "Source1": "https://www.clubfmserver.be/pink.mp3"
+    },
+    {
+        "Title": "PROS",
+        "Country": "Belgium",
+        "Tags": "oldies",
+        "Favicon": "https://radiopros.be/wp-content/uploads/2020/07/logo-PROS.png",
+        "Language": "nl",
+        "Homepage": "https://radiopros.be/",
+        "Latitude": 50.90023163253153,
+        "Longitude": 4.018936157226563,
+        "Source1": "https://stream4.audiostreamen.nl/radiopros"
+    },
+    {
+        "Title": "Pure (FM)",
+        "Country": "Belgium",
+        "Tags": "music",
+        "Favicon": "https://www.static.rtbf.be/rtbf/home/images/ico/favicon-info-32x32.png",
+        "Language": "fr",
+        "Homepage": "https://www.rtbf.be/pure/",
+        "Source1": "https://radios.rtbf.be/pure-128.mp3"
+    },
+    {
+        "Title": "Pure FM - 128",
+        "Country": "Belgium",
+        "Favicon": "https://www.rtbf.be/favicon.ico",
+        "Language": "fr",
+        "Homepage": "https://www.rtbf.be/pure/",
+        "Source1": "http://radios.rtbf.be/pure-128.mp3"
+    },
+    {
+        "Title": "Q Music België",
+        "Country": "Belgium",
+        "Language": "nl",
+        "Homepage": "https://www.s-music.be/",
+        "Latitude": 50.649678170921206,
+        "Longitude": 4.559326171875001,
+        "Source1": "https://streams.radio.dpgmedia.cloud/redirect/qmusic_be/aac"
+    },
+    {
+        "Title": "Q-Allstars",
+        "Country": "Belgium",
+        "Favicon": "https://cdn-radio.dpgmedia.net/6/98/d5/1a/111/Q-ALL_STARS-7-WEBSITE-220x220.png",
+        "Language": "nl",
+        "Homepage": "https://qmusic.be/",
+        "Latitude": 50.92707290263975,
+        "Longitude": 4.432296752929688,
+        "Source1": "https://streams.radio.dpgmedia.cloud/redirect/qbe_allstars/mp3"
+    },
+    {
+        "Title": "Q-Foute Radio",
+        "Country": "Belgium",
+        "Favicon": "https://qmusic.be/assets/qmusic-a1d81a5f88375b3c5507cbc0b064ce1fc8778a076a245bddfd4f2a3e2417c330.png",
+        "Homepage": "https://qmusic.be/",
+        "Source1": "https://icecast-qmusicbe-cdp.triple-it.nl/q-foute-radio.aac?aw_0_1st.skey=1691506785&aw_0_1st.playerid=site-player"
+    },
+    {
+        "Title": "Q-Foute Radio",
+        "Country": "Belgium",
+        "Favicon": "https://qmusic.be/favicon.ico",
+        "Language": "nl",
+        "Homepage": "https://qmusic.be/kanalen/q-foute-radio",
+        "Source1": "https://streams.radio.dpgmedia.cloud/redirect/foute_radio_be/mp3"
+    },
+    {
+        "Title": "Q-Foute Radio BE",
+        "Country": "Belgium",
+        "Favicon": "https://qmusic.be/favicon.ico",
+        "Language": "nl",
+        "Homepage": "https://qmusic.be/kanalen/q-foute-radio",
+        "Source1": "https://streams.radio.dpgmedia.cloud/redirect/foute_radio_be/mp3"
+    },
+    {
+        "Title": "Q-music België",
+        "Country": "Belgium",
+        "Tags": "top hits",
+        "Favicon": "https://images.ctfassets.net/765y2hpj99ul/2uCTS3b1HUbwUKoFO7t2Jp/5d180f2fd667e917156df6194db05511/Qmusic-logo.png?w=640&q=70&fm=webp",
+        "Language": "nl",
+        "Homepage": "https://qmusic.be/",
+        "Source1": "https://streams.radio.dpgmedia.cloud/redirect/qmusic_be/aac"
+    },
+    {
+        "Title": "Qmusic",
+        "Country": "Belgium",
+        "Tags": "pop",
+        "Favicon": "https://cdn-profiles.tunein.com/s87683/images/logod.png",
+        "Homepage": "https://qmusic.be/",
+        "Source1": "https://streams.radio.dpgmedia.cloud/redirect/qmusic_be/mp3"
+    },
+    {
+        "Title": "Qmusic BE",
+        "Country": "Belgium",
+        "Favicon": "https://qmusic.be/assets/favicon/default-67977c4f518d45d3a639958e1c6c072532dd2e05cbef9e42cb9f8ecde1964c97.ico",
+        "Language": "nl",
+        "Homepage": "https://qmusic.be/",
+        "Source1": "https://icecast-qmusicbe-cdp.triple-it.nl/qmusic.aac"
+    },
+    {
+        "Title": "Qmusic Belgium",
+        "Country": "Belgium",
+        "Favicon": "https://qmusic.be/assets/favicon/default-67977c4f518d45d3a639958e1c6c072532dd2e05cbef9e42cb9f8ecde1964c97.ico",
+        "Language": "nl",
+        "Homepage": "https://qmusic.be/",
+        "Source1": "https://icecast-qmusicbe-cdp.triple-it.nl/qmusic.aac"
+    },
+    {
+        "Title": "Qmusic Foute Radio",
+        "Country": "Belgium",
+        "Tags": "pop",
+        "Favicon": "https://cdn-profiles.tunein.com/s308757/images/logod.jpg",
+        "Language": "nl",
+        "Homepage": "https://qmusic.be/",
+        "Source1": "https://audio-streaming.qmusic.be/q-foute-radio.aac"
+    },
+    {
+        "Title": "Qmusic Maximum Hits",
+        "Country": "Belgium",
+        "Tags": "dpgmedia,pop",
+        "Favicon": "https://cdn-profiles.tunein.com/s348071/images/logod.jpg",
+        "Language": "nl",
+        "Homepage": "https://qmusic.be/",
+        "Source1": "https://audio-streaming.qmusic.be/q-maximum-hits.aac"
+    },
+    {
+        "Title": "Qmusic Q-Allstars",
+        "Country": "Belgium",
+        "Tags": "00's,10's,80's,90's",
+        "Favicon": "https://qmusic.be/assets/favicon/default-67977c4f518d45d3a639958e1c6c072532dd2e05cbef9e42cb9f8ecde1964c97.ico",
+        "Language": "nl",
+        "Homepage": "https://qmusic.be/",
+        "Source1": "https://icecast-qmusicbe-cdp.triple-it.nl/q-allstars.aac"
+    },
+    {
+        "Title": "R.O.L Oldies Jukebox Radio - Lanaken, be",
+        "Country": "Belgium",
+        "Tags": "oldies",
+        "Language": "en",
+        "Homepage": "https://rolradio.eu/",
+        "Latitude": 50.890626444513046,
+        "Longitude": 5.656568271267007,
+        "Source1": "http://listen.openstream.co/4628/audio"
+    },
+    {
+        "Title": "Radio 100%",
+        "Country": "Belgium",
+        "Tags": "classic hits,hits",
+        "Language": "fr",
+        "Homepage": "http://radiostudio.be/",
+        "Source1": "http://live2.radiostudio.be:8000/pros"
+    },
+    {
+        "Title": "RADIO 2",
+        "Country": "Belgium",
+        "Favicon": "https://quantumcast.vrtcdn.be/ra2ant/mp3-128/quantumcast.vrtcdn.be/",
+        "Homepage": "https://quantumcast.vrtcdn.be/ra2ant/mp3-128/quantumcast.vrtcdn.be/",
+        "Source1": "https://quantumcast.vrtcdn.be/ra2ant/mp3-128/quantumcast.vrtcdn.be/"
+    },
+    {
+        "Title": "Radio 2 Antwerpen",
+        "Country": "Belgium",
+        "Tags": "pop,vrt",
+        "Favicon": "http://www.radio2.be/resources/favicon-radio2/apple-touch-icon-76x76.png",
+        "Language": "nl",
+        "Homepage": "http://www.radio2.be/",
+        "Source1": "http://icecast.vrtcdn.be/ra2ant-high.mp3"
+    },
+    {
+        "Title": "Radio 2 Bene Bene",
+        "Country": "Belgium",
+        "Tags": "belgian,pop",
+        "Favicon": "http://www.radio2.be/resources/favicon-radio2/apple-touch-icon-76x76.png",
+        "Language": "nl",
+        "Homepage": "http://www.radio2.be/",
+        "Source1": "http://icecast.vrtcdn.be/radio2_benebene-high.mp3"
+    },
+    {
+        "Title": "Radio 2 Limburg",
+        "Country": "Belgium",
+        "Favicon": "https://radio2.be/resources/favicon-radio2/apple-touch-icon-76x76.png",
+        "Language": "nl",
+        "Homepage": "https://radio2.be/",
+        "Source1": "http://icecast.vrtcdn.be/ra2lim-high.mp3"
+    },
+    {
+        "Title": "Radio 2 Oost-Vlaanderen",
+        "Country": "Belgium",
+        "Tags": "pop,vrt",
+        "Favicon": "http://www.radio2.be/resources/favicon-radio2/apple-touch-icon-76x76.png",
+        "Language": "nl",
+        "Homepage": "http://www.radio2.be/",
+        "Source1": "http://icecast.vrtcdn.be/ra2ovl-high.mp3"
+    },
+    {
+        "Title": "Radio 2 Vlaams-Brabant",
+        "Country": "Belgium",
+        "Tags": "pop,vrt",
+        "Favicon": "http://www.radio2.be/resources/favicon-radio2/apple-touch-icon-76x76.png",
+        "Language": "nl",
+        "Homepage": "http://www.radio2.be/",
+        "Source1": "http://icecast.vrtcdn.be/ra2vlb-high.mp3"
+    },
+    {
+        "Title": "RADIO 4910",
+        "Country": "Belgium",
+        "Favicon": "https://usercontent.one/wp/radio4910.be/wp-content/uploads/2024/01/Radio-4910-logo-new-big.png?media=1705857804",
+        "Homepage": "https://radio4910.be/",
+        "Source1": "https://radio7.pro-fhi.net:19073/stream.mp3"
+    },
+    {
+        "Title": "Radio 700",
+        "Country": "Belgium",
+        "Homepage": "https://radio700.eu/",
+        "Source1": "https://stream.radio700.eu/radio700-live/mp3-192?ref=radiobrowser"
+    },
+    {
+        "Title": "Radio Accent",
+        "Country": "Belgium",
+        "Tags": "electronic dance music,pop music",
+        "Favicon": "https://static.mytuner.mobi/media/tvos_radios/tmtjdhahjuqb.jpg",
+        "Homepage": "https://www.radioaccent.be/",
+        "Source1": "https://www.clubfmserver.be/accent.mp3",
+        "Source2": "https://clubfmserver.be/accent.mp3"
+    },
+    {
+        "Title": "Radio Air Libre",
+        "Country": "Belgium",
+        "Favicon": "https://radioairlibre.net/static/css/logo-airlibre.png",
+        "Homepage": "https://radioairlibre.net/",
+        "Source1": "https://streaming.domainepublic.net/radioairlibre.ogg",
+        "Source2": "http://streaming.domainepublic.net:8000/radioairlibre.mp3"
+    },
+    {
+        "Title": "Radio Air Libre",
+        "Country": "Belgium",
+        "Tags": "alternative",
+        "Language": "fr",
+        "Homepage": "http://www.radioairlibre.be/",
+        "Source1": "http://streaming.domainepublic.net:8000/radioairlibre.ogg.m3u"
+    },
+    {
+        "Title": "Radio AKTIEF!",
+        "Country": "Belgium",
+        "Tags": "pop,rock",
+        "Language": "nl",
+        "Homepage": "http://www.aktiefgold.be/",
+        "Source1": "http://www.clubfmserver.be:8000/aktief.mp3"
+    },
+    {
+        "Title": "Radio Alma",
+        "Country": "Belgium",
+        "Tags": "community radio,international,social,social activist programming",
+        "Favicon": "http://www.radioalma.be/static/images/ico/favicon.png",
+        "Language": "el,es,fr,it,pt",
+        "Homepage": "http://www.radioalma.be/",
+        "Source1": "http://shoutcast2.wirelessbelgie.be:8310/;stream.mp3"
+    },
+    {
+        "Title": "Radio Alma Brux 101.9FM",
+        "Country": "Belgium",
+        "Favicon": "http://radioalma.be/static/images/pages/welcome/logo2_welcome.png",
+        "Homepage": "http://radioalma.be/#page-emissions",
+        "Source1": "http://shoutcast2.wirelessbelgie.be:8310/;stream.mp3"
+    },
+    {
+        "Title": "Radio Apollo",
+        "Country": "Belgium",
+        "Favicon": "https://www.radioapollo.be/wp-content/uploads/2020/05/cropped-voorsite-1-192x192.jpg",
+        "Homepage": "https://www.radioapollo.be/",
+        "Source1": "https://radioapollo.beheerstream.nl/8004/stream"
+    },
+    {
+        "Title": "Radio Appolo",
+        "Country": "Belgium",
+        "Tags": "news,various music",
+        "Favicon": "https://usercontent.one/wp/www.radioapollo.be/wp-content/uploads/2023/10/radioapollo.jpg",
+        "Homepage": "https://www.radioapollo.be/",
+        "Latitude": 51.10651298458098,
+        "Longitude": 4.7851037979125985,
+        "Source1": "https://loa.beheerstream.nl:8004/stream"
+    },
+    {
+        "Title": "Radio Appolo, Wiekevorst, be",
+        "Country": "Belgium",
+        "Tags": "oldies",
+        "Language": "nl",
+        "Homepage": "http://www.radioapollo.be/",
+        "Latitude": 51.101808520186665,
+        "Longitude": 4.730551361551267,
+        "Source1": "https://radioapollo.beheerstream.nl/8004/stream"
+    },
+    {
+        "Title": "Radio BaHeNa - Baarle-Hertog, Be",
+        "Country": "Belgium",
+        "Language": "nl",
+        "Homepage": "http://radiobahena.be/",
+        "Latitude": 51.43760475695224,
+        "Longitude": 4.932568399010276,
+        "Source1": "http://stream.bahena.be:8000/bahena.mp3"
+    },
+    {
+        "Title": "Radio Benelux  Beringen, be",
+        "Country": "Belgium",
+        "Homepage": "http://www.radiobenelux.be/",
+        "Latitude": 51.04749315023354,
+        "Longitude": 5.226521345895399,
+        "Source1": "http://remote.radiobenelux.be/MP3"
+    },
+    {
+        "Title": "Radio Bingo - Roeselaere, Be",
+        "Country": "Belgium",
+        "Homepage": "http://www.radiobingo.be/",
+        "Latitude": 50.94393727163752,
+        "Longitude": 3.1268520767523715,
+        "Source1": "http://audiostreamen.nl:8044/stream/1/"
+    },
+    {
+        "Title": "Radio Bonheur (BE)",
+        "Country": "Belgium",
+        "Tags": "chansons françaises,local radio,variety",
+        "Language": "fr",
+        "Homepage": "https://www.radiobonheur.be/",
+        "Source1": "https://france1.coollabel-productions.com/proxy/radiobonheur317/stream"
+    },
+    {
+        "Title": "Radio BOO",
+        "Country": "Belgium",
+        "Tags": "hits,news,pop,regional",
+        "Homepage": "https://www.radioboo.be/",
+        "Source1": "https://stream03.level27.be/;stream.mp3https://stream03.level27.be/;stream.mp3"
+    },
+    {
+        "Title": "radio campus",
+        "Country": "Belgium",
+        "Tags": "alternative,community radio,free radio,university radio",
+        "Favicon": "http://www.radiocampus.be/favicon.ico",
+        "Language": "fa,fr",
+        "Homepage": "http://www.radiocampus.be/",
+        "Source1": "http://streamer.radiocampus.be/stream.mp3"
+    },
+    {
+        "Title": "Radio Campus Bruxelles 92.1",
+        "Country": "Belgium",
+        "Tags": "jazz",
+        "Language": "fr",
+        "Homepage": "https://www.radiocampus.be/",
+        "Latitude": 50.84028892353246,
+        "Longitude": 4.339599609375001,
+        "Source1": "https://www.radiocampus.be/stream/stream.aacplus.m3u"
+    },
+    {
+        "Title": "Radio Campus BXL 92.1 [AAC+]",
+        "Country": "Belgium",
+        "Tags": "alternative,classic rock; alternative rock indie,eclectic,electro",
+        "Favicon": "https://www.radiocampus.be/favicon.ico",
+        "Homepage": "https://www.radiocampus.be/",
+        "Source1": "https://www.radiocampus.be/stream/stream.aacplus.m3u",
+        "Source2": "https://www.radiocampus.be/stream/stream.aacplus"
+    },
+    {
+        "Title": "Radio Campus BXL 92.1 [Ogg HQ]",
+        "Country": "Belgium",
+        "Tags": "alternative,eclectic,electro,experimental,folk,hip hop,indie,jazz,progressive,rock",
+        "Homepage": "https://www.radiocampus.be/",
+        "Source1": "https://www.radiocampus.be/stream/stream_hi.ogg"
+    },
+    {
+        "Title": "radio centraal",
+        "Country": "Belgium",
+        "Tags": "alternative,world music",
+        "Favicon": "http://www.radiocentraal.be/favicon.ico",
+        "Language": "nl",
+        "Homepage": "http://www.radiocentraal.be/Realescape/",
+        "Source1": "http://streams.movemedia.eu/centraal"
+    },
+    {
+        "Title": "Radio Centraal 106.7FM",
+        "Country": "Belgium",
+        "Tags": "avante-garde,community,experimental,independent,non-commercial,situationist",
+        "Favicon": "https://www.radiocentraal.be/favicon.ico",
+        "Language": "nl",
+        "Homepage": "https://www.radiocentraal.be/",
+        "Source1": "http://streams.movemedia.eu:8530/"
+    },
+    {
+        "Title": "Radio Chevaucoir",
+        "Country": "Belgium",
+        "Favicon": "https://www.webradiostreams.nl/illus/logo's%20radio/Radio%20Chevauchoir.jpg",
+        "Homepage": "https://www.radiochevauchoir.be/",
+        "Source1": "https://radio10.pro-fhi.net/flux-nqjpklks/stream"
+    },
+    {
+        "Title": "Radio Christina 106.1 FM - Heist o/d Berg , Be",
+        "Country": "Belgium",
+        "Tags": "hot adult contemporary,pop",
+        "Favicon": "http://www.christina.be/img/favicon.ico",
+        "Language": "nl",
+        "Homepage": "http://www.christina.be/",
+        "Latitude": 51.0766889249964,
+        "Longitude": 4.735162656612625,
+        "Source1": "http://shoutcast2.wirelessbelgie.be:8100/;"
+    },
+    {
+        "Title": "radio chrétienne francophone Belgique",
+        "Country": "Belgium",
+        "Tags": "catholic",
+        "Favicon": "https://rcf.be/wp-content/themes/neutro-rcf/favicon.ico",
+        "Language": "fr",
+        "Homepage": "https://rcf.be/",
+        "Source1": "http://rcf.streamakaci.com/rcfbe.mp3"
+    },
+    {
+        "Title": "Radio contact",
+        "Country": "Belgium",
+        "Favicon": "https://www.radiocontact.be/apple-touch-icon.png",
+        "Homepage": "https://www.radiocontact.be/",
+        "Latitude": 50.390308954038744,
+        "Longitude": 5.009765625000001,
+        "Source1": "http://radiocontact.ice.infomaniak.ch/radiocontact-mp3-192.mp3",
+        "Source2": "http://radiocontact.ice.infomaniak.ch/radiocontact-mp3-128.mp3"
+    },
+    {
+        "Title": "Radio Contact",
+        "Country": "Belgium",
+        "Language": "fr",
+        "Homepage": "http://www.radiocontact.be/",
+        "Source1": "http://radiocontact.ice.infomaniak.ch/radiocontact-mp3-192.mp3"
+    },
+    {
+        "Title": "Radio Continu - the original",
+        "Country": "Belgium",
+        "Tags": "70,80,classic hits,news,regional news",
+        "Favicon": "https://radiocontinu.com/favicon.ico",
+        "Homepage": "https://radiocontinu.com/",
+        "Source1": "https://streams.dutchmediacenter.nl/listen/radiocontinu/live"
+    },
+    {
+        "Title": "Radio Demerstad",
+        "Country": "Belgium",
+        "Homepage": "https://radiodemerstad.be/",
+        "Source1": "https://stream.radiodemerstad.be/radiodemerstad.mp3"
+    },
+    {
+        "Title": "Radio Eagle",
+        "Country": "Belgium",
+        "Favicon": "https://www.radioeagle.be/wp-content/uploads/2018/04/favicon-32x32.png",
+        "Homepage": "http://www.radioeagle.be/",
+        "Source1": "https://antares.dribbcast.com:2199/tunein/puurtren.pls",
+        "Source2": "http://antares.dribbcast.com:4438/xstream?type=http&nocache=874"
+    },
+    {
+        "Title": "Radio Emotion Belgique",
+        "Country": "Belgium",
+        "Homepage": "https://www.radioemotion.be/",
+        "Source1": "https://stream1.dgnet.be/1"
+    },
+    {
+        "Title": "Radio Eurodance Classic",
+        "Country": "Belgium",
+        "Tags": "90s,eurodance",
+        "Favicon": "http://img.sedoparking.com/templates/logos/sedo_logo.png",
+        "Language": "en",
+        "Homepage": "http://www.radio-euro-classic.eu/",
+        "Source1": "http://listen.shoutcast.com/radioeurodanceclassic"
+    },
+    {
+        "Title": "Radio Expres (Antwerpen)",
+        "Country": "Belgium",
+        "Tags": "pop",
+        "Source1": "http://www.clubfmserver.be:8000/expres.mp3"
+    },
+    {
+        "Title": "Radio Expres Belgium",
+        "Country": "Belgium",
+        "Favicon": "http://www.radioexpres.be/wp-content/uploads/2021/10/cropped-REX_logo.png",
+        "Homepage": "http://www.radioexpres.be/",
+        "Source1": "http://www.clubfmserver.be:8000/expres.mp3"
+    },
+    {
+        "Title": "Radio FG Antwerpen",
+        "Country": "Belgium",
+        "Tags": "house",
+        "Favicon": "https://radiofg.be/wp-content/uploads/2021/09/LOGO-FG-GLOBAL-cropped.png",
+        "Homepage": "https://radiofg.be/",
+        "Latitude": 50.77120783188783,
+        "Longitude": 4.459285355827004,
+        "Source1": "https://stream.rcs.revma.com/5wesqhfap98uv"
+    },
+    {
+        "Title": "Radio FM Gold",
+        "Country": "Belgium",
+        "Tags": "hits,pop",
+        "Language": "fr",
+        "Homepage": "http://fmgold.be/",
+        "Source1": "http://fmgold.mvserver.be:3181/;"
+    },
+    {
+        "Title": "Radio Forest",
+        "Country": "Belgium",
+        "Homepage": "http://www.radioforest.be/",
+        "Source1": "http://15424.cloudrad.io:9182/live"
+    },
+    {
+        "Title": "Radio Gompel  105,6 FM , Mol, be",
+        "Country": "Belgium",
+        "Tags": "local radio",
+        "Favicon": "https://static.mytuner.mobi/media/tvos_radios/SyCVuT4L8f.png",
+        "Language": "nl",
+        "Homepage": "https://www.radiogompel.be/",
+        "Latitude": 51.19220220879563,
+        "Longitude": 5.15047588341528,
+        "Source1": "http://caster05.streampakket.com:8916/stream.mp3"
+    },
+    {
+        "Title": "Radio Internazionale",
+        "Country": "Belgium",
+        "Tags": "italian pop",
+        "Language": "it",
+        "Homepage": "http://www.radiointernazionale.be/",
+        "Source1": "http://str01.fluidstream.net/fluid06.mp3"
+    },
+    {
+        "Title": "Radio Italia Charleroi",
+        "Country": "Belgium",
+        "Tags": "italian pop",
+        "Favicon": "http://players.fluidstream.it/RadioItaliaCharleroi/images/cover_default.jpg",
+        "Language": "it",
+        "Homepage": "http://www.radioitaliacharleroi.com/",
+        "Source1": "http://str01.fluidstream.net:7170/listen.pls"
+    },
+    {
+        "Title": "Radio Judaïca Bruxelles",
+        "Country": "Belgium",
+        "Tags": "current affairs,israel,jewish culture,podcasts,special programs",
+        "Favicon": "https://radiojudaica.be/upload/627a3c3487fde4.41724569.ico",
+        "Language": "fr",
+        "Homepage": "https://radiojudaica.be/",
+        "Source1": "http://radiojudaica.ice.infomaniak.ch/radiojudaica-128.mp3"
+    },
+    {
+        "Title": "Radio Kamiel",
+        "Country": "Belgium",
+        "Favicon": "https://www.google.com/s2/favicons?sz=256&domain_url=https%3A%2F%2Fwww.radiokamiel.be%2F",
+        "Homepage": "https://www.radiokamiel.be/",
+        "Latitude": 50.93872905691399,
+        "Longitude": 4.03782695632049,
+        "Source1": "http://live.radiostudio.be/kamiel"
+    },
+    {
+        "Title": "Radio Land Van Waas (Stream)",
+        "Country": "Belgium",
+        "Tags": "all ages",
+        "Language": "nl",
+        "Homepage": "https://www.rlvw.be/",
+        "Source1": "http://stream.rlvw.be:8480/stream"
+    },
+    {
+        "Title": "Radio Lichtaart - Lichtaart, BE",
+        "Country": "Belgium",
+        "Tags": "variety",
+        "Language": "nl",
+        "Homepage": "http://www.radiolichtaart.be/",
+        "Latitude": 51.22430489598545,
+        "Longitude": 4.92009527404655,
+        "Source1": "http://radiolichtaartaac.beheerstream.nl:8108/stream"
+    },
+    {
+        "Title": "Radio Lorali",
+        "Country": "Belgium",
+        "Favicon": "https://lorali.be/favicon.ico",
+        "Homepage": "https://lorali.be/",
+        "Source1": "https://lorali.beheerstream.nl/cp/links.php?p=8014&m=pls"
+    },
+    {
+        "Title": "Radio LRL",
+        "Country": "Belgium",
+        "Tags": "hits,oldies,regional,schlager",
+        "Homepage": "https://lrl.radio/",
+        "Source1": "https://s2.ssl-stream.com/radio/8070/live.mp3"
+    },
+    {
+        "Title": "Radio M FM",
+        "Country": "Belgium",
+        "Tags": "hits,pop",
+        "Language": "fr",
+        "Homepage": "http://ip75.ip-149-202-22.eu:8248/;",
+        "Source1": "http://149.202.22.75:8248/;"
+    },
+    {
+        "Title": "Radio Magic Europ",
+        "Country": "Belgium",
+        "Tags": "international",
+        "Language": "de,fr",
+        "Homepage": "https://radio-magic-europ.hpage.com/",
+        "Source1": "http://s4.yesstreaming.net:7162/stream"
+    },
+    {
+        "Title": "Radio Maria",
+        "Country": "Belgium",
+        "Language": "nl",
+        "Homepage": "http://www.radiomaria.be/",
+        "Source1": "http://stream.radiomaria.be/RadioMaria-96.pls"
+    },
+    {
+        "Title": "RADIO MARIA BELGIUM",
+        "Country": "Belgium",
+        "Tags": "catholic,christian,religion,religious,talk",
+        "Homepage": "http://www.radiomaria.be/",
+        "Source1": "http://dreamsiteradiocp.com:8042/stream"
+    },
+    {
+        "Title": "Radio Memory",
+        "Country": "Belgium",
+        "Favicon": "https://www.radiomemory.be/img/logo/memory-transparant-wit.png",
+        "Homepage": "https://www.radiomemory.be/index.html",
+        "Source1": "https://live.radiostudio.be/radiomemory"
+    },
+    {
+        "Title": "Radio Meteor AALTER.be",
+        "Country": "Belgium",
+        "Tags": "pop",
+        "Language": "nl",
+        "Homepage": "https://radiometeor.com/",
+        "Latitude": 51.07644014133449,
+        "Longitude": 3.4519909123576347,
+        "Source1": "http://streams.movemedia.be/meteor"
+    },
+    {
+        "Title": "Radio Minerva",
+        "Country": "Belgium",
+        "Favicon": "https://www.radiominerva.be/radio/assets/img/Logo.png",
+        "Homepage": "https://www.radiominerva.be/",
+        "Source1": "http://streaming.radiominerva.be/minerva"
+    },
+    {
+        "Title": "Radio Minerva",
+        "Country": "Belgium",
+        "Language": "nl",
+        "Homepage": "http://www.radio-minerva.be/",
+        "Source1": "http://91.121.219.80/minerva"
+    },
+    {
+        "Title": "Radio Mol",
+        "Country": "Belgium",
+        "Favicon": "https://www.radiomol.be/images/logo/radiomol-logo@2x.png",
+        "Homepage": "https://www.radiomol.be/",
+        "Source1": "https://radiomol.ice.infomaniak.ch/radiomol-192.mp3"
+    },
+    {
+        "Title": "Radio Monza - 106.5FM Kinrooi, Be",
+        "Country": "Belgium",
+        "Tags": "community radio",
+        "Homepage": "http://www.radiomonza.be/",
+        "Latitude": 51.144208039473966,
+        "Longitude": 5.741649819160682,
+        "Source1": "http://uplink.intronic.nl/radiomonza",
+        "Source2": "http://stream.intronic.nl/radiomonza.m3u"
+    },
+    {
+        "Title": "Radio Music Sambre",
+        "Country": "Belgium",
+        "Tags": "70s,80s,folk,pop",
+        "Language": "fr",
+        "Homepage": "http://www.radiomusicsambre.be/",
+        "Source1": "http://radiomusicsambre.ice.infomaniak.ch/radiomusicsambre-128.mp3"
+    },
+    {
+        "Title": "Radio Ninove",
+        "Country": "Belgium",
+        "Tags": "pop music",
+        "Favicon": "https://usercontent.one/wp/www.radioninove.be/wp-content/uploads/2021/03/cropped-RadioNinove_Logo_Instagram-192x192.png?media=1768646972",
+        "Language": "nl",
+        "Homepage": "https://www.radioninove.be/",
+        "Latitude": 50.83503117844761,
+        "Longitude": 4.0240068350658165,
+        "Source1": "https://radioninove.streamer.radioninove.be/"
+    },
+    {
+        "Title": "Radio Ninove Classic Hits",
+        "Country": "Belgium",
+        "Homepage": "https://www.radioninove.be/",
+        "Latitude": 50.8366344742942,
+        "Longitude": 4.02031331224059,
+        "Source1": "https://classichits.streamer.radioninove.be/"
+    },
+    {
+        "Title": "Radio Ninove Non-Stop Hits",
+        "Country": "Belgium",
+        "Tags": "hits",
+        "Language": "nl",
+        "Homepage": "https://www.radioninove.be/",
+        "Latitude": 50.83441836037746,
+        "Longitude": 4.020294298518632,
+        "Source1": "https://nonstophits.streamer.radioninove.be/"
+    },
+    {
+        "Title": "Radio Noorderkempen 106.2 - 107.8 FM",
+        "Country": "Belgium",
+        "Homepage": "http://liquidsoap.fm/",
+        "Source1": "http://streams.movemedia.eu:8350/;"
+    },
+    {
+        "Title": "Radio Noordzee (192k)",
+        "Country": "Belgium",
+        "Tags": "live radio,music,news",
+        "Favicon": "https://image.jimcdn.com/app/cms/image/transf/dimension=330x10000:format=png/path/s9e6a3346d3e8a31d/image/icae1bd052ee3dde8/version/1607257621/image.png",
+        "Homepage": "https://www.radionoordzee105.be/",
+        "Latitude": 51.22623789457001,
+        "Longitude": 2.916183471679688,
+        "Source1": "http://stream.noordzee105.be:8000/noordzee_192"
+    },
+    {
+        "Title": "Radio Noordzee (48k)",
+        "Country": "Belgium",
+        "Tags": "live radio",
+        "Favicon": "https://image.jimcdn.com/app/cms/image/transf/dimension=330x10000:format=png/path/s9e6a3346d3e8a31d/image/icae1bd052ee3dde8/version/1607257621/image.png",
+        "Homepage": "https://www.radionoordzee105.be/",
+        "Source1": "http://stream.noordzee105.be:8000/noordzee_48"
+    },
+    {
+        "Title": "Radio Noordzee Info",
+        "Country": "Belgium",
+        "Tags": "news",
+        "Favicon": "https://image.jimcdn.com/app/cms/image/transf/dimension=330x10000:format=png/path/s9e6a3346d3e8a31d/image/ida3ab4b07e0a9493/version/1607257617/image.png",
+        "Homepage": "https://www.radionoordzee105.be/info/",
+        "Latitude": 51.22623789457001,
+        "Longitude": 2.9141235351562504,
+        "Source1": "http://stream.noordzee105.be:8000/noordzee_info"
+    },
+    {
+        "Title": "Radio Nova",
+        "Country": "Belgium",
+        "Tags": "hollands,nederlandstalig,oldies,schlager",
+        "Favicon": "https://usercontent.one/wp/www.radionova.be/wp-content/uploads/2023/03/cropped-2-180x180.png?media=1699536891",
+        "Language": "nl",
+        "Homepage": "https://www.radionova.be/",
+        "Latitude": 50.7680662176985,
+        "Longitude": 3.9420318603515625,
+        "Source1": "https://nova.dzradio.nl/nova"
+    },
+    {
+        "Title": "Radio Oost-West",
+        "Country": "Belgium",
+        "Tags": "dutch music,french music,local music,local radio,rock",
+        "Favicon": "https://www.radiooostwest.be/wp-content/uploads/2018/01/cropped-Logo-enkel-32x32.png",
+        "Language": "nl",
+        "Homepage": "https://www.radiooostwest.be/",
+        "Source1": "https://icecast.movemedia.be/oostwest"
+    },
+    {
+        "Title": "Radio Opsinjoor",
+        "Country": "Belgium",
+        "Favicon": "https://www.opsinjoor.be/player/img/logos/opsinjoor.png",
+        "Homepage": "https://www.opsinjoor.be/",
+        "Source1": "https://icecast.movemedia.be/opsinjoor"
+    },
+    {
+        "Title": "Radio Palermo - Essen, be",
+        "Country": "Belgium",
+        "Tags": "pop",
+        "Language": "nl",
+        "Homepage": "http://www.radio-palermo.be/",
+        "Latitude": 51.46824746883505,
+        "Longitude": 4.469031890321644,
+        "Source1": "http://167.172.62.28/radio/8000/radio.mp3"
+    },
+    {
+        "Title": "Radio Pallieter",
+        "Country": "Belgium",
+        "Language": "nl",
+        "Homepage": "http://www.radiopallieter.eu/",
+        "Source1": "http://s39.myradiostream.com:14494/listen.mp3"
+    },
+    {
+        "Title": "Radio Pallieter Lier, Be",
+        "Country": "Belgium",
+        "Language": "nl",
+        "Homepage": "http://radiopallieter.eu/",
+        "Latitude": 51.13098644740945,
+        "Longitude": 4.571183992185418,
+        "Source1": "http://s39.myradiostream.com:14494/listen.mp3"
+    },
+    {
+        "Title": "Radio Paloma  Poppel,be",
+        "Country": "Belgium",
+        "Homepage": "http://www.radiopaloma.com/",
+        "Latitude": 51.44375730005648,
+        "Longitude": 5.043146618031621,
+        "Source1": "http://ex52.voordeligstreamen.nl/8054/stream"
+    },
+    {
+        "Title": "Radio Panik",
+        "Country": "Belgium",
+        "Tags": "alternative",
+        "Favicon": "https://www.radiopanik.org/static/img/logo-panik-500-invert.png",
+        "Region": "BE-BRU",
+        "Homepage": "https://www.radiopanik.org/",
+        "Latitude": 50.85086,
+        "Longitude": 4.37424,
+        "Source1": "https://streaming.domainepublic.net/radiopanik.ogg"
+    },
+    {
+        "Title": "Radio Paradise",
+        "Country": "Belgium",
+        "Language": "nl",
+        "Homepage": "https://www.radioparadise.eu/",
+        "Source1": "https://phoebe.streamerr.co:3445/stream"
+    },
+    {
+        "Title": "Radio Park FM",
+        "Country": "Belgium",
+        "Tags": "pop",
+        "Favicon": "http://parkfm.be/favicon.ico",
+        "Homepage": "http://parkfm.be/",
+        "Source1": "http://streams.movemedia.eu:8054/"
+    },
+    {
+        "Title": "Radio Parkies",
+        "Country": "Belgium",
+        "Favicon": "https://parkinson-radio-parkies.weebly.com/uploads/1/5/0/6/15065266/radiologo_orig.jpg",
+        "Homepage": "https://www.radioparkies.com/",
+        "Source1": "https://stream.radioparkies.com/public/parkies/playlist.pls"
+    },
+    {
+        "Title": "Radio Parkies - Meise, be",
+        "Country": "Belgium",
+        "Language": "nl",
+        "Homepage": "https://www.radioparkies.com/",
+        "Latitude": 50.93397603961626,
+        "Longitude": 4.32893693236443,
+        "Source1": "https://stream.radioparkies.com/listen/parkies/stream.mp3"
+    },
+    {
+        "Title": "Radio Plus Gent",
+        "Country": "Belgium",
+        "Tags": "70s,80s,90s,disco,funk",
+        "Homepage": "http://www.radioplusgent.be/",
+        "Latitude": 51.00277806411907,
+        "Longitude": 3.6852318048477177,
+        "Source1": "http://live.radiostudio.be/plus"
+    },
+    {
+        "Title": "Radio Quartz",
+        "Country": "Belgium",
+        "Favicon": "http://www.radioquartz.be/favicon.ico",
+        "Language": "fr",
+        "Homepage": "http://www.radioquartz.be/",
+        "Source1": "http://manager2.streaming-ingenierie.fr:8026/;stream.mp3"
+    },
+    {
+        "Title": "radio qui chifel",
+        "Country": "Belgium",
+        "Homepage": "https://rqc.be/",
+        "Latitude": 50.74584089697238,
+        "Longitude": 3.228607177734375,
+        "Source1": "https://stream.rqc.be/listen.pls?sid=1"
+    },
+    {
+        "Title": "Radio Rand",
+        "Country": "Belgium",
+        "Tags": "pop music",
+        "Language": "nl",
+        "Homepage": "https://www.radiorand.be/",
+        "Source1": "http://s44.myradiostream.com:8612/listen.m4a"
+    },
+    {
+        "Title": "Radio Reflex",
+        "Country": "Belgium",
+        "Homepage": "https://www.radioreflex.be/",
+        "Latitude": 51.02666199354794,
+        "Longitude": 4.483623504638673,
+        "Source1": "http://shoutcast2.wirelessbelgie.be:8510/"
+    },
+    {
+        "Title": "Radio RGR Classic Hits Rotselaar, Be",
+        "Country": "Belgium",
+        "Tags": "various",
+        "Language": "nl",
+        "Homepage": "http://www.rgrfm.be/",
+        "Latitude": 50.95599850903947,
+        "Longitude": 4.751617089075909,
+        "Source1": "https://www.rgrfm.be/streams/rgr.m3u"
+    },
+    {
+        "Title": "Radio RGR Dance Rotselaar, Be",
+        "Country": "Belgium",
+        "Tags": "dance",
+        "Language": "nl",
+        "Homepage": "http://www.rgrfm.be/",
+        "Latitude": 50.95600647545188,
+        "Longitude": 4.7516118909246385,
+        "Source1": "https://www.rgrfm.be/streams/rgrstream.m3u"
+    },
+    {
+        "Title": "Radio Ruby  - Gent, be",
+        "Country": "Belgium",
+        "Homepage": "http://www.radioruby.be/",
+        "Latitude": 51.041010563637016,
+        "Longitude": 3.730773777897291,
+        "Source1": "https://ruby.stream.laut.fm/ruby"
+    },
+    {
+        "Title": "Radio Salamandre ASBL",
+        "Country": "Belgium",
+        "Tags": "folklore,wallonia",
+        "Favicon": "https://www.mixcloud.com/media/client/www/f4da1f12b502ec0a7c63.png",
+        "Language": "fr",
+        "Homepage": "https://www.mixcloud.com/radiosalamandre/",
+        "Source1": "http://radiosalamandre.ice.infomaniak.ch/radiosalamandre.aac"
+    },
+    {
+        "Title": "Radio Seven 105.84FM, Costa Brava",
+        "Country": "Belgium",
+        "Homepage": "http://www.radioseven.eu/",
+        "Source1": "http://s1.voscast.com:10584/stream"
+    },
+    {
+        "Title": "Radio Singjaal",
+        "Country": "Belgium",
+        "Favicon": "https://radiosingjaal.be/wp-content/uploads/2022/08/favicon.png",
+        "Homepage": "https://radiosingjaal.be/",
+        "Source1": "https://mscp2.live-streams.nl:8202/radiosingjaal"
+    },
+    {
+        "Title": "Radio STAR",
+        "Country": "Belgium",
+        "Homepage": "https://www.radiostar.be/",
+        "Latitude": 50.88247705080452,
+        "Longitude": 3.8904542208840103,
+        "Source1": "https://stream.radiostar.be/"
+    },
+    {
+        "Title": "Radio STAR 70-80's",
+        "Country": "Belgium",
+        "Homepage": "https://www.radiostar.be/",
+        "Source1": "http://stream.radiostar.be:7080/stream"
+    },
+    {
+        "Title": "Radio Stars 98.5 FM",
+        "Country": "Belgium",
+        "Homepage": "http://radiostars.be/",
+        "Source1": "http://ks393340.kimsufi.com:8000/RadioStars-Ant"
+    },
+    {
+        "Title": "Radio Stars 98.5 FM & DAB+ (Belgium)",
+        "Country": "Belgium",
+        "Homepage": "http://radiostars.be/",
+        "Source1": "http://stream.radiostars.be:8000/RadioStars.mka",
+        "Source2": "http://stream.radiostars.be:9850/RadioStars.mka"
+    },
+    {
+        "Title": "Radio Stars 98.5 FM & DAB+ (Belgium)",
+        "Country": "Belgium",
+        "Favicon": "http://radiostars.be/templates/radio_stars_1/images/Logo-radiostars.png",
+        "Homepage": "http://radiostars.be/index.php/accueil-1",
+        "Source1": "http://stream.radiostars.be:9850/RadioStars.mka"
+    },
+    {
+        "Title": "Radio Studio 22 Gullegem, be",
+        "Country": "Belgium",
+        "Homepage": "http://www.luister22.be/",
+        "Latitude": 50.84219780078604,
+        "Longitude": 3.216695484775256,
+        "Source1": "http://stream.twinmedia.be:8010/;.pls"
+    },
+    {
+        "Title": "Radio Sud",
+        "Country": "Belgium",
+        "Favicon": "https://www.radiosud.be/favicon/android-icon-192x192.png",
+        "Homepage": "https://www.radiosud.be/",
+        "Source1": "https://streaming.domainepublic.net/radiosud.mp3"
+    },
+    {
+        "Title": "Radio Sunshine 97,5 Ostbelgien",
+        "Country": "Belgium",
+        "Tags": "schlagerselection",
+        "Homepage": "https://www.radio-sunshine.info/livestream",
+        "Source1": "http://streamlive.syndicationradio.fr:8158/stream"
+    },
+    {
+        "Title": "Radio Tamara",
+        "Country": "Belgium",
+        "Tags": "70s,80s,90s,hits,oldies",
+        "Language": "nl",
+        "Homepage": "http://www.radiotamara.be/",
+        "Source1": "http://audiostreamen.nl:8006/"
+    },
+    {
+        "Title": "Radio TRL",
+        "Country": "Belgium",
+        "Favicon": "http://radiotrl.be/wp-content/uploads/2023/04/logo.png",
+        "Language": "nl",
+        "Homepage": "https://radiotrl.be/",
+        "Latitude": 51.24431075758926,
+        "Longitude": 3.5182401537895207,
+        "Source1": "http://stream.radiotrl.be:8000/RadioTRL",
+        "Source2": "http://stream.radiotrl.be/RadioTRL"
+    },
+    {
+        "Title": "Radio Tx",
+        "Country": "Belgium",
+        "Language": "es",
+        "Homepage": "http://www.radiotx.es/",
+        "Source1": "http://janus.shoutca.st:8675/stream"
+    },
+    {
+        "Title": "Radio Utopia  Baal, be",
+        "Country": "Belgium",
+        "Homepage": "http://www.radioutopia.be/",
+        "Latitude": 50.99361341035574,
+        "Longitude": 4.754149314836146,
+        "Source1": "http://radioutopia.beheerstream.nl:8030/stream"
+    },
+    {
+        "Title": "Radio Utopia 107.9 - Baal, Be",
+        "Country": "Belgium",
+        "Tags": "oldies",
+        "Language": "nl",
+        "Homepage": "http://www.radioutopia.be/",
+        "Latitude": 50.99474874620233,
+        "Longitude": 4.752615204294224,
+        "Source1": "http://panel.beheerstream.com:2199/tunein/radioutopia.pls"
+    },
+    {
+        "Title": "Radio Valencia 105 FM - Meer, Be",
+        "Country": "Belgium",
+        "Homepage": "https://www.radiovalencia.be/",
+        "Latitude": 51.44623933226636,
+        "Longitude": 4.737594630752775,
+        "Source1": "https://stream.radiovalencia.be/"
+    },
+    {
+        "Title": "Radio Victoria",
+        "Country": "Belgium",
+        "Tags": "80s,90s,happy music,pop music",
+        "Favicon": "https://www.radiovictoria.be/wp-content/uploads/2025/08/cropped-Victoria_RGB_Kat_Blauw-scaled-1-192x192.png",
+        "Language": "nl",
+        "Homepage": "https://www.radiovictoria.be/",
+        "Latitude": 50.73730321973312,
+        "Longitude": 4.234623569350196,
+        "Source1": "https://streamer1.radiovictoria.be/"
+    },
+    {
+        "Title": "Radio Victoria Carnaval",
+        "Country": "Belgium",
+        "Homepage": "https://www.radiovictoria.be/",
+        "Source1": "https://carnaval.radiovictoria.be/"
+    },
+    {
+        "Title": "Radio Vintage Plus",
+        "Country": "Belgium",
+        "Tags": "oldies",
+        "Language": "fr",
+        "Homepage": "https://www.rvplus.be/",
+        "Source1": "https://radio2.pro-fhi.net/radio/9039/stream.mp3"
+    },
+    {
+        "Title": "Radio VRW 104.9 FM -Wellen, be",
+        "Country": "Belgium",
+        "Tags": "community",
+        "Language": "nl",
+        "Homepage": "http://www.vrw.be/",
+        "Latitude": 50.841181737326984,
+        "Longitude": 5.337721311230817,
+        "Source1": "http://mediaserv38.live-streams.nl:8009/stream"
+    },
+    {
+        "Title": "Radio Wfm 105.4 - Westerlo, be",
+        "Country": "Belgium",
+        "Tags": "variety",
+        "Language": "nl",
+        "Homepage": "https://wfm.be/",
+        "Latitude": 51.08485139574151,
+        "Longitude": 4.909920085706091,
+        "Source1": "https://mcp-2.mm-stream.nl:8126/WFM"
+    },
+    {
+        "Title": "Radio Yujen Briag - Power Station",
+        "Country": "Belgium",
+        "Favicon": "https://www.google.com/interests/saved?hl=bg-BE",
+        "Homepage": "https://yujenbriag.be/",
+        "Source1": "https://play.radioking.io/iujenbriagburgas/524027"
+    },
+    {
+        "Title": "Radio Zuidrand",
+        "Country": "Belgium",
+        "Language": "nl",
+        "Homepage": "https://www.radiozuidrand.be/",
+        "Latitude": 51.15166496553339,
+        "Longitude": 4.49430143731913,
+        "Source1": "https://www.radiozuidrand.be/",
+        "Source2": "https://shoutcast2.wirelessbelgie.be/zuidrand/;audio.mp3."
+    },
+    {
+        "Title": "Radio1 Lage Landenlijst",
+        "Country": "Belgium",
+        "Tags": "nederlandstalig",
+        "Favicon": "https://radio1.be/resources/favicon-radio1/favicon-32x32.png",
+        "Language": "nl",
+        "Homepage": "https://radio1.be/",
+        "Source1": "http://icecast.vrtcdn.be/radio1_lagelanden-high.mp3"
+    },
+    {
+        "Title": "radiorsj.be",
+        "Country": "Belgium",
+        "Homepage": "https://www.radiorsj.be/",
+        "Source1": "https://cc6.beheerstream.com/proxy/jjzdhavt?mp=//;type=mp3"
+    },
+    {
+        "Title": "RadioSpinner - Atmospheric Breaks",
+        "Country": "Belgium",
+        "Tags": "atmospheric,breakbeat,chillout",
+        "Homepage": "https://radiospinner.com/stations/atmospheric-breaks-102756/",
+        "Source1": "https://tower.hayva.ru/5jwuo-96"
+    },
+    {
+        "Title": "Radyo Gar",
+        "Country": "Belgium",
+        "Homepage": "https://radyogar.com/",
+        "Source1": "https://gargara.net/listen/zana/radio.mp3"
+    },
+    {
+        "Title": "Rainy Day (myNoise Radio)",
+        "Country": "Belgium",
+        "Favicon": "https://mynoise.net/apple-touch-icon.png",
+        "Homepage": "https://mynoise.net/radios.php",
+        "Source1": "http://rainyday.radio.mynoise.net/"
+    },
+    {
+        "Title": "RBL",
+        "Country": "Belgium",
+        "Favicon": "https://www.static.rtbf.be/favicon.ico",
+        "Language": "fr",
+        "Homepage": "https://www.static.rtbf.be/radio/lapremiere/m3u/lapremiere-mp3.m3u",
+        "Source1": "https://radios.rtbf.be/laprem1ere-128.mp3"
+    },
+    {
+        "Title": "RBS gold radio",
+        "Country": "Belgium",
+        "Favicon": "https://play-lh.googleusercontent.com/1ZNe9Da6T9YJ2GQljgViXjYlk2F6_Woo7EG4i_-WEN1kpC6kMbSjouHP3rNzB7oH2A",
+        "Homepage": "https://www.rbsradio.be/radiochannel/rbs-gold/",
+        "Latitude": 50.94953785110642,
+        "Longitude": 4.042515994992796,
+        "Source1": "https://caster04.streampakket.com/proxy/8090/stream"
+    },
+    {
+        "Title": "RBS Radio",
+        "Country": "Belgium",
+        "Tags": "easy listening,regional",
+        "Language": "nl",
+        "Homepage": "https://www.rbsradio.be/",
+        "Latitude": 51.0648468625428,
+        "Longitude": 4.027186632156373,
+        "Source1": "http://streams.movemedia.eu/rbs"
+    },
+    {
+        "Title": "RCF Bruxelles",
+        "Country": "Belgium",
+        "Tags": "christian",
+        "Favicon": "http://rcf.be/favicon.ico",
+        "Language": "fr",
+        "Homepage": "http://rcf.be/category/bruxelles",
+        "Source1": "http://rcf.streamakaci.com/rcfbruxelles.mp3"
+    },
+    {
+        "Title": "RCF Liège",
+        "Country": "Belgium",
+        "Tags": "christian",
+        "Language": "fr",
+        "Homepage": "https://rcf.fr/",
+        "Source1": "http://rcf.streamakaci.com/rcfliege.mp3"
+    },
+    {
+        "Title": "RCF Sud Belgique",
+        "Country": "Belgium",
+        "Tags": "christian",
+        "Favicon": "https://rcf.fr/favicon.ico",
+        "Language": "fr",
+        "Homepage": "https://rcf.fr/",
+        "Source1": "http://rcf.streamakaci.com/rcfsudbe.mp3"
+    },
+    {
+        "Title": "RGR Classic Hits",
+        "Country": "Belgium",
+        "Tags": "golden oldies",
+        "Favicon": "https://www.rgrfm.be/img/logo/rgrfm_logo_cover_big.png",
+        "Language": "nl",
+        "Homepage": "https://www.rgrfm.be/rgr-classic-hits",
+        "Source1": "https://stream1.rgrfm.be/"
+    },
+    {
+        "Title": "RGR FM 106.5Fm Heist op den Berg, Be",
+        "Country": "Belgium",
+        "Homepage": "https://www.rgrfm.be/",
+        "Latitude": 51.07679298498963,
+        "Longitude": 4.734889300662548,
+        "Source1": "http://uplink.intronic.nl/rgrfm"
+    },
+    {
+        "Title": "RockFM Online",
+        "Country": "Belgium",
+        "Tags": "heavy metal,metal,rock",
+        "Favicon": "https://cdn-profiles.tunein.com/s355127/images/logod.jpg",
+        "Language": "fr,nl",
+        "Homepage": "https://www.rockfmonline.be/page.php?id=1",
+        "Source1": "http://streams.movemedia.eu:8440/"
+    },
+    {
+        "Title": "rowyna",
+        "Country": "Belgium",
+        "Tags": "rock",
+        "Source1": "https://server5.radio-streams.net:2199/tunein/rowynamu.pls"
+    },
+    {
+        "Title": "rowyna music",
+        "Country": "Belgium",
+        "Tags": "rock",
+        "Source1": "https://server5.radio-streams.net:2199/tunein/rowynamu.pls"
+    },
+    {
+        "Title": "Rowyna Music (n.strm)",
+        "Country": "Belgium",
+        "Tags": "pop music",
+        "Language": "nl",
+        "Homepage": "https://rowynamusic.be/",
+        "Source1": "https://server7.radio-streams.net/proxy/rowynamu/stream"
+    },
+    {
+        "Title": "Rowyna Music (ns)",
+        "Country": "Belgium",
+        "Tags": "pop",
+        "Language": "nl",
+        "Homepage": "https://rowynamusic.be/",
+        "Source1": "https://server7.radio-streams.net:2199/tunein/rowynamu.pls"
+    },
+    {
+        "Title": "Rowyna Music (nw.strm)",
+        "Country": "Belgium",
+        "Tags": "pop music",
+        "Favicon": "https://rowynamusic.be/images/logo3.png",
+        "Language": "nl",
+        "Homepage": "https://rowynamusic.be/",
+        "Source1": "https://server7.radio-streams.net/proxy/rowynamu/stream"
+    },
+    {
+        "Title": "RTBF - Musiq3 Baroque",
+        "Country": "Belgium",
+        "Tags": "baroque",
+        "Language": "fr",
+        "Homepage": "https://www.rtbf.be/radio/liveradio/musiq3-baroque",
+        "Source1": "https://radios.rtbf.be/wr-m3-baroque-128.mp3"
+    },
+    {
+        "Title": "RTBF Classic 21",
+        "Country": "Belgium",
+        "Tags": "pop,rock",
+        "Favicon": "https://www.static.rtbf.be/rtbf/home/images/ico/favicon-info-32x32.png",
+        "Language": "fr",
+        "Homepage": "https://www.rtbf.be/classic21/",
+        "Source1": "https://radios.rtbf.be/classic21-128.mp3",
+        "Source2": "https://radios.rtbf.be/classic21-64.aac"
+    },
+    {
+        "Title": "RTBF Classic 21",
+        "Country": "Belgium",
+        "Favicon": "https://www.static.rtbf.be/rtbf/home/images/ico/favicon-info-32x32.png",
+        "Language": "fr",
+        "Homepage": "https://www.rtbf.be/radio/liveradio/classic21",
+        "Source1": "http://radio.rtbf.be/c21/aac-128/fl"
+    },
+    {
+        "Title": "RTBF Classic 21 - 60's",
+        "Country": "Belgium",
+        "Tags": "60s,rtbf",
+        "Favicon": "http://www.rtbf.be/favicon.ico",
+        "Language": "fr",
+        "Homepage": "http://www.rtbf.be/radio/liveradio/webradio-classic21-60",
+        "Source1": "https://radios.rtbf.be/wr-c21-60-128.mp3"
+    },
+    {
+        "Title": "RTBF Classic 21 - 70's",
+        "Country": "Belgium",
+        "Tags": "70s,rtbf",
+        "Favicon": "http://www.rtbf.be/favicon.ico",
+        "Language": "fr",
+        "Homepage": "http://www.rtbf.be/radio/liveradio/webradio-classic21-70",
+        "Source1": "https://radios.rtbf.be/wr-c21-70-128.mp3"
+    },
+    {
+        "Title": "RTBF Classic 21 - 80's",
+        "Country": "Belgium",
+        "Tags": "rock",
+        "Favicon": "https://www.radio.fr/300/classic2180s.png",
+        "Language": "fr",
+        "Homepage": "http://www.rtbf.be/radio/liveradio/webradio-classic21-80",
+        "Source1": "https://radios.rtbf.be/wr-c21-80-128.mp3"
+    },
+    {
+        "Title": "RTBF Classic 21 - 90's",
+        "Country": "Belgium",
+        "Tags": "rock",
+        "Favicon": "https://www.allzicradio.com/media/radios/classic21-90-allzicradio.png",
+        "Language": "fr",
+        "Homepage": "http://www.rtbf.be/radio/liveradio/webradio-classic21-90",
+        "Source1": "https://radios.rtbf.be/wr-c21-90-128.mp3"
+    },
+    {
+        "Title": "RTBF Classic 21 - Live",
+        "Country": "Belgium",
+        "Tags": "live",
+        "Favicon": "https://assets.maradio.be/stationimages/1107_programme_image.png",
+        "Language": "fr",
+        "Homepage": "https://www.rtbf.be/radio/liveradio/webradio-classic21-live",
+        "Source1": "https://radios.rtbf.be/wr-c21-live-128.mp3"
+    },
+    {
+        "Title": "RTBF Classic 21 - Metal",
+        "Country": "Belgium",
+        "Tags": "rock",
+        "Favicon": "https://www.radio.fr/300/classic2190s.png",
+        "Language": "fr",
+        "Homepage": "http://www.rtbf.be/radio/liveradio/webradio-classic21-metal",
+        "Source1": "https://radios.rtbf.be/wr-c21-metal-128.mp3"
+    },
+    {
+        "Title": "RTBF Classic 21 - Reggae",
+        "Country": "Belgium",
+        "Tags": "reggae,roots reggae,rtbf",
+        "Favicon": "http://www.rtbf.be/favicon.ico",
+        "Language": "fr",
+        "Homepage": "http://www.rtbf.be/radio/liveradio/wr-eventradio",
+        "Source1": "https://radios.rtbf.be/wr-eventradio-128.mp3"
+    },
+    {
+        "Title": "RTBF Classic 21 - Route 66",
+        "Country": "Belgium",
+        "Tags": "country,rtbf",
+        "Favicon": "http://www.rtbfradioplayer.be/favicon.ico",
+        "Language": "fr",
+        "Homepage": "http://www.rtbfradioplayer.be/radio/liveradio/webradio-classic21-66",
+        "Source1": "https://radios.rtbf.be/wr-c21-route66-128.mp3"
+    },
+    {
+        "Title": "RTBF Classic 21 - Soul Power",
+        "Country": "Belgium",
+        "Tags": "rtbf,soul",
+        "Favicon": "http://www.rtbfradioplayer.be/favicon.ico",
+        "Language": "fr",
+        "Homepage": "http://www.rtbfradioplayer.be/radio/liveradio/webradio-classic21-soul",
+        "Source1": "https://radios.rtbf.be/wr-c21-soul-128.mp3"
+    },
+    {
+        "Title": "RTBF Classic 21 - Underground",
+        "Country": "Belgium",
+        "Tags": "underground",
+        "Favicon": "https://www.rtbf.be/favicon.ico",
+        "Language": "fr",
+        "Homepage": "https://www.rtbf.be/radio/liveradio/webradio-classic21-underground",
+        "Source1": "https://radios.rtbf.be/wr-c21-underground-128.mp3"
+    },
+    {
+        "Title": "RTBF Jam.",
+        "Country": "Belgium",
+        "Tags": "alternative,electro,folk,nu-jazz,pop,rock,urban,world music",
+        "Favicon": "https://www.static.rtbf.be/rtbf/home/images/ico/favicon-info-32x32.png",
+        "Language": "fr",
+        "Homepage": "https://www.rtbf.be/jam",
+        "Source1": "https://radios.rtbf.be/jam-128.mp3"
+    },
+    {
+        "Title": "RTBF La Première",
+        "Country": "Belgium",
+        "Tags": "généraliste",
+        "Favicon": "https://assets.maradio.be/stationimages/1103_programme_image.png",
+        "Homepage": "https://www.rtbf.be/lapremiere",
+        "Source1": "https://redbeemedia.streamabc.net/redbm-lapremiere-aac-128-7561067"
+    },
+    {
+        "Title": "RTBF La Première",
+        "Country": "Belgium",
+        "Tags": "news,rtbf,variety",
+        "Favicon": "https://www.static.rtbf.be/rtbf/home/images/ico/favicon-info-32x32.png",
+        "Language": "fr",
+        "Homepage": "https://www.rtbf.be/lapremiere/",
+        "Source1": "https://radios.rtbf.be/laprem1ere-64.aac"
+    },
+    {
+        "Title": "RTBF Mix",
+        "Country": "Belgium",
+        "Homepage": "https://www.rtbf.be/rtbfmix/",
+        "Source1": "http://radio.rtbf.be/mix/aac-128/fl"
+    },
+    {
+        "Title": "RTBF Musiq3",
+        "Country": "Belgium",
+        "Favicon": "https://www.static.rtbf.be/rtbf/home/images/ico/favicon-info-32x32.png",
+        "Homepage": "https://www.rtbf.be/musiq3/",
+        "Source1": "https://radios.rtbf.be/musiq3-128.aac"
+    },
+    {
+        "Title": "RTBF Pure FM",
+        "Country": "Belgium",
+        "Tags": "rtbf",
+        "Favicon": "http://www.rtbf.be/favicon.ico",
+        "Language": "fr",
+        "Homepage": "http://www.rtbf.be/purefm/",
+        "Source1": "https://radios.rtbf.be/pure-64.aac"
+    },
+    {
+        "Title": "RTBF Tarmac",
+        "Country": "Belgium",
+        "Tags": "hiphop,rap,rtbf,urban",
+        "Favicon": "http://www.rtbfradioplayer.be/favicon.ico",
+        "Language": "fr",
+        "Homepage": "http://www.rtbfradioplayer.be/radio/liveradio/tarmac",
+        "Source1": "https://radios.rtbf.be/tarmac-128.mp3"
+    },
+    {
+        "Title": "RTBF Viva+",
+        "Country": "Belgium",
+        "Favicon": "https://www.radio.fr/300/rtbfvivaplus.jpeg",
+        "Language": "fr",
+        "Homepage": "https://www.rtbf.be/vivaplus",
+        "Source1": "https://radios.rtbf.be/vivaplus-128.mp3"
+    },
+    {
+        "Title": "RTBF VivaCité Bruxelles",
+        "Country": "Belgium",
+        "Tags": "rtbf",
+        "Favicon": "https://www.static.rtbf.be/rtbf/home/images/ico/favicon-info-32x32.png",
+        "Language": "fr",
+        "Homepage": "https://www.rtbf.be/vivacite/",
+        "Source1": "https://radios.rtbf.be/vivabxl-64.aac"
+    },
+    {
+        "Title": "RTBF VivaCité Charleroi",
+        "Country": "Belgium",
+        "Tags": "rtbf",
+        "Favicon": "https://www.static.rtbf.be/rtbf/home/images/ico/favicon-info-32x32.png",
+        "Language": "fr",
+        "Homepage": "https://www.rtbf.be/vivacite/",
+        "Source1": "https://radios.rtbf.be/vivacharleroi-64.aac"
+    },
+    {
+        "Title": "RTBF VivaCité Hainaut",
+        "Country": "Belgium",
+        "Tags": "rtbf",
+        "Favicon": "https://www.static.rtbf.be/rtbf/home/images/ico/favicon-info-32x32.png",
+        "Language": "fr",
+        "Homepage": "https://www.rtbf.be/vivacite/",
+        "Source1": "https://radios.rtbf.be/vivahainaut-64.aac"
+    },
+    {
+        "Title": "RTBF VivaCité Liège",
+        "Country": "Belgium",
+        "Tags": "rtbf",
+        "Favicon": "https://www.static.rtbf.be/rtbf/home/images/ico/favicon-info-32x32.png",
+        "Language": "fr",
+        "Homepage": "https://www.rtbf.be/vivacite/",
+        "Source1": "https://radios.rtbf.be/vivaliege-64.aac"
+    },
+    {
+        "Title": "RTBF Vivacité Liège",
+        "Country": "Belgium",
+        "Favicon": "https://static2.mytuner.mobi/media/tvos_radios/930/rtbf-vivacite-liege.0e9279d5.png",
+        "Homepage": "https://www.rtbf.be/radio/liveradio/vivacite-liege",
+        "Source1": "https://redbeemedia.streamabc.net/redbm-vivaliege-aac-128-4751338"
+    },
+    {
+        "Title": "RTBF VivaCité Luxembourg",
+        "Country": "Belgium",
+        "Tags": "rtbf",
+        "Language": "fr",
+        "Homepage": "https://www.rtbf.be/vivacite/",
+        "Source1": "https://radios.rtbf.be/vivalux-64.aac"
+    },
+    {
+        "Title": "RTBF VivaCité Namur & Brabant Wallon",
+        "Country": "Belgium",
+        "Tags": "rtbf",
+        "Favicon": "https://www.static.rtbf.be/rtbf/home/images/ico/favicon-info-32x32.png",
+        "Language": "fr",
+        "Homepage": "https://www.rtbf.be/vivacite/",
+        "Source1": "https://radios.rtbf.be/vivanamurbw-64.aac"
+    },
+    {
+        "Title": "RTBF-Musiq3 Jazz",
+        "Country": "Belgium",
+        "Tags": "jazz",
+        "Language": "fr",
+        "Homepage": "https://www.rtbf.be/radio/liveradio/musiq3-jazz",
+        "Source1": "https://radios.rtbf.be/wr-m3-jazz-128.mp3"
+    },
+    {
+        "Title": "scorpio",
+        "Country": "Belgium",
+        "Language": "nl",
+        "Homepage": "http://radioscorpio.be/",
+        "Source1": "https://stream.radioscorpio.be/stream"
+    },
+    {
+        "Title": "Slow Radio",
+        "Country": "Belgium",
+        "Tags": "pop",
+        "Favicon": "https://nl.slowradio.be/img/favicons/favicon-32x32.png",
+        "Homepage": "https://nl.slowradio.be/",
+        "Source1": "https://streams.slowradio.com/slowradio192.m3u"
+    },
+    {
+        "Title": "Sport FM Hoeselt",
+        "Country": "Belgium",
+        "Homepage": "https://sportfmcontinu.be/",
+        "Latitude": 50.86329825245091,
+        "Longitude": 5.491314356919018,
+        "Source1": "https://s11.ssl-stream.com/ssl/sportfm/stream"
+    },
+    {
+        "Title": "stadradio Tienen",
+        "Country": "Belgium",
+        "Tags": "pop music",
+        "Language": "nl",
+        "Homepage": "http://stadsradiotienen.be/",
+        "Latitude": 50.80722377122821,
+        "Longitude": 4.936852455139161,
+        "Source1": "http://shoutcast2.wirelessantwerpen.be:8414/;stream.mp3"
+    },
+    {
+        "Title": "Stadsradio Halle",
+        "Country": "Belgium",
+        "Language": "nl",
+        "Homepage": "https://sites.google.com/view/stadsradiohalle2/homepage?authuser=0",
+        "Source1": "https://mscp2.live-streams.nl:8132/live"
+    },
+    {
+        "Title": "Stadsradio Vlaanderen",
+        "Country": "Belgium",
+        "Tags": "oldies",
+        "Homepage": "http://www.stadsradiovlaanderen.be/",
+        "Source1": "http://randstad.wirelessbelgie.be:8330/stream.mp3"
+    },
+    {
+        "Title": "Star FM Belgium",
+        "Country": "Belgium",
+        "Tags": "dance",
+        "Language": "nl",
+        "Homepage": "https://starfm.be/",
+        "Latitude": 51.272200753758526,
+        "Longitude": 3.2278347015380864,
+        "Source1": "https://shoutcast2.wirelessbelgie.be/starfm"
+    },
+    {
+        "Title": "stu bru UNTZ",
+        "Country": "Belgium",
+        "Tags": "tech house,techno",
+        "Homepage": "https://stubru.be/",
+        "Source1": "http://icecast.vrtcdn.be/stubru_untz-high.mp3"
+    },
+    {
+        "Title": "StuBru",
+        "Country": "Belgium",
+        "Favicon": "https://upload.wikimedia.org/wikipedia/commons/3/39/Studio_Brussel_logo.png",
+        "Homepage": "https://www.vrt.be/vrtmax/kanalen/studio-brussel/?utm_medium=redirect&utm_source=stubru-be&utm_campaign=web-migratie",
+        "Source1": "http://icecast.vrtcdn.be/stubru-high.mp3"
+    },
+    {
+        "Title": "Studio Brussel",
+        "Country": "Belgium",
+        "Tags": "alternative,pop,rock,vrt",
+        "Favicon": "https://upload.wikimedia.org/wikipedia/commons/9/98/Studio_Brussel_logo_%282023-%29.svg",
+        "Language": "NL",
+        "Region": "BE-BRU",
+        "Homepage": "https://www.stubru.be/",
+        "Latitude": 50.85325707417748,
+        "Longitude": 4.402635790952025,
+        "Source1": "http://icecast.vrtcdn.be/stubru.aac",
+        "Source2": "http://icecast.vrtcdn.be/stubru-high.mp3",
+        "Source3": "http://icecast.vrtcdn.be/stubru-mid.mp3"
+    },
+    {
+        "Title": "Studio Brussel - Vuurland",
+        "Country": "Belgium",
+        "Tags": "easy listening,melancholic,relaxing,pop,rock,vrt",
+        "Favicon": "https://www.vrt.be/content/dam/vrtvideo/branding/logos/stubru-vuurland/v3/color.svg",
+        "Language": "NL",
+        "Region": "BE-BRU",
+        "Homepage": "https://www.stubru.be/",
+        "Latitude": 50.85325707417748,
+        "Longitude": 4.402635790952025,
+        "Source1": "http://icecast.vrtcdn.be/stubru_tgs.aac",
+        "Source2": "http://icecast.vrtcdn.be/stubru_tgs-high.mp3"
+    },
+    {
+        "Title": "Studio Brussel - Vuurland",
+        "Country": "Belgium",
+        "Tags": "easy listening,melancholic,pop,relaxing,rock,vrt",
+        "Favicon": "https://www.vrt.be/content/dam/vrtvideo/branding/logos/stubru-vuurland/v3/color.svg",
+        "Homepage": "https://www.vrt.be/vrtmax/livestream/audio/vuurland/",
+        "Source1": "http://icecast.vrtcdn.be/stubru_tgs.aac"
+    },
+    {
+        "Title": "Studio Brussel - Zware Gitaren",
+        "Country": "Belgium",
+        "Homepage": "https://www.vrt.be/vrtmax/livestream/audio/studio-brussel-zware-gitaren/",
+        "Source1": "http://icecast.vrtcdn.be/stubru_bruut.aac"
+    },
+    {
+        "Title": "Studio Brussel De Jaren Nul",
+        "Country": "Belgium",
+        "Tags": "2000s,hits,pop,rock",
+        "Language": "nl",
+        "Homepage": "https://www.vrt.be/vrtmax/livestream/audio/studio-brussel-de-jaren-nul/",
+        "Latitude": 50.84728913138913,
+        "Longitude": 4.380513053173743,
+        "Source1": "https://icecast.vrtcdn.be/stubru_dejarennul-high.mp3",
+        "Source2": "http://icecast.vrtcdn.be/stubru_dejarennul.aac"
+    },
+    {
+        "Title": "Studio Brussel UNTZ",
+        "Country": "Belgium",
+        "Tags": "dance,electronic,vrt",
+        "Favicon": "https://www.vrt.be/content/dam/vrtvideo/branding/logos/stubru-untz/v3/color.svg",
+        "Language": "NL",
+        "Region": "BE-BRU",
+        "Homepage": "https://www.stubru.be/",
+        "Latitude": 50.85325707417748,
+        "Longitude": 4.402635790952025,
+        "Source1": "http://icecast.vrtcdn.be/stubru_untz.aac",
+        "Source2": "http://icecast.vrtcdn.be/stubru_untz-high.mp3"
+    },
+    {
+        "Title": "Studio Brussel Zware Gitaren",
+        "Country": "Belgium",
+        "Tags": "hard rock,metal,vrt",
+        "Favicon": "https://www.vrt.be/content/dam/vrtvideo/branding/logos/stubru-bruut/v4/color.svg",
+        "Language": "NL",
+        "Region": "BE-BRU",
+        "Homepage": "https://www.stubru.be/",
+        "Latitude": 50.85325707417748,
+        "Longitude": 4.402635790952025,
+        "Source1": "http://icecast.vrtcdn.be/stubru_bruut-high.mp3"
+    },
+    {
+        "Title": "Studio Grensstad",
+        "Country": "Belgium",
+        "Favicon": "https://studiogrensstad.nl/wp-content/uploads/2020/12/logo-grensstad.jpg",
+        "Homepage": "https://studiogrensstad.nl/",
+        "Source1": "https://caster.hosting078.nl:1175/stream"
+    },
+    {
+        "Title": "Studio Jessa",
+        "Country": "Belgium",
+        "Favicon": "https://www.vrto-2.be/studio-jessa-avatar.png",
+        "Homepage": "https://www.studiojessa.be/",
+        "Latitude": 50.926017943419225,
+        "Longitude": 5.3417372703552255,
+        "Source1": "https://caster05.streampakket.com/proxy/8692/stream"
+    },
+    {
+        "Title": "Sud Radio",
+        "Country": "Belgium",
+        "Language": "fr",
+        "Homepage": "http://www.sudradio.net/",
+        "Source1": "http://sudradio.ice.infomaniak.ch/sudradio-96.aac"
+    },
+    {
+        "Title": "The Funky Channel",
+        "Country": "Belgium",
+        "Tags": "disco,funk,r&b,soul",
+        "Favicon": "https://thefunkychannel.com/wp-content/uploads/2022/06/TFC-favicon-1.png",
+        "Homepage": "https://thefunkychannel.com/",
+        "Source1": "http://cast3.my-control-panel.com:8170/stream",
+        "Source2": "https://cast3.asurahosting.com/proxy/breakou1/stream"
+    },
+    {
+        "Title": "Tip!k",
+        "Country": "Belgium",
+        "Favicon": "https://upload.wikimedia.org/wikipedia/commons/0/07/Logo_Tipik.png",
+        "Source1": "https://radios.rtbf.be/pure-128.mp3"
+    },
+    {
+        "Title": "Tipik",
+        "Country": "Belgium",
+        "Tags": "alternative pop,chansons françaises,pop",
+        "Favicon": "https://upload.wikimedia.org/wikipedia/commons/0/07/Logo_Tipik.png",
+        "Language": "fr",
+        "Homepage": "https://www.rtbf.be/radio/liveradio/tipik",
+        "Latitude": 50.85291573861285,
+        "Longitude": 4.401629609696115,
+        "Source1": "https://radios.rtbf.be/pure-128.mp3"
+    },
+    {
+        "Title": "Tipik à l'ancienne (RTBF)",
+        "Country": "Belgium",
+        "Tags": "2000s,hits 90's,pop",
+        "Favicon": "http://www.rtbf.be/favicon.ico",
+        "Homepage": "http://www.rtbf.be/tipik",
+        "Latitude": 50.78347371303078,
+        "Longitude": 4.378051757812501,
+        "Source1": "http://radio.rtbf.be/tipik-al/mp3-128/rb"
+    },
+    {
+        "Title": "Tommorowland One World Radio - Daybreak Sessions",
+        "Country": "Belgium",
+        "Favicon": "https://www.tomorrowland.com/home/apple-touch-icon.png",
+        "Language": "en",
+        "Homepage": "https://www.tomorrowland.com/home/radio",
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_DAYBREAK_ADP.aac"
+    },
+    {
+        "Title": "Tomorrowland - Daybreak Sessions",
+        "Country": "Belgium",
+        "Tags": "dance,dance music,electro,electronic,electronic dance music,house",
+        "Favicon": "https://www.tomorrowland.com/home/favicon.ico",
+        "Language": "en",
+        "Homepage": "https://www.tomorrowland.com/home/one-world-radio/",
+        "Latitude": 50.84140546613248,
+        "Longitude": 4.349019527435304,
+        "Source1": "http://playerservices.streamtheworld.com/api/livestream-redirect/OWR_DAYBREAK_ADP.aac"
+    },
+    {
+        "Title": "Tomorrowland One World Radio",
+        "Country": "Belgium",
+        "Favicon": "https://www.tomorrowland.com/home/apple-touch-icon.png",
+        "Language": "en",
+        "Homepage": "https://www.tomorrowland.com/home/radio",
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_INTERNATIONAL_ADP.aac"
+    },
+    {
+        "Title": "Tomorrowland One World Radio - Anthems",
+        "Country": "Belgium",
+        "Tags": "dance,edm,electronic",
+        "Favicon": "https://www.tomorrowland.com/home/apple-touch-icon.png",
+        "Language": "en",
+        "Homepage": "https://www.tomorrowland.com/home/radio",
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_ANTHEMS_ADP.aac"
+    },
+    {
+        "Title": "Top (BAM)",
+        "Country": "Belgium",
+        "Tags": "hardstyle,techno",
+        "Favicon": "https://www.topradio.be/favicons/favicon-128x128.png",
+        "Language": "en",
+        "Homepage": "https://www.topradio.be/",
+        "Latitude": 51.07417926258547,
+        "Longitude": 3.723227977752686,
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/TOPBAM.mp3"
+    },
+    {
+        "Title": "Top 2",
+        "Country": "Belgium",
+        "Tags": "dance",
+        "Favicon": "https://api.topradio.be/images/34337.961abf7.16-9.1000.90.jpg",
+        "Language": "nl",
+        "Homepage": "https://www.topradio.be/",
+        "Latitude": 51.05294809767113,
+        "Longitude": 3.728141784667969,
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/TOP_ZILLION.mp3"
+    },
+    {
+        "Title": "Top Radio Dance",
+        "Country": "Belgium",
+        "Tags": "dance,dj mixes,mixed",
+        "Favicon": "https://topradio.be/favicons/favicon-96x96.png",
+        "Language": "en",
+        "Homepage": "https://topradio.be/",
+        "Latitude": 50.830228205617445,
+        "Longitude": 4.353332519531251,
+        "Source1": "http://str.topradio.be/topradio.mp3"
+    },
+    {
+        "Title": "top radio retro",
+        "Country": "Belgium",
+        "Favicon": "https://www.topradio.be/favicons/favicon-96x96.png",
+        "Homepage": "https://www.topradio.be/",
+        "Source1": "https://str.topradio.be/topradioretroarena.mp3"
+    },
+    {
+        "Title": "Top Retro",
+        "Country": "Belgium",
+        "Favicon": "https://api.topradio.be/images/7249.9571f36.16-9.1000.90.jpg",
+        "Homepage": "http://www.topradio.be/",
+        "Latitude": 51.05357867301489,
+        "Longitude": 3.7228202819824223,
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/TOPRETRO.mp3"
+    },
+    {
+        "Title": "Top Techno",
+        "Country": "Belgium",
+        "Favicon": "https://api.topradio.be/images/8178.91fb06c.16-9.1000.90.jpg",
+        "Language": "nl",
+        "Homepage": "https://www.topradio.be/",
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/TOPSPINNING.mp3"
+    },
+    {
+        "Title": "TOPradio Belgium",
+        "Country": "Belgium",
+        "Favicon": "https://www.topradio.be/favicons/favicon-96x96.png",
+        "Homepage": "https://www.topradio.be/",
+        "Source1": "http://str.topradio.be/topradio.mp3"
+    },
+    {
+        "Title": "Topradio retro",
+        "Country": "Belgium",
+        "Favicon": "https://www.topradio.be/favicons/favicon-96x96.png",
+        "Homepage": "https://www.topradio.be/",
+        "Source1": "https://str.topradio.be/topradioretroarena.mp3"
+    },
+    {
+        "Title": "Topradio TopBam",
+        "Country": "Belgium",
+        "Tags": "hard techno,hardcore,hardstyle",
+        "Favicon": "https://www.topradio.be/favicons/favicon-196x196.png",
+        "Homepage": "https://www.topradio.be/player/topbam",
+        "Latitude": 51.05379380786208,
+        "Longitude": 3.724966049194336,
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/TOPBAM.mp3"
+    },
+    {
+        "Title": "Topradio TopRetroArena",
+        "Country": "Belgium",
+        "Tags": "90s,dance,electronic,house,retro,techno,trance",
+        "Favicon": "https://www.topradio.be/favicons/favicon-196x196.png",
+        "Homepage": "https://www.topradio.be/player/topretroarena",
+        "Latitude": 51.053221907417154,
+        "Longitude": 3.724365234375,
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/TOPRETROAAC.aac"
+    },
+    {
+        "Title": "TOPradio TOPschaamteloos",
+        "Country": "Belgium",
+        "Favicon": "https://topradio.be/_next/image?url=https%3A%2F%2Fapi.topradio.be%2Fimages%2F7251.cd99757.1-1.128.90.webp&w=64&q=75",
+        "Language": "nl",
+        "Homepage": "https://topradio.be/",
+        "Latitude": 51.02371640030471,
+        "Longitude": 3.744964599609375,
+        "Source1": "https://27793.live.streamtheworld.com/TOPSCHAAMTELOZE.mp3"
+    },
+    {
+        "Title": "TOPschaamteloos",
+        "Country": "Belgium",
+        "Language": "nl",
+        "Homepage": "https://topradio.be/zenders/topschaamteloos",
+        "Latitude": 51.07445042876764,
+        "Longitude": 3.7231940107983967,
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/TOPSCHAAMTELOZEAAC.aac"
+    },
+    {
+        "Title": "Toptechno",
+        "Country": "Belgium",
+        "Homepage": "https://topradio.be/player/toptechno",
+        "Latitude": 51.048301133312265,
+        "Longitude": 3.7326049804687504,
+        "Source1": "https://27913.live.streamtheworld.com/TOPSPINNING.mp3"
+    },
+    {
+        "Title": "TradCan",
+        "Country": "Belgium",
+        "Tags": "folk",
+        "Homepage": "http://www.canardfolk.be/tradcan/",
+        "Source1": "https://dc1.serverse.com/proxy/wiupfvnu?mp=/TradCan"
+    },
+    {
+        "Title": "Trendy FM",
+        "Country": "Belgium",
+        "Language": "nl",
+        "Homepage": "http://trendyfm.be/",
+        "Source1": "http://stream.trendyfm.be/"
+    },
+    {
+        "Title": "TrudoFM",
+        "Country": "Belgium",
+        "Homepage": "http://www.trudofm.be/",
+        "Source1": "http://45.85.191.114:8073/stream"
+    },
+    {
+        "Title": "TSF Radio Allround",
+        "Country": "Belgium",
+        "Homepage": "http://tsfradio.be/",
+        "Source1": "http://ec5.yesstreaming.net:3430/stream"
+    },
+    {
+        "Title": "ULTRASON",
+        "Country": "Belgium",
+        "Favicon": "http://www.ultrason.be/upload/5f14b27346a606.67925291.ico",
+        "Homepage": "http://www.ultrason.be/",
+        "Source1": "http://broadcast.infomaniak.ch/ultrason-high.mp3"
+    },
+    {
+        "Title": "Up Radio",
+        "Country": "Belgium",
+        "Tags": "poprock",
+        "Homepage": "https://www.upradio.be/",
+        "Source1": "http://upradio.ovh:8054/up-low"
+    },
+    {
+        "Title": "urgent.fm",
+        "Country": "Belgium",
+        "Language": "nl",
+        "Homepage": "https://urgent.fm/",
+        "Source1": "http://urgentstream.radiostudio.be:8000/live"
+    },
+    {
+        "Title": "VBRO Evergreen",
+        "Country": "Belgium",
+        "Language": "nl",
+        "Homepage": "http://www.vbro.be/",
+        "Source1": "http://stream.vbro.be:9400/evergreen"
+    },
+    {
+        "Title": "VBRO Radio",
+        "Country": "Belgium",
+        "Language": "nl",
+        "Homepage": "http://www.vbro.be/",
+        "Source1": "http://stream.vbro.be:9100/vbro"
+    },
+    {
+        "Title": "Versuz",
+        "Country": "Belgium",
+        "Language": "en",
+        "Homepage": "https://www.versuzradio.com/",
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/TOPVERSUZ.mp3"
+    },
+    {
+        "Title": "Vibration.FM Be",
+        "Country": "Belgium",
+        "Favicon": "http://vibration.fm/wp-content/uploads/2022/12/cropped-logo-radio-1-180x180.png",
+        "Homepage": "http://www.vibration.fm/",
+        "Latitude": 50.80990632728562,
+        "Longitude": 4.34528564652788,
+        "Source1": "http://vibrationbelgique.ice.infomaniak.ch/vibrationbelgique-high"
+    },
+    {
+        "Title": "Vienna FM",
+        "Country": "Belgium",
+        "Tags": "jazz,lounge,oldies,smooth jazz",
+        "Favicon": "https://radio.ministry.fr/static/uploads/vienna/album_art.1788600534.png",
+        "Language": "en,fr",
+        "Homepage": "https://vienna.fr/",
+        "Latitude": 50.92987068333613,
+        "Longitude": 5.338584419530249,
+        "Source1": "https://radio.ministry.fr/listen/vienna/radio.mp3"
+    },
+    {
+        "Title": "Villa Bota",
+        "Country": "Belgium",
+        "Homepage": "https://villabota.be/",
+        "Latitude": 51.207057487173,
+        "Longitude": 3.230637609958649,
+        "Source1": "https://caster04.streampakket.com/proxy/8186/stream"
+    },
+    {
+        "Title": "Vlaamse Wonderjaren",
+        "Country": "Belgium",
+        "Tags": "folklore,golden oldies,goldies,nederlandstalig,oldies",
+        "Favicon": "https://vlaamsewonderjaren.be/wp-content/uploads/2018/11/cropped-vlaamse-wonderjaren-logo-transparant-180x180.png",
+        "Language": "nl",
+        "Homepage": "https://vlaamsewonderjaren.be/",
+        "Source1": "https://cast1.torontocast.com:3305/stream"
+    },
+    {
+        "Title": "VRT - Klara",
+        "Country": "Belgium",
+        "Tags": "classical,cultural,jazz,vrt",
+        "Favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Klara_Logo_Black_Screen.jpg/150px-Klara_Logo_Black_Screen.jpg",
+        "Language": "nl",
+        "Homepage": "http://www.klara.be/",
+        "Source1": "http://icecast.vrtcdn.be/klara-high.mp3"
+    },
+    {
+        "Title": "VRT - Klara",
+        "Country": "Belgium",
+        "Tags": "classical,cultural,jazz,vrt",
+        "Favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Klara_Logo_Black_Screen.jpg/150px-Klara_Logo_Black_Screen.jpg",
+        "Language": "nl",
+        "Homepage": "https://www.klara.be/",
+        "Source1": "http://icecast.vrtcdn.be/klara.aac"
+    },
+    {
+        "Title": "VRT - Klara Continuo",
+        "Country": "Belgium",
+        "Tags": "classical,vrt",
+        "Favicon": "https://www.vrt.be/content/dam/vrtvideo/branding/logos/klara-continuo/v2/color.svg",
+        "Language": "nl",
+        "Homepage": "https://www.klara.be/",
+        "Source1": "http://icecast.vrtcdn.be/klaracontinuo.aac",
+        "Source2": "http://icecast.vrtcdn.be/klaracontinuo-high.mp3"
+    },
+    {
+        "Title": "VRT - MNM",
+        "Country": "Belgium",
+        "Tags": "pop,vrt",
+        "Favicon": "https://upload.wikimedia.org/wikipedia/commons/0/02/MNM_logo_2024.svg",
+        "Language": "nl",
+        "Homepage": "https://www.mnm.be/",
+        "Source1": "http://icecast.vrtcdn.be/mnm-high.mp3"
+    },
+    {
+        "Title": "VRT - MNM Hits",
+        "Country": "Belgium",
+        "Tags": "pop,vrt",
+        "Favicon": "https://www.vrt.be/content/dam/vrtvideo/branding/logos/mnm-hits/v3/color.svg",
+        "Language": "nl",
+        "Homepage": "https://www.mnm.be/mnmbighits",
+        "Source1": "http://icecast.vrtcdn.be/mnm_hits-high.mp3"
+    },
+    {
+        "Title": "VRT - NWS",
+        "Country": "Belgium",
+        "Tags": "nieuws",
+        "Favicon": "https://www.vrt.be/favicon.ico",
+        "Homepage": "https://www.vrt.be/nl",
+        "Source1": "http://progressive-audio.vrtcdn.be/content/fixed/11_11niws-snip_hi.mp3"
+    },
+    {
+        "Title": "VRT - Radio 1",
+        "Country": "Belgium",
+        "Tags": "news,pop,vrt",
+        "Favicon": "https://upload.wikimedia.org/wikipedia/commons/0/08/VRT_Radio_1_logo.svg",
+        "Language": "nl",
+        "Homepage": "https://radio1.be/",
+        "Source1": "http://icecast.vrtcdn.be/radio1-high.mp3"
+    },
+    {
+        "Title": "VRT - Radio 2 (Antwerpen)",
+        "Country": "Belgium",
+        "Tags": "pop,vrt",
+        "Favicon": "http://www.radio2.be/resources/favicon-radio2/apple-touch-icon-76x76.png",
+        "Language": "nl",
+        "Homepage": "http://www.radio2.be/",
+        "Source1": "http://icecast.vrtcdn.be/ra2ant-high.mp3"
+    },
+    {
+        "Title": "VRT - Radio 2 (Limburg)",
+        "Country": "Belgium",
+        "Favicon": "https://radio2.be/resources/favicon-radio2/apple-touch-icon-76x76.png",
+        "Language": "nl",
+        "Homepage": "https://radio2.be/",
+        "Source1": "http://icecast.vrtcdn.be/ra2lim-high.mp3"
+    },
+    {
+        "Title": "VRT - Radio 2 (Vlaams-Brabant)",
+        "Country": "Belgium",
+        "Favicon": "https://radio2.be/resources/favicon-radio2/apple-touch-icon-76x76.png",
+        "Language": "nl",
+        "Homepage": "https://radio2.be/",
+        "Source1": "http://icecast.vrtcdn.be/ra2vlb.aac"
+    },
+    {
+        "Title": "VRT - Radio 2 (Vlaams-Brabant)",
+        "Country": "Belgium",
+        "Tags": "pop,vrt",
+        "Favicon": "http://www.radio2.be/resources/favicon-radio2/apple-touch-icon-76x76.png",
+        "Language": "nl",
+        "Homepage": "http://www.radio2.be/",
+        "Source1": "http://icecast.vrtcdn.be/ra2vlb-high.mp3"
+    },
+    {
+        "Title": "VRT - StuBru - De Tijdloze",
+        "Country": "Belgium",
+        "Tags": "alternative indie rock,metal,vrt",
+        "Favicon": "https://upload.wikimedia.org/wikipedia/commons/5/56/De_Tijdloze.png",
+        "Homepage": "https://www.stubru.be/",
+        "Source1": "http://icecast.vrtcdn.be/stubru_tijdloze-high.mp3"
+    },
+    {
+        "Title": "VRT - Studio Brussel",
+        "Country": "Belgium",
+        "Tags": "alternative,pop,rock,vrt",
+        "Favicon": "https://upload.wikimedia.org/wikipedia/commons/9/98/Studio_Brussel_logo_%282023-%29.svg",
+        "Homepage": "https://www.stubru.be/",
+        "Source1": "http://icecast.vrtcdn.be/stubru.aac"
+    },
+    {
+        "Title": "VRT - Studio Brussel - UNTZ",
+        "Country": "Belgium",
+        "Tags": "dance,electronic,vrt",
+        "Favicon": "https://www.vrt.be/content/dam/vrtvideo/branding/logos/stubru-untz/v3/color.svg",
+        "Language": "nl",
+        "Homepage": "https://www.stubru.be/",
+        "Source1": "http://icecast.vrtcdn.be/stubru_untz.aac"
+    },
+    {
+        "Title": "VRT - Studio Brussel - Vuurland",
+        "Country": "Belgium",
+        "Tags": "easy listening,melancholic,pop,relaxing,rock,vrt",
+        "Favicon": "https://www.vrt.be/content/dam/vrtvideo/branding/logos/stubru-vuurland/v3/color.svg",
+        "Homepage": "https://www.stubru.be/",
+        "Source1": "http://icecast.vrtcdn.be/stubru_tgs.aac"
+    },
+    {
+        "Title": "vrt klara high quality",
+        "Country": "Belgium",
+        "Language": "nl",
+        "Homepage": "https://www.vrt.be/",
+        "Latitude": 50.95565842652545,
+        "Longitude": 3.71337890625,
+        "Source1": "http://icecast.vrtcdn.be/klara-high.mp3"
+    },
+    {
+        "Title": "VRT Nieuws",
+        "Country": "Belgium",
+        "Tags": "nieuwe nederlandse",
+        "Homepage": "https://www.vrt.be/vrtnws/",
+        "Latitude": 48.16974908365419,
+        "Longitude": 5.097656250000001,
+        "Source1": "http://icecast.vrtcdn.be/radio1.aac"
+    },
+    {
+        "Title": "VRT NWS",
+        "Country": "Belgium",
+        "Tags": "nieuws",
+        "Favicon": "https://www.vrt.be/favicon.ico",
+        "Homepage": "https://www.vrt.be/nl",
+        "Latitude": 50.61312650549797,
+        "Longitude": 4.885653033314093,
+        "Source1": "http://progressive-audio.vrtcdn.be/content/fixed/11_11niws-snip_hi.mp3"
+    },
+    {
+        "Title": "VRT NWS High Quality",
+        "Country": "Belgium",
+        "Tags": "news talk",
+        "Homepage": "https://www.vrt.be/vrtnws/",
+        "Latitude": 50.729936133938146,
+        "Longitude": 3.75732421875,
+        "Source1": "http://icecast.vrtcdn.be/radio1.aac"
+    },
+    {
+        "Title": "VRT NWS HQ",
+        "Country": "Belgium",
+        "Tags": "news",
+        "Language": "nl",
+        "Homepage": "https://icecast.vrtcdn.be/vrtnws-high.mp3",
+        "Latitude": 50.9437732355046,
+        "Longitude": 3.6282348632812504,
+        "Source1": "https://icecast.vrtcdn.be/vrtnws-high.mp3"
+    },
+    {
+        "Title": "VRT Radio 1",
+        "Country": "Belgium",
+        "Tags": "music,news,talk",
+        "Favicon": "https://static.mytuner.mobi/media/tvos_radios/yeD5X7FMM5.png",
+        "Language": "nl",
+        "Homepage": "https://radio1.be/",
+        "Source1": "https://f8e0a3fc90d142e68cd424a56b220f0d.mediatailor.us-east-1.amazonaws.com/v1/manifest/7c1b669ef36eb1e845184b6345b06cd264fc4eb7/5bzs1cW9_vrt-audio-only-v1/d65e4279-e3bc-4151-af02-02ffe699135d/0.m3u8",
+        "Source2": "http://icecast.vrtcdn.be/radio1-high.mp3",
+        "Source3": "http://icecast.vrtcdn.be/radio1.aac"
+    },
+    {
+        "Title": "VRT Radio 1  - De LageLandenLijst",
+        "Country": "Belgium",
+        "Tags": "folk",
+        "Favicon": "https://radio1.be/resources/favicon-radio1/apple-touch-icon-76x76.png",
+        "Language": "nl",
+        "Homepage": "https://radio1.be/programma/de-lage-landenlijst",
+        "Source1": "http://icecast.vrtcdn.be/radio1_lagelanden-high.mp3"
+    },
+    {
+        "Title": "VRT Radio 1 (low)",
+        "Country": "Belgium",
+        "Tags": "news,vrt",
+        "Favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/VRT_Radio_1_logo.svg/158px-VRT_Radio_1_logo.svg.png",
+        "Language": "nl",
+        "Homepage": "https://radio1.be/",
+        "Source1": "http://icecast.vrtcdn.be/radio1-mid.mp3"
+    },
+    {
+        "Title": "VRT Radio 1 Classics",
+        "Country": "Belgium",
+        "Tags": "classic rock,vrt",
+        "Favicon": "https://www.vrt.be/content/dam/vrtvideo/branding/logos/radio-1-classics/v1/color.svg",
+        "Language": "NL",
+        "Region": "BE-BRU",
+        "Homepage": "https://radio1.be/",
+        "Latitude": 50.85325707417748,
+        "Longitude": 4.402635790952025,
+        "Source1": "http://icecast.vrtcdn.be/radio1_classics-high.mp3"
+    },
+    {
+        "Title": "VRT Radio 1 Classics | AAC",
+        "Country": "Belgium",
+        "Tags": "classic rock,vrt",
+        "Favicon": "https://www.vrt.be/content/dam/vrtvideo/branding/logos/radio-1-classics/v1/color.svg",
+        "Language": "nl",
+        "Homepage": "https://radio1.be/",
+        "Source1": "http://icecast.vrtcdn.be/radio1_classics.aac"
+    },
+    {
+        "Title": "VRT Radio 1 NWS",
+        "Country": "Belgium",
+        "Homepage": "https://progressive-audio.vrtcdn.be/content/fixed/11_11niws-snip_hi.mp3",
+        "Source1": "https://progressive-audio.vrtcdn.be/content/fixed/11_11niws-snip_hi.mp3"
+    },
+    {
+        "Title": "VRT Radio 2",
+        "Country": "Belgium",
+        "Favicon": "https://images.vrt.be/orig/2025/10/03/Relax_RadioCover.jpg",
+        "Homepage": "https://www.vrt.be/vrtmax/livestream/audio/radio2-relax/",
+        "Source1": "http://icecast.vrtcdn.be/radio2_relax.aac"
+    },
+    {
+        "Title": "VRT Radio 2 Antwerpen - AAC",
+        "Country": "Belgium",
+        "Favicon": "https://radio2.be/resources/favicon-radio2/apple-touch-icon-76x76.png",
+        "Homepage": "https://radio2.be/regios/antwerpen",
+        "Source1": "http://icecast.vrtcdn.be/ra2ant.aac"
+    },
+    {
+        "Title": "Vrt Radio 2 Antwerpen -AAC",
+        "Country": "Belgium",
+        "Homepage": "https://www.vrt.be/nl/aanbod/kijk-en-luister/radio-luisteren/streamingslinks-radio/",
+        "Latitude": 50.84106942862877,
+        "Longitude": 4.724121093750001,
+        "Source1": "http://icecast.vrtcdn.be/ra2ant.aac"
+    },
+    {
+        "Title": "VRT Radio 2 Bene Bene",
+        "Country": "Belgium",
+        "Favicon": "https://www.vrt.be/nl/favicon.ico",
+        "Language": "nl",
+        "Homepage": "https://www.vrt.be/",
+        "Source1": "http://icecast.vrtcdn.be/radio2_benebene-high.mp3"
+    },
+    {
+        "Title": "VRT Radio 2 Oost-Vlaanderen",
+        "Country": "Belgium",
+        "Language": "nl",
+        "Homepage": "https://radio2.be/regios/oost-vlaanderen",
+        "Source1": "http://icecast.vrtcdn.be/ra2ovl.aac"
+    },
+    {
+        "Title": "VRT Radio 2 Oost-Vlaanderen",
+        "Country": "Belgium",
+        "Favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/VRT_Radio_2_2025.svg/960px-VRT_Radio_2_2025.svg.png",
+        "Homepage": "http://www.radio2.be/",
+        "Latitude": 51.04707625341115,
+        "Longitude": 3.711745177190005,
+        "Source1": "http://icecast.vrtcdn.be/ra2ovl-high.mp3"
+    },
+    {
+        "Title": "VRT Radio 2 Oost-Vlaanderen",
+        "Country": "Belgium",
+        "Favicon": "https://commons.wikimedia.org/wiki/File:VRT_Radio_2_2025.svg",
+        "Homepage": "http://tun.in/sepMH",
+        "Latitude": 51.18359681589975,
+        "Longitude": 4.119014739990235,
+        "Source1": "http://tun.in/sepMH"
+    },
+    {
+        "Title": "VRT Radio 2 Relax",
+        "Country": "Belgium",
+        "Tags": "pop,relax",
+        "Favicon": "https://images.vrt.be/orig/2025/10/03/Relax_RadioCover.jpg",
+        "Language": "nl",
+        "Homepage": "https://www.vrt.be/vrtmax/livestream/audio/radio2-relax/",
+        "Latitude": 50.83277273130554,
+        "Longitude": 4.33740648941936,
+        "Source1": "http://icecast.vrtcdn.be/radio2_relax.aac"
+    },
+    {
+        "Title": "VRT Radio 2 Unwind",
+        "Country": "Belgium",
+        "Favicon": "https://www.vrt.be/nl/favicon.ico",
+        "Language": "nl",
+        "Homepage": "https://www.vrt.be/",
+        "Source1": "http://icecast.vrtcdn.be/radio2_unwind-high.mp3"
+    },
+    {
+        "Title": "VRT Radio 2 Vlaams-Brabant",
+        "Country": "Belgium",
+        "Favicon": "https://radio2.be/resources/favicon-radio2/apple-touch-icon-76x76.png",
+        "Language": "nl",
+        "Homepage": "https://radio2.be/",
+        "Source1": "http://icecast.vrtcdn.be/ra2vlb.aac"
+    },
+    {
+        "Title": "VRT Radio 2 West-Vlaanderen",
+        "Country": "Belgium",
+        "Language": "nl",
+        "Source1": "http://icecast.vrtcdn.be/ra2wvl-high.mp3"
+    },
+    {
+        "Title": "VRT Verkeer",
+        "Country": "Belgium",
+        "Language": "nl",
+        "Homepage": "https://www.vrt.be/",
+        "Latitude": 50.85296995812508,
+        "Longitude": 4.401628375053407,
+        "Source1": "https://progressive-audio.vrtcdn.be/content/fixed/11verk_ondemand_128.mp3"
+    },
+    {
+        "Title": "WabiSabi radio",
+        "Country": "Belgium",
+        "Favicon": "https://www.wabisabiradio.com/wp-content/uploads/2023/09/cropped-JPEG-file-04-2-192x192.jpg",
+        "Homepage": "https://www.wabisabiradio.com/",
+        "Source1": "https://s4.radio.co/sd1a7a0223/listen"
+    },
+    {
+        "Title": "Warm FM 104.2",
+        "Country": "Belgium",
+        "Tags": "electronic",
+        "Favicon": "http://www.warm.fm/favicon.ico",
+        "Language": "fr",
+        "Homepage": "http://www.warm.fm/",
+        "Source1": "http://stream05.warm.fm:9002/warm"
+    },
+    {
+        "Title": "We Are Various",
+        "Country": "Belgium",
+        "Language": "nl",
+        "Homepage": "https://www.wearevarious.com/",
+        "Source1": "https://azuracast.wearevarious.com/listen/we_are_various/live.mp3"
+    },
+    {
+        "Title": "Webradio Atlantis - Zandvliet, BE",
+        "Country": "Belgium",
+        "Tags": "community,oldies,pop",
+        "Language": "nl",
+        "Homepage": "http://www.webradioatlantis.be/",
+        "Latitude": 51.357802223741736,
+        "Longitude": 4.307123182684852,
+        "Source1": "https://zyrmuuzd.beheerstream.nl:8048/stream"
+    },
+    {
+        "Title": "WILLY",
+        "Country": "Belgium",
+        "Tags": "rock",
+        "Favicon": "https://cdn-profiles.tunein.com/s308770/images/logog.png",
+        "Homepage": "https://www.willy.radio/",
+        "Source1": "https://icecast-qmusicbe-cdp.triple-it.nl/willy-class-x.aac",
+        "Source2": "https://streams.radio.dpgmedia.cloud/redirect/willy_be/aac",
+        "Source3": "https://icecast-qmusicbe-cdp.triple-it.nl/willy.mp3"
+    },
+    {
+        "Title": "Willy - aac",
+        "Country": "Belgium",
+        "Tags": "aac,rock",
+        "Favicon": "https://willy.radio/favicon.ico",
+        "Language": "nl",
+        "Homepage": "https://willy.radio/",
+        "Source1": "https://streams.radio.dpgmedia.cloud/redirect/willy_be/aac"
+    },
+    {
+        "Title": "Willy Class X",
+        "Country": "Belgium",
+        "Tags": "rock",
+        "Favicon": "https://cdn-profiles.tunein.com/s322560/images/logod.jpg",
+        "Language": "nl",
+        "Homepage": "https://www.willy.radio/",
+        "Latitude": 51.212713450041704,
+        "Longitude": 4.42227065563202,
+        "Source1": "https://streams.radio.dpgmedia.cloud/redirect/willy_be_class_x/aac",
+        "Source2": "https://icecast-qmusicbe-cdp.triple-it.nl/willy-class-x.aac"
+    },
+    {
+        "Title": "Willy Classix",
+        "Country": "Belgium",
+        "Tags": "classics",
+        "Favicon": "https://www.willy.radio/favicon.ico",
+        "Language": "nl",
+        "Homepage": "https://www.willy.radio/",
+        "Source1": "https://streams.radio.dpgmedia.cloud/redirect/willy_be_class_x/mp3"
+    },
+    {
+        "Title": "Willy ClassX - AAC",
+        "Country": "Belgium",
+        "Tags": "aac,classics,rock",
+        "Language": "nl",
+        "Homepage": "https://willy.radio/",
+        "Source1": "https://streams.radio.dpgmedia.cloud/redirect/willy_be_class_x/aac"
+    },
+    {
+        "Title": "Willy Radio",
+        "Country": "Belgium",
+        "Favicon": "https://www.willy.radio/",
+        "Homepage": "https://www.willy.radio/",
+        "Source1": "https://icecast-qmusicbe-cdp.triple-it.nl/willy.mp3"
+    },
+    {
+        "Title": "WRadio",
+        "Country": "Belgium",
+        "Tags": "dance music,electronic,hits,pop,pop dance,pop music,top hits",
+        "Favicon": "https://www.wradio.be/apple.png",
+        "Language": "nl",
+        "Homepage": "https://www.wradio.be/",
+        "Latitude": 50.890252473393424,
+        "Longitude": 2.8066205978393555,
+        "Source1": "http://stream.wradio.es:9000/;stream/1"
+    },
+    {
+        "Title": "XBeat",
+        "Country": "Belgium",
+        "Tags": "electro",
+        "Favicon": "https://xbeat.org/wp-content/uploads/2019/04/cropped-29019567_10214064850427760_1674394533_n-1-1-1-32x32.png",
+        "Language": "en,fr",
+        "Homepage": "https://www.xbeat.org/",
+        "Source1": "https://radio.xbeat.org/stream1"
+    },
+    {
+        "Title": "XBeat",
+        "Country": "Belgium",
+        "Language": "en,fr",
+        "Homepage": "https://xbeat.org/",
+        "Source1": "https://radio.xbeat.org/stream1"
+    },
+    {
+        "Title": "YOLO - Life is like a dance",
+        "Country": "Belgium",
+        "Tags": "eurodance",
+        "Favicon": "https://www.yoloradio.be/uploads/3/9/6/3/3963899/editor/logo.png?1652812395",
+        "Homepage": "https://www.yoloradio.be/",
+        "Latitude": 51.146415437884514,
+        "Longitude": 5.74310302734375,
+        "Source1": "https://streamingv2.shoutcast.com/yolo-life-is-like-a-dance"
+    },
+    {
+        "Title": "Yujen Briag",
+        "Country": "Belgium",
+        "Homepage": "https://yujenbriag.be/",
+        "Source1": "https://play.radioking.io/iujenbriagburgas/524027"
+    },
+    {
+        "Title": "Zen Garden (myNoise Radio)",
+        "Country": "Belgium",
+        "Favicon": "https://mynoise.net/apple-touch-icon.png",
+        "Homepage": "https://mynoise.net/",
+        "Source1": "https://zengarden-mynoise.radioca.st/stream"
+    },
+    {
+        "Title": "Zen Garden (myNoise Radio)",
+        "Country": "Belgium",
+        "Favicon": "https://mynoise.net/apple-touch-icon.png",
+        "Homepage": "https://mynoise.net/radios.php",
+        "Source1": "http://zengarden.radio.mynoise.net/"
+    },
+    {
+        "Title": "ZenFm",
+        "Country": "Belgium",
+        "Homepage": "https://zenfm.be/#home",
+        "Source1": "http://str.topradio.be/zenfm.mp3"
+    },
+    {
+        "Title": "ZOE.radio",
+        "Country": "Belgium",
+        "Tags": "oldies",
+        "Favicon": "https://zoe.radio/zoeradio/images/logo-vierkant-512.png",
+        "Language": "nl",
+        "Region": "BE-VAN",
+        "Homepage": "https://www.zoe.radio/",
+        "Latitude": 51.283,
+        "Longitude": 4.67,
+        "Source1": "https://stream.zoe.radio/",
+        "Source2": "https://stream.zoe.radio/48"
+    },
+    {
+        "Title": "ZZRock",
+        "Country": "Belgium",
+        "Favicon": "https://static.wixstatic.com/media/4e31c3_ede9d3a6d2844853ac326447082428c2~mv2.png/v1/fill/w_238,h_118,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/ZZROCK.png",
+        "Homepage": "https://www.zzrock.be/",
+        "Source1": "https://axtran.radioca.st/stream"
+    },
+    {
+        "Title": "ایران بلژ",
+        "Country": "Belgium",
+        "Homepage": "https://iranbelge.ismyradio.com/",
+        "Source1": "https://sapircast.caster.fm:18847/NX8sv"
+    }
+]

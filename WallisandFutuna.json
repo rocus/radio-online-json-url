@@ -1,0 +1,18 @@
+[
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "WallisandFutuna",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "Wallis & Futuna 1",
+        "Country": "WallisandFutuna",
+        "Tags": "folk,news",
+        "Favicon": "https://la1ere.francetvinfo.fr/favicon.png",
+        "Homepage": "https://la1ere.francetvinfo.fr/wallisfutuna/radio",
+        "Source1": "https://wallisetfutuna.ice.infomaniak.ch/wallisetfutuna-128.mp3"
+    }
+]

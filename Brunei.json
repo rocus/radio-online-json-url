@@ -1,0 +1,40 @@
+[
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "Brunei",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "Asyil FM",
+        "Country": "Brunei",
+        "Tags": "islamic",
+        "Language": "ms",
+        "Homepage": "https://zeno.fm/",
+        "Source1": "http://playerservices.streamtheworld.com/api/livestream-redirect/ASYIK_FMAAC_SC"
+    },
+    {
+        "Title": "Kristal FM",
+        "Country": "Brunei",
+        "Favicon": "https://images.squarespace-cdn.com/content/v1/5cc110ca7a1fbd0a3d2e824d/b8b4b017-229d-4ad6-bd33-bb9ed694e6dd/KRISTALfm+Logo+%282023%29+1080x4050+-+Hari+Raya.png?format=1500w",
+        "Homepage": "https://www.kristal.fm/",
+        "Source1": "https://play.thestreamtech.com:7038/"
+    },
+    {
+        "Title": "KRISTALfm",
+        "Country": "Brunei",
+        "Favicon": "https://images.squarespace-cdn.com/content/v1/5cc110ca7a1fbd0a3d2e824d/c14d6a3a-a7dd-413a-b54a-25df559c3ae5/KRISTALfm+Logo+%282023%29+144x600.png",
+        "Homepage": "https://www.kristal.fm/",
+        "Source1": "https://play.thestreamtech.com:7038/index.html"
+    },
+    {
+        "Title": "Rádio Água Azul",
+        "Country": "Brunei",
+        "Favicon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8Mf0pTyn0csGWmRnTNBIiN8hFYhkcefiB5wEZrW5AOxC-YJrlDyWRlHo9bZWF8atKWH5q54Hg3VMJkR1xaFvJRxt19DKlchSnbdYhywCsFpqUe5nHHkAkDbjaymm6jmVU-AJ3fp5MbIqVemnbxahRJcsuQHHC15w12UIS8eST2h2RLwuzSj8I-NYftys/s320/grok-image-b75974a7-7f23-42e6-a1d5-61b6e90790d1.png",
+        "Language": "pt",
+        "Homepage": "https://radioaguaazul.com.br/",
+        "Source1": "https://stm4.srvif.com:8460/stream"
+    }
+]

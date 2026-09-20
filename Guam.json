@@ -1,0 +1,38 @@
+[
+    {
+        "Title": "104.3 Boss FM",
+        "Country": "Guam",
+        "Homepage": "https://boss104.gu/",
+        "Source1": "https://ice10.securenetsystems.net/KIJI"
+    },
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "Guam",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "Harvest Family Radio Guam",
+        "Country": "Guam",
+        "Favicon": "https://khmg.org/wp-content/uploads/logo_330.png",
+        "Homepage": "https://khmg.org/",
+        "Source1": "https://streaming.live365.com/a11295"
+    },
+    {
+        "Title": "KUSG",
+        "Country": "Guam",
+        "Tags": "news,talk",
+        "Language": "en",
+        "Homepage": "http://thepoint.gu/",
+        "Source1": "https://ice10.securenetsystems.net/KUSG"
+    },
+    {
+        "Title": "TFC Guam",
+        "Country": "Guam",
+        "Tags": "filipino",
+        "Homepage": "https://mytfc.com/",
+        "Source1": "https://tfcguam-abscbn-ono.amagi.tv/index.m3u8"
+    }
+]

@@ -1,0 +1,294 @@
+[
+    {
+        "Title": "106 fm",
+        "Country": "Azerbaijan",
+        "Homepage": "https://www.106fm.az/",
+        "Source1": "https://stream.atv.az/WebRTCAppEE/streams/612758375034657638703581.m3u8"
+    },
+    {
+        "Title": "106.3 fm Azad Azərbaycan radiosu",
+        "Country": "Azerbaijan",
+        "Homepage": "https://106-3fm.az/",
+        "Source1": "https://stream.atv.az/WebRTCAppEE/streams/517878792239218486180700.m3u8"
+    },
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "Azerbaijan",
+        "Favicon": "https://mp3islam.com/favicon.ico",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "Anti Radio",
+        "Country": "Azerbaijan",
+        "Favicon": "https://antiradio.net/favicon.ico",
+        "Homepage": "https://antiradio.net/",
+        "Source1": "https://stream.antiradio.net/radio/8000/mp3",
+        "Source2": "https://stream.antiradio.net/listen/anti_radio/mp3"
+    },
+    {
+        "Title": "Araz fm 103.3",
+        "Country": "Azerbaijan",
+        "Homepage": "http://araz.fm/",
+        "Source1": "http://s39.myradiostream.com/5458/listen.mp3"
+    },
+    {
+        "Title": "Araz fm 103.3",
+        "Country": "Azerbaijan",
+        "Homepage": "https://www.arazfm.az/",
+        "Source1": "https://s14.myradiostream.com/30454/listen.mp3"
+    },
+    {
+        "Title": "Araz Supermarket Radio",
+        "Country": "Azerbaijan",
+        "Language": "az",
+        "Homepage": "https://www.arazmarket.az/",
+        "Source1": "http://5.191.241.101:8000/arazmarket"
+    },
+    {
+        "Title": "Asan Radio",
+        "Country": "Azerbaijan",
+        "Language": "az",
+        "Homepage": "http://www.asanradio.az/",
+        "Source1": "http://94.20.74.206:4448/stream1"
+    },
+    {
+        "Title": "ASAN Radio",
+        "Country": "Azerbaijan",
+        "Language": "az",
+        "Homepage": "http://asanradio.az/",
+        "Source1": "https://play.asanradio.az/"
+    },
+    {
+        "Title": "AutoLife Azerbaijan",
+        "Country": "Azerbaijan",
+        "Favicon": "https://radio.autoliferadio.com:8080/media/servers/alr_logo_gold-3.png",
+        "Homepage": "https://autoliferadio.com/",
+        "Source1": "https://radio.autoliferadio.com:8005/radio"
+    },
+    {
+        "Title": "AutoLife Radio Azerbaijan",
+        "Country": "Azerbaijan",
+        "Tags": "pop,pop music",
+        "Language": "az,en,ru,tr",
+        "Homepage": "https://autoliferadio.com/",
+        "Source1": "http://radio.autoliferadio.com:8090/radio"
+    },
+    {
+        "Title": "AVTO FM",
+        "Country": "Azerbaijan",
+        "Tags": "classic hits",
+        "Language": "az",
+        "Homepage": "http://avtofm.az/",
+        "Source1": "http://5.191.241.101:8000/avtofm"
+    },
+    {
+        "Title": "Azerbaycan Radiosu 105.0 FM",
+        "Country": "Azerbaijan",
+        "Language": "az",
+        "Homepage": "https://aztv.az/",
+        "Source1": "http://str.yodacdn.net/radio_respublica/video.m3u8"
+    },
+    {
+        "Title": "Azərbaycan Beynəlxalq Radiosu",
+        "Country": "Azerbaijan",
+        "Homepage": "https://aztv.az/az",
+        "Source1": "https://str.yodacdn.net/radio_int/tracks-a1/mono.m3u8"
+    },
+    {
+        "Title": "Baku Hit FM",
+        "Country": "Azerbaijan",
+        "Homepage": "https://bakuhitfm.az/",
+        "Source1": "http://5.191.241.101:8000/bakuhitfm"
+    },
+    {
+        "Title": "Baku Jukebox",
+        "Country": "Azerbaijan",
+        "Tags": "pop",
+        "Source1": "http://78.109.52.73:8000/listening-from-radio-garden-1696020096"
+    },
+    {
+        "Title": "Baku Retro Fm",
+        "Country": "Azerbaijan",
+        "Tags": "folk",
+        "Favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240130_231946336.jpg?alt=media&token=4aed92f8-f8f5-479f-b60b-68b56f1bb844",
+        "Homepage": "http://5.191.241.101:8000/bakuretrofm",
+        "Source1": "http://5.191.241.101:8000/bakuretrofm"
+    },
+    {
+        "Title": "bakuretrofm",
+        "Country": "Azerbaijan",
+        "Tags": "folk",
+        "Favicon": "null",
+        "Language": "az",
+        "Homepage": "http://5.191.241.101:8000/bakuretrofm",
+        "Source1": "http://5.191.241.101:8000/bakuretrofm"
+    },
+    {
+        "Title": "Bravo Supermarket Radio",
+        "Country": "Azerbaijan",
+        "Language": "az",
+        "Homepage": "https://www.bravosupermarket.az/",
+        "Source1": "http://5.191.241.101:8000/bravo"
+    },
+    {
+        "Title": "Caspian Business Radio BOSS",
+        "Country": "Azerbaijan",
+        "Tags": "alternative rock,baku,business,easy listening,hip-hop and rap oldies,motivational,pop music,radio,rap hiphop rnb,top hits",
+        "Favicon": "https://boss.com.az/wp-content/uploads/2018/04/BOSS-MAGAZINE-LOGO.png",
+        "Language": "az,en,ru",
+        "Homepage": "https://boss.com.az/radio",
+        "Latitude": 40.33369698231379,
+        "Longitude": 49.79147169739008,
+        "Source1": "https://myradio24.org/bosscomaz"
+    },
+    {
+        "Title": "DalğaFM 92.5",
+        "Country": "Azerbaijan",
+        "Tags": "pop",
+        "Language": "az",
+        "Homepage": "https://dalgafm.az/",
+        "Source1": "https://live.dinle.az/dalgafm"
+    },
+    {
+        "Title": "İctimai Radio – 90 FM",
+        "Country": "Azerbaijan",
+        "Language": "az",
+        "Homepage": "https://90fm.az/",
+        "Source1": "https://stream.itv.az/rtmp:/radio/playlist.m3u8"
+    },
+    {
+        "Title": "Kepez FM",
+        "Country": "Azerbaijan",
+        "Homepage": "http://www.kepezfm.az/",
+        "Source1": "http://85.132.78.122:3344/now"
+    },
+    {
+        "Title": "Media Fm 105.5",
+        "Country": "Azerbaijan",
+        "Language": "az",
+        "Homepage": "https://icecast.livetv.az/mediafm",
+        "Source1": "https://icecast.livetv.az/mediafm"
+    },
+    {
+        "Title": "Media fm jazz",
+        "Country": "Azerbaijan",
+        "Tags": "jazz fusion",
+        "Homepage": "https://mediafm.az/",
+        "Source1": "http://icecast.livetv.az/mediajazz"
+    },
+    {
+        "Title": "Media fm mugam",
+        "Country": "Azerbaijan",
+        "Tags": "folk music,narodna - etno",
+        "Language": "az",
+        "Homepage": "https://mediafm.az/",
+        "Source1": "http://icecast.livetv.az/mediamugam"
+    },
+    {
+        "Title": "Naxçıvan Radiosu",
+        "Country": "Azerbaijan",
+        "Tags": "general,music",
+        "Favicon": "https://radio.ntv.az/images/logo.png?v=2",
+        "Language": "az",
+        "Homepage": "https://radio.ntv.az/",
+        "Source1": "http://s33.myradiostream.com:12782/listen.mp3"
+    },
+    {
+        "Title": "NAZ RADIO",
+        "Country": "Azerbaijan",
+        "Tags": "music,pop",
+        "Language": "az",
+        "Homepage": "https://www.nazradio.com/",
+        "Source1": "https://s2.myradiostream.com/5286/listen.mp3"
+    },
+    {
+        "Title": "PlanetFM 88.7",
+        "Country": "Azerbaijan",
+        "Language": "az",
+        "Homepage": "https://planetfm.az/",
+        "Source1": "https://live.dinle.az/planetfm"
+    },
+    {
+        "Title": "Radio Enerji 101.1 FM",
+        "Country": "Azerbaijan",
+        "Language": "az",
+        "Homepage": "https://enerjifm.az/",
+        "Source1": "https://icecast.livetv.az/antennfm"
+    },
+    {
+        "Title": "Radio Space 104FM",
+        "Country": "Azerbaijan",
+        "Language": "az",
+        "Homepage": "http://www.spacetv.az/",
+        "Source1": "https://stream.zeno.fm/noozxmffa38uv"
+    },
+    {
+        "Title": "Radio Veten",
+        "Country": "Azerbaijan",
+        "Tags": "classical,oldies,pop,rap,rock",
+        "Language": "az",
+        "Homepage": "https://podbox.me/radioveten",
+        "Source1": "https://cdn2.cloudrad.io/radioveten/0kgkkzanmueuv/source/listen.m3u"
+    },
+    {
+        "Title": "Rahat Supermarket Radio",
+        "Country": "Azerbaijan",
+        "Language": "az",
+        "Homepage": "https://rahatmarket.az/",
+        "Source1": "http://5.191.241.101:8000/rahatmarket"
+    },
+    {
+        "Title": "Real FM 107",
+        "Country": "Azerbaijan",
+        "Language": "az",
+        "Homepage": "https://realfm.az/",
+        "Source1": "http://94.20.137.130:8995/realfm?n=1ae9db9ce6bdfe42937a"
+    },
+    {
+        "Title": "Sağlam Radio",
+        "Country": "Azerbaijan",
+        "Homepage": "https://sehiyye.gov.az/",
+        "Source1": "https://s24.myradiostream.com/:17446/listen.mp3?nocache=1717082000"
+    },
+    {
+        "Title": "Soothing jazz",
+        "Country": "Azerbaijan",
+        "Tags": "jazz,piano jazz,smooth jazz,soft jazz",
+        "Language": "az,en,ka,ru,tr",
+        "Homepage": "http://cizgiotesi.biz.tr/",
+        "Source1": "http://193.111.125.15:8020/soothingjazz"
+    },
+    {
+        "Title": "Soothing radio",
+        "Country": "Azerbaijan",
+        "Tags": "ambient and relaxation music,new age piano,relax,relaxation,relaxation music,relaxing,soft music",
+        "Language": "az,en,ka,ru,tr",
+        "Homepage": "http://cizgiotesi.biz.tr/",
+        "Source1": "http://193.111.125.15:8010/soothingradio"
+    },
+    {
+        "Title": "TMB 100.5",
+        "Country": "Azerbaijan",
+        "Homepage": "http://s39.myradiostream.com:5458/",
+        "Source1": "http://s39.myradiostream.com:5458/"
+    },
+    {
+        "Title": "Xezer FM",
+        "Country": "Azerbaijan",
+        "Tags": "classic hits,hits",
+        "Favicon": "http://xezerfm.az/favicon.ico",
+        "Language": "az,ru",
+        "Homepage": "http://xezerfm.az/",
+        "Source1": "https://s40.myradiostream.com/:22546/listen.mp3?"
+    },
+    {
+        "Title": "Yurd FM",
+        "Country": "Azerbaijan",
+        "Tags": "folk music",
+        "Language": "az",
+        "Homepage": "http://www.yurdfm.az/",
+        "Source1": "https://icecast.livetv.az/yurdfm"
+    }
+]

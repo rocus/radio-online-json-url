@@ -1,0 +1,60 @@
+[
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "Zimbabwe",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "Capitalk 100.4FM Harare",
+        "Country": "Zimbabwe",
+        "Tags": "african music",
+        "Favicon": "https://cdn-radiotime-logos.tunein.com/s295932d.png",
+        "Language": "en",
+        "Homepage": "https://capitalkfm.co.zw/",
+        "Latitude": -17.8643597784372,
+        "Longitude": 31.05148315429688,
+        "Source1": "https://edge.iono.fm/xice/162_medium.aac"
+    },
+    {
+        "Title": "CENTRAL RADIO 98.5",
+        "Country": "Zimbabwe",
+        "Favicon": "https://www.centralradio.co.zw/wp-content/uploads/2021/11/central_loge-removebg-preview.png",
+        "Homepage": "https://www.centralradio.co.zw/",
+        "Source1": "https://centralstream.zbc.co.zw:8000/radio.mp3"
+    },
+    {
+        "Title": "MSU RADIO 90.3 FM",
+        "Country": "Zimbabwe",
+        "Homepage": "https://radio.msu.ac.zw/",
+        "Latitude": -20.3267648586295,
+        "Longitude": 30.042082071304325,
+        "Source1": "https://listen.radioking.com/radio/873191/stream/943246"
+    },
+    {
+        "Title": "Nehanda Radio",
+        "Country": "Zimbabwe",
+        "Favicon": "https://i0.wp.com/nehandaradio.com/wp-content/uploads/2021/01/cropped-NehandaRadioFavicon-512x512-1.jpg?fit=192%2C192&ssl=1",
+        "Homepage": "https://nehandaradio.com/",
+        "Source1": "https://eu4.fastcast4u.com/proxy/lancguma?mp=/1"
+    },
+    {
+        "Title": "Star FM 89.7",
+        "Country": "Zimbabwe",
+        "Favicon": "https://www.starfm.co.zw/favicon.ico",
+        "Homepage": "https://www.starfm.co.zw/#&panel1-9",
+        "Source1": "https://edge.iono.fm/xice/159_medium.aac"
+    },
+    {
+        "Title": "Star FM 89.7",
+        "Country": "Zimbabwe",
+        "Favicon": "https://cdn-profiles.tunein.com/s182260/images/logod.png",
+        "Language": "en,sn",
+        "Homepage": "https://streema.com/radios/Star_FM_89.7",
+        "Latitude": -17.879104644368155,
+        "Longitude": 31.036376953125004,
+        "Source1": "https://edge.iono.fm/xice/159_medium.aac"
+    }
+]

@@ -1,0 +1,968 @@
+[
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "Latvia",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "Alise Plus",
+        "Country": "Latvia",
+        "Tags": "casual",
+        "Language": "ru",
+        "Homepage": "http://aliseplus.lv/",
+        "Latitude": 55.875618993946354,
+        "Longitude": 26.52133941650391,
+        "Source1": "http://fm2inet.aliseplus.lv:8080/"
+    },
+    {
+        "Title": "AlisePlus",
+        "Country": "Latvia",
+        "Source1": "http://fm2inet.aliseplus.lv:8080/"
+    },
+    {
+        "Title": "Chillax",
+        "Country": "Latvia",
+        "Favicon": "https://skontotev.lv/uploads/LOGO/128x83/128x128%20px%20Chillax_labots.png",
+        "Language": "lv",
+        "Homepage": "https://skontotev.lv/lv/chillaxfm",
+        "Source1": "https://streams.chillaxfm.lv/chillax"
+    },
+    {
+        "Title": "Chillax FM",
+        "Country": "Latvia",
+        "Tags": "chill & relax",
+        "Favicon": "https://skontotev.lv/uploads/LOGO/Saraksta%20skata%20kart%C4%ABte/straumes_1a_kartite_chillax%20FM.png",
+        "Language": "lv",
+        "Homepage": "https://chillaxfm.lv/",
+        "Latitude": 56.934581443136246,
+        "Longitude": 24.117345664878844,
+        "Source1": "https://streams.chillaxfm.lv/chillaxfm"
+    },
+    {
+        "Title": "Divu Krastu Radio",
+        "Country": "Latvia",
+        "Tags": "retro",
+        "Favicon": "https://www.dkradio.lv/userfiles/theme/logo.svg",
+        "Language": "lv",
+        "Homepage": "https://www.dkradio.lv/",
+        "Latitude": 55.82062438838889,
+        "Longitude": 26.509724019416065,
+        "Source1": "https://live.dkradio.lv/01"
+    },
+    {
+        "Title": "EHR",
+        "Country": "Latvia",
+        "Favicon": "https://www.ehr.fm/build/favicons/favicon.png",
+        "Homepage": "https://www.ehr.fm/sakums",
+        "Source1": "https://stream.ehrhiti.lv:8000/ehr.aac"
+    },
+    {
+        "Title": "EHR",
+        "Country": "Latvia",
+        "Favicon": "https://www.ehr.fm/content/channels/8d581e2b-c441-4fc8-aac7-2ef8a629bef8.png?w=205&h=205&fm=webp&s=e03fb1aeb3af2b1b4fac2c53c93c5d2c",
+        "Homepage": "https://www.ehr.fm/radio/ehr",
+        "Source1": "https://stream.ehrhiti.lv:8000/ehr.aac"
+    },
+    {
+        "Title": "EHR Dance",
+        "Country": "Latvia",
+        "Tags": "labākie eiropas deju hiti",
+        "Language": "lv",
+        "Homepage": "https://www.ehr.fm/",
+        "Source1": "http://stream.europeanhitradio.com:8000/Stream_24.mp3"
+    },
+    {
+        "Title": "EHR Darbam",
+        "Country": "Latvia",
+        "Tags": "dziesmas produktīvam noskaņojumam",
+        "Language": "lv",
+        "Homepage": "https://www.ehr.fm/",
+        "Latitude": 56.949311098554794,
+        "Longitude": 24.105099882780372,
+        "Source1": "http://stream.ehrhiti.lv:8000/Stream_23.mp3"
+    },
+    {
+        "Title": "EHR Festivālu Hiti",
+        "Country": "Latvia",
+        "Tags": "skaļāko festivālu mūzikas izlase",
+        "Language": "lv",
+        "Homepage": "https://www.ehr.fm/",
+        "Latitude": 56.94918179829204,
+        "Longitude": 24.105136486199587,
+        "Source1": "http://stream.ehrhiti.lv:8000/Stream_73.mp3"
+    },
+    {
+        "Title": "EHR Fresh",
+        "Country": "Latvia",
+        "Tags": "fresh hits",
+        "Language": "en",
+        "Homepage": "https://www.ehr.fm/",
+        "Source1": "http://stream.europeanhitradio.com:8000/Stream_25.aac",
+        "Source2": "http://stream.ehrhiti.lv:8000/Stream_25.mp3"
+    },
+    {
+        "Title": "EHR Gold",
+        "Country": "Latvia",
+        "Tags": "90'to gadu zelta hiti",
+        "Language": "lv",
+        "Homepage": "https://www.ehr.fm/",
+        "Latitude": 56.94933866508655,
+        "Longitude": 24.105116588647228,
+        "Source1": "http://stream.ehrhiti.lv:8000/Stream_64.mp3"
+    },
+    {
+        "Title": "EHR Ice Ice Party",
+        "Country": "Latvia",
+        "Tags": "labākie deju superhiti",
+        "Language": "lv",
+        "Homepage": "https://www.ehr.fm/",
+        "Latitude": 56.949146133214455,
+        "Longitude": 24.10525146392261,
+        "Source1": "http://stream.ehrhiti.lv:8000/Stream_67.mp3"
+    },
+    {
+        "Title": "EHR iDeal Music",
+        "Country": "Latvia",
+        "Tags": "eiropas un latviešu hiti kopā ar ideal",
+        "Language": "lv",
+        "Homepage": "https://www.ehr.fm/",
+        "Latitude": 56.949168404249455,
+        "Longitude": 24.10558744438658,
+        "Source1": "http://stream.ehrhiti.lv:8000/Stream_78.mp3"
+    },
+    {
+        "Title": "EHR Party Service",
+        "Country": "Latvia",
+        "Tags": "eiropas klubu atmosfēra un pasaules jaudīgāko dj remixi",
+        "Language": "lv",
+        "Homepage": "https://www.ehr.fm/",
+        "Latitude": 56.94905252043763,
+        "Longitude": 24.10558846255661,
+        "Source1": "http://stream.ehrhiti.lv:8000/Stream_12.mp3"
+    },
+    {
+        "Title": "EHR Remixes",
+        "Country": "Latvia",
+        "Tags": "eiropas hitu remiksi",
+        "Language": "lv",
+        "Homepage": "https://www.ehr.fm/",
+        "Latitude": 56.94926037391176,
+        "Longitude": 24.105363624487644,
+        "Source1": "http://stream.ehrhiti.lv:8000/Stream_32.mp3"
+    },
+    {
+        "Title": "EHR Rise & Shine",
+        "Country": "Latvia",
+        "Tags": "pozītīvi hiti lieliskam dienas sākumam",
+        "Language": "lv",
+        "Homepage": "https://www.ehr.fm/",
+        "Latitude": 56.94937685706336,
+        "Longitude": 24.105614364371064,
+        "Source1": "http://stream.ehrhiti.lv:8000/Stream_36.mp3"
+    },
+    {
+        "Title": "EHR TOP 40",
+        "Country": "Latvia",
+        "Tags": "lv populārākie eu hiti pēc klausītāju balsojuma",
+        "Language": "lv",
+        "Homepage": "https://www.ehr.fm/",
+        "Latitude": 56.94936653587653,
+        "Longitude": 24.10508614843731,
+        "Source1": "http://stream.europeanhitradio.com:8000/Stream_27.mp3"
+    },
+    {
+        "Title": "EHR TOP-40",
+        "Country": "Latvia",
+        "Tags": "top40",
+        "Language": "en",
+        "Homepage": "https://www.ehr.fm/",
+        "Source1": "http://stream.europeanhitradio.com:8000/Stream_27.aac"
+    },
+    {
+        "Title": "EHR+",
+        "Country": "Latvia",
+        "Favicon": "https://www.ehr.fm/content/channels/fc039806-e0c3-49bc-82d8-4f421f45be63.png?w=205&h=205&fm=webp&s=3b8d5106ea026855e5700c9c260f45b4",
+        "Homepage": "https://www.ehr.fm/radio/ehrplus",
+        "Source1": "https://stream.ehrhiti.lv:8000/khr.aac"
+    },
+    {
+        "Title": "Eiropas Hītu Radio",
+        "Country": "Latvia",
+        "Tags": "pop,top 100",
+        "Homepage": "https://www.ehrhiti.lv/",
+        "Source1": "http://stream.europeanhitradio.com:8000/ehr.mp3"
+    },
+    {
+        "Title": "European Hit Radio",
+        "Country": "Latvia",
+        "Tags": "ehr,pop",
+        "Language": "lv",
+        "Homepage": "http://www.ehrhiti.lv/",
+        "Source1": "http://stream.europeanhitradio.com:8000/ehr.aac"
+    },
+    {
+        "Title": "European Hit Radio - Dance",
+        "Country": "Latvia",
+        "Tags": "dance,ehr,electronic",
+        "Language": "lv",
+        "Homepage": "http://www.ehrhiti.lv/",
+        "Source1": "http://stream.europeanhitradio.com:8000/Stream_24.aac"
+    },
+    {
+        "Title": "European Hit Radio - Darbam",
+        "Country": "Latvia",
+        "Tags": "darbam,ehr,pop,working,worktime music",
+        "Favicon": "http://www.ehrhiti.lv/favicons/apple-touch-icon-120x120.png",
+        "Homepage": "http://www.ehrhiti.lv/",
+        "Source1": "http://stream.europeanhitradio.com:8000/Stream_23.aac"
+    },
+    {
+        "Title": "European Hit Radio - Eurochart",
+        "Country": "Latvia",
+        "Tags": "ehr",
+        "Favicon": "http://www.ehrhiti.lv/favicons/apple-touch-icon-120x120.png",
+        "Language": "lv",
+        "Homepage": "http://www.ehrhiti.lv/",
+        "Source1": "http://stream.europeanhitradio.com:8000/Stream_31.aac"
+    },
+    {
+        "Title": "European Hit Radio - Fresh",
+        "Country": "Latvia",
+        "Tags": "ehr,top 40",
+        "Favicon": "http://www.ehrhiti.lv/favicons/apple-touch-icon-120x120.png",
+        "Language": "lv",
+        "Homepage": "http://www.ehrhiti.lv/",
+        "Source1": "http://stream.europeanhitradio.com:8000/Stream_25.aac"
+    },
+    {
+        "Title": "European Hit Radio - Latviešu Hiti",
+        "Country": "Latvia",
+        "Tags": "ehr,pop",
+        "Language": "lv",
+        "Homepage": "https://www.ehrhiti.lv/",
+        "Source1": "http://stream.europeanhitradio.com:8000/Stream_22.aac"
+    },
+    {
+        "Title": "European Hit Radio - Party Service",
+        "Country": "Latvia",
+        "Tags": "dance,ehr,electro,hot hits,party,pop",
+        "Language": "lv",
+        "Homepage": "http://www.ehrhiti.lv/",
+        "Source1": "http://stream.europeanhitradio.com:8000/Stream_12.aac"
+    },
+    {
+        "Title": "European Hit Radio - Russkie Hiti",
+        "Country": "Latvia",
+        "Tags": "ehr,pop",
+        "Language": "ru",
+        "Homepage": "http://www.russkiehiti.lv/",
+        "Source1": "http://stream.europeanhitradio.com:8000/khr.aac"
+    },
+    {
+        "Title": "European Hit Radio - SuperHits",
+        "Country": "Latvia",
+        "Tags": "00s,classic hits,ehr,pop,pop dance,top 40",
+        "Favicon": "http://www.ehrhiti.lv/favicons/apple-touch-icon-120x120.png",
+        "Language": "lv",
+        "Homepage": "http://www.ehrhiti.lv/",
+        "Source1": "http://stream.europeanhitradio.com:8000/Stream_21.aac"
+    },
+    {
+        "Title": "European Hit Radio - Top 40",
+        "Country": "Latvia",
+        "Tags": "ehr,pop,top 40",
+        "Language": "lv",
+        "Homepage": "https://www.ehrhiti.lv/",
+        "Source1": "http://stream.europeanhitradio.com:8000/Stream_27.aac"
+    },
+    {
+        "Title": "gradio.lv ONE",
+        "Country": "Latvia",
+        "Tags": "dance,eurodance,hands up,hard dance,house,pop,trance",
+        "Favicon": "https://gradio.lv/logo/only-g-without-gloss-web-200.png",
+        "Language": "en,lv",
+        "Homepage": "https://gradio.lv/",
+        "Latitude": 56.53933611058803,
+        "Longitude": 21.18825495243073,
+        "Source1": "https://stream.gradio.lv/gradio-one.mp4a"
+    },
+    {
+        "Title": "IvoFm",
+        "Country": "Latvia",
+        "Language": "lv",
+        "Homepage": "https://ivofm.lv/radio",
+        "Source1": "https://ivofm.lv/radio"
+    },
+    {
+        "Title": "KurmisLV",
+        "Country": "Latvia",
+        "Tags": "christian",
+        "Favicon": "https://www.kurmislv.info/templates/kubrik/images/logo.png",
+        "Language": "en",
+        "Homepage": "https://www.kurmislv.info/",
+        "Source1": "http://www.kurmislv.info:8000/live-kurmislv-hq.mp3"
+    },
+    {
+        "Title": "Kurzemes Radio",
+        "Country": "Latvia",
+        "Homepage": "http://kurzemesradio.lv/",
+        "Source1": "http://31.170.16.6:8000/"
+    },
+    {
+        "Title": "Latgales Radio",
+        "Country": "Latvia",
+        "Tags": "local",
+        "Language": "lv",
+        "Homepage": "http://www.radiolg.lv/",
+        "Source1": "http://www.radiolg.lv:8000/128_aac.m3u"
+    },
+    {
+        "Title": "Latviešu hiti",
+        "Country": "Latvia",
+        "Favicon": "https://www.ehr.fm/content/channels/e253bd86-c97a-4117-a7d8-4dd65fe00a2c.png?w=205&h=205&fm=webp&s=ce07c22c9642da2d67534f85b1c14180",
+        "Homepage": "https://www.ehr.fm/radio/latviesu-hiti",
+        "Source1": "https://stream.ehrhiti.lv:8000/Stream_22.aac"
+    },
+    {
+        "Title": "Latvijas Kristīgais Radio",
+        "Country": "Latvia",
+        "Tags": "religious",
+        "Favicon": "https://lkr.lv/icon-128x128.png",
+        "Language": "lv",
+        "Homepage": "https://lkr.lv/",
+        "Source1": "https://radio.lkr.lv/;?type=http&nocache=40"
+    },
+    {
+        "Title": "Latvijas Radio 1",
+        "Country": "Latvia",
+        "Favicon": "https://latvijasradio.lsm.lv/public/assets/userfiles/logo/LR1-logo-RGB-square.png",
+        "Homepage": "https://lr1.lsm.lv/lv/lr1/",
+        "Source1": "https://60766ff53d5e6.streamlock.net/liveALR1/mp4:LR1/playlist.m3u8"
+    },
+    {
+        "Title": "Latvijas Radio 1",
+        "Country": "Latvia",
+        "Tags": "latvijas radio,news,public radio,talk",
+        "Favicon": "http://lr1.lsm.lv/favicon/lr1-favicon-180x180.png",
+        "Language": "lv",
+        "Homepage": "http://lr1.lsm.lv/lv/lr1/",
+        "Source1": "http://lr1mp1.latvijasradio.lv:8012/;"
+    },
+    {
+        "Title": "Latvijas Radio 1",
+        "Country": "Latvia",
+        "Tags": "latvijas radio,news,public radio,talk",
+        "Language": "lv",
+        "Homepage": "https://live.latvijasradio.lv/lr1",
+        "Source1": "https://muste.latvijasradio.lv/shoutcast/mp4:lr1a.stream/playlist.m3u8"
+    },
+    {
+        "Title": "Latvijas Radio 2",
+        "Country": "Latvia",
+        "Tags": "latvijas radio,pop,public radio",
+        "Favicon": "http://lr2.lsm.lv/favicon/lr2-favicon-180x180.png",
+        "Language": "lv",
+        "Homepage": "http://lr2.lsm.lv/lv/lr2/",
+        "Source1": "http://lr2mp1.latvijasradio.lv:8002/;"
+    },
+    {
+        "Title": "Latvijas Radio 2",
+        "Country": "Latvia",
+        "Tags": "latvijas radio,pop,public radio",
+        "Language": "lv",
+        "Homepage": "https://live.latvijasradio.lv/lr2",
+        "Source1": "https://muste.latvijasradio.lv/shoutcast/mp4:lr2a.stream/playlist.m3u8"
+    },
+    {
+        "Title": "Latvijas Radio 3 - Klasika",
+        "Country": "Latvia",
+        "Favicon": "https://latvijasradio.lsm.lv/public/assets/userfiles/logo/LR3-logo-RGB-square.png",
+        "Homepage": "https://klasika.lsm.lv/lv/lr3/",
+        "Source1": "https://60766ff53d5e6.streamlock.net/liveALR3/mp4:klasika/playlist.m3u8"
+    },
+    {
+        "Title": "Latvijas Radio 3 - Klasika",
+        "Country": "Latvia",
+        "Tags": "classical,latvijas radio,public radio",
+        "Favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZRsZ-GV51S6hs4kQcT_QaM1BKdoGfqAomjATuY0XgZQ444zqfiw",
+        "Language": "lv",
+        "Homepage": "http://klasika.lsm.lv/lv/lr3/",
+        "Source1": "http://lr3mp0.latvijasradio.lv:8004/;"
+    },
+    {
+        "Title": "Latvijas Radio 4",
+        "Country": "Latvia",
+        "Tags": "latvijas radio,public radio",
+        "Favicon": "http://lr4.lsm.lv/favicon/lr4-favicon-180x180.png",
+        "Language": "ru",
+        "Homepage": "http://lr4.lsm.lv/lv/lr4/",
+        "Source1": "http://lr4mp1.latvijasradio.lv:8020/;"
+    },
+    {
+        "Title": "Latvijas Radio 5",
+        "Country": "Latvia",
+        "Homepage": "https://pieci.lv//lv/lr5/",
+        "Source1": "http://lr5mp1.latvijasradio.lv:8012/;"
+    },
+    {
+        "Title": "Latvijas Radio 5",
+        "Country": "Latvia",
+        "Tags": "pop",
+        "Favicon": "https://lr5.lsm.lv/public/assets/design/pieci/logo.svg",
+        "Homepage": "https://pieci.lv/",
+        "Latitude": 56.94986856223457,
+        "Longitude": 24.1060745716095,
+        "Source1": "http://lr5mp1.latvijasradio.lv:8016/"
+    },
+    {
+        "Title": "LRADIO BALTIJA",
+        "Country": "Latvia",
+        "Favicon": "https://m.lradiostation.com/en/favicon.ico",
+        "Homepage": "https://www.lradiostation.com/",
+        "Source1": "http://balticom-238-238.balticom.lv/live.aac"
+    },
+    {
+        "Title": "LRMAROCKRADIO",
+        "Country": "Latvia",
+        "Homepage": "https://www.rockradio.lv/",
+        "Source1": "https://c22.radioboss.fm:18318/stream"
+    },
+    {
+        "Title": "Lustīgs Radio",
+        "Country": "Latvia",
+        "Tags": "country",
+        "Favicon": "https://lustigsradio.lv/stream/img/fons.jpg",
+        "Language": "en,lv",
+        "Homepage": "https://www.lustigsradio.lv/",
+        "Latitude": 56.664742696509194,
+        "Longitude": 22.494065909978076,
+        "Source1": "http://stream.lustigsradio.lv/live"
+    },
+    {
+        "Title": "LV Radio 1",
+        "Country": "Latvia",
+        "Favicon": "http://lr1mp1.latvijasradio.lv:8012/",
+        "Homepage": "http://lr1mp1.latvijasradio.lv:8012/",
+        "Source1": "http://lr1mp1.latvijasradio.lv:8012/"
+    },
+    {
+        "Title": "LV Radio 2",
+        "Country": "Latvia",
+        "Favicon": "http://lr2mp1.latvijasradio.lv:8002/",
+        "Homepage": "http://lr2mp1.latvijasradio.lv:8002/",
+        "Source1": "http://lr2mp1.latvijasradio.lv:8002/"
+    },
+    {
+        "Title": "LV Radio 4",
+        "Country": "Latvia",
+        "Favicon": "http://lr4mp1.latvijasradio.lv:8020/",
+        "Homepage": "http://lr4mp1.latvijasradio.lv:8020/",
+        "Source1": "http://lr4mp1.latvijasradio.lv:8020/"
+    },
+    {
+        "Title": "Mix FM 102,7",
+        "Country": "Latvia",
+        "Tags": "dance,pop",
+        "Favicon": "https://mixfm.lv/upload/players/6564bef731b954.54432755.png",
+        "Language": "en,ru",
+        "Homepage": "https://mixfm.lv/",
+        "Latitude": 56.93365198654328,
+        "Longitude": 24.11382414298644,
+        "Source1": "https://live.relaxfm.lv/07"
+    },
+    {
+        "Title": "NewDanceRadio",
+        "Country": "Latvia",
+        "Homepage": "https://www.newdanceradio.ru/",
+        "Source1": "http://stream.newdanceradio.ru/"
+    },
+    {
+        "Title": "NewDanceRadio",
+        "Country": "Latvia",
+        "Tags": "dance,eurodance,house,pop,trance",
+        "Language": "ru",
+        "Source1": "https://stream.newdanceradio.lv/mp3_192"
+    },
+    {
+        "Title": "Njoyradio",
+        "Country": "Latvia",
+        "Tags": "pop",
+        "Source1": "https://live.njoyradio.lv/02"
+    },
+    {
+        "Title": "Nordic Chillout Indie",
+        "Country": "Latvia",
+        "Tags": "indie pop,rock chillout music",
+        "Favicon": "https://indie.nordichilloutradio.com/wp-content/themes/indie-chillout-main/media/apple-touch-icon.png",
+        "Homepage": "https://indie.nordichilloutradio.com/",
+        "Source1": "https://listen.radioking.com/radio/768542/stream/835766"
+    },
+    {
+        "Title": "Nordic Chillout Radio",
+        "Country": "Latvia",
+        "Tags": "chillout,downtempo,electronic",
+        "Favicon": "https://nordichilloutradio.com/wp-content/themes/nordichillout/media/apple-touch-icon.png",
+        "Language": "en",
+        "Homepage": "http://www.nordichilloutradio.com/",
+        "Latitude": 56.810151288894936,
+        "Longitude": 24.157520933023907,
+        "Source1": "https://play.radioking.io/nordic-chillout-radio/736489"
+    },
+    {
+        "Title": "Radio 7",
+        "Country": "Latvia",
+        "Favicon": "https://radio7.lv/wp-content/uploads/2021/03/cropped-radio7-symbol-180x180.png",
+        "Language": "lv",
+        "Homepage": "http://radio7.lv/",
+        "Source1": "http://stream.radio7.lv:8024/Radio7.m3u"
+    },
+    {
+        "Title": "Radio 7",
+        "Country": "Latvia",
+        "Tags": "latvian,pop,rock",
+        "Favicon": "https://radio7.lv/wp-content/uploads/2021/03/cropped-radio7-symbol-32x32.png",
+        "Language": "lv",
+        "Homepage": "https://radio7.lv/",
+        "Latitude": 57.15314098163238,
+        "Longitude": 24.85566079616547,
+        "Source1": "https://listen.radio7.lv:2053/Radio7"
+    },
+    {
+        "Title": "Radio ENERGY.LV",
+        "Country": "Latvia",
+        "Tags": "pop",
+        "Language": "lv",
+        "Homepage": "http://www.radioenergy.lv/",
+        "Source1": "http://www.radioenergy.lv:8000/listen.pls"
+    },
+    {
+        "Title": "Radio ENERGY.LV - Russian",
+        "Country": "Latvia",
+        "Tags": "pop",
+        "Language": "ru",
+        "Homepage": "http://www.radioenergy.lv/",
+        "Source1": "http://www.radioenergy.lv:9000/listen.pls"
+    },
+    {
+        "Title": "Radio Liepāja",
+        "Country": "Latvia",
+        "Favicon": "https://radioliepaja.lv/favicon.svg",
+        "Language": "en,lv",
+        "Homepage": "https://radioliepaja.lv/",
+        "Latitude": 56.509948250398374,
+        "Longitude": 21.006430685520176,
+        "Source1": "https://stream.radioliepaja.lv/live/playlist.m3u8"
+    },
+    {
+        "Title": "RADIO MARIA LATVIA",
+        "Country": "Latvia",
+        "Tags": "catholic,religion",
+        "Language": "lv",
+        "Homepage": "http://www.rml.lv/",
+        "Source1": "http://dreamsiteradiocp2.com:8046/stream"
+    },
+    {
+        "Title": "Radio Melodija",
+        "Country": "Latvia",
+        "Tags": "folk,jazz,news,pop",
+        "Favicon": "https://radiomelodija.lv/upload/photos/69048604d622c8.08038779_final.png",
+        "Language": "ru",
+        "Homepage": "https://radiomelodija.lv/",
+        "Latitude": 56.934337883606126,
+        "Longitude": 24.11770612965959,
+        "Source1": "https://live.relaxfm.lv/08"
+    },
+    {
+        "Title": "Radio NABA",
+        "Country": "Latvia",
+        "Tags": "alternative,alternative rock,avant-garde,classic rock,electronic,experimental,latvijas radio,student,university radio",
+        "Language": "lv",
+        "Homepage": "http://www.naba.lv/",
+        "Source1": "http://nabamp0.latvijasradio.lv:8016/;"
+    },
+    {
+        "Title": "Radio Nemiers",
+        "Country": "Latvia",
+        "Homepage": "https://radionemiers.com/",
+        "Source1": "https://stream.radionemiers.com/nmrs/playlist.m3u8"
+    },
+    {
+        "Title": "Radio Pik 100 FM",
+        "Country": "Latvia",
+        "Favicon": "https://pik.lv/wp-content/uploads/2019/03/cropped-fav_pik-180x180.jpg",
+        "Language": "ru",
+        "Homepage": "https://pik.lv/",
+        "Latitude": 56.934390018586065,
+        "Longitude": 24.11765890129749,
+        "Source1": "http://91.90.255.85:8000/01"
+    },
+    {
+        "Title": "Radio Roks",
+        "Country": "Latvia",
+        "Favicon": "https://radioroks.lv/upload/design/63891096d7cfc0.23308165.png",
+        "Homepage": "https://radioroks.lv/",
+        "Source1": "https://live.relaxfm.lv/06"
+    },
+    {
+        "Title": "Radio Skonto Plus",
+        "Country": "Latvia",
+        "Homepage": "https://radioskontoplus.lv/",
+        "Source1": "https://stream.radioskontoplus.lv:8443/st128"
+    },
+    {
+        "Title": "Radio SWH",
+        "Country": "Latvia",
+        "Homepage": "https://radioswh.lv/",
+        "Source1": "http://80.232.162.149:8000/swh96mp3"
+    },
+    {
+        "Title": "Radio SWH",
+        "Country": "Latvia",
+        "Tags": "classic rock,news,rock,talk",
+        "Favicon": "http://www.radioswh.lv/favicon.ico",
+        "Language": "lv",
+        "Homepage": "http://www.radioswh.lv/",
+        "Source1": "http://80.232.162.149:8000/swh96mp3.m3u"
+    },
+    {
+        "Title": "Radio SWH - Spin FM",
+        "Country": "Latvia",
+        "Tags": "dance,pop",
+        "Language": "lv",
+        "Homepage": "http://www.spinfm.lv/",
+        "Source1": "http://80.232.162.149:8000/spin96mp3.m3u"
+    },
+    {
+        "Title": "Radio SWH Gold",
+        "Country": "Latvia",
+        "Tags": "hits,rock",
+        "Favicon": "http://www.radioswh.lv/favicon.ico",
+        "Language": "lv",
+        "Homepage": "http://www.radioswh.lv/",
+        "Source1": "http://80.232.162.149:8000/gold96mp3.m3u"
+    },
+    {
+        "Title": "Radio SWH LV",
+        "Country": "Latvia",
+        "Tags": "classic rock,latvian rock",
+        "Favicon": "https://radioswhlv.lv/wp-content/uploads/2022/02/cropped-swh_lv_512_2-32x32.png",
+        "Language": "lv",
+        "Homepage": "https://radioswhlv.lv/",
+        "Source1": "https://live.radioswh.lv:8443/swh_lv"
+    },
+    {
+        "Title": "Radio SWH Rock",
+        "Country": "Latvia",
+        "Tags": "classic rock,modern rock",
+        "Favicon": "https://radioswhrock.lv/wp-content/uploads/2019/11/cropped-favicon-1-180x180.png",
+        "Language": "lv",
+        "Homepage": "http://www.radioswhrock.lv/",
+        "Source1": "http://80.232.162.149:8000/rock96mp3.m3u"
+    },
+    {
+        "Title": "Radio SWH+",
+        "Country": "Latvia",
+        "Homepage": "https://www.radioswhplus.lv/",
+        "Source1": "https://live.radioswh.lv:8443/plusmp3"
+    },
+    {
+        "Title": "Radio SWH+",
+        "Country": "Latvia",
+        "Tags": "classic rock,news,talk",
+        "Language": "ru",
+        "Homepage": "http://www.radioswhplus.lv/",
+        "Source1": "http://80.232.162.149:8000/plus96mp3.m3u"
+    },
+    {
+        "Title": "Radio Talsi .:: Electronic ::.",
+        "Country": "Latvia",
+        "Tags": "dance & electronic",
+        "Favicon": "http://radio.kuums.lv/images/banner.jpg",
+        "Language": "en",
+        "Homepage": "http://radio.kuums.lv/",
+        "Latitude": 57.244799258696794,
+        "Longitude": 22.590288280216967,
+        "Source1": "http://kuums.lv:6555/;"
+    },
+    {
+        "Title": "Radio Talsi .:: Future ::.",
+        "Country": "Latvia",
+        "Tags": "dance & electronic",
+        "Favicon": "http://radio.kuums.lv/images/banner.jpg",
+        "Language": "en",
+        "Homepage": "http://radio.kuums.lv/",
+        "Latitude": 57.244892136106905,
+        "Longitude": 22.59057558857523,
+        "Source1": "http://kuums.lv:7555/;"
+    },
+    {
+        "Title": "Radio Talsi .:: Lounge ::.",
+        "Country": "Latvia",
+        "Tags": "dance & electronic",
+        "Favicon": "http://radio.kuums.lv/images/banner.jpg",
+        "Language": "en",
+        "Homepage": "http://radio.kuums.lv/",
+        "Latitude": 57.24511504107803,
+        "Longitude": 22.590352110606347,
+        "Source1": "http://kuums.lv:5555/;"
+    },
+    {
+        "Title": "Radio Talsi .:: Misc ::.",
+        "Country": "Latvia",
+        "Tags": "dance & electronic",
+        "Favicon": "http://radio.kuums.lv/images/banner.jpg",
+        "Language": "en",
+        "Homepage": "http://radio.kuums.lv/",
+        "Latitude": 57.24511504107803,
+        "Longitude": 22.590368012998304,
+        "Source1": "http://radio.kuums.lv:4555/;"
+    },
+    {
+        "Title": "Radio TEV",
+        "Country": "Latvia",
+        "Language": "lv",
+        "Homepage": "https://www.radiotev.lv/",
+        "Source1": "http://stream.radiotev.lv:8002/radiov"
+    },
+    {
+        "Title": "Radio TEV",
+        "Country": "Latvia",
+        "Language": "lv",
+        "Homepage": "https://radiotev.lv/",
+        "Source1": "https://stream.radiotev.lv:8443/radiov"
+    },
+    {
+        "Title": "Radio Viens",
+        "Country": "Latvia",
+        "Tags": "24/7,ai music,latvian pop,latviešu mūzika,radio,synthpop",
+        "Favicon": "https://radioviens.lv/avatar.png",
+        "Language": "lv",
+        "Homepage": "https://radioviens.lv/",
+        "Source1": "https://radioviens.lv/live"
+    },
+    {
+        "Title": "Relax",
+        "Country": "Latvia",
+        "Source1": "https://live.relaxfm.lv/02"
+    },
+    {
+        "Title": "Relax",
+        "Country": "Latvia",
+        "Homepage": "https://live.relaxfm.lv/",
+        "Source1": "https://live.relaxfm.lv/02"
+    },
+    {
+        "Title": "Retro FM",
+        "Country": "Latvia",
+        "Favicon": "https://retrofm.lv/files/logo_01.png",
+        "Homepage": "https://retrofm.lv/",
+        "Latitude": 56.94874422660217,
+        "Longitude": 24.10594250465449,
+        "Source1": "https://23613.live.streamtheworld.com/RETRO_FM.mp3"
+    },
+    {
+        "Title": "Retro FM 70s 80s 90s",
+        "Country": "Latvia",
+        "Favicon": "https://retrofm.lv/files/logo_03.png",
+        "Homepage": "https://retrofm.lv/",
+        "Latitude": 56.94901260958089,
+        "Longitude": 24.105317572542347,
+        "Source1": "https://25443.live.streamtheworld.com/RETRO_LATVIJA_FM_70_80_90S.mp3"
+    },
+    {
+        "Title": "Retro FM Disco",
+        "Country": "Latvia",
+        "Favicon": "https://retrofm.lv/files/logo_02.png",
+        "Homepage": "https://retrofm.lv/",
+        "Latitude": 56.94885657426357,
+        "Longitude": 24.104784454937647,
+        "Source1": "https://22653.live.streamtheworld.com/RETRO_FM_LATVIJA_DISCO.mp3"
+    },
+    {
+        "Title": "Retro FM Latvija",
+        "Country": "Latvia",
+        "Favicon": "https://www.ehr.fm/content/channels/614c776f-f4e9-4370-a221-999d4c675c97.png?w=205&h=205&fm=webp&s=63442b5cdd1bc22bc65780825c083d18",
+        "Homepage": "https://www.ehr.fm/radio/retro-fm-latvija",
+        "Source1": "https://stream.ehrhiti.lv:8000/Stream_RE.aac"
+    },
+    {
+        "Title": "Schlager Time Radio",
+        "Country": "Latvia",
+        "Tags": "schlager",
+        "Favicon": "https://www.schlagers.org/images/pages/logo.jpg",
+        "Language": "de",
+        "Homepage": "https://www.schlagers.org/",
+        "Latitude": 56.936384036830894,
+        "Longitude": 24.108303025362947,
+        "Source1": "http://schlagers.org:8760/"
+    },
+    {
+        "Title": "Skonto",
+        "Country": "Latvia",
+        "Source1": "https://stream.radioskonto.lv:8443/stereo"
+    },
+    {
+        "Title": "Skonto",
+        "Country": "Latvia",
+        "Favicon": "https://stream.radioskonto.lv:8443/stereo",
+        "Homepage": "https://stream.radioskonto.lv:8443/stereo",
+        "Source1": "https://stream.radioskonto.lv:8443/stereo"
+    },
+    {
+        "Title": "Skonto Plus",
+        "Country": "Latvia",
+        "Homepage": "https://stream.radioskontoplus.lv:8443/st128",
+        "Source1": "https://stream.radioskontoplus.lv:8443/st128"
+    },
+    {
+        "Title": "Skonto Plus",
+        "Country": "Latvia",
+        "Source1": "https://stream.radioskontoplus.lv:8443/st128"
+    },
+    {
+        "Title": "Star Fm",
+        "Country": "Latvia",
+        "Tags": "pop",
+        "Language": "lv",
+        "Homepage": "http://starfm.skaties.lv/",
+        "Source1": "http://starfm.live.advailo.com/audio/mp3/icecast.audio"
+    },
+    {
+        "Title": "Star FM Latvia",
+        "Country": "Latvia",
+        "Favicon": "https://tv3cdn.lv/skaties/images/starfm/apple-touch-icon-precomposed.png",
+        "Homepage": "https://tv3.lv/starfm/",
+        "Source1": "https://live.advailo.com/audio/live/playlist.m3u8"
+    },
+    {
+        "Title": "StarFM",
+        "Country": "Latvia",
+        "Tags": "folk,local news,pop music,rock",
+        "Favicon": "https://tv3cdn.lv/tv3/images/logos/tv3-starfm.svg?ver=3",
+        "Homepage": "https://tv3.lv/starfm/",
+        "Latitude": 56.943176390447704,
+        "Longitude": 24.093017578125004,
+        "Source1": "https://live.advailo.com/audio/mp3/icecast.audio"
+    },
+    {
+        "Title": "SuperHits",
+        "Country": "Latvia",
+        "Favicon": "https://www.ehr.fm/content/channels/1097ed8f-d318-4a08-89bd-a1fa548674f5.png?w=205&h=205&fm=webp&s=ab323f7af1c6835a75ef5b27185f360d",
+        "Homepage": "https://www.ehr.fm/radio/super-hits",
+        "Source1": "https://stream.ehrhiti.lv:8000/Stream_21.aac"
+    },
+    {
+        "Title": "SWH",
+        "Country": "Latvia",
+        "Source1": "http://80.232.162.149:8000/swh96mp3"
+    },
+    {
+        "Title": "SWH",
+        "Country": "Latvia",
+        "Favicon": "http://80.232.162.149:8000/swh96mp3",
+        "Homepage": "http://80.232.162.149:8000/swh96mp3",
+        "Source1": "http://80.232.162.149:8000/swh96mp3"
+    },
+    {
+        "Title": "SWH Plus",
+        "Country": "Latvia",
+        "Favicon": "http://80.232.162.149:8000/plus96mp3",
+        "Homepage": "http://80.232.162.149:8000/plus96mp3",
+        "Source1": "http://80.232.162.149:8000/plus96mp3"
+    },
+    {
+        "Title": "SWHPlus",
+        "Country": "Latvia",
+        "Source1": "http://80.232.162.149:8000/plus96mp3"
+    },
+    {
+        "Title": "Talsi Lounge",
+        "Country": "Latvia",
+        "Tags": "lounge",
+        "Favicon": "http://www.kuums.lv/img/kuums-draugiem.jpg",
+        "Language": "lv",
+        "Homepage": "http://radio.kuums.lv/",
+        "Source1": "http://radio.kuums.lv:5555/listen.pls"
+    },
+    {
+        "Title": "Talsi Remix",
+        "Country": "Latvia",
+        "Tags": "pop",
+        "Favicon": "http://www.kuums.lv/favicon.ico",
+        "Language": "lv",
+        "Homepage": "http://radio.kuums.lv/",
+        "Source1": "http://radio.kuums.lv:5555/"
+    },
+    {
+        "Title": "TOP radio",
+        "Country": "Latvia",
+        "Tags": "pop",
+        "Favicon": "https://topradio.lv/favicon.ico",
+        "Homepage": "https://topradio.lv/",
+        "Source1": "https://topradio.live.advailo.com/topradio/mp3/icecast.audio"
+    },
+    {
+        "Title": "TOP radio lv",
+        "Country": "Latvia",
+        "Tags": "club dj remix dance pop",
+        "Homepage": "https://topradio.tv3.lv/",
+        "Latitude": 56.9494431543708,
+        "Longitude": 24.105131291726455,
+        "Source1": "https://live.advailo.com/topradio/live/playlist.m3u8"
+    },
+    {
+        "Title": "Tīrkultūra",
+        "Country": "Latvia",
+        "Favicon": "https://tirkultura.lv/favicon-32x32.png",
+        "Homepage": "https://tirkultura.lv/",
+        "Source1": "https://s3.radio.co/s216811754/listen"
+    },
+    {
+        "Title": "XO.FM",
+        "Country": "Latvia",
+        "Tags": "jazz",
+        "Language": "lv",
+        "Homepage": "https://xo.fm/",
+        "Source1": "https://live.xo.fm/xofm128",
+        "Source2": "https://live.xo.fm/xofm256"
+    },
+    {
+        "Title": "Your City Padio",
+        "Country": "Latvia",
+        "Tags": "lounge pop house",
+        "Language": "lv",
+        "Homepage": "https://jainaro.wixsite.com/jainaro",
+        "Latitude": 56.94934118931528,
+        "Longitude": 24.10466626024022,
+        "Source1": "https://c28.radioboss.fm:18234/stream"
+    },
+    {
+        "Title": "Your City Radio",
+        "Country": "Latvia",
+        "Tags": "afro house,afrobeat,chillout,disco funk,lounge,smooth jazz,soulful house",
+        "Favicon": "https://c28.radioboss.fm/stationlogo/234.jpg?9299",
+        "Homepage": "https://yourcityradio.com/",
+        "Source1": "https://c34.radioboss.fm:8234/stream"
+    },
+    {
+        "Title": "Авторадио Латвия",
+        "Country": "Latvia",
+        "Tags": "pop",
+        "Favicon": "https://avtoradio.lv/upload/design/64df68073caa85.35482071.png",
+        "Language": "ru",
+        "Homepage": "http://avtoradio.lv/",
+        "Source1": "https://live.relaxfm.lv/03"
+    },
+    {
+        "Title": "Ретро FM Рига (Retro FM)",
+        "Country": "Latvia",
+        "Tags": "classic hits,hits",
+        "Favicon": "http://retrofm.lv/view/site/favicons/apple-touch-icon.png",
+        "Language": "ru",
+        "Homepage": "http://retrofm.lv/",
+        "Source1": "https://live.retrofm.lv/retrofmlatvia"
+    }
+]

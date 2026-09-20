@@ -1,0 +1,1324 @@
+[
+    {
+        "Title": "#joint radio Beat Trance",
+        "Country": "Israel",
+        "Tags": "ambient,edm,edm radioshows,electronic,electronic music,goa,goa trance,goa trance psychedelic trance,progressive psytrance,progressive trance,psytrance,trance",
+        "Favicon": "https://www.jointil.com/broadcast/images/joint.radio350X350.png",
+        "Language": "en",
+        "Homepage": "https://www.jointil.com/",
+        "Source1": "https://jointil.com/stream-beat"
+    },
+    {
+        "Title": "#joint radio Blues Rock",
+        "Country": "Israel",
+        "Tags": "60s,70s,80s,alternative rock,bluegrass,blues,blues rock,chicago blues,classic blues,classic hits,classic rock,country blues,hits,pop rock,rhythm and blues (1960s randb (eg. the rolling stones)),rock,soft rock,top hits",
+        "Favicon": "https://www.jointil.com/broadcast/images/joint.radio350X350.png",
+        "Language": "en",
+        "Homepage": "https://www.jointil.com/",
+        "Source1": "https://jointil.com/stream-blues"
+    },
+    {
+        "Title": "#joint radio Reggae",
+        "Country": "Israel",
+        "Tags": "dub,dub reggae,reggae,reggae pop,reggaeton,rocksteady,roots reggae,ska,smooth reggae",
+        "Favicon": "https://www.jointil.com/broadcast/images/joint.radio350X350.png",
+        "Language": "en",
+        "Homepage": "https://www.jointil.com/",
+        "Source1": "https://jointil.com/stream-reggae"
+    },
+    {
+        "Title": "#Radio CS",
+        "Country": "Israel",
+        "Tags": "classical",
+        "Source1": "https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g"
+    },
+    {
+        "Title": ".assalam",
+        "Country": "Israel",
+        "Tags": "classical",
+        "Source1": "https://backup.qurango.net/radio/ahmad_khader_altarabulsi"
+    },
+    {
+        "Title": "100fm - 100% Movies",
+        "Country": "Israel",
+        "Tags": "movie music,music,pop",
+        "Language": "en",
+        "Homepage": "https://superradio.cc/",
+        "Source1": "http://gb25.streamgates.net/radios-audio/100Movies/icecast.audio"
+    },
+    {
+        "Title": "101.5fm נותנים למוזיקה לדבר רדיו דרום",
+        "Country": "Israel",
+        "Favicon": "https://1015.radiodarom.co.il/Upload/Media/RadioStationLogo/radioStation_6_Logo_27072021180024.png",
+        "Language": "he",
+        "Homepage": "https://1015.radiodarom.co.il/",
+        "Source1": "https://cdn.cybercdn.live/Darom_1015FM/Live/icecast.audio"
+    },
+    {
+        "Title": "101.5fm רדיו התחנה",
+        "Country": "Israel",
+        "Tags": "music",
+        "Favicon": "https://www.hatahana.co.il/wp-content/uploads/2023/03/logo.png",
+        "Language": "he",
+        "Homepage": "https://www.hatahana.co.il/",
+        "Source1": "https://cdn.cybercdn.live/Hatahana_1015/Live_Audio/icecast.audio"
+    },
+    {
+        "Title": "101fm radio jerusalem",
+        "Country": "Israel",
+        "Tags": "music,news",
+        "Favicon": "https://static.rlive.co.il/storage/uploads/stations/zdB75EspkE93lzmOQQDmaI8tmOGtVzW2xzsuaqdU.jpg",
+        "Language": "he",
+        "Homepage": "https://www.rlive.co.il/station/101fm",
+        "Source1": "https://radio.streamgates.net/stream/101fm"
+    },
+    {
+        "Title": "104.5fm radio זשכםמ",
+        "Country": "Israel",
+        "Tags": "music,news",
+        "Favicon": "https://static.rlive.co.il/storage/uploads/stations/idOPKeykio01mD3JccdAJwveMAqfDOGsKgiJ43SN.jpeg",
+        "Language": "he",
+        "Homepage": "https://1045fm.maariv.co.il/",
+        "Source1": "https://radio.streamgates.net/stream/1045fm"
+    },
+    {
+        "Title": "104.5FM צפון",
+        "Country": "Israel",
+        "Favicon": "https://1045fm.maariv.co.il/images/favicon.png",
+        "Homepage": "https://1045fm.maariv.co.il/",
+        "Latitude": 32.889774189361816,
+        "Longitude": 35.49133300781251,
+        "Source1": "https://radio.streamgates.net/stream/1045fm"
+    },
+    {
+        "Title": "88 FM",
+        "Country": "Israel",
+        "Homepage": "https://www.kan.org.il/content/kan/kan-88/",
+        "Source1": "https://29073.live.streamtheworld.com/KAN_88.mp3"
+    },
+    {
+        "Title": "88FM",
+        "Country": "Israel",
+        "Homepage": "https://www.kan.org.il/",
+        "Latitude": 32.01787621860987,
+        "Longitude": 34.82331116759078,
+        "Source1": "https://kan88.media.kan.org.il/hls/live/2024812/2024812/kan88_mp3/chunklist.m3u8"
+    },
+    {
+        "Title": "91FM",
+        "Country": "Israel",
+        "Favicon": "https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2017/11/logo.png",
+        "Homepage": "https://www.91fm.co.il/",
+        "Source1": "https://cdn.cybercdn.live/Lev_Hamedina/Audio/icecast.audio"
+    },
+    {
+        "Title": "94fm רדיו גלי ישראל",
+        "Country": "Israel",
+        "Tags": "music,news",
+        "Favicon": "https://www.gly.co.il/Upload/Media/RadioStationLogo/radioStation_2_Logo_26042021170757.svg",
+        "Language": "he",
+        "Homepage": "https://www.gly.co.il/",
+        "Source1": "https://cdn.cybercdn.live/Galei_Israel/Live/icecast.audio"
+    },
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "Israel",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "AudioVersity",
+        "Country": "Israel",
+        "Homepage": "https://1062fm.co.il/en/",
+        "Source1": "https://1062onair.runi.ac.il/idc123.mp3"
+    },
+    {
+        "Title": "AVIVmedia",
+        "Country": "Israel",
+        "Tags": "electronic,trance",
+        "Favicon": "https://u.jimcdn.com/cms/o/se2cdc31361e4fa6c/img/favicon.png?t=1401133514",
+        "Homepage": "https://www.avivmedia.com/",
+        "Source1": "https://equinox.shoutca.st/tunein/avivmediafm.pls"
+    },
+    {
+        "Title": "BonzoBono Radio",
+        "Country": "Israel",
+        "Source1": "https://icy.cloudrad.io/7f3c8bce"
+    },
+    {
+        "Title": "Eco 99fm",
+        "Country": "Israel",
+        "Tags": "music,talk",
+        "Favicon": "https://eco99fm.maariv.co.il/",
+        "Language": "he",
+        "Homepage": "https://eco99fm.maariv.co.il/",
+        "Source1": "https://eco01.livecdn.biz/ecolive/99fm_aac/icecast.audio?hash=1559501510715.m4a"
+    },
+    {
+        "Title": "ECO99FM",
+        "Country": "Israel",
+        "Tags": "pop,top 40",
+        "Favicon": "https://www.radio.net/images/broadcasts/39/23/20612/1/c300.png",
+        "Language": "he",
+        "Homepage": "http://eco99fm.maariv.co.il/",
+        "Source1": "https://eco-live.mediacast.co.il/99fm_aac"
+    },
+    {
+        "Title": "ELI NISMAN",
+        "Country": "Israel",
+        "Homepage": "https://fmstream.org/eli-nisman-radio-live",
+        "Source1": "http://listen6.myradio24.com:9000/25715"
+    },
+    {
+        "Title": "Eli Nisman Radio",
+        "Country": "Israel",
+        "Homepage": "https://niceman087.wixsite.com/nicemanradio",
+        "Source1": "https://listen6.myradio24.com/25715"
+    },
+    {
+        "Title": "Euphonic FM",
+        "Country": "Israel",
+        "Homepage": "https://www.euphonic.fm/",
+        "Source1": "https://streaming.live365.com/a64617/playlist.m3u8"
+    },
+    {
+        "Title": "Galei Zahal",
+        "Country": "Israel",
+        "Language": "he",
+        "Homepage": "http://glzwizzlv.bynetcdn.com/",
+        "Source1": "http://glzwizzlv.bynetcdn.com/glz_mp3"
+    },
+    {
+        "Title": "Galgalatz",
+        "Country": "Israel",
+        "Language": "en,he",
+        "Homepage": "https://glz.co.il/%D7%92%D7%9C%D7%92%D7%9C%D7%A6",
+        "Latitude": 31.96818267111348,
+        "Longitude": 34.80468750000001,
+        "Source1": "https://glzwizzlv.bynetcdn.com/glglz_mp3?awCollectionId=misc&awEpisodeId=glglz"
+    },
+    {
+        "Title": "Galgalatz 91.8 FM",
+        "Country": "Israel",
+        "Tags": "hits,pop,world",
+        "Language": "he",
+        "Homepage": "https://glz.co.il/%D7%92%D7%9C%D7%92%D7%9C%D7%A6",
+        "Source1": "https://glzicylv01.bynetcdn.com/glglz_mp3"
+    },
+    {
+        "Title": "Glglz",
+        "Country": "Israel",
+        "Favicon": "https://static-media.streema.com/media/cache/34/ee/34ee4ed52c07ad09122cbe047a7c0bfd.jpg",
+        "Language": "he",
+        "Homepage": "https://glz.co.il/%D7%92%D7%9C%D7%92%D7%9C%D7%A6",
+        "Source1": "https://api.bynetcdn.com/Redirector/glz/glglz/ICE-LIVE"
+    },
+    {
+        "Title": "Glglz - Rock",
+        "Country": "Israel",
+        "Tags": "rock",
+        "Favicon": "https://glz.co.il/Content/assets/favicons/glglz/favicon-192x192.png",
+        "Homepage": "https://glz.co.il/%D7%92%D7%9C%D7%92%D7%9C%D7%A6",
+        "Source1": "https://glzwizzlv.bynetcdn.com/glglz_rock_mp3"
+    },
+    {
+        "Title": "Glglz - רגוע (סופשבוע)",
+        "Country": "Israel",
+        "Tags": "relax,weekend",
+        "Favicon": "https://glz.co.il/Content/assets/favicons/glglz/favicon-192x192.png",
+        "Homepage": "https://glz.co.il/%D7%92%D7%9C%D7%92%D7%9C%D7%A6",
+        "Source1": "https://glzwizzlv.bynetcdn.com/glglz_sofshavua_mp3"
+    },
+    {
+        "Title": "Glz",
+        "Country": "Israel",
+        "Homepage": "https://glz.co.il/",
+        "Source1": "http://glzwizzlv.bynetcdn.com/glz_mp3?awCollectionId=misc&awEpisodeId=glz"
+    },
+    {
+        "Title": "Glz",
+        "Country": "Israel",
+        "Language": "he",
+        "Homepage": "http://glz.co.il/",
+        "Source1": "http://glzwizzlv.bynetcdn.com/glz_mp3?awCollectionId=misc&awEpisodeId=glz"
+    },
+    {
+        "Title": "GUITAR - J. WILLIAMS",
+        "Country": "Israel",
+        "Favicon": "http://www.radio-addict.com/media/stream/0d07fb2e-42a2-437c-a946-640aeb96bbff_A13AAF1D18123B91C6F9ADBDFB904221_IMG_20230327_180423853.jpg",
+        "Homepage": "https://www.radio-addict.com/es/streaming/il",
+        "Source1": "http://drive.uber.radio/uber/crjohnwilliamsguitarist/icecast.audio"
+    },
+    {
+        "Title": "Hedva Shaltiel",
+        "Country": "Israel",
+        "Language": "en,he",
+        "Homepage": "https://www.israelivoiceradio.co.il/",
+        "Source1": "https://icecast.live/ivr"
+    },
+    {
+        "Title": "Israeli voice radio",
+        "Country": "Israel",
+        "Homepage": "https://israelivoiceradio.co.il/",
+        "Source1": "https://icecast.live/ivr"
+    },
+    {
+        "Title": "Ivri 6",
+        "Country": "Israel",
+        "Language": "he",
+        "Homepage": "https://ivri6.net/",
+        "Source1": "https://streaming.radio.co/sa06221901/listen"
+    },
+    {
+        "Title": "Jewish Music Stream",
+        "Country": "Israel",
+        "Favicon": "https://jewishmusicstream.com/favicon.ico",
+        "Language": "he",
+        "Homepage": "https://jewishmusicstream.com/",
+        "Source1": "https://stream.jewishmusicstream.com:8000/"
+    },
+    {
+        "Title": "Kabbalah Fr",
+        "Country": "Israel",
+        "Tags": "cabale,kabbalah,kabbale",
+        "Language": "fr",
+        "Homepage": "http://www.kab.info/",
+        "Source1": "http://icecast.kab.tv/live1-spa-574bcfd5.mp3"
+    },
+    {
+        "Title": "KAN 88",
+        "Country": "Israel",
+        "Favicon": "https://www.kan.org.il/favicon/apple-touch-icon.png",
+        "Homepage": "https://www.kan.org.il/live/radio.aspx?stationid=4",
+        "Source1": "http://kanliveicy.media.kan.org.il/icy/749623_mp3?providername=tunein",
+        "Source2": "http://kanliveicy.media.kan.org.il/icy/kan88_mp3"
+    },
+    {
+        "Title": "KAN 88",
+        "Country": "Israel",
+        "Favicon": "https://www.kan.org.il/media/44oe24fl/01white-logo-channel-header-kan88-2026.svg",
+        "Language": "he",
+        "Homepage": "https://kan.org.il/",
+        "Source1": "https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/radio/kan_88/live.livx/playlist.m3u8?renditions&dvr=7200000"
+    },
+    {
+        "Title": "Kan Bet",
+        "Country": "Israel",
+        "Tags": "news,talk",
+        "Homepage": "https://www.kan.org.il/",
+        "Latitude": 32.01925415944079,
+        "Longitude": 34.54101562500001,
+        "Source1": "https://kanbet.media.kan.org.il/hls/live/2024811/2024811/playlist.m3u8",
+        "Source2": "https://25583.live.streamtheworld.com/KAN_BET.mp3?dist=bynetredirect&1737047133",
+        "Source3": "https://28563.live.streamtheworld.com/KAN_BET.mp3"
+    },
+    {
+        "Title": "Kan Bet 64K",
+        "Country": "Israel",
+        "Homepage": "https://www.kan.org.il/content/kan/kan-b/",
+        "Source1": "https://n-121-4.il.cdn-redge.media/livehls/oil/kancdn-live/live/radio/kan_reshet_bet/live.livx/playlist.m3u8?bitrate=64000&audioId=1&lang=pol&renditions"
+    },
+    {
+        "Title": "Kan Gimel",
+        "Country": "Israel",
+        "Language": "he",
+        "Homepage": "https://www.kan.org.il/live/radio.aspx?stationid=9",
+        "Source1": "http://kanliveicy01.bynetcdn.com/icy/kangimmel_mp3"
+    },
+    {
+        "Title": "KAN gimel (real)",
+        "Country": "Israel",
+        "Language": "he",
+        "Homepage": "https://www.kan.org.il/live/radio.aspx?stationid=9",
+        "Source1": "http://kanliveicy.media.kan.org.il/icy/749625_mp3"
+    },
+    {
+        "Title": "KAN Gimel כאן גימל",
+        "Country": "Israel",
+        "Language": "he",
+        "Homepage": "https://www.kan.org.il/content/kan/kan-gimel/",
+        "Latitude": 32.16418177750705,
+        "Longitude": 35.02990722656251,
+        "Source1": "https://27873.live.streamtheworld.com/KAN_GIMMEL.mp3"
+    },
+    {
+        "Title": "Kan Israel 88 FM",
+        "Country": "Israel",
+        "Tags": "public radio",
+        "Language": "he",
+        "Homepage": "https://www.kan.org.il/live/radio.aspx?stationid=4",
+        "Source1": "http://kanliveicy.media.kan.org.il/icy/kan88_mp3"
+    },
+    {
+        "Title": "Kan Israel Reshet Moreshet 92.5 FM",
+        "Country": "Israel",
+        "Tags": "jewish community,religious",
+        "Language": "he",
+        "Homepage": "https://www.kan.org.il/live/radio.aspx?stationid=6",
+        "Source1": "http://kanliveicy.media.kan.org.il/icy/kanmoreshet_mp3"
+    },
+    {
+        "Title": "Kan Israel Tarbut",
+        "Country": "Israel",
+        "Tags": "public radio",
+        "Language": "he",
+        "Homepage": "https://www.kan.org.il/live/radio.aspx?stationid=5",
+        "Source1": "http://kanliveicy.media.kan.org.il/icy/kantarbut_mp3"
+    },
+    {
+        "Title": "Kan Kol HaMusica",
+        "Country": "Israel",
+        "Tags": "classical music",
+        "Language": "he",
+        "Homepage": "https://www.kan.org.il/",
+        "Source1": "http://kanliveicy.media.kan.org.il/icy/kankolhamusica_mp3"
+    },
+    {
+        "Title": "Kan Reka",
+        "Country": "Israel",
+        "Tags": "foreign languages,music,talk",
+        "Favicon": "https://i.imgur.com/TTJ8sWa.png",
+        "Language": "am,en,es,fr,ka,ru,yi",
+        "Homepage": "https://www.kan.org.il/content/kan/kan-reka/",
+        "Source1": "http://kanliveicy01.bynetcdn.com/icy/kanreka_mp3"
+    },
+    {
+        "Title": "Kan Reshet Bet",
+        "Country": "Israel",
+        "Favicon": "https://upload.wikimedia.org/wikipedia/commons/5/59/KAN_11.png",
+        "Homepage": "https://www.kan.org.il/",
+        "Source1": "http://kanliveicy.media.kan.org.il/icy/kanbet_mp3"
+    },
+    {
+        "Title": "Kan Tarbut",
+        "Country": "Israel",
+        "Homepage": "https://www.kan.org.il/content/kan/kan-tarbut/",
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_TARBUT.mp3?dist"
+    },
+    {
+        "Title": "KAN TARBUT",
+        "Country": "Israel",
+        "Favicon": "https://static2.mytuner.mobi/media/tvos_radios/720/kan-tarbut.17461622.png",
+        "Homepage": "https://www.kan.org.il/live/#",
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_TARBUT.mp3?dist=tunein"
+    },
+    {
+        "Title": "Kcm FM Channel 01 Live",
+        "Country": "Israel",
+        "Tags": "hasidic,hebrew,israël,religious,yiddish",
+        "Favicon": "https://kcm.fm/favicon.ico",
+        "Language": "he,yi",
+        "Homepage": "https://kcm.fm/",
+        "Source1": "https://media2.93fm.co.il/livemusic"
+    },
+    {
+        "Title": "KHZ - רדיו קול הצפון",
+        "Country": "Israel",
+        "Homepage": "https://radio.ecast.co.il/radio-khz",
+        "Source1": "https://live.ecast.co.il/stream/khz"
+    },
+    {
+        "Title": "kol hai",
+        "Country": "Israel",
+        "Language": "he",
+        "Homepage": "https://live.kcm.fm/livemusic",
+        "Source1": "https://live.kcm.fm/livemusic"
+    },
+    {
+        "Title": "Kol Rega קול רגע 91.5/96",
+        "Country": "Israel",
+        "Tags": "music,news,pop,talk & speech",
+        "Favicon": "https://96fm.co.il/wp-content/uploads/2022/10/cropped-Logo-192x192.png",
+        "Language": "he",
+        "Homepage": "https://96fm.co.il/",
+        "Latitude": 32.71853787487626,
+        "Longitude": 35.39457371520133,
+        "Source1": "https://cdn.cybercdn.live/Kol_Rega/Live_Audio/icecast.audio"
+    },
+    {
+        "Title": "kzradio",
+        "Country": "Israel",
+        "Homepage": "https://kzradio.net/",
+        "Source1": "https://kzradio.mediacast.co.il/kzradio_live/kzradio/icecast.audio"
+    },
+    {
+        "Title": "LIFE RADIO",
+        "Country": "Israel",
+        "Tags": "creative commons,electronic,psytrance",
+        "Language": "en",
+        "Homepage": "https://life-radio.surge.sh/",
+        "Source1": "https://443825e3eaa54f65-93-172-164-209.serveousercontent.com/stream"
+    },
+    {
+        "Title": "Mizrahit FM Best",
+        "Country": "Israel",
+        "Favicon": "https://mizrahit.fm/wp-content/uploads/2020/04/diki-logo-official-e1734684643817-700x525.jpg",
+        "Language": "he",
+        "Homepage": "https://mizrahit.fm/",
+        "Latitude": -67.21888450424002,
+        "Longitude": 20.13881136277664,
+        "Source1": "http://rs.mizrahit.fm:7777/arabellavie"
+    },
+    {
+        "Title": "mizrahit radio",
+        "Country": "Israel",
+        "Favicon": "https://mizrahit.fm/wp-content/uploads/2014/03/favicon.png",
+        "Homepage": "https://mizrahit.fm/",
+        "Source1": "https://mzr.mediacast.co.il/mzradio"
+    },
+    {
+        "Title": "Mizrahit_Fm",
+        "Country": "Israel",
+        "Favicon": "https://mizrahit.fm/wp-content/uploads/2020/04/diki-logo-official-e1734684643817-700x525.jpg",
+        "Language": "he",
+        "Homepage": "https://mizrahit.fm/",
+        "Source1": "http://rs.mizrahit.fm:7777/arabellavie"
+    },
+    {
+        "Title": "Music-ToraVeZimra",
+        "Country": "Israel",
+        "Homepage": "https://breslevforyou.co.il/",
+        "Source1": "https://cast.breslevforyou.co.il/listen/music-toravezimra/radio.mp3"
+    },
+    {
+        "Title": "Nachman",
+        "Country": "Israel",
+        "Favicon": "https://breslevforyou.co.il/assets/favicon/favicon-512x512.png",
+        "Homepage": "https://breslevforyou.co.il/",
+        "Source1": "https://cast.breslevforyou.co.il/listen/radiobreslev/radio.mp3"
+    },
+    {
+        "Title": "Radio 100% 90s",
+        "Country": "Israel",
+        "Tags": "90s,classic hits,dance,oldies",
+        "Language": "en",
+        "Homepage": "https://digital.100fm.co.il/",
+        "Source1": "https://gb25.streamgates.net/radios-audio/10090s/icecast.audio"
+    },
+    {
+        "Title": "Radio 100% Latina",
+        "Country": "Israel",
+        "Homepage": "https://digital.100fm.co.il/",
+        "Source1": "https://gb25.streamgates.net/radios-audio/100Latin/icecast.audio"
+    },
+    {
+        "Title": "Radio 103FM",
+        "Country": "Israel",
+        "Favicon": "http://cdn-profiles.tunein.com/s14201/images/logog.png",
+        "Homepage": "https://103fm.maariv.co.il/",
+        "Source1": "https://cdn.cybercdn.live/103FM/Live/icecast.audio"
+    },
+    {
+        "Title": "Radio 90FM",
+        "Country": "Israel",
+        "Favicon": "https://www.90fm.co.il/resource/images/logo.png",
+        "Homepage": "https://www.90fm.co.il/",
+        "Source1": "https://cdn.cybercdn.live/Emtza_Haderech/Live_Audio/icecast.audio"
+    },
+    {
+        "Title": "Radio Breslev Carmiel",
+        "Country": "Israel",
+        "Favicon": "https://breslevcarmiel.com/wp-content/uploads/2021/02/cropped-cropped-brc-top-1-32x32.png",
+        "Language": "en,he",
+        "Homepage": "https://breslevcarmiel.com/",
+        "Source1": "https://securestreams6.autopo.st:2294/mp3"
+    },
+    {
+        "Title": "radio darom 95.8fm 97fm",
+        "Country": "Israel",
+        "Tags": "music,news",
+        "Favicon": "https://odsv.org/wp-content/uploads/2020/03/%D7%A8%D7%93%D7%99%D7%95-%D7%93%D7%A8%D7%95%D7%9D-1.png",
+        "Language": "he",
+        "Homepage": "https://www.radiodarom.co.il/",
+        "Source1": "https://cdn.cybercdn.live/Darom_97FM/Live/icecast.audio"
+    },
+    {
+        "Title": "Radio France Israël",
+        "Country": "Israel",
+        "Favicon": "https://radiofranceisrael.com/uploads/user-music/1811/site-logo/sitelogo_91_1787912087_6825f8.jpg",
+        "Language": "fr",
+        "Homepage": "https://radiofranceisrael.com/",
+        "Source1": "https://stream10.vestaradio.com/Radio-France-Israel"
+    },
+    {
+        "Title": "Radio Haifa רדיו חיפה",
+        "Country": "Israel",
+        "Language": "he",
+        "Homepage": "https://1075.fm/",
+        "Latitude": 32.64756587920691,
+        "Longitude": 35.04364013671876,
+        "Source1": "https://1075.livecdn.biz/radiohaifa"
+    },
+    {
+        "Title": "Radio Lev Hamedina",
+        "Country": "Israel",
+        "Homepage": "https://www.facebook.com/LevHroob",
+        "Source1": "http://91fm.streamgates.net/Lev91Fm"
+    },
+    {
+        "Title": "radio lev hamedina",
+        "Country": "Israel",
+        "Tags": "music,news",
+        "Favicon": "https://www.xoox.co.il/service/radio/img/radio_m14.jpg",
+        "Language": "he",
+        "Homepage": "https://www.91fm.co.il/",
+        "Source1": "https://cdn.cybercdn.live/Lev_Hamedina/Audio/icecast.audio"
+    },
+    {
+        "Title": "Radio Nahariya",
+        "Country": "Israel",
+        "Tags": "international",
+        "Favicon": "https://www.radionahariya.com/assets/icons/apple-touch-icon.png",
+        "Homepage": "https://www.radionahariya.com/",
+        "Source1": "https://cast.radionahariya.com:8443/main.mp3"
+    },
+    {
+        "Title": "Radio Nas",
+        "Country": "Israel",
+        "Homepage": "https://nasradio.fm/",
+        "Source1": "https://cdna.streamgates.net/RadioNas/Live-Audio/icecast.audio"
+    },
+    {
+        "Title": "Radio Qualita",
+        "Country": "Israel",
+        "Favicon": "https://static.wixstatic.com/media/9faaae_a396c0df8aa54320bd31c04ddaab6b3c~mv2.png/v1/fill/w_426,h_160,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/9faaae_a396c0df8aa54320bd31c04ddaab6b3c~mv2.png",
+        "Language": "fr",
+        "Homepage": "https://www.studioqualita.com/",
+        "Source1": "https://www.radioking.com/play/radio-qualita"
+    },
+    {
+        "Title": "Radio Sahar",
+        "Country": "Israel",
+        "Tags": "alternative rock,classic rock,hebrew,hip-hop,indie rock,interviews,jazz,music,news talk,news talk music,pop music,pop rock,psychedelic,psytrance,radio,rap,trap",
+        "Favicon": "https://radiosahar.co.il/images/logo.png",
+        "Language": "en,he",
+        "Homepage": "https://radiosahar.co.il/",
+        "Source1": "https://live.ecast.co.il/stream/sahar/stream"
+    },
+    {
+        "Title": "Radio Yasoo",
+        "Country": "Israel",
+        "Tags": "greek folk,greek folk music,greek internet radio,greek music,greek traditional",
+        "Favicon": "https://www.radio-yasoo.com/index.files/image009.jpg",
+        "Language": "el,he",
+        "Homepage": "https://www.radio-yasoo.com/",
+        "Latitude": 32.00177970895961,
+        "Longitude": 34.76729723590324,
+        "Source1": "http://radio-yasoo.ath.cx:7500/;"
+    },
+    {
+        "Title": "RadioPlus",
+        "Country": "Israel",
+        "Homepage": "https://www.radioplus.co.il/",
+        "Source1": "http://s3.yesstreaming.net:7049/stream"
+    },
+    {
+        "Title": "Radios 100FM",
+        "Country": "Israel",
+        "Tags": "workout",
+        "Favicon": "https://digital.100fm.co.il/logo192.png",
+        "Homepage": "http://digital.100fm.co.il/#100fm",
+        "Source1": "http://gb25.streamgates.net/radios-audio/100Workout/icecast.audio"
+    },
+    {
+        "Title": "Radios 100FM   רדיוס",
+        "Country": "Israel",
+        "Favicon": "https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2020/12/SmallLogo.png",
+        "Language": "he",
+        "Homepage": "https://www.100fm.co.il/",
+        "Latitude": 32.10699892515369,
+        "Longitude": 34.97111320495606,
+        "Source1": "https://cdn.cybercdn.live/Radios_100FM/Audio/icecast.audio"
+    },
+    {
+        "Title": "Radios 100FM - 100% 80s",
+        "Country": "Israel",
+        "Tags": "1980s,80's",
+        "Favicon": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-80s.png",
+        "Language": "en",
+        "Homepage": "http://digital.100fm.co.il/#s80",
+        "Source1": "http://gb25.streamgates.net/radios-audio/10080s/icecast.audio"
+    },
+    {
+        "Title": "Radios 100FM - 100% Blues",
+        "Country": "Israel",
+        "Tags": "blues",
+        "Favicon": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-blues.png",
+        "Homepage": "https://digital.100fm.co.il/#blues",
+        "Source1": "https://gb25.streamgates.net/radios-audio/100Blues/playlist.m3u8"
+    },
+    {
+        "Title": "Radios 100FM - 100% Britpop",
+        "Country": "Israel",
+        "Tags": "britpop",
+        "Favicon": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-britpop.png",
+        "Homepage": "https://digital.100fm.co.il/#britpop",
+        "Source1": "https://gb25.streamgates.net/radios-audio/100Britpop/playlist.m3u8"
+    },
+    {
+        "Title": "Radios 100FM - 100% Chillout",
+        "Country": "Israel",
+        "Favicon": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-chillout.png",
+        "Homepage": "https://digital.100fm.co.il/#chillout",
+        "Source1": "https://gb25.streamgates.net/radios-audio/100Chillout/playlist.m3u8"
+    },
+    {
+        "Title": "Radios 100FM - 100% Classic",
+        "Country": "Israel",
+        "Tags": "classic",
+        "Favicon": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-classic.png",
+        "Homepage": "https://digital.100fm.co.il/#classic",
+        "Source1": "https://gb25.streamgates.net/radios-audio/100Classic/playlist.m3u8"
+    },
+    {
+        "Title": "Radios 100FM - 100% Classic Rock",
+        "Country": "Israel",
+        "Tags": "classic rock",
+        "Favicon": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-classicrock.png",
+        "Homepage": "https://digital.100fm.co.il/#classicrock",
+        "Source1": "https://gb25.streamgates.net/radios-audio/100ClassicRock/playlist.m3u8"
+    },
+    {
+        "Title": "Radios 100FM - 100% Club",
+        "Country": "Israel",
+        "Tags": "club",
+        "Favicon": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-club.png",
+        "Homepage": "https://digital.100fm.co.il/#club",
+        "Source1": "https://gb25.streamgates.net/radios-audio/100Club/icecast.audio"
+    },
+    {
+        "Title": "Radios 100FM - 100% Country",
+        "Country": "Israel",
+        "Tags": "country",
+        "Favicon": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-country.png",
+        "Homepage": "https://digital.100fm.co.il/#country",
+        "Source1": "https://gb25.streamgates.net/radios-audio/100Country/playlist.m3u8"
+    },
+    {
+        "Title": "Radios 100FM - 100% Covers",
+        "Country": "Israel",
+        "Tags": "covers",
+        "Favicon": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-covers.png",
+        "Homepage": "https://digital.100fm.co.il/#ccovers",
+        "Source1": "https://gb25.streamgates.net/radios-audio/100Covers/playlist.m3u8"
+    },
+    {
+        "Title": "Radios 100FM - 100% Disney",
+        "Country": "Israel",
+        "Tags": "disney",
+        "Favicon": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-disney.png",
+        "Homepage": "https://digital.100fm.co.il/#disney",
+        "Source1": "https://gb25.streamgates.net/radios-audio/100Disney/icecast.audio"
+    },
+    {
+        "Title": "Radios 100FM - 100% Eurovision",
+        "Country": "Israel",
+        "Tags": "eurovision,eurovision song contest",
+        "Favicon": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-eurovision.png",
+        "Homepage": "https://digital.100fm.co.il/#special",
+        "Source1": "https://gb25.streamgates.net/radios-audio/100Special/playlist.m3u8"
+    },
+    {
+        "Title": "Radios 100FM - 100% Gamer",
+        "Country": "Israel",
+        "Tags": "gamer",
+        "Favicon": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-gamer.png",
+        "Homepage": "https://digital.100fm.co.il/#gamer",
+        "Source1": "https://gb25.streamgates.net/radios-audio/100Gamer/icecast.audio"
+    },
+    {
+        "Title": "Radios 100FM - 100% Hits",
+        "Country": "Israel",
+        "Tags": "hits",
+        "Favicon": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-hits.png",
+        "Homepage": "https://digital.100fm.co.il/#hits",
+        "Source1": "https://gb25.streamgates.net/radios-audio/100Hits/playlist.m3u8"
+    },
+    {
+        "Title": "Radios 100FM - 100% Jazz",
+        "Country": "Israel",
+        "Tags": "jazz",
+        "Favicon": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-jazz.png",
+        "Homepage": "https://digital.100fm.co.il/#jazz",
+        "Source1": "https://gb25.streamgates.net/radios-audio/100Jazz/icecast.audio"
+    },
+    {
+        "Title": "Radios 100FM - 100% K-pop",
+        "Country": "Israel",
+        "Tags": "kpop",
+        "Favicon": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-kpop.png",
+        "Homepage": "https://digital.100fm.co.il/#kpop",
+        "Source1": "https://gb25.streamgates.net/radios-audio/100kpop/icecast.audio"
+    },
+    {
+        "Title": "Radios 100FM - 100% Kids",
+        "Country": "Israel",
+        "Tags": "kids",
+        "Favicon": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-kids.png",
+        "Homepage": "https://digital.100fm.co.il/#kids",
+        "Source1": "https://gb25.streamgates.net/radios-audio/100Kids/icecast.audio"
+    },
+    {
+        "Title": "Radios 100FM - 100% Latin",
+        "Country": "Israel",
+        "Tags": "latin",
+        "Favicon": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-latin.png",
+        "Homepage": "https://digital.100fm.co.il/#latin",
+        "Source1": "https://gb25.streamgates.net/radios-audio/100Latin/playlist.m3u8"
+    },
+    {
+        "Title": "Radios 100FM - 100% Legends",
+        "Country": "Israel",
+        "Tags": "legends",
+        "Favicon": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-legends.png",
+        "Homepage": "https://digital.100fm.co.il/#legends",
+        "Source1": "https://gb25.streamgates.net/radios-audio/100Legends/playlist.m3u8"
+    },
+    {
+        "Title": "Radios 100FM - 100% Love",
+        "Country": "Israel",
+        "Tags": "love",
+        "Favicon": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-love.png",
+        "Homepage": "https://digital.100fm.co.il/#love",
+        "Source1": "https://gb25.streamgates.net/radios-audio/100Love/playlist.m3u8"
+    },
+    {
+        "Title": "Radios 100FM - 100% Mizrachit (מזרחי)",
+        "Country": "Israel",
+        "Tags": "mizrachit,מזרחי",
+        "Favicon": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-mizrachit.png",
+        "Homepage": "https://digital.100fm.co.il/#mizrachit",
+        "Source1": "https://gb25.streamgates.net/radios-audio/100Mizrachit/icecast.audio"
+    },
+    {
+        "Title": "Radios 100FM - 100% Movies",
+        "Country": "Israel",
+        "Tags": "movies",
+        "Favicon": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-movies.png",
+        "Homepage": "https://digital.100fm.co.il/#movies",
+        "Source1": "https://gb25.streamgates.net/radios-audio/100Movies/playlist.m3u8"
+    },
+    {
+        "Title": "Radios 100FM - 100% Nostalgia",
+        "Country": "Israel",
+        "Tags": "nostalgia",
+        "Favicon": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-nostalgia.png",
+        "Language": "he",
+        "Homepage": "https://digital.100fm.co.il/#Nostalgia",
+        "Source1": "https://gb25.streamgates.net/radios-audio/100Nostalgia/playlist.m3u8"
+    },
+    {
+        "Title": "Radios 100FM - 100% Oldies",
+        "Country": "Israel",
+        "Tags": "oldies",
+        "Favicon": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-oldies.png",
+        "Language": "en",
+        "Homepage": "http://digital.100fm.co.il/#oldies",
+        "Source1": "http://gb25.streamgates.net/radios-audio/100Oldies/icecast.audio"
+    },
+    {
+        "Title": "Radios 100FM - 100% Relax",
+        "Country": "Israel",
+        "Tags": "relax",
+        "Favicon": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-relax.png",
+        "Homepage": "https://digital.100fm.co.il/#relax",
+        "Source1": "https://gb25.streamgates.net/radios-audio/100Relax/icecast.audio"
+    },
+    {
+        "Title": "Radios 100FM - 100% Retro",
+        "Country": "Israel",
+        "Tags": "retro",
+        "Favicon": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-retro.png",
+        "Homepage": "https://digital.100fm.co.il/#retro",
+        "Source1": "https://gb25.streamgates.net/radios-audio/100Retro/icecast.audio"
+    },
+    {
+        "Title": "Radios 100FM - 100% Rock",
+        "Country": "Israel",
+        "Tags": "rock",
+        "Favicon": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-rock.png",
+        "Homepage": "https://digital.100fm.co.il/#rock",
+        "Source1": "https://gb25.streamgates.net/radios-audio/100Rock/playlist.m3u8"
+    },
+    {
+        "Title": "Radios 100FM - 100% Selfie",
+        "Country": "Israel",
+        "Favicon": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-selfie.png",
+        "Homepage": "https://digital.100fm.co.il/#Selfie",
+        "Source1": "https://gb25.streamgates.net/radios-audio/100Selfie/playlist.m3u8"
+    },
+    {
+        "Title": "Radios 100FM - 100% StandUp",
+        "Country": "Israel",
+        "Tags": "standup",
+        "Favicon": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-standup.png",
+        "Language": "he",
+        "Homepage": "https://digital.100fm.co.il/#standup",
+        "Source1": "https://gb25.streamgates.net/radios-audio/100StandUp/icecast.audio"
+    },
+    {
+        "Title": "Radios 100FM - 100% Stars (ערוץ הכוכבים)",
+        "Country": "Israel",
+        "Tags": "kids",
+        "Favicon": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-stars.png",
+        "Language": "he",
+        "Homepage": "https://digital.100fm.co.il/#stars",
+        "Source1": "https://gb25.streamgates.net/radios-audio/100Stars/icecast.audio"
+    },
+    {
+        "Title": "Radios 100FM - 100% Tiktok",
+        "Country": "Israel",
+        "Tags": "tiktok",
+        "Favicon": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-tiktok.png",
+        "Homepage": "https://digital.100fm.co.il/#tiktok",
+        "Source1": "https://gb25.streamgates.net/radios-audio/100Tiktok/icecast.audio"
+    },
+    {
+        "Title": "Radios 100FM - 100% Top40",
+        "Country": "Israel",
+        "Favicon": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-top40.png",
+        "Language": "he",
+        "Homepage": "https://digital.100fm.co.il/#top40",
+        "Source1": "https://gb25.streamgates.net/radios-audio/100Top40/icecast.audio"
+    },
+    {
+        "Title": "Radios 100FM - 100% Workout",
+        "Country": "Israel",
+        "Tags": "workout",
+        "Favicon": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-workout.png",
+        "Homepage": "https://digital.100fm.co.il/#workout",
+        "Source1": "https://gb25.streamgates.net/radios-audio/100Workout/playlist.m3u8"
+    },
+    {
+        "Title": "Radios 100FM - 100% World Music",
+        "Country": "Israel",
+        "Tags": "world music",
+        "Favicon": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-world.png",
+        "Homepage": "https://digital.100fm.co.il/#world",
+        "Source1": "https://gb25.streamgates.net/radios-audio/100World/playlist.m3u8"
+    },
+    {
+        "Title": "Radios 100FM - 100% Yehudi (יהודי)",
+        "Country": "Israel",
+        "Tags": "yehudi",
+        "Favicon": "https://d203uamca1bsc4.cloudfront.net/app/thumbnails/t-yehudi.png",
+        "Homepage": "https://digital.100fm.co.il/#yehudi",
+        "Source1": "https://gb25.streamgates.net/radios-audio/100yehudi/playlist.m3u8"
+    },
+    {
+        "Title": "Radios Nostalgia 96.3FM (רדיוס נוסטלגי)",
+        "Country": "Israel",
+        "Favicon": "https://www.963fm.co.il/wp-content/uploads/2025/11/cropped-F-270x270.png",
+        "Homepage": "https://www.963fm.co.il/",
+        "Source1": "https://cdna.streamgates.net/radios-audio/Nostalgia_963fm/icecast.audio"
+    },
+    {
+        "Title": "Rak Musica",
+        "Country": "Israel",
+        "Favicon": "https://rak-musica.webnode.be/",
+        "Homepage": "https://rak-musica.webnode.be/",
+        "Source1": "https://play.radioking.io/rak-musica/670240"
+    },
+    {
+        "Title": "reka",
+        "Country": "Israel",
+        "Tags": "news",
+        "Source1": "http://kanliveicy.media.kan.org.il/icy/kanreka_mp3"
+    },
+    {
+        "Title": "Star 33 Radiostation",
+        "Country": "Israel",
+        "Favicon": "https://drive.google.com/file/d/1jrJxOLRQU3ffbWUt0NNNi9LRlpKYUBF2/view?usp=drive_link",
+        "Language": "en,ru",
+        "Homepage": "https://online.star33radio.com/",
+        "Source1": "https://online.star33radio.com:1115/stream"
+    },
+    {
+        "Title": "Tel Aviv 102FM רדיו תל אביב",
+        "Country": "Israel",
+        "Tags": "contenmporary,music,talk,ישראל",
+        "Favicon": "https://102fm.co.il/img/images/logo-top-menu.jpg",
+        "Language": "he",
+        "Homepage": "https://102fm.co.il/",
+        "Latitude": 32.07896745965534,
+        "Longitude": 34.78312062016064,
+        "Source1": "https://102.livecdn.biz/102fm_aac"
+    },
+    {
+        "Title": "TIMBR Radio",
+        "Country": "Israel",
+        "Favicon": "https://timbr.music/apple-touch-icon.png",
+        "Homepage": "https://timbr.music/",
+        "Source1": "https://radio.betteradio.live/listen/better_radio/live"
+    },
+    {
+        "Title": "toker",
+        "Country": "Israel",
+        "Tags": "religious",
+        "Favicon": "null",
+        "Language": "he",
+        "Homepage": "https://fmstream.org/index.php?s=Toker",
+        "Source1": "https://live.toker.fm:6060/"
+    },
+    {
+        "Title": "toker fm",
+        "Country": "Israel",
+        "Tags": "religious",
+        "Favicon": "null",
+        "Language": "he",
+        "Homepage": "https://live.toker.fm:6060/",
+        "Source1": "https://live.toker.fm:6060/"
+    },
+    {
+        "Title": "Up2Dance Radio",
+        "Country": "Israel",
+        "Favicon": "https://up2dance.com/wp-content/uploads/2021/01/Up2Dance-Radio-01-01-768x742.png",
+        "Homepage": "https://up2dance.com/",
+        "Source1": "https://icecast.live/up2dance"
+    },
+    {
+        "Title": "yStream",
+        "Country": "Israel",
+        "Tags": "adult contemporary,ai radio,hebrew,international,israeli,pop,variety",
+        "Favicon": "https://ystream.live/assets/img/icon-512.png",
+        "Language": "eng,heb",
+        "Homepage": "https://ystream.live/",
+        "Latitude": 32.0853,
+        "Longitude": 34.7818,
+        "Source1": "https://ystream.live/ystream-mp3"
+    },
+    {
+        "Title": "Ze Rock Radio",
+        "Country": "Israel",
+        "Tags": "indy,metal,post punk,punk,rock",
+        "Favicon": "https://zerockradio.com/favicon.ico",
+        "Language": "en,he",
+        "Homepage": "https://zerockradio.com/",
+        "Latitude": 32.965577230293995,
+        "Longitude": 35.121488571167,
+        "Source1": "https://icecast.live/proxy/zerock/zerock"
+    },
+    {
+        "Title": "Лучшее Радио",
+        "Country": "Israel",
+        "Tags": "classical",
+        "Favicon": "https://radio1064.co.il/images/favicon/apple-touch-icon.png",
+        "Homepage": "https://radio1064.co.il/",
+        "Source1": "http://live.cdnwz.net/thebest"
+    },
+    {
+        "Title": "Машиах Инфо Канал 1",
+        "Country": "Israel",
+        "Tags": "christian",
+        "Language": "ru",
+        "Homepage": "http://mashiah.info/",
+        "Source1": "http://s01.radio-tochka.com:6935/;"
+    },
+    {
+        "Title": "Машиах Инфо Канал 2",
+        "Country": "Israel",
+        "Tags": "christian",
+        "Language": "ru",
+        "Homepage": "http://mashiah.info/",
+        "Source1": "http://s01.radio-tochka.com:6045/;"
+    },
+    {
+        "Title": "Мессианское онлайн радио Орэну",
+        "Country": "Israel",
+        "Tags": "christian",
+        "Favicon": "https://orenu.co.il/wp-content/uploads/2020/07/logo-80x80.png",
+        "Language": "en,ru",
+        "Homepage": "https://orenu.co.il/radio-2/",
+        "Source1": "https://listen7.myradio24.com/orenu"
+    },
+    {
+        "Title": "Мессианское радио Орэну",
+        "Country": "Israel",
+        "Tags": "christian",
+        "Favicon": "https://orenu.co.il/wp-content/uploads/2022/02/Radio_Orenu_2022_4.png",
+        "Language": "ru",
+        "Homepage": "https://orenu.co.il/",
+        "Source1": "https://listen7.myradio24.com/orenu"
+    },
+    {
+        "Title": "Первое радио 89.1FM",
+        "Country": "Israel",
+        "Tags": "pop",
+        "Favicon": "https://dyjvnjd6yl5jx.cloudfront.net/wp-content/uploads/2020/11/d0bbd0bed0b3d0be-d0bdd0bed0b2d18bd0b9-d0bcd0b0d0bbd18bd0b9.png",
+        "Homepage": "https://www.891fm.co.il/",
+        "Source1": "https://cdn.cybercdn.live/Pervoia/Audio/icecast.audio"
+    },
+    {
+        "Title": "אקו eco 99fm",
+        "Country": "Israel",
+        "Tags": "ilstations",
+        "Language": "he",
+        "Homepage": "http://eco99fm.maariv.co.il/",
+        "Source1": "http://99.mediacast.co.il/99fm_aac?hash=1559501510715.m4a"
+    },
+    {
+        "Title": "ברסלב פוריו: דעת רבנו",
+        "Country": "Israel",
+        "Tags": "jewish,music",
+        "Favicon": "https://breslevforyou.co.il/assets/favicon/favicon-152x152.png",
+        "Language": "he",
+        "Homepage": "https://breslevforyou.co.il/",
+        "Source1": "https://cast.breslevforyou.co.il/listen/radiobreslev/radio.mp3"
+    },
+    {
+        "Title": "ברסלב פוריו: הלכות ודף יומי",
+        "Country": "Israel",
+        "Tags": "jewish,music",
+        "Favicon": "https://breslevforyou.co.il/assets/favicon/favicon-152x152.png",
+        "Language": "he",
+        "Homepage": "https://breslevforyou.co.il/",
+        "Source1": "https://cast.breslevforyou.co.il/listen/halachot/radio.mp3"
+    },
+    {
+        "Title": "ברסלב פוריו: ספרי ברסלב",
+        "Country": "Israel",
+        "Tags": "books,jewish",
+        "Favicon": "https://breslevforyou.co.il/assets/favicon/favicon-152x152.png",
+        "Language": "he",
+        "Homepage": "https://breslevforyou.co.il/",
+        "Source1": "https://cast.breslevforyou.co.il/listen/books/radio.mp3"
+    },
+    {
+        "Title": "ברסלב פוריו: קצר וקולע",
+        "Country": "Israel",
+        "Tags": "jewish,music",
+        "Favicon": "https://breslevforyou.co.il/assets/favicon/favicon-152x152.png",
+        "Language": "he",
+        "Homepage": "https://breslevforyou.co.il/",
+        "Source1": "https://cast.breslevforyou.co.il/listen/shorts/radio.mp3"
+    },
+    {
+        "Title": "ברסלב פוריו: תורה וזימרה",
+        "Country": "Israel",
+        "Tags": "jewish,music,trance",
+        "Favicon": "https://breslevforyou.co.il/assets/favicon/favicon-152x152.png",
+        "Language": "he",
+        "Homepage": "https://breslevforyou.co.il/",
+        "Source1": "https://cast.breslevforyou.co.il/listen/music-toravezimra/radio.mp3"
+    },
+    {
+        "Title": "גלגלצ - Glglz",
+        "Country": "Israel",
+        "Tags": "ilstations",
+        "Favicon": "https://static-media.streema.com/media/cache/34/ee/34ee4ed52c07ad09122cbe047a7c0bfd.jpg",
+        "Language": "he",
+        "Homepage": "https://glz.co.il/%D7%92%D7%9C%D7%92%D7%9C%D7%A6",
+        "Source1": "http://glzwizzlv.bynetcdn.com/glglz_mp3"
+    },
+    {
+        "Title": "גלי ישראל Galey Yisrael",
+        "Country": "Israel",
+        "Tags": "news",
+        "Homepage": "http://www.gly.co.il/",
+        "Source1": "https://cdn.cybercdn.live/Galei_Israel/Live/icecast.audio"
+    },
+    {
+        "Title": "גלי צה\"ל",
+        "Country": "Israel",
+        "Tags": "local news",
+        "Favicon": "https://glz.co.il/%D7%92%D7%9C%D7%A6",
+        "Language": "he",
+        "Homepage": "https://glz.co.il/%D7%92%D7%9C%D7%A6",
+        "Source1": "http://glzwizzlv.bynetcdn.com/glz_mp3?awCollectionId=misc&awEpisodeId=glz"
+    },
+    {
+        "Title": "גלצ",
+        "Country": "Israel",
+        "Tags": "news",
+        "Source1": "http://glzwizzlv.bynetcdn.com/glz_mp3?awCollectionId=misc&awEpisodeId=glz"
+    },
+    {
+        "Title": "גלצ",
+        "Country": "Israel",
+        "Tags": "local music,local news,local radio,politics & current affairs",
+        "Favicon": "https://glz.co.il/Content/assets/favicons/glz/ms-icon-144x144.png",
+        "Language": "he",
+        "Homepage": "https://glz.co.il/%D7%92%D7%9C%D7%A6",
+        "Source1": "https://glzwizzlv.bynetcdn.com/glz_mp3?awCollectionId=misc&awEpisodeId=glz"
+    },
+    {
+        "Title": "הקצה - Hakatze",
+        "Country": "Israel",
+        "Tags": "ilstations",
+        "Favicon": "https://www.kzradio.net/wp-content/uploads/2018/11/kzlogo.jpg",
+        "Language": "he",
+        "Homepage": "https://kzradio.net/",
+        "Source1": "http://kzradio.mediacast.co.il/kzradio_live/kzradio/icecast.audio"
+    },
+    {
+        "Title": "כאן מורשת - Kan Moreshet",
+        "Country": "Israel",
+        "Tags": "israel,orthodox,דתי",
+        "Language": "he",
+        "Homepage": "https://www.kan.org.il/live/radio.aspx?stationid=6",
+        "Source1": "https://kanliveicy.media.kan.org.il/icy/749629_mp3",
+        "Source2": "https://kanliveicy.media.kan.org.il/icy/kanmoreshet_mp3"
+    },
+    {
+        "Title": "כאן רקע Kan Reka",
+        "Country": "Israel",
+        "Tags": "amharic,foreign languages,international,israel,jewish,politics,russian,spanish",
+        "Homepage": "https://www.kan.org.il/content/kan/kan-reka/",
+        "Source1": "https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/radio/kan_reka/live.livx/playlist.m3u8?renditions"
+    },
+    {
+        "Title": "נושמים מזרחית - Noshmim Mizrahit",
+        "Country": "Israel",
+        "Tags": "ilstations,oriental,מזרחי",
+        "Favicon": "https://www.mizrahit.fm/wp-content/uploads/2014/03/favicon.png",
+        "Language": "he",
+        "Homepage": "http://www.mizrahit.fm/",
+        "Source1": "http://www.rs.mizrahit.fm:7777/"
+    },
+    {
+        "Title": "קבלה לעם אנגלית - Kabbalah eng",
+        "Country": "Israel",
+        "Tags": "ilstations",
+        "Favicon": "https://upload.wikimedia.org/wikipedia/en/4/46/Bnei_Baruch.png",
+        "Language": "en",
+        "Homepage": "http://www.kab.info/",
+        "Source1": "http://icecast.kab.tv/live1-eng-574bcfd5.mp3"
+    },
+    {
+        "Title": "קבלה לעם עברית - Kabbalah heb",
+        "Country": "Israel",
+        "Tags": "ilstations",
+        "Favicon": "https://upload.wikimedia.org/wikipedia/en/4/46/Bnei_Baruch.png",
+        "Language": "he",
+        "Homepage": "http://www.kab.info/",
+        "Source1": "http://icecast.kab.tv/live1-heb-574bcfd5.mp3"
+    },
+    {
+        "Title": "קבלה לעם צרפתית - Kabbalah fre",
+        "Country": "Israel",
+        "Tags": "ilstations",
+        "Favicon": "https://upload.wikimedia.org/wikipedia/en/4/46/Bnei_Baruch.png",
+        "Language": "fr",
+        "Homepage": "http://www.kab.info/",
+        "Source1": "http://icecast.kab.tv/live1-fre-574bcfd5.mp3"
+    },
+    {
+        "Title": "קבלה לעם רוסית - Kabbalah rus",
+        "Country": "Israel",
+        "Tags": "ilstations",
+        "Favicon": "https://upload.wikimedia.org/wikipedia/en/4/46/Bnei_Baruch.png",
+        "Language": "ru",
+        "Homepage": "http://www.kab.info/",
+        "Source1": "http://icecast.kab.tv/live1-rus-574bcfd5.mp3"
+    },
+    {
+        "Title": "קול ברמה - Kol Barama",
+        "Country": "Israel",
+        "Tags": "ilstations,דתי",
+        "Favicon": "https://kol-barama.co.il/wp-content/themes/qs-starter/images/favicon/apple-touch-icon-120x120.png",
+        "Language": "he",
+        "Homepage": "http://kol-barama.co.il/",
+        "Source1": "http://kb.cdnwz.net/kol_barama"
+    },
+    {
+        "Title": "קול השפלה - Kol Hashfela",
+        "Country": "Israel",
+        "Tags": "ilstations",
+        "Favicon": "https://static.wixstatic.com/media/cbf57a_82d58bf0f55940b8b288c481497d43c7~mv2.png/v1/crop/x_54,y_238,w_1861,h_624/fill/w_376,h_124,al_c,q_85,usm_0.66_1.00_0.01/kol.webp",
+        "Language": "he",
+        "Homepage": "https://www.1036kh.com/",
+        "Source1": "http://1036kh.cdnwz.net/1036kh"
+    },
+    {
+        "Title": "קול חי - Kol Chai",
+        "Country": "Israel",
+        "Tags": "israel,orthodox,דתי",
+        "Language": "he",
+        "Homepage": "https://www.93fm.co.il/",
+        "Source1": "https://media2.93fm.co.il/live-new"
+    },
+    {
+        "Title": "קול חי מיוזיק - Kol Chai Music",
+        "Country": "Israel",
+        "Tags": "jewish,music,orthodox,דתי",
+        "Favicon": "http://kcm.fm/favicon.ico",
+        "Language": "he",
+        "Homepage": "http://kcm.fm/",
+        "Source1": "https://media2.93fm.co.il/livemusic"
+    },
+    {
+        "Title": "קול חי מיוזיק - Kol Chai Music",
+        "Country": "Israel",
+        "Tags": "israel,orthodox,דתי",
+        "Favicon": "https://kcm.fm/favicon.ico",
+        "Language": "he",
+        "Homepage": "https://kcm.fm/",
+        "Source1": "https://media2.93fm.co.il/livemusic"
+    },
+    {
+        "Title": "קול פליי | kol-play",
+        "Country": "Israel",
+        "Favicon": "https://kol-play.co.il/wp-content/themes/kolplay/images/fv-icon.png",
+        "Language": "he",
+        "Homepage": "https://kol-play.co.il/",
+        "Source1": "https://cdn.cybercdn.live/Kol_Barama/Music/icecast.audio"
+    },
+    {
+        "Title": "רדיו חמאש - Radio Hamesh",
+        "Country": "Israel",
+        "Tags": "haifa,hebrew,ilstations,israeli pop,pop",
+        "Language": "he",
+        "Homepage": "http://www.995.co.il/",
+        "Source1": "http://995.livecdn.biz:8000/995fm"
+    },
+    {
+        "Title": "רדיו מזרחית",
+        "Country": "Israel",
+        "Tags": "music",
+        "Favicon": "https://static.rlive.co.il/storage/uploads/stations/Dr2O6e5OlDz4uDa6ZjR8iZs3ss4AMnivNBOz5Suw.png",
+        "Language": "he",
+        "Homepage": "https://mizrahit.fm/",
+        "Source1": "https://mzr.mediacast.co.il/mzradio"
+    },
+    {
+        "Title": "רדיו תל אביב 102 FM",
+        "Country": "Israel",
+        "Favicon": "https://102fm.co.il/favicon.ico",
+        "Homepage": "https://102fm.co.il/",
+        "Source1": "https://102.livecdn.biz/102fm_aac"
+    },
+    {
+        "Title": "רשת ג בדיקה",
+        "Country": "Israel",
+        "Homepage": "http://kanliveicy.media.kan.org.il/icy/kangimmel_mp3",
+        "Source1": "http://kanliveicy.media.kan.org.il/icy/kangimmel_mp3"
+    },
+    {
+        "Title": "תל אביב Tel Aviv 102FM",
+        "Country": "Israel",
+        "Tags": "hebrew,ilstations,israeli pop,pop,tel aviv",
+        "Favicon": "http://102fm.co.il/favicon.ico",
+        "Language": "he",
+        "Homepage": "http://102fm.co.il/",
+        "Source1": "http://102.livecdn.biz/102fm_aac"
+    },
+    {
+        "Title": "اذاعة الشمس - A-Shams",
+        "Country": "Israel",
+        "Tags": "ilstations",
+        "Favicon": "https://s.ashams.com/static/css/images/logo-header.png",
+        "Language": "ar",
+        "Homepage": "https://www.ashams.com/",
+        "Source1": "https://cdna.streamgates.net/Ashams/Live/icecast.audio"
+    },
+    {
+        "Title": "راديو مكان  - Kan Israel Makan",
+        "Country": "Israel",
+        "Tags": "ilstations",
+        "Language": "ar",
+        "Homepage": "http://www.makan.org.il/",
+        "Source1": "http://kanliveicy.media.kan.org.il/icy/makan_mp3"
+    }
+]

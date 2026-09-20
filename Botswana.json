@@ -1,0 +1,46 @@
+[
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "Botswana",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "Duma FM",
+        "Country": "Botswana",
+        "Homepage": "https://dumafm.co.bw/",
+        "Source1": "http://s3.voscast.com:10076/stream"
+    },
+    {
+        "Title": "DumaFM",
+        "Country": "Botswana",
+        "Tags": "african music",
+        "Homepage": "https://dumafm.co.bw/",
+        "Source1": "http://s3.voscast.com:10076/;"
+    },
+    {
+        "Title": "Gabz FM 96.2 Gaberone",
+        "Country": "Botswana",
+        "Tags": "african music,gaberone,pop",
+        "Favicon": "https://static.wixstatic.com/media/d5db8a_7767e951c2304645bf95a86b554915c2%7emv2.png/v1/fill/w_180%2ch_180%2clg_1%2cusm_0.66_1.00_0.01/d5db8a_7767e951c2304645bf95a86b554915c2%7emv2.png",
+        "Language": "en",
+        "Homepage": "http://www.gabzfm.com/",
+        "Source1": "http://fmt01.egihosting.com:17721/;"
+    },
+    {
+        "Title": "Gabz-FM",
+        "Country": "Botswana",
+        "Favicon": "https://static.wixstatic.com/media/d5db8a_df3ec1fd291e481896ce3d394517d1b2~mv2.png/v1/fill/w_116,h_46,al_c,q_85,usm_1.20_1.00_0.01,enc_auto/logo.png",
+        "Homepage": "https://www.gabzfm.com/",
+        "Source1": "http://fmt01.egihosting.com:17721/;"
+    },
+    {
+        "Title": "Yarona FM",
+        "Country": "Botswana",
+        "Favicon": "https://yaronafm.co.bw/wp-content/uploads/2020/05/logo-yarona.png",
+        "Homepage": "https://yaronafm.co.bw/",
+        "Source1": "http://capeant.antfarm.co.za:8000/yarona"
+    }
+]

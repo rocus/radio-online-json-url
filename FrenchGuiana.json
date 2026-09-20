@@ -1,0 +1,74 @@
+[
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "FrenchGuiana",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "chwitiweb",
+        "Country": "FrenchGuiana",
+        "Tags": "dub reggae,reggae,roots reggae,west indies",
+        "Favicon": "https://www.chwitiweb.com/upload/5c44efa98a0fe3.17228419.ico",
+        "Language": "fr",
+        "Homepage": "https://www.chwitiweb.com/",
+        "Source1": "https://www.radioking.com/play/chwitiweb"
+    },
+    {
+        "Title": "chwitiweb Cayenne",
+        "Country": "FrenchGuiana",
+        "Favicon": "http://www.chwitiweb.com/upload/5c44efa98a0fe3.17228419.ico",
+        "Homepage": "http://www.chwitiweb.com/",
+        "Source1": "https://listen.radioking.com/radio/190309/stream/232540"
+    },
+    {
+        "Title": "chwitiweb GF stream",
+        "Country": "FrenchGuiana",
+        "Favicon": "https://chwitiweb.com/upload/5c44efa98a0fe3.17228419.ico",
+        "Homepage": "https://chwitiweb.com/",
+        "Source1": "https://listen.radioking.com/radio/190309/stream/232540"
+    },
+    {
+        "Title": "Chérie FM",
+        "Country": "FrenchGuiana",
+        "Tags": "pop,rock",
+        "Language": "fr",
+        "Homepage": "http://www.cheriefmguyane.com/",
+        "Source1": "http://cheriefmguyane.ice.infomaniak.ch/cheriefmguyane-64.aac"
+    },
+    {
+        "Title": "Guyane 1ère",
+        "Country": "FrenchGuiana",
+        "Favicon": "https://la1ere.francetvinfo.fr/favicon.ico",
+        "Language": "fr",
+        "Homepage": "https://la1ere.francetvinfo.fr/guyane/",
+        "Source1": "https://guyane.ice.infomaniak.ch/guyane-128.mp3"
+    },
+    {
+        "Title": "Métis FM",
+        "Country": "FrenchGuiana",
+        "Favicon": "https://metis.fm/uploads/media/metisfm/logo_metis_50.jpg",
+        "Homepage": "https://metis.fm/",
+        "Source1": "https://str0.creacast.com/metisfm.mp3"
+    },
+    {
+        "Title": "Nostalgie",
+        "Country": "FrenchGuiana",
+        "Tags": "kompa,retro,zouk",
+        "Favicon": "http://www.nostalgiedom.fr/upload/favicon.ico",
+        "Language": "fr",
+        "Homepage": "http://www.nostalgiedom.fr/",
+        "Latitude": 4.940165641828481,
+        "Longitude": -52.33194977045059,
+        "Source1": "http://2stream.dyndns.org:8000/nostalgieguy"
+    },
+    {
+        "Title": "Radio Contact Vosges",
+        "Country": "FrenchGuiana",
+        "Favicon": "https://facebook.com/radiocontact",
+        "Homepage": "https://rcvradio.fr/",
+        "Source1": "https://s2.ssl-stream.com/listen/radio_contact/radio.mp3"
+    }
+]

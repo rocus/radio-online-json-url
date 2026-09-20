@@ -1,0 +1,514 @@
+[
+    {
+        "Title": "103",
+        "Country": "NorthMacedonia",
+        "Source1": "http://radiostream.neotel.mk/kanal103"
+    },
+    {
+        "Title": "=KECO=70s ROCK",
+        "Country": "NorthMacedonia",
+        "Tags": "70s rock",
+        "Favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20231218_113106430.jpg?alt=media&token=b6f6cb27-4778-460d-b740-0860a30262a7",
+        "Homepage": "http://jfm1.hostingradio.ru:14536/rock70.mp3",
+        "Source1": "http://jfm1.hostingradio.ru:14536/rock70.mp3"
+    },
+    {
+        "Title": "=KECO=ROCK BALLADS",
+        "Country": "NorthMacedonia",
+        "Tags": "70s rock ballads",
+        "Homepage": "http://online.radioroks.ua/RadioROKS_Ballads_HD",
+        "Source1": "http://online.radioroks.ua/RadioROKS_Ballads_HD"
+    },
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "NorthMacedonia",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "Antenna 5",
+        "Country": "NorthMacedonia",
+        "Favicon": "https://www.antenna5.com.mk/Images/Logos/logo2.png",
+        "Homepage": "https://www.antenna5.com.mk/Default.aspx",
+        "Source1": "https://fms.off.net.mk:8000/antenna5.stream"
+    },
+    {
+        "Title": "Antenna 5 Macedonia",
+        "Country": "NorthMacedonia",
+        "Homepage": "http://www.antenna5.com.mk/",
+        "Latitude": 41.99439691825032,
+        "Longitude": 21.43587112426758,
+        "Source1": "http://antenna5stream.neotel.mk:8000/live128"
+    },
+    {
+        "Title": "Bum Kumanovo",
+        "Country": "NorthMacedonia",
+        "Tags": "international",
+        "Source1": "http://iandonov.radioca.st/;stream/1"
+    },
+    {
+        "Title": "Club Radio - Skopje, Mcedonia",
+        "Country": "NorthMacedonia",
+        "Tags": "dance,house",
+        "Favicon": "https://clubradio.mk/wp-content/uploads/2025/03/Screenshot_3.png",
+        "Homepage": "https://clubradio.mk/",
+        "Latitude": 41.99726342796974,
+        "Longitude": 21.43685117453417,
+        "Source1": "https://radiomk-portal.com/listen/club_radio_macedonia/radio.mp3"
+    },
+    {
+        "Title": "Club Radio Macedonia",
+        "Country": "NorthMacedonia",
+        "Tags": "club,dance,music,pop,top 40",
+        "Favicon": "null",
+        "Language": "es,mk",
+        "Homepage": "http://radiomreza.com/",
+        "Source1": "http://161.97.114.58:8040/radio.mp3"
+    },
+    {
+        "Title": "Club Radio Macedonia",
+        "Country": "NorthMacedonia",
+        "Homepage": "https://clubradio.mk/",
+        "Source1": "https://radiomk-portal.com/listen/club_radio_macedonia/radio.mp3"
+    },
+    {
+        "Title": "Energy Radio - Skopje, Macedonia",
+        "Country": "NorthMacedonia",
+        "Tags": "80s,90s,misc,pop,top 40",
+        "Favicon": "null",
+        "Language": "es,mk",
+        "Homepage": "http://radiomreza.com/",
+        "Source1": "http://161.97.114.58:8000/radio.mp3"
+    },
+    {
+        "Title": "Hits Sky Radio 102.5 FM Macedonia (MP3 128 kbps)",
+        "Country": "NorthMacedonia",
+        "Favicon": "https://skyradio.com.mk/img/logo.png",
+        "Homepage": "http://skyradio.com.mk/",
+        "Source1": "https://s1.skyradio.com.mk/hits.mp3"
+    },
+    {
+        "Title": "Jazz FM",
+        "Country": "NorthMacedonia",
+        "Tags": "jazz",
+        "Favicon": "https://jazzfm.mk/favicon.png",
+        "Homepage": "https://jazzfm.mk/",
+        "Latitude": 41.99232276696362,
+        "Longitude": 21.418251693248752,
+        "Source1": "https://radio.jazzfm.mk/listen/jazzfm/live"
+    },
+    {
+        "Title": "Just Music Radio",
+        "Country": "NorthMacedonia",
+        "Tags": "blues,disco,funk,funky,fusion,jazz,lounge,smooth jazz,soul",
+        "Favicon": "https://justmusicradio.mk/wp-content/uploads/2020/05/95997763_1489679141241833_2955882538482008064_n-1.png",
+        "Language": "en,mk",
+        "Homepage": "https://justmusicradio.mk/",
+        "Source1": "https://radiostream.neotel.mk/justmusicradio"
+    },
+    {
+        "Title": "Kanal 103",
+        "Country": "NorthMacedonia",
+        "Tags": "alternative,dance,electronic,freeform,indie,pop rock,underground",
+        "Language": "mk",
+        "Homepage": "http://kanal103.com.mk/",
+        "Source1": "http://radiostream.neotel.mk/kanal103"
+    },
+    {
+        "Title": "Lider FM 107,4",
+        "Country": "NorthMacedonia",
+        "Tags": "fm radio station,liderfm,public radio",
+        "Language": "mk",
+        "Homepage": "https://lider.com.mk/",
+        "Source1": "https://liderfm.ipradio.mk/"
+    },
+    {
+        "Title": "Life Radio",
+        "Country": "NorthMacedonia",
+        "Favicon": "https://life.com.mk/wp-content/uploads/2024/03/LIFEradio-768x452.jpg",
+        "Homepage": "https://life.com.mk/",
+        "Source1": "https://worldradio.online/proxy/?q=http://liferadio.ddns.net:8000/stream&plugin_id=13399&site_id=14630760"
+    },
+    {
+        "Title": "Life Radio",
+        "Country": "NorthMacedonia",
+        "Language": "en,mk",
+        "Homepage": "http://www.life.com.mk/",
+        "Source1": "http://liferadio.ddns.net:8000/"
+    },
+    {
+        "Title": "Life Radio 89.1 Macedonia",
+        "Country": "NorthMacedonia",
+        "Favicon": "https://www.facebook.com/favicon.ico",
+        "Homepage": "https://www.facebook.com/LifeRadio89.1/",
+        "Latitude": 41.99949993350543,
+        "Longitude": 21.432094573974613,
+        "Source1": "http://liferadio.ddns.net:8000/;"
+    },
+    {
+        "Title": "Maestro FM",
+        "Country": "NorthMacedonia",
+        "Homepage": "https://www.maestrofm.md/",
+        "Source1": "https://maestrofm.md/maestro"
+    },
+    {
+        "Title": "Makedonsko Radio 1 - Radio Skopje",
+        "Country": "NorthMacedonia",
+        "Language": "mk",
+        "Homepage": "https://www.mrt.com.mk/",
+        "Source1": "https://vod-c57.interspace.com/channel_abr/47/playlist.m3u8"
+    },
+    {
+        "Title": "Metropolis Radio Network",
+        "Country": "NorthMacedonia",
+        "Tags": "club,electronic,pop,rock",
+        "Language": "mk",
+        "Homepage": "http://www.metropolisradio.com.mk/",
+        "Latitude": 41.99516239662422,
+        "Longitude": 21.43655776977539,
+        "Source1": "https://eu4.fastcast4u.com/proxy/metradio?mp=/1"
+    },
+    {
+        "Title": "Radio 105 Bombarder",
+        "Country": "NorthMacedonia",
+        "Language": "mk",
+        "Homepage": "https://www.radio105bombarder.com/",
+        "Latitude": 41.03157717082056,
+        "Longitude": 21.334811751982787,
+        "Source1": "http://radio105bombarder.com/Radio105.asx"
+    },
+    {
+        "Title": "radio 22",
+        "Country": "NorthMacedonia",
+        "Tags": "pop music,pop rock,rock",
+        "Homepage": "https://radio22prilep.wixsite.com/radio22",
+        "Source1": "https://radio.server14.kariha.net:8008/"
+    },
+    {
+        "Title": "Radio Bravo Smooth Jazz Mix Radio",
+        "Country": "NorthMacedonia",
+        "Homepage": "http://radiobravo.com.mk/",
+        "Source1": "http://server.webnetradio.net:5490/stream?"
+    },
+    {
+        "Title": "Radio Buba Mara 105.2 FM",
+        "Country": "NorthMacedonia",
+        "Homepage": "https://play.radiobubamara.mk/res/img/bubamara-logo.svg",
+        "Source1": "http://88.85.99.2/live-128.mp3"
+    },
+    {
+        "Title": "Radio Bubamara 105.2 Skopje, Macedonia",
+        "Country": "NorthMacedonia",
+        "Tags": "exyu,macedonian pop,macedonian rock,serbian",
+        "Favicon": "https://radiobubamara.mk/",
+        "Language": "mk",
+        "Homepage": "https://cdn.onlineradiobox.com/img/l/4/13644.v6.png",
+        "Latitude": 41.99606580863793,
+        "Longitude": 21.43166542053223,
+        "Source1": "https://stream.bubamara.com.mk/live"
+    },
+    {
+        "Title": "Radio Fortuna 96.8 FM",
+        "Country": "NorthMacedonia",
+        "Favicon": "https://radiofortuna.com.mk/wp-content/uploads/2024/06/fortuna_herer_logo_544.png",
+        "Homepage": "https://radiofortuna.com.mk/",
+        "Source1": "https://radiofortuna.ipradio.mk/;*.mp3"
+    },
+    {
+        "Title": "Radio Fortuna 96.8 Skopje, Macedonia",
+        "Country": "NorthMacedonia",
+        "Tags": "pop",
+        "Favicon": "https://makedonijafm.net/images/radio/fortuna-small.png",
+        "Language": "mk",
+        "Homepage": "http://www.radiofortuna.com.mk/",
+        "Latitude": 41.996094513539056,
+        "Longitude": 21.431708335876465,
+        "Source1": "https://radiofortuna.ipradio.mk/;*.mp3%22"
+    },
+    {
+        "Title": "Radio Kanal 77 Skopje, Macedonia",
+        "Country": "NorthMacedonia",
+        "Favicon": "https://www.makedonijafm.net/images/radio/kanal77-small.png",
+        "Homepage": "https://kanal77.mk/",
+        "Source1": "https://radiocnd.mms.mk/proxy/offnet/stream"
+    },
+    {
+        "Title": "Radio Kavadarci",
+        "Country": "NorthMacedonia",
+        "Favicon": "https://radiokavadarci.mk",
+        "Homepage": "https://radiokavadarci.mk/",
+        "Source1": "https://zeno.fm/"
+    },
+    {
+        "Title": "Radio Kocani",
+        "Country": "NorthMacedonia",
+        "Homepage": "https://radiokocani.mk/",
+        "Source1": "https://radiokocani.mk/",
+        "Source2": "http://stream.radiokocani.mk:8000/stream",
+        "Source3": "http://stream.radiokocani.mk:8000/live",
+        "Source4": "http://92.53.0.18/"
+    },
+    {
+        "Title": "Radio Kocani 91,4FM",
+        "Country": "NorthMacedonia",
+        "Homepage": "https://radiokocani.mk/",
+        "Source1": "http://92.53.0.18:8000/"
+    },
+    {
+        "Title": "Radio Kocani 91.4 FM",
+        "Country": "NorthMacedonia",
+        "Homepage": "https://radiokocani.mk/",
+        "Source1": "http://92.53.0.18/"
+    },
+    {
+        "Title": "Radio Maria Macedonia",
+        "Country": "NorthMacedonia",
+        "Tags": "catholic,religion",
+        "Language": "mk",
+        "Homepage": "https://www.radiomaria.mk/",
+        "Source1": "http://dreamsiteradiocp.com:8118/stream"
+    },
+    {
+        "Title": "Radio Meff",
+        "Country": "NorthMacedonia",
+        "Tags": "classical",
+        "Source1": "https://s32.myradiostream.com:16040/;?type=http&nocache=1688299470?0.591044522318551"
+    },
+    {
+        "Title": "Radio Valandovo 91.6 FM",
+        "Country": "NorthMacedonia",
+        "Homepage": "https://radiovalandovo.mk/",
+        "Source1": "https://cloud.mkdstream.com/p/7391/stream"
+    },
+    {
+        "Title": "Radio VMRO 1",
+        "Country": "NorthMacedonia",
+        "Homepage": "https://www.radiovmro.mk/",
+        "Source1": "https://radiovmro.radioca.st/;*.mp3"
+    },
+    {
+        "Title": "RadioBar",
+        "Country": "NorthMacedonia",
+        "Homepage": "https://radiobar.mk/",
+        "Source1": "https://visual.shoutca.st:8122/stream"
+    },
+    {
+        "Title": "RADIOBAR",
+        "Country": "NorthMacedonia",
+        "Homepage": "https://radiobar-on.com/",
+        "Source1": "https://cp1.sednastream.com/proxy/radiobar?mp=/stream"
+    },
+    {
+        "Title": "Retro Sky Radio 102.5 FM Macedonia (MP3 128 kbps)",
+        "Country": "NorthMacedonia",
+        "Favicon": "https://skyradio.com.mk/img/logo.png",
+        "Homepage": "http://skyradio.com.mk/",
+        "Source1": "https://s1.skyradio.com.mk/retro.mp3"
+    },
+    {
+        "Title": "RFM 91.3 - North Macedonia",
+        "Country": "NorthMacedonia",
+        "Tags": "macedonian,pop,rock,soft",
+        "Favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241108_165044336.jpg?alt=media&token=af90a123-dc5a-436e-a840-ed68b7e3e83f",
+        "Language": "mk",
+        "Homepage": "http://www.nasatv.com.mk/",
+        "Source1": "http://213.133.109.18:10004/stream"
+    },
+    {
+        "Title": "Samo MK",
+        "Country": "NorthMacedonia",
+        "Tags": "macedonian contemporary,macedonian jazz,macedonian pop,macedonian rock",
+        "Language": "mk",
+        "Homepage": "https://samomk.mk/",
+        "Latitude": 41.99616627561355,
+        "Longitude": 21.426716744899753,
+        "Source1": "https://radiostream.neotel.mk/samomk"
+    },
+    {
+        "Title": "SamoMK",
+        "Country": "NorthMacedonia",
+        "Tags": "misc",
+        "Homepage": "http://radiostream.neotel.mk/samomk",
+        "Source1": "http://radiostream.neotel.mk/samomk"
+    },
+    {
+        "Title": "SKY FOLK",
+        "Country": "NorthMacedonia",
+        "Tags": "macedonian folk",
+        "Language": "mk",
+        "Homepage": "https://eu.live.skyfolk.mk/live.m3u8",
+        "Source1": "https://eu.live.skyfolk.mk/live.m3u8"
+    },
+    {
+        "Title": "Sky Radio 102.5 FM Macedonia (MP3 128 kbps)",
+        "Country": "NorthMacedonia",
+        "Favicon": "https://skyradio.com.mk/img/logo.png",
+        "Homepage": "http://skyradio.com.mk/",
+        "Source1": "https://skyradio.com.mk/listen.m3u"
+    },
+    {
+        "Title": "Sky Radio 102.5 Skopje, Macedonia",
+        "Country": "NorthMacedonia",
+        "Tags": "exyu,hits,macedonian pop,macedonian rock,pop,rock",
+        "Favicon": "https://skyradio.com.mk/img/logo.png",
+        "Language": "mk",
+        "Homepage": "https://skyradio.com.mk/",
+        "Latitude": 41.99611843423953,
+        "Longitude": 21.43178343772888,
+        "Source1": "https://s1.skyradio.com.mk/;*.mp3"
+    },
+    {
+        "Title": "Sky Radio Hits Skopje, Macedonia",
+        "Country": "NorthMacedonia",
+        "Tags": "hits,pop",
+        "Favicon": "https://skyradio.com.mk/img/logo.png",
+        "Language": "mk",
+        "Homepage": "https://skyradio.com.mk/",
+        "Latitude": 41.99609052675475,
+        "Longitude": 21.431702971458435,
+        "Source1": "https://s1.skyradio.com.mk/hits.mp3"
+    },
+    {
+        "Title": "Star Folk Radio - Skopje, Macedonia",
+        "Country": "NorthMacedonia",
+        "Tags": "folk,pop,retro,top 40",
+        "Favicon": "null",
+        "Language": "es,mk",
+        "Homepage": "http://radiomreza.com/",
+        "Source1": "http://161.97.114.58:8010/radio.mp3"
+    },
+    {
+        "Title": "Star Radio (Boemi) Skopje, Macedonia",
+        "Country": "NorthMacedonia",
+        "Tags": "exyu,serbian folk,serbian pop",
+        "Language": "mk",
+        "Homepage": "https://radiostar.pro/radiochannel/boemi/",
+        "Source1": "https://radiostar.pro/stream/boemi.php"
+    },
+    {
+        "Title": "Star Radio (Ex-YU Retro) Skopje, Macedonia",
+        "Country": "NorthMacedonia",
+        "Tags": "exyu",
+        "Language": "mk",
+        "Homepage": "https://radiostar.pro/radiochannel/ex-yu-retro/",
+        "Latitude": 41.996022751383634,
+        "Longitude": 21.431633234024048,
+        "Source1": "https://radiostar.pro/stream/exyuretro.php"
+    },
+    {
+        "Title": "Star Radio (Live) Skopje, Macedonia",
+        "Country": "NorthMacedonia",
+        "Tags": "exyu,macedonian pop,macedonian rock",
+        "Language": "mk",
+        "Homepage": "https://radiostar.pro/radiochannel/star-live/",
+        "Latitude": 41.99606261925775,
+        "Longitude": 21.43168151378632,
+        "Source1": "https://radiostar.pro/stream/starlive.php"
+    },
+    {
+        "Title": "Star Radio (MK Narodna) Skopje, Macedonia",
+        "Country": "NorthMacedonia",
+        "Tags": "macedonian folk",
+        "Favicon": "https://radiostar.pro/wp-content/uploads/2023/10/MK-NARODNA-300x300.png",
+        "Language": "mk",
+        "Homepage": "https://radiostar.pro/radiochannel/mk-narodna/",
+        "Source1": "https://radiostar.pro/stream/mknarodna.php"
+    },
+    {
+        "Title": "Star Radio (Plus) Skopje, Macedonia",
+        "Country": "NorthMacedonia",
+        "Tags": "macedonian pop,serbian pop",
+        "Favicon": "https://radiostar.pro/wp-content/uploads/2023/08/PLUS-300x300.png",
+        "Language": "mk",
+        "Homepage": "https://radiostar.pro/radiochannel/star-plus/",
+        "Latitude": 41.99603231952971,
+        "Longitude": 21.431708335876465,
+        "Source1": "https://radiostar.pro/stream/starplus.php"
+    },
+    {
+        "Title": "Star Radio (Urban Folk) Skopje, Macedonia",
+        "Country": "NorthMacedonia",
+        "Tags": "macedonian folk,macedonian pop,serbian folk,serbian pop",
+        "Favicon": "https://radiostar.pro/wp-content/uploads/2023/08/NARODNA-URBAN-300x300.png",
+        "Language": "mk",
+        "Homepage": "https://radiostar.pro/radiochannel/urban-folk/",
+        "Source1": "https://radiostar.pro/stream/narodna.php"
+    },
+    {
+        "Title": "Star Radio (World Hits) Skopje, Macedonia",
+        "Country": "NorthMacedonia",
+        "Tags": "pop,world hits",
+        "Language": "mk",
+        "Homepage": "https://radiostar.pro/radiochannel/world-hits/",
+        "Source1": "https://radiostar.pro/stream/worldretro.php"
+    },
+    {
+        "Title": "STIL RADIO",
+        "Country": "NorthMacedonia",
+        "Tags": "folk",
+        "Homepage": "https://stilradio.com/",
+        "Source1": "https://eu4.fastcast4u.com/proxy/stilradiomk?mp=/1"
+    },
+    {
+        "Title": "Stil Radio Live Macedonia",
+        "Country": "NorthMacedonia",
+        "Tags": "macedonian,serbian,turbo folk",
+        "Favicon": "https://stilradio.com/wp-content/uploads/2022/01/STIL-RADIO-TRANSPARENT-170x170.png",
+        "Language": "mk",
+        "Homepage": "https://stilradio.com/",
+        "Source1": "https://eu4.fastcast4u.com/proxy/stilradiomk?mp=/1"
+    },
+    {
+        "Title": "Super Radio - Skopje, Macedonia",
+        "Country": "NorthMacedonia",
+        "Tags": "dance,music,pop,top 40",
+        "Favicon": "null",
+        "Language": "es,mk",
+        "Homepage": "http://radiomreza.mk/",
+        "Source1": "http://161.97.114.58:8020/radio.mp3"
+    },
+    {
+        "Title": "Time FM Gevgelija",
+        "Country": "NorthMacedonia",
+        "Tags": "music",
+        "Language": "mk",
+        "Homepage": "https://www.timefm.mk/",
+        "Latitude": 41.1400012780909,
+        "Longitude": 22.503851652145386,
+        "Source1": "https://s2.free-shoutcast.com/stream/18058"
+    },
+    {
+        "Title": "Urban FM 90.8 Skopje",
+        "Country": "NorthMacedonia",
+        "Tags": "pop",
+        "Favicon": "https://www.facebook.com/favicon.ico",
+        "Homepage": "https://www.facebook.com/urban.fm.skopje/",
+        "Source1": "https://securestreams4.autopo.st:1668/stream"
+    },
+    {
+        "Title": "Експрес Радио 101.1 Струмица, Македонија",
+        "Country": "NorthMacedonia",
+        "Tags": "pop",
+        "Homepage": "https://ekspresradio.com.mk/index.html",
+        "Source1": "http://ekspresradio.dyndns.org:8000/"
+    },
+    {
+        "Title": "Канал 77 Радио Мрежа",
+        "Country": "NorthMacedonia",
+        "Tags": "pop music",
+        "Homepage": "https://kanal77.mk/",
+        "Latitude": 41.74392518638831,
+        "Longitude": 22.203004261932264,
+        "Source1": "https://radiocnd.mms.mk/proxy/player/stream"
+    },
+    {
+        "Title": "Скај Радио",
+        "Country": "NorthMacedonia",
+        "Tags": "pop",
+        "Favicon": "https://skyradio.com.mk/favicon-32x32.png?v=gAepAyvLkw",
+        "Homepage": "https://skyradio.com.mk/",
+        "Source1": "https://skyradio.com.mk/listen.m3u"
+    }
+]

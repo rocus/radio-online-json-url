@@ -1,0 +1,78 @@
+[
+    {
+        "Title": "90.7 Magic FM",
+        "Country": "Rwanda",
+        "Favicon": "http://listen.rba.co.rw/radios/logos/radiomagic.PNG",
+        "Homepage": "http://listen.rba.co.rw/radios/radiomagic.html",
+        "Source1": "http://listen.rba.co.rw:8080/;"
+    },
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "Rwanda",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "Bachwezi radio",
+        "Country": "Rwanda",
+        "Homepage": "https://mytuner-radio.com/radio/bachwezi-radio-488187/",
+        "Source1": "http://stream.zeno.fm/4vcb1euurnhvv"
+    },
+    {
+        "Title": "Gendana n'igihe radio",
+        "Country": "Rwanda",
+        "Homepage": "https://www.socialcreator.com/gendananigiheradio",
+        "Source1": "http://stream.zeno.fm/1ev107turnhvv"
+    },
+    {
+        "Title": "Heaven FM Radio Rwanda",
+        "Country": "Rwanda",
+        "Favicon": "https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2FjVwXjJnAN_TFwdnscjgzoRtEirCylumB5_sOFRQUbDM%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ0lsdGlDbUFvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ0lscWlLb0FnTW9nRUVlbVZ1YncvaW1hZ2UvP3Jlc2l6ZT0yNDB4MjQwJnVwZGF0ZWQ9MTY1NzYwMTQzNDAwMA.webp&w=750&q=75",
+        "Homepage": "https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2FjVwXjJnAN_TFwdnscjgzoRtEirCylumB5_sOFRQUbDM%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ0lsdGlDbUFvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ0lscWlLb0FnTW9nRUVlbVZ1YncvaW1hZ2UvP3Jlc2l6ZT0yNDB4MjQwJnVwZGF0ZWQ9MTY1NzYwMTQzNDAwMA.webp&w=750&q=75",
+        "Source1": "http://stream.zeno.fm/eequgfw72hhvv"
+    },
+    {
+        "Title": "Magic FM",
+        "Country": "Rwanda",
+        "Tags": "dance,pop",
+        "Homepage": "http://rba.co.rw/radio/7/Magic-Fm",
+        "Source1": "http://listen.rba.co.rw:8080/"
+    },
+    {
+        "Title": "MENYA FM",
+        "Country": "Rwanda",
+        "Favicon": "https://images.zeno.fm/uOG0m4DEoqAlAohkUfT4sTOslg0TsvxX66pvr3lQbYU/rs:fit:170:170/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2IwNzExOTU4LWE0YTMtNGJkMC05MjZmLWE4MTJhZTU5MzMyZC9pbWFnZS8_dT0xNzg0NzI5NjE4MzEx.webp",
+        "Homepage": "https://www.facebook.com/share/1EYify6fPH/",
+        "Source1": "https://stream.zeno.fm/k5rq7qwkggauv"
+    },
+    {
+        "Title": "Radio 1",
+        "Country": "Rwanda",
+        "Tags": "local music,news,talk",
+        "Homepage": "http://tv1.rw/",
+        "Source1": "http://80.241.215.175:5000/;"
+    },
+    {
+        "Title": "RADIO MARIA RWANDA",
+        "Country": "Rwanda",
+        "Tags": "catholic,christian,cristiana,religion,religious,talk",
+        "Homepage": "http://www.radiomaria.rw/",
+        "Source1": "http://dreamsiteradiocp.com:8044/stream"
+    },
+    {
+        "Title": "Radio Rwanda",
+        "Country": "Rwanda",
+        "Favicon": "https://rba.co.rw/icon/icr_home_rwanda.png",
+        "Homepage": "https://rba.co.rw/",
+        "Source1": "https://listen.rba.co.rw:8008/rwanda/"
+    },
+    {
+        "Title": "Travel Radio Live",
+        "Country": "Rwanda",
+        "Favicon": "https://travelradio.live/wp-content/uploads/2021/10/cropped-travel-radio-logo-original-1-192x192.png",
+        "Homepage": "https://travelradio.live/",
+        "Source1": "https://travel-radio-live.radiocult.fm/stream"
+    }
+]

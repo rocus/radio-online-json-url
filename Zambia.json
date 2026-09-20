@@ -1,0 +1,55 @@
+[
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "Zambia",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "Hot 102.7FM",
+        "Country": "Zambia",
+        "Homepage": "https://hot1027.co.za/",
+        "Source1": "https://edge.iono.fm/xice/57_medium.aac?ref=https%3A%2F%2Fhot1027.co.za%2F&adToken="
+    },
+    {
+        "Title": "Hot FM 87.7",
+        "Country": "Zambia",
+        "Tags": "african music,zambian music",
+        "Language": "en",
+        "Homepage": "http://www.hot877.com/",
+        "Source1": "http://s2.yesstreaming.net:7091/stream?type=.mp3%2F%3Bstream.mp3&_=1"
+    },
+    {
+        "Title": "http://p.onlineradiobox.com/zm/komboni/player/?cs=zm.komboni",
+        "Country": "Zambia",
+        "Homepage": "http://p.onlineradiobox.com/zm/komboni/player/?cs=zm.komboni",
+        "Source1": "http://p.onlineradiobox.com/zm/komboni/player/?cs=zm.komboni"
+    },
+    {
+        "Title": "I Am Catholic Zambia online Radio",
+        "Country": "Zambia",
+        "Homepage": "https://ec4.yesstreaming.net:2015/stream",
+        "Source1": "https://ec4.yesstreaming.net:2015/stream"
+    },
+    {
+        "Title": "One Love Radio",
+        "Country": "Zambia",
+        "Homepage": "https://onelovezambia.com/",
+        "Source1": "https://usa11.fastcast4u.com/proxy/thidhzuy?mp=/1&1745660099290"
+    },
+    {
+        "Title": "Radio Christian Voice",
+        "Country": "Zambia",
+        "Homepage": "https://rcv.co.zm/",
+        "Source1": "https://streaming.shoutcast.com/rcv"
+    },
+    {
+        "Title": "Sun Fm Zambia",
+        "Country": "Zambia",
+        "Language": "en",
+        "Homepage": "https://www.zambia.com/",
+        "Source1": "http://11233.cloudrad.io:9102/live"
+    }
+]

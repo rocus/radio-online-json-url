@@ -1,0 +1,233 @@
+[
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "Nicaragua",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "CAWtv",
+        "Country": "Nicaragua",
+        "Language": "es",
+        "Homepage": "https://cawtv.net/",
+        "Source1": "https://stream.zeno.fm/m8aakwyw9u8uv"
+    },
+    {
+        "Title": "Exa FM",
+        "Country": "Nicaragua",
+        "Tags": "93.3 fm,entretenimiento,español,estación,exa,exa fm,fm,juvenil,la estación exacta,la estación naranja,moi merino,mvs,mvs noticias,mvs radio,música en español e inglés,música pop,ponte exa,pop,pop en español e inglés,pop music,pop rock,radio",
+        "Favicon": "https://i.iheart.com/v3/re/new_assets/5f9883c7cde5eff19e6eabac",
+        "Language": "es",
+        "Homepage": "https://www.exafm.com/veracruz/",
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac"
+    },
+    {
+        "Title": "Fiesta Latina 89.1 FM",
+        "Country": "Nicaragua",
+        "Tags": "bachata,latino,merengue,music,salsa,urbano",
+        "Favicon": "https://fiestalatina.com.ni/wp-content/uploads/2019/08/cropped-Fiesta-Latina-Logo-FIN-ALFA-1-e1687229871337.png",
+        "Language": "es",
+        "Homepage": "https://fiestalatina.com.ni/",
+        "Source1": "https://radios.solumedia.com/6596/stream"
+    },
+    {
+        "Title": "La Nueva Radio | Nicaragua",
+        "Country": "Nicaragua",
+        "Favicon": "https://nuevaya.com.ni/apple-touch-icon-120x120.png",
+        "Language": "es",
+        "Homepage": "https://nuevaya.com.ni/",
+        "Source1": "https://stream.zenolive.com/axr92qawesmtv"
+    },
+    {
+        "Title": "La Voz del Norte",
+        "Country": "Nicaragua",
+        "Tags": "news,noticias",
+        "Favicon": "https://4.bp.blogspot.com/-ipArh5aF-_o/XnfT9w4nwFI/AAAAAAAASwQ/mGVFLZGKs3o04nz8Es7B-lqmIpVoFzKwwCK4BGAYYCw/s1600/lavoz.png",
+        "Language": "es",
+        "Homepage": "https://www.radiolavozdelnorte.com/",
+        "Source1": "https://stream.zeno.fm/cbd1wweamzzuv"
+    },
+    {
+        "Title": "Masaya Rebelde",
+        "Country": "Nicaragua",
+        "Favicon": "https://nicarebeldetv.com/favicon.ico",
+        "Language": "es",
+        "Homepage": "https://nicarebeldetv.com/",
+        "Source1": "https://stream.zeno.fm/bhutktvbfv8uv"
+    },
+    {
+        "Title": "Monimbo Radio",
+        "Country": "Nicaragua",
+        "Homepage": "https://monimboradio.netlify.app/",
+        "Source1": "https://stream.zeno.fm/nrj4lkdpwfgtv"
+    },
+    {
+        "Title": "Nicaragua Reggae Radio.com",
+        "Country": "Nicaragua",
+        "Tags": "reggae",
+        "Language": "es",
+        "Homepage": "http://nicaraguareggae.com/",
+        "Source1": "http://online.radiodifusion.net:8054/stream/1/"
+    },
+    {
+        "Title": "Nova FM 100.7",
+        "Country": "Nicaragua",
+        "Tags": "pop,urbano",
+        "Favicon": "https://www.nicaradios.com.ni/wp-content/uploads/2021/10/Nova-1-300x300-1-300x300.webp",
+        "Language": "es",
+        "Homepage": "https://www.nicaradios.com.ni/radios/nova/",
+        "Latitude": 12.151675428607696,
+        "Longitude": -86.29623413085939,
+        "Source1": "https://d269h0m26cgrwi.cloudfront.net/index.m3u8"
+    },
+    {
+        "Title": "Radio Comunidad",
+        "Country": "Nicaragua",
+        "Favicon": "https://img.sedoparking.com/templates/logos/sedo_logo.png",
+        "Language": "es",
+        "Homepage": "https://www.aprodim.org/",
+        "Source1": "https://stream.zeno.fm/q70e6btc2d0uv"
+    },
+    {
+        "Title": "Radio Conexión Romántica",
+        "Country": "Nicaragua",
+        "Homepage": "https://n9.cl/kc22dd",
+        "Latitude": 11.994578267110109,
+        "Longitude": -86.2890146556595,
+        "Source1": "https://stream.zeno.fm/uauw712byzzuv"
+    },
+    {
+        "Title": "Radio Cristo Viene Masaya Nicaragua",
+        "Country": "Nicaragua",
+        "Homepage": "https://zeno.fm/radio/radio-cristo-viene-masaya-nicaragua/",
+        "Latitude": 12.086024193061744,
+        "Longitude": -86.10370248556139,
+        "Source1": "https://stream.zeno.fm/axxgbszqxhhvv"
+    },
+    {
+        "Title": "radio cristo viene pronto",
+        "Country": "Nicaragua",
+        "Homepage": "https://radiocristo.radio12345.com/",
+        "Source1": "https://pagead2.googlesyndication.com/pagead/ping?e=1"
+    },
+    {
+        "Title": "radio cristo viene pronto",
+        "Country": "Nicaragua",
+        "Homepage": "https://radiocristovienepronto.ismyradio.com/",
+        "Latitude": 12.777515904209828,
+        "Longitude": -85.078125,
+        "Source1": "https://sapircast.caster.fm:17373/admin/publicstats.json"
+    },
+    {
+        "Title": "radio cristo viene pronto",
+        "Country": "Nicaragua",
+        "Homepage": "https://sapircast.caster.fm:17373/7sZLO?token=adeca9064d3876a50203f8822f7a2286",
+        "Source1": "https://sapircast.caster.fm:17373/7sZLO?token=adeca9064d3876a50203f8822f7a2286"
+    },
+    {
+        "Title": "Radio Estereo Música",
+        "Country": "Nicaragua",
+        "Favicon": "https://www.wix.com/favicon.ico",
+        "Language": "es",
+        "Homepage": "https://radiomusicnicaragu.wixsite.com/online",
+        "Source1": "http://stream.zenolive.com/8mwf6ssgtceuv.m3u"
+    },
+    {
+        "Title": "Radio Estrella del Mar",
+        "Country": "Nicaragua",
+        "Favicon": "https://radioestrelladelmar.org/wp-content/themes/themes/rem/assets/images/somos-radio-estrella-del-mar.png",
+        "Homepage": "https://radioestrelladelmar.org/",
+        "Source1": "https://streamer.radio.co/sd5242d0b6/listen"
+    },
+    {
+        "Title": "Radio Estrella del Mar",
+        "Country": "Nicaragua",
+        "Language": "es",
+        "Homepage": "https://www.radioestrelladelmar.org/",
+        "Source1": "https://streamer.radio.co/sd5242d0b6/listen"
+    },
+    {
+        "Title": "Radio Futura 91.3 FM",
+        "Country": "Nicaragua",
+        "Favicon": "https://radiofuturanicaragua.com/images/logo-futura.png",
+        "Homepage": "http://radiofuturanicaragua.com/#en-vivo",
+        "Source1": "https://stream.zeno.fm/iwmolyow6tivv?acu-uid=1469781385678&an-uid=1444844712984803121&eps-uid=AQAKT2wC_8GTDAJFpMzgAQEBAQEBAQCas9CecQEBAJ-ob9li&dot-uid=0cdf2402006ee032d0563f05&triton-uid=cookie%3Ac4825948-af2b-4f4d-91ce-fcf10aefa67e&amb-uid=8780094149879046545&dbm-uid=CAESEFCprZXSSNyR45iPimNW0aE&cto-uid=75bb7246-fac3-4c5c-b5b2-2c4243818b80-695f129b-5048&bsw-uid=30527924-e7be-4c95-9d53-825822263bc8&dyn-uid=4386634410199989600&ttd-uid=c65bc204-3fcf-4476-91ce-cc0deda500f2&adtonosListenerId=01KEPSBTXMGEEJ2Q175N0Y3CSK&aw_0_req_lsid=196b4b4bc1d1ac4f52fcf98eeff4e532"
+    },
+    {
+        "Title": "Radio Hermanos",
+        "Country": "Nicaragua",
+        "Tags": "religion",
+        "Favicon": "https://www.facebook.com/favicon.ico",
+        "Language": "es",
+        "Homepage": "https://www.facebook.com/radiohermanosnic/",
+        "Source1": "https://stream.zenolive.com/vq7z0a3u7mruv"
+    },
+    {
+        "Title": "Radio Juan Pablo Segundo 97.7 fm",
+        "Country": "Nicaragua",
+        "Homepage": "http://radiojuanpablosegundo.com/?i=1",
+        "Source1": "https://dc2.serverse.com:8040/stream"
+    },
+    {
+        "Title": "RADIO RUMBA 505",
+        "Country": "Nicaragua",
+        "Homepage": "https://radiorumba505.listen2myshow.com/",
+        "Source1": "http://212.84.160.3:11143/stream"
+    },
+    {
+        "Title": "Radio Sendas FM",
+        "Country": "Nicaragua",
+        "Tags": "religion",
+        "Language": "es",
+        "Homepage": "https://radiosendasfm.com/quienes-somos/",
+        "Source1": "http://74.91.125.187:8028/listen.pls?sid=1"
+    },
+    {
+        "Title": "Radio Stereo Mundo 91.9 FM",
+        "Country": "Nicaragua",
+        "Tags": "christian,christian-gospel,pentecostal,religious",
+        "Favicon": "https://www.stereomundo919.com/",
+        "Homepage": "https://www.stereomundo919.com/",
+        "Source1": "https://ssl.hostingtico.com:8138/smundo2014"
+    },
+    {
+        "Title": "Radio Vandalica Nicaragua",
+        "Country": "Nicaragua",
+        "Favicon": "https://zeno.fm/favicon.ico",
+        "Language": "es",
+        "Homepage": "https://zeno.fm/radio-vandalica-nicaragua/",
+        "Source1": "https://stream.zeno.fm/caq3fwn1fnruv"
+    },
+    {
+        "Title": "Rock FM 105.5",
+        "Country": "Nicaragua",
+        "Tags": "classic rock,death metal,heavy metal,rock",
+        "Favicon": "https://rockfm.com.ni/wp-content/uploads/2020/06/cropped-una-logo-rock-1-180x180.png",
+        "Language": "en",
+        "Homepage": "https://rockfm.com.ni/",
+        "Latitude": 12.142029767830698,
+        "Longitude": -86.26548757221977,
+        "Source1": "https://securestream.us/radio/8050/radio.mp3"
+    },
+    {
+        "Title": "Stereo Beso 94.5 FM",
+        "Country": "Nicaragua",
+        "Tags": "bachata,baladas,banda,latin,mariachi,pop,ranchera,reggaeton,salsa,spanish",
+        "Favicon": "https://cdn-profiles.tunein.com/s240544/images/logod.png",
+        "Language": "es",
+        "Homepage": "https://radiobeso.net/",
+        "Latitude": 13.104358434235907,
+        "Longitude": -86.36228352785112,
+        "Source1": "https://a9.asurahosting.com:7140/radio.mp3",
+        "Source2": "https://a9.asurahosting.com:7140/"
+    },
+    {
+        "Title": "The Sound of the Caribbean",
+        "Country": "Nicaragua",
+        "Tags": "dancehall,reggea",
+        "Homepage": "https://thesoundofthecarebbeanradio.com/",
+        "Source1": "https://a10.asurahosting.com:8570/radio.mp3"
+    }
+]

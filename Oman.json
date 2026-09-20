@@ -1,0 +1,91 @@
+[
+    {
+        "Title": ".إذاعة ماهر المعيقلي",
+        "Country": "Oman",
+        "Tags": "classical",
+        "Source1": "https://backup.qurango.net/radio/maher"
+    },
+    {
+        "Title": "90.4 FM   الإذاعة-الإنجليزية",
+        "Country": "Oman",
+        "Favicon": "https://ayn.om/images/fav.ico?v=112",
+        "Homepage": "https://ayn.om/",
+        "Source1": "https://partwota.cdn.mgmlcdn.com/omengrdoorg/omengrdo.stream_aac/chunklist.m3u8"
+    },
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "Oman",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "Al Wisal",
+        "Country": "Oman",
+        "Tags": "arabic,music,news,talk",
+        "Language": "ar",
+        "Homepage": "http://wisal.fm/cms",
+        "Source1": "http://uk7.internet-radio.com:8067/;"
+    },
+    {
+        "Title": "Hala FM",
+        "Country": "Oman",
+        "Tags": "arabic,arabic music,arabic songs,muscat",
+        "Language": "ar",
+        "Homepage": "https://halafm.com/",
+        "Source1": "https://listen-halafm.sharp-stream.com/halafmlow.mp3"
+    },
+    {
+        "Title": "Hi FM Oman",
+        "Country": "Oman",
+        "Tags": "pop",
+        "Language": "en",
+        "Homepage": "https://www.hifmradio.com/",
+        "Latitude": 23.5789028087415,
+        "Longitude": 58.39508056640625,
+        "Source1": "http://listen-hifmtemp.sharp-stream.com/hifmmid.mp3"
+    },
+    {
+        "Title": "Merge",
+        "Country": "Oman",
+        "Tags": "hits,pop,regional",
+        "Favicon": "http://radiomerge.fm/merge/wp-content/themes/radiomerge/assets/images/favicon.png",
+        "Language": "ar,en",
+        "Homepage": "http://www.radiomerge.fm/",
+        "Source1": "http://uk7.internet-radio.com:8040/"
+    },
+    {
+        "Title": "Merge 104.8",
+        "Country": "Oman",
+        "Favicon": "http://radiomerge.fm/merge/wp-content/themes/radiomerge/assets/images/favicon.png",
+        "Language": "en",
+        "Homepage": "http://radiomerge.fm/merge/",
+        "Latitude": 23.588055287798817,
+        "Longitude": 58.383472982095554,
+        "Source1": "http://uk7.internet-radio.com:8040/"
+    },
+    {
+        "Title": "Quran Program Oman   إذاعة-القرآن-الكريم",
+        "Country": "Oman",
+        "Homepage": "https://ayn.om/",
+        "Source1": "https://partwota.cdn.mgmlcdn.com/quranrdoorg/quranrdo.stream_aac/chunklist.m3u8"
+    },
+    {
+        "Title": "Virgin Radio (Oman)",
+        "Country": "Oman",
+        "Homepage": "https://virginradiooman.com/",
+        "Latitude": 23.611840320319164,
+        "Longitude": 58.58791798353196,
+        "Source1": "http://uk5.internet-radio.com:8115/stream"
+    },
+    {
+        "Title": "Virgin Radio Oman",
+        "Country": "Oman",
+        "Tags": "hiphop,hits,pop,r'n'b,top 40",
+        "Favicon": "http://virginradiooman.com/favicon.ico",
+        "Language": "en",
+        "Homepage": "http://virginradiooman.com/",
+        "Source1": "http://uk5.internet-radio.com:8115/stream"
+    }
+]

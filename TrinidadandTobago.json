@@ -1,0 +1,209 @@
+[
+    {
+        "Title": "102.1 Trinidad",
+        "Country": "TrinidadandTobago",
+        "Homepage": "http://psn3.prostreaming.net:8310/;",
+        "Source1": "http://psn3.prostreaming.net:8310/;"
+    },
+    {
+        "Title": "103.1 FM Trinidad",
+        "Country": "TrinidadandTobago",
+        "Homepage": "http://psn3.prostreaming.net:8310/;",
+        "Source1": "http://psn3.prostreaming.net:8310/;"
+    },
+    {
+        "Title": "95 the ultimate one",
+        "Country": "TrinidadandTobago",
+        "Favicon": "https://tbcradionetwork.co.tt/95theultimateone/wp-content/uploads/sites/3/2022/03/cropped-951-Logo-Color-Glow-80x53.png",
+        "Homepage": "https://tbcradionetwork.co.tt/95theultimateone/",
+        "Source1": "https://www.radiomast.io/stream/aae72a18-3fa0-4b9a-a4c4-5a19655e1c68/listen"
+    },
+    {
+        "Title": "95.1 Remix live",
+        "Country": "TrinidadandTobago",
+        "Tags": "pop music",
+        "Homepage": "https://www.radio-trinidad.com/951-remix",
+        "Source1": "https://audio-edge-vqwx4.yyz.g.radiomast.io/68540e88-54b8-4924-b098-5a668f7da7b6"
+    },
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "TrinidadandTobago",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "Bacchanal Radio",
+        "Country": "TrinidadandTobago",
+        "Favicon": "https://bacchanal-radio.com/wp-content/uploads/2021/04/cropped-IMG-1504.JPG-150x150.png",
+        "Homepage": "https://bacchanal-radio.com/",
+        "Source1": "https://c13.radioboss.fm:18470/stream"
+    },
+    {
+        "Title": "BOOM 94FM",
+        "Country": "TrinidadandTobago",
+        "Favicon": "https://i0.wp.com/boomchampionstt.com/wp-content/uploads/2022/01/cropped-94fav.jpg",
+        "Homepage": "https://boomchampionstt.com/",
+        "Source1": "https://s8.yesstreaming.net:17103/stream"
+    },
+    {
+        "Title": "BurningSoca:",
+        "Country": "TrinidadandTobago",
+        "Favicon": "http://www.burningrockers.com/images/LOGO_TOP.jpg",
+        "Language": "en",
+        "Homepage": "http://www.burningrockers.com/",
+        "Latitude": 10.345182259352594,
+        "Longitude": -61.02355957031251,
+        "Source1": "http://176.9.121.230:8000/soca"
+    },
+    {
+        "Title": "Freedom FM 106.5",
+        "Country": "TrinidadandTobago",
+        "Homepage": "https://www.freedomskn.com/",
+        "Source1": "https://media.slactech.com:8012/stream?1597658711680"
+    },
+    {
+        "Title": "Fully Catholic Radio",
+        "Country": "TrinidadandTobago",
+        "Favicon": "https://www.fullycatholic.com/wp-content/uploads/Fully-Catholic-Radio-Logo-NEW-w-Headset-1.png",
+        "Homepage": "https://www.fullycatholic.com/",
+        "Source1": "https://usa10.fastcast4u.com/fullycat2?x=1740578197868"
+    },
+    {
+        "Title": "Hot 93 - 93.5 - Port of Spain",
+        "Country": "TrinidadandTobago",
+        "Tags": "contemporary hits,port of spain,top 40",
+        "Language": "en",
+        "Homepage": "http://www.hott93.com/",
+        "Source1": "http://ice41.securenetsystems.net/HOTT93"
+    },
+    {
+        "Title": "Isaac 98.1fm",
+        "Country": "TrinidadandTobago",
+        "Tags": "christian,christian-gospel,gospel,jesus",
+        "Language": "en",
+        "Homepage": "http://www.isaac981.com/",
+        "Source1": "https://ice66.securenetsystems.net/FFBN?playSessionID=8D29A2B7-D966-0B14-AFCD7A340AFA6C15"
+    },
+    {
+        "Title": "JO Radio HD",
+        "Country": "TrinidadandTobago",
+        "Tags": "adult contemporary,gospel,r&b,reggae",
+        "Favicon": "https://app-c02qmnhobp4x.appmedo.com",
+        "Homepage": "https://app-c02qmnhobp4x.appmedo.com/",
+        "Source1": "https://medncxfardtsdpzezzsb.supabase.co/functions/v1/stream"
+    },
+    {
+        "Title": "LIT 102.3FM",
+        "Country": "TrinidadandTobago",
+        "Favicon": "https://i0.wp.com/lit102fm.com/wp-content/uploads/2021/05/lit-logo-500x500-1.png?w=500&ssl=1",
+        "Homepage": "https://lit102fm.com/",
+        "Source1": "https://s8.yesstreaming.net:17106/stream"
+    },
+    {
+        "Title": "Music Radio 97.1 FM",
+        "Country": "TrinidadandTobago",
+        "Favicon": "https://www.musicradio97.com/favicon.ico",
+        "Homepage": "https://www.musicradio97.com/",
+        "Latitude": 10.663917590013416,
+        "Longitude": -61.52004718780518,
+        "Source1": "https://ice42.securenetsystems.net/MR97?playSessionID=C3852F04-F653-4223-80E2177BC1CE1988"
+    },
+    {
+        "Title": "Radio Tambrin 92.7 - Scarborough",
+        "Country": "TrinidadandTobago",
+        "Tags": "caribbean music,local news,scarborough,talk radio,top 40",
+        "Language": "en",
+        "Homepage": "http://tambrintobago.com/",
+        "Source1": "http://ice42.securenetsystems.net/TAMBRIN"
+    },
+    {
+        "Title": "Sangee 106.1 fm",
+        "Country": "TrinidadandTobago",
+        "Tags": "music",
+        "Favicon": "null",
+        "Language": "hi",
+        "Homepage": "https://streams.radiomast.io/22e2c991-fc0c-4242-8cba-0a64d0aea809",
+        "Source1": "https://streams.radiomast.io/22e2c991-fc0c-4242-8cba-0a64d0aea809"
+    },
+    {
+        "Title": "Sangeet Fm",
+        "Country": "TrinidadandTobago",
+        "Tags": "music",
+        "Favicon": "null",
+        "Language": "hi",
+        "Homepage": "https://streams.radiomast.io/22e2c991-fc0c-4242-8cba-0a64d0aea809",
+        "Source1": "https://streams.radiomast.io/22e2c991-fc0c-4242-8cba-0a64d0aea809"
+    },
+    {
+        "Title": "Scorch Radio 101.1FM",
+        "Country": "TrinidadandTobago",
+        "Tags": "soca,various",
+        "Language": "en",
+        "Homepage": "https://www.thescorch.com/",
+        "Latitude": 10.667881618180168,
+        "Longitude": -61.52903488496883,
+        "Source1": "https://stream.velalabs.co/scorch"
+    },
+    {
+        "Title": "Slam 100.5",
+        "Country": "TrinidadandTobago",
+        "Tags": "music,urban",
+        "Favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240426_002405318.jpg?alt=media&token=93055922-497c-4979-b456-0ad25123152c",
+        "Language": "en",
+        "Homepage": "https://tbcradionetwork.co.tt/slam1005fm/",
+        "Source1": "https://www.radiomast.io/stream/68540e88-54b8-4924-b098-5a668f7da7b6/listen"
+    },
+    {
+        "Title": "Star 94.7",
+        "Country": "TrinidadandTobago",
+        "Favicon": "https://ojoworldtt.com/wp-content/uploads/2019/10/logo.png",
+        "Homepage": "https://ojoworldtt.com/",
+        "Latitude": 10.66628144351989,
+        "Longitude": -61.52452613463886,
+        "Source1": "https://fms.ttrn.org/live/star947.sdp/chunklist_w2060647527.m3u8"
+    },
+    {
+        "Title": "Talk City 91.1 FM",
+        "Country": "TrinidadandTobago",
+        "Homepage": "http://www.talkcity91fm.com/",
+        "Source1": "https://media.streambrothers.com:8450/stream"
+    },
+    {
+        "Title": "TAMBRIN",
+        "Country": "TrinidadandTobago",
+        "Tags": "pop",
+        "Source1": "https://ice42.securenetsystems.net/TAMBRIN"
+    },
+    {
+        "Title": "Vibe CT (Port of Spain)",
+        "Country": "TrinidadandTobago",
+        "Homepage": "https://tbcradionetwork.co.tt/vibect105fm/",
+        "Source1": "https://streams.radiomast.io/c35d311e-cc60-41b9-b0c5-339e62c14dee"
+    },
+    {
+        "Title": "Vibe CT 105",
+        "Country": "TrinidadandTobago",
+        "Homepage": "https://tbcradionetwork.co.tt/vibect105fm/",
+        "Source1": "https://audio-edge-vqwx4.yyz.g.radiomast.io/c35d311e-cc60-41b9-b0c5-339e62c14dee"
+    },
+    {
+        "Title": "Woods Hit Radio",
+        "Country": "TrinidadandTobago",
+        "Tags": "music,rock pop trinidad 80s 70s 90s",
+        "Favicon": "https://whrfm.webnode.page/favicon.ico",
+        "Homepage": "https://whrfm.webnode.page/",
+        "Source1": "https://stream.zeno.fm/2f33725t4mzuv"
+    },
+    {
+        "Title": "Woods Hit Radio AC",
+        "Country": "TrinidadandTobago",
+        "Tags": "70 80 hits,adult contemporary,classic hits,classic rock,classic rock oldies,music 70s 80s 90s,soft rock",
+        "Language": "ar,de,en,es,fr,it,pl,pt,ru",
+        "Homepage": "https://whrfm.webnode.page/",
+        "Latitude": 10.702785283785976,
+        "Longitude": -61.5529398488232,
+        "Source1": "https://cast4.asurahosting.com/proxy/nigel/stream"
+    }
+]

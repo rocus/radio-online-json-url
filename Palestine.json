@@ -1,0 +1,93 @@
+[
+    {
+        "Title": "#Radio Quran",
+        "Country": "Palestine",
+        "Tags": "classical",
+        "Source1": "https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g"
+    },
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "Palestine",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "Ajyal - Palestine",
+        "Country": "Palestine",
+        "Homepage": "https://arn.ps/",
+        "Source1": "https://streamer.mada.ps:8208/ajyal"
+    },
+    {
+        "Title": "Amen24",
+        "Country": "Palestine",
+        "Favicon": "https://amen24.ps/sites/default/files/amen-logo2_0.png",
+        "Homepage": "https://amen24.ps/",
+        "Source1": "https://rstream.hadara.ps/proxy/amen24/stream"
+    },
+    {
+        "Title": "CAMP Radio",
+        "Country": "Palestine",
+        "Homepage": "https://listen.camp/",
+        "Source1": "https://listen.camp:9000/campradio.ogg"
+    },
+    {
+        "Title": "Quran Radio Station-Nablus",
+        "Country": "Palestine",
+        "Tags": "arabic,islamic,nablus,quran,القرآن الكريم",
+        "Language": "ar",
+        "Homepage": "http://www.quran-radio.com/",
+        "Source1": "http://www.quran-radio.org:8002/"
+    },
+    {
+        "Title": "Radio AlHara",
+        "Country": "Palestine",
+        "Tags": "community radio",
+        "Favicon": "https://www.radioalhara.net/favicon.ico",
+        "Language": "ar,en",
+        "Homepage": "https://www.radioalhara.net/",
+        "Source1": "http://n02.radiojar.com/78cxy6wkxtzuv?1634328730=&rj-tok=AAABfIWfHK4AlWz8Q03vJJQdWw&rj-ttl=5"
+    },
+    {
+        "Title": "Radio alHara",
+        "Country": "Palestine",
+        "Tags": "community radio",
+        "Favicon": "https://yamakan.place/palestine/favicon.ico",
+        "Language": "ar,en",
+        "Homepage": "https://yamakan.place/palestine/",
+        "Source1": "http://n02.radiojar.com/78cxy6wkxtzuv?1634328730=&rj-tok=AAABfIWfHK4AlWz8Q03vJJQdWw&rj-ttl=5"
+    },
+    {
+        "Title": "Raya FM",
+        "Country": "Palestine",
+        "Tags": "news",
+        "Favicon": "https://static-roov.rctiplus.id/images/radio/raya-fm-1753330916.jpg",
+        "Homepage": "https://radiostream.novawap.com/",
+        "Source1": "https://rstream.hadara.ps/proxy/raya/stream"
+    },
+    {
+        "Title": "Sawt El Ghad - Tarab",
+        "Country": "Palestine",
+        "Tags": "oldies,tarab",
+        "Favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7bT8sxvjzHGaSGYnFogkr7zWi0Fjubf_E-lKsH42c7g&s=10",
+        "Language": "ar",
+        "Source1": "https://sawtelghad.org:7007/;"
+    },
+    {
+        "Title": "seba",
+        "Country": "Palestine",
+        "Tags": "classical",
+        "Source1": "http://213.6.93.254:8000/sebafm"
+    },
+    {
+        "Title": "راديو الناس",
+        "Country": "Palestine",
+        "Tags": "culture,music,news,talk",
+        "Favicon": "https://nasradio.fm/images/logo.png",
+        "Homepage": "https://nasradio.fm/",
+        "Latitude": 32.70075627080152,
+        "Longitude": 35.29718935489655,
+        "Source1": "https://cdna.streamgates.net/RadioNas/Live-Audio/icecast.audio"
+    }
+]

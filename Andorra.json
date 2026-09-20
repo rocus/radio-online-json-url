@@ -1,0 +1,84 @@
+[
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "Andorra",
+        "Favicon": "https://mp3islam.com/favicon.ico",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "Exa FM",
+        "Country": "Andorra",
+        "Tags": "93.3 fm,entretenimiento,español,estación,exa,exa fm,fm,juvenil,la estación exacta,la estación naranja,moi merino,mvs,mvs noticias,mvs radio,música en español e inglés,música pop,ponte exa,pop,pop en español e inglés,pop music,pop rock,radio",
+        "Favicon": "https://i.iheart.com/v3/re/new_assets/5f9883c7cde5eff19e6eabac",
+        "Language": "es",
+        "Homepage": "https://www.exafm.com/veracruz/",
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac"
+    },
+    {
+        "Title": "Flaix FM Andorra",
+        "Country": "Andorra",
+        "Tags": "hits,pop",
+        "Favicon": "https://upload.wikimedia.org/wikipedia/commons/6/65/Flaixfm_logo.jpg?utm_source=de.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+        "Language": "ca",
+        "Homepage": "https://flaixfm.cat/",
+        "Source1": "https://streaming.giraweb.com/8020/stream"
+    },
+    {
+        "Title": "Flaixbac Andorra",
+        "Country": "Andorra",
+        "Tags": "dance,pop,rock",
+        "Favicon": "https://flaixandorra.com/continguts/multimedia/imatges/8p0oa06li8kckkwosw.png",
+        "Language": "ca",
+        "Homepage": "https://flaixandorra.com/ca/",
+        "Source1": "https://streaming.giraweb.com/8010/stream"
+    },
+    {
+        "Title": "LOVE FM: Clàssics pop en espanyol dels 80s a avui",
+        "Country": "Andorra",
+        "Favicon": "https://i.postimg.cc/pd2qpS5j/lovefm1037.jpg",
+        "Homepage": "https://maxplay.com.mx/",
+        "Source1": "https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8"
+    },
+    {
+        "Title": "Radio Polignano Web",
+        "Country": "Andorra",
+        "Tags": "music",
+        "Favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240118_121521411.jpg?alt=media&token=81e90edb-f652-4d7f-8c7a-d46e675b0c68",
+        "Language": "it",
+        "Homepage": "https://sp3.server89.com:7018/",
+        "Source1": "https://sp3.server89.com:7018/"
+    },
+    {
+        "Title": "RadioSoleLuna",
+        "Country": "Andorra",
+        "Tags": "music",
+        "Language": "it",
+        "Homepage": "https://cast3.server89.com/radio/8040/radio.mp3",
+        "Source1": "https://cast3.server89.com/radio/8040/radio.mp3"
+    },
+    {
+        "Title": "Rádio Ondas de Portugal",
+        "Country": "Andorra",
+        "Tags": "fado,folclore,pimba,pop",
+        "Favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKoZnDF2FXEnZEimEZpmzDFSFwk7Jsera-ZF5RFkQErA&s=10",
+        "Language": "pt",
+        "Source1": "https://ssl.ndvendas.eu:9538/stream.mp3/;"
+    },
+    {
+        "Title": "tch",
+        "Country": "Andorra",
+        "Tags": "classical",
+        "Source1": "http://node-01.zeno.fm/bwrw9xcgqeruv"
+    },
+    {
+        "Title": "toker fm",
+        "Country": "Andorra",
+        "Tags": "religious",
+        "Favicon": "null",
+        "Language": "he",
+        "Homepage": "https://live.toker.fm:6060/;",
+        "Source1": "https://live.toker.fm:6060/;"
+    }
+]

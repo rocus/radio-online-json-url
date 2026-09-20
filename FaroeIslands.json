@@ -1,0 +1,126 @@
+[
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "FaroeIslands",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "Aldan: Hitt Radio",
+        "Country": "FaroeIslands",
+        "Favicon": "https://www.aldan.fo/wp-content/uploads/2026/01/aldan-fallback.jpg",
+        "Homepage": "https://www.aldan.fo/",
+        "Latitude": 62.113732920368435,
+        "Longitude": -6.723861694335945,
+        "Source1": "https://streaming.radio.co/s4d14b9fcc/listen"
+    },
+    {
+        "Title": "FM 1",
+        "Country": "FaroeIslands",
+        "Favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNnAiLldwgwC_aYC7S7jIF4o4Cv1wpvqRComHe-d9WKg&s",
+        "Language": "fo",
+        "Homepage": "https://www.fm1.fo/",
+        "Latitude": 62.02264892378686,
+        "Longitude": -6.764981746673585,
+        "Source1": "http://stream.midlar.fo/fm1-128"
+    },
+    {
+        "Title": "FM1 88,7",
+        "Country": "FaroeIslands",
+        "Homepage": "https://www.fm1.fo/",
+        "Latitude": 62.006685174835454,
+        "Longitude": -6.782800076055134,
+        "Source1": "https://stream-secure.midlar.fo/fm1-128"
+    },
+    {
+        "Title": "FM98,7",
+        "Country": "FaroeIslands",
+        "Favicon": "https://dvw7f7sqjk3ag.cloudfront.net/images/radio/62733.png",
+        "Language": "fo",
+        "Homepage": "https://stream.fo/",
+        "Source1": "http://lindinlow.stream.fo:8000/high"
+    },
+    {
+        "Title": "Kringvarp Føroya (KVF)",
+        "Country": "FaroeIslands",
+        "Tags": "faroe islands,national,news,public service",
+        "Language": "fo",
+        "Homepage": "http://kvf.fo/",
+        "Source1": "http://netvarp.kringvarp.fo:443/uvhm"
+    },
+    {
+        "Title": "KVF - Tingvarp",
+        "Country": "FaroeIslands",
+        "Homepage": "https://kvf.fo/live/tingvarp",
+        "Source1": "http://netvarp.kringvarp.fo:4443/tingvarp"
+    },
+    {
+        "Title": "KVF2",
+        "Country": "FaroeIslands",
+        "Language": "fo",
+        "Homepage": "https://www.kringvarp.fo/",
+        "Latitude": 62.02237318781896,
+        "Longitude": -6.786434054374696,
+        "Source1": "http://netvarp.kringvarp.fo:4443/kvf2_2"
+    },
+    {
+        "Title": "Lindin: Kristiligt Kringvarp",
+        "Country": "FaroeIslands",
+        "Favicon": "https://yzfwydwirfiyaapvbacl.supabase.co/storage/v1/object/public/rasa-assets/stations/f528bd9d-def2-446b-b22a-c78692b4e902/logo.webp?v=1775518735",
+        "Homepage": "https://lindin.fo/",
+        "Latitude": 62.01187442332388,
+        "Longitude": -6.771469116210931,
+        "Source1": "https://high.lindin.fo/"
+    },
+    {
+        "Title": "Norðlýsið",
+        "Country": "FaroeIslands",
+        "Tags": "klaksvík,local radio,nordlysid",
+        "Favicon": "https://stream.fo/wp-content/uploads/2026/07/New-Project.jpg",
+        "Language": "fo",
+        "Homepage": "https://nordlysid.fo/",
+        "Latitude": 62.231334308425666,
+        "Longitude": -6.597982048988343,
+        "Source1": "https://liveradio.stream.fo/listen/nordlysid/web"
+    },
+    {
+        "Title": "Rás 2",
+        "Country": "FaroeIslands",
+        "Tags": "faroe islands,rás 2,tónleikur",
+        "Language": "fo",
+        "Homepage": "http://www.midlar.fo/",
+        "Source1": "http://stream.midlar.fo/ras2"
+    },
+    {
+        "Title": "Sjey: Kristiligt Radio",
+        "Country": "FaroeIslands",
+        "Tags": "christian,faroe islands,religious",
+        "Favicon": "https://d371i8ihhgym7w.cloudfront.net/19234188.jpg",
+        "Language": "fo",
+        "Homepage": "https://sjey.fo/",
+        "Latitude": 62.01095050147503,
+        "Longitude": -6.775408387184151,
+        "Source1": "https://lurta.sjey.fo/high_aac"
+    },
+    {
+        "Title": "VoxPop",
+        "Country": "FaroeIslands",
+        "Tags": "faroe islands,tónleikur,voxpop",
+        "Language": "fo",
+        "Homepage": "http://www.midlar.fo/",
+        "Source1": "http://stream.midlar.fo/voxpop"
+    },
+    {
+        "Title": "VoxPop",
+        "Country": "FaroeIslands",
+        "Tags": "dance,electronic,electronic dance music,pop,pop dance",
+        "Favicon": "https://fm1-radio.netlify.app/img/voxpop-logo.ed3fcda5.png",
+        "Language": "fo",
+        "Homepage": "https://www.fm1.fo/",
+        "Latitude": 62.022657738331326,
+        "Longitude": -6.764995157718659,
+        "Source1": "https://stream-secure.midlar.fo/voxpop-128"
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "Niger",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "Radio BLAU Leipzig (trocken 320kbps)",
+        "Country": "Niger",
+        "Tags": "amateurfunk,bürgerradio",
+        "Homepage": "http://dasha.at/cxdashboard.html",
+        "Latitude": 61.873513926826575,
+        "Longitude": 130.94359874725345,
+        "Source1": "http://icecast.radioblau.de:8000/blau_320_dry"
+    },
+    {
+        "Title": "Radio Garkuwa 107 Maradi",
+        "Country": "Niger",
+        "Tags": "african music",
+        "Favicon": "https://www.facebook.com/favicon.ico",
+        "Language": "fr,ha",
+        "Homepage": "https://www.facebook.com/RadioGarkuwa/",
+        "Source1": "https://stream.zeno.fm/x0a1r1qu1nhvv"
+    },
+    {
+        "Title": "Wadata Radio 107.4 Niamey",
+        "Country": "Niger",
+        "Tags": "african music",
+        "Language": "fr",
+        "Homepage": "https://wadataradio.com/",
+        "Source1": "http://stream.zeno.fm/1y2c3qbgbchvv"
+    }
+]

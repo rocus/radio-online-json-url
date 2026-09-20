@@ -1,0 +1,738 @@
+[
+    {
+        "Title": "988 FM",
+        "Country": "Malaysia",
+        "Favicon": "https://www.988.com.my/wp-content/themes/988_web/assets/988-logo.png",
+        "Homepage": "https://www.988.com.my/on-air/",
+        "Latitude": 3.1333457105560716,
+        "Longitude": 101.64083617757768,
+        "Source1": "https://28103.live.streamtheworld.com/988_FMAAC.aac"
+    },
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "Malaysia",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "AFO Radio Chinese",
+        "Country": "Malaysia",
+        "Favicon": "https://manyfm.com/images/i125300.png",
+        "Language": "zh",
+        "Homepage": "https://aforadio.my/",
+        "Latitude": 3.1513251857588127,
+        "Longitude": 101.69528961181642,
+        "Source1": "https://stream.rcs.revma.com/7x3gv2y4bshvv"
+    },
+    {
+        "Title": "AFO Radio English",
+        "Country": "Malaysia",
+        "Favicon": "https://manyfm.com/images/i137564.png",
+        "Language": "en",
+        "Homepage": "https://aforadio.my/",
+        "Latitude": 3.137452260634087,
+        "Longitude": 101.6887664794922,
+        "Source1": "https://stream.rcs.revma.com/8150ezy4bshvv"
+    },
+    {
+        "Title": "ai fm",
+        "Country": "Malaysia",
+        "Tags": "various music",
+        "Favicon": "https://rtmklik.rtm.gov.my/favicon.ico",
+        "Homepage": "https://rtmklik.rtm.gov.my/radio/nasional/72171#!",
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/AI_FMAAC_SC"
+    },
+    {
+        "Title": "Ai FM",
+        "Country": "Malaysia",
+        "Favicon": "https://aifm.rtm.gov.my/storage/app/uploads/public/610/366/55c/61036655c4ab3209025602.png",
+        "Homepage": "https://www.aifm.net.my/",
+        "Latitude": 3.1388306481105968,
+        "Longitude": 101.65842994968284,
+        "Source1": "https://28153.live.streamtheworld.com/AI_FMAAC.aac"
+    },
+    {
+        "Title": "Alam MayaFM",
+        "Country": "Malaysia",
+        "Favicon": "http://www.liveonlineradio.net/wp-content/uploads/2018/02/Alam-MayaFM.jpg",
+        "Homepage": "http://alammayafm.blogspot.my/",
+        "Source1": "http://192.99.8.192:3142/;"
+    },
+    {
+        "Title": "Alam Seni FM",
+        "Country": "Malaysia",
+        "Tags": "folk",
+        "Favicon": "https://1.bp.blogspot.com/-HXYprU2Y6L0/YYuqPQufTkI/AAAAAAAAbDs/PGH5B1paV3QGhoGrC4Q-3Ju4fahuGJnUACLcBGAsYHQ/s400/aseni2021.png",
+        "Homepage": "https://alamsenifm.blogspot.com/",
+        "Source1": "http://s1.cmesolution.my:6178/stream.mp3"
+    },
+    {
+        "Title": "ALL FM [91.9]",
+        "Country": "Malaysia",
+        "Favicon": "https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2FQPWwAYST1PLLnVKiDmft7aU5zIvvnpmWHliin96PyrI%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zLzA3ZDU5OTIyLTI1NWUtNGJlOS1hNjA3LWY0NzVkOTU5NDMxOS9pbWFnZS8_dXBkYXRlZD0xNzExOTYxNzY3MDAw.webp&w=1920&q=100",
+        "Language": "en",
+        "Homepage": "https://zeno.fm/radio/all-fm-91-9-mhz/",
+        "Source1": "https://stream.zeno.fm/srrbpsu3tbdvv"
+    },
+    {
+        "Title": "Amboi FM",
+        "Country": "Malaysia",
+        "Favicon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEib54xrfaC80eyBw6RaeV3k4RJeZWMuBgkSl6yEuBftL4OMEFAoWzNVdxzoFmT7Gifvi_k4O9Gm8oBnqDSdG66ENvUSOIlZxl_SXS8LuTocBjClSuIO5ATe66ecVLYdBUky6RPFc7rfISc/s1600/Logo3+edited.jpg",
+        "Homepage": "http://amboifm.blogspot.com/?m=0",
+        "Source1": "http://amboifm.iradio.work:8000/listen.pls"
+    },
+    {
+        "Title": "ANAstation",
+        "Country": "Malaysia",
+        "Homepage": "https://zeno.fm/",
+        "Source1": "https://stream.zeno.fm/tf79rp6qg48uv"
+    },
+    {
+        "Title": "Asyik FM",
+        "Country": "Malaysia",
+        "Tags": "alternative / indie,local music,pop,pop rock,top hits",
+        "Favicon": "https://upload.wikimedia.org/wikipedia/en/b/b3/Asyik_FM_Logo.PNG",
+        "Language": "ms",
+        "Homepage": "https://rtm.gov.my/",
+        "Source1": "http://playerservices.streamtheworld.com/api/livestream-redirect/ASYIK_FM.mp3"
+    },
+    {
+        "Title": "BFM 89.9",
+        "Country": "Malaysia",
+        "Tags": "news",
+        "Favicon": "https://www.bfm.my/favicon.ico",
+        "Language": "en",
+        "Homepage": "https://www.bfm.my/",
+        "Source1": "https://stream.rcs.revma.com/s91qy9p0zs3vv"
+    },
+    {
+        "Title": "BIGCOWFM 大牛网络电台 马来西亚中文网络电台",
+        "Country": "Malaysia",
+        "Tags": "music,youth",
+        "Favicon": "https://bigcowfm.com/wp-content/uploads/2024/01/bigcowFM_2024logo.png",
+        "Language": "zh",
+        "Homepage": "https://bigcowfm.com/",
+        "Source1": "https://tune.tunzilla.com/http://onairnow.ddns.net:8000/chinese.mp3"
+    },
+    {
+        "Title": "Cats FM",
+        "Country": "Malaysia",
+        "Language": "en",
+        "Homepage": "https://www.catsfm.my/",
+        "Source1": "https://stream.rcs.revma.com/51qe53rv0y3vv.m4a"
+    },
+    {
+        "Title": "Ceritera FM",
+        "Country": "Malaysia",
+        "Tags": "classic rock,local music,local news,pop music",
+        "Favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7mr6C53XYWJoBsWLkU873LZx6GjruZ4111A&usqp=CAU",
+        "Language": "ms",
+        "Homepage": "http://ceriterafm.my/",
+        "Source1": "http://live.ceriterafm.my:8000/"
+    },
+    {
+        "Title": "CITYPlus FM",
+        "Country": "Malaysia",
+        "Favicon": "https://cityplusfm.my/wp-content/uploads/2025/07/LOGO_画板-1-300x300.png",
+        "Language": "cmn,zh",
+        "Homepage": "https://cityplusfm.my/",
+        "Source1": "https://stream.rcs.revma.com/9ykdmcawe1bwv"
+    },
+    {
+        "Title": "Delima FM",
+        "Country": "Malaysia",
+        "Favicon": "http://delimafm.blogspot.com/favicon.ico",
+        "Homepage": "http://delimafm.blogspot.com/",
+        "Source1": "http://167.114.131.90:5610/;"
+    },
+    {
+        "Title": "DJ DUGEM",
+        "Country": "Malaysia",
+        "Tags": "dance,easy listening,general,local music,pop music,pop rock",
+        "Favicon": "https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2Fv0G0z5HIjhNybkdJzkLl4uSR_Fr72eWbKEvZ7eqiM6c%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zLzQ3YTM4MWQ0LWM2NjgtNGFiNC04NGFmLWU1MTgzZmM0ZTA2NC9pbWFnZS8_dXBkYXRlZD0xNzA0OTgzODcxMDAw.webp&w=750&q=100",
+        "Language": "ms",
+        "Homepage": "https://zeno.fm/",
+        "Source1": "https://stream.zeno.fm/ooaqxeogpfdvv"
+    },
+    {
+        "Title": "Dunia Muzik FM",
+        "Country": "Malaysia",
+        "Tags": "oldies,rock",
+        "Homepage": "https://xat.com/duniamuzikfm",
+        "Source1": "http://185.109.169.80:8009/stream"
+    },
+    {
+        "Title": "Eight无限 FM",
+        "Country": "Malaysia",
+        "Tags": "contemporary hit radio",
+        "Favicon": "https://assets-mpa.eight.audio/media/Logo/logo-eight-wu-xian-1000x1000-09.jpg",
+        "Language": "cmn,zh",
+        "Homepage": "https://www.eight.audio/",
+        "Source1": "https://stream.rcs.revma.com/qp0xrd9mtd3vv"
+    },
+    {
+        "Title": "ERA FM",
+        "Country": "Malaysia",
+        "Favicon": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fastromedia.com.my%2Four_brands%2Fdigital-advertising%2Fera%2F&psig=AOvVaw0_msqzV89WfcT2jzgWU5lK&ust=1736822940550000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOCls-XX8YoDFQAAAAAdAAAAABAE",
+        "Homepage": "https://era.syok.my/",
+        "Source1": "https://n17a-eu.rcs.revma.com/crec9cmbv4uvv/23_11p2ghidfhj2d02/playlist.m3u8?rj-ttl=5&rj-tok=AAABlF2WiCgAJUPufokb6G0b3Q"
+    },
+    {
+        "Title": "era sarawak",
+        "Country": "Malaysia",
+        "Homepage": "https://audio1.syok.my/amp-era-kch",
+        "Source1": "https://n10.rcs.revma.com/bkqfqkrbv4uvv/10_6dkcmkt5m85u02/playlist.m3u8"
+    },
+    {
+        "Title": "FAKHRULNOIR FM",
+        "Country": "Malaysia",
+        "Favicon": "https://zeno.fm/favicon.ico",
+        "Homepage": "https://zeno.fm/",
+        "Source1": "https://stream.zeno.fm/z53ycf1iwhnvv"
+    },
+    {
+        "Title": "FFM",
+        "Country": "Malaysia",
+        "Tags": "alternative / indie,classic hits,classic rock,local music,local news,pop rock,rock,top hits",
+        "Favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDwIFRZHu0NNH_WMStgQ4YqD6jSgnwQnMbP65ZbEMU8RSF6A1hsBTNbmc&s=10",
+        "Language": "ms",
+        "Homepage": "https://www.facebook.com/",
+        "Source1": "http://167.114.131.90:5968/ffm"
+    },
+    {
+        "Title": "Fly FM",
+        "Country": "Malaysia",
+        "Tags": "hot adult contemporary",
+        "Favicon": "https://assets-mpa.flyfm.audio/media/Logo/profile_photo_1000x1000-04.jpg",
+        "Language": "en",
+        "Homepage": "https://www.flyfm.audio/",
+        "Source1": "https://stream.rcs.revma.com/q17aka9mtd3vv"
+    },
+    {
+        "Title": "Gegar Musik FM",
+        "Country": "Malaysia",
+        "Favicon": "https://3.bp.blogspot.com/-lnJT1kMFO34/XMbKVtofavI/AAAAAAAAAHY/CarM8YkIw2E9o7QNXD2QF5YG27KfDkxFQCLcBGAs/s1600/received_1034045073452429.png",
+        "Homepage": "https://gegarmuzikfm.blogspot.com/2018/04/gegarmuzikfm.html?m=1",
+        "Source1": "http://167.114.131.90:5316/stream/1/"
+    },
+    {
+        "Title": "GeGar Muzik FM",
+        "Country": "Malaysia",
+        "Favicon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEie__OgjMEpFaTgcnehruvZX0UvTWmnEQr1JWK4MJ2HewULVmoSLWT_iRv8v008duMvIIvDD5a-egT6iKOSTmeXhe_Grabae9GUpgvKJBAbu6sW9_wnTRjTgvCmlom_UHeg5Hw5r5WcxCY/s72-c/received_2119351704769153.png",
+        "Homepage": "http://gegarmuzikfm.blogspot.com/?m=1",
+        "Source1": "https://usa3.fastcast4u.com/proxy/gegarmuzikfm?mp=/1"
+    },
+    {
+        "Title": "Gemersik FM",
+        "Country": "Malaysia",
+        "Favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz7fWHlrzQLf54yfgOeC8pdgj63XSwcXZCFQ&usqp=CAU",
+        "Homepage": "http://gemersikfm.iradio.work/",
+        "Source1": "http://gemersikfm.iradio.work:8000/;"
+    },
+    {
+        "Title": "Gold",
+        "Country": "Malaysia",
+        "Homepage": "https://radiomalaysia.net/gold-fm.html",
+        "Source1": "https://ss1.audiorama.com.mx:6584/https://radiomalaysia.net/gold-fm.html"
+    },
+    {
+        "Title": "GOXUAN",
+        "Country": "Malaysia",
+        "Favicon": "https://media2.fishtank.my/app_themes/goxuan/assets/images/landscape_goxuan.png",
+        "Homepage": "https://goxuan.syok.my/",
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/RAKITAAAC.aac",
+        "Source2": "https://n07a-eu.rcs.revma.com/xt9nhzsbv4uvv/7_1kpxic2j08fx102/playlist.m3u8?rj-ttl=5&rj-tok=AAABkBoH3fsAEu93wxYlLEnxBQ"
+    },
+    {
+        "Title": "HITZ | Malaysia's #1 Hit Music Station - All the hitz, all the time!",
+        "Country": "Malaysia",
+        "Tags": "contemporary hits,pop,top 40",
+        "Language": "en",
+        "Homepage": "https://hitz.syok.my/",
+        "Source1": "https://stream-eu-a.rcs.revma.com/488kt4sbv4uvv/68_1txzsglqw5l3t02/playlist.m3u8"
+    },
+    {
+        "Title": "HITZ | Malaysia's #1 Hit Music Station - All the hitz, all the time!",
+        "Country": "Malaysia",
+        "Favicon": "https://en.wikipedia.org/wiki/Hitz_%28radio_station%29#/media/File:Hitz_(2018).svg",
+        "Language": "en",
+        "Homepage": "https://hitz.com.my/",
+        "Latitude": 3.0256694725067166,
+        "Longitude": 101.700439453125,
+        "Source1": "https://stream.rcs.revma.com/488kt4sbv4uvv"
+    },
+    {
+        "Title": "Hot FM Malaysia",
+        "Country": "Malaysia",
+        "Tags": "adult contemporary,contemporary,contemporary hits,hits",
+        "Favicon": "https://assets-mpa.hotfm.audio/media/Logo/profile_photo_1000x1000-01_v2.jpg",
+        "Language": "ms",
+        "Homepage": "https://www.hotfm.audio/",
+        "Source1": "https://stream.rcs.revma.com/drakdf8mtd3vv/hls.m3u8"
+    },
+    {
+        "Title": "IKIM FM",
+        "Country": "Malaysia",
+        "Homepage": "https://ikimfm.my/",
+        "Latitude": 3.1234738101749353,
+        "Longitude": 101.65853898552274,
+        "Source1": "https://ais-sa8.cdnstream1.com/5035/playlist.m3u8"
+    },
+    {
+        "Title": "ILA FM",
+        "Country": "Malaysia",
+        "Favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfkBlRKXTqKKyA-0V9Qcaw829xznVjBujAww&usqp=CAU",
+        "Language": "ms",
+        "Homepage": "https://ilafm.blogspot.com/",
+        "Source1": "http://s1.cmesolution.my:5442/"
+    },
+    {
+        "Title": "Impian FM",
+        "Country": "Malaysia",
+        "Tags": "classic rock,etnic",
+        "Homepage": "http://impianfm.blogspot.com/",
+        "Source1": "http://167.114.131.90:6156/stream/1/"
+    },
+    {
+        "Title": "Jazz Lounge",
+        "Country": "Malaysia",
+        "Tags": "320kbps,classic jazz,jazz,smooth jazz",
+        "Language": "en",
+        "Homepage": "http://shoutcast.flashradio.info/#/Jazz/1292701/",
+        "Source1": "http://eu8.fastcast4u.com:5068/;"
+    },
+    {
+        "Title": "JEI FM",
+        "Country": "Malaysia",
+        "Homepage": "http://jeifm.com/",
+        "Source1": "https://usa3.fastcast4u.com/proxy/jeifm?mp=/1"
+    },
+    {
+        "Title": "Jei FM Klang Tamil Radio",
+        "Country": "Malaysia",
+        "Tags": "klang,kollywood,malaysia,panpalai,south indian,tamil,tamil music,tamil radio",
+        "Language": "ta",
+        "Homepage": "http://www.jeifm.com/",
+        "Source1": "https://usa3.fastcast4u.com/proxy/jeifm?mp=/1"
+    },
+    {
+        "Title": "KCFM Radio",
+        "Country": "Malaysia",
+        "Tags": "ballads,malaysia,malaysian pop,pop,r&b,rock",
+        "Language": "ms",
+        "Homepage": "http://www.kcfm.org/",
+        "Source1": "http://www.kcfm.org:8000/stream"
+    },
+    {
+        "Title": "Kelantan FM",
+        "Country": "Malaysia",
+        "Tags": "local music,old music,slow rock",
+        "Favicon": "https://static.mytuner.mobi/media/tvos_radios/XZGnRuLMS4.jpg",
+        "Language": "ms",
+        "Homepage": "https://kelantanfm.rtm.gov.my/",
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/KELANTAN_FMAAC.aac"
+    },
+    {
+        "Title": "Keningau FM",
+        "Country": "Malaysia",
+        "Homepage": "https://keningaufm.rtm.gov.my/",
+        "Source1": "http://playerservices.streamtheworld.com/api/livestream-redirect/KENINGAU_FM.mp3"
+    },
+    {
+        "Title": "Klasik FM 101,1 MHz",
+        "Country": "Malaysia",
+        "Language": "ms",
+        "Homepage": "https://radioklasik.rtm.gov.my/",
+        "Source1": "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KLASIK.mp3"
+    },
+    {
+        "Title": "Langkawi FM",
+        "Country": "Malaysia",
+        "Homepage": "https://langkawifm.rtm.gov.my/",
+        "Source1": "http://playerservices.streamtheworld.com/api/livestream-redirect/LANGKAWI_FM.mp3"
+    },
+    {
+        "Title": "LITE FM Malaysia",
+        "Country": "Malaysia",
+        "Tags": "1960s,1970s,1980s,1990s,classic hits",
+        "Favicon": "https://media2.fishtank.my/stations/lite/2025/lite_square_updated.png",
+        "Language": "en",
+        "Homepage": "https://lite.syok.my/",
+        "Source1": "https://stream.rcs.revma.com/bn4ex8sbv4uvv"
+    },
+    {
+        "Title": "LTFM Radio",
+        "Country": "Malaysia",
+        "Tags": "ballads,classic rock,malaysia,malaysian pop,r&b,rock",
+        "Language": "ms",
+        "Homepage": "http://ltfmonline.com/",
+        "Source1": "http://live.ltfmonline.com:8000/stream"
+    },
+    {
+        "Title": "LTR FM Radio Music",
+        "Country": "Malaysia",
+        "Favicon": "https://zeno.fm/favicon.ico",
+        "Homepage": "https://zeno.fm/",
+        "Source1": "https://stream.zeno.fm/p1ddt1trwchvv"
+    },
+    {
+        "Title": "Melody FM Malaysia",
+        "Country": "Malaysia",
+        "Tags": "classical",
+        "Favicon": "https://media2.fishtank.my/app_themes/melody/ico/apple-icon-120x120.png",
+        "Homepage": "https://melody.syok.my/",
+        "Source1": "https://n09.rcs.revma.com/2u1n6dtbv4uvv/9_11l86ncot7z1w02/playlist.m3u8"
+    },
+    {
+        "Title": "MIB radio",
+        "Country": "Malaysia",
+        "Homepage": "https://zeno.fm/",
+        "Source1": "https://stream.zeno.fm/bm557kzmr18uv"
+    },
+    {
+        "Title": "Minnal FM",
+        "Country": "Malaysia",
+        "Favicon": "https://rtm-images.glueapi.io/420x0/radio-asset/MINNAL_FM.png",
+        "Homepage": "https://rtmklik.rtm.gov.my/radio/nasional/32964",
+        "Source1": "https://28153.live.streamtheworld.com/MINNAL_FMAAC.aac"
+    },
+    {
+        "Title": "MIX 94.5 FM Malaysia",
+        "Country": "Malaysia",
+        "Favicon": "https://online-radio.my/uploads/img/mix.jpg",
+        "Homepage": "https://online-radio.my/34-mix.html",
+        "Source1": "https://n28a-eu.rcs.revma.com/v5pq3htbv4uvv/40_wqselj3z5ieg02/playlist.m3u8?rj-ttl=5&rj-tok=AAABjkaPjccA_nBeuk7GvQZBZg"
+    },
+    {
+        "Title": "Music Vault FM",
+        "Country": "Malaysia",
+        "Favicon": "https://zeno.fm/_ipx/_/https://images.zeno.fm/dHDXas3CTU52dDLwT-Qd44DcwYQlGUEafEtZNhWc0xs/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvMmZkNzg4YWEtNDlhYi00Zjc3LTllZmYtMDU1OTMyNGQyZDhlL2ltYWdlLz91PTE3NDUyMzUxMDUwMDA.webp",
+        "Homepage": "https://zeno.fm/radio/music-vault/",
+        "Source1": "https://stream.zeno.fm/zqxbxkviipcvv"
+    },
+    {
+        "Title": "MY FM",
+        "Country": "Malaysia",
+        "Favicon": "https://media2.fishtank.my/stations/my/square_md.jpg",
+        "Homepage": "https://audio1.syok.my/myfm",
+        "Source1": "https://n38a-eu.rcs.revma.com/hc3unrtbv4uvv/56_1t996oveblvvv02/playlist.m3u8?rj-ttl=5&rj-tok=AAABkBt1aCUAlkmmsnXss9i2gw"
+    },
+    {
+        "Title": "MYFM (101.80)",
+        "Country": "Malaysia",
+        "Favicon": "https://cdn.webrad.io/images/logos/radioonline-my/myfm.png",
+        "Homepage": "https://my.syok.my/",
+        "Latitude": 3.1510645156499124,
+        "Longitude": 101.69270642703442,
+        "Source1": "https://n38a-eu.rcs.revma.com/hc3unrtbv4uvv/56_1t996oveblvvv02/playlist.m3u8?rj-ttl=5&rj-tok=AAABjmQzlooA5VQ0LCn-yOlhmQ"
+    },
+    {
+        "Title": "MyFriends Station",
+        "Country": "Malaysia",
+        "Tags": "classic rock,local music,pop rock,rock",
+        "Favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFrUvNKvz5C-uACMOrwvTwbg9MXwZwMHCh5A&usqp=CAU",
+        "Language": "ms",
+        "Homepage": "https://myfriendsstation.blogspot.com/",
+        "Source1": "https://cast3.asurahosting.com/proxy/myfriend/stream"
+    },
+    {
+        "Title": "Nasheed FM",
+        "Country": "Malaysia",
+        "Tags": "islamic,islamic music",
+        "Favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMtFms2E4wIYv9qfuFtZQzUBd5RinlGvaN5A&usqp=CAU",
+        "Language": "ms",
+        "Homepage": "https://www.nasyidfm.com/",
+        "Source1": "http://stereo.nasyidfm.com:8000/"
+    },
+    {
+        "Title": "Nasional FM 88,5 MHz",
+        "Country": "Malaysia",
+        "Language": "ms",
+        "Homepage": "https://nasionalfm.rtm.gov.my/",
+        "Source1": "http://playerservices.streamtheworld.com/api/livestream-redirect/NASIONAL_FM.mp3"
+    },
+    {
+        "Title": "Pahang FM",
+        "Country": "Malaysia",
+        "Language": "ms",
+        "Homepage": "https://pahangfm.rtm.gov.my/",
+        "Latitude": 3.789415311597767,
+        "Longitude": 103.31619948148727,
+        "Source1": "https://28163.live.streamtheworld.com/PAHANG_FMAAC.aac"
+    },
+    {
+        "Title": "PBN Radio Nurani",
+        "Country": "Malaysia",
+        "Homepage": "https://zeno.fm/",
+        "Source1": "https://stream.zeno.fm/2uyfsr25sm0uv"
+    },
+    {
+        "Title": "Raaga",
+        "Country": "Malaysia",
+        "Homepage": "https://raaga.syok.my/",
+        "Source1": "https://n06.rcs.revma.com/1ut6qwtbv4uvv"
+    },
+    {
+        "Title": "Radio",
+        "Country": "Malaysia",
+        "Source1": "http://ssl.geckohost.nz:9191/autodj"
+    },
+    {
+        "Title": "Radio Klasik (Klasik Nasional)",
+        "Country": "Malaysia",
+        "Tags": "classic",
+        "Language": "ms",
+        "Homepage": "https://rtmklik.rtm.gov.my/radio/nasional/radio-klasik",
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KLASIKAAC_SC"
+    },
+    {
+        "Title": "Radio Klate Kito",
+        "Country": "Malaysia",
+        "Tags": "islamic",
+        "Favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYp5ZUeDgfD_LLH2844ShGReYUMvKdwdkGYUAl-hkg_Tckvh-z3NETWG4&s=10",
+        "Homepage": "https://www.facebook.com/",
+        "Source1": "http://s6.voscast.com:9748/"
+    },
+    {
+        "Title": "Radio KPKT",
+        "Country": "Malaysia",
+        "Tags": "adult contemporary,contemporary hits,indie,local government,local news,malaysian pop,pop,rap hiphop rnb",
+        "Favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw2Ur73-svkvRxuUP9Ob3WQhspOkLSFHJ8Fg&usqp=CAU",
+        "Language": "ms",
+        "Homepage": "http://radio.kpkt.gov.my/",
+        "Source1": "http://listen.kpkt.gov.my:8000/stream"
+    },
+    {
+        "Title": "Radio Maya Online",
+        "Country": "Malaysia",
+        "Tags": "easy listening,jazz,latin salsa,music,pop",
+        "Homepage": "https://www.facebook.com/",
+        "Source1": "http://s1.cmesolution.my:5266/"
+    },
+    {
+        "Title": "Radio Rosak",
+        "Country": "Malaysia",
+        "Tags": "alternative rock,jazz,pop dance",
+        "Language": "ms",
+        "Homepage": "http://radiorosak.com/",
+        "Source1": "https://radiorosak.radioca.st/stream"
+    },
+    {
+        "Title": "Red FM",
+        "Country": "Malaysia",
+        "Tags": "full service",
+        "Favicon": "https://zuiai.tv/zb_users/upload/2026/2/2026021770053457_mini.jpg",
+        "Language": "en,zh",
+        "Homepage": "https://so.zuiai.tv/link/?s=https://www.rtm.gov.my/",
+        "Source1": "https://22253.live.streamtheworld.com/RED_FMAAC.aac"
+    },
+    {
+        "Title": "REDfm",
+        "Country": "Malaysia",
+        "Tags": "adult contemporary,classic hits,classical,contemporary pop,easy listening,feel good,local news,man,mandopop,pop,pop music,relaxing,soft rock,top 40",
+        "Favicon": "https://radio.rtm.gov.my/storage/stations/1777447046-gemini-generated-image-chd08qchd08qchd0.png",
+        "Language": "en,zh",
+        "Homepage": "https://radio.rtm.gov.my/station/red-fm",
+        "Latitude": 1.5539071244928604,
+        "Longitude": 110.34106582403184,
+        "Source1": "https://22273.live.streamtheworld.com/RED_FMAAC.aac"
+    },
+    {
+        "Title": "Rentak Pelangi Muzik FM",
+        "Country": "Malaysia",
+        "Homepage": "https://www.rentakpelangifm.com/?m=1",
+        "Source1": "http://stream.tujuh.my:8006/stream"
+    },
+    {
+        "Title": "Rentak Pelangi MuzikFM",
+        "Country": "Malaysia",
+        "Favicon": "http://www.rentakpelangifm.com/favicon.ico",
+        "Homepage": "http://www.rentakpelangifm.com/?m=1",
+        "Source1": "http://stream.tujuh.my/proxy/rpmfm/stream"
+    },
+    {
+        "Title": "Repair Segala",
+        "Country": "Malaysia",
+        "Homepage": "https://zeno.fm/",
+        "Source1": "https://stream.zeno.fm/0245ew03ekhvv"
+    },
+    {
+        "Title": "Sabah FM",
+        "Country": "Malaysia",
+        "Homepage": "https://sabahfm.rtm.gov.my/",
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/SABAH_FMAAC.aac"
+    },
+    {
+        "Title": "Sinar FM",
+        "Country": "Malaysia",
+        "Favicon": "https://radio-online.my/storage/radios/8384/45312/conversions/aKWaLIfLRFuSBriZVWgA3q2vOUg8II-metac2luYXIxMTEucG5n--lg.webp",
+        "Homepage": "https://audio1.syok.my/sinar",
+        "Latitude": 3.039268983588948,
+        "Longitude": 101.69195260875358,
+        "Source1": "https://n08a-eu.rcs.revma.com/azatk0tbv4uvv/8_1ksmof3jo7vso02/playlist.m3u8"
+    },
+    {
+        "Title": "SkyChatzFM",
+        "Country": "Malaysia",
+        "Tags": "mixed",
+        "Homepage": "http://live.skychatz.org/",
+        "Latitude": 1.5023798387201324,
+        "Longitude": 103.73840332031251,
+        "Source1": "http://java.skychatz.org:8080/;stream/1"
+    },
+    {
+        "Title": "Slow Rock 90'",
+        "Country": "Malaysia",
+        "Tags": "90's,classic rock,general,rock,slow rock",
+        "Favicon": "https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2FrKtC0NpB5ZmSBUWmZtAUn1sM1w_Owj9kNo-Xuc310Ak%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zLzg3MzhjNDA0LTMzODItNDgxMC04YWE3LTEwZjE3MjE2ZGRjZC9pbWFnZS8_dXBkYXRlZD0xNzAyNjMxMzU2MDAw.webp&w=750&q=100",
+        "Language": "ms",
+        "Homepage": "https://zeno.fm/",
+        "Source1": "https://stream.zeno.fm/hiut6cwfoneuv"
+    },
+    {
+        "Title": "Stay.FM",
+        "Country": "Malaysia",
+        "Tags": "easy listening,hits,jazz,music,pop,soul",
+        "Favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQusYGyHO1SmhC2EZnxiKmaJOrBz0WaYzn04PhKXgJChNkDYFlu5RNxxk3p&s=10",
+        "Homepage": "https://stayfm.com/",
+        "Source1": "https://stayfm.com:8443/archive"
+    },
+    {
+        "Title": "Suria fm",
+        "Country": "Malaysia",
+        "Language": "ms",
+        "Homepage": "https://mifntechnology.github.io/siaranMy/radio/SuriaFm/playlist.m3u8",
+        "Latitude": 3.1561994128869655,
+        "Longitude": 101.6857910086401,
+        "Source1": "https://mifntechnology.github.io/siaranMy/radio/SuriaFm/playlist.m3u8"
+    },
+    {
+        "Title": "Suriafm",
+        "Country": "Malaysia",
+        "Language": "ms",
+        "Homepage": "https://dengar.suria.my/",
+        "Latitude": 3.149904006134727,
+        "Longitude": 101.69403076259188,
+        "Source1": "https://mifntechnology.github.io/siaranMy/radio/SuriaFm/playlist.m3u8"
+    },
+    {
+        "Title": "Terengganu FM",
+        "Country": "Malaysia",
+        "Tags": "classic rock,local government,local music,local radio,pop music",
+        "Favicon": "https://play-lh.googleusercontent.com/8Nd8meMq2CHdCKYvTf1-P-noukb-7oMFtEAdpwu7mNvrVJHVqDsweS80pwJ2gjxvlA=w240-h480-rw",
+        "Language": "ms",
+        "Homepage": "https://terengganufm.rtm.gov.my/",
+        "Source1": "https://22243.live.streamtheworld.com/TERENGGANU_FMAAC_SC"
+    },
+    {
+        "Title": "THR Gegar",
+        "Country": "Malaysia",
+        "Language": "en,ms",
+        "Homepage": "https://gegar.syok.my/",
+        "Latitude": 3.147382937007095,
+        "Longitude": 101.69734954833986,
+        "Source1": "https://n09.rcs.revma.com/cn0zcqsbv4uvv/9_1i7eg69ua9k0u02/playlist.m3u8"
+    },
+    {
+        "Title": "THR Gegar Pilihan #1 Pantai Timur",
+        "Country": "Malaysia",
+        "Tags": "#1 pilihan pantai timur,entertaining segments,mix genres",
+        "Favicon": "https://cdn-profiles.tunein.com/s3129/images/logod.jpg",
+        "Language": "ms",
+        "Homepage": "https://gegar.syok.my/",
+        "Latitude": 6.091077649751559,
+        "Longitude": 102.24220275878908,
+        "Source1": "https://stream-eu-a.rcs.revma.com/cn0zcqsbv4uvv/36_1nbhrvq7qpz1h02/playlist.m3u8"
+    },
+    {
+        "Title": "TMM2 FM",
+        "Country": "Malaysia",
+        "Homepage": "https://zeno.fm/",
+        "Source1": "https://stream.zeno.fm/mq0pxfsf0chvv"
+    },
+    {
+        "Title": "Traxx FM",
+        "Country": "Malaysia",
+        "Homepage": "https://traxxfm.rtm.gov.my/",
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/TRAXX_FMAAC_SC"
+    },
+    {
+        "Title": "Traxx FM",
+        "Country": "Malaysia",
+        "Favicon": "https://thumb.wikimedia.org/wikipedia/en/thumb/e/e7/TraXX_FM.png/250px-TraXX_FM.png",
+        "Language": "en",
+        "Homepage": "https://radio.rtm.gov.my/station/traxxfm",
+        "Latitude": 3.0880867274820387,
+        "Longitude": 101.66404724121097,
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/TRAXX_FMAAC_SC"
+    },
+    {
+        "Title": "TraXXFM [90.3 / 100.1]",
+        "Country": "Malaysia",
+        "Favicon": "https://cdn.instant.audio/images/logos/radioonline-my/traxx-kuala-lumpur.png",
+        "Language": "en",
+        "Homepage": "https://traxxfm.rtm.gov.my/",
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/TRAXX_FMAAC_SC"
+    },
+    {
+        "Title": "Vision.FM",
+        "Country": "Malaysia",
+        "Tags": "malaysian pop,music,pop",
+        "Favicon": "https://cdn-radiotime-logos.tunein.com/s84847d.png",
+        "Language": "ms",
+        "Homepage": "http://www.fmradiovision.com/",
+        "Source1": "http://cloud.tujuh.my:8018/stream?type=.mp3/"
+    },
+    {
+        "Title": "Wadah FM",
+        "Country": "Malaysia",
+        "Tags": "classic rock,local music,local news,pop",
+        "Language": "ms",
+        "Homepage": "https://www.facebook.com/",
+        "Source1": "https://19183.live.streamtheworld.com/WARNA942FMAAC.aac"
+    },
+    {
+        "Title": "WAI FM Bidayuh",
+        "Country": "Malaysia",
+        "Tags": "classic hits,classic rock,easy listening,jazz,local government,news talk,pop,pop rock,public service,smooth jazz,top hits",
+        "Favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8pbcoyYJNxHDp-knMnAy2Nolw0_8MjY5DRQ&usqp=CAU",
+        "Language": "ms",
+        "Homepage": "https://waifmbidayuh.rtm.gov.my/",
+        "Source1": "http://playerservices.streamtheworld.com/api/livestream-redirect/WAI_FM_BK.mp3"
+    },
+    {
+        "Title": "WAI FM IBAN",
+        "Country": "Malaysia",
+        "Tags": "ethnic,local music,local news,news talk,pop",
+        "Favicon": "https://play-lh.googleusercontent.com/uxM8yNfSSSXXmrI2Jft9Md3V-SrlyBl8XYk1YrnEXykn71l3AK8g8_kjQsFk1lLi-hM=w600-h300-pc0xffffff-pd",
+        "Language": "ms",
+        "Homepage": "https://rtm.gov.my/",
+        "Source1": "http://playerservices.streamtheworld.com/api/livestream-redirect/WAI_FM_IBAN.mp3"
+    },
+    {
+        "Title": "Wheelerz Net Radio",
+        "Country": "Malaysia",
+        "Tags": "adult hits,alternative / indie,easy listening,pop,pop rock,rock",
+        "Favicon": "https://play-lh.googleusercontent.com/593oaY3vi9R50zM2fnUvyIPEdaljbnuGbB_95NM1VCCB_09roetib1ont2AvHSSY1A=w600-h300-pc0xffffff-pd",
+        "Language": "ms",
+        "Homepage": "http://www.wheelerzradio.net/",
+        "Source1": "http://167.114.131.90:5448/stream/"
+    },
+    {
+        "Title": "Zayan",
+        "Country": "Malaysia",
+        "Language": "ms",
+        "Homepage": "https://zayan.syok.my/",
+        "Latitude": 3.143301408318498,
+        "Longitude": 101.61392211914064,
+        "Source1": "https://n04.rcs.revma.com/7ww2a4tbv4uvv/4_vpzncxu6ffle02/playlist.m3u8"
+    },
+    {
+        "Title": "اذاعة القرآن الكريم",
+        "Country": "Malaysia",
+        "Tags": "classical",
+        "Source1": "http://stream.radiojar.com/0tpy1h0kxtzuv"
+    }
+]

@@ -1,0 +1,1631 @@
+[
+    {
+        "Title": "1766線上電臺-百家知識",
+        "Country": "Taiwan",
+        "Tags": "news",
+        "Favicon": "https://www.1766.today/wp-content/uploads/2016/11/cropped-radio_icon_660px-180x180.png",
+        "Language": "zh",
+        "Homepage": "https://www.1766.today/",
+        "Source1": "http://livestream.1766.today:1768/live1.mp3"
+    },
+    {
+        "Title": "1766線上電臺-私房音樂",
+        "Country": "Taiwan",
+        "Tags": "music",
+        "Favicon": "https://www.1766.today/wp-content/uploads/2016/11/cropped-radio_icon_660px-180x180.png",
+        "Language": "zh",
+        "Homepage": "https://www.1766.today/",
+        "Source1": "http://livestream.1766.today:1769/live1.mp3"
+    },
+    {
+        "Title": "A-Line Radio",
+        "Country": "Taiwan",
+        "Tags": "internet radio,music",
+        "Favicon": "https://www.apple-line.com/themes/school2015/img/logo1.png",
+        "Language": "zh",
+        "Homepage": "https://www.apple-line.com/",
+        "Source1": "http://202.39.43.67:1935/live/RA000001/chunklist.m3u8"
+    },
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "Taiwan",
+        "Favicon": "https://mp3islam.com/favicon.ico",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "Ai Radio TAIWAN 台灣AI電台",
+        "Country": "Taiwan",
+        "Tags": "culture,full service,information,news,science",
+        "Favicon": "https://cdn.airadiotaiwan.com/stable/Web_logo.svg",
+        "Language": "zh",
+        "Homepage": "https://www.airadiotaiwan.com/",
+        "Source1": "https://n10.rcs.revma.com/h4ta80hbqwuvv"
+    },
+    {
+        "Title": "AsiaFM 亞太電台",
+        "Country": "Taiwan",
+        "Tags": "entertainment",
+        "Favicon": "https://www.asiafm.com.tw/wp-content/uploads/2021/07/asia_logo1.gif",
+        "Language": "zh",
+        "Homepage": "https://www.asiafm.com.tw/",
+        "Source1": "https://n13.rcs.revma.com/kydend74hv8uv"
+    },
+    {
+        "Title": "AsiaFM 亞洲電台",
+        "Country": "Taiwan",
+        "Tags": "music",
+        "Favicon": "https://www.asiafm.com.tw/wp-content/uploads/2021/07/asia_logo1.gif",
+        "Language": "zh",
+        "Homepage": "https://www.asiafm.com.tw/",
+        "Source1": "https://n13.rcs.revma.com/xpgtqc74hv8uv"
+    },
+    {
+        "Title": "B&B RADIO 幫幫廣播網",
+        "Country": "Taiwan",
+        "Tags": "lifestyle",
+        "Favicon": "https://bbradio.pch.org.tw/images/BB_radio_logo_200pix.jpg",
+        "Language": "zh",
+        "Homepage": "https://bbradio.pch.org.tw/",
+        "Source1": "https://cdn280.ccdntech.com/live-http/_definst_/vod280_Live/bb/playlist.m3u8"
+    },
+    {
+        "Title": "BIG BIG MIX – 乐享音乐",
+        "Country": "Taiwan",
+        "Favicon": "https://bigbigmix.com/wp-content/uploads/2025/04/MIX-LOGO-INDEX.png",
+        "Homepage": "https://bigbigmix.com/",
+        "Source1": "https://hi.bigbigmix.com/stream"
+    },
+    {
+        "Title": "Boss Boss Radio",
+        "Country": "Taiwan",
+        "Favicon": "https://cdn.onlineradiobox.com/img/l/1/69241.v15.png",
+        "Homepage": "https://www.bossbossradio.com/",
+        "Source1": "https://n0b.radiojar.com/ehzvurp9tv8uv?rj-ttl=5&rj-tok=AAABnhLAJhsA5_MD50tsg_xfJQ"
+    },
+    {
+        "Title": "Boss Online Radio",
+        "Country": "Taiwan",
+        "Tags": "pop",
+        "Favicon": "https://cdn.onlineradiobox.com/img/l/7/107307.v1.png",
+        "Source1": "https://stream.radiojar.com/ehzvurp9tv8uv"
+    },
+    {
+        "Title": "Boss Online Radio",
+        "Country": "Taiwan",
+        "Favicon": "https://cdn.onlineradiobox.com/img/l/7/107307.v1.png",
+        "Homepage": "https://www.bossonlineradio.com/",
+        "Source1": "https://n0b.radiojar.com/ehzvurp9tv8uv?rj-ttl=5&rj-tok=AAABnhLAJhsA5_MD50tsg_xfJQ",
+        "Source2": "https://n06.radiojar.com/ehzvurp9tv8uv?rj-ttl=5&rj-tok=AAABnm0QuTkAewm7X_5zLTUONg",
+        "Source3": "https://n06.radiojar.com/ehzvurp9tv8uv?rj-ttl=5&rj-tok=AAABnm0O7A8AApuzVhj7xc204g"
+    },
+    {
+        "Title": "CanCheers",
+        "Country": "Taiwan",
+        "Favicon": "https://www.ilovetacp.org.tw/cancheers/image/CanCheers-Logo.png",
+        "Homepage": "https://www.ilovetacp.org.tw/cancheers/cancheers.aspx#page-top",
+        "Source1": "https://us3.internet-radio.com/proxy/cancheers?mp=/stream"
+    },
+    {
+        "Title": "Classical 古典音樂台 FM 97.7",
+        "Country": "Taiwan",
+        "Homepage": "https://www.family977.com.tw/index.php",
+        "Latitude": 25.03629603944331,
+        "Longitude": 121.55884981155396,
+        "Source1": "http://59.120.88.155:8000/live.mp3"
+    },
+    {
+        "Title": "Classical 古典音樂台 FM 97.7",
+        "Country": "Taiwan",
+        "Homepage": "http://www.family977.com.tw/index.php%20favicon",
+        "Latitude": -18.50738624669218,
+        "Longitude": 85.60868227980819,
+        "Source1": "http://59.120.88.155:8000/live.mp3"
+    },
+    {
+        "Title": "Classical 古典音樂台 FM 97.7",
+        "Country": "Taiwan",
+        "Tags": "classical music",
+        "Language": "cmn,zh",
+        "Homepage": "http://www.family977.com.tw/index.php",
+        "Source1": "http://59.120.88.155:8000/live.mp3"
+    },
+    {
+        "Title": "FM 90.5 大樹下電台",
+        "Country": "Taiwan",
+        "Source1": "http://60.250.148.112:8000/live"
+    },
+    {
+        "Title": "FM96.9 主人電台",
+        "Country": "Taiwan",
+        "Tags": "full service",
+        "Favicon": "https://www.baodaoradio.com.tw/uploads/online/tw/3主人電台.png",
+        "Homepage": "https://www.baodaoradio.com.tw/web/online/online.jsp",
+        "Source1": "http://125.227.87.206:8000/FM96.9"
+    },
+    {
+        "Title": "HappyRadio",
+        "Country": "Taiwan",
+        "Tags": "talk",
+        "Language": "zh",
+        "Homepage": "https://happyradio.com.tw/",
+        "Latitude": 22.979759879141913,
+        "Longitude": 121.89279378795104,
+        "Source1": "https://happyradio.com.tw/live"
+    },
+    {
+        "Title": "Hit FM台北之音廣播",
+        "Country": "Taiwan",
+        "Tags": "music",
+        "Favicon": "https://cooltv.top/logo/hitfmtw.webp",
+        "Language": "zh",
+        "Homepage": "https://www.hitoradio.com/newweb/onair.php",
+        "Source1": "http://202.39.43.67:1935/live/RA000036/chunklist.m3u8"
+    },
+    {
+        "Title": "https://www.csbc.com.tw",
+        "Country": "Taiwan",
+        "Favicon": "https://www.csbc.com.tw/wp-content/uploads/2019/12/cropped-6044e1b77e91b4fe89b435-2-180x180.png",
+        "Homepage": "https://www.csbc.com.tw/",
+        "Source1": "http://flv.ccdntech.com/live/_definst_/mp4:vod117_Live/live1/playlist.m3u8"
+    },
+    {
+        "Title": "ICRT",
+        "Country": "Taiwan",
+        "Tags": "full service",
+        "Favicon": "https://www.icrt.com.tw/language_data/en/image/sh/logo.png",
+        "Language": "en",
+        "Homepage": "https://www.icrt.com.tw/",
+        "Source1": "http://n03.rcs.revma.com/x27mfpztxp3vv"
+    },
+    {
+        "Title": "IC之音竹科廣播",
+        "Country": "Taiwan",
+        "Tags": "education,educational,science",
+        "Favicon": "https://s3.ic975.com/assets/images/about/banner-1.jpg",
+        "Language": "zh",
+        "Homepage": "https://www.ic975.com/",
+        "Source1": "http://n01a-eu.rcs.revma.com/7mnq8rt7k5zuv"
+    },
+    {
+        "Title": "Kiss Radio (TW)",
+        "Country": "Taiwan",
+        "Homepage": "https://www.kiss.com.tw/",
+        "Latitude": 22.617306842662227,
+        "Longitude": 120.399169921875,
+        "Source1": "https://www.youtube.com/live/BvV7UO3pf_g?si=P8HvFQzDwrwaBZO_"
+    },
+    {
+        "Title": "M Radio 全國廣播",
+        "Country": "Taiwan",
+        "Tags": "entertainment,music",
+        "Favicon": "https://www.mradio.com.tw/logo-black.svg",
+        "Language": "zh",
+        "Homepage": "https://www.mradio.com.tw/",
+        "Source1": "https://n03.rcs.revma.com/044q61ha7a0uv"
+    },
+    {
+        "Title": "MCBS 銘傳廣播電台",
+        "Country": "Taiwan",
+        "Tags": "full service",
+        "Favicon": "http://radio.mcu.edu.tw/wp-content/uploads/2021/12/foot_pic_3-300x300-1.jpg",
+        "Language": "zh",
+        "Homepage": "http://radio.mcu.edu.tw/",
+        "Source1": "http://radio.mcu.edu.tw:8080/radio?1747274117052"
+    },
+    {
+        "Title": "Needs Radio 全球華語廣播網",
+        "Country": "Taiwan",
+        "Tags": "arts,culture,public radio",
+        "Favicon": "https://myradio.com.tw/_next/image?url=https://image.myradio.com.tw/A3101.jpg&w=256&q=75",
+        "Language": "zh",
+        "Homepage": "https://www.needsradio.org.tw/",
+        "Source1": "https://cdn280.ccdntech.com/live-http/_definst_/vod280_Live/needs/chunklist.m3u8"
+    },
+    {
+        "Title": "Nei-Di's ACG Music",
+        "Country": "Taiwan",
+        "Homepage": "http://neidi.homeip.net:8080/;",
+        "Source1": "http://neidi.homeip.net:8080/;"
+    },
+    {
+        "Title": "Nei-Di's ACG Music",
+        "Country": "Taiwan",
+        "Tags": "anime,jpop,ost",
+        "Favicon": "https://neidi.homeip.net/blog/cblog/wp-content/uploads/2022/11/cropped-ic0-192x192.png",
+        "Language": "ja,zh",
+        "Homepage": "http://neidi.homeip.net/",
+        "Latitude": 23.904588069534675,
+        "Longitude": 121.37580362120109,
+        "Source1": "http://neidi.homeip.net:8080/;"
+    },
+    {
+        "Title": "NER教育電臺",
+        "Country": "Taiwan",
+        "Homepage": "https://www.ner.gov.tw/",
+        "Source1": "http://wowza.ner.gov.tw/live/_definst_/1/playlist.m3u8"
+    },
+    {
+        "Title": "Phate",
+        "Country": "Taiwan",
+        "Favicon": "https://static.mytuner.mobi:443/media/tvos_radios/x9cqyxkd5c.png",
+        "Homepage": "http://phate.io/",
+        "Source1": "http://phate.io/listen"
+    },
+    {
+        "Title": "Radio ICRT",
+        "Country": "Taiwan",
+        "Tags": "music",
+        "Favicon": "https://cdn-radiotime-logos.tunein.com/s7198q.png",
+        "Language": "en",
+        "Homepage": "https://www.icrt.com.tw/",
+        "Source1": "https://n27a-eu.rcs.revma.com/nkdfurztxp3vv"
+    },
+    {
+        "Title": "RTI 臺灣之音",
+        "Country": "Taiwan",
+        "Homepage": "https://www.rti.org.tw/",
+        "Source1": "https://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/chunklist.m3u8"
+    },
+    {
+        "Title": "Stars RADIO星蹤之愛廣播網",
+        "Country": "Taiwan",
+        "Homepage": "http://www.needsradio.org.tw/",
+        "Source1": "https://cdn280.ccdntech.com/live-http/_definst_/vod280_Live/stars/playlist.m3u8"
+    },
+    {
+        "Title": "Supreme Master TV",
+        "Country": "Taiwan",
+        "Tags": "animal,art,culture,education,entertainment,environment,health,international,spiritual,worldpeace",
+        "Language": "ar,cmn,en,es,hi,ko,ru,th,vi,zh",
+        "Homepage": "https://suprememastertv.com/",
+        "Latitude": 25.20957996368239,
+        "Longitude": 121.6286167971792,
+        "Source1": "https://radio.suprememastertv.com/128K"
+    },
+    {
+        "Title": "TAIWAN LOUNGE RADIO",
+        "Country": "Taiwan",
+        "Favicon": "https://static.wixstatic.com/media/cd3cfd_0227d63e9d8842feae0e5dffd98c7700~mv2.png/v1/fill/w_315,h_306,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/TAIWAN%20LOUNGE%20RADIO.png",
+        "Homepage": "https://www.taiwan-lounge.com/",
+        "Source1": "https://azuracast.conceptradio.fr:8030/stream.mp3"
+    },
+    {
+        "Title": "TAIWAN LOUNGE RADIO",
+        "Country": "Taiwan",
+        "Tags": "music",
+        "Language": "zh",
+        "Homepage": "http://www.taiwan-lounge.com/",
+        "Source1": "https://azuracast.conceptradio.fr/radio/8030/stream.mp3"
+    },
+    {
+        "Title": "Taiwan Plus",
+        "Country": "Taiwan",
+        "Tags": "english,international,tv",
+        "Favicon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/17/8d/7c178dc3-1dcc-48ab-6949-044cfdee5fdb/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/492x0w.webp",
+        "Language": "en,zh",
+        "Homepage": "https://apps.apple.com/fm/app/taiwanplus/id1561888712",
+        "Source1": "https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8"
+    },
+    {
+        "Title": "上海麗都廣播電台 1940's Shanghai Vintage Jazz Shidaiqu Radio",
+        "Country": "Taiwan",
+        "Language": "zh",
+        "Homepage": "https://radio.nitro-server.uk/public/1940sshanghaioldtimesmusicradio",
+        "Source1": "https://radio.nitro-server.uk/listen/1940sshanghaioldtimesmusicradio/radio.mp3"
+    },
+    {
+        "Title": "下港之聲FM90.5",
+        "Country": "Taiwan",
+        "Tags": "talk",
+        "Homepage": "http://radio.smileradio.com.tw/online-radio.asp?radio=248",
+        "Source1": "http://59.120.255.155:8081/"
+    },
+    {
+        "Title": "世新廣播電台-1",
+        "Country": "Taiwan",
+        "Tags": "education,educational",
+        "Favicon": "https://myradio.com.tw/_next/image?url=https://image.myradio.com.tw/A4801.jpg&w=256&q=75",
+        "Language": "zh",
+        "Homepage": "https://shrs.shu.edu.tw/",
+        "Source1": "https://stream.ginnet.cloud/live0115lo-89xv/_definst_/fm881/playlist.m3u8"
+    },
+    {
+        "Title": "世新廣播電台-2",
+        "Country": "Taiwan",
+        "Tags": "student",
+        "Favicon": "https://myradio.com.tw/_next/image?url=https://image.myradio.com.tw/A4802.jpg&w=256&q=75",
+        "Language": "zh",
+        "Homepage": "https://shrs.shu.edu.tw/",
+        "Source1": "https://stream.ginnet.cloud/live0115lo-89xv/_definst_/am729/playlist.m3u8"
+    },
+    {
+        "Title": "中國華藝廣播公司 AM873",
+        "Country": "Taiwan",
+        "Tags": "information,music",
+        "Favicon": "https://pic.qtfm.cn/sso/48/1648623555209_ZdXzVjyE7.jpeg",
+        "Language": "zh",
+        "Homepage": "https://www.vos.com.cn/",
+        "Source1": "https://lhttp-hw.qtfm.cn/live/20500139/64k.mp3"
+    },
+    {
+        "Title": "中央廣播電台",
+        "Country": "Taiwan",
+        "Homepage": "https://www.rti.org.tw/",
+        "Source1": "https://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/chunklist.m3u8"
+    },
+    {
+        "Title": "中廣 I GO",
+        "Country": "Taiwan",
+        "Tags": "culture",
+        "Favicon": "https://myradio.com.tw/_next/image?url=https://images.myradio.com.tw/images/A0401.jpg&w=256&q=75",
+        "Homepage": "https://www.bcc.com.tw/",
+        "Source1": "https://n03.rcs.revma.com/1qxn2vg3qtzuv"
+    },
+    {
+        "Title": "中廣新聞網",
+        "Country": "Taiwan",
+        "Tags": "news",
+        "Favicon": "https://www.bcc.com.tw/images/lg1.jpg",
+        "Language": "zh",
+        "Homepage": "https://www.bcc.com.tw/",
+        "Source1": "https://n03.rcs.revma.com/78fm9wyy2tzuv"
+    },
+    {
+        "Title": "中廣流行網",
+        "Country": "Taiwan",
+        "Tags": "music",
+        "Favicon": "https://www.bcc.com.tw/images/lg2.jpg",
+        "Language": "zh",
+        "Homepage": "https://www.bcc.com.tw/",
+        "Source1": "https://n03.rcs.revma.com/aw9uqyxy2tzuv"
+    },
+    {
+        "Title": "中廣鄉親網",
+        "Country": "Taiwan",
+        "Tags": "culture",
+        "Favicon": "https://www.bcc.com.tw/images/lg6.jpg",
+        "Homepage": "https://www.bcc.com.tw/",
+        "Source1": "https://n03.rcs.revma.com/p2e3rfg3qtzuv"
+    },
+    {
+        "Title": "中廣音樂網",
+        "Country": "Taiwan",
+        "Tags": "internet radio,music",
+        "Favicon": "https://www.bcc.com.tw/images/lg3.jpg",
+        "Language": "zh",
+        "Homepage": "https://www.bcc.com.tw/",
+        "Source1": "https://n03.rcs.revma.com/ndk05tyy2tzuv"
+    },
+    {
+        "Title": "九八新聞台",
+        "Country": "Taiwan",
+        "Tags": "news",
+        "Favicon": "https://zuiai.tv/zb_users/upload/2023/9/2023091347046997.jpg",
+        "Language": "zh",
+        "Homepage": "https://www.news98.com.tw/",
+        "Source1": "https://n17a-eu.rcs.revma.com/pntx1639ntzuv"
+    },
+    {
+        "Title": "人人廣播電台",
+        "Country": "Taiwan",
+        "Tags": "music",
+        "Favicon": "https://cdn.radoxo.com/images/taiwan/best-98-9.webp",
+        "Language": "zh",
+        "Homepage": "https://www.bestradio.com.tw/",
+        "Source1": "https://n01.rcs.revma.com/fkdywbc59duvv"
+    },
+    {
+        "Title": "人人電台 好事聯播網FM98.9",
+        "Country": "Taiwan",
+        "Tags": "music",
+        "Favicon": "https://cooltv.top/logo/best989.webp",
+        "Language": "zh",
+        "Homepage": "http://www.bestradio.com.tw/",
+        "Source1": "http://202.39.43.67:1935/live/RA000013/chunklist.m3u8"
+    },
+    {
+        "Title": "佳音經典音樂網",
+        "Country": "Taiwan",
+        "Tags": "chirstian,classical",
+        "Language": "zh",
+        "Homepage": "http://www.goodnews.org.tw/forum.php?change_model=forum_detail&id=124",
+        "Source1": "https://stream.ginnet.cloud/live0119lo-p4rb/_definst_/classic/playlist.m3u8"
+    },
+    {
+        "Title": "佳音電台",
+        "Country": "Taiwan",
+        "Tags": "chirstian",
+        "Language": "zh",
+        "Homepage": "http://www.goodnews.org.tw/forum.php?change_model=forum_detail&id=124",
+        "Source1": "https://stream.ginnet.cloud/live0119lo-p4rb/_definst_/fm909/playlist.m3u8"
+    },
+    {
+        "Title": "佳音電台 90.9 FM",
+        "Country": "Taiwan",
+        "Source1": "https://stream.ginnet.cloud/live0119lo-p4rb/_definst_/fm909/playlist.m3u8"
+    },
+    {
+        "Title": "佳音音樂網",
+        "Country": "Taiwan",
+        "Favicon": "https://gogoradiofm1043.com.tw/images/f4.png",
+        "Homepage": "http://www.goodnews.org.tw/",
+        "Source1": "https://stream.ginnet.cloud/live0119lo-p4rb/_definst_/modern/playlist.m3u8"
+    },
+    {
+        "Title": "先聲廣播電台 (基北桃竹苗)",
+        "Country": "Taiwan",
+        "Tags": "full service",
+        "Favicon": "https://myradio.com.tw/_next/image?url=https://image.myradio.com.tw/A6301.jpg&w=256&q=75",
+        "Language": "zh",
+        "Homepage": "https://www.facebook.com/profile.php?id=100063756072769&paipv=0&eav=AfawQowhhBl0CVGjN3ITidazhaP46kF7QCUlEGgtycEHBHS2uYSVgUsAwWgPm7Y7Hvk&_rdr",
+        "Source1": "http://43.254.16.40:8000/TY.AM774"
+    },
+    {
+        "Title": "凱旋廣播電台",
+        "Country": "Taiwan",
+        "Tags": "music,talk",
+        "Homepage": "https://www.smileradio.com.tw/radio-info.asp?id=247",
+        "Source1": "http://59.125.209.209:8081/"
+    },
+    {
+        "Title": "勝利之聲AM756",
+        "Country": "Taiwan",
+        "Favicon": "https://e-go.org.tw/victor/images/tittle_01.gif",
+        "Language": "zh",
+        "Homepage": "https://e-go.org.tw/victor/index.asp",
+        "Source1": "http://test.taiwan-radio.tw:8000/PH.AM756"
+    },
+    {
+        "Title": "勝利之聲台南1台AM774",
+        "Country": "Taiwan",
+        "Favicon": "https://e-go.org.tw/victor/images/tittle_01.gif",
+        "Language": "zh",
+        "Homepage": "https://e-go.org.tw/victor/01_about_us.htm",
+        "Source1": "http://test.taiwan-radio.tw:8000/TN.AM774"
+    },
+    {
+        "Title": "勝利之聲台南2台AM1188",
+        "Country": "Taiwan",
+        "Favicon": "https://e-go.org.tw/victor/images/tittle_01.gif",
+        "Language": "zh",
+        "Homepage": "https://e-go.org.tw/victor/01_about_us.htm",
+        "Source1": "http://test.taiwan-radio.tw:8000/TN.AM1188"
+    },
+    {
+        "Title": "南方之音",
+        "Country": "Taiwan",
+        "Tags": "full service",
+        "Favicon": "https://myradio.com.tw/_next/image?url=https://image.myradio.com.tw/A7401.jpg&w=256&q=75",
+        "Language": "zh",
+        "Homepage": "https://www.facebook.com/FM893RADIO/",
+        "Source1": "http://43.254.16.40:8000/KS.FM89.3"
+    },
+    {
+        "Title": "古都電台",
+        "Country": "Taiwan",
+        "Tags": "culture",
+        "Favicon": "https://www.fm1025.com.tw/images/logo_01.png",
+        "Homepage": "https://www.fm1025.com.tw/",
+        "Source1": "http://n03.rcs.revma.com/8bpxy9a122hvv"
+    },
+    {
+        "Title": "台中古典音樂台",
+        "Country": "Taiwan",
+        "Homepage": "https://www.family977.com.tw/index.php",
+        "Source1": "http://onair.family977.com.tw:8000/live.mp3.m3u"
+    },
+    {
+        "Title": "台中城市廣播",
+        "Country": "Taiwan",
+        "Tags": "information,music",
+        "Language": "zh",
+        "Homepage": "http://www.cityfm.tw/",
+        "Source1": "http://fm901.cityfm.tw:8080/901.mp3"
+    },
+    {
+        "Title": "台中廣播",
+        "Country": "Taiwan",
+        "Homepage": "https://www.fm1007lucky.com/",
+        "Source1": "http://211.20.119.101:8081/"
+    },
+    {
+        "Title": "台中歡喜之聲FM105.5",
+        "Country": "Taiwan",
+        "Tags": "talk",
+        "Language": "zh",
+        "Homepage": "https://www.smileradio.com.tw/radio-info.asp?id=245",
+        "Source1": "http://59.125.41.65:8081/"
+    },
+    {
+        "Title": "台北健康電台",
+        "Country": "Taiwan",
+        "Tags": "information,music",
+        "Language": "zh",
+        "Homepage": "http://www.cityfm.tw/",
+        "Source1": "http://fm901.cityfm.tw:8080/901.mp3"
+    },
+    {
+        "Title": "台北古典廣播",
+        "Country": "Taiwan",
+        "Favicon": "https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2F8grF8LP3fMMyhKY1tTrKUAj8tdkhtCYydg7gAJXIXc8%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSUNJX3N1Rzlnb01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSUNJOWQtUnR3Z01vZ0VFZW1WdWJ3L2ltYWdlLz91cGRhdGVkPTE2NTk0ODQ5NTUwMDA.webp&w=2048&q=100",
+        "Language": "zh",
+        "Homepage": "https://zeno.fm/radio/taipei-classical-radio/",
+        "Source1": "https://stream.zeno.fm/w66d3dp6ynhvv"
+    },
+    {
+        "Title": "台北廣播電台",
+        "Country": "Taiwan",
+        "Favicon": "https://www.radio.gov.taipei/images/favicon.ico",
+        "Homepage": "https://www.radio.gov.taipei/",
+        "Source1": "https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/fm/playlist.m3u8"
+    },
+    {
+        "Title": "台北流行音樂廣播",
+        "Country": "Taiwan",
+        "Tags": "music",
+        "Favicon": "https://cooltv.top/logo/popradio.webp",
+        "Language": "zh",
+        "Homepage": "https://www.pop917.com/home.aspx",
+        "Source1": "http://202.39.43.67:1935/live/RA000080/chunklist.m3u8"
+    },
+    {
+        "Title": "台南建國廣播公司",
+        "Country": "Taiwan",
+        "Favicon": "http://www.taiwanradio.org.tw/images/bclogo/me57a.png",
+        "Language": "zh",
+        "Homepage": "http://xn--kpr15ecvjts4d.tw/company.html",
+        "Source1": "http://test.taiwan-radio.tw:8000/TN.AM801"
+    },
+    {
+        "Title": "台海之聲",
+        "Country": "Taiwan",
+        "Tags": "full service",
+        "Favicon": "https://ytmedia.radio.cn/CCYT/202306/12/18/Tmqb0FNuYzW6u5Ym7LhxxSemBelX3h7I70gh2023061218805.jpg",
+        "Language": "hak,zh",
+        "Homepage": "http://www.cnr.cn/",
+        "Source1": "https://satellitepull.cnr.cn/live/wxzhzs/playlist.m3u8?wsSession=c650605f64c6488d38b66982-174761774475052&wsIPSercert=270c8446fe14303f2433a2f164ccd9e5"
+    },
+    {
+        "Title": "台灣廣播 中興台",
+        "Country": "Taiwan",
+        "Favicon": "https://www.taiwanradio.com.tw/rwd1638/Store/bImages/b_p10.jpg",
+        "Language": "zh",
+        "Homepage": "https://www.taiwanradio.com.tw/ec99/rwd1638/product.asp?prodid=zc01",
+        "Source1": "http://test.taiwan-radio.tw:8000/NT.AM963"
+    },
+    {
+        "Title": "台灣廣播 台中台",
+        "Country": "Taiwan",
+        "Favicon": "https://www.taiwanradio.com.tw/rwd1638/Store/bImages/b_b_s_p09s.jpg",
+        "Language": "zh",
+        "Homepage": "https://www.taiwanradio.com.tw/ec99/rwd1638/product.asp?prodid=tz01",
+        "Source1": "http://test.taiwan-radio.tw:8000/TC.AM774"
+    },
+    {
+        "Title": "台灣廣播 台北一台",
+        "Country": "Taiwan",
+        "Favicon": "https://www.taiwanradio.com.tw/rwd1638/Store/bImages/b_p07-1.jpg",
+        "Language": "zh",
+        "Homepage": "https://www.taiwanradio.com.tw/ec99/rwd1638/product.asp?prodid=tp01",
+        "Source1": "http://test.taiwan-radio.tw:8000/TP.AM1323"
+    },
+    {
+        "Title": "台灣廣播 台北二台",
+        "Country": "Taiwan",
+        "Favicon": "https://www.taiwanradio.com.tw/rwd1638/Store/bImages/b_p07-1.jpg",
+        "Language": "zh",
+        "Homepage": "https://www.taiwanradio.com.tw/ec99/rwd1638/product.asp?prodid=tp01",
+        "Source1": "http://test.taiwan-radio.tw:8000/TP.AM1188"
+    },
+    {
+        "Title": "台灣廣播 大溪一台",
+        "Country": "Taiwan",
+        "Tags": "full service",
+        "Favicon": "https://www.taiwanradio.com.tw/rwd1638/Store/OwnImage/LOGO.png",
+        "Homepage": "https://www.taiwanradio.com.tw/",
+        "Source1": "http://43.254.16.40:8000/TY.AM621"
+    },
+    {
+        "Title": "台灣廣播 大溪二台",
+        "Country": "Taiwan",
+        "Tags": "full service",
+        "Favicon": "https://www.taiwanradio.com.tw/rwd1638/Store/OwnImage/LOGO.png",
+        "Homepage": "https://www.taiwanradio.com.tw/",
+        "Source1": "http://43.254.16.40:8000/TY.AM1062"
+    },
+    {
+        "Title": "台灣廣播 松嶺台",
+        "Country": "Taiwan",
+        "Favicon": "https://www.taiwanradio.com.tw/rwd1638/Store/bImages/b_08-360.gif",
+        "Language": "zh",
+        "Homepage": "https://www.taiwanradio.com.tw/ec99/rwd1638/category.asp?category_id=57",
+        "Source1": "http://test.taiwan-radio.tw:8000/NT.AM630"
+    },
+    {
+        "Title": "嘉義之音",
+        "Country": "Taiwan",
+        "Favicon": "https://www.baodaoradio.com.tw/web/images/logo.png",
+        "Language": "zh",
+        "Homepage": "https://www.baodaoradio.com.tw/web/programme/programme.jsp?cp_id=CP1641526281117",
+        "Source1": "http://test.taiwan-radio.tw:8000/CY.FM91.3"
+    },
+    {
+        "Title": "嘉義北回廣播電台",
+        "Country": "Taiwan",
+        "Favicon": "http://www.taiwanradio.org.tw/cache/com_zoo/images/me_other_e64fddbf872a4bcb4bfadf0183d9bbe5.png",
+        "Language": "zh",
+        "Homepage": "http://www.taiwanradio.org.tw/index.php/about-us/member/item/42-56",
+        "Source1": "http://test.taiwan-radio.tw:8000/CY.FM91.7"
+    },
+    {
+        "Title": "嘉義環球廣播",
+        "Country": "Taiwan",
+        "Tags": "talk",
+        "Language": "zh",
+        "Homepage": "https://www.smileradio.com.tw/radio-info.asp?id=246",
+        "Source1": "http://60.248.53.115:8081/"
+    },
+    {
+        "Title": "噶瑪蘭廣播電台",
+        "Country": "Taiwan",
+        "Tags": "music,talk",
+        "Homepage": "https://www.smileradio.com.tw/radio-info.asp?id=243",
+        "Source1": "http://61.220.209.152:8081/"
+    },
+    {
+        "Title": "城市廣播網-南投廣播",
+        "Country": "Taiwan",
+        "Favicon": "https://fm997.cityfm.tw/Public/MyMedia/Logo-%E5%8D%97%E6%8A%95%E5%B0%81%E9%9D%A2.jpg",
+        "Homepage": "https://fm997.cityfm.tw/",
+        "Source1": "https://fm997.cityfm.com.tw:8083/997"
+    },
+    {
+        "Title": "城市廣播網-台北健康",
+        "Country": "Taiwan",
+        "Homepage": "http://www.cityfm.tw/",
+        "Source1": "http://fm901.cityfm.tw:8080/901.mp3"
+    },
+    {
+        "Title": "城市廣播網-台南知音",
+        "Country": "Taiwan",
+        "Homepage": "http://www.cityfm.tw/",
+        "Source1": "http://fm971.cityfm.tw:8080/971.mp3"
+    },
+    {
+        "Title": "城市廣播網-城市廣播",
+        "Country": "Taiwan",
+        "Homepage": "http://www.cityfm.tw/",
+        "Source1": "http://fm929.cityfm.tw:8080/929.mp3"
+    },
+    {
+        "Title": "城市廣播網-大苗栗廣播",
+        "Country": "Taiwan",
+        "Favicon": "https://cityfm.tw/Public/MyMedia/LOGO%E6%96%B9%E5%BD%A2%E5%9F%8E%E5%B8%82%E6%96%B0%E8%81%9E.jpg",
+        "Homepage": "https://cityfm.tw/",
+        "Source1": "https://fm983.cityfm.com.tw:8083/983"
+    },
+    {
+        "Title": "城市廣播網•台南知音",
+        "Country": "Taiwan",
+        "Language": "zh",
+        "Homepage": "http://www.cityfm.tw/",
+        "Source1": "http://fm971.cityfm.tw:8080/971.mp3"
+    },
+    {
+        "Title": "基隆輕鬆電台 Chillax Radio",
+        "Country": "Taiwan",
+        "Tags": "entertainment",
+        "Favicon": "https://static.wixstatic.com/media/c2503e_2c8657e798b249809f26f33f071884b7~mv2.png/v1/fill/w_156,h_156,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/logo%E5%8A%A0%E5%AD%97%E9%AB%942.png",
+        "Homepage": "https://www.chillax969.fm/",
+        "Source1": "http://n03.rcs.revma.com/k41z6wadu5hvv"
+    },
+    {
+        "Title": "大千電台",
+        "Country": "Taiwan",
+        "Homepage": "https://www.baodaoradio.com.tw/",
+        "Source1": "http://taiwan-radio.tw:8000/ML.FM97.1"
+    },
+    {
+        "Title": "大愛網路電台",
+        "Country": "Taiwan",
+        "Tags": "religion,religious",
+        "Favicon": "https://daairadio.tw/UploadFile/IMG_1511539469137.png",
+        "Language": "zh",
+        "Homepage": "https://daairadio.tw/Page/Home/Index.aspx",
+        "Source1": "http://test.taiwan-radio.tw:8000/DaAiRadio"
+    },
+    {
+        "Title": "大樹下 FM90.5",
+        "Country": "Taiwan",
+        "Favicon": "https://taiwanfm905.com/wp-content/uploads/2022/02/大樹下LOGO_010.png",
+        "Language": "zh",
+        "Homepage": "https://taiwanfm905.com/",
+        "Source1": "https://cast.tunzilla.com/http://60.250.148.112:8000/live"
+    },
+    {
+        "Title": "大漢之音",
+        "Country": "Taiwan",
+        "Tags": "full service",
+        "Favicon": "https://www.fm971.com.tw/images/logo.png",
+        "Homepage": "https://www.fm971.com.tw/",
+        "Source1": "http://taiwan-radio.tw:8000/ML.FM97.1"
+    },
+    {
+        "Title": "天南AM999",
+        "Country": "Taiwan",
+        "Tags": "full service",
+        "Favicon": "https://www.taiwanradio.org.tw/images/bclogo/me97.png",
+        "Homepage": "http://www.taiwanradio.org.tw/index.php/about-us/member/item/42-19",
+        "Source1": "http://43.254.16.40:8000/TP.AM999"
+    },
+    {
+        "Title": "天聲AM1215",
+        "Country": "Taiwan",
+        "Favicon": "http://www.taiwanradio.org.tw/cache/com_zoo/images/me28_a49a4c4148abd7a413284e1be1999bc5.png",
+        "Language": "zh",
+        "Homepage": "https://zh-tw.facebook.com/am131410261215/",
+        "Source1": "http://test.taiwan-radio.tw:8000/ML.AM1215"
+    },
+    {
+        "Title": "天聲AM1314",
+        "Country": "Taiwan",
+        "Favicon": "http://www.taiwanradio.org.tw/cache/com_zoo/images/me28_a49a4c4148abd7a413284e1be1999bc5.png",
+        "Language": "zh",
+        "Homepage": "https://zh-tw.facebook.com/am131410261215/",
+        "Source1": "http://test.taiwan-radio.tw:8000/ML.AM1314"
+    },
+    {
+        "Title": "太陽電台",
+        "Country": "Taiwan",
+        "Homepage": "http://www.sunny891.com.tw/",
+        "Source1": "http://211.20.119.102:8081/"
+    },
+    {
+        "Title": "好事聯播網 蓮花電台",
+        "Country": "Taiwan",
+        "Tags": "music",
+        "Favicon": "https://cooltv.top/logo/best935.webp",
+        "Language": "zh",
+        "Homepage": "http://www.bestradio.com.tw/",
+        "Source1": "http://202.39.43.67:1935/live/RA000011/chunklist.m3u8"
+    },
+    {
+        "Title": "好事聯播網 高雄港都",
+        "Country": "Taiwan",
+        "Tags": "music",
+        "Favicon": "https://cooltv.top/logo/best983.webp",
+        "Language": "zh",
+        "Homepage": "https://www.apple-line.com/",
+        "Source1": "http://202.39.43.67:1935/live/RA000012/chunklist.m3u8"
+    },
+    {
+        "Title": "好家庭廣播電台（Classical 台中古典音樂台）",
+        "Country": "Taiwan",
+        "Tags": "classical",
+        "Favicon": "https://www.family977.com.tw/lazyweb/images/logo-dark@2x.png",
+        "Language": "zh",
+        "Homepage": "https://www.family977.com.tw/",
+        "Source1": "http://test.taiwan-radio.tw:8000/TC.FM97.7"
+    },
+    {
+        "Title": "寶島客家廣播電台",
+        "Country": "Taiwan",
+        "Homepage": "http://www.formosahakka.org.tw/",
+        "Source1": "http://taiwan-radio.tw:8000/TP.FM93.7"
+    },
+    {
+        "Title": "寶島新聲廣播電台",
+        "Country": "Taiwan",
+        "Homepage": "https://www.baodaoradio.com.tw/",
+        "Source1": "http://125.227.87.206:8000/FM98.5"
+    },
+    {
+        "Title": "寶島聯播網",
+        "Country": "Taiwan",
+        "Homepage": "https://www.baodaoradio.com.tw/",
+        "Source1": "http://125.227.87.206:8000/FM98.5"
+    },
+    {
+        "Title": "屏東之聲廣播電台FM92.5",
+        "Country": "Taiwan",
+        "Tags": "talk",
+        "Homepage": "https://www.smileradio.com.tw/radio-info.asp?id=251",
+        "Source1": "http://59.120.255.169:8081/"
+    },
+    {
+        "Title": "屏東大武山廣播",
+        "Country": "Taiwan",
+        "Tags": "talk",
+        "Language": "zh",
+        "Homepage": "https://www.smileradio.com.tw/radio-info.asp?id=249",
+        "Source1": "http://59.120.255.171:8081/"
+    },
+    {
+        "Title": "山海屯青少年之聲",
+        "Country": "Taiwan",
+        "Tags": "music",
+        "Favicon": "https://cdn.radoxo.com/images/taiwan/best-90-3.webp",
+        "Language": "zh",
+        "Homepage": "https://www.bestradio.com.tw/",
+        "Source1": "https://n02.rcs.revma.com/zr7xzec59duvv"
+    },
+    {
+        "Title": "幸福廣播電台TR Radio FM102.5",
+        "Country": "Taiwan",
+        "Tags": "lifestyle,music",
+        "Favicon": "https://www.tr-radio.com/images/all/logo--white.svg",
+        "Language": "zh",
+        "Homepage": "https://www.tr-radio.com/index.htm",
+        "Source1": "http://61.218.61.251:8080/"
+    },
+    {
+        "Title": "彰化國聲廣播AM1179",
+        "Country": "Taiwan",
+        "Tags": "full service",
+        "Favicon": "https://www.ksbc.com.tw/archive/image/model/images/footer_logo02_263_200.png",
+        "Homepage": "https://ksbc.com.tw/",
+        "Source1": "http://test.taiwan-radio.tw:8000/CH.AM1179"
+    },
+    {
+        "Title": "彰化國聲廣播AM810",
+        "Country": "Taiwan",
+        "Tags": "810 am",
+        "Favicon": "https://www.ksbc.com.tw/archive/image/model/images/footer_logo02_263_200.png",
+        "Homepage": "https://ksbc.com.tw/",
+        "Source1": "http://test.taiwan-radio.tw:8000/CH.AM810"
+    },
+    {
+        "Title": "彰化花園廣播電台",
+        "Country": "Taiwan",
+        "Favicon": "http://pic.qingting.fm/2018/1018/20181018124644.jpeg",
+        "Language": "zh",
+        "Homepage": "https://www.facebook.com/GardenRadio887/",
+        "Source1": "http://test.taiwan-radio.tw:8000/CH.FM88.7",
+        "Source2": "http://211.72.215.231:8000/OnAir"
+    },
+    {
+        "Title": "彰化關懷電台",
+        "Country": "Taiwan",
+        "Favicon": "http://www.taiwanradio.org.tw/cache/com_zoo/images/me38_7129de3034b8d4c665fa14abcd3e02db.png",
+        "Language": "zh",
+        "Homepage": "https://careradio.firstory.io/",
+        "Source1": "http://test.taiwan-radio.tw:8000/CH.FM91.1"
+    },
+    {
+        "Title": "彰化靉友廣播電台 FM97.3",
+        "Country": "Taiwan",
+        "Tags": "music",
+        "Favicon": "http://radio.nettvpro.xyz/uploads/allimg/26/1-260223150I00-L.jpg",
+        "Homepage": "https://www.findcompany.com.tw/%E9%9D%89%E5%8F%8B%E4%B9%8B%E8%81%B2%E8%AA%BF%E9%A0%BB%E5%BB%A3%E6%92%AD%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8",
+        "Source1": "http://43.254.16.40:8000/CH.FM97.3"
+    },
+    {
+        "Title": "微微笑廣播網 - 桃園風城廣播電台FM98.7",
+        "Country": "Taiwan",
+        "Tags": "music",
+        "Favicon": "http://radio.smileradio.com.tw/upload/images/風城Hi Radio電台 FM98_7_Logo .jpg",
+        "Language": "zh",
+        "Homepage": "http://radio.smileradio.com.tw/radio-info.asp?id=256",
+        "Source1": "https://cast.tunzilla.com/http://61.220.245.236:8080"
+    },
+    {
+        "Title": "快樂聯播網",
+        "Country": "Taiwan",
+        "Homepage": "https://happyradio.com.tw/",
+        "Source1": "https://happyradio.com.tw/live"
+    },
+    {
+        "Title": "教育廣播電臺-彰化分臺FM",
+        "Country": "Taiwan",
+        "Tags": "education,educational,news,public radio",
+        "Language": "zh",
+        "Homepage": "https://www.ner.gov.tw/",
+        "Source1": "https://cast.ner.gov.tw/4"
+    },
+    {
+        "Title": "教育廣播電臺-臺北總臺AM臺",
+        "Country": "Taiwan",
+        "Tags": "education,educational,international,news",
+        "Language": "zh",
+        "Homepage": "https://www.ner.gov.tw/",
+        "Source1": "https://cast.ner.gov.tw/2"
+    },
+    {
+        "Title": "教育廣播電臺-臺北總臺FM臺",
+        "Country": "Taiwan",
+        "Tags": "news",
+        "Language": "zh",
+        "Homepage": "https://www.ner.gov.tw/",
+        "Source1": "https://cast.ner.gov.tw/1"
+    },
+    {
+        "Title": "教育廣播電臺-臺東分臺FM-1",
+        "Country": "Taiwan",
+        "Tags": "education,educational",
+        "Language": "zh",
+        "Homepage": "https://www.ner.gov.tw/",
+        "Source1": "https://cast.ner.gov.tw/6"
+    },
+    {
+        "Title": "教育廣播電臺-臺東分臺FM-2",
+        "Country": "Taiwan",
+        "Tags": "education,educational,literature",
+        "Language": "zh",
+        "Homepage": "https://www.ner.gov.tw/",
+        "Source1": "https://cast.ner.gov.tw/7"
+    },
+    {
+        "Title": "教育廣播電臺-花蓮分臺FM-1",
+        "Country": "Taiwan",
+        "Tags": "education,educational,news",
+        "Language": "zh",
+        "Homepage": "https://www.ner.gov.tw/",
+        "Source1": "https://cast.ner.gov.tw/8"
+    },
+    {
+        "Title": "教育廣播電臺-花蓮分臺FM-2",
+        "Country": "Taiwan",
+        "Tags": "education,educational",
+        "Language": "zh",
+        "Homepage": "https://www.ner.gov.tw/",
+        "Source1": "https://cast.ner.gov.tw/9"
+    },
+    {
+        "Title": "教育廣播電臺-高雄分臺",
+        "Country": "Taiwan",
+        "Tags": "education,educational,literature",
+        "Language": "zh",
+        "Homepage": "https://www.ner.gov.tw/",
+        "Source1": "https://cast.ner.gov.tw/5"
+    },
+    {
+        "Title": "新客家廣播電台",
+        "Country": "Taiwan",
+        "Tags": "entertainment,information,music",
+        "Favicon": "https://fm935newhakka.com.tw/images/logo.jpg",
+        "Language": "hak",
+        "Homepage": "https://fm935newhakka.com.tw/",
+        "Source1": "http://live.fm935newhakka.com.tw:5006/live"
+    },
+    {
+        "Title": "新竹之音",
+        "Country": "Taiwan",
+        "Favicon": "https://www.baodaoradio.com.tw/web/images/logo.png",
+        "Homepage": "https://www.baodaoradio.com.tw/web/programme/programme.jsp?cp_id=CP1641526281117",
+        "Source1": "http://test.taiwan-radio.tw:8000/HC.FM97.9"
+    },
+    {
+        "Title": "新竹勞工之聲",
+        "Country": "Taiwan",
+        "Tags": "music",
+        "Favicon": "https://www.pulse899.com/storage/2023/12/pulse-logo.png",
+        "Language": "zh",
+        "Homepage": "https://www.pulse899.com/",
+        "Source1": "http://202.39.43.67:1935/live/RA000101/chunklist.m3u8"
+    },
+    {
+        "Title": "新竹好聽廣播電台",
+        "Country": "Taiwan",
+        "Tags": "music",
+        "Favicon": "https://cooltv.top/logo/popradio.webp",
+        "Language": "zh",
+        "Homepage": "https://www.pop917.com/home.aspx",
+        "Source1": "http://202.39.43.67:1935/live/RA000124/chunklist.m3u8"
+    },
+    {
+        "Title": "新聲廣播FM99.3",
+        "Country": "Taiwan",
+        "Favicon": "http://www.taiwanradio.org.tw/images/bclogo/me0814.jpg",
+        "Language": "zh",
+        "Homepage": "https://www.facebook.com/LoveRadioFM99.3",
+        "Source1": "http://test.taiwan-radio.tw:8000/HC.FM99.3"
+    },
+    {
+        "Title": "曾文溪廣播電台",
+        "Country": "Taiwan",
+        "Tags": "culture",
+        "Favicon": "https://www.fm899.com.tw/images/common/site-logo.png",
+        "Language": "zh",
+        "Homepage": "https://www.fm899.com.tw/",
+        "Source1": "https://n09.rcs.revma.com/9ssfduqkr0hvv"
+    },
+    {
+        "Title": "栗子的輕音樂",
+        "Country": "Taiwan",
+        "Tags": "instrumental,internet radio,music,new age",
+        "Favicon": "https://lizeradio.com/webplayer/lizeradio.gif",
+        "Language": "zh",
+        "Homepage": "https://lizeradio.com/blog/",
+        "Source1": "https://lizeradio.com/webplayer/actions.php",
+        "Source2": "http://lizeradio.com:8080/",
+        "Source3": "https://lizeradio.com/radio/stream"
+    },
+    {
+        "Title": "桃園GO GO104.3",
+        "Country": "Taiwan",
+        "Tags": "music,talk",
+        "Favicon": "https://liveonlineradio.net/wp-content/uploads/2021/09/gogo-radio-fm-104.3-220x108.jpg",
+        "Language": "zh",
+        "Homepage": "https://stream.ginnet.cloud/live0119lo-p4rb/_definst_/fm1043/chunklist_w1108784103.m3u8",
+        "Source1": "https://stream.ginnet.cloud/live0119lo-p4rb/_definst_/fm1043/chunklist_w1108784103.m3u8"
+    },
+    {
+        "Title": "桃園先聲廣播AM774",
+        "Country": "Taiwan",
+        "Favicon": "https://worldradiomap.com/tw/images/taichung774.gif",
+        "Language": "zh",
+        "Homepage": "https://www.facebook.com/people/%E5%85%88%E8%81%B2%E5%BB%A3%E6%92%AD%E9%9B%BB%E5%8F%B0/100063756072769/",
+        "Source1": "http://test.taiwan-radio.tw:8000/TY.AM774"
+    },
+    {
+        "Title": "正聲台北調幅台 AM819",
+        "Country": "Taiwan",
+        "Favicon": "http://www.taiwan-radio.tw/Images/Logo/TP.AM819.png",
+        "Language": "zh",
+        "Homepage": "http://www.cslive.com.tw/Programe/Programe.php?Station=Tap&ProgID=1",
+        "Source1": "http://test.taiwan-radio.tw:8000/TP.AM819"
+    },
+    {
+        "Title": "正聲廣播公司",
+        "Country": "Taiwan",
+        "Tags": "104.1,104.1 fm,public radio",
+        "Favicon": "https://www.csbc.com.tw/wp-content/uploads/2019/12/cropped-6044e1b77e91b4fe89b435-2-180x180.png",
+        "Language": "zh",
+        "Homepage": "https://www.csbc.com.tw/",
+        "Source1": "https://flv.ccdntech.com/live/_definst_/mp4:vod117_Live/live1/playlist.m3u8"
+    },
+    {
+        "Title": "正聲廣播電台FM104",
+        "Country": "Taiwan",
+        "Tags": "music,news",
+        "Language": "zh",
+        "Homepage": "https://www.csbc.com.tw/",
+        "Latitude": 25.045792240303445,
+        "Longitude": 121.52526855468751,
+        "Source1": "https://flv.ccdntech.com/live/_definst_/mp4:vod117_Live/live1/chunklist_w872521607.m3u8"
+    },
+    {
+        "Title": "正聲綜合",
+        "Country": "Taiwan",
+        "Homepage": "https://www.csbc.com.tw/",
+        "Source1": "http://flv.ccdntech.com/live/_definst_/mp4:vod117_Live/live2/playlist.m3u8"
+    },
+    {
+        "Title": "每日廣播公司SAKURA RADIO",
+        "Country": "Taiwan",
+        "Favicon": "http://www.taiwanradio.org.tw/images/bclogo/me75.png",
+        "Language": "zh",
+        "Homepage": "http://www.fm987.com.tw/?i=1",
+        "Source1": "http://test.taiwan-radio.tw:8000/TC.FM98.7"
+    },
+    {
+        "Title": "民本電台-1",
+        "Country": "Taiwan",
+        "Tags": "talk",
+        "Language": "zh",
+        "Homepage": "https://mingpen.com.tw/",
+        "Source1": "https://streamak0134.akamaized.net/live0134lh-5gst/_definst_/am1296/chunklist.m3u8"
+    },
+    {
+        "Title": "民本電台-2",
+        "Country": "Taiwan",
+        "Tags": "talk",
+        "Language": "zh",
+        "Homepage": "https://mingpen.com.tw/",
+        "Source1": "https://streamak0134.akamaized.net/live0134lh-5gst/_definst_/am855/chunklist.m3u8"
+    },
+    {
+        "Title": "海峽之聲廣播電台",
+        "Country": "Taiwan",
+        "Tags": "information,news",
+        "Favicon": "https://wx2.sinaimg.cn/mw2000/0061xXpZly8h8w3icmaygj30hs0hsdgj.jpg",
+        "Language": "zh",
+        "Homepage": "https://www.vos.com.cn/",
+        "Source1": "http://ls.qingting.fm/live/1744.m3u8"
+    },
+    {
+        "Title": "漁業廣播電台",
+        "Country": "Taiwan",
+        "Tags": "agriculture",
+        "Favicon": "https://myradio.com.tw/_next/image?url=https%3A%2F%2Fimages.myradio.com.tw%2Fimages%2FA10101.jpg&w=256&q=75",
+        "Language": "zh",
+        "Homepage": "https://www.frs.gov.tw/",
+        "Source1": "http://n03.rcs.revma.com/mk0c5vq122hvv"
+    },
+    {
+        "Title": "漢聲中波",
+        "Country": "Taiwan",
+        "Favicon": "https://cooltv.top/logo/voh.webp",
+        "Language": "zh",
+        "Homepage": "https://audio.voh.com.tw/TW/Program/ugC_Program.aspx?Show=B",
+        "Source1": "http://202.39.43.67:1935/live/RA000074/chunklist.m3u8"
+    },
+    {
+        "Title": "漢聲調頻",
+        "Country": "Taiwan",
+        "Favicon": "https://cooltv.top/logo/voh.webp",
+        "Language": "zh",
+        "Homepage": "https://audio.voh.com.tw/TW/Program/ugC_Program.aspx?Show=B",
+        "Source1": "http://202.39.43.67:1935/live/RA000076/chunklist.m3u8"
+    },
+    {
+        "Title": "潮州之聲",
+        "Country": "Taiwan",
+        "Tags": "talk",
+        "Homepage": "https://www.smileradio.com.tw/radio-info.asp?id=250",
+        "Source1": "http://59.120.255.170:8081/"
+    },
+    {
+        "Title": "濁水溪FM90.1",
+        "Country": "Taiwan",
+        "Favicon": "http://www.taiwanradio.org.tw/cache/com_zoo/images/me44_f897f1c6a794a71749c739626cfc243b.png",
+        "Language": "zh",
+        "Homepage": "https://www.fm901.com.tw/",
+        "Source1": "http://test.taiwan-radio.tw:8000/YL.FM90.1"
+    },
+    {
+        "Title": "燕聲AM1044",
+        "Country": "Taiwan",
+        "Favicon": "https://am10441242.tw/wp-content/uploads/2019/05/ysbclogo2.png",
+        "Language": "zh",
+        "Homepage": "https://am10441242.tw/",
+        "Source1": "http://test.taiwan-radio.tw:8000/HL.AM1044"
+    },
+    {
+        "Title": "燕聲AM1242",
+        "Country": "Taiwan",
+        "Favicon": "https://am10441242.tw/wp-content/uploads/2019/05/ysbclogo2.png",
+        "Language": "zh",
+        "Homepage": "https://am10441242.tw/",
+        "Source1": "http://test.taiwan-radio.tw:8000/HL.AM1242"
+    },
+    {
+        "Title": "牽手之聲網路台",
+        "Country": "Taiwan",
+        "Tags": "internet radio",
+        "Language": "zh",
+        "Homepage": "http://www.ilovetacp.org.tw/cancheers/cancheers.aspx",
+        "Latitude": 25.11312786637466,
+        "Longitude": 121.55610054731372,
+        "Source1": "http://us3.internet-radio.com:8232/stream"
+    },
+    {
+        "Title": "環宇廣播電台",
+        "Country": "Taiwan",
+        "Tags": "full service",
+        "Favicon": "http://www.uni967.com/newweb/images/top_1.jpg",
+        "Language": "zh",
+        "Homepage": "http://www.uni967.com/",
+        "Source1": "https://n06.rcs.revma.com/srn5f9kmwxhvv"
+    },
+    {
+        "Title": "益世廣播電台",
+        "Country": "Taiwan",
+        "Tags": "catholicism",
+        "Favicon": "https://myradio.com.tw/_next/image?url=https://image.myradio.com.tw/A8001.jpg&w=256&q=75",
+        "Language": "zh",
+        "Homepage": "https://yesam1404.wixsite.com/mysite-2",
+        "Source1": "http://210.209.16.1:1935/YSLive/YSLive/playlist.m3u8"
+    },
+    {
+        "Title": "神州之聲",
+        "Country": "Taiwan",
+        "Tags": "full service",
+        "Favicon": "https://www.cnr.cn/2007zt/2007gbfzlt/yhdw/200708/W020070821501155725836.jpg",
+        "Language": "hak,zh",
+        "Homepage": "https://www.cnr.cn/tyzj/tyzj_jmsjb/201208/t20120814_510587088.html",
+        "Source1": "https://satellitepull.cnr.cn/live/wxszzs/playlist.m3u8?wsSession=d966c1f28016a758d88ba0c2-174761731342853&wsIPSercert=270c8446fe14303f2433a2f164ccd9e5"
+    },
+    {
+        "Title": "神農廣播電台",
+        "Country": "Taiwan",
+        "Tags": "agriculture",
+        "Favicon": "https://myradio.com.tw/_next/image?url=https://images.myradio.com.tw/images/A8201.jpg&w=256&q=75",
+        "Homepage": "https://www.fm995.com.tw/index.html",
+        "Source1": "https://n03.rcs.revma.com/uyaghqmdm3hvv"
+    },
+    {
+        "Title": "福建東南廣播",
+        "Country": "Taiwan",
+        "Tags": "information,music",
+        "Favicon": "https://so1.360tres.com/t01d5fa9f952f1bddbd.jpg",
+        "Language": "hak,zh",
+        "Homepage": "https://www.fjtv.net/",
+        "Source1": "http://live.ximalaya.com/radio-first-page-app/live/788/64.m3u8"
+    },
+    {
+        "Title": "竹塹廣播電台",
+        "Country": "Taiwan",
+        "Tags": "music,talk",
+        "Homepage": "https://www.smileradio.com.tw/radio-info.asp?id=244",
+        "Source1": "http://211.72.230.118:8081/"
+    },
+    {
+        "Title": "美聲廣播電臺",
+        "Country": "Taiwan",
+        "Tags": "talk",
+        "Favicon": "https://liveonlineradio.net/img/favicon_96.png",
+        "Homepage": "https://liveonlineradio.net/nbc-fm915",
+        "Source1": "http://1.34.23.16:8080/broadwavehigh.mp3"
+    },
+    {
+        "Title": "臺北電台",
+        "Country": "Taiwan",
+        "Tags": "news,public radio,talk",
+        "Favicon": "https://liveonlineradio.net/wp-content/uploads/2021/09/radio-taipei-93.1-fm-220x108.jpg",
+        "Language": "zh",
+        "Homepage": "http://www.radio.gov.taipei/",
+        "Source1": "https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/fm/playlist.m3u8"
+    },
+    {
+        "Title": "臺北電台AM",
+        "Country": "Taiwan",
+        "Tags": "public radio",
+        "Favicon": "http://www.radio.gov.taipei/images/favicon.ico",
+        "Language": "zh",
+        "Homepage": "http://www.radio.gov.taipei/",
+        "Source1": "https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/am/playlist.m3u8"
+    },
+    {
+        "Title": "苗栗客家文化廣播電台",
+        "Country": "Taiwan",
+        "Tags": "culture",
+        "Favicon": "https://hakkafm917.org.tw/images/logo.svg",
+        "Language": "zh",
+        "Homepage": "https://www.hakkafm917.org.tw/",
+        "Source1": "http://test.taiwan-radio.tw:8000/ML.FM91.7"
+    },
+    {
+        "Title": "苗栗正義電台",
+        "Country": "Taiwan",
+        "Tags": "88.9,88.9 fm,information,music",
+        "Favicon": "https://liveonlineradio.net/wp-content/uploads/2021/10/正義電台-FM-88.9-220x108.webp",
+        "Homepage": "http://www.loveradio889.com.tw/",
+        "Source1": "http://211.20.119.103:8081/"
+    },
+    {
+        "Title": "華聲1台 AM1152",
+        "Country": "Taiwan",
+        "Tags": "full service",
+        "Favicon": "https://www.taiwanradio.org.tw/cache/com_zoo/images/me4_bada6fdad668aba1a31e151ced7ad6d8.png",
+        "Homepage": "https://hsradio1152.wixsite.com/hsradio/team-1",
+        "Source1": "http://43.254.16.40:8000/TP.AM1152"
+    },
+    {
+        "Title": "華聲2台 AM1224",
+        "Country": "Taiwan",
+        "Tags": "full service",
+        "Favicon": "https://www.taiwanradio.org.tw/cache/com_zoo/images/me4_bada6fdad668aba1a31e151ced7ad6d8.png",
+        "Homepage": "http://www.hsradio.com.tw/",
+        "Source1": "http://43.254.16.40:8000/TP.AM1224"
+    },
+    {
+        "Title": "講客廣播電台",
+        "Country": "Taiwan",
+        "Tags": "culture,full service",
+        "Favicon": "https://cdn.radoxo.com/images/taiwan/hakka-radio.webp",
+        "Language": "hak",
+        "Homepage": "https://www.hakkaradio.org.tw/",
+        "Source1": "https://n08.rcs.revma.com/akqrbx94gbkvv"
+    },
+    {
+        "Title": "警察廣播電台 - 全國治安交通網",
+        "Country": "Taiwan",
+        "Tags": "local news,traffic",
+        "Language": "cmn,zh",
+        "Homepage": "https://pbs.npa.gov.tw/ch/index#a4",
+        "Source1": "http://stream.pbs.gov.tw:1935/live/mp3:PBS/playlist.m3u8"
+    },
+    {
+        "Title": "警察廣播電台 - 台中台",
+        "Country": "Taiwan",
+        "Tags": "local news,traffic",
+        "Language": "zh",
+        "Homepage": "https://pbs.npa.gov.tw/ch/index#a4",
+        "Source1": "http://stream.pbs.gov.tw:1935/live/TCS/playlist.m3u8"
+    },
+    {
+        "Title": "警察廣播電台 - 台北台",
+        "Country": "Taiwan",
+        "Tags": "local news,traffic",
+        "Language": "cmn,zh",
+        "Homepage": "https://pbs.npa.gov.tw/ch/index#a4",
+        "Source1": "http://stream.pbs.gov.tw:1935/live/TPS/playlist.m3u8"
+    },
+    {
+        "Title": "警察廣播電台 - 宜蘭台",
+        "Country": "Taiwan",
+        "Language": "zh",
+        "Homepage": "https://pbs.npa.gov.tw/",
+        "Source1": "http://stream.pbs.gov.tw:1935/live/ELS/playlist.m3u8"
+    },
+    {
+        "Title": "警察廣播電台 - 花蓮台",
+        "Country": "Taiwan",
+        "Language": "zh",
+        "Homepage": "https://pbs.npa.gov.tw/",
+        "Source1": "http://stream.pbs.gov.tw:1935/live/HLS/playlist.m3u8"
+    },
+    {
+        "Title": "警察廣播電臺 - 全國治安交通網 FM 104.9",
+        "Country": "Taiwan",
+        "Tags": "emergency & public safety,government,local traffic & weather,news,traffic,weather",
+        "Favicon": "https://www.pbs.npa.gov.tw/static/images/favicon.ico",
+        "Language": "cmn,zh",
+        "Homepage": "https://www.pbs.npa.gov.tw/",
+        "Latitude": 25.03603646467649,
+        "Longitude": 121.50758833617697,
+        "Source1": "https://stream.pbs.gov.tw/live/PBS/playlist.m3u8"
+    },
+    {
+        "Title": "警察廣播電臺 - 宜蘭分臺 FM 101.3",
+        "Country": "Taiwan",
+        "Tags": "emergency & public safety,government,local traffic & weather,news,traffic,weather",
+        "Favicon": "https://www.pbs.npa.gov.tw/static/images/favicon.ico",
+        "Language": "cmn,zh",
+        "Homepage": "https://www.pbs.npa.gov.tw/",
+        "Latitude": 24.75442480721671,
+        "Longitude": 121.7481717873661,
+        "Source1": "https://stream.pbs.gov.tw/live/ELS/playlist.m3u8"
+    },
+    {
+        "Title": "警察廣播電臺 - 新竹分臺 AM 1512",
+        "Country": "Taiwan",
+        "Tags": "emergency & public safety,government,local traffic & weather,news,traffic,weather",
+        "Favicon": "https://www.pbs.npa.gov.tw/static/images/favicon.ico",
+        "Language": "cmn,zh",
+        "Homepage": "https://www.pbs.npa.gov.tw/",
+        "Latitude": 24.810254098454525,
+        "Longitude": 121.02077295272808,
+        "Source1": "https://stream.pbs.gov.tw/live/SCS/playlist.m3u8"
+    },
+    {
+        "Title": "警察廣播電臺 - 臺中分臺 FM 94.5",
+        "Country": "Taiwan",
+        "Tags": "emergency & public safety,government,local traffic & weather,news,traffic,weather",
+        "Language": "cmn,zh",
+        "Homepage": "https://www.pbs.npa.gov.tw/",
+        "Latitude": 24.152939392587815,
+        "Longitude": 120.63225966821184,
+        "Source1": "https://stream.pbs.gov.tw/live/TCS/playlist.m3u8"
+    },
+    {
+        "Title": "警察廣播電臺 - 臺北分臺 FM 94.3",
+        "Country": "Taiwan",
+        "Tags": "emergency & public safety,government,local traffic & weather,news,traffic,weather",
+        "Favicon": "https://www.pbs.npa.gov.tw/static/images/favicon.ico",
+        "Language": "cmn,zh",
+        "Homepage": "https://www.pbs.npa.gov.tw/",
+        "Latitude": 25.03601702312708,
+        "Longitude": 121.507630993431,
+        "Source1": "https://stream.pbs.gov.tw/live/TPS/playlist.m3u8"
+    },
+    {
+        "Title": "警察廣播電臺 - 臺南分臺 AM 1314",
+        "Country": "Taiwan",
+        "Tags": "emergency & public safety,government,local traffic & weather,news,traffic,weather",
+        "Favicon": "https://www.pbs.npa.gov.tw/static/images/favicon.ico",
+        "Language": "cmn,zh",
+        "Homepage": "https://www.pbs.npa.gov.tw/",
+        "Latitude": 23.18828227142604,
+        "Longitude": 120.26517583133948,
+        "Source1": "https://stream.pbs.gov.tw/live/TNS/playlist.m3u8"
+    },
+    {
+        "Title": "警察廣播電臺 - 臺東分臺 FM 94.3",
+        "Country": "Taiwan",
+        "Tags": "emergency & public safety,government,local traffic & weather,news,traffic,weather",
+        "Favicon": "https://www.pbs.npa.gov.tw/static/images/favicon.ico",
+        "Language": "cmn,zh",
+        "Homepage": "https://www.pbs.npa.gov.tw/",
+        "Latitude": 22.755859927883822,
+        "Longitude": 121.15135881341727,
+        "Source1": "https://stream.pbs.gov.tw/live/TTS/playlist.m3u8"
+    },
+    {
+        "Title": "警察廣播電臺 - 花蓮分臺 FM 94.3",
+        "Country": "Taiwan",
+        "Tags": "emergency & public safety,government,local traffic & weather,news,traffic,weather",
+        "Favicon": "https://www.pbs.npa.gov.tw/static/images/favicon.ico",
+        "Language": "cmn,zh",
+        "Homepage": "https://www.pbs.npa.gov.tw/",
+        "Latitude": 23.9936076571303,
+        "Longitude": 121.62028404758524,
+        "Source1": "https://stream.pbs.gov.tw/live/HLS/playlist.m3u8"
+    },
+    {
+        "Title": "警察廣播電臺 - 高雄分臺 FM 93.1",
+        "Country": "Taiwan",
+        "Tags": "emergency & public safety,government,local traffic & weather,news,traffic,weather",
+        "Favicon": "https://www.pbs.npa.gov.tw/static/images/favicon.ico",
+        "Language": "cmn,zh",
+        "Homepage": "https://www.pbs.npa.gov.tw/",
+        "Latitude": 22.68833841814295,
+        "Longitude": 120.31700462016288,
+        "Source1": "https://stream.pbs.gov.tw/live/KSS/playlist.m3u8"
+    },
+    {
+        "Title": "資悠網路廣播實驗電台",
+        "Country": "Taiwan",
+        "Language": "zh",
+        "Homepage": "https://www.facebook.com/guide.tech/",
+        "Source1": "http://test.taiwan-radio.tw:8000/GUIDECast.AH"
+    },
+    {
+        "Title": "資悠網路廣播實驗電台",
+        "Country": "Taiwan",
+        "Favicon": "http://www.taiwan-radio.tw/Images/Logo/GUIDE_L.jpg",
+        "Language": "zh",
+        "Homepage": "http://www.guidetw.com.tw/",
+        "Source1": "http://mail.guidetw.com.tw:8000/live"
+    },
+    {
+        "Title": "農鄉廣播電台",
+        "Country": "Taiwan",
+        "Tags": "agriculture",
+        "Favicon": "http://www.taiwanradio.org.tw/images/bclogo/me79a.png",
+        "Language": "zh",
+        "Homepage": "https://www.facebook.com/RadioFM106.3/",
+        "Source1": "http://test.taiwan-radio.tw:8000/YL.FM106.3"
+    },
+    {
+        "Title": "連花廣播電台",
+        "Country": "Taiwan",
+        "Tags": "music",
+        "Favicon": "https://cdn.radoxo.com/images/taiwan/best.webp",
+        "Language": "zh",
+        "Homepage": "https://www.bestradio.com.tw/",
+        "Source1": "https://n05.rcs.revma.com/vh0xgcc59duvv"
+    },
+    {
+        "Title": "都會聲音FM99.7",
+        "Country": "Taiwan",
+        "Favicon": "http://www.taiwanradio.org.tw/images/bclogo/me110.png",
+        "Language": "zh",
+        "Homepage": "https://reurl.cc/Zy4gll",
+        "Source1": "http://test.taiwan-radio.tw:8000/TN.FM99.7"
+    },
+    {
+        "Title": "金聲廣播電台",
+        "Country": "Taiwan",
+        "Tags": "music,news",
+        "Favicon": "https://zh-cn.facebook.com/favicon.ico",
+        "Homepage": "https://zh-cn.facebook.com/FM921TW/posts/",
+        "Source1": "http://60.249.186.105:9000/;"
+    },
+    {
+        "Title": "陽光電台",
+        "Country": "Taiwan",
+        "Homepage": "https://www.apple-line.com/",
+        "Source1": "http://202.39.43.67:1935/live/RA000079/chunklist.m3u8"
+    },
+    {
+        "Title": "雲端新廣播",
+        "Country": "Taiwan",
+        "Tags": "full service",
+        "Favicon": "http://www.taiwanradio.org.tw/images/bclogo/me107.png",
+        "Language": "zh",
+        "Homepage": "https://newradio.tw/",
+        "Source1": "http://test.taiwan-radio.tw:8000/KS.FM99.5"
+    },
+    {
+        "Title": "電台測試2",
+        "Country": "Taiwan",
+        "Language": "zh",
+        "Homepage": "https://daairadio.tw/Page/Home/Index.aspx",
+        "Source1": "http://125.227.87.206:8000/SuperUS"
+    },
+    {
+        "Title": "電聲電台",
+        "Country": "Taiwan",
+        "Favicon": "https://e-go.org.tw/esound/images/down02.gif",
+        "Language": "zh",
+        "Homepage": "https://e-go.org.tw/esound/index.asp",
+        "Source1": "http://test.taiwan-radio.tw:8000/TN.AM1071",
+        "Source2": "http://59.120.102.91:8000/OnAir"
+    },
+    {
+        "Title": "領袖廣播",
+        "Country": "Taiwan",
+        "Tags": "full service",
+        "Favicon": "https://myradio.com.tw/_next/image?url=https%3A%2F%2Fimages.myradio.com.tw%2Fimages%2FA11501.jpg&w=256&q=75",
+        "Homepage": "https://fm937fm.com/",
+        "Source1": "https://n14.rcs.revma.com/hpeqh9mkc6hvv"
+    },
+    {
+        "Title": "飛揚調頻FM89.5",
+        "Country": "Taiwan",
+        "Tags": "music,oldies",
+        "Favicon": "https://www.flyradio.com.tw/wp-content/uploads/2021/09/895-280x280.png",
+        "Language": "zh",
+        "Homepage": "https://www.flyradio.com.tw/",
+        "Source1": "https://n13.rcs.revma.com/e0tdah74hv8uv"
+    },
+    {
+        "Title": "飛碟聯播網 南台灣之聲",
+        "Country": "Taiwan",
+        "Favicon": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTEEL-VYyRhPwW2T8fL2tRLIurCTv14pkr8ROcq6EPrDeMEfx7Q",
+        "Homepage": "https://www.uforadio.com.tw/",
+        "Source1": "http://cast.uforadio.com.tw:8000/kao-stream"
+    },
+    {
+        "Title": "飛碟聯播網 台中真善美",
+        "Country": "Taiwan",
+        "Favicon": "https://th.bing.com/th/id/OIP.TGsX2XaTbCbMOwitBTCXpwHaHa?pid=ImgDet&w=300&h=300",
+        "Homepage": "https://www.uforadio.com.tw/",
+        "Source1": "http://cast.uforadio.com.tw:8000/tai-stream"
+    },
+    {
+        "Title": "飛碟聯播網 台東知本電台",
+        "Country": "Taiwan",
+        "Favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEPydINJqu3PdoTAAg2WwFAObfC3puwOrdkQ&s",
+        "Homepage": "https://www.uforadio.com.tw/",
+        "Source1": "http://cast.uforadio.com.tw:8000/don-stream"
+    },
+    {
+        "Title": "飛碟聯播網 太魯閣之音",
+        "Country": "Taiwan",
+        "Favicon": "https://cdn-profiles.tunein.com/s7208/images/logod.jpg",
+        "Homepage": "https://www.uforadio.com.tw/",
+        "Source1": "http://cast.uforadio.com.tw:8000/hua-stream"
+    },
+    {
+        "Title": "飛碟聯播網 澎湖社區電台",
+        "Country": "Taiwan",
+        "Favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF916Z0VzYjMPtnWBsRvzDGxQRp1ws_u6n9A&s",
+        "Homepage": "https://www.uforadio.com.tw/",
+        "Source1": "http://cast.uforadio.com.tw:8000/pen-stream"
+    },
+    {
+        "Title": "飛碟聯播網 苗栗中港溪",
+        "Country": "Taiwan",
+        "Favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK3yGv25OxjD9mNt9176YzPC89vHLMdpfNIQ&s",
+        "Homepage": "https://www.uforadio.com.tw/",
+        "Source1": "http://cast.uforadio.com.tw:8000/miao-stream"
+    },
+    {
+        "Title": "飛碟聯播網 雲嘉民生展望",
+        "Country": "Taiwan",
+        "Favicon": "https://static-cdn.jtvnw.net/jtv_user_pictures/f3c9b278-cea5-4bb9-a3c9-6158b5ab8a84-profile_image-300x300.png",
+        "Homepage": "https://www.uforadio.com.tw/",
+        "Source1": "http://cast.uforadio.com.tw:8000/yun-stream"
+    },
+    {
+        "Title": "飛碟聯播網 飛碟電台",
+        "Country": "Taiwan",
+        "Tags": "entertainment,music",
+        "Favicon": "https://myradio.com.tw/_next/image?url=https://images.myradio.com.tw/images/A0501.jpg&w=256&q=75",
+        "Language": "zh",
+        "Homepage": "https://www.fm995.com.tw/index.html",
+        "Source1": "https://n10.rcs.revma.com/em90w4aeewzuv"
+    },
+    {
+        "Title": "高雄廣播電台",
+        "Country": "Taiwan",
+        "Tags": "music",
+        "Favicon": "https://cdn.radoxo.com/images/taiwan/fm-94-3.webp",
+        "Language": "zh",
+        "Homepage": "https://www.kbs.gov.tw/index.aspx",
+        "Source1": "https://n13.rcs.revma.com/pet2dvug1bkvv"
+    },
+    {
+        "Title": "高雄廣播電台AM1089",
+        "Country": "Taiwan",
+        "Tags": "full service",
+        "Favicon": "https://zuiai.tv/zb_users/upload/2025/7/2025071455091025_mini.jpg",
+        "Language": "zh",
+        "Homepage": "https://www.kbs.gov.tw/",
+        "Source1": "https://n05.rcs.revma.com/4r99rt1g1bkvv"
+    },
+    {
+        "Title": "高雄港都廣播",
+        "Country": "Taiwan",
+        "Tags": "music",
+        "Favicon": "https://cdn.radoxo.com/images/taiwan/best-98-3.webp",
+        "Language": "zh",
+        "Homepage": "https://www.bestradio.com.tw/",
+        "Source1": "https://n10.rcs.revma.com/q2m07dc59duvv"
+    }
+]

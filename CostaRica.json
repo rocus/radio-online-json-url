@@ -1,0 +1,484 @@
+[
+    {
+        "Title": "103 (FM 103.1)",
+        "Country": "CostaRica",
+        "Tags": "hits,music,musica,música urbana",
+        "Favicon": "https://mmo.aiircdn.com/943/63d062c743beb.png",
+        "Language": "es",
+        "Homepage": "https://www.crc.cr/crc103-1/",
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/CRC_103_1AAC.aac"
+    },
+    {
+        "Title": "1047hit",
+        "Country": "CostaRica",
+        "Homepage": "https://1047hit.com/",
+        "Latitude": 9.90846497693732,
+        "Longitude": -84.00690972805025,
+        "Source1": "https://live.turadio.stream:7004/stream;"
+    },
+    {
+        "Title": "95.5 Jazz",
+        "Country": "CostaRica",
+        "Tags": "instrumental,jazz,latin jazz,smooth jazz",
+        "Favicon": "https://cdn.onlineradiobox.com/img/l/8/27408.v8.png",
+        "Language": "es",
+        "Homepage": "https://www.facebook.com/955jazz",
+        "Source1": "https://streaming.radio.co/s36bd2a451/listen"
+    },
+    {
+        "Title": "95.5 Jazz Radio",
+        "Country": "CostaRica",
+        "Tags": "jazz",
+        "Favicon": "https://radiocostarica.net/sites/default/files/styles/player_image/public/2023-03/95.5-jazz-radio-costa-rica.png.webp",
+        "Language": "es",
+        "Homepage": "https://radiocostarica.net/emisora/955-jazz-radio",
+        "Latitude": 9.992654875465307,
+        "Longitude": -84.07510093151966,
+        "Source1": "https://streaming.radio.co/s36bd2a451/listen"
+    },
+    {
+        "Title": "959 Conexion",
+        "Country": "CostaRica",
+        "Tags": "alternative,alternative rock,hits,indie,pop,rock",
+        "Favicon": "https://mmo.aiircdn.com/943/63f52a962ce60.png",
+        "Language": "es",
+        "Homepage": "https://www.crc.cr/crc959/player/",
+        "Latitude": 9.95345592648759,
+        "Longitude": -84.1124787926674,
+        "Source1": "https://29308.live.streamtheworld.com/CRC_959AAC.aac?_="
+    },
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "CostaRica",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "Amor FM 93.9",
+        "Country": "CostaRica",
+        "Tags": "baladas en español,clasicos,musica,musica romantica",
+        "Favicon": "https://www.amorfmcr.com/wp-content/uploads/2020/12/cropped-Logo-Amor-FM.png",
+        "Language": "es",
+        "Homepage": "https://www.amorfmcr.com/",
+        "Source1": "https://player.hostingtico.com/proxy/8094"
+    },
+    {
+        "Title": "Avance Radio",
+        "Country": "CostaRica",
+        "Tags": "bible,biblia,cristiana,familia,family,gospel,religious",
+        "Favicon": "https://avanceradio.com/images/logo.svg",
+        "Language": "es",
+        "Homepage": "https://avanceradio.com/",
+        "Source1": "https://radios.solumedia.com:6512/;"
+    },
+    {
+        "Title": "Azul 99.9 FM",
+        "Country": "CostaRica",
+        "Tags": "baladas en español,entretenimiento,musica romantica,pop en español",
+        "Favicon": "https://mmo.aiircdn.com/943/63d062c6d0e2c.png",
+        "Language": "es",
+        "Homepage": "https://www.crc.cr/crc999/",
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/CRC_999AAC.aac"
+    },
+    {
+        "Title": "Classics Pop & Rock",
+        "Country": "CostaRica",
+        "Tags": "70s,80s,90s,classic hits,classic rock,oldies,pop,pop classic,rock",
+        "Favicon": "https://static.wixstatic.com/media/88b483_c2a525ad452f44a9881d8d1414a67d25~mv2.jpg/v1/fill/w_510,h_510,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/88b483_c2a525ad452f44a9881d8d1414a67d25~mv2.jpg",
+        "Language": "en,es",
+        "Homepage": "https://www.classicspoprock.com/",
+        "Source1": "http://c9.radioboss.fm:8035/stream"
+    },
+    {
+        "Title": "CLUB DANCE MUSIC",
+        "Country": "CostaRica",
+        "Tags": "dance,edm,electronic,house,trance",
+        "Favicon": "https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2FjzOzGtt3a2s_feaaAtASbR2wIxZEDnx6tYu91XxoAr0%2Frs%3Afit%3A1500%3A600%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSURncl9MWTZBZ01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSURnNzZLSHNRb01vZ0VFZW1WdWJ3L21pY3Jvc2l0ZS9iYWNrZ3JvdW5kX2ltYWdlLz91cGRhdGVkPTE3MTI3NjU4ODUwMDA.webp&w=1920&q=70",
+        "Language": "es",
+        "Homepage": "https://zeno.fm/radio/ClubDanceMusic/",
+        "Source1": "https://stream.zeno.fm/5x4sda9kxtzuv"
+    },
+    {
+        "Title": "Colosal FM 88.3",
+        "Country": "CostaRica",
+        "Tags": "entretenimiento,latin,latino,música variada,pop en español e inglés,salsa,tropical",
+        "Favicon": "https://colosalstereo.com/IMG/BotonRadio.png",
+        "Language": "es",
+        "Homepage": "https://colosalstereo.com/#",
+        "Source1": "https://5eac7b031d945.streamlock.net/canal3/canal3/playlist.m3u8"
+    },
+    {
+        "Title": "Columbia Estéreo 92.7 FM",
+        "Country": "CostaRica",
+        "Tags": "baladas en español,baladas en ingles,musica romantica",
+        "Favicon": "https://columbiaestereo.com/wp-content/uploads/2022/09/fndo-rosa-05-2-768x244.png",
+        "Language": "es",
+        "Homepage": "https://columbiaestereo.com/",
+        "Source1": "https://s5.radio.co/sca838cc60/listen"
+    },
+    {
+        "Title": "Conexiones del Ayer",
+        "Country": "CostaRica",
+        "Tags": "clásicos,cristiana",
+        "Language": "es",
+        "Homepage": "http://conexionpositivaradio.com/",
+        "Latitude": 10.462844596691864,
+        "Longitude": -84.037435933658,
+        "Source1": "https://stream.conexionpositivaradio.com/listen/conexiones_del_ayer/radio.mp3"
+    },
+    {
+        "Title": "Conexión Positiva Radio",
+        "Country": "CostaRica",
+        "Tags": "cristiana,latina",
+        "Language": "es",
+        "Homepage": "http://conexionpositivaradio.com/",
+        "Latitude": 10.422148035326188,
+        "Longitude": -84.10317363133466,
+        "Source1": "https://stream.conexionpositivaradio.com/listen/conexion_positiva/radio.mp3"
+    },
+    {
+        "Title": "CRC 89.1 RADIO",
+        "Country": "CostaRica",
+        "Tags": "news,noticias,sports,talk,varios",
+        "Favicon": "https://mmo.aiircdn.com/943/63d05efc1bbc6.png",
+        "Language": "es",
+        "Homepage": "https://www.crc.cr/crc891/",
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/CRC_89_1AAC.aac"
+    },
+    {
+        "Title": "Dabar",
+        "Country": "CostaRica",
+        "Homepage": "https://dabarradio.org/",
+        "Latitude": 9.428975524195389,
+        "Longitude": -83.64325046539308,
+        "Source1": "https://a1.asurahosting.com:8720/radio.mp3"
+    },
+    {
+        "Title": "Dabar Radio",
+        "Country": "CostaRica",
+        "Tags": "cristiana,gospel,religious",
+        "Favicon": "https://dabarradio.org/wp-content/uploads/2017/12/cropped-favicon-90x90.png",
+        "Language": "es",
+        "Homepage": "https://dabarradio.org/",
+        "Source1": "https://a1.asurahosting.com:8720/radio.mp3/;"
+    },
+    {
+        "Title": "Elite radio 88.5 FM",
+        "Country": "CostaRica",
+        "Tags": "adult contemporary,music,musica romantica,música en español,radio comunitaria",
+        "Favicon": "https://eliteradiocr.com/wp-content/uploads/2023/01/cropped-cropped-Logotipo-1.png",
+        "Language": "es",
+        "Homepage": "https://eliteradiocr.com/",
+        "Source1": "https://stream20.usastreams.com/8008/stream"
+    },
+    {
+        "Title": "Faro del Caribe 97.1 FM y 1080 AM",
+        "Country": "CostaRica",
+        "Tags": "cristiana,evangelio,family,gospel,religious",
+        "Favicon": "https://www.farodelcaribe.org/images/emisoras-cintillo.png",
+        "Language": "es",
+        "Homepage": "https://www.farodelcaribe.org/",
+        "Source1": "https://sp.unoredcdn.net/8032/stream"
+    },
+    {
+        "Title": "FRECUENCIA CCI",
+        "Country": "CostaRica",
+        "Tags": "christian,gospel",
+        "Favicon": "https://static.wixstatic.com/media/8b4d79_81c53da55c504638ab0a4fc8cdd084cb~mv2.png/v1/fill/w_513,h_326,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Logo%20Naranja-blanco-1000x800-transparente.png",
+        "Language": "es",
+        "Homepage": "https://www.frecuenciacci.com/",
+        "Latitude": 9.983841159750735,
+        "Longitude": -84.09943465873693,
+        "Source1": "https://streaming.radio.co/s6729aeaac/listen"
+    },
+    {
+        "Title": "Influencia Positiva Radio",
+        "Country": "CostaRica",
+        "Favicon": "https://nexotuner.net/wp-content/uploads/2026/05/NUEVOLOGORADIOINFUENCIA.jpg",
+        "Homepage": "https://influenciapositivaradiocr.com/",
+        "Source1": "https://panel.gruponovaradial.com/listen/influencia_positiva_radio/radio.mp3"
+    },
+    {
+        "Title": "IQ Radio",
+        "Country": "CostaRica",
+        "Tags": "alternative,costa rica,pop,rock",
+        "Favicon": "https://cdn-radiotime-logos.tunein.com/s50287q.png",
+        "Language": "en,es",
+        "Homepage": "http://www.iqmedios.com/",
+        "Source1": "http://rtvhd.net:9942/;stream/1"
+    },
+    {
+        "Title": "IQ Radio 105.5 FM",
+        "Country": "CostaRica",
+        "Homepage": "http://www.iqmedios.com/",
+        "Source1": "http://rtvhd.net:9942/;"
+    },
+    {
+        "Title": "JAZZ 95.5 FM",
+        "Country": "CostaRica",
+        "Favicon": "https://955jazz.com/wp-content/uploads/2022/08/Logo-Jazz.png",
+        "Homepage": "https://955jazz.com/",
+        "Source1": "https://streaming.radio.co/s36bd2a451/listen"
+    },
+    {
+        "Title": "MCC Radio",
+        "Country": "CostaRica",
+        "Tags": "religion",
+        "Language": "es",
+        "Homepage": "https://zeno.fm/radio/mcc-musica-cristiana-conservadora/",
+        "Source1": "https://stream.zeno.fm/ufd5gasyvn0tv"
+    },
+    {
+        "Title": "Mundo Rock Radio",
+        "Country": "CostaRica",
+        "Favicon": "https://radio.mundorockcr.com/wp-content/uploads/2021/08/LogoLogout.png",
+        "Homepage": "https://radio.mundorockcr.com/",
+        "Source1": "https://as100.globalhost1.com/8046/stream"
+    },
+    {
+        "Title": "Nueve Cuatro Siete - 94.7 FM",
+        "Country": "CostaRica",
+        "Tags": "international",
+        "Favicon": "https://mmo.aiircdn.com/943/63d062c76c332.png",
+        "Homepage": "https://www.crc.cr/crc947/",
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/CRC_947AAC.aac?_=819140"
+    },
+    {
+        "Title": "onda digital fm sancarlos",
+        "Country": "CostaRica",
+        "Language": "es",
+        "Homepage": "http://ondadigitalfm.es/",
+        "Source1": "https://radio.serviciosderadio.com/listen/onda_digital_fm_costa_rica/radio.aac"
+    },
+    {
+        "Title": "Osa Radio Online",
+        "Country": "CostaRica",
+        "Homepage": "https://onlineosaradio.blogspot.com/",
+        "Source1": "https://radioscr.digitaltvcr.xyz/listen/osaonline/osaradio"
+    },
+    {
+        "Title": "Planet 107.5",
+        "Country": "CostaRica",
+        "Homepage": "https://planet1075.com/",
+        "Source1": "https://stream20.usastreams.com/8094/stream"
+    },
+    {
+        "Title": "Puerto Limón Radio",
+        "Country": "CostaRica",
+        "Homepage": "https://puertolimonradio.com/",
+        "Source1": "https://puertolimonradio-rowrigos.radioca.st/listen.pls?sid=1"
+    },
+    {
+        "Title": "RADIO 1075",
+        "Country": "CostaRica",
+        "Favicon": "http://www.radio1075.com/assets/img/basic/logo2.png",
+        "Homepage": "http://www.radio1075.com/#",
+        "Source1": "http://65.60.45.74:8400/;stream/1;"
+    },
+    {
+        "Title": "Radio Casino",
+        "Country": "CostaRica",
+        "Homepage": "https://radiocasino.net/",
+        "Source1": "https://host.rowrigo.com/listen/radiocasino/radiocasino"
+    },
+    {
+        "Title": "Radio Casino 98.3FM",
+        "Country": "CostaRica",
+        "Homepage": "https://radiocasino.net/",
+        "Source1": "https://host.rowrigo.com/listen/radiocasino/radiocasino"
+    },
+    {
+        "Title": "Radio Costa",
+        "Country": "CostaRica",
+        "Favicon": "https://radiocosta.eu/wp-content/uploads/2024/03/logo-2024-768x384.png",
+        "Homepage": "https://radiocosta.eu/en/",
+        "Source1": "https://sonicpanel.globalstream.pro:10979/;"
+    },
+    {
+        "Title": "Radio Diriá",
+        "Country": "CostaRica",
+        "Tags": "latin,variado",
+        "Favicon": "https://static2.mytuner.mobi/media/tvos_radios/756/radio-diria.87fda3c0.png",
+        "Language": "es",
+        "Homepage": "https://radiodiria.com/",
+        "Latitude": 10.238615332186424,
+        "Longitude": -85.59860229492189,
+        "Source1": "https://stream.zeno.fm/xk0xpwtc4ttvv.mp3"
+    },
+    {
+        "Title": "Radio Dos (2) Costa Rica",
+        "Country": "CostaRica",
+        "Tags": "00s,80s,90s,blues,blues rock,classic rock,country,hits,rock,top hits",
+        "Favicon": "https://radiodos.com/assets/LogoRadio2.svg",
+        "Language": "es",
+        "Homepage": "https://radiodos.com/",
+        "Latitude": 9.973178696440334,
+        "Longitude": -84.0864009654375,
+        "Source1": "https://s5.radio.co/sd515b7b34/listen"
+    },
+    {
+        "Title": "Radio Frecuencia Tierra",
+        "Country": "CostaRica",
+        "Tags": "costa rica",
+        "Favicon": "https://www.frecuenciatierra.com/wp-content/uploads/2012/11/cropped-cuadrado-125-x-1251-180x180.png",
+        "Language": "es",
+        "Homepage": "http://www.frecuenciatierra.com/",
+        "Source1": "http://68.235.35.243:9008/stream"
+    },
+    {
+        "Title": "Radio Hit",
+        "Country": "CostaRica",
+        "Homepage": "https://1047hit.com/",
+        "Latitude": 9.853412487032084,
+        "Longitude": -83.74469639222177,
+        "Source1": "https://live.turadio.stream:7004/stream?type=http&nocache=596"
+    },
+    {
+        "Title": "Radio Hit 104.7",
+        "Country": "CostaRica",
+        "Favicon": "https://1047hit.com/wp-content/uploads/2020/12/512-hit.png",
+        "Homepage": "https://1047hit.com/",
+        "Source1": "https://live.turadio.stream:7004/stream?type=http&nocache=596"
+    },
+    {
+        "Title": "Radio María Costa Rica - 100.7 FM",
+        "Country": "CostaRica",
+        "Tags": "catholic,religious,talk",
+        "Language": "es",
+        "Homepage": "http://www.radiomaria.cr/",
+        "Source1": "http://dreamsiteradiocp2.com:8044/stream"
+    },
+    {
+        "Title": "Radio Mil Recuerdos Stereo",
+        "Country": "CostaRica",
+        "Homepage": "https://sechin.grupocentroserver.com/public/radio_mil_recuerdos_costa_rica",
+        "Latitude": 9.836442317442208,
+        "Longitude": -84.09484863281251,
+        "Source1": "https://sechin.grupocentroserver.com/radio/8060/radio.mp3"
+    },
+    {
+        "Title": "Radio Mil Recuerdos Stereo",
+        "Country": "CostaRica",
+        "Homepage": "https://www.radiomilrecuerdos.com/",
+        "Latitude": 9.946154862213554,
+        "Longitude": -84.05287742614748,
+        "Source1": "https://sechin.grupocentroserver.com/radio/8060/radio.mp3"
+    },
+    {
+        "Title": "Radio Musical 97.5",
+        "Country": "CostaRica",
+        "Favicon": "https://radiomusical.com/wp-content/uploads/2020/11/logo-musical.png",
+        "Homepage": "https://radiomusical.com/",
+        "Source1": "https://live.turadio.stream:7005/stream?type=http&nocache=596"
+    },
+    {
+        "Title": "Radio Nosara",
+        "Country": "CostaRica",
+        "Tags": "latina",
+        "Language": "es",
+        "Homepage": "https://www.radiotvnosara.online/",
+        "Latitude": 9.968264477934454,
+        "Longitude": -85.64476847648622,
+        "Source1": "https://sonicpanel.zonaradio.net/8038/stream"
+    },
+    {
+        "Title": "Radio Nosara",
+        "Country": "CostaRica",
+        "Tags": "latina",
+        "Language": "es",
+        "Homepage": "https://radioytvnosara.online/",
+        "Latitude": 9.968607901068577,
+        "Longitude": -85.64494013786317,
+        "Source1": "https://sonicpanel.zonaradio.net/8038/stream"
+    },
+    {
+        "Title": "Radio Omega 105.1 FM",
+        "Country": "CostaRica",
+        "Homepage": "http://www.radioomega.fm/",
+        "Source1": "https://centova.hostingtico.com:7008/;",
+        "Source2": "http://rtvhd.net:9932/listen.pls"
+    },
+    {
+        "Title": "Radio Revolución",
+        "Country": "CostaRica",
+        "Tags": "news",
+        "Language": "es",
+        "Homepage": "https://zeno.fm/radio/radio-revolucion-maai/",
+        "Latitude": 9.924504857894236,
+        "Longitude": -84.07403469085695,
+        "Source1": "https://stream.zeno.fm/ftcx2988uwzuv"
+    },
+    {
+        "Title": "Radio Sinfonola",
+        "Country": "CostaRica",
+        "Tags": "80s,latino,oldies",
+        "Language": "es",
+        "Homepage": "https://radiosinfonola.com/",
+        "Source1": "https://live.turadio.stream:7006/"
+    },
+    {
+        "Title": "Señal Radio Elite",
+        "Country": "CostaRica",
+        "Homepage": "https://eliteradiocr.com/",
+        "Source1": "https://stream20.usastreams.com/8008/;"
+    },
+    {
+        "Title": "Super Radio 102.3",
+        "Country": "CostaRica",
+        "Tags": "hits,jazz,rock",
+        "Favicon": "https://s3.amazonaws.com/cdn.radionewproject.com/159483f7bfc97d1739e349a93daa2baa.jpg",
+        "Language": "en,es",
+        "Homepage": "http://emisorascostarica.com/super-radio-1023-fm",
+        "Source1": "http://superradio.rtvhd.net:8010/stream/1/"
+    },
+    {
+        "Title": "Tamarindo Radio",
+        "Country": "CostaRica",
+        "Tags": "80s rock,classic rock,oldies",
+        "Language": "es",
+        "Homepage": "https://tamarindoradio.com/",
+        "Source1": "http://s1.voscast.com:11392/stream"
+    },
+    {
+        "Title": "Teletica Radio",
+        "Country": "CostaRica",
+        "Tags": "información,local news,música y noticias,news,pop,pop music,pop rock",
+        "Language": "es",
+        "Homepage": "https://www.teletica.com/",
+        "Latitude": 9.938763279696108,
+        "Longitude": -84.10764276981355,
+        "Source1": "https://g2qd375ol7an-hls-live.5centscdn.com/Radio/eae835e83c0494a376229f254f7d3392.sdp/chunks.m3u8"
+    },
+    {
+        "Title": "Tiquicia Rock",
+        "Country": "CostaRica",
+        "Tags": "alternative,grunge,metal,rock",
+        "Language": "en,es",
+        "Homepage": "https://tiquiciarock.com/",
+        "Latitude": 10.062881986408186,
+        "Longitude": -84.07562255859376,
+        "Source1": "https://usa19.fastcast4u.com:5860/;?type=http&nocache=1690470873"
+    },
+    {
+        "Title": "Urbano 106 - 105.9 FM - San José, Costa Rica",
+        "Country": "CostaRica",
+        "Tags": "105.9 fm,américa,centroamérica,costa rica,dancehall,entretenimiento,español,estación,fm,hiphop,juvenil,latinoamérica,moi merino,music,música,música en español e inglés,música urbana,r&b,r&b/urban,radio,reggae,san josé,urban,urban contemporary,urban music,urbana,urbano,urbano 106",
+        "Favicon": "https://i0.wp.com/www.urbano106.com/wp-content/uploads/2018/10/LOGO-PARA-WEBS.png",
+        "Language": "es",
+        "Homepage": "https://www.urbano106.com/",
+        "Latitude": 9.934955669920658,
+        "Longitude": -84.07957077026369,
+        "Source1": "https://usa18.fastcast4u.com/proxy/rmoohhrw?mp=/1"
+    },
+    {
+        "Title": "Urbano 106 105.9",
+        "Country": "CostaRica",
+        "Tags": "hip-hop,hiphop,latino,rap,reagge,reguetón,trap",
+        "Favicon": "https://s3.amazonaws.com/cdn.radionewproject.com/2ceff7f48f0d205be4d94c74a052623f.jpg",
+        "Language": "en,es",
+        "Homepage": "http://emisorascostarica.com/urbano-106-1059-fm",
+        "Source1": "https://usa18.fastcast4u.com/proxy/rmoohhrw?mp=/stream/1/"
+    }
+]

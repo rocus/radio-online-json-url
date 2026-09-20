@@ -1,0 +1,684 @@
+[
+    {
+        "Title": "Aquarelle FM",
+        "Country": "Moldova",
+        "Favicon": "http://www.frocus.net/images/logotv/aquarelle-fm.jpg",
+        "Language": "ro",
+        "Homepage": "http://aquarellefm.md/",
+        "Source1": "http://93.115.137.75:8000/aquarellefm.mp3"
+    },
+    {
+        "Title": "CITY FM",
+        "Country": "Moldova",
+        "Tags": "pop",
+        "Favicon": "https://cityfm.md/images/360/13545635/LOGOCITY004.png",
+        "Homepage": "https://cityfm.md/",
+        "Source1": "https://live.cityfm.md:8001/cityfm"
+    },
+    {
+        "Title": "Crucial Velocity Radio",
+        "Country": "Moldova",
+        "Tags": "rock",
+        "Favicon": "https://live.mystreamplayer.com/configs/images/crucialvelocityradio_icon.png",
+        "Homepage": "https://live.mystreamplayer.com/crucialvelocityradio",
+        "Latitude": 46.02442760712411,
+        "Longitude": 28.828125000000004,
+        "Source1": "http://ais-sa2.cdnstream1.com/1369_128"
+    },
+    {
+        "Title": "Dance Fm Moldova",
+        "Country": "Moldova",
+        "Tags": "dance,dance pop,electronic,house,new music,pop",
+        "Favicon": "http://dancefmmoldova.md/images/96x96/10648733/dancefmlogosmall.png",
+        "Language": "ro,ru",
+        "Homepage": "http://dancefmmoldova.md/",
+        "Source1": "http://37.233.41.76:8000/dancefm"
+    },
+    {
+        "Title": "DeepNova Radio",
+        "Country": "Moldova",
+        "Favicon": "https://deepnovaradio.com/wp-content/uploads/2025/05/deepnova-320-170x170.png.webp",
+        "Homepage": "https://deepnovaradio.com/blog/radiochannel/deepnova-320/",
+        "Source1": "https://a8.asurahosting.com:8820/radio.mp3"
+    },
+    {
+        "Title": "DeepNova Radio",
+        "Country": "Moldova",
+        "Tags": "deep house,electronic,house",
+        "Favicon": "https://deepnovaradio.com/wp-content/uploads/2025/05/deepnova-320-170x170.png.webp",
+        "Homepage": "https://deepnovaradio.com/ro/blog/radiochannel/deepnova-top-deep-house/",
+        "Source1": "https://a8.asurahosting.com:8820/radio.mp3"
+    },
+    {
+        "Title": "DeepNova Radio - DanceNova",
+        "Country": "Moldova",
+        "Tags": "club hits,dance house,edm",
+        "Favicon": "https://deepnovaradio.com/wp-content/uploads/2025/06/dancenova-320.png.webp",
+        "Homepage": "https://deepnovaradio.com/ro/blog/radiochannel/best-dance-house/",
+        "Source1": "https://a3.asurahosting.com/listen/dance_house_hits/radio-192.mp3%20(320kbps%20MP3)"
+    },
+    {
+        "Title": "Drive FM",
+        "Country": "Moldova",
+        "Tags": "hits",
+        "Language": "en,ro,ru",
+        "Homepage": "http://drivefm.md/",
+        "Latitude": 47.01771635397925,
+        "Longitude": 28.84597778320313,
+        "Source1": "http://109.185.236.241:8000/DriveFM"
+    },
+    {
+        "Title": "Eco FM",
+        "Country": "Moldova",
+        "Favicon": "https://ecofm.md/wp-content/uploads/2017/10/cropped-customcolor_icon_transparent_background-180x180.png",
+        "Language": "ro",
+        "Homepage": "http://ecofm.md/",
+        "Source1": "http://188.138.204.98:8080/ecoFM"
+    },
+    {
+        "Title": "Focul din Vatră",
+        "Country": "Moldova",
+        "Tags": "dance,hits,pop",
+        "Favicon": "https://aiciascult.eu/favicon.ico",
+        "Homepage": "https://aiciascult.eu/",
+        "Source1": "https://aiciascult.eu/radio"
+    },
+    {
+        "Title": "Glowwave-FM",
+        "Country": "Moldova",
+        "Tags": "2000s,80s,90s,hiphop,lossless,pop",
+        "Favicon": "https://glowlinks.net/the-glow-network.png",
+        "Language": "de,en,hi,nl",
+        "Homepage": "https://glowlinks.net/radio",
+        "Source1": "https://commandcenter.tail5a820f.ts.net/stream",
+        "Source2": "https://wavehub.uk/api/functions/stationStream?uuid=1cf33481-5bc1-4e66-a95f-9d5278542df1"
+    },
+    {
+        "Title": "Haliz Gagauz Radiosu - GRT",
+        "Country": "Moldova",
+        "Tags": "folk,pop...",
+        "Favicon": "null",
+        "Homepage": "http://s02.radio-tochka.com:8020/radio?type=.mp3",
+        "Source1": "http://s02.radio-tochka.com:8020/radio?type=.mp3"
+    },
+    {
+        "Title": "Haliz Gagauz Radiosu - GRT",
+        "Country": "Moldova",
+        "Tags": "ethno...,folk,pop",
+        "Favicon": "null",
+        "Homepage": "http://gagauzradio.ru/feedback",
+        "Source1": "http://s02.radio-tochka.com:8020/radio?type=.mp3"
+    },
+    {
+        "Title": "Hit FM 2000s HITS",
+        "Country": "Moldova",
+        "Tags": "#00s,00s,2000s,2000s dance,moldova,retro hits",
+        "Favicon": "https://www.ascultalive.ro/images/stations/1736887228.webp",
+        "Language": "en,ru",
+        "Homepage": "https://hitfm.md/",
+        "Source1": "https://radio3.dixi.md/listen/hit_fm_2000s_hits/hitfm2000hit128.aac"
+    },
+    {
+        "Title": "Hit FM Best Hits",
+        "Country": "Moldova",
+        "Homepage": "http://hitfm.md/",
+        "Source1": "https://radio3.dixi.md/listen/hit_fm_best_hits/hitfm_besthits128.aac"
+    },
+    {
+        "Title": "Hit FM Chișinău 101.7 fm",
+        "Country": "Moldova",
+        "Tags": "pop,top 40",
+        "Language": "ro,ru",
+        "Homepage": "https://hitfm.md/",
+        "Source1": "https://stream.dixi.md:9443/HitFM"
+    },
+    {
+        "Title": "Hit FM Dance",
+        "Country": "Moldova",
+        "Homepage": "https://hitfm.md/",
+        "Latitude": 47.01097476136412,
+        "Longitude": 28.8451661187761,
+        "Source1": "https://radio4.dixi.md/listen/hit_fm_dance_hits/hitfmdancehits128.aac"
+    },
+    {
+        "Title": "Hit Fm Drive Mode",
+        "Country": "Moldova",
+        "Homepage": "http://hitfm.md/",
+        "Source1": "https://radio7.dixi.md/listen/hit_fm_drive_mode/hitfmdrivemode128.aac"
+    },
+    {
+        "Title": "HIT FM Eurovision Hits",
+        "Country": "Moldova",
+        "Tags": "eurodance,europe,european,european music,eurovision,eurovision song contest,hits,pop,top hits",
+        "Favicon": "https://hitfm.md/img/channel/qbDkiVaF9GmGwBLA7Za2MGtZAOVhs7h2.png",
+        "Language": "en,ro",
+        "Homepage": "https://hitfm.md/",
+        "Source1": "https://radio7.dixi.md/listen/hit_fm_eurovision_hits/eurovisionhits.aac"
+    },
+    {
+        "Title": "Hit FM Hot Hits",
+        "Country": "Moldova",
+        "Favicon": "http://hitfm.md/favicon.ico",
+        "Homepage": "http://hitfm.md/",
+        "Source1": "https://radio3.dixi.md/listen/hit_fm_hot_hits/hitfm_hothits128.aac"
+    },
+    {
+        "Title": "HIT FM K-Pop Hits",
+        "Country": "Moldova",
+        "Tags": "k-pop",
+        "Favicon": "https://hitfm.md/favicon.png?v=2",
+        "Language": "ko",
+        "Homepage": "https://hitfm.md/",
+        "Source1": "https://radio3.dixi.md/listen/kpop_hits/kpop_hits.aac"
+    },
+    {
+        "Title": "HIT FM Latino Hits",
+        "Country": "Moldova",
+        "Tags": "latin,pop",
+        "Favicon": "https://hitfm.md/favicon.png?v=2",
+        "Language": "es,pt",
+        "Homepage": "https://hitfm.md/",
+        "Source1": "https://radio4.dixi.md/listen/hit_fm_latino_hits/radio.mp3"
+    },
+    {
+        "Title": "HIT FM Orchestral Classics",
+        "Country": "Moldova",
+        "Tags": "classical",
+        "Favicon": "https://hitfm.md/favicon.png?v=2",
+        "Homepage": "https://hitfm.md/",
+        "Source1": "https://radio7.dixi.md/listen/orchestral-classics/orchestral-classics.aac"
+    },
+    {
+        "Title": "Hit FM Summer Hits",
+        "Country": "Moldova",
+        "Homepage": "http://hitfm.md/",
+        "Source1": "https://radio4.dixi.md/listen/hit_fm_summer_hits/hitfmsummerhits128.aac"
+    },
+    {
+        "Title": "HIT FM Trance Hits",
+        "Country": "Moldova",
+        "Tags": "trance",
+        "Favicon": "https://hitfm.md/favicon.png?v=2",
+        "Homepage": "https://hitfm.md/",
+        "Source1": "https://radio3.dixi.md/listen/hit_fm_trance/trance128.aac"
+    },
+    {
+        "Title": "HIT FM Tricolor de Hituri",
+        "Country": "Moldova",
+        "Tags": "dance,hits,pop",
+        "Favicon": "https://hitfm.md/favicon.png?v=2",
+        "Language": "ro",
+        "Homepage": "https://hitfm.md/",
+        "Source1": "https://radio3.dixi.md/listen/hit_fm_tricolour/hitfmtricolor128.aac"
+    },
+    {
+        "Title": "HIT FM Русский Хит",
+        "Country": "Moldova",
+        "Tags": "hit",
+        "Favicon": "null",
+        "Homepage": "https://hitfm.md/ru",
+        "Source1": "https://radio3.dixi.md/listen/hit_fm_russkoe_hitovoe/hitfm_ruhit128.aac"
+    },
+    {
+        "Title": "imago.fm",
+        "Country": "Moldova",
+        "Homepage": "http://imago.fm/",
+        "Latitude": 47.02426985309355,
+        "Longitude": 28.85215759277344,
+        "Source1": "http://109.233.192.78:8000/_a"
+    },
+    {
+        "Title": "IMAGO.FM",
+        "Country": "Moldova",
+        "Tags": "alternative,eclectic,indie,jazz,pop,rock",
+        "Favicon": "https://imago.fm/img/favicons/android-icon-192x192.png",
+        "Homepage": "https://imago.fm/",
+        "Source1": "https://radio.imago.fm:8007/_a"
+    },
+    {
+        "Title": "Inter FM 107.7",
+        "Country": "Moldova",
+        "Homepage": "https://inter-fm.com/",
+        "Latitude": 46.83624602517554,
+        "Longitude": 29.61114227771759,
+        "Source1": "https://inter-fm.com/hlsstream/stream.m3u8"
+    },
+    {
+        "Title": "Jurnal Fm",
+        "Country": "Moldova",
+        "Tags": "hits,music,new music,news,pop,talk",
+        "Favicon": "https://jurnalfm.md/wp-content/uploads/2020/08/JFM-LOGO.png",
+        "Language": "ro,ru",
+        "Homepage": "https://jurnalfm.md/",
+        "Source1": "https://audio.jurnalfm.md/hq"
+    },
+    {
+        "Title": "Kiss FM Chișinău",
+        "Country": "Moldova",
+        "Tags": "hits,moldova,romanian",
+        "Favicon": "https://api.rockfm.ro/resized/streams/2024/09/23/kissfm-chisinau-4696b7_37baa944d8b6449a3bd03549a72356cb.jpg?w=120&h=120&c=1",
+        "Language": "ro",
+        "Homepage": "https://www.kissfm.md/",
+        "Source1": "https://dc.digi.live.kissfm.ro/kissfm.chisinau"
+    },
+    {
+        "Title": "Kiss FM Moldova",
+        "Country": "Moldova",
+        "Tags": "top hits,top40",
+        "Homepage": "https://www.kissfm.md/",
+        "Latitude": 47.01912074293779,
+        "Longitude": 28.851814270019535,
+        "Source1": "https://live.kissfm.md/kissfm.chisinau"
+    },
+    {
+        "Title": "LOVE PRO Dj Radio Chisinau",
+        "Country": "Moldova",
+        "Tags": "pop,top 40",
+        "Language": "ro",
+        "Homepage": "http://www.prodjradio.net/",
+        "Source1": "http://live.prodjradio.net:8000/;"
+    },
+    {
+        "Title": "Love Radio Moldova",
+        "Country": "Moldova",
+        "Language": "en,ro",
+        "Homepage": "http://loveradio.md/",
+        "Latitude": 47.021929410040514,
+        "Longitude": 28.843574523925785,
+        "Source1": "http://37.233.41.76:8000/lovefm"
+    },
+    {
+        "Title": "Master Class FM (MD)",
+        "Country": "Moldova",
+        "Tags": "pop",
+        "Source1": "https://listen3.myradio24.com/master1"
+    },
+    {
+        "Title": "Megapolis Fm",
+        "Country": "Moldova",
+        "Tags": "dance,dance pop,electronic,house,new music",
+        "Language": "ro,ru",
+        "Homepage": "https://megapolisfm.md/",
+        "Source1": "https://megapolisfm.md:8443/886"
+    },
+    {
+        "Title": "Megapolis FM Moldova",
+        "Country": "Moldova",
+        "Tags": "classic hits,contemporary hits",
+        "Homepage": "http://megapolisfm.md/",
+        "Latitude": 47.01116205043071,
+        "Longitude": 28.85490417480469,
+        "Source1": "https://megapolisfm.md:8443/886"
+    },
+    {
+        "Title": "Muz FM Moldova",
+        "Country": "Moldova",
+        "Homepage": "https://muzfm.md/",
+        "Latitude": 47.00310854194815,
+        "Longitude": 28.853821707432395,
+        "Source1": "https://live.muzfm.md/muzfm"
+    },
+    {
+        "Title": "Nebula-Radio",
+        "Country": "Moldova",
+        "Favicon": "https://myradio24.com/users/donsergio/nocover.jpg",
+        "Homepage": "https://www.nebulah-radio.com/",
+        "Source1": "https://myradio24.org/donsergio.m3u"
+    },
+    {
+        "Title": "Radio Ai Noștri",
+        "Country": "Moldova",
+        "Tags": "pop,talk",
+        "Favicon": "https://www.ainostri.com/favicon.ico",
+        "Language": "ro",
+        "Homepage": "https://www.ainostri.com/",
+        "Source1": "https://s5.radio.co/sfd9f42d1d/listen"
+    },
+    {
+        "Title": "Radio Cafe Moldova",
+        "Country": "Moldova",
+        "Favicon": "https://radiocafe.md/wp-content/uploads/2024/12/cropped-cafelogo-192x192.png",
+        "Homepage": "https://radiocafe.md/",
+        "Source1": "https://play.radiocafe.md:7000/radio.mp3"
+    },
+    {
+        "Title": "Radio Chișinău",
+        "Country": "Moldova",
+        "Tags": "culture,news,talk",
+        "Favicon": "https://radiochisinau.md/static/images/v1.logo.png",
+        "Language": "ro",
+        "Homepage": "https://radiochisinau.md/",
+        "Source1": "https://radiochisinau.md/hls/RChisinau.m3u8"
+    },
+    {
+        "Title": "Radio DAR",
+        "Country": "Moldova",
+        "Tags": "classical",
+        "Source1": "http://188.138.191.214/RadioDar"
+    },
+    {
+        "Title": "Radio Fresh MD",
+        "Country": "Moldova",
+        "Tags": "pop",
+        "Source1": "https://stream-151.zeno.fm/ttofovumhg1vv?zs=3vmFlLhiROOIFik2GUoxgw"
+    },
+    {
+        "Title": "Radio Micul Samaritean",
+        "Country": "Moldova",
+        "Favicon": "https://www.miculsamaritean.com/favicon.png",
+        "Homepage": "https://www.miculsamaritean.com/",
+        "Source1": "https://s5.radio.co/sfff7b7e97/listen"
+    },
+    {
+        "Title": "Radio Moldova",
+        "Country": "Moldova",
+        "Tags": "folk,news,talk",
+        "Favicon": "https://radiomoldova.md/apple-touch-icon.png",
+        "Language": "ro",
+        "Homepage": "https://radiomoldova.md/",
+        "Source1": "https://www.radio.md/stream/radiomoldovanews",
+        "Source2": "http://radiolive.trm.md:8000/RC-Actualitati"
+    },
+    {
+        "Title": "Radio Moldova Muzical",
+        "Country": "Moldova",
+        "Tags": "folk,jazz,pop,rock",
+        "Favicon": "https://radiomoldova.md/images/RM_muzical_logo.svg",
+        "Language": "en,ro",
+        "Homepage": "https://trm.md/en/radio-moldova-music",
+        "Source1": "http://radiolive.trm.md:8000/RM-muzical-256"
+    },
+    {
+        "Title": "Radio Moldova Tineret",
+        "Country": "Moldova",
+        "Tags": "news,pop",
+        "Favicon": "https://radiomoldova.md/apple-touch-icon.png",
+        "Language": "ro",
+        "Homepage": "https://radiomoldova.md/tineret",
+        "Source1": "https://radiolive.trm.md:8001/hls_rmt/tineret.m3u8"
+    },
+    {
+        "Title": "RADIO MUZFM",
+        "Country": "Moldova",
+        "Favicon": "https://www.muzfm.md/images/logo3.png",
+        "Homepage": "https://muzfm.md/",
+        "Source1": "https://live.muzfm.md//muzfmhd"
+    },
+    {
+        "Title": "Radio Noroc Moldova",
+        "Country": "Moldova",
+        "Favicon": "https://www.radionoroc.md/favicon.ico",
+        "Homepage": "https://www.radionoroc.md/",
+        "Source1": "https://stream.noroc.tv/radionoroc_aac"
+    },
+    {
+        "Title": "Radio Plai",
+        "Country": "Moldova",
+        "Tags": "folk,pop",
+        "Favicon": "https://www.radioplai.md/logo-radio-plai.png",
+        "Language": "ro",
+        "Homepage": "https://www.radioplai.md/",
+        "Source1": "https://stream.radioplai.md/live"
+    },
+    {
+        "Title": "Radio Record Moldova",
+        "Country": "Moldova",
+        "Tags": "dance,dance pop,electronic,house,new music",
+        "Language": "ro,ru",
+        "Homepage": "https://radiorecord.md/",
+        "Source1": "http://212.56.220.74:8000/RecordMD"
+    },
+    {
+        "Title": "Radio Relax - Funk & Soul",
+        "Country": "Moldova",
+        "Tags": "funk,soul",
+        "Favicon": "https://radiorelax.md/front-assets/favicon/apple-touch-icon.png",
+        "Homepage": "https://radiorelax.md/",
+        "Source1": "https://radio1.dixi.md/listen/relax_funk_soul/relaxfunkandsoul128.aac"
+    },
+    {
+        "Title": "Radio Relax - Jazz & Blues",
+        "Country": "Moldova",
+        "Tags": "blues,jazz",
+        "Favicon": "https://radiorelax.md/front-assets/favicon/apple-touch-icon.png",
+        "Homepage": "https://radiorelax.md/",
+        "Source1": "https://radio2.dixi.md/listen/relax_jazz__blues/relaxjazzblues128.aac"
+    },
+    {
+        "Title": "Radio Relax - lo-fi",
+        "Country": "Moldova",
+        "Tags": "chill,lo-fi",
+        "Favicon": "https://radiorelax.md/front-assets/favicon/apple-touch-icon.png",
+        "Homepage": "https://radiorelax.md/",
+        "Source1": "https://radio8.dixi.md/listen/relax_lofi/relax_lofi128.aac"
+    },
+    {
+        "Title": "Radio Relax - Nature",
+        "Country": "Moldova",
+        "Tags": "ambient,nature",
+        "Favicon": "https://radiorelax.md/front-assets/favicon/apple-touch-icon.png",
+        "Homepage": "https://radiorelax.md/",
+        "Source1": "https://radio8.dixi.md/listen/relax_ice_arena/relaxicearena128.aac"
+    },
+    {
+        "Title": "Radio Relax - Tricolor",
+        "Country": "Moldova",
+        "Tags": "pop",
+        "Favicon": "https://radiorelax.md/front-assets/favicon/apple-touch-icon.png",
+        "Language": "ro",
+        "Homepage": "https://radiorelax.md/",
+        "Source1": "https://radio1.dixi.md/listen/relax_tricolor/relaxtricolor128.aac"
+    },
+    {
+        "Title": "Radio Relax - Versiuni Acustice",
+        "Country": "Moldova",
+        "Tags": "acoustic",
+        "Favicon": "https://radiorelax.md/front-assets/favicon/apple-touch-icon.png",
+        "Homepage": "https://radiorelax.md/",
+        "Source1": "https://radio8.dixi.md/listen/relax_acoustic_version/relax_acousticversion128.aac"
+    },
+    {
+        "Title": "Radio Relax - VinoPizza",
+        "Country": "Moldova",
+        "Favicon": "https://radiorelax.md/front-assets/favicon/apple-touch-icon.png",
+        "Language": "it",
+        "Homepage": "https://radiorelax.md/",
+        "Source1": "https://radio2.dixi.md/listen/relax_vinopizza/vinopizza.aac"
+    },
+    {
+        "Title": "Radio RFI Moldova",
+        "Country": "Moldova",
+        "Language": "en,fr,ro",
+        "Homepage": "http://www.rfi.ro/r-moldova",
+        "Latitude": 47.00647991252098,
+        "Longitude": 28.86245727539063,
+        "Source1": "https://asculta.radiorfi.ro/live.mp3"
+    },
+    {
+        "Title": "Radio ROKS (Moldova) - Classic Rock",
+        "Country": "Moldova",
+        "Tags": "classic rock",
+        "Favicon": "https://radioroks.md/favicon.ico",
+        "Homepage": "https://radioroks.md/",
+        "Source1": "https://radio5.dixi.md/listen/classic_rock/roks_classic_rock128.aac"
+    },
+    {
+        "Title": "Radio ROKS (Moldova) - Hard'n'Heavy",
+        "Country": "Moldova",
+        "Tags": "hard rock,heavy metal",
+        "Favicon": "https://radioroks.md/front-assets/favicons/favicon-96x96.png",
+        "Homepage": "https://radioroks.md/",
+        "Source1": "https://radio5.dixi.md/listen/roks_hardnheavy/roks_hardnheavy.aac"
+    },
+    {
+        "Title": "Radio ROKS (Moldova) - Indie Rock",
+        "Country": "Moldova",
+        "Tags": "indie rock",
+        "Favicon": "https://radioroks.md/front-assets/favicons/favicon-96x96.png",
+        "Homepage": "https://radioroks.md/",
+        "Source1": "https://radio6.dixi.md/listen/indie_rock/indie_rock.aac"
+    },
+    {
+        "Title": "Radio ROKS (Moldova) - New Rock",
+        "Country": "Moldova",
+        "Tags": "alternative rock,new rock,pop rock",
+        "Favicon": "https://radioroks.md/favicon.ico",
+        "Homepage": "https://radioroks.md/",
+        "Source1": "https://radio6.dixi.md/listen/new_rock/new_rock128.aac"
+    },
+    {
+        "Title": "Radio ROKS (Moldova) - Pop Rock",
+        "Country": "Moldova",
+        "Tags": "pop rock",
+        "Favicon": "https://radioroks.md/favicon.ico",
+        "Homepage": "https://radioroks.md/",
+        "Source1": "https://radio6.dixi.md/listen/pop_rock/pop_rock.acc"
+    },
+    {
+        "Title": "Radio ROKS (Moldova) - Rock Ballads",
+        "Country": "Moldova",
+        "Tags": "rock ballads",
+        "Favicon": "https://radioroks.md/front-assets/favicons/favicon-96x96.png",
+        "Homepage": "https://radioroks.md/",
+        "Source1": "https://radio6.dixi.md/listen/rock_ballads/rockballads128.aac"
+    },
+    {
+        "Title": "Radio ROKS (Moldova) - Rock Tricolor",
+        "Country": "Moldova",
+        "Tags": "rock",
+        "Favicon": "https://radioroks.md/front-assets/favicons/favicon-96x96.png",
+        "Language": "ro",
+        "Homepage": "https://radioroks.md/",
+        "Source1": "https://radio5.dixi.md/listen/roks_tricolor/roks_tricolor128.aac"
+    },
+    {
+        "Title": "Radio ROKS (Moldova) - Workout",
+        "Country": "Moldova",
+        "Tags": "rock,workout",
+        "Favicon": "https://radioroks.md/front-assets/favicons/favicon-96x96.png",
+        "Homepage": "https://radioroks.md/",
+        "Source1": "https://radio6.dixi.md/listen/workout_rock/workout.aac"
+    },
+    {
+        "Title": "Radio ROKS Moldova",
+        "Country": "Moldova",
+        "Tags": "moldova, radio roks, radio roks moldova, rock",
+        "Favicon": "https://gitlab.com/alexby306/host-images/-/raw/c423ddd4e04814d37b020222f2ff4fca04aef928/radio-roks.jpg",
+        "Language": "ro",
+        "Region": "MD-CU",
+        "Homepage": "https://www.radioroks.md/",
+        "Latitude": 47.01284752246169,
+        "Longitude": 28.843928306568447,
+        "Source1": "https://stream.dixi.md:9443/Roks"
+    },
+    {
+        "Title": "Radio Studentus",
+        "Country": "Moldova",
+        "Tags": "hits",
+        "Homepage": "http://studentus.md/",
+        "Latitude": 47.023333688184934,
+        "Longitude": 28.84803771972657,
+        "Source1": "http://radiolive.studentus.md:8000/live"
+    },
+    {
+        "Title": "Radio Vintage",
+        "Country": "Moldova",
+        "Tags": "00s,90s",
+        "Favicon": "https://radiovintage.md/favicon/apple-touch-icon.png?v=3",
+        "Homepage": "https://radiovintage.md/",
+        "Source1": "https://live.radiovintage.md/vintage_main"
+    },
+    {
+        "Title": "Radio ZUM 1",
+        "Country": "Moldova",
+        "Tags": "dance,hits,new,new music,pop",
+        "Favicon": "https://res.cloudinary.com/super7/image/upload/v1637683737/rz-api-prod/images/pqthijlqa2bx6kmlajt6.png",
+        "Language": "ro",
+        "Homepage": "https://radiozum.md/",
+        "Source1": "https://streams.radiozum.md/listen/zum1/ZUM1"
+    },
+    {
+        "Title": "Radio ZUM 2",
+        "Country": "Moldova",
+        "Tags": "00s,10s,2000s,2010s,hits,pop",
+        "Favicon": "https://res.cloudinary.com/super7/image/upload/v1637683703/rz-api-prod/images/agnni2vhfudmfoun8vpg.png",
+        "Language": "ro",
+        "Homepage": "https://radiozum.md/",
+        "Source1": "https://streams.radiozum.md/listen/zum2/ZUM2"
+    },
+    {
+        "Title": "Radio ZUM4",
+        "Country": "Moldova",
+        "Tags": "chill,lo-fi,lounge,relax",
+        "Favicon": "https://res.cloudinary.com/super7/image/upload/v1698337048/rz-api-prod/images/radio_zum_4_study_work.jpg",
+        "Language": "ro",
+        "Homepage": "https://www.radiozum.md/",
+        "Source1": "https://streams.radiozum.md/listen/zum4/ZUM4"
+    },
+    {
+        "Title": "RadioBEAT",
+        "Country": "Moldova",
+        "Tags": "pop",
+        "Favicon": "https://radiobeat.md/images/favi1.png",
+        "Homepage": "https://radiobeat.md/",
+        "Source1": "https://ssl.omegahost.ro/9998/stream"
+    },
+    {
+        "Title": "Realitatea FM",
+        "Country": "Moldova",
+        "Tags": "oldies,pop",
+        "Favicon": "https://realitatea.md/wp-content/smush-webp/2021/03/cropped-rlive_avatar1-180x180.jpg.webp",
+        "Homepage": "https://realitatea.md/realitatea-fm/",
+        "Source1": "https://radio.realitatea.group/realitatea"
+    },
+    {
+        "Title": "Retro FM Moldova",
+        "Country": "Moldova",
+        "Tags": "retro",
+        "Favicon": "https://static.tildacdn.one/tild6364-6361-4237-a239-306236386565/180.png",
+        "Language": "ro,ru",
+        "Homepage": "https://retrofm.md/",
+        "Latitude": 47.00716702709468,
+        "Longitude": 28.864203393459324,
+        "Source1": "https://efir.retrofm.md:8000/retro"
+    },
+    {
+        "Title": "Sex Sound Radio",
+        "Country": "Moldova",
+        "Tags": "adult,asmr,erotic,explicit,female voices,noise,voices",
+        "Favicon": "https://sexsoundradio.com/favicon.ico",
+        "Homepage": "https://sexsoundradio.com/",
+        "Source1": "https://sexsoundradio.com:8000/radio.mp3"
+    },
+    {
+        "Title": "Smile FM",
+        "Country": "Moldova",
+        "Tags": "chr,hits,pop,top40",
+        "Language": "ro",
+        "Homepage": "https://www.smilefm.md/",
+        "Source1": "https://sonicssl.namehost.ro/8050/;"
+    },
+    {
+        "Title": "VibeFM",
+        "Country": "Moldova",
+        "Tags": "club,dance,dj,electronic",
+        "Favicon": "https://static.wixstatic.com/media/daef01_5bbe85f23d3d44819ae8a0f4e2dc7097~mv2.png",
+        "Homepage": "https://www.vibefm.md/",
+        "Source1": "https://stream.radio.co/s6a544f6c9/listen"
+    },
+    {
+        "Title": "Vocea Basarabiei",
+        "Country": "Moldova",
+        "Tags": "folk,news,talk",
+        "Favicon": "https://voceabasarabiei.md/wp-content/uploads/2022/08/cropped-Favicon-VB-192x192.png",
+        "Language": "ro",
+        "Homepage": "https://voceabasarabiei.md/",
+        "Source1": "https://stream.noroc.tv/radiovb_aac"
+    },
+    {
+        "Title": "Первое радио в вашем мобильном",
+        "Country": "Moldova",
+        "Homepage": "https://www.891fm.co.il/",
+        "Source1": "https://cdn.cybercdn.live/Pervoia/Audio/icecast.audio"
+    }
+]

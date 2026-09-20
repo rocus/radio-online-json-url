@@ -1,0 +1,31 @@
+[
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "SaintPierreandMiquelon",
+        "Favicon": "https://mp3islam.com/favicon.ico",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "Archipel FM SPM (975) 103.3",
+        "Country": "SaintPierreandMiquelon",
+        "Tags": "public radio",
+        "Favicon": "https://www.facebook.com/favicon.ico",
+        "Language": "fr",
+        "Homepage": "https://www.facebook.com/Radio-Archipel-FM-1033-985-173650349352754/",
+        "Latitude": 46.78679311685181,
+        "Longitude": -56.17303133010865,
+        "Source1": "http://radioarchipelfm.ice.infomaniak.ch/radioarchipelfm-64.mp3?token=a73d3f78786d4e7faba5a9e35eaed5bb%2Fe5c8c5d1?retry=0"
+    },
+    {
+        "Title": "La 1ere Saint Pierre et Miquelon (975)",
+        "Country": "SaintPierreandMiquelon",
+        "Tags": "public radio",
+        "Favicon": "https://www.google.com/url?sa=i&url=http%3A%2F%2Ffr-fr.radioline.co%2Fecouter-rfo-radio-saint-pierre-et-miquelon&psig=AOvVaw1XKDAabRkc01Z7sN8DoKjk&ust=1637792164850000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCKCbmrTBr_QCFQAAAAAdAAAAABAE",
+        "Homepage": "https://la1ere.francetvinfo.fr/saintpierremiquelon/",
+        "Latitude": 46.7831779322444,
+        "Longitude": -56.173428297042854,
+        "Source1": "https://saint-pierreetmiquelon.ice.infomaniak.ch/saint-pierreetmiquelon-128.mp3"
+    }
+]

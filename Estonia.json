@@ -1,0 +1,999 @@
+[
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "Estonia",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "All The Best Radio",
+        "Country": "Estonia",
+        "Homepage": "http://www.allthebestradio.ee/",
+        "Source1": "https://c4.radioboss.fm/stream/537"
+    },
+    {
+        "Title": "Duo Country",
+        "Country": "Estonia",
+        "Homepage": "https://raadioduo.pleier.ee/duo-country",
+        "Latitude": 59.42659137318512,
+        "Longitude": 24.74533081054688,
+        "Source1": "http://router.euddn.net/8103046e16b71d15d692b57c187875c7/dc_duocountry.aac"
+    },
+    {
+        "Title": "Duo Gold (Estonia)",
+        "Country": "Estonia",
+        "Tags": "gold,oldies",
+        "Favicon": "https://pleier.ee/favicons/pleier/favicon-32x32.png",
+        "Language": "et",
+        "Homepage": "https://raadioduo.pleier.ee/duo-gold",
+        "Latitude": 59.43606799799344,
+        "Longitude": 24.744987487792972,
+        "Source1": "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/kuld.aac"
+    },
+    {
+        "Title": "Duo GreatestHits (Estonia)",
+        "Country": "Estonia",
+        "Tags": "greatest hits",
+        "Favicon": "https://pleier.ee/favicons/pleier/favicon-32x32.png",
+        "Language": "en,et",
+        "Homepage": "https://raadioduo.pleier.ee/duo-greatest-hits",
+        "Latitude": 59.433169854123285,
+        "Longitude": 24.743614196777344,
+        "Source1": "http://router.euddn.net/8103046e16b71d15d692b57c187875c7/hitmix.aac"
+    },
+    {
+        "Title": "Duo Party",
+        "Country": "Estonia",
+        "Tags": "dance",
+        "Favicon": "https://f302.pmo.ee/L3qQOIrm8IQjKoZDAoI7ouLHfe8=/460x460/smart/filters:quality(90)/https://f303.pmo.ee/media/2024/03/duoparty-ruut.jpg",
+        "Homepage": "https://raadioduo.pleier.ee/duo-party",
+        "Latitude": 59.42610459322465,
+        "Longitude": 24.77945923805237,
+        "Source1": "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/duodance.aac"
+    },
+    {
+        "Title": "Duo Rock",
+        "Country": "Estonia",
+        "Tags": "rock",
+        "Favicon": "https://f302.pmo.ee/9fiNHF2zDHnAOorNiKg4V0He9XM=/460x460/smart/filters:quality(90)/https://f303.pmo.ee/media/2023/07/duo-rock.png",
+        "Homepage": "https://raadioduo.pleier.ee/duo-rock",
+        "Latitude": 59.42611332471574,
+        "Longitude": 24.779614806175235,
+        "Source1": "http://router.euddn.net/8103046e16b71d15d692b57c187875c7/rokk.aac"
+    },
+    {
+        "Title": "Elmari Kuld",
+        "Country": "Estonia",
+        "Tags": "1970s,1980s,1990s,classic pop,estonia,vintage",
+        "Favicon": "https://elmar.pleier.ee/favicons/elmar/apple-touch-icon.png",
+        "Language": "et",
+        "Homepage": "https://elmar.pleier.ee/elmari-kuld",
+        "Latitude": 59.43875350610243,
+        "Longitude": 24.747481547168594,
+        "Source1": "https://le11.euddn.net/d15d071d4f73afad16807c29a8cfe7447ef9fb6dc8928de64be3300e8ca0f3ca5c5b547137da3e2640917468e13ac1d7701b052f6ec9a2a3e207246d31ad7e936db6e1331b35e581cf1c988b303c617e81caf69b44a4afdcaceb809a218d0a9dd4aec230d75e57587a911bdb0faaaaa126ba9f040b7014729c340e2ab241ccfc0af5a1112d14756b8f322bf7a153eace53f699eeebaffdff8ab7ca1c91e4b2505f8f7dee05e2d8150305addddea91bd3/elmarikuld.aac"
+    },
+    {
+        "Title": "Elmari tantsuõhtu 24/7",
+        "Country": "Estonia",
+        "Tags": "dance,folk",
+        "Homepage": "https://elmar.pleier.ee/",
+        "Latitude": 58.8637683778892,
+        "Longitude": 25.532226562500004,
+        "Source1": "http://le06.euddn.net/ae8821b28a7ca7c6ddaf673b4ee3c0458a952561d983bb63ec515fa5d7770f7309dc7883405cad14b4e6d606be0c2e88cf797f09212f2fac552f26ffe4c1ce6aec65ef71ad9508fefc3ec62528c09b3ec49f63d556f3f18b205a4443f6074e9675c7e31610197735b447dc2343bf9fe282cfc05c4272b471b2bd5b07b254d9cf4ddd6dba52319f62a590b206d5144be1c6a4fb61bfa69e3344f293ba1432ef47ef3ea702ad52b3c3d19db1cce7f44d8b04927aef2c3cc776aaf8fa295de1faea/elmaritantsuohtu.aac"
+    },
+    {
+        "Title": "ERR Klassikaraadio",
+        "Country": "Estonia",
+        "Tags": "classical,estonia",
+        "Language": "et",
+        "Homepage": "https://klassikaraadio.err.ee/",
+        "Source1": "http://icecast.err.ee/klassikaraadio.mp3"
+    },
+    {
+        "Title": "ERR Raadio 2",
+        "Country": "Estonia",
+        "Tags": "err,public radio,tallinn",
+        "Language": "et",
+        "Homepage": "https://r2.err.ee/",
+        "Source1": "http://icecast.err.ee/raadio2.mp3"
+    },
+    {
+        "Title": "ERR Raadio 2 - 320kbps",
+        "Country": "Estonia",
+        "Tags": "err,misc,music,public radio",
+        "Language": "et",
+        "Homepage": "https://r2.err.ee/",
+        "Latitude": 59.434364413534546,
+        "Longitude": 24.7714576708358,
+        "Source1": "http://icecast.err.ee/raadio2korge.mp3.m3u"
+    },
+    {
+        "Title": "ERR Raadio 4",
+        "Country": "Estonia",
+        "Tags": "err,public radio,russian programming",
+        "Language": "ru",
+        "Homepage": "http://r4.err.ee/",
+        "Source1": "http://icecast.err.ee/raadio4.mp3?type=.mp3/;stream.mp3"
+    },
+    {
+        "Title": "Estonian Party Radio",
+        "Country": "Estonia",
+        "Tags": "dance,disco,euro disco,eurodance,local music,pop dance",
+        "Favicon": "https://cdn.instant.audio/images/brand/icon_192x192.png",
+        "Language": "en,et",
+        "Homepage": "https://raadiod.com/estonian-party/",
+        "Latitude": 58.95850707383433,
+        "Longitude": 25.438627472909296,
+        "Source1": "http://maggie.torontocast.com:8110/stream.m3u"
+    },
+    {
+        "Title": "FinEst Radio",
+        "Country": "Estonia",
+        "Favicon": "https://finestfm.fi/upload/623c699818c312.68089185.ico",
+        "Homepage": "https://finestfm.fi/",
+        "Source1": "https://shoutcast.finestfm.fi/stream/1/:80/;stream"
+    },
+    {
+        "Title": "Global Export FM",
+        "Country": "Estonia",
+        "Tags": "estonian news,news,talk,tallinn,weather",
+        "Favicon": "https://radio.globalexport.ee/logo-192.png",
+        "Language": "et",
+        "Homepage": "https://radio.globalexport.ee/",
+        "Latitude": 59.437,
+        "Longitude": 24.754,
+        "Source1": "https://radio.globalexport.ee/stream.mp3"
+    },
+    {
+        "Title": "Hitmix",
+        "Country": "Estonia",
+        "Favicon": "https://hitmix.ee/player/img/hitmix-dark.png",
+        "Homepage": "https://hitmix.ee/",
+        "Source1": "https://stream.hitmix.ee:8443/HIT_320"
+    },
+    {
+        "Title": "Hitmix Estonia",
+        "Country": "Estonia",
+        "Favicon": "https://hitmix.ee/wp-content/uploads/2020/12/cropped-hitmix-fav-180x180.png",
+        "Homepage": "https://hitmix.ee/",
+        "Latitude": 59.46323835185547,
+        "Longitude": 24.380056858062748,
+        "Source1": "https://stream.hitmix.ee:8443/HIT_320"
+    },
+    {
+        "Title": "HITS RADIO ESTONIA",
+        "Country": "Estonia",
+        "Homepage": "https://hitsradio.ee/",
+        "Latitude": 59.41378429445572,
+        "Longitude": 24.78515625,
+        "Source1": "https://artemis.streamerr.co/listen/hitsradioestonia/radio.mp3"
+    },
+    {
+        "Title": "Hits Show Radio",
+        "Country": "Estonia",
+        "Tags": "dance,electronic,trance",
+        "Favicon": "https://static.wixstatic.com/media/95be61_02d07ad6f61f44d39a9d02873253eb24%7Emv2.png/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/95be61_02d07ad6f61f44d39a9d02873253eb24%7Emv2.png",
+        "Language": "en",
+        "Homepage": "https://kuula-raadiojaama.online/",
+        "Latitude": 58.39249965939757,
+        "Longitude": 26.147460937500004,
+        "Source1": "https://stream.zeno.fm/7sreyeyustkuv"
+    },
+    {
+        "Title": "HPS Bassline",
+        "Country": "Estonia",
+        "Tags": "dj sets,drum and bass,frenchcore,happy hardcore,hardcore,hardstyle/handsup/edm,j-core",
+        "Favicon": "https://www.hpsbassline.club/favicon.ico",
+        "Homepage": "https://www.hpsbassline.club/",
+        "Latitude": 58.93927950373523,
+        "Longitude": 23.541222810745243,
+        "Source1": "https://azura.hpsbassline.club/listen/haapsaly_bassline/radio.mp3"
+    },
+    {
+        "Title": "IDA",
+        "Country": "Estonia",
+        "Tags": "electronic",
+        "Language": "en,et,fi",
+        "Homepage": "https://idaidaida.net/",
+        "Latitude": 59.43970087491635,
+        "Longitude": 24.7286470725398,
+        "Source1": "https://broadcast.idaidaida.net:8000/stream"
+    },
+    {
+        "Title": "IDA Raadio - Tallinn",
+        "Country": "Estonia",
+        "Favicon": "https://idaidaida.net/_nuxt/icons/icon_512x512.4be776.png",
+        "Homepage": "https://idaidaida.net/et",
+        "Source1": "https://broadcast.idaidaida.net:8000/stream"
+    },
+    {
+        "Title": "IDA Radio",
+        "Country": "Estonia",
+        "Tags": "alternative,music,popular music",
+        "Favicon": "https://idaidaida.net/favicons/favicon-16x16.png",
+        "Language": "et,fi",
+        "Homepage": "https://idaidaida.net/",
+        "Source1": "https://broadcast.idaidaida.net:8000/stream"
+    },
+    {
+        "Title": "Jumor FM Estonia",
+        "Country": "Estonia",
+        "Favicon": "https://jumorfm.ee/wp-content/uploads/superpwa-splashIcons/super_splash_screens/icon_640x1136.png",
+        "Homepage": "https://jumorfm.ee/",
+        "Source1": "https://a10.asurahosting.com:7640/radio.mp3"
+    },
+    {
+        "Title": "Kaguraadio",
+        "Country": "Estonia",
+        "Tags": "local news,regional,regional music",
+        "Favicon": "http://www.kaguraadio.ee/wp-content/uploads/2019/11/cropped-Kaguraadio-logo4-32x32.jpg",
+        "Language": "en,et",
+        "Homepage": "http://kaguraadio.ee/",
+        "Latitude": 58.052897057327066,
+        "Longitude": 27.042846679687504,
+        "Source1": "https://locomanoco.vlevelscdn.net/radio/kaguraadio.stream/playlist.m3u8"
+    },
+    {
+        "Title": "Kaguraadio",
+        "Country": "Estonia",
+        "Tags": "local news,local radio,local talk,retro music",
+        "Favicon": "https://kaguraadio.ee/wp-content/uploads/2019/11/cropped-Kaguraadio-logo-roheline3-2.jpg",
+        "Language": "et",
+        "Homepage": "https://kaguraadio.ee/",
+        "Latitude": 58.0544085309689,
+        "Longitude": 27.057234048843387,
+        "Source1": "https://radio.vlevelscdn.net/radio/kaguraadio.stream/chunklist_w936127105.m3u8"
+    },
+    {
+        "Title": "Kiss FM",
+        "Country": "Estonia",
+        "Favicon": "https://sky.ee/favicon.ico",
+        "Language": "et",
+        "Homepage": "https://sky.ee/kissfm",
+        "Latitude": 59.40371497525328,
+        "Longitude": 24.731442332267765,
+        "Source1": "https://edge02.cdn.bitflip.ee:8888/KISS",
+        "Source2": "https://stream.skymedia.ee/live/KISS"
+    },
+    {
+        "Title": "Kiss FM Eurovision",
+        "Country": "Estonia",
+        "Tags": "eurovision",
+        "Favicon": "https://site.prelive.sky.ee/sites/default/files/2023-11/mini_kissfm.svg",
+        "Homepage": "https://sky.ee/kissfm",
+        "Latitude": 59.40370678401759,
+        "Longitude": 24.731377959251407,
+        "Source1": "https://stream.skymedia.ee/live/KissEurovisioon"
+    },
+    {
+        "Title": "Kiss FM Eurovision",
+        "Country": "Estonia",
+        "Tags": "dance,eurovision,pop",
+        "Favicon": "https://sky.ee/storage/articles/2026/02/eurovision-detail-1.webp",
+        "Language": "en",
+        "Homepage": "https://kissfm.sky.ee/",
+        "Latitude": 59.43523874082189,
+        "Longitude": 24.755458831787113,
+        "Source1": "https://edge04.cdn.bitflip.ee:8888/KISS_AAC?_i=2e955b68"
+    },
+    {
+        "Title": "Kiss FM Pride",
+        "Country": "Estonia",
+        "Tags": "lgbt,lgbtq,lgbtqia+",
+        "Favicon": "https://site.prelive.sky.ee/sites/default/files/2023-11/mini_kissfm.svg",
+        "Homepage": "https://sky.ee/kissfm",
+        "Latitude": 59.40370405360528,
+        "Longitude": 24.731356501579288,
+        "Source1": "https://stream.skymedia.ee/live/KissPride"
+    },
+    {
+        "Title": "KlaRa Jazz",
+        "Country": "Estonia",
+        "Tags": "jazz",
+        "Homepage": "https://klara.err.ee/jazz",
+        "Latitude": 59.43462950646448,
+        "Longitude": 24.76766515823216,
+        "Source1": "https://icecast.err.ee/klarajazz.mp3",
+        "Source2": "http://icecast.err.ee/klarajazz.opus"
+    },
+    {
+        "Title": "KlaRa Klassika",
+        "Country": "Estonia",
+        "Tags": "classical",
+        "Homepage": "https://klara.err.ee/klassika",
+        "Latitude": 59.43460813797533,
+        "Longitude": 24.767696131361586,
+        "Source1": "https://icecast.err.ee/klaraklassika.mp3"
+    },
+    {
+        "Title": "Klara Klassika (128 kbps Ogg Opus) | Eesti Rahvusringhääling | err.ee",
+        "Country": "Estonia",
+        "Favicon": "https://klara.err.ee/assets/icons/favicon.png",
+        "Homepage": "https://klara.err.ee/klassika",
+        "Source1": "http://icecast.err.ee/klaraklassika.opus"
+    },
+    {
+        "Title": "KlaRa Nostalgia",
+        "Country": "Estonia",
+        "Tags": "classical,jazz",
+        "Homepage": "https://klara.err.ee/nostalgia",
+        "Latitude": 59.43463755402645,
+        "Longitude": 24.76771964867655,
+        "Source1": "https://icecast.err.ee/klaranostalgia.mp3"
+    },
+    {
+        "Title": "Klara Nostalgia (128 kbps Ogg Opus) | Eesti Rahvusringhääling | err.ee",
+        "Country": "Estonia",
+        "Favicon": "https://klara.err.ee/assets/icons/favicon.png",
+        "Homepage": "https://klara.err.ee/nostalgia",
+        "Source1": "http://icecast.err.ee/klaranostalgia.opus"
+    },
+    {
+        "Title": "Klassikaraadio (128 kbps Ogg Opus) | Eesti Rahvusringhääling | klassikaraadio.err.ee",
+        "Country": "Estonia",
+        "Homepage": "https://klassikaraadio.err.ee/",
+        "Source1": "http://icecast.err.ee/klassikaraadio.opus"
+    },
+    {
+        "Title": "Kuma FM 101.0",
+        "Country": "Estonia",
+        "Language": "et",
+        "Homepage": "http://www.kuma.fm/",
+        "Source1": "http://5.39.16.62:8004/tre"
+    },
+    {
+        "Title": "Legendaarne Raadio",
+        "Country": "Estonia",
+        "Tags": "hip-hop,rap",
+        "Favicon": "https://site.prelive.sky.ee/sites/default/files/2024-11/legendaarne_3.svg",
+        "Language": "en,et",
+        "Homepage": "https://sky.ee/legendaarne",
+        "Latitude": 59.42798837101631,
+        "Longitude": 24.73159790039063,
+        "Source1": "https://stream.skymedia.ee/live/Legendaarne",
+        "Source2": "https://edge01.cdn.bitflip.ee:8888/Legendaarne?_i=52831a92"
+    },
+    {
+        "Title": "MyHits",
+        "Country": "Estonia",
+        "Tags": "hits,top 40 hits",
+        "Favicon": "https://myhits.pleier.ee/favicons/myhits/apple-touch-icon.png",
+        "Language": "et",
+        "Homepage": "https://myhits.pleier.ee/",
+        "Latitude": 59.42609894840192,
+        "Longitude": 24.778627753257755,
+        "Source1": "http://router.euddn.net/8103046e16b71d15d692b57c187875c7/myhits.aac"
+    },
+    {
+        "Title": "NikRadofem",
+        "Country": "Estonia",
+        "Tags": "ambient,breakcore,pop,rock",
+        "Language": "en,ru",
+        "Homepage": "https://nikradofem.online/",
+        "Latitude": 58.77529227817853,
+        "Longitude": 24.81177186387013,
+        "Source1": "https://live.nikradofem.online/live"
+    },
+    {
+        "Title": "NRJ",
+        "Country": "Estonia",
+        "Tags": "dance",
+        "Favicon": "https://site.prelive.sky.ee/sites/default/files/2021-08/nrj.svg",
+        "Language": "et",
+        "Homepage": "https://sky.ee/nrj",
+        "Latitude": 59.41065224070644,
+        "Longitude": 24.73659753799439,
+        "Source1": "https://edge01.cdn.bitflip.ee:8888/NRJ?_i=5b8169cb"
+    },
+    {
+        "Title": "NRJ Tallinn",
+        "Country": "Estonia",
+        "Tags": "dance,edm,pop dance",
+        "Language": "et",
+        "Homepage": "https://nrj.ee/",
+        "Latitude": 59.431668313298346,
+        "Longitude": 24.73983764648438,
+        "Source1": "https://edge03.cdn.bitflip.ee:8888/NRJ"
+    },
+    {
+        "Title": "PCR.FM (Parnu Club Radio)",
+        "Country": "Estonia",
+        "Tags": "dance,dj,electronic,house,techno",
+        "Favicon": "https://pcr.fm/favicon.png",
+        "Language": "en",
+        "Homepage": "https://pcr.fm/",
+        "Latitude": 58.3859,
+        "Longitude": 24.4971,
+        "Source1": "https://pcrfm.radiocult.fm/stream"
+    },
+    {
+        "Title": "Pereraadio Kuressaare",
+        "Country": "Estonia",
+        "Tags": "christian",
+        "Language": "et",
+        "Homepage": "http://www.pereraadio.ee/",
+        "Source1": "http://icecast.pereraadio.ee:8000/Kuressaare"
+    },
+    {
+        "Title": "Pereraadio Tallinn",
+        "Country": "Estonia",
+        "Tags": "christian",
+        "Language": "et",
+        "Homepage": "http://www.pereraadio.ee/",
+        "Source1": "http://icecast.pereraadio.ee:8000/Tallinn"
+    },
+    {
+        "Title": "Pereraadio Tartu",
+        "Country": "Estonia",
+        "Tags": "religious",
+        "Language": "et",
+        "Homepage": "http://www.pereraadio.ee/",
+        "Source1": "http://icecast.pereraadio.ee:8000/Tartu"
+    },
+    {
+        "Title": "Power Hit Radio",
+        "Country": "Estonia",
+        "Tags": "hot adult contemporary",
+        "Favicon": "http://power.tv3.ee/favicon.ico",
+        "Language": "et",
+        "Homepage": "http://power.tv3.ee/",
+        "Source1": "https://ice.leviracloud.eu/phr96-aac?"
+    },
+    {
+        "Title": "R2 Eesti",
+        "Country": "Estonia",
+        "Tags": "pop",
+        "Homepage": "https://r2extra.err.ee/r2eesti",
+        "Latitude": 59.434640281945406,
+        "Longitude": 24.767719228660816,
+        "Source1": "https://icecast.err.ee/r2eestikorge.mp3"
+    },
+    {
+        "Title": "R2 Pop",
+        "Country": "Estonia",
+        "Favicon": "https://r2extra.err.ee/assets/icons/405_favicon.png",
+        "Homepage": "https://r2extra.err.ee/r2pop",
+        "Source1": "http://icecast.err.ee/r2pop.opus"
+    },
+    {
+        "Title": "R2 Rock",
+        "Country": "Estonia",
+        "Favicon": "https://r2extra.err.ee/assets/icons/405_favicon.png",
+        "Homepage": "https://r2extra.err.ee/r2rock",
+        "Source1": "http://icecast.err.ee/r2rock.mp3"
+    },
+    {
+        "Title": "R2Altpop",
+        "Country": "Estonia",
+        "Tags": "alternative pop,electronic,pop",
+        "Language": "et",
+        "Homepage": "https://r2extra.err.ee/r2alternatiiv",
+        "Source1": "http://icecast.err.ee/r2alternatiiv.opus"
+    },
+    {
+        "Title": "r2chill",
+        "Country": "Estonia",
+        "Tags": "chill",
+        "Language": "et",
+        "Homepage": "https://r2extra.err.ee/r2chill",
+        "Source1": "http://icecast.err.ee/r2chill.opus"
+    },
+    {
+        "Title": "R2p",
+        "Country": "Estonia",
+        "Tags": "rap",
+        "Homepage": "https://r2extra.err.ee/r2p",
+        "Source1": "https://icecast.err.ee/r2p.opus"
+    },
+    {
+        "Title": "R2Pop",
+        "Country": "Estonia",
+        "Tags": "pop,pop music",
+        "Language": "et",
+        "Homepage": "https://r2extra.err.ee/r2pop",
+        "Source1": "http://icecast.err.ee/r2pop.opus"
+    },
+    {
+        "Title": "R2Rock",
+        "Country": "Estonia",
+        "Tags": "rock",
+        "Language": "et",
+        "Homepage": "https://r2extra.err.ee/r2rock",
+        "Source1": "http://icecast.err.ee/r2rock.opus"
+    },
+    {
+        "Title": "Raadio 2 (128 kbps Ogg Opus) | Eesti Rahvusringhääling | r2.err.ee",
+        "Country": "Estonia",
+        "Tags": "public,various",
+        "Favicon": "https://s.err.ee/www/images/favicon/R2Favicon@2x.png?2740",
+        "Language": "et",
+        "Homepage": "https://r2.err.ee/",
+        "Source1": "http://icecast.err.ee/raadio2.opus"
+    },
+    {
+        "Title": "Raadio 2 (HQ)",
+        "Country": "Estonia",
+        "Tags": "misc",
+        "Source1": "http://icecast.err.ee/raadio2korge.mp3.m3u"
+    },
+    {
+        "Title": "Raadio 2 HQ",
+        "Country": "Estonia",
+        "Tags": "misc",
+        "Source1": "http://icecast.err.ee/raadio2korge.mp3"
+    },
+    {
+        "Title": "Raadio 4",
+        "Country": "Estonia",
+        "Favicon": "https://s.err.ee/www/images/favicon/R4_favicon@2x.png?3006",
+        "Homepage": "https://r4.err.ee/",
+        "Source1": "http://icecast.err.ee/r4retro.mp3"
+    },
+    {
+        "Title": "Raadio 7",
+        "Country": "Estonia",
+        "Tags": "christian",
+        "Language": "et",
+        "Homepage": "https://raadio7.ee/",
+        "Latitude": 59.43578866867168,
+        "Longitude": 24.74430084228516,
+        "Source1": "https://edge05.cdn.bitflip.ee:8888/R7"
+    },
+    {
+        "Title": "Raadio Duo",
+        "Country": "Estonia",
+        "Tags": "pop",
+        "Favicon": "https://raadioduo.pleier.ee/favicons/duo/apple-touch-icon.png",
+        "Homepage": "https://raadioduo.pleier.ee/",
+        "Source1": "https://le03.euddn.net/643e1d6549b37ef476e9291c8a2416f4c7a26fd8c57720075bfc75e9f8989cec756cd63e9bedeab335cb6d27c3cf06643a3b5e57c811be0e6789ef0d2b81e1d1a37bb18b37f32cd4af628f7044d43fa5f323de0c4edf8f1019b07a3fdeb4bac2410fbbe27a31a7c3f9c3d63da38af0935a770bf4447693219bf8317e70ab02c958b988455d7b1b47dc0715c9eaf503c9ecccde7213c5b4c9a328e2377aeac41517a186c7148f9b516b9cd799b32b8d8c/radioduo.aac"
+    },
+    {
+        "Title": "Raadio Elmar",
+        "Country": "Estonia",
+        "Homepage": "https://elmar.pleier.ee/",
+        "Latitude": 59.43166830264149,
+        "Longitude": 24.76249694824219,
+        "Source1": "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/elmar.aac"
+    },
+    {
+        "Title": "Raadio Kadi",
+        "Country": "Estonia",
+        "Homepage": "https://kadi.ee/",
+        "Latitude": 58.25322816300178,
+        "Longitude": 22.485797703266147,
+        "Source1": "https://edge06.cdn.bitflip.ee:8888/kadi"
+    },
+    {
+        "Title": "Raadio Kidzone",
+        "Country": "Estonia",
+        "Favicon": "https://f302.pmo.ee/XCwVL9vwguHbm8jFYYsRXolq8Xg=/460x460/smart/filters:quality(90)/https://f303.pmo.ee/media/2023/12/raadio-kidzone-logo.png",
+        "Language": "en,et",
+        "Homepage": "https://raadioduo.pleier.ee/uudised/raadio-kidzone-eesti-esimene-lasteraadio",
+        "Latitude": 58.39901325109387,
+        "Longitude": 26.630859375,
+        "Source1": "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/kidzone.aac"
+    },
+    {
+        "Title": "Raadio Kuku",
+        "Country": "Estonia",
+        "Homepage": "https://kuku.pleier.ee/",
+        "Latitude": 59.43096988687643,
+        "Longitude": 24.771423339843754,
+        "Source1": "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/kuku_high.mp3",
+        "Source2": "http://router.euddn.net/8103046e16b71d15d692b57c187875c7/kuku_low.mp3"
+    },
+    {
+        "Title": "Raadio PRT",
+        "Country": "Estonia",
+        "Tags": "alternative,classical music,indie,pop,world news",
+        "Favicon": "https://app.razuna.eu/file/remote?i=69b02e84716eee643f7d39d7&f=t&dl=t&c=0eaa5c77e60d1ec1a6e1cc17020ad748&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiIvZmlsZS9yZW1vdGU_aT02OWIwMmU4NDcxNmVlZTY0M2Y3ZDM5ZDcmZj10JmRsPXQmYz0wZWFhNWM3N2U2MGQxZWMxYTZlMWNjMTcwMjBhZDc0OCIsInR5cGUiOiJkaXJlY3QifQ.I05lzlYk8PKrY3o-nJiNf8XOCxxug6VskfjHjCsVwuU",
+        "Homepage": "https://raadioprt.rf.gd/",
+        "Source1": "https://jvrywgaxjrdgauspdrvr.supabase.co/functions/v1/stream-proxy"
+    },
+    {
+        "Title": "Raadio Relax FM",
+        "Country": "Estonia",
+        "Homepage": "https://www.relaxfm.ee/",
+        "Latitude": 59.43320477511503,
+        "Longitude": 24.747390747070316,
+        "Source1": "https://stream.relaxfm.ee/relax"
+    },
+    {
+        "Title": "Raadio Relax International",
+        "Country": "Estonia",
+        "Homepage": "https://www.relaxfm.ee/",
+        "Source1": "https://stream.relaxfm.ee/international"
+    },
+    {
+        "Title": "Raadio Tallinn",
+        "Country": "Estonia",
+        "Language": "et",
+        "Homepage": "http://raadiotallinn.err.ee/",
+        "Source1": "http://icecast.err.ee/raadiotallinn.mp3?type=.mp3/;stream.mp3"
+    },
+    {
+        "Title": "Raadio Tallinn",
+        "Country": "Estonia",
+        "Favicon": "https://s.err.ee/photo/crop/2018/10/23/558567h9916t62.jpg",
+        "Homepage": "https://raadiotallinn.err.ee/",
+        "Source1": "http://icecast.err.ee/raadiotallinn.mp3"
+    },
+    {
+        "Title": "Raadio Tallinn (128 kbps Ogg Opus) | Eesti Rahvusringhääling | raadiotallinn.err.ee",
+        "Country": "Estonia",
+        "Tags": "bbc,err,jazz,rfi",
+        "Favicon": "https://s.err.ee/www/images/favicon/R-TLN_Favicon@2x.png?2740",
+        "Language": "en,et,fr",
+        "Homepage": "https://raadiotallinn.err.ee/",
+        "Source1": "http://icecast.err.ee/raadiotallinn.opus"
+    },
+    {
+        "Title": "Radio Azathoth Revival",
+        "Country": "Estonia",
+        "Tags": "garage rock,krautrock,psychedelic rock",
+        "Language": "en",
+        "Homepage": "https://cast4.asurahosting.com/start/aadu",
+        "Source1": "https://cast4.asurahosting.com/proxy/aadu/stream"
+    },
+    {
+        "Title": "Radio Eli",
+        "Country": "Estonia",
+        "Tags": "christian",
+        "Language": "ru",
+        "Homepage": "http://www.pereraadio.ee/",
+        "Source1": "http://icecast.pereraadio.ee:8000/RadioEli"
+    },
+    {
+        "Title": "Radio Nostalgia",
+        "Country": "Estonia",
+        "Tags": "oldies",
+        "Favicon": "https://optim.tildacdn.net/tild3738-6439-4433-a336-616635313861/-/resize/760x/-/format/webp/_-removebg-preview.png",
+        "Homepage": "https://radionostalgia.ee/",
+        "Latitude": 59.427848580036745,
+        "Longitude": 24.702187478542328,
+        "Source1": "https://c16.radioboss.fm:8327/stream"
+    },
+    {
+        "Title": "Radio Nostalgia Estonia",
+        "Country": "Estonia",
+        "Tags": "retro",
+        "Homepage": "https://radionostalgia.ee/",
+        "Source1": "https://c16.radioboss.fm:8327/stream"
+    },
+    {
+        "Title": "Radio Olematu",
+        "Country": "Estonia",
+        "Tags": "ai music,eclectic,international,pop,rock,variety",
+        "Favicon": "https://olematu.ee/img/favicon.png",
+        "Language": "en,it",
+        "Homepage": "https://olematu.ee/",
+        "Source1": "https://radio.olematu.ee/listen/radio_olematu/radio.mp3"
+    },
+    {
+        "Title": "Relax cafe",
+        "Country": "Estonia",
+        "Tags": "jazz,smooth jazz",
+        "Homepage": "https://www.relaxfm.ee/",
+        "Source1": "https://stream.relaxfm.ee/cafe"
+    },
+    {
+        "Title": "Relax FM Eesti",
+        "Country": "Estonia",
+        "Favicon": "https://site.prelive.sky.ee/sites/default/files/2023-11/relax_fm.svg",
+        "Homepage": "https://sky.ee/relaxfm",
+        "Source1": "https://stream.relaxfm.ee/relax"
+    },
+    {
+        "Title": "Retro fm disco",
+        "Country": "Estonia",
+        "Tags": "pop music",
+        "Language": "en",
+        "Homepage": "https://edge05.cdn.bitflip.ee:8888/retro1.mp3?",
+        "Source1": "https://edge05.cdn.bitflip.ee:8888/retro1.mp3?"
+    },
+    {
+        "Title": "Retro FM Estonia",
+        "Country": "Estonia",
+        "Tags": "retro",
+        "Favicon": "https://sky.ee/favicon.ico",
+        "Homepage": "https://sky.ee/retrofm",
+        "Latitude": 59.42677908959534,
+        "Longitude": 24.77897644042969,
+        "Source1": "https://edge02.cdn.bitflip.ee:8888/RETRO?_i=258f436b",
+        "Source2": "https://stream.skymedia.ee/live/RETRO_AAC"
+    },
+    {
+        "Title": "Retro Love",
+        "Country": "Estonia",
+        "Tags": "80s,disco,oldies,pop,retro",
+        "Favicon": "https://cdn.onlineradiobox.com/img/favicon-194x194.png",
+        "Language": "en",
+        "Homepage": "https://sky.ee/retrofm",
+        "Latitude": 59.429573012105585,
+        "Longitude": 24.75082397460938,
+        "Source1": "https://edge05.cdn.bitflip.ee:8888/RetroJ6ulud"
+    },
+    {
+        "Title": "Ring FM",
+        "Country": "Estonia",
+        "Tags": "pop",
+        "Favicon": "https://treraadio.ee/img/landing/ringfm-logo-active.svg",
+        "Language": "et",
+        "Homepage": "https://ringfm.treraadio.ee/",
+        "Source1": "http://cdn.treraadio.ee/tartustuudio"
+    },
+    {
+        "Title": "Rock FM",
+        "Country": "Estonia",
+        "Tags": "rock",
+        "Favicon": "https://sky.ee/favicon.ico",
+        "Homepage": "https://sky.ee/rockfm",
+        "Latitude": 59.43348416306439,
+        "Longitude": 24.746429426595572,
+        "Source1": "https://edge02.cdn.bitflip.ee:8888/rck?_i=5f5ab186"
+    },
+    {
+        "Title": "Rock-FM Metal",
+        "Country": "Estonia",
+        "Tags": "metal",
+        "Favicon": "https://sky.ee/storage/radio-stations/2025/12/Rock-FM-Metal-card.webp",
+        "Language": "en,et",
+        "Homepage": "https://rockfm.sky.ee/",
+        "Latitude": 59.43683013884101,
+        "Longitude": 24.756145477294925,
+        "Source1": "https://edge04.cdn.bitflip.ee:8888/rckmetal"
+    },
+    {
+        "Title": "RUUT FM",
+        "Country": "Estonia",
+        "Favicon": "https://ruutfm.treraadio.ee/img/logo_valga.svg",
+        "Homepage": "https://ruutfm.treraadio.ee/",
+        "Latitude": 57.77510180631683,
+        "Longitude": 26.04390621185303,
+        "Source1": "https://a1.asurahosting.com/listen/ruut_fm/radio.mp3"
+    },
+    {
+        "Title": "Semeinoje Radio",
+        "Country": "Estonia",
+        "Tags": "religious",
+        "Language": "ru",
+        "Homepage": "http://www.pereraadio.ee/",
+        "Source1": "http://icecast.pereraadio.ee:8000/Semeinoje"
+    },
+    {
+        "Title": "Sky Plus",
+        "Country": "Estonia",
+        "Tags": "pop",
+        "Favicon": "https://sky.ee/favicon.ico",
+        "Homepage": "https://sky.ee/skyplus",
+        "Source1": "https://skymedia-live.bitflip.ee/SKYPLUS"
+    },
+    {
+        "Title": "Sky Plus",
+        "Country": "Estonia",
+        "Language": "et",
+        "Homepage": "https://sky.ee/",
+        "Latitude": 59.43045480454073,
+        "Longitude": 24.72747802734375,
+        "Source1": "https://stream.skymedia.ee/live/SKYPLUS"
+    },
+    {
+        "Title": "Sky Plus D'N'B",
+        "Country": "Estonia",
+        "Tags": "dnb,drum 'n' bass,drum and bass",
+        "Favicon": "https://site.prelive.sky.ee/sites/default/files/2021-08/skyplus.svg",
+        "Homepage": "https://sky.ee/skyplus",
+        "Latitude": 58.76763052031727,
+        "Longitude": 25.597993108084555,
+        "Source1": "https://edge01.cdn.bitflip.ee:8888/NRJdnb"
+    },
+    {
+        "Title": "Sky Plus DnB",
+        "Country": "Estonia",
+        "Tags": "dance,dnb,electronic",
+        "Favicon": "https://sky.ee/favicon.ico",
+        "Language": "et",
+        "Homepage": "https://sky.ee/skyplus",
+        "Latitude": 59.43986197380305,
+        "Longitude": 24.7796630859375,
+        "Source1": "https://edge03.cdn.bitflip.ee:8888/NRJdnb"
+    },
+    {
+        "Title": "Sky-Radio",
+        "Country": "Estonia",
+        "Language": "ru",
+        "Homepage": "http://www.sky-radio.fm/",
+        "Source1": "https://stream.skymedia.ee/live/SKY"
+    },
+    {
+        "Title": "Sooviraadio",
+        "Country": "Estonia",
+        "Tags": "80s,sparse info",
+        "Favicon": "http://sooviraadio.net/favicon.ico",
+        "Language": "et",
+        "Homepage": "http://sooviraadio.net/raadio/",
+        "Source1": "http://media.uunox.net:8888/listen.pls"
+    },
+    {
+        "Title": "Star Fm",
+        "Country": "Estonia",
+        "Favicon": "https://www.tv3.ee/wp-content/themes/amb/assets/favicons/favicon-128.png",
+        "Language": "et",
+        "Homepage": "https://starfm.tv3.ee/",
+        "Source1": "https://ice.leviracloud.eu/star96-aac"
+    },
+    {
+        "Title": "Star FM",
+        "Country": "Estonia",
+        "Tags": "pop",
+        "Favicon": "https://cdn.instant.audio/images/logos/raadiod-com/star-fm.png",
+        "Language": "et",
+        "Homepage": "https://raadiod.com/star-fm/",
+        "Source1": "https://ice.leviracloud.eu/star320-mp3"
+    },
+    {
+        "Title": "Star FM Eesti",
+        "Country": "Estonia",
+        "Tags": "00's,10's,20's,80's,90's,top 40",
+        "Favicon": "https://starfm.tv3.ee/ui/images/icons//apple-icon-120x120.png",
+        "Homepage": "https://starfm.tv3.ee/",
+        "Latitude": 59.348875588890515,
+        "Longitude": 24.774169921875004,
+        "Source1": "https://ice.leviracloud.eu/starFMEesti96-aac"
+    },
+    {
+        "Title": "Super радио",
+        "Country": "Estonia",
+        "Tags": "pop music",
+        "Favicon": "https://sky.ee/storage/radio-stations/2025/12/Super-Radio-logo.svg",
+        "Language": "ru",
+        "Homepage": "https://superradio.sky.ee/",
+        "Source1": "https://edge04.cdn.bitflip.ee:8888/RR_AAC?_i=b2d6fa6f"
+    },
+    {
+        "Title": "Taifuun FM",
+        "Country": "Estonia",
+        "Favicon": "https://taifuun.eu/favicon.ico",
+        "Homepage": "https://taifuun.eu/",
+        "Source1": "https://eagle.streemlion.com/proxy/taifuunfm?mp=/stream"
+    },
+    {
+        "Title": "Tre Raadio Kesk-Eesti",
+        "Country": "Estonia",
+        "Tags": "community radio,regional",
+        "Favicon": "https://keskeesti.treraadio.ee/favicon.ico",
+        "Language": "et",
+        "Homepage": "https://keskeesti.treraadio.ee/",
+        "Source1": "http://cdn.treraadio.ee/kesk-eesti-tre"
+    },
+    {
+        "Title": "Tre Raadio Pärnu",
+        "Country": "Estonia",
+        "Tags": "community radio,regional",
+        "Favicon": "https://parnu.treraadio.ee/favicon.ico",
+        "Language": "et",
+        "Homepage": "https://parnu.treraadio.ee/",
+        "Source1": "http://cdn.treraadio.ee/parnu-tre"
+    },
+    {
+        "Title": "Tre Raadio Põhja-Eesti",
+        "Country": "Estonia",
+        "Tags": "community radio,regional",
+        "Favicon": "https://pohjaeesti.treraadio.ee/favicon.ico",
+        "Language": "et",
+        "Homepage": "https://pohjaeesti.treraadio.ee/",
+        "Source1": "http://cdn.treraadio.ee/pohja-tre"
+    },
+    {
+        "Title": "Tre Raadio Rapla",
+        "Country": "Estonia",
+        "Tags": "community radio,regional",
+        "Favicon": "https://rapla.treraadio.ee/favicon.ico",
+        "Language": "et",
+        "Homepage": "https://rapla.treraadio.ee/",
+        "Source1": "https://cdn.treraadio.ee/rapla-tre"
+    },
+    {
+        "Title": "Tre Raadio Ring FM",
+        "Country": "Estonia",
+        "Tags": "community radio,regional",
+        "Favicon": "https://ringfm.treraadio.ee/apple-touch-icon.png",
+        "Language": "et",
+        "Homepage": "https://ringfm.treraadio.ee/",
+        "Source1": "https://cdn.treraadio.ee/ringfm"
+    },
+    {
+        "Title": "Tre Raadio Virumaa",
+        "Country": "Estonia",
+        "Favicon": "https://viru.treraadio.ee/favicon.ico",
+        "Homepage": "https://viru.treraadio.ee/",
+        "Source1": "http://sc2.treraadio.ee/viru-tre"
+    },
+    {
+        "Title": "VIKERRAADIO",
+        "Country": "Estonia",
+        "Tags": "classical",
+        "Homepage": "https://vikerraadio.ee/",
+        "Source1": "http://icecast.err.ee/vikerraadiokorge.mp3"
+    },
+    {
+        "Title": "Vikerraadio",
+        "Country": "Estonia",
+        "Language": "et",
+        "Homepage": "http://vikerraadio.err.ee/",
+        "Source1": "http://icecast.err.ee/vikerraadio.mp3.m3u"
+    },
+    {
+        "Title": "Vikerraadio",
+        "Country": "Estonia",
+        "Tags": "news,talk",
+        "Favicon": "https://i.ibb.co/tmy5mXw/Vikerraadio.png",
+        "Language": "et",
+        "Homepage": "https://vikerraadio.err.ee/",
+        "Source1": "http://icecast.err.ee/vikerraadio.mp3"
+    },
+    {
+        "Title": "Vikerraadio (128 kbps Ogg Opus) | Eesti Rahvusringhääling | vikerraadio.err.ee",
+        "Country": "Estonia",
+        "Tags": "public,various",
+        "Favicon": "https://s.err.ee/www/images/favicon/Vikr_favicon@2x.png?2740",
+        "Language": "et",
+        "Homepage": "https://vikerraadio.err.ee/",
+        "Source1": "http://icecast.err.ee/vikerraadio.opus"
+    },
+    {
+        "Title": "Võmba FM",
+        "Country": "Estonia",
+        "Tags": "1990s,90s,pop",
+        "Language": "et,fi",
+        "Homepage": "https://xn--vmbafm-pxa.fi/",
+        "Latitude": 60.14884057111667,
+        "Longitude": 24.87953782081604,
+        "Source1": "https://c4.radioboss.fm:18123/stream.m3u"
+    },
+    {
+        "Title": "XFM",
+        "Country": "Estonia",
+        "Tags": "hits",
+        "Favicon": "https://www.upload.ee/image/18986375/Kuvatommis_16-1-2026_4820_xfm.ee.jpeg",
+        "Homepage": "https://xfm.ee/",
+        "Latitude": 59.42380748015369,
+        "Longitude": 24.787985980510715,
+        "Source1": "https://sc2.treraadio.ee/ttesstttinggg"
+    },
+    {
+        "Title": "XFM ESTONIA",
+        "Country": "Estonia",
+        "Homepage": "https://xfm.ee/",
+        "Source1": "https://sc2.flamebox.org/XFM"
+    },
+    {
+        "Title": "Äripäeva Raadio",
+        "Country": "Estonia",
+        "Tags": "business news,estonia",
+        "Favicon": "https://www.aripaev.ee/favicons/aripaev/favicon.ico",
+        "Language": "et",
+        "Homepage": "https://www.aripaev.ee/raadio/",
+        "Source1": "https://www.aripaev.ee/raadio/stream.mp3"
+    },
+    {
+        "Title": "Радио 4 / Raadio 4 (128 kbps Ogg Opus) | Eesti Rahvusringhääling | r4.err.ee",
+        "Country": "Estonia",
+        "Tags": "public,various",
+        "Favicon": "https://s.err.ee/www/images/favicon/R4_favicon@2x.png?2740",
+        "Language": "ru",
+        "Homepage": "https://r4.err.ee/",
+        "Source1": "http://icecast.err.ee/raadio4.opus"
+    },
+    {
+        "Title": "Семейное Радио Эли. Тарту 1035 КГц",
+        "Country": "Estonia",
+        "Tags": "christian,religion,talk",
+        "Favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241023_172506548.jpg?alt=media&token=5290b8e9-1f2d-4254-a94c-1efe31cc380c",
+        "Language": "ru",
+        "Homepage": "https://mediaeli.ee/",
+        "Source1": "http://icecast.pereraadio.ee:8000/RadioEli"
+    }
+]

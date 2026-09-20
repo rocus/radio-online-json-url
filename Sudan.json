@@ -1,0 +1,41 @@
+[
+    {
+        "Title": "#Radio Quran",
+        "Country": "Sudan",
+        "Tags": "classical",
+        "Source1": "https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g"
+    },
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "Sudan",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "Dabanga Radio",
+        "Country": "Sudan",
+        "Favicon": "https://www.dabangasudan.org/wp-content/uploads/2022/12/dabanga-logo-x2.png",
+        "Homepage": "https://www.dabangasudan.org/en",
+        "Source1": "https://stream.dabangasudan.org/"
+    },
+    {
+        "Title": "Dial Radio",
+        "Country": "Sudan",
+        "Tags": "automated,collaborative,people's playlists",
+        "Favicon": "https://dialradio.live/favicon.ico",
+        "Language": "en",
+        "Homepage": "https://dialradio.live/",
+        "Latitude": 51.59242899291177,
+        "Longitude": 9.843750000000002,
+        "Source1": "https://cast.dialradio.live/stream.aac"
+    },
+    {
+        "Title": "HAWA al Sudan",
+        "Country": "Sudan",
+        "Tags": "sudanese varieties radio",
+        "Language": "ar",
+        "Source1": "https://stream.zeno.fm/mqctx1bfd8zuv"
+    }
+]

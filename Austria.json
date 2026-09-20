@@ -1,0 +1,2837 @@
+[
+    {
+        "Title": "1000 ELECTRONIC DANCE MUSIC",
+        "Country": "Austria",
+        "Tags": "dance & electronic,edm,hardstyle",
+        "Language": "de",
+        "Homepage": "https://laut.fm/1000-electronic-dance-music",
+        "Latitude": 48.20723293160541,
+        "Longitude": 16.37117385864258,
+        "Source1": "http://stream.laut.fm/1000-electronic-dance-music"
+    },
+    {
+        "Title": "1000-ELECTRONIC-DANCE-MUSIC",
+        "Country": "Austria",
+        "Tags": "electronic rock,hardstyle",
+        "Language": "de,en",
+        "Homepage": "https://laut.fm/1000-electronic-dance-music",
+        "Source1": "http://stream.laut.fm/1000-electronic-dance-music.m3u"
+    },
+    {
+        "Title": "111",
+        "Country": "Austria",
+        "Favicon": "null",
+        "Homepage": "https://oe1dd.mdn.ors.at/out/u/oe1dd/manifest.m3u8",
+        "Source1": "https://oe1dd.mdn.ors.at/out/u/oe1dd/manifest.m3u8"
+    },
+    {
+        "Title": "28Radio - Rock",
+        "Country": "Austria",
+        "Tags": "rac,rock,rock 'n roll,various",
+        "Favicon": "https://example.com/besticon.png",
+        "Language": "de,en",
+        "Region": "AT-1",
+        "Homepage": "https://28radio.cc/",
+        "Latitude": 12.345,
+        "Longitude": -23.456,
+        "Source1": "https://streaming.28radio.cc:8000/rock.mp3"
+    },
+    {
+        "Title": "60er70er MEGAMIX",
+        "Country": "Austria",
+        "Tags": "oldies",
+        "Homepage": "https://www.80er90ermegamix.at/",
+        "Latitude": 47.64528334658839,
+        "Longitude": 14.542011153934602,
+        "Source1": "https://web.radio.antennevorarlberg.at/mm-60er70ermegamix"
+    },
+    {
+        "Title": "80er90er Megamix",
+        "Country": "Austria",
+        "Tags": "extraviel,pop.,rock und",
+        "Homepage": "https://www.80er90ermegamix.at/",
+        "Latitude": 47.67858034616149,
+        "Longitude": 14.718764182945383,
+        "Source1": "https://web.radio.antennevorarlberg.at/mm-80er90ermegamix"
+    },
+    {
+        "Title": "88.6",
+        "Country": "Austria",
+        "Homepage": "https://www.radio886.at/",
+        "Latitude": 48.24282905423651,
+        "Longitude": 16.34834309177262,
+        "Source1": "https://edge14.streamonkey.net/radio886-onair/stream/mp3"
+    },
+    {
+        "Title": "88.6 Classic Rock",
+        "Country": "Austria",
+        "Tags": "classic rock",
+        "Favicon": "https://www.radio886.at/img/stream_logos_2024/886_STREAM_ICON_CLASSICROCK.png",
+        "Language": "DE",
+        "Region": "AT-9",
+        "Homepage": "http://radio886.at/",
+        "Latitude": 48.243194,
+        "Longitude": 16.365033,
+        "Source1": "http://radio886.at/streams/88.6_Classic_Rock/mp3"
+    },
+    {
+        "Title": "88.6 Classic Rock",
+        "Country": "Austria",
+        "Homepage": "https://radio886.at/",
+        "Source1": "https://radio886.at/"
+    },
+    {
+        "Title": "88.6 Hard Rock",
+        "Country": "Austria",
+        "Tags": "hard rock",
+        "Favicon": "https://www.radio886.at/img/stream_logos_2024/886_STREAM_ICON_HARDROCK.png",
+        "Language": "DE",
+        "Region": "AT-9",
+        "Homepage": "http://radio886.at/",
+        "Latitude": 48.243194,
+        "Longitude": 16.365033,
+        "Source1": "http://radio886.at/streams/88.6_Hard_Rock/mp3"
+    },
+    {
+        "Title": "88.6 Metal",
+        "Country": "Austria",
+        "Tags": "metal",
+        "Favicon": "https://www.radio886.at/img/stream_logos_2024/886_STREAM_ICON_METAL.png",
+        "Language": "de",
+        "Homepage": "http://radio886.at/",
+        "Latitude": 48.2431855850366,
+        "Longitude": 16.36502588592894,
+        "Source1": "http://radio886.at/streams/88.6_Metal/mp3"
+    },
+    {
+        "Title": "88.6 New Rock",
+        "Country": "Austria",
+        "Tags": "new rock",
+        "Favicon": "https://www.radio886.at/img/stream_logos_2024/886_STREAM_ICON_NEWROCK.png",
+        "Language": "de",
+        "Homepage": "http://radio886.at/",
+        "Latitude": 48.24319433781125,
+        "Longitude": 16.365036741234672,
+        "Source1": "http://radio886.at/streams/88.6_New_Rock/mp3"
+    },
+    {
+        "Title": "88.6 On Air",
+        "Country": "Austria",
+        "Tags": "metal,rock",
+        "Language": "de",
+        "Homepage": "https://www.radio886.at/",
+        "Source1": "http://radio886.at/streams/radio_88.6/mp3"
+    },
+    {
+        "Title": "88.6 Rot-Weiß-Rock",
+        "Country": "Austria",
+        "Tags": "rock",
+        "Favicon": "https://www.radio886.at/img/stream_logos_2024/886_STREAM_ICON_ROTWEISSROCK.png",
+        "Language": "DE",
+        "Region": "AT-9",
+        "Homepage": "http://radio886.at/",
+        "Latitude": 48.243194,
+        "Longitude": 16.365033,
+        "Source1": "http://radio886.at/streams/88.6_Rot_Weiss_Rock/mp3"
+    },
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "Austria",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "AIR-Radio",
+        "Country": "Austria",
+        "Homepage": "https://air-radio.at/",
+        "Source1": "https://streamsrv-airradio.kechit.eu/128"
+    },
+    {
+        "Title": "Antenna Österreich",
+        "Country": "Austria",
+        "Tags": "pop",
+        "Favicon": "https://antenneoesterreich.oe24.at/apple-touch-icon.png",
+        "Homepage": "https://antenneoesterreich.oe24.at/",
+        "Source1": "https://frontend.streamonkey.net/antoesterreich-live"
+    },
+    {
+        "Title": "Antenne Austro Hits",
+        "Country": "Austria",
+        "Tags": "austrian music,austrohits,austropop",
+        "Language": "de",
+        "Homepage": "https://www.antenne.at/radioplayer/austrohits/",
+        "Source1": "https://live.antenne.at/auh"
+    },
+    {
+        "Title": "Antenne Kärnten",
+        "Country": "Austria",
+        "Favicon": "https://upload.wikimedia.org/wikipedia/commons/6/63/Antenne_Logo.svg",
+        "Language": "de",
+        "Homepage": "https://www.antenne.at/kaernten",
+        "Source1": "http://live.antenne.at/ak"
+    },
+    {
+        "Title": "Antenne Kärnten 80er Pop",
+        "Country": "Austria",
+        "Tags": "80's,80er,80s,80s radio",
+        "Favicon": "https://assets.radioplayer.org/040/04051/600/600/lopvbsjz.png",
+        "Homepage": "https://www.antenne.at/radioplayer/kaernten/80erpop",
+        "Source1": "https://live.antenne.at/80s"
+    },
+    {
+        "Title": "Antenne Kärnten Partyhitmix",
+        "Country": "Austria",
+        "Tags": "dance,party",
+        "Favicon": "https://www.antenne.at/favicon.ico",
+        "Language": "de",
+        "Homepage": "https://www.antenne.at/kaernten/partyhitmix",
+        "Source1": "http://live.antenne.at/ost"
+    },
+    {
+        "Title": "Antenne Kärnten Sunrise",
+        "Country": "Austria",
+        "Favicon": "https://www.antenne.at/favicon.ico",
+        "Language": "de",
+        "Homepage": "https://www.antenne.at/kaernten/sunrise",
+        "Source1": "http://live.antenne.at/sun"
+    },
+    {
+        "Title": "Antenne Salzburg",
+        "Country": "Austria",
+        "Language": "de",
+        "Homepage": "https://www.antennesalzburg.at/",
+        "Latitude": 47.79849419261615,
+        "Longitude": 13.046736717224125,
+        "Source1": "https://edge69.streamonkey.net/antsalzburg-live"
+    },
+    {
+        "Title": "Antenne Steiermark",
+        "Country": "Austria",
+        "Favicon": "https://upload.wikimedia.org/wikipedia/commons/6/63/Antenne_Logo.svg",
+        "Language": "de",
+        "Homepage": "http://www.antenne.at/",
+        "Source1": "http://live.antenne.at/as"
+    },
+    {
+        "Title": "Antenne Steiermark (werbefrei)",
+        "Country": "Austria",
+        "Favicon": "https://upload.wikimedia.org/wikipedia/commons/6/63/Antenne_Logo.svg",
+        "Language": "de",
+        "Homepage": "https://www.antenne.at/",
+        "Latitude": 47.035999777775466,
+        "Longitude": 15.406951904296877,
+        "Source1": "https://60efd7a2b4d02.streamlock.net/a_steiermark/ngrp:livestream_all/playlist.m3u8"
+    },
+    {
+        "Title": "Antenne Vorarlber Partymix",
+        "Country": "Austria",
+        "Homepage": "https://www.antennevorarlberg.at/",
+        "Source1": "http://web.radio.antennevorarlberg.at/av-chillout/stream/mp3"
+    },
+    {
+        "Title": "Antenne Vorarlberg",
+        "Country": "Austria",
+        "Favicon": "https://www.antennevorarlberg.at/static/base/img/apple-touch-icon.168e05c8048c.png",
+        "Language": "de",
+        "Homepage": "https://www.antennevorarlberg.at/",
+        "Latitude": 47.412224211770535,
+        "Longitude": 9.728436470031738,
+        "Source1": "https://web.radio.antennevorarlberg.at/av-live?aggregator=Radioplayer"
+    },
+    {
+        "Title": "Antenne Vorarlberg 2000er Hits",
+        "Country": "Austria",
+        "Tags": "2000er,2000s,hits",
+        "Favicon": "https://www.antennevorarlberg.at/static/base/img/apple-touch-icon.168e05c8048c.png",
+        "Homepage": "https://www.antennevorarlberg.at/",
+        "Source1": "https://web.radio.antennevorarlberg.at/av-2000er"
+    },
+    {
+        "Title": "Antenne Vorarlberg 2010er Hits",
+        "Country": "Austria",
+        "Tags": "2010er,2010s,hits",
+        "Favicon": "https://www.antennevorarlberg.at/static/base/img/apple-touch-icon.168e05c8048c.png",
+        "Homepage": "https://www.antennevorarlberg.at/",
+        "Source1": "https://web.radio.antennevorarlberg.at/av-2010er"
+    },
+    {
+        "Title": "Antenne Vorarlberg 70er Hits",
+        "Country": "Austria",
+        "Tags": "70's,70er,70s,classic,classic hits,hits",
+        "Favicon": "https://www.antennevorarlberg.at/wp-content/uploads//2021/03/70er-1000x1000-Slogan-runde-Ecken-144x144.png",
+        "Homepage": "https://www.antennevorarlberg.at/",
+        "Source1": "https://web.radio.antennevorarlberg.at/av-70er"
+    },
+    {
+        "Title": "Antenne Vorarlberg 80s Hits",
+        "Country": "Austria",
+        "Tags": "80's",
+        "Favicon": "https://www.antennevorarlberg.at/favicon.ico",
+        "Language": "de",
+        "Homepage": "https://www.antennevorarlberg.at/",
+        "Source1": "http://web.radio.antennevorarlberg.at/av-80er?aggregator=surfmusik"
+    },
+    {
+        "Title": "Antenne Vorarlberg 90s Hits",
+        "Country": "Austria",
+        "Tags": "90s",
+        "Favicon": "https://www.antennevorarlberg.at/static/base/img/apple-touch-icon.168e05c8048c.png",
+        "Homepage": "https://www.antennevorarlberg.at/",
+        "Source1": "https://web.radio.antennevorarlberg.at/av-90er"
+    },
+    {
+        "Title": "Antenne Vorarlberg Chillout",
+        "Country": "Austria",
+        "Homepage": "https://web.radio.antennevorarlberg.at/av-chillout",
+        "Source1": "https://web.radio.antennevorarlberg.at/av-chillout/stream/mp3"
+    },
+    {
+        "Title": "Antenne Vorarlberg Chillout Lounge",
+        "Country": "Austria",
+        "Tags": "chillout,dance,edm,pop",
+        "Favicon": "https://www.antennevorarlberg.at/favicon.ico",
+        "Language": "de",
+        "Homepage": "https://www.antennevorarlberg.at/",
+        "Source1": "https://web.radio.antennevorarlberg.at/av-chillout"
+    },
+    {
+        "Title": "Antenne Vorarlberg Christkindl Radio",
+        "Country": "Austria",
+        "Tags": "christmas",
+        "Favicon": "https://www.antennevorarlberg.at/static/base/img/apple-touch-icon.168e05c8048c.png",
+        "Homepage": "https://www.antennevorarlberg.at/",
+        "Source1": "https://web.radio.antennevorarlberg.at/av-christkindl"
+    },
+    {
+        "Title": "Antenne Vorarlberg Classic Rock",
+        "Country": "Austria",
+        "Tags": "classic,rock",
+        "Homepage": "https://www.antennevorarlberg.at/",
+        "Source1": "https://web.radio.antennevorarlberg.at/av-classicrock/stream/mp3"
+    },
+    {
+        "Title": "Antenne Vorarlberg Coffee Hits",
+        "Country": "Austria",
+        "Tags": "hits",
+        "Homepage": "https://www.antennevorarlberg.at/",
+        "Source1": "https://web.radio.antennevorarlberg.at/av-coffee"
+    },
+    {
+        "Title": "Antenne Vorarlberg Dance Radio",
+        "Country": "Austria",
+        "Tags": "dance,hits",
+        "Favicon": "https://www.antennevorarlberg.at/static/base/img/apple-touch-icon.168e05c8048c.png",
+        "Homepage": "https://www.antennevorarlberg.at/",
+        "Source1": "https://web.radio.antennevorarlberg.at/av-dance"
+    },
+    {
+        "Title": "Antenne Vorarlberg Lovesongs",
+        "Country": "Austria",
+        "Homepage": "https://web.radio.antennevorarlberg.at/av-lovesongs",
+        "Source1": "https://web.radio.antennevorarlberg.at/av-lovesongs/stream/mp3"
+    },
+    {
+        "Title": "Antenne Vorarlberg Musica Italiana",
+        "Country": "Austria",
+        "Tags": "italian",
+        "Favicon": "https://www.antennevorarlberg.at/static/base/img/apple-touch-icon.168e05c8048c.png",
+        "Homepage": "https://www.antennevorarlberg.at/",
+        "Source1": "https://web.radio.antennevorarlberg.at/av-italiana"
+    },
+    {
+        "Title": "Antenne vorarlberg Non Stop",
+        "Country": "Austria",
+        "Favicon": "https://www.antennevorarlberg.at/static/base/img/apple-touch-icon.168e05c8048c.png",
+        "Language": "de",
+        "Homepage": "https://www.antennevorarlberg.at/",
+        "Source1": "https://web.radio.antennevorarlberg.at/av-nonstop"
+    },
+    {
+        "Title": "Antenne Vorarlberg Oldies but Goldies",
+        "Country": "Austria",
+        "Tags": "classic,classic hits,oldies",
+        "Favicon": "https://www.antennevorarlberg.at/wp-content/uploads//2013/02/webradio_Icons_1000x1000-NEU_oldies-but-goldies-144x144.png",
+        "Homepage": "https://www.antennevorarlberg.at/",
+        "Source1": "https://web.radio.antennevorarlberg.at/av-oldies"
+    },
+    {
+        "Title": "Antenne Vorarlberg Partymix",
+        "Country": "Austria",
+        "Tags": "club,dance,edm,electronic,partymix",
+        "Language": "de,en",
+        "Homepage": "https://www.antennevorarlberg.at/",
+        "Source1": "https://web.radio.antennevorarlberg.at/av-partymix"
+    },
+    {
+        "Title": "Antenne Vorarlberg Rock Radio",
+        "Country": "Austria",
+        "Tags": "rock",
+        "Favicon": "https://www.antennevorarlberg.at/static/base/img/apple-touch-icon.168e05c8048c.png",
+        "Homepage": "https://www.antennevorarlberg.at/",
+        "Source1": "https://web.radio.antennevorarlberg.at/av-rock"
+    },
+    {
+        "Title": "Antenne Vorarlberg Schlagerkult",
+        "Country": "Austria",
+        "Tags": "schlager",
+        "Favicon": "https://www.antennevorarlberg.at/static/base/img/apple-touch-icon.168e05c8048c.png",
+        "Homepage": "https://www.antennevorarlberg.at/",
+        "Source1": "https://web.radio.antennevorarlberg.at/av-schlagerkult"
+    },
+    {
+        "Title": "Antenne Vorarlberg TOP40",
+        "Country": "Austria",
+        "Tags": "charts,hits",
+        "Favicon": "https://www.antennevorarlberg.at/static/base/img/apple-touch-icon.168e05c8048c.png",
+        "Homepage": "https://www.antennevorarlberg.at/",
+        "Source1": "https://web.radio.antennevorarlberg.at/av-top40"
+    },
+    {
+        "Title": "Antenne Österreich",
+        "Country": "Austria",
+        "Tags": "pop,rock",
+        "Favicon": "https://antenneoesterreich.oe24.at/apple-touch-icon.png",
+        "Language": "de",
+        "Homepage": "https://antenneoesterreich.oe24.at/",
+        "Source1": "https://frontend.streamonkey.net/antoesterreich-live"
+    },
+    {
+        "Title": "antennevorarlberg coffee",
+        "Country": "Austria",
+        "Homepage": "https://www.antennevorarlberg.at/",
+        "Source1": "http://web.radio.antennevorarlberg.at/av-coffee/stream/mp3?aggregator=icecastdirectory"
+    },
+    {
+        "Title": "Arabella",
+        "Country": "Austria",
+        "Favicon": "https://frontend.streams.arabella.at/arabella-wien?aggregator=arabella-playlistfile",
+        "Homepage": "https://frontend.streams.arabella.at/arabella-wien?aggregator=arabella-playlistfile",
+        "Source1": "https://frontend.streams.arabella.at/arabella-wien?aggregator=arabella-playlistfile"
+    },
+    {
+        "Title": "Arabella 70 r",
+        "Country": "Austria",
+        "Tags": "70er",
+        "Favicon": "https://arabella.at/static/base/img/apple-touch-icon.a3ce28a2756f.png",
+        "Homepage": "https://arabella.at/",
+        "Source1": "https://static.arabella.at/streamadressen/arabella-70er.m3u"
+    },
+    {
+        "Title": "Arabella 80 r",
+        "Country": "Austria",
+        "Tags": "80er",
+        "Favicon": "https://arabella.at/static/base/img/apple-touch-icon.a3ce28a2756f.png",
+        "Homepage": "https://arabella.at/",
+        "Source1": "https://static.arabella.at/streamadressen/arabella-80er.m3u"
+    },
+    {
+        "Title": "Arabella 90 er",
+        "Country": "Austria",
+        "Tags": "90er",
+        "Homepage": "https://arabella.at/",
+        "Source1": "https://static.arabella.at/streamadressen/arabella-90er.m3u"
+    },
+    {
+        "Title": "Arabella Austropop",
+        "Country": "Austria",
+        "Tags": "austrian music,austropop",
+        "Favicon": "https://arabella.at/static/base/img/apple-touch-icon.a3ce28a2756f.png",
+        "Homepage": "https://arabella.at/",
+        "Source1": "https://static.arabella.at/streamadressen/arabella-austropop.m3u"
+    },
+    {
+        "Title": "Arabella gold",
+        "Country": "Austria",
+        "Tags": "gold",
+        "Homepage": "https://arabella.at/",
+        "Source1": "https://static.arabella.at/streamadressen/arabella-gold.m3u"
+    },
+    {
+        "Title": "Arabella Golden oldies",
+        "Country": "Austria",
+        "Tags": "golden oldies",
+        "Favicon": "https://arabella.at/static/base/img/apple-touch-icon.a3ce28a2756f.png",
+        "Homepage": "https://arabella.at/",
+        "Source1": "https://static.arabella.at/streamadressen/arabella-goldenoldies.m3u"
+    },
+    {
+        "Title": "Arabella holiday",
+        "Country": "Austria",
+        "Favicon": "https://arabella.at/static/base/img/apple-touch-icon.a3ce28a2756f.png",
+        "Homepage": "https://arabella.at/",
+        "Source1": "https://static.arabella.at/streamadressen/arabella-holiday.m3u"
+    },
+    {
+        "Title": "Arabella hot",
+        "Country": "Austria",
+        "Tags": "hot",
+        "Homepage": "https://arabella.at/",
+        "Source1": "https://static.arabella.at/streamadressen/arabella-hot.m3u"
+    },
+    {
+        "Title": "Arabella Lovesongs",
+        "Country": "Austria",
+        "Tags": "lovesongs",
+        "Homepage": "https://arabella.at/",
+        "Source1": "https://static.arabella.at/streamadressen/arabella-lovesongs.m3u"
+    },
+    {
+        "Title": "Arabella Niederösterreich",
+        "Country": "Austria",
+        "Favicon": "https://www.arabella.at/static/base/img/apple-touch-icon.a3ce28a2756f.png",
+        "Language": "de",
+        "Homepage": "https://www.arabella.at/wnoe/",
+        "Source1": "http://frontend.streams.arabella.at/arabella-niederoesterreich/stream/mp3?aggregator=arabella-playlistfile"
+    },
+    {
+        "Title": "Arabella Relax",
+        "Country": "Austria",
+        "Tags": "relaxation",
+        "Favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7GNifevkmpegEQspaFGFI-sV6_k3ZQczflw&usqp=CAU",
+        "Homepage": "https://app.arabella.at/assets/channels/image/relax-list.png",
+        "Source1": "https://static.arabella.at/streamadressen/arabella-relax.m3u"
+    },
+    {
+        "Title": "Arabella Rock",
+        "Country": "Austria",
+        "Tags": "rock",
+        "Homepage": "https://arabella.at/",
+        "Source1": "https://static.arabella.at/streamadressen/arabella-rock.m3u"
+    },
+    {
+        "Title": "Arabella schlager",
+        "Country": "Austria",
+        "Tags": "schlager",
+        "Favicon": "https://arabella.at/static/base/img/apple-touch-icon.a3ce28a2756f.png",
+        "Homepage": "https://arabella.at/",
+        "Source1": "https://static.arabella.at/streamadressen/arabella-schlager.m3u"
+    },
+    {
+        "Title": "Arabella Tiamo",
+        "Country": "Austria",
+        "Favicon": "https://arabella.at/static/base/img/apple-touch-icon.a3ce28a2756f.png",
+        "Homepage": "https://arabella.at/",
+        "Source1": "https://static.arabella.at/streamadressen/arabella-tiamo.m3u"
+    },
+    {
+        "Title": "Arabella wien",
+        "Country": "Austria",
+        "Favicon": "https://arabella.at/static/base/img/apple-touch-icon.a3ce28a2756f.png",
+        "Homepage": "https://arabella.at/",
+        "Source1": "https://static.arabella.at/streamadressen/arabella-wien.m3u"
+    },
+    {
+        "Title": "ARBÖ Verkehrsradio",
+        "Country": "Austria",
+        "Tags": "dab+,oldies,traffic",
+        "Language": "de",
+        "Homepage": "http://www.verkehrsradio.at/",
+        "Source1": "http://live.datamatix.at:8022/"
+    },
+    {
+        "Title": "Atnnene sSterewich",
+        "Country": "Austria",
+        "Tags": "pop",
+        "Favicon": "https://antenneoesterreich.oe24.at/apple-touch-icon.png",
+        "Homepage": "https://antenneoesterreich.oe24.at/",
+        "Source1": "https://frontend.streamonkey.net/antoesterreich-live"
+    },
+    {
+        "Title": "AUSTRIA FIRST – Österreichs Patriotenradio",
+        "Country": "Austria",
+        "Tags": "conservative talk,news,patriot,pop,rock",
+        "Favicon": "https://austriafirst.at/wp-content/uploads/2026/01/favicon-256x256-1.png",
+        "Language": "de",
+        "Homepage": "https://austriafirst.at/",
+        "Latitude": 48.20825324323258,
+        "Longitude": 16.372611522674564,
+        "Source1": "https://n01a-eu.rcs.revma.com/3zudpqfxh0cwv?rj-ttl=5&rj-tok=AAABm8uuzlsAWVPrc0mLiKWX-Q"
+    },
+    {
+        "Title": "Austria-Kult-Radio",
+        "Country": "Austria",
+        "Homepage": "https://austria-kultradio.at/",
+        "Source1": "http://stream.laut.fm/austria-kultradio.m3u"
+    },
+    {
+        "Title": "AustriaKult-Radio",
+        "Country": "Austria",
+        "Language": "de",
+        "Homepage": "https://laut.fm/austria-kultradio",
+        "Latitude": 48.25059497993639,
+        "Longitude": 16.408810615539554,
+        "Source1": "http://stream.laut.fm/austria-kultradio"
+    },
+    {
+        "Title": "Austrian Rock Radio",
+        "Country": "Austria",
+        "Tags": "rock",
+        "Favicon": "https://austrianrockradio.at/wp-content/uploads/2023/02/liferadio-150x150.png",
+        "Homepage": "http://www.austrianrockradio.at/",
+        "Source1": "http://live.antenne.at/arr"
+    },
+    {
+        "Title": "Austrian Rock Radio",
+        "Country": "Austria",
+        "Tags": "rock",
+        "Favicon": "https://austrianrockradio.at/wp-content/uploads/2023/02/liferadio-150x150.png",
+        "Language": "de",
+        "Homepage": "https://austrianrockradio.at/",
+        "Source1": "http://live.antenne.at/arr"
+    },
+    {
+        "Title": "Austrianpower radio",
+        "Country": "Austria",
+        "Favicon": "https://austrianpowerradio.com/favicon.ico",
+        "Homepage": "https://austrianpowerradio.com/",
+        "Source1": "https://streamsrv-austrianpub.kechit.eu/main_lo"
+    },
+    {
+        "Title": "AustrianPowerRadio",
+        "Country": "Austria",
+        "Favicon": "https://austrianpowerradio.com/wp-content/uploads/2024/04/Logo_transparen-WEISSt-768x841.png",
+        "Homepage": "https://austrianpowerradio.com/",
+        "Source1": "https://streamsrv-austrianpub.kechit.eu/main_lo"
+    },
+    {
+        "Title": "Blechradio 1",
+        "Country": "Austria",
+        "Tags": "brass",
+        "Favicon": "https://cdn.onlineradiobox.com/img/logo/5/83425.v1.png",
+        "Homepage": "https://www.blechradio.at/dr/",
+        "Latitude": 47.70441105302798,
+        "Longitude": 14.795494079589846,
+        "Source1": "https://streamt.at/radio/8000/blechradio1.mp3"
+    },
+    {
+        "Title": "Blechradio 2",
+        "Country": "Austria",
+        "Favicon": "http://player.blechradio.at/images/blechradio_2_logo.jpg",
+        "Homepage": "https://www.blechradio.at/",
+        "Source1": "https://streamt.at:8010/website_popandrock.mp3?ver=141186"
+    },
+    {
+        "Title": "Blechradio 3",
+        "Country": "Austria",
+        "Favicon": "http://player.blechradio.at/images/blechradio_3_logo.jpg",
+        "Homepage": "https://www.blechradio.at/",
+        "Source1": "https://streamt.at:8020/website_tanzlmusi.mp3?ver=800211"
+    },
+    {
+        "Title": "Bluffphonica",
+        "Country": "Austria",
+        "Tags": "forest psytrance,psychedelic,psytrance",
+        "Language": "de,en",
+        "Homepage": "https://www.bluffphonica.at/",
+        "Source1": "http://stream.laut.fm/bluffphonica.m3u"
+    },
+    {
+        "Title": "Callshop Radio Wien",
+        "Country": "Austria",
+        "Tags": "ambient,electro,electronic,hip hop,house",
+        "Favicon": "https://cdn.sanity.io/images/0smxd0yv/production/e21c49aec89f19279ac0b5d37a283e0a5be838c1-500x500.svg?w=300&h=300&fm=png&fit=max&auto=format",
+        "Homepage": "https://callshopradio.com/",
+        "Source1": "https://icecast.callshopradio.com/callshopradio-wien"
+    },
+    {
+        "Title": "Campus & City Radio 94.4",
+        "Country": "Austria",
+        "Language": "de",
+        "Homepage": "https://www.cr944.at/",
+        "Latitude": 48.21408513650951,
+        "Longitude": 15.632045567035677,
+        "Source1": "http://cr944.at:8000/cr944-high"
+    },
+    {
+        "Title": "Campus & City Radio St. Pölten",
+        "Country": "Austria",
+        "Language": "de",
+        "Homepage": "https://www.cr944.at/",
+        "Source1": "http://cr944.at:8000/cr944-high"
+    },
+    {
+        "Title": "Chromatique-Sky",
+        "Country": "Austria",
+        "Tags": "epic,soundtracks",
+        "Homepage": "https://laut.fm/chromatique-sky",
+        "Source1": "http://stream.laut.fm/chromatique-sky"
+    },
+    {
+        "Title": "City Jazz",
+        "Country": "Austria",
+        "Tags": "jazz",
+        "Favicon": "https://cityjazz.at/wp-content/uploads/2024/04/city_jazz_x40.jpg",
+        "Homepage": "https://cityjazz.at/",
+        "Source1": "https://stream.radiotechnikum.at/CITYJAZZ"
+    },
+    {
+        "Title": "CITY23",
+        "Country": "Austria",
+        "Tags": "dab+,easy listening",
+        "Favicon": "https://www.city23.at/wp-content/themes/city23/medias/app-icons/apple-icon-120x120.png",
+        "Language": "de",
+        "Homepage": "http://city23.at/",
+        "Source1": "http://live.radiomax.technology/city23"
+    },
+    {
+        "Title": "ClassicaL Relaxation Radio Art",
+        "Country": "Austria",
+        "Language": "da",
+        "Homepage": "http://air.radioart.online/",
+        "Source1": "http://air.radioart.online/hClassical_relaxation.mp3?dlid=db5ceb796b3f6b3b40cb449ed670f317"
+    },
+    {
+        "Title": "CR 94.4",
+        "Country": "Austria",
+        "Homepage": "https://www.fhstp.ac.at/en/campus/on-campus-media/campus-city-radio-94.4",
+        "Source1": "https://cr944.at:50443/cr944"
+    },
+    {
+        "Title": "Dark Synth Radio",
+        "Country": "Austria",
+        "Tags": "gothic",
+        "Language": "de,en",
+        "Homepage": "https://laut.fm/darksynthradio",
+        "Source1": "http://darksynthradio.stream.laut.fm/darksynthradio?t302=2023-11-20_08-30-31&uuid=c4e07d87-378c-4318-bb0a-00c0fd1be5aa"
+    },
+    {
+        "Title": "Darksynth Radio",
+        "Country": "Austria",
+        "Tags": "80s,darkwave,electronic,electropop,gothic,industrial,minimal wave,synthpop",
+        "Homepage": "https://laut.fm/darksynthradio",
+        "Source1": "http://stream.laut.fm/darksynthradio"
+    },
+    {
+        "Title": "dbFM Radio",
+        "Country": "Austria",
+        "Favicon": "https://www.dbfmradio.org/DBFM_Logo3.jpg",
+        "Homepage": "https://www.dbfmradio.org/?p=home",
+        "Source1": "https://stream.dbfmradio.org:8030/stream"
+    },
+    {
+        "Title": "Diks Дикс",
+        "Country": "Austria",
+        "Favicon": "null",
+        "Homepage": "http://strm112.1.fm/acpl_mobile_mp3",
+        "Source1": "http://strm112.1.fm/acpl_mobile_mp3"
+    },
+    {
+        "Title": "DrumandBass.FM",
+        "Country": "Austria",
+        "Source1": "http://stream.laut.fm/drumandbass_fm"
+    },
+    {
+        "Title": "emap.fm",
+        "Country": "Austria",
+        "Tags": "world wide ethno music & reports",
+        "Favicon": "https://emap.fm/images/logo_emap.gif",
+        "Language": "de,en",
+        "Homepage": "https://emap.fm/",
+        "Latitude": 48.21270890575452,
+        "Longitude": 16.3542652130127,
+        "Source1": "https://s2.stationplaylist.com:9470/listen.aac"
+    },
+    {
+        "Title": "Energy",
+        "Country": "Austria",
+        "Homepage": "http://stream1.energy.at:8000/vie",
+        "Source1": "http://stream1.energy.at:8000/vie"
+    },
+    {
+        "Title": "Energy NRJ Innsbruck",
+        "Country": "Austria",
+        "Tags": "pop",
+        "Favicon": "https://media.metacast.eu/pictures/10_2015/OdriLYWpbHJqKDAcGCMv-7384.png",
+        "Language": "DE",
+        "Region": "AT-7",
+        "Homepage": "https://energy.at/",
+        "Source1": "http://stream1.energy.at:8000/ibk"
+    },
+    {
+        "Title": "Energy NRJ Österreich",
+        "Country": "Austria",
+        "Tags": "charts",
+        "Favicon": "https://energy.at/api/streams/logos/aut.svg",
+        "Language": "de",
+        "Homepage": "https://energy.at/",
+        "Source1": "http://stream1.energy.at:8000/aut"
+    },
+    {
+        "Title": "ENERGY ÖSTERREICH",
+        "Country": "Austria",
+        "Tags": "dance,hits,pop,r'n'b,top 40",
+        "Favicon": "https://cdn.brandfetch.io/idBu4-_WiS/w/2048/h/2048/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1769076313016",
+        "Language": "de",
+        "Homepage": "https://energy.at/",
+        "Latitude": 48.203603420369994,
+        "Longitude": 16.33428275585175,
+        "Source1": "https://streaming.nrjaudio.fm/ouvfydoarp52"
+    },
+    {
+        "Title": "ERF Plus Oesterreich 128k",
+        "Country": "Austria",
+        "Tags": "christian",
+        "Language": "de",
+        "Homepage": "http://stream.erf.at:8000/",
+        "Source1": "http://stream.erf.at:8000/erfplus_128"
+    },
+    {
+        "Title": "ERF Plus Oesterreich 192k",
+        "Country": "Austria",
+        "Tags": "christian,contemporay christian",
+        "Favicon": "http://www.erf.at/favicon.ico",
+        "Language": "de",
+        "Homepage": "http://www.erf.at/radio/empfang/",
+        "Source1": "http://stream.erf.at/erfplus_192"
+    },
+    {
+        "Title": "ERF Plus Oesterreich 192k (A1)",
+        "Country": "Austria",
+        "Tags": "christian",
+        "Language": "de",
+        "Homepage": "http://stream.erf.at:8000/",
+        "Source1": "http://stream.erf.at:8000/erfplus_a1"
+    },
+    {
+        "Title": "ERF Plus Oesterreich 320k",
+        "Country": "Austria",
+        "Tags": "christian",
+        "Language": "de",
+        "Homepage": "http://stream.erf.at:8000/",
+        "Source1": "http://stream.erf.at:8000/erfplus_320"
+    },
+    {
+        "Title": "ERF Plus Oesterreich 96k",
+        "Country": "Austria",
+        "Tags": "christian",
+        "Language": "de",
+        "Homepage": "http://stream.erf.at:8000/",
+        "Source1": "http://stream.erf.at:8000/erfplus_96"
+    },
+    {
+        "Title": "ERF Suedtirol 192k",
+        "Country": "Austria",
+        "Tags": "christian",
+        "Language": "de",
+        "Homepage": "http://stream.erf.at:8000/",
+        "Source1": "http://stream.erf.at:8000/erfplus_192"
+    },
+    {
+        "Title": "ERF Süd",
+        "Country": "Austria",
+        "Tags": "inspiration radio,life stories,mindfulness,motivational talk,personal growth,positive news,uplifting music,wellbeing tips",
+        "Favicon": "https://erfsued.com/site/templates/img/favicon-256x256.png",
+        "Language": "de",
+        "Homepage": "https://www.erfsued.com/",
+        "Source1": "http://erfradio.com/ERF_Sued"
+    },
+    {
+        "Title": "Eurodance-X-Press",
+        "Country": "Austria",
+        "Tags": "90s,dance,eurodance,top40",
+        "Favicon": "https://www.eurodance.at/images/logo.png",
+        "Language": "de",
+        "Homepage": "https://www.eurodance.at/",
+        "Source1": "https://secureonair.krone.at/eurodance.aac"
+    },
+    {
+        "Title": "FFH 80ER",
+        "Country": "Austria",
+        "Homepage": "https://www.radio.de/s/ffh80er",
+        "Source1": "https://mp3.ffh.de/ffhchannels/hq80er.mp3"
+    },
+    {
+        "Title": "ffh die 80er",
+        "Country": "Austria",
+        "Tags": "oldies",
+        "Favicon": "https://www.ffh.de/musik/webradio/11-ffh-die-80er-das-80er-hits-radio-von-ndw-bis-pop.html",
+        "Language": "de",
+        "Homepage": "https://www.radio.de/s/ffh80er",
+        "Source1": "https://www.ffh.de/musik/webradio/11-ffh-die-80er-das-80er-hits-radio-von-ndw-bis-pop.html"
+    },
+    {
+        "Title": "Flash90s",
+        "Country": "Austria",
+        "Tags": "90s,pop,rock",
+        "Favicon": "https://www.flash90s.at/images/logo.png",
+        "Language": "de",
+        "Homepage": "https://www.flash90s.at/",
+        "Latitude": 48.30364274500689,
+        "Longitude": 14.287714362144472,
+        "Source1": "https://stream.flash90s.at/flash90s/mp3-192/"
+    },
+    {
+        "Title": "FM4 | ORF",
+        "Country": "Austria",
+        "Tags": "orf,alternative mainstream,electronic,pop,rock,public radio",
+        "Favicon": "https://tubestatic.orf.at/mojo/1_3/storyserver//tube/fm4/images/touch-icon-iphone-retina.png",
+        "Language": "DE,EN",
+        "Region": "AT-9",
+        "Homepage": "https://fm4.orf.at/",
+        "Latitude": 48.1776994,
+        "Longitude": 16.2877707,
+        "Source1": "https://orf-live.ors-shoutcast.at/fm4-q1a"
+    },
+    {
+        "Title": "FM4 | ORF | HQ",
+        "Country": "Austria",
+        "Tags": "orf,alternative mainstream,electronic,pop,rock,public radio",
+        "Favicon": "https://tubestatic.orf.at/mojo/1_3/storyserver//tube/fm4/images/touch-icon-iphone-retina.png",
+        "Language": "DE,EN",
+        "Region": "AT-9",
+        "Homepage": "https://fm4.orf.at/",
+        "Latitude": 48.1776994,
+        "Longitude": 16.2877707,
+        "Source1": "https://orf-live.ors-shoutcast.at/fm4-q2a"
+    },
+    {
+        "Title": "Freies Radio Freistadt",
+        "Country": "Austria",
+        "Tags": "freistadt",
+        "Language": "de",
+        "Homepage": "https://www.frf.at/",
+        "Source1": "http://212.89.182.114:8008/frf"
+    },
+    {
+        "Title": "Freies Radio Innviertel",
+        "Country": "Austria",
+        "Favicon": "https://radio-fri.at/wp-content/uploads/2022/10/cropped-FRI_FreiesRadioInnviertel_favicon-32x32.png",
+        "Language": "de",
+        "Homepage": "https://www.radio-fri.at/",
+        "Latitude": 48.25491645787095,
+        "Longitude": 13.410092443365604,
+        "Source1": "https://radiofri.out.airtime.pro/radiofri_a"
+    },
+    {
+        "Title": "Freies Radio Salzkammergut",
+        "Country": "Austria",
+        "Favicon": "https://freiesradio.at/wp-content/uploads/2016/11/cropped-favicon-192x192.png",
+        "Homepage": "https://freiesradio.at/",
+        "Source1": "https://streaming.xaok.org/frs.ogg"
+    },
+    {
+        "Title": "Freies Radio Salzkammergut",
+        "Country": "Austria",
+        "Tags": "freies radio salzkammergut",
+        "Favicon": "https://freiesradio.at/wp-content/uploads/2016/11/cropped-favicon-180x180.png",
+        "Language": "de",
+        "Homepage": "http://www.freiesradio.at/",
+        "Source1": "http://stream.xaok.org:8000/frs.mp3"
+    },
+    {
+        "Title": "Freies Radio Österreich",
+        "Country": "Austria",
+        "Language": "de",
+        "Homepage": "http://www.fro.at/",
+        "Source1": "http://www.fro.at:8008/fro64.mp3"
+    },
+    {
+        "Title": "FREIRAD",
+        "Country": "Austria",
+        "Favicon": "https://www.freirad.at/wp-content/themes/betheme-child/images/logo-mobile.png",
+        "Homepage": "https://www.freirad.at/",
+        "Source1": "https://stream.freirad.at/live.mp3"
+    },
+    {
+        "Title": "Gamesboro Radio - Video Game Music 24/7",
+        "Country": "Austria",
+        "Tags": "chiptune,game,nintendo,playstation,sega,video game music,xbox",
+        "Favicon": "https://radio.gamesboro.org/static/uploads/browser_icon/original.1693066595.png",
+        "Language": "en",
+        "Region": "AT-1",
+        "Homepage": "https://radio.gamesboro.org/public/gamesboro_radio",
+        "Latitude": 27.98171891564362,
+        "Longitude": -80.6017674460188,
+        "Source1": "https://radio.gamesboro.org/listen/gamesboro_radio/radio.mp3"
+    },
+    {
+        "Title": "Garage Sounds",
+        "Country": "Austria",
+        "Homepage": "http://audio.gendercriminals.gay/listen/garage_sounds/radio.mp3.m3u",
+        "Source1": "http://audio.gendercriminals.gay/listen/garage_sounds/radio.mp3"
+    },
+    {
+        "Title": "Grün-Weiss",
+        "Country": "Austria",
+        "Source1": "https://live.gruen-weiss.at/rgw.aac"
+    },
+    {
+        "Title": "halil haydar telci",
+        "Country": "Austria",
+        "Favicon": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOYTURK_ROCK_SC?/",
+        "Homepage": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOYTURK_ROCK_SC?/",
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOYTURK_ROCK_SC?/"
+    },
+    {
+        "Title": "Hardstyle and Hardcore",
+        "Country": "Austria",
+        "Tags": "hardcore,hardstyle",
+        "Homepage": "https://laut.fm/hardstyle-and-hardcore",
+        "Source1": "http://stream.laut.fm/hardstyle-and-hardcore"
+    },
+    {
+        "Title": "Heiligenkreuz_101 (102k)",
+        "Country": "Austria",
+        "Tags": "chatolic,christian,religion,talk",
+        "Favicon": "http://www.radiomaria.at/favicon.ico",
+        "Language": "de",
+        "Homepage": "http://www.radiomaria.at/",
+        "Source1": "http://live.radiomaria.at:8000/rma101"
+    },
+    {
+        "Title": "Her.st Propaganda Broadcast",
+        "Country": "Austria",
+        "Tags": "conspiracy theories,philosophy,psychedelic",
+        "Favicon": "https://her.st/favicon.ico",
+        "Language": "en",
+        "Homepage": "https://her.st/",
+        "Source1": "https://radio.her.st/listen/listen/128.mp3"
+    },
+    {
+        "Title": "I-love-Radio-104",
+        "Country": "Austria",
+        "Source1": "https://streams.ilovemusic.de/iloveradio104.mp3"
+    },
+    {
+        "Title": "idem-fm",
+        "Country": "Austria",
+        "Homepage": "https://idem-fm.at/",
+        "Source1": "https://idem-fm.m3u/"
+    },
+    {
+        "Title": "Infora Austria",
+        "Country": "Austria",
+        "Favicon": "https://orf.at/app-infos/sound/logos/infoRadio.png",
+        "Source1": "https://s35.derstream.net/inforadio.mp3"
+    },
+    {
+        "Title": "JazzW3",
+        "Country": "Austria",
+        "Tags": "jazz",
+        "Favicon": "http://jazz.w3.at/logo.png",
+        "Language": "de",
+        "Region": "AT-9",
+        "Homepage": "http://jazz.w3.at/",
+        "Latitude": 48.206764,
+        "Longitude": 16.393611,
+        "Source1": "https://air.jazz.w3.at/jazzw3.ogg",
+        "Source2": "http://jazz.w3.at:8000/w3jazz.mp3",
+        "Source3": "http://air.jazz.w3.at/jazzw3.mp3"
+    },
+    {
+        "Title": "Jö.Live",
+        "Country": "Austria",
+        "Tags": "pop music",
+        "Favicon": "https://www.joe-club.at/",
+        "Homepage": "https://www.joe-club.at/",
+        "Source1": "https://live.stream.maxfive.com/max5-joelive"
+    },
+    {
+        "Title": "jö.live - Mein Tag. Meine Musik.",
+        "Country": "Austria",
+        "Favicon": "https://maxfive.com/wp-content/themes/Default/Assets/Favicons/apple-touch-icon.png",
+        "Homepage": "https://maxfive.com/",
+        "Source1": "https://live.stream.maxfive.com/max5-joelive?aggregator=maxfive-homepage"
+    },
+    {
+        "Title": "Kronehit",
+        "Country": "Austria",
+        "Favicon": "http://kronehit.at/static/base/img/apple-touch-icon.f5c3420c154b.png",
+        "Homepage": "http://kronehit.at/",
+        "Source1": "http://onair.krone.at/kronehit.mp3"
+    },
+    {
+        "Title": "Kronehit",
+        "Country": "Austria",
+        "Tags": "rock pop dance",
+        "Favicon": "https://i.imgur.com/t4ZSDxu.png",
+        "Language": "de",
+        "Homepage": "https://www.kronehit.at/",
+        "Latitude": 48.18907058186412,
+        "Longitude": 16.415277229760495,
+        "Source1": "http://onair.krone.at/kronehit.mp3"
+    },
+    {
+        "Title": "KroneHit Digital",
+        "Country": "Austria",
+        "Favicon": "http://www.kronehit.at/static/base/img/apple-touch-icon.f5c3420c154b.png",
+        "Language": "de",
+        "Homepage": "http://www.kronehit.at/",
+        "Source1": "http://onair-ha1.krone.at/kronehit1058.mp3"
+    },
+    {
+        "Title": "KroneHit Radio",
+        "Country": "Austria",
+        "Tags": "adult contemporary",
+        "Favicon": "http://www.kronehit.at/static/base/img/apple-touch-icon.f5c3420c154b.png",
+        "Language": "de",
+        "Homepage": "http://www.kronehit.at/",
+        "Source1": "http://onair-ha1.krone.at/kronehit64.aac",
+        "Source2": "http://onair-ha1.krone.at/kronehit.aac"
+    },
+    {
+        "Title": "Kronehit TV",
+        "Country": "Austria",
+        "Tags": "tv",
+        "Favicon": "https://www.kronehit.at///apple-touch-icon.png",
+        "Language": "de",
+        "Homepage": "https://www.kronehit.at/alles-ueber-kronehit/tv/",
+        "Source1": "https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8"
+    },
+    {
+        "Title": "LCR Radio",
+        "Country": "Austria",
+        "Favicon": "https://static.wixstatic.com/media/fb3041_490a03e52d6f4054be2342552bc1606e%7emv2.png/v1/fill/w_180%2ch_180%2clg_1%2cusm_0.66_1.00_0.01/fb3041_490a03e52d6f4054be2342552bc1606e%7emv2.png",
+        "Homepage": "https://www.unternehmen1230.at/lcr-radio",
+        "Source1": "https://streaming.radio.co/sba5c95896/listen"
+    },
+    {
+        "Title": "Life Radio",
+        "Country": "Austria",
+        "Language": "de",
+        "Homepage": "http://www.liferadio.at/",
+        "Source1": "http://stream1.liferadio.at/"
+    },
+    {
+        "Title": "Life Radio 80er",
+        "Country": "Austria",
+        "Tags": "80s,80s radio",
+        "Favicon": "https://www.liferadio.at/typo3conf/ext/chili_prjliferadio/Resources/Public/Images/logo.png",
+        "Language": "de",
+        "Homepage": "https://www.liferadio.at/",
+        "Source1": "https://stream.liferadio.at/80er/mp3-192/stream.liferadio.at/"
+    },
+    {
+        "Title": "Life Radio 90er",
+        "Country": "Austria",
+        "Tags": "90s",
+        "Language": "de",
+        "Homepage": "http://www.liferadio.at/",
+        "Source1": "http://stream3.liferadio.at/;"
+    },
+    {
+        "Title": "Life Radio Chill Out",
+        "Country": "Austria",
+        "Homepage": "https://www.liferadio.at/",
+        "Source1": "https://stream8.liferadio.at/"
+    },
+    {
+        "Title": "Life Radio Chill Out Hits",
+        "Country": "Austria",
+        "Tags": "ambient and relaxation music,chill out,chillout",
+        "Favicon": "https://www.liferadio.at/typo3conf/ext/chili_prjliferadio/Resources/Public/Images/logo.png",
+        "Language": "de",
+        "Homepage": "https://www.liferadio.at/",
+        "Source1": "https://stream.liferadio.at/chillout/mp3-192/stream.liferadio.at/"
+    },
+    {
+        "Title": "Life Radio Classic Rock",
+        "Country": "Austria",
+        "Tags": "classic rock",
+        "Language": "de",
+        "Homepage": "https://radioplayer.liferadio.at/classicrock/",
+        "Source1": "https://stream11.liferadio.at/"
+    },
+    {
+        "Title": "Life Radio ClassicRock",
+        "Country": "Austria",
+        "Tags": "classic rock",
+        "Language": "de",
+        "Homepage": "https://radioplayer.liferadio.at/classicrock",
+        "Latitude": 48.294614813244344,
+        "Longitude": 14.288063049316408,
+        "Source1": "https://stream.liferadio.at/clrock/mp3-192/stream.liferadio.at/"
+    },
+    {
+        "Title": "Life Radio Greatest Hits",
+        "Country": "Austria",
+        "Tags": "60s,70s,80s,90s,greatest hits,pop,rock",
+        "Favicon": "https://www.liferadio.at/typo3conf/ext/chili_prjliferadio/Resources/Public/Images/logo.png",
+        "Language": "de",
+        "Homepage": "https://www.liferadio.at/",
+        "Source1": "https://stream.liferadio.at/greatest-hits/mp3-192/stream.liferadio.at/"
+    },
+    {
+        "Title": "Life Radio Sommersongs",
+        "Country": "Austria",
+        "Tags": "hits,pop,sommerhits,summer,summer hits,summer radio,summer tunes",
+        "Favicon": "https://www.liferadio.at/typo3conf/ext/chili_prjliferadio/Resources/Public/Images/logo.png",
+        "Language": "de",
+        "Homepage": "https://www.liferadio.at/",
+        "Source1": "https://stream.liferadio.at/sommer/mp3-192/stream.liferadio.at/"
+    },
+    {
+        "Title": "Life Radio Tirol",
+        "Country": "Austria",
+        "Tags": "pop,rock",
+        "Favicon": "https://liferadio.konsole-labs.com/img/live.png",
+        "Language": "de",
+        "Homepage": "https://www.liferadio.tirol/",
+        "Latitude": 47.26550246447786,
+        "Longitude": 11.401091516017916,
+        "Source1": "https://stream.liferadio.tirol/live/mp3-192/link",
+        "Source2": "http://stream.liferadio.tirol/live/aac-256/SHQ"
+    },
+    {
+        "Title": "Life Radio Tirol",
+        "Country": "Austria",
+        "Homepage": "https://www.liferadio.tirol/stream-life-radio-tirol-golden-oldies/",
+        "Latitude": 47.255372705163026,
+        "Longitude": 11.420142341595309,
+        "Source1": "https://stream.liferadio.tirol/oldies/acc-128/link"
+    },
+    {
+        "Title": "Life Radio Tirol - ITALO",
+        "Country": "Austria",
+        "Homepage": "https://webplayer.liferadio.tirol/",
+        "Source1": "https://stream.liferadio.tirol/italo/mp3-192/link"
+    },
+    {
+        "Title": "Life Radio Tirol - MUSIC ONLY",
+        "Country": "Austria",
+        "Homepage": "https://www.liferadio.tirol/",
+        "Source1": "https://stream.liferadio.tirol/MUONLY/mp3-192/link"
+    },
+    {
+        "Title": "Life Radio Tirol - Schlagerpuls",
+        "Country": "Austria",
+        "Favicon": "https://www.liferadio.tirol/wp-content/uploads/2023/02/Channels-Radioplayer-quadratisch-Schlagerpuls.png",
+        "Language": "de",
+        "Homepage": "https://www.liferadio.tirol/",
+        "Source1": "https://stream.liferadio.tirol/schlager/mp3-192/link"
+    },
+    {
+        "Title": "Life Radio Tirol- Alles Malle",
+        "Country": "Austria",
+        "Homepage": "https://liferadio.tirol/",
+        "Source1": "https://stream.liferadio.tirol/malle/mp3-192/link"
+    },
+    {
+        "Title": "Lo-Fi Halloween and Chill",
+        "Country": "Austria",
+        "Tags": "spoopy",
+        "Favicon": "http://audio.gendercriminals.gay/static/uploads/sleepytime_tea/album_art.1711358678.jpg",
+        "Language": "en",
+        "Region": "AT-1",
+        "Homepage": "http://audio.gendercriminals.gay/public/lo-fi_halloween_and_chill",
+        "Latitude": 43.0440448,
+        "Longitude": -76.234752,
+        "Source1": "http://audio.gendercriminals.gay/listen/lo-fi_halloween_and_chill/radio-browser"
+    },
+    {
+        "Title": "Lounge FM Digital",
+        "Country": "Austria",
+        "Homepage": "https://www.lounge.fm/",
+        "Source1": "http://188.138.9.183/digital.mp3"
+    },
+    {
+        "Title": "Lounge.FM - 100% Austria",
+        "Country": "Austria",
+        "Tags": "downtempo,easy listening,lounge,smooth jazz",
+        "Favicon": "https://www.lounge.fm/wp-content/uploads/2014/06/loungefm_logo_colour2-300x300.jpg",
+        "Language": "DE",
+        "Region": "AT-9",
+        "Homepage": "https://www.lounge.fm/",
+        "Latitude": 48.1993032,
+        "Longitude": 16.3605854,
+        "Source1": "https://s35.derstream.net/100austria.mp3"
+    },
+    {
+        "Title": "Lounge.FM Kanal 2 - Wien",
+        "Country": "Austria",
+        "Tags": "downtempo,easy listening,lounge,smooth jazz",
+        "Favicon": "https://www.lounge.fm/wp-content/uploads/2014/06/loungefm_logo_colour2-300x300.jpg",
+        "Language": "DE",
+        "Region": "AT-9",
+        "Homepage": "https://www.lounge.fm/",
+        "Latitude": 48.1993032,
+        "Longitude": 16.3605854,
+        "Source1": "https://s35.derstream.net/ukwwien.mp3"
+    },
+    {
+        "Title": "LoungeFM",
+        "Country": "Austria",
+        "Homepage": "https://www.lounge.fm/",
+        "Source1": "http://188.138.9.183/digital.mp3"
+    },
+    {
+        "Title": "Medex ExYu Balkan",
+        "Country": "Austria",
+        "Homepage": "https://medexexyubalkan.com/",
+        "Source1": "https://a5.asurahosting.com:7350/radio.mp3"
+    },
+    {
+        "Title": "Metal Radio",
+        "Country": "Austria",
+        "Favicon": "https://metal-radio.at/assets/logo-D4TNgK9S.svg",
+        "Homepage": "https://metal-radio.at/",
+        "Source1": "https://stream.radiotechnikum.at/METALRadio"
+    },
+    {
+        "Title": "Metal Radio",
+        "Country": "Austria",
+        "Tags": "metal",
+        "Homepage": "https://metalradio.at/",
+        "Source1": "https://stream.radiotechnikum.at:80/METALRadio"
+    },
+    {
+        "Title": "Modular Station",
+        "Country": "Austria",
+        "Favicon": "https://modular-station.com/app/themes/modular-station/dist/images/modular-station-192_3bcbc4e6.png",
+        "Homepage": "https://modular-station.com/",
+        "Source1": "https://broadcast.modular-station.com/listen/modular_station/radio.aac"
+    },
+    {
+        "Title": "Mountain Reggae Radio",
+        "Country": "Austria",
+        "Tags": "hip-hop,reggae",
+        "Language": "de",
+        "Homepage": "https://www.mountainreggae-radio.at/",
+        "Source1": "https://mountainreggaeradio.stream.laut.fm/mountainreggaeradio"
+    },
+    {
+        "Title": "museumsradio",
+        "Country": "Austria",
+        "Language": "de",
+        "Homepage": "https://museum.streamserver24.com:8080/stream",
+        "Source1": "https://museum.streamserver24.com:8080/stream"
+    },
+    {
+        "Title": "museumsradio",
+        "Country": "Austria",
+        "Language": "de",
+        "Homepage": "https://www.plattenkiste.net/",
+        "Source1": "https://museum.streamserver24.com:8080/stream"
+    },
+    {
+        "Title": "Museumsradio AM 1476",
+        "Country": "Austria",
+        "Tags": "international",
+        "Homepage": "https://plattenkiste.radio/",
+        "Source1": "https://museum.streamserver24.com:8080/stream"
+    },
+    {
+        "Title": "NJoy Radio 88.2 Steiermark",
+        "Country": "Austria",
+        "Tags": "pop",
+        "Language": "de",
+        "Homepage": "http://www.njoyradio.at/",
+        "Source1": "http://live.njoyradio.at/njoy"
+    },
+    {
+        "Title": "Now Radio 128k",
+        "Country": "Austria",
+        "Tags": "christian",
+        "Homepage": "http://stream.erf.at:8000/",
+        "Source1": "http://stream.erf.at:8000/nowradio_128"
+    },
+    {
+        "Title": "Now Radio 192k",
+        "Country": "Austria",
+        "Tags": "christian",
+        "Language": "de",
+        "Homepage": "http://stream.erf.at:8000/",
+        "Source1": "http://stream.erf.at:8000/nowradio_192"
+    },
+    {
+        "Title": "Now Radio 192k",
+        "Country": "Austria",
+        "Tags": "christian,christian contemporary",
+        "Favicon": "http://www.erf.at/favicon.ico",
+        "Language": "de",
+        "Homepage": "http://www.erf.at/radio/empfang/",
+        "Source1": "http://stream.erf.at/nowradio_192"
+    },
+    {
+        "Title": "Now Radio 320k",
+        "Country": "Austria",
+        "Tags": "christian",
+        "Language": "de",
+        "Homepage": "http://stream.erf.at:8000/",
+        "Source1": "http://stream.erf.at:8000/nowradio_320"
+    },
+    {
+        "Title": "Now Radio 96k",
+        "Country": "Austria",
+        "Tags": "christian,christian contemporary",
+        "Favicon": "http://www.erf.at/favicon.ico",
+        "Language": "de",
+        "Homepage": "http://www.erf.at/radio/empfang/",
+        "Source1": "http://stream.erf.at/nowradio_96"
+    },
+    {
+        "Title": "Now Radio 96k",
+        "Country": "Austria",
+        "Tags": "christian",
+        "Language": "de",
+        "Homepage": "http://stream.erf.at:8000/",
+        "Source1": "http://stream.erf.at:8000/nowradio_96"
+    },
+    {
+        "Title": "oe1 dd",
+        "Country": "Austria",
+        "Favicon": "https://oe1.orf.at/favicon.ico",
+        "Language": "de",
+        "Homepage": "https://oe1.orf.at/",
+        "Source1": "https://oe1dd.mdn.ors.at/out/u/oe1dd/manifest.m3u8"
+    },
+    {
+        "Title": "oe1 surround",
+        "Country": "Austria",
+        "Tags": "classique",
+        "Favicon": "https://oe1.orf.at/favicon.ico",
+        "Language": "de",
+        "Homepage": "https://oe1.orf.at/artikel/583273/Oesterreich-1-neu-hoeren",
+        "Source1": "https://oe1dd.mdn.ors.at/out/u/oe1dd/manifest.m3u8"
+    },
+    {
+        "Title": "Oldie Party",
+        "Country": "Austria",
+        "Homepage": "http://streams.norawebstreams.de/oldieparty/mp3-192/vtuner/",
+        "Source1": "http://streams.norawebstreams.de/oldieparty/mp3-192/vtuner/"
+    },
+    {
+        "Title": "ORANGE 94.0",
+        "Country": "Austria",
+        "Favicon": "https://o94.at/themes/custom/radio_orange/logo1.png",
+        "Homepage": "https://o94.at/de",
+        "Source1": "https://securestream.o94.at/live.mp3"
+    },
+    {
+        "Title": "ORANGE 94.0",
+        "Country": "Austria",
+        "Favicon": "https://o94.at/themes/custom/radio_orange/images/splashscreens/iphone6_splash.png",
+        "Homepage": "https://o94.at/",
+        "Source1": "https://securestream.o94.at/live.mp3"
+    },
+    {
+        "Title": "Orange 94.0 secure",
+        "Country": "Austria",
+        "Favicon": "https://o94.at/themes/custom/radio_orange/images/icons/apple/apple-touch-icon-120x120.png",
+        "Language": "de",
+        "Homepage": "https://o94.at/",
+        "Source1": "https://securestream.o94.at/live.mp3"
+    },
+    {
+        "Title": "ORF - Radio Salzburg",
+        "Country": "Austria",
+        "Tags": "orf",
+        "Favicon": "https://orfodon.org/system/accounts/avatars/111/374/508/091/321/480/original/185d67318d45fbd9.png",
+        "Language": "DE",
+        "Region": "AT-5",
+        "Homepage": "https://salzburg.orf.at/player",
+        "Latitude": 47.7883737,
+        "Longitude": 13.0498059,
+        "Source1": "https://orf-live.ors-shoutcast.at/sbg-q1a"
+    },
+    {
+        "Title": "ORF Hitradio Ö3",
+        "Country": "Austria",
+        "Tags": "orf,pop",
+        "Favicon": "https://tubestatic.orf.at/mojo/1_3/storyserver//tube/common/images/apple-icons/oe3.png",
+        "Language": "DE",
+        "Region": "AT-9",
+        "Homepage": "http://oe3.orf.at/",
+        "Latitude": 48.1776994,
+        "Longitude": 16.2877707,
+        "Source1": "https://ors-sn03.ors-shoutcast.at/oe3-q1a",
+        "Source2": "https://orf-live.ors-shoutcast.at/oe3-q2a"
+    },
+    {
+        "Title": "ORF Hitradio Ö3 (128k HLS)",
+        "Country": "Austria",
+        "Tags": "at_orf,pop",
+        "Favicon": "https://tubestatic.orf.at/mojo/1_3/storyserver//tube/common/images/apple-icons/oe3.png",
+        "Language": "de",
+        "Homepage": "https://oe3.orf.at/",
+        "Source1": "https://orf-live-oe3.mdn.ors.at/out/u/oe3/q3a/manifest.m3u8"
+    },
+    {
+        "Title": "ORF Hitradio Ö3 (290k HLS)",
+        "Country": "Austria",
+        "Tags": "at_orf,pop",
+        "Favicon": "https://tubestatic.orf.at/mojo/1_3/storyserver//tube/common/images/apple-icons/oe3.png",
+        "Language": "de",
+        "Homepage": "https://oe3.orf.at/m/",
+        "Source1": "https://orf-live-oe3.mdn.ors.at/out/u/oe3/q4a/manifest.m3u8"
+    },
+    {
+        "Title": "ORF Hitradio Ö3 | HQ",
+        "Country": "Austria",
+        "Tags": "orf,pop",
+        "Favicon": "https://tubestatic.orf.at/mojo/1_3/storyserver//tube/common/images/apple-icons/oe3.png",
+        "Language": "DE",
+        "Region": "AT-9",
+        "Homepage": "http://oe3.orf.at/",
+        "Latitude": 48.1776994,
+        "Longitude": 16.2877707,
+        "Source1": "https://orf-live.ors-shoutcast.at/oe3-q2a"
+    },
+    {
+        "Title": "ORF Radio Burgenland",
+        "Country": "Austria",
+        "Tags": "orf",
+        "Favicon": "https://orfodon.org/system/accounts/avatars/111/374/581/969/931/266/original/4e38a6ea240646e2.png",
+        "Language": "DE",
+        "Region": "AT-1",
+        "Homepage": "https://burgenland.orf.at/player",
+        "Latitude": 47.8605118,
+        "Longitude": 16.5260067,
+        "Source1": "https://orf-live.ors-shoutcast.at/bgl-q1a"
+    },
+    {
+        "Title": "ORF Radio Kärnten",
+        "Country": "Austria",
+        "Tags": "orf,orf,public radio,regional radio",
+        "Favicon": "https://orfodon.org/system/accounts/avatars/111/374/600/349/621/738/original/38f30e28fae38639.png",
+        "Language": "DE",
+        "Region": "AT-2",
+        "Homepage": "https://kaernten.orf.at/player",
+        "Latitude": 46.6218851,
+        "Longitude": 14.2988966,
+        "Source1": "http://ors-sn02.ors-shoutcast.at/ktn-q1a"
+    },
+    {
+        "Title": "ORF Radio Kärnten HQ",
+        "Country": "Austria",
+        "Tags": "orf",
+        "Favicon": "https://orfodon.org/system/accounts/avatars/111/374/600/349/621/738/original/38f30e28fae38639.png",
+        "Language": "DE",
+        "Region": "AT-2",
+        "Homepage": "https://kaernten.orf.at/player",
+        "Latitude": 46.6218851,
+        "Longitude": 14.2988966,
+        "Source1": "https://orf-live.ors-shoutcast.at/ktn-q2a"
+    },
+    {
+        "Title": "ORF Radio Niederösterreich",
+        "Country": "Austria",
+        "Tags": "orf",
+        "Favicon": "https://orfodon.org/system/accounts/avatars/111/374/434/334/698/982/original/aad9486c4d8e92f2.png",
+        "Language": "DE",
+        "Region": "AT-3",
+        "Homepage": "https://noe.orf.at/player",
+        "Latitude": 48.199239,
+        "Longitude": 15.6295597,
+        "Source1": "https://orf-live.ors-shoutcast.at/noe-q1a"
+    },
+    {
+        "Title": "ORF Radio Niederösterreich | HQ",
+        "Country": "Austria",
+        "Tags": "orf",
+        "Favicon": "https://orfodon.org/system/accounts/avatars/111/374/434/334/698/982/original/aad9486c4d8e92f2.png",
+        "Language": "DE",
+        "Region": "AT-3",
+        "Homepage": "https://noe.orf.at/player",
+        "Latitude": 48.199239,
+        "Longitude": 15.6295597,
+        "Source1": "http://orf-live.ors-shoutcast.at/noe-q2a"
+    },
+    {
+        "Title": "ORF Radio Oberösterreich",
+        "Country": "Austria",
+        "Tags": "orf",
+        "Favicon": "https://orfodon.org/system/accounts/avatars/111/374/484/561/807/260/original/04efe58e0bc4d119.png",
+        "Language": "DE",
+        "Region": "AT-4",
+        "Homepage": "https://ooe.orf.at/player/",
+        "Latitude": 48.2980732,
+        "Longitude": 14.3004329,
+        "Source1": "https://orf-live.ors-shoutcast.at/ooe-q1a"
+    },
+    {
+        "Title": "ORF Radio Oberösterreich | HQ",
+        "Country": "Austria",
+        "Tags": "orf",
+        "Favicon": "https://orfodon.org/system/accounts/avatars/111/374/484/561/807/260/original/04efe58e0bc4d119.png",
+        "Language": "DE",
+        "Region": "AT-4",
+        "Homepage": "https://ooe.orf.at/player/",
+        "Latitude": 48.2980732,
+        "Longitude": 14.3004329,
+        "Source1": "https://orf-live.ors-shoutcast.at/ooe-q2a"
+    },
+    {
+        "Title": "ORF Radio Salzburg HQ",
+        "Country": "Austria",
+        "Tags": "orf",
+        "Favicon": "https://orfodon.org/system/accounts/avatars/111/374/508/091/321/480/original/185d67318d45fbd9.png",
+        "Language": "DE",
+        "Region": "AT-5",
+        "Homepage": "https://salzburg.orf.at/player",
+        "Latitude": 47.7883737,
+        "Longitude": 13.0498059,
+        "Source1": "https://orf-live.ors-shoutcast.at/sbg-q2a"
+    },
+    {
+        "Title": "ORF Radio Steiermark",
+        "Country": "Austria",
+        "Tags": "orf",
+        "Favicon": "https://orfodon.org/system/accounts/avatars/111/374/531/169/177/709/original/1721e6944c64b1b3.png",
+        "Language": "DE",
+        "Region": "AT-6",
+        "Homepage": "https://steiermark.orf.at/player/",
+        "Latitude": 47.0544106,
+        "Longitude": 15.4614499,
+        "Source1": "http://orf-live.ors-shoutcast.at/stm-q1a"
+    },
+    {
+        "Title": "ORF Radio Steiermark | HQ",
+        "Country": "Austria",
+        "Tags": "orf",
+        "Favicon": "https://orfodon.org/system/accounts/avatars/111/374/531/169/177/709/original/1721e6944c64b1b3.png",
+        "Language": "DE",
+        "Region": "AT-6",
+        "Homepage": "https://steiermark.orf.at/player/",
+        "Latitude": 47.0544106,
+        "Longitude": 15.4614499,
+        "Source1": "http://orf-live.ors-shoutcast.at/stm-q2a"
+    },
+    {
+        "Title": "ORF Radio Vorarlberg",
+        "Country": "Austria",
+        "Language": "de",
+        "Homepage": "https://vorarlberg.orf.at/player",
+        "Source1": "https://orf-live.ors-shoutcast.at/vbg-q2a"
+    },
+    {
+        "Title": "ORF Radio Wien",
+        "Country": "Austria",
+        "Tags": "orf",
+        "Favicon": "https://orfodon.org/system/accounts/avatars/111/374/411/749/352/990/original/16c84635847ddad3.png",
+        "Language": "DE",
+        "Region": "AT-9",
+        "Homepage": "https://wien.orf.at/player",
+        "Latitude": 48.1776994,
+        "Longitude": 16.2877707,
+        "Source1": "http://orf-live.ors-shoutcast.at/wie-q1a"
+    },
+    {
+        "Title": "ORF Radio Wien (128k HLS)",
+        "Country": "Austria",
+        "Tags": "at_orf",
+        "Favicon": "https://orfodon.org/system/accounts/avatars/111/374/411/749/352/990/original/16c84635847ddad3.png",
+        "Language": "de",
+        "Homepage": "https://wien.orf.at/",
+        "Source1": "https://orf-live-wie.mdn.ors.at/out/u/wie/q3a/manifest.m3u8"
+    },
+    {
+        "Title": "ORF Radio Wien (290k HLS)",
+        "Country": "Austria",
+        "Tags": "at_orf",
+        "Favicon": "https://orfodon.org/system/accounts/avatars/111/374/411/749/352/990/original/16c84635847ddad3.png",
+        "Language": "de",
+        "Homepage": "https://wien.orf.at/",
+        "Source1": "https://orf-live-wie.mdn.ors.at/out/u/wie/q4a/manifest.m3u8"
+    },
+    {
+        "Title": "ORF Radio Wien | HQ",
+        "Country": "Austria",
+        "Tags": "orf",
+        "Favicon": "https://orfodon.org/system/accounts/avatars/111/374/411/749/352/990/original/16c84635847ddad3.png",
+        "Language": "DE",
+        "Region": "AT-9",
+        "Homepage": "https://wien.orf.at/player",
+        "Latitude": 48.1776994,
+        "Longitude": 16.2877707,
+        "Source1": "http://orf-live.ors-shoutcast.at/wie-q2a"
+    },
+    {
+        "Title": "ORF Slovenski spored",
+        "Country": "Austria",
+        "Tags": "orf,ethnic programming,minority",
+        "Favicon": "https://orf.at/favicon.ico",
+        "Language": "DE,EN,SL",
+        "Region": "AT-2",
+        "Homepage": "https://slovenci.orf.at/",
+        "Latitude": 46.6218851,
+        "Longitude": 14.2988966,
+        "Source1": "http://orf-live.ors-shoutcast.at/wie-q1a"
+    },
+    {
+        "Title": "ORF Slovenski spored | HQ",
+        "Country": "Austria",
+        "Tags": "orf,ethnic programming,minority",
+        "Favicon": "https://orf.at/favicon.ico",
+        "Language": "DE,EN,SL",
+        "Region": "AT-2",
+        "Homepage": "https://slovenci.orf.at/",
+        "Latitude": 46.6218851,
+        "Longitude": 14.2988966,
+        "Source1": "http://ors-sn03.ors-shoutcast.at/slo-q2a"
+    },
+    {
+        "Title": "ORF Tirol",
+        "Country": "Austria",
+        "Tags": "orf,local radio,volkstümlich",
+        "Favicon": "https://orfodon.org/system/accounts/avatars/111/374/561/229/082/482/original/57acca969ede8452.png",
+        "Language": "DE",
+        "Region": "AT-7",
+        "Homepage": "https://tirol.orf.at/player/",
+        "Latitude": 47.2757573,
+        "Longitude": 11.3963689,
+        "Source1": "http://orf-live.ors-shoutcast.at/tir-q1a"
+    },
+    {
+        "Title": "ORF Tirol HQ",
+        "Country": "Austria",
+        "Tags": "orf,local radio,volkstümlich",
+        "Favicon": "https://orfodon.org/system/accounts/avatars/111/374/561/229/082/482/original/57acca969ede8452.png",
+        "Language": "DE",
+        "Region": "AT-7",
+        "Homepage": "https://tirol.orf.at/player/",
+        "Latitude": 47.2757573,
+        "Longitude": 11.3963689,
+        "Source1": "http://orf-live.ors-shoutcast.at/tir-q2a"
+    },
+    {
+        "Title": "ORF Ö1 (128k HLS)",
+        "Country": "Austria",
+        "Tags": "at_orf",
+        "Favicon": "https://oe1.orf.at/static/img/logo_oe1.png",
+        "Language": "de",
+        "Homepage": "https://oe1.orf.at/",
+        "Source1": "https://orf-live-oe1.mdn.ors.at/out/u/oe1/q3a/manifest.m3u8"
+    },
+    {
+        "Title": "ORF Ö1 (290k HLS)",
+        "Country": "Austria",
+        "Tags": "at_orf",
+        "Favicon": "https://oe1.orf.at/static/img/logo_oe1.png",
+        "Language": "de",
+        "Homepage": "https://oe1.orf.at/",
+        "Source1": "https://orf-live-oe1.mdn.ors.at/out/u/oe1/q4a/manifest.m3u8"
+    },
+    {
+        "Title": "ORF Ö1 Campus",
+        "Country": "Austria",
+        "Tags": "orf,campus radio,experimental radio,pop,world music",
+        "Favicon": "https://oe1.orf.at/static/img/logo_oe1.png",
+        "Language": "DE",
+        "Region": "AT-9",
+        "Homepage": "https://oe1.orf.at/campus",
+        "Latitude": 48.1776994,
+        "Longitude": 16.2877707,
+        "Source1": "https://orf-live.ors-shoutcast.at/campus-q1a"
+    },
+    {
+        "Title": "ORF Ö1 Campus | HQ",
+        "Country": "Austria",
+        "Tags": "orf,campus radio,experimental radio,pop,world music",
+        "Favicon": "https://oe1.orf.at/static/img/logo_oe1.png",
+        "Language": "DE",
+        "Region": "AT-9",
+        "Homepage": "https://oe1.orf.at/campus",
+        "Latitude": 48.1776994,
+        "Longitude": 16.2877707,
+        "Source1": "https://orf-live.ors-shoutcast.at/campus-q2a"
+    },
+    {
+        "Title": "PENNY live",
+        "Country": "Austria",
+        "Favicon": "https://maxfive.com/favicon.ico",
+        "Homepage": "https://maxfive.com/",
+        "Latitude": 48.16828355975927,
+        "Longitude": 16.425557369208597,
+        "Source1": "http://listen.radiomax.technology/penny"
+    },
+    {
+        "Title": "Peters Plattenthek",
+        "Country": "Austria",
+        "Homepage": "https://www.petersplattenthek.at/#",
+        "Source1": "http://server7524.streamplus.de/stream.mp3"
+    },
+    {
+        "Title": "PetersPlattentek",
+        "Country": "Austria",
+        "Homepage": "http://www.petersplattenthek.at/",
+        "Source1": "https://server7524.streamplus.de/stream.mp3"
+    },
+    {
+        "Title": "Pfarr-Radio Enzersfeld",
+        "Country": "Austria",
+        "Tags": "christian,katholic,religion",
+        "Language": "de",
+        "Homepage": "https://schottenpfarren.at/pfarrradio",
+        "Source1": "http://server4.streamserver24.com:43615/stream"
+    },
+    {
+        "Title": "Pirate Radio Austria",
+        "Country": "Austria",
+        "Tags": "alternative pop,alternative rock",
+        "Favicon": "https://pirateradio-website.konsole-labs.com/images/logo.png",
+        "Language": "de",
+        "Homepage": "https://www.pirateradio.at/",
+        "Source1": "https://secureonair.krone.at/pirate.aac"
+    },
+    {
+        "Title": "Popwelle Wörthersee,AutoDJ",
+        "Country": "Austria",
+        "Tags": "musik der 90er,oldies,oldies der 60er,oldies der 70er,oldies der 80er,popschlager,schlager",
+        "Favicon": "https://lh3.googleusercontent.com/p/AF1QipO1nU_lDtIzU5-Sv6EZFzE7Wa-ttB38YYWP5f3A=s680-w680-h510",
+        "Latitude": 46.611361,
+        "Longitude": 14.043617,
+        "Source1": "https://popwellezwei.sp.radio.fm/stream"
+    },
+    {
+        "Title": "Popwelle. Das Musikradio,AutoDJ",
+        "Country": "Austria",
+        "Tags": "indie,oldie,pop,rock",
+        "Favicon": "https://popwelle.at/pimages/popwelle_logo.png",
+        "Latitude": 46.611361,
+        "Longitude": 14.043617,
+        "Source1": "https://popwelle.sp.radio.fm/stream"
+    },
+    {
+        "Title": "Power FM Dublin",
+        "Country": "Austria",
+        "Homepage": "https://www.powerfm.org/#",
+        "Source1": "https://www.powerfm.org:8443/powerfm.mp3"
+    },
+    {
+        "Title": "Proton - das freie Radio",
+        "Country": "Austria",
+        "Language": "de",
+        "Homepage": "https://radioproton.at/",
+        "Latitude": 47.49159605603465,
+        "Longitude": 9.748306274414064,
+        "Source1": "https://radioproton.at:8443/proton"
+    },
+    {
+        "Title": "Purzelradio",
+        "Country": "Austria",
+        "Favicon": "https://www.purzelradio.net/wp-content/uploads/2023/05/cropped-PurzelradioHeader.png",
+        "Homepage": "https://www.purzelradio.net/",
+        "Source1": "https://s5.radio.co/sa760ba7af/listen"
+    },
+    {
+        "Title": "Radino - Mein Kinderradio Wien 103,2",
+        "Country": "Austria",
+        "Tags": "children,dab+,kids",
+        "Favicon": "https://www.meinkinderradio.at/wp-content/uploads/2021/07/favicon.png",
+        "Language": "de",
+        "Homepage": "http://www.meinkinderradio.at/",
+        "Source1": "http://stream01.zogl.net:8906/stream"
+    },
+    {
+        "Title": "Radio 3: The DJ Johnson Somerset Remixes",
+        "Country": "Austria",
+        "Favicon": "https://www.eduneu.eu/logo_radio3.png",
+        "Homepage": "https://radio.eduneu.eu/public/radio3",
+        "Source1": "https://radio.eduneu.eu/public/radio3/playlist.pls"
+    },
+    {
+        "Title": "radio 88.6",
+        "Country": "Austria",
+        "Tags": "rock",
+        "Favicon": "https://www.radio886.at/apple-touch-icon.png",
+        "Language": "DE",
+        "Region": "AT-9",
+        "Homepage": "http://radio886.at/",
+        "Latitude": 48.243194,
+        "Longitude": 16.365033,
+        "Source1": "http://radio886.at/streams/radio_88.6/mp3"
+    },
+    {
+        "Title": "Radio Agora",
+        "Country": "Austria",
+        "Favicon": "https://www.agora.at/images/favicons/apple-touch-icon.png",
+        "Homepage": "https://www.agora.at/home/",
+        "Source1": "https://livestream.agora.at/agora"
+    },
+    {
+        "Title": "Radio Agora 105,5",
+        "Country": "Austria",
+        "Tags": "free radio,freies radio",
+        "Favicon": "https://www.agora.at/images/favicons/apple-touch-icon.png",
+        "Language": "de,en",
+        "Homepage": "https://www.agora.at/",
+        "Latitude": 46.63944840910066,
+        "Longitude": 14.298191070556642,
+        "Source1": "https://livestream.agora.at/agora"
+    },
+    {
+        "Title": "Radio Alpenstar",
+        "Country": "Austria",
+        "Tags": "folk",
+        "Homepage": "http://www.radio-alpenstar.at/",
+        "Source1": "http://streamplus62.leonex.de:22674/;"
+    },
+    {
+        "Title": "Radio Arabella Oberösterreich",
+        "Country": "Austria",
+        "Tags": "2000s,80s,90s,austrian music,austropop,smooth",
+        "Favicon": "https://www.arabella.at/static/base/img/favicon.png",
+        "Language": "de",
+        "Homepage": "https://www.arabella.at/oberoesterreich/",
+        "Latitude": 48.3044383513378,
+        "Longitude": 14.289760887622837,
+        "Source1": "https://frontend.streams.arabella.at/arabella-oberoesterreich?aggregator=tunein"
+    },
+    {
+        "Title": "Radio B138",
+        "Country": "Austria",
+        "Language": "de",
+        "Homepage": "https://radiob138.at/",
+        "Latitude": 47.905092400739385,
+        "Longitude": 14.120065569877625,
+        "Source1": "https://webstream.radiob138.at/"
+    },
+    {
+        "Title": "Radio Balkan EU",
+        "Country": "Austria",
+        "Tags": "balkan",
+        "Homepage": "http://www.radiobalkaneu.com/",
+        "Source1": "http://cast2.name.ba:8185/"
+    },
+    {
+        "Title": "Radio Bollerwagen",
+        "Country": "Austria",
+        "Tags": "apresski,ballermann,party",
+        "Homepage": "https://radiobollerwagen.at/",
+        "Source1": "https://player.ffn.de/radiobollerwagen.mp3"
+    },
+    {
+        "Title": "Radio Braunau am Inn AT",
+        "Country": "Austria",
+        "Tags": "pop,schlager",
+        "Homepage": "https://zeno.fm/radio/radio-braunau",
+        "Source1": "https://stream.zeno.fm/ec0tpqnxqsbvv"
+    },
+    {
+        "Title": "Radio Burgenland HQ",
+        "Country": "Austria",
+        "Tags": "orf",
+        "Favicon": "https://orfodon.org/system/accounts/avatars/111/374/581/969/931/266/original/4e38a6ea240646e2.png",
+        "Language": "DE",
+        "Region": "AT-1",
+        "Homepage": "https://burgenland.orf.at/player",
+        "Latitude": 47.8605118,
+        "Longitude": 16.5260067,
+        "Source1": "http://orf-live.ors-shoutcast.at/bgl-q2a"
+    },
+    {
+        "Title": "Radio Flamingo",
+        "Country": "Austria",
+        "Favicon": "https://radioflamingo.at/uploads/medium_RF_LIVE_Vollfla_echig_Stream_Icon_4000x4000px_v1_b46a0d320f.jpg",
+        "Homepage": "https://radioflamingo.at/",
+        "Source1": "https://live.antenne.at/rf"
+    },
+    {
+        "Title": "Radio Flamingo",
+        "Country": "Austria",
+        "Tags": "schlager",
+        "Language": "de",
+        "Homepage": "http://radioflamingo.at/",
+        "Latitude": 47.062468386556816,
+        "Longitude": 15.44260964512319,
+        "Source1": "http://live.antenne.at/rf"
+    },
+    {
+        "Title": "Radio Flamingo + Golden Hits",
+        "Country": "Austria",
+        "Favicon": "https://radioflamingo.at/uploads/medium_RF_Golden_Hits_Vollfla_echig_Stream_Icon_4000x4000px_v1_5dea39f085.jpg",
+        "Homepage": "https://radioflamingo.at/",
+        "Source1": "https://live.radioflamingo.at/rfplusgoldenhits"
+    },
+    {
+        "Title": "Radio Flamingo + Kultschlager",
+        "Country": "Austria",
+        "Favicon": "https://radioflamingo.at/uploads/medium_RF_Kult_Schlager_Vollfla_echig_Stream_Icon_4000x4000px_v1_0c3c69c99a.jpg",
+        "Homepage": "https://radioflamingo.at/",
+        "Source1": "https://live.radioflamingo.at/rfpluskultschlager"
+    },
+    {
+        "Title": "Radio Flamingo + Volksmusik",
+        "Country": "Austria",
+        "Tags": "volksmusik",
+        "Favicon": "https://radioflamingo.at/uploads/small_RF_Volksmusik_Vollfla_echig_Stream_Icon_4000x4000px_v1_3c3eaff79d.jpg",
+        "Homepage": "https://radioflamingo.at/",
+        "Source1": "https://live.radioflamingo.at/rfplusvolksmusik"
+    },
+    {
+        "Title": "Radio Flamingo Christkindl",
+        "Country": "Austria",
+        "Favicon": "https://radioflamingo.at/uploads/medium_RF_Christkindl_Vollfla_echig_Stream_Icon_4000x4000px_v1_25557f0fa0.png",
+        "Homepage": "https://radioflamingo.at/",
+        "Source1": "https://live.radioflamingo.at/rfchristkindl"
+    },
+    {
+        "Title": "Radio Flamingo Hoamat",
+        "Country": "Austria",
+        "Favicon": "https://radioflamingo.at/uploads/medium_RF_Hoamat_Vollfla_echig_Stream_Icon_4000x4000px_v1_0d86fbb36b.png",
+        "Homepage": "https://radioflamingo.at/",
+        "Source1": "https://live.radioflamingo.at/rfhoamat"
+    },
+    {
+        "Title": "Radio Flamingo Partyschlager",
+        "Country": "Austria",
+        "Favicon": "https://radioflamingo.at/uploads/medium_RF_Party_Schlager_Vollfla_echig_Stream_Icon_4000x4000px_v1_cff7d6fff8.png",
+        "Homepage": "https://radioflamingo.at/",
+        "Source1": "https://live.radioflamingo.at/rfpartyschlager"
+    },
+    {
+        "Title": "Radio Freequenns",
+        "Country": "Austria",
+        "Favicon": "https://www.freequenns.at/wp-content/uploads/2020/11/fav.png",
+        "Language": "de",
+        "Homepage": "http://www.freequenns.at/",
+        "Source1": "http://livestream.freequenns.at/live"
+    },
+    {
+        "Title": "Radio FRO",
+        "Country": "Austria",
+        "Tags": "art,charitable,culture,diversity,free,information",
+        "Favicon": "https://www.fro.at/wp-content/themes/fro/images/fro_favicon_32x32pxl.png",
+        "Language": "de",
+        "Homepage": "http://www.fro.at/index.php",
+        "Source1": "http://www.fro.at:8008/fro-128.ogg"
+    },
+    {
+        "Title": "Radio Grün Weiß",
+        "Country": "Austria",
+        "Favicon": "http://www.gruen-weiss.at/favicon.ico",
+        "Language": "de",
+        "Homepage": "http://www.gruen-weiss.at/",
+        "Source1": "http://live.gruen-weiss.at/rgw.mp3"
+    },
+    {
+        "Title": "Radio Grün Weiß - HQ",
+        "Country": "Austria",
+        "Tags": "classic hits,oldies,schlager,volksmusik",
+        "Favicon": "https://www.gruen-weiss.at/favicon.ico",
+        "Language": "de",
+        "Homepage": "https://www.gruen-weiss.at/",
+        "Source1": "http://live.gruen-weiss.at/rgw.aac"
+    },
+    {
+        "Title": "Radio GÖD",
+        "Country": "Austria",
+        "Tags": "60s,70s,80s,classic rock,rock",
+        "Favicon": "https://www.goed.at/favicon/apple-icon-72x72.png",
+        "Language": "de",
+        "Homepage": "https://www.goed.at/radio",
+        "Source1": "https://radiogoed.securestream.kapper.net/stream"
+    },
+    {
+        "Title": "Radio Harmonie",
+        "Country": "Austria",
+        "Language": "de",
+        "Homepage": "http://www.radioharmonie.at/",
+        "Source1": "http://host6.cartwall.at:9630/"
+    },
+    {
+        "Title": "Radio Helsinki",
+        "Country": "Austria",
+        "Favicon": "https://live.helsinki.at/img/helsinki.png",
+        "Homepage": "https://helsinki.at/",
+        "Source1": "https://live.helsinki.at:8088/live160.mp3"
+    },
+    {
+        "Title": "Radio Helsinki 92,6 MHz (128 kbps)",
+        "Country": "Austria",
+        "Language": "de",
+        "Homepage": "http://helsinki.mur.at/",
+        "Source1": "http://live.helsinki.at:8088/live128.mp3"
+    },
+    {
+        "Title": "Radio Helsinki 92,6 MHz (160 kbps)",
+        "Country": "Austria",
+        "Language": "de",
+        "Homepage": "http://helsinki.at/",
+        "Source1": "http://live.helsinki.at:8088/live160.mp3"
+    },
+    {
+        "Title": "Radio Helsinki 92.6 FM",
+        "Country": "Austria",
+        "Tags": "variety",
+        "Favicon": "https://helsinki.at/wp-content/uploads/logo.png",
+        "Homepage": "https://helsinki.at/",
+        "Latitude": 47.073031018997455,
+        "Longitude": 15.438194274902346,
+        "Source1": "https://www.radios.com.br/play/playlist/4776/listen-radio.asx"
+    },
+    {
+        "Title": "Radio Himmelberg",
+        "Country": "Austria",
+        "Language": "de",
+        "Homepage": "https://sites.google.com/view/radio-himmelberg/startseite",
+        "Source1": "http://stream.laut.fm/radio-himmelberg"
+    },
+    {
+        "Title": "Radio Klassik Stephansdom",
+        "Country": "Austria",
+        "Homepage": "https://radioklassik.at/",
+        "Latitude": 48.207126337722045,
+        "Longitude": 16.3722038269043,
+        "Source1": "http://radioklassikstephansdom.ice.infomaniak.ch/radioklassikstephansdom.mp3"
+    },
+    {
+        "Title": "Radio Maria Austria",
+        "Country": "Austria",
+        "Tags": "catholic",
+        "Language": "de",
+        "Homepage": "http://www.radiomaria.at/",
+        "Source1": "http://live.radiomaria.at:8000/rma.m3u"
+    },
+    {
+        "Title": "Radio Maria Austria (56 kbps)",
+        "Country": "Austria",
+        "Tags": "catholic,christian,religion",
+        "Favicon": "http://www.radiomaria.at/favicon.ico",
+        "Language": "de",
+        "Homepage": "http://www.radiomaria.at/",
+        "Source1": "http://live.radiomaria.at:8000/rma2"
+    },
+    {
+        "Title": "Radio Max Billa",
+        "Country": "Austria",
+        "Favicon": "http://www.radiomax.at/favicon.ico",
+        "Homepage": "http://www.radiomax.at/",
+        "Source1": "http://listen.radiomax.technology/billa"
+    },
+    {
+        "Title": "Radio Max Bipa",
+        "Country": "Austria",
+        "Tags": "adult contemporary,in-store,pop",
+        "Homepage": "http://www.radiomax.at/",
+        "Source1": "http://listen.radiomax.technology/bipa"
+    },
+    {
+        "Title": "Radio Max Merkur",
+        "Country": "Austria",
+        "Homepage": "http://www.radiomax.at/",
+        "Source1": "http://listen.radiomax.technology/merkur"
+    },
+    {
+        "Title": "Radio Max Penny",
+        "Country": "Austria",
+        "Tags": "instore radio",
+        "Favicon": "http://cdn-radiotime-logos.tunein.com/s112691q.png",
+        "Language": "de",
+        "Homepage": "http://www.radiomax.at/",
+        "Source1": "http://listen.radiomax.technology/penny"
+    },
+    {
+        "Title": "Radio MORA",
+        "Country": "Austria",
+        "Favicon": "https://www.radio-browser.info/favicon.ico",
+        "Homepage": "https://app.radio-mora.at/",
+        "Source1": "https://server4.streamserver24.com:26250/stream?1655820557881"
+    },
+    {
+        "Title": "Radio MORA - HQ",
+        "Country": "Austria",
+        "Tags": "free radio",
+        "Language": "de",
+        "Homepage": "https://www.radioop.at/",
+        "Source1": "http://server4.streamserver24.com:26253/stream"
+    },
+    {
+        "Title": "Radio Nachtvogel",
+        "Country": "Austria",
+        "Homepage": "https://www.phonostar.de/radio/radionachtvogel",
+        "Source1": "https://stream.tramp-cast.ch/8012/stream"
+    },
+    {
+        "Title": "Radio OP",
+        "Country": "Austria",
+        "Favicon": "https://radioop.at/favicon.ico",
+        "Language": "de",
+        "Homepage": "https://radioop.at/",
+        "Source1": "https://server4.streamserver24.com:26250/stream"
+    },
+    {
+        "Title": "Radio Osttirol",
+        "Country": "Austria",
+        "Tags": "schlager,volksmusik",
+        "Language": "de",
+        "Homepage": "http://www.radio-osttirol.at/",
+        "Source1": "http://streamplus20.leonex.de:28768/;"
+    },
+    {
+        "Title": "Radio Rot Weiß Rot",
+        "Country": "Austria",
+        "Tags": "austrian music,austrian pop music,austropop",
+        "Favicon": "https://www.rotweissrot.fan/favicon.ico",
+        "Language": "de",
+        "Homepage": "https://www.rotweissrot.fan/",
+        "Latitude": 48.19628757252702,
+        "Longitude": 16.386108398437504,
+        "Source1": "https://secureonair.krone.at/rwr.aac"
+    },
+    {
+        "Title": "Radio Rudina",
+        "Country": "Austria",
+        "Favicon": "https://www.radiorudina.com/s/appleicon3.png",
+        "Homepage": "https://www.radiorudina.com/",
+        "Source1": "https://azuracast.datea.services:8000/radio.mp3"
+    },
+    {
+        "Title": "Radio SOL 95.5",
+        "Country": "Austria",
+        "Tags": "good news | good sound | good life",
+        "Favicon": "http://www.radiosol.at/favicon.ico",
+        "Language": "de",
+        "Homepage": "http://www.radiosol.at/",
+        "Source1": "http://sol.anw.at:8023/stream"
+    },
+    {
+        "Title": "Radio Steiermark",
+        "Country": "Austria",
+        "Homepage": "https://steiermark.orf.at/radio",
+        "Source1": "https://orf-live.ors-shoutcast.at/stm-q2a"
+    },
+    {
+        "Title": "Radio Steiermark",
+        "Country": "Austria",
+        "Language": "de",
+        "Homepage": "https://steiermark.orf.at/",
+        "Source1": "https://sound.orf.at/radio/stm"
+    },
+    {
+        "Title": "Radio Steiermark 80er POP",
+        "Country": "Austria",
+        "Homepage": "http://www.antenne.at/",
+        "Source1": "https://live.antenne.at/80s"
+    },
+    {
+        "Title": "Radio Studio Enns",
+        "Country": "Austria",
+        "Homepage": "https://www.studioenns.eu/",
+        "Source1": "https://server4.streamserver24.com:61414/"
+    },
+    {
+        "Title": "Radio Surprise The Live DJ Radio",
+        "Country": "Austria",
+        "Tags": "edm,pop,trance",
+        "Homepage": "https://www.calltv4u.com/",
+        "Latitude": 48.16461979042415,
+        "Longitude": 16.391601562500004,
+        "Source1": "https://a12.asurahosting.com/listen/radio_surprise/radio.mp3"
+    },
+    {
+        "Title": "Radio U1 Tirol",
+        "Country": "Austria",
+        "Favicon": "https://u1-radio.at/wp-content/uploads/2022/03/u1_favicon512x512-150x150.png",
+        "Language": "de",
+        "Homepage": "https://www.u1-radio.at/",
+        "Source1": "https://live.u1-radio.at/"
+    },
+    {
+        "Title": "Radio Uno Kärnten",
+        "Country": "Austria",
+        "Favicon": "https://mlsb1aptnbku.i.optimole.com/w:1920/h:994/q:mauto/f:best/https://radiouno-kaernten.at/wp-content/uploads/2022/07/Radio-Uno-Logo-JPEG-scaled.jpg",
+        "Language": "de",
+        "Homepage": "https://radiouno-kaernten.at/",
+        "Latitude": 46.63529366744318,
+        "Longitude": 14.31449890136719,
+        "Source1": "https://radiouno.stream24.net/live.mp3"
+    },
+    {
+        "Title": "Radio VM1",
+        "Country": "Austria",
+        "Tags": "folklore,schlager,volksmusik",
+        "Favicon": "https://static.wixstatic.com/media/548694_ab538cd3682b46c6b81c924de1b94ee0~mv2.png/v1/fill/w_248,h_111,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo_vm1_edited.png",
+        "Language": "de",
+        "Homepage": "https://www.vm1.at/",
+        "Latitude": 47.25108488245543,
+        "Longitude": 11.40106201171875,
+        "Source1": "https://radiovm1.fluidstream.eu/radiovm1.mp3"
+    },
+    {
+        "Title": "Radio VM1 - Steiermark",
+        "Country": "Austria",
+        "Tags": "folklore,schlager,volksmusik",
+        "Favicon": "https://vm1.at/wp-content/themes/radiovm1_theme/assets/images/logo.webp",
+        "Language": "de",
+        "Homepage": "https://vm1.at/",
+        "Latitude": 47.07670590773952,
+        "Longitude": 15.437289812673551,
+        "Source1": "https://radiovm1.fluidstream.eu/radiovm1_a1.mp3"
+    },
+    {
+        "Title": "Radio VM1 - Wien",
+        "Country": "Austria",
+        "Tags": "folklore,schlager,volksmusik",
+        "Favicon": "https://vm1.at/wp-content/themes/radiovm1_theme/assets/images/logo.webp",
+        "Language": "de",
+        "Homepage": "https://vm1.at/",
+        "Latitude": 48.208503013338266,
+        "Longitude": 16.37317467990481,
+        "Source1": "https://radiovm1.fluidstream.eu/radiovm1_a2.mp3"
+    },
+    {
+        "Title": "Radio Vorarlberg",
+        "Country": "Austria",
+        "Tags": "orf",
+        "Favicon": "https://orfodon.org/system/accounts/avatars/111/374/623/444/743/699/original/3022673107e835ba.png",
+        "Language": "DE",
+        "Region": "AT-8",
+        "Homepage": "https://vorarlberg.orf.at/player/",
+        "Latitude": 47.4122943,
+        "Longitude": 9.7258041,
+        "Source1": "https://orf-live.ors-shoutcast.at/vbg-q1a"
+    },
+    {
+        "Title": "Radio Vorarlberg HQ",
+        "Country": "Austria",
+        "Tags": "orf",
+        "Favicon": "https://orfodon.org/system/accounts/avatars/111/374/623/444/743/699/original/3022673107e835ba.png",
+        "Language": "DE",
+        "Region": "AT-8",
+        "Homepage": "https://vorarlberg.orf.at/player/",
+        "Latitude": 47.4122943,
+        "Longitude": 9.7258041,
+        "Source1": "https://orf-live.ors-shoutcast.at/vbg-q2a"
+    },
+    {
+        "Title": "Radio Weanerisch gspielt",
+        "Country": "Austria",
+        "Homepage": "https://www.radio-weanarisch.at/",
+        "Source1": "https://radiovm1.fluidstream.eu/weanarisch"
+    },
+    {
+        "Title": "Radio Würmchen",
+        "Country": "Austria",
+        "Tags": "ai,ai-powered,experimental,news,pop,rock,variety,weather",
+        "Language": "de,en",
+        "Homepage": "https://vanessa-unreceptive-dia.ngrok-free.dev/",
+        "Source1": "https://vanessa-unreceptive-dia.ngrok-free.dev/stream"
+    },
+    {
+        "Title": "Radio X-MAS",
+        "Country": "Austria",
+        "Favicon": "http://www.radio-xmas.at/assets/img/bg/graphic-1.png",
+        "Homepage": "http://www.radio-xmas.at/",
+        "Source1": "http://www.radio-xmas.at:443/xmas?type=http"
+    },
+    {
+        "Title": "Radio Xmas",
+        "Country": "Austria",
+        "Tags": "christmas music",
+        "Favicon": "http://www.radio-xmas.at/assets/img/santa.png",
+        "Language": "en",
+        "Homepage": "http://www.radio-xmas.at/",
+        "Source1": "http://www.radio-xmas.at:443/xmas?1512905036085"
+    },
+    {
+        "Title": "Radio-M1",
+        "Country": "Austria",
+        "Favicon": "http://radio-m1.com/images/m1-fx-logo.JPG",
+        "Language": "de",
+        "Homepage": "http://www.radio-m1.com/",
+        "Source1": "https://stream.laut.fm/m1"
+    },
+    {
+        "Title": "Radio886",
+        "Country": "Austria",
+        "Tags": "rock",
+        "Homepage": "https://www.radio886.at/",
+        "Source1": "https://frontend.streamonkey.net/radio886-onair/stream/mp3"
+    },
+    {
+        "Title": "Radiofabrik",
+        "Country": "Austria",
+        "Favicon": "https://radiofabrik.at/favicon.ico",
+        "Homepage": "https://radiofabrik.at/",
+        "Source1": "https://radiofabrik.at/rafab_stream_low.m3u"
+    },
+    {
+        "Title": "radioYpsilon - Wir hör'n uns!",
+        "Country": "Austria",
+        "Tags": "multicultural",
+        "Favicon": "https://info.world4you.com/defaultpage_v2/img/favicon.ico",
+        "Language": "de",
+        "Homepage": "https://www.radioypsilon.at/",
+        "Latitude": 48.560134760376485,
+        "Longitude": 16.07379198074341,
+        "Source1": "http://mp3.radioypsilon.at:8000/mp3-160"
+    },
+    {
+        "Title": "Red Bull TV",
+        "Country": "Austria",
+        "Favicon": "https://img.redbull.com/images/c_scale,w_120/favicons/www.redbull.com/favicon/apple-touch-icon-120.png",
+        "Language": "en",
+        "Homepage": "http://www.redbull.tv/",
+        "Source1": "http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8"
+    },
+    {
+        "Title": "ReplayScape",
+        "Country": "Austria",
+        "Favicon": "https://replayscape.com/pix/logo/171206a_simpler_full_0of12_zoom_tiny_blue.jpg",
+        "Homepage": "https://replayscape.com/",
+        "Source1": "https://radio.replayscape.com:8443/128k.mp3"
+    },
+    {
+        "Title": "Replayscape (64)",
+        "Country": "Austria",
+        "Favicon": "https://replayscape.com/pix/logo/171206a_simpler_full_0of12_zoom_tiny_blue.jpg",
+        "Homepage": "https://replayscape.com/",
+        "Source1": "http://radio.replayscape.com:8064/listen.pls"
+    },
+    {
+        "Title": "Replayscape (96)",
+        "Country": "Austria",
+        "Favicon": "https://replayscape.com/pix/logo/171206a_simpler_full_0of12_zoom_tiny_blue.jpg",
+        "Homepage": "https://replayscape.com/",
+        "Source1": "http://radio.replayscape.com:8096/listen.pls"
+    },
+    {
+        "Title": "RES.RADIO",
+        "Country": "Austria",
+        "Tags": "culture,non-commercial,online",
+        "Favicon": "https://res.radio/android-chrome-192x192.png",
+        "Language": "de,en",
+        "Homepage": "https://res.radio/",
+        "Source1": "https://edge.mixlr.com/channel/zwtuo"
+    },
+    {
+        "Title": "Revisited",
+        "Country": "Austria",
+        "Tags": "classic rock,rock",
+        "Favicon": "https://assets.laut.fm/e837bb137d5e31a048d55632f3f84394?t=_120x120",
+        "Language": "de",
+        "Homepage": "https://laut.fm/revisited",
+        "Latitude": 46.770156551766846,
+        "Longitude": 14.359817504882814,
+        "Source1": "https://revisited.stream.laut.fm/revisited"
+    },
+    {
+        "Title": "Rock Antenne (Austria)",
+        "Country": "Austria",
+        "Homepage": "https://www.rockantenne.at/",
+        "Latitude": 48.19104526705096,
+        "Longitude": 16.387629210948948,
+        "Source1": "https://s6-webradio.webradio.de/rockantenne-oesterreich"
+    },
+    {
+        "Title": "Rock Antenne Österreich",
+        "Country": "Austria",
+        "Tags": "rock",
+        "Favicon": "null",
+        "Language": "de",
+        "Homepage": "https://rockantenne.at/",
+        "Source1": "https://stream.rockantenne.at/rockantenne-oesterreich/stream/mp3"
+    },
+    {
+        "Title": "Rock Antenne Österreich",
+        "Country": "Austria",
+        "Tags": "classic rock,rock",
+        "Language": "de",
+        "Homepage": "https://www.rockantenne.at/",
+        "Source1": "http://mp3channels.webradio.de/rockantenne-oesterreich"
+    },
+    {
+        "Title": "Rock Antenne Österreich (AAC)",
+        "Country": "Austria",
+        "Favicon": "https://www.rockantenne.at/logos/rock-antenne-at/apple-touch-icon.png",
+        "Homepage": "https://www.rockantenne.at/",
+        "Source1": "https://stream.rockantenne.at/rockantenne-oesterreich/stream/aacp"
+    },
+    {
+        "Title": "Rockantenne Vorarlberg",
+        "Country": "Austria",
+        "Homepage": "https://www.antennevorarlberg.at/player/",
+        "Source1": "https://web.radio.antennevorarlberg.at/av-rock/stream/mp3"
+    },
+    {
+        "Title": "Rockantenne Österreich live",
+        "Country": "Austria",
+        "Tags": "metal,rock",
+        "Language": "de",
+        "Homepage": "https://www.rockantenne.at/",
+        "Source1": "https://stream.rockantenne.at/rockantenne-oesterreich/stream/aacp"
+    },
+    {
+        "Title": "Rockhuhn",
+        "Country": "Austria",
+        "Favicon": "https://assets.laut.fm/4a14090df7d0f20183a5a09a1529acc8?t=_640x640",
+        "Homepage": "http://www.rockhuhn.at/",
+        "Source1": "http://stream.laut.fm/rockhuhn"
+    },
+    {
+        "Title": "RRTH Austria",
+        "Country": "Austria",
+        "Favicon": "null",
+        "Language": "de",
+        "Homepage": "https://www.rrth.at/",
+        "Source1": "https://stream.laut.fm/rrth.pls"
+    },
+    {
+        "Title": "RTV Unirea International",
+        "Country": "Austria",
+        "Tags": "folk,oldies,pop,rock",
+        "Favicon": "https://rtvunirea.com/wp-content/uploads/2020/06/png.png",
+        "Homepage": "https://rtvunirea.com/",
+        "Latitude": 47.82910672203447,
+        "Longitude": 16.24025458142534,
+        "Source1": "https://s1.bcmsol.ro/8002/stream"
+    },
+    {
+        "Title": "Schwendermarkt",
+        "Country": "Austria",
+        "Tags": "news",
+        "Language": "de,en,hu,pl",
+        "Homepage": "https://laut.fm/schwendermarkt",
+        "Source1": "https://laut.fm/schwendermarkt"
+    },
+    {
+        "Title": "Sinnfunk",
+        "Country": "Austria",
+        "Tags": "meditation,new age,spiritual,talk radio",
+        "Favicon": "https://sinnfunk.b-cdn.net/fotos/SinnfunkLogo.jpg",
+        "Language": "de",
+        "Homepage": "https://sinnfunk.live/",
+        "Source1": "https://radio.sinnfunk.live/listen/sinnfunk/radio.mp3"
+    },
+    {
+        "Title": "Soundportal",
+        "Country": "Austria",
+        "Favicon": "https://soundportal.at/fileadmin/_processed_/a/f/csm_logo_c56844a102.png",
+        "Homepage": "https://soundportal.at/?type=1",
+        "Source1": "https://rs8.stream24.net/radio-soundportal.mp3?ref=soundportal.at"
+    },
+    {
+        "Title": "Soundportal (MP3, 128 kBit)",
+        "Country": "Austria",
+        "Language": "de",
+        "Homepage": "http://soundportal.at/",
+        "Source1": "http://rs8.stream24.net/radio-soundportal.mp3"
+    },
+    {
+        "Title": "Soundstorm Radio",
+        "Country": "Austria",
+        "Favicon": "https://soundstorm-radio.com/wp-content/uploads/2016/06/logo-breit-1.png",
+        "Homepage": "https://soundstorm-radio.com/",
+        "Source1": "https://stream.soundstorm-radio.com/public/soundstorm/playlist.m3u"
+    },
+    {
+        "Title": "Spirit Live Radio",
+        "Country": "Austria",
+        "Tags": "christian",
+        "Language": "de",
+        "Homepage": "http://www.spiritlive.at/spirit_de.htm",
+        "Source1": "http://server7606.streamplus.de/;"
+    },
+    {
+        "Title": "Splatoon Station Seven",
+        "Country": "Austria",
+        "Favicon": "http://audio.gendercriminals.gay/static/uploads/sleepytime_tea/album_art.1711358678.jpg",
+        "Language": "en",
+        "Region": "AT-1",
+        "Homepage": "http://audio.gendercriminals.gay/",
+        "Latitude": 43.044,
+        "Longitude": -76.234,
+        "Source1": "http://audio.gendercriminals.gay/listen/splatoon_station_seven/radio-browser"
+    },
+    {
+        "Title": "Stadtradio Krems",
+        "Country": "Austria",
+        "Tags": "pop",
+        "Favicon": "https://www.stadtradio.at/favicon.ico",
+        "Homepage": "https://www.stadtradio.at/",
+        "Source1": "http://musikwelle.com:8000/stream.mp3"
+    },
+    {
+        "Title": "Styrialounge",
+        "Country": "Austria",
+        "Homepage": "https://styrialounge.com/",
+        "Source1": "http://styrialounge.out.airtime.pro:8000/styrialounge_a",
+        "Source2": "https://styrialounge.out.airtime.pro/styrialounge_a"
+    },
+    {
+        "Title": "Sub FM Radio",
+        "Country": "Austria",
+        "Favicon": "https://www.sub.fm/wp-content/uploads/2020/11/subfm350-1.png",
+        "Homepage": "https://www.sub.fm/",
+        "Source1": "https://hearthis.at/subfm/live/stream.mp3?referer=https%3A%2F%2Fwww.sub.fm%2F&s=p6C&t=1768631963"
+    },
+    {
+        "Title": "Super80s",
+        "Country": "Austria",
+        "Tags": "80er,80s,pop",
+        "Favicon": "https://www.super80s.at/images/logo.png",
+        "Language": "de",
+        "Homepage": "https://www.super80s.at/",
+        "Source1": "https://secureonair.krone.at/super80s.aac?aggregator=konsole-hp&1755065290412"
+    },
+    {
+        "Title": "Superfly FM",
+        "Country": "Austria",
+        "Language": "de",
+        "Homepage": "http://www.superfly.fm/",
+        "Source1": "http://stream01.superfly.fm:8080/live128"
+    },
+    {
+        "Title": "Superfly Radio",
+        "Country": "Austria",
+        "Favicon": "https://superfly.fm/player/img/s_logo.png?cb=V3000009",
+        "Homepage": "https://superfly.fm/player/index.php?stream=web_pure_playlist%22",
+        "Source1": "https://stream01.superfly.fm/live"
+    },
+    {
+        "Title": "Superfly Radio",
+        "Country": "Austria",
+        "Favicon": "https://superfly.fm/player/img/s_logo.png?cb=V3000009",
+        "Homepage": "https://superfly.fm/player/index.php?stream=web_main_playlist",
+        "Source1": "https://web.stream.superfly.fm/superfly-live?aggregator=Website"
+    },
+    {
+        "Title": "Superfly webradio Easy",
+        "Country": "Austria",
+        "Tags": "funk,smooth,soul",
+        "Language": "de",
+        "Homepage": "https://superfly.fm/player/index.php?stream=musiccast_latin_app_playlist",
+        "Source1": "https://edge81.stream.superfly.fm/superfly-easy"
+    },
+    {
+        "Title": "Superfly Webradio Pure",
+        "Country": "Austria",
+        "Tags": "chillout,funk,soul",
+        "Homepage": "https://superfly.fm/player/index.php?stream=web_pure_playlist",
+        "Source1": "https://edge81.stream.superfly.fm/superfly-pure"
+    },
+    {
+        "Title": "Superfly.fm",
+        "Country": "Austria",
+        "Tags": "soul,soulful house",
+        "Language": "de",
+        "Homepage": "https://superfly.fm/",
+        "Latitude": 48.20545609897652,
+        "Longitude": 16.361389160156254,
+        "Source1": "https://edge66.stream.superfly.fm/superfly-live"
+    },
+    {
+        "Title": "T-Rock",
+        "Country": "Austria",
+        "Tags": "classic rock,rock",
+        "Favicon": "https://static.wixstatic.com/media/548694_aae16b06081043c2822c5e9eadff5bde%7emv2.png/v1/fill/w_32%2ch_32%2clg_1%2cusm_0.66_1.00_0.01/548694_aae16b06081043c2822c5e9eadff5bde%7emv2.png",
+        "Language": "de",
+        "Homepage": "https://www.t-rock.at/",
+        "Latitude": 47.250886806586,
+        "Longitude": 11.398229598999023,
+        "Source1": "https://trock.fluidstream.eu/trock.mp3"
+    },
+    {
+        "Title": "Technikum CITY",
+        "Country": "Austria",
+        "Tags": "dab+,easy listening",
+        "Language": "de",
+        "Homepage": "http://www.radiotechnikum.at/",
+        "Source1": "http://technikumsmoothjazz.macjingle.at:8206/;stream/1",
+        "Source2": "https://stream.radiotechnikum.at/TECHCITY"
+    },
+    {
+        "Title": "Technikum Gold",
+        "Country": "Austria",
+        "Tags": "goldies,oldies",
+        "Language": "de",
+        "Homepage": "https://radiotechnikum.at/",
+        "Source1": "https://stream.radiotechnikum.at/TECHGOLD"
+    },
+    {
+        "Title": "Technikum One",
+        "Country": "Austria",
+        "Favicon": "https://www.technikumone.at/favicon.ico",
+        "Language": "de",
+        "Homepage": "https://www.technikumone.at/",
+        "Source1": "https://stream.radiotechnikum.at/TECHONE"
+    },
+    {
+        "Title": "Technikum ONE",
+        "Country": "Austria",
+        "Tags": "dab+,pop,rock",
+        "Language": "de",
+        "Homepage": "http://www.technikumone.at/",
+        "Source1": "http://radiotechnikum.macjingle.at:8200/;stream/1"
+    },
+    {
+        "Title": "Technikum Rock",
+        "Country": "Austria",
+        "Tags": "dab+,rock",
+        "Favicon": "https://radiotechnikum.at/img/icon_rock.png",
+        "Language": "de",
+        "Homepage": "https://radiotechnikum.at/",
+        "Source1": "https://stream.radiotechnikum.at/TECHROCK"
+    },
+    {
+        "Title": "Techno Music Radio",
+        "Country": "Austria",
+        "Favicon": "https://www.techno-livesets.com/wp-content/uploads/2021/09/Techno-Live-Sets-Technols-Logo-400px.png",
+        "Homepage": "https://www.techno-livesets.com/radio/",
+        "Source1": "https://hearthis.at/technolivesets/live/stream.mp3?referer=https%3A%2F%2Fwww.techno-livesets.com%2F&s=Yjy&t=1783864478"
+    },
+    {
+        "Title": "transhits",
+        "Country": "Austria",
+        "Tags": "classical",
+        "Source1": "http://radiorecord.hostingradio.ru/trancehits96.aacp"
+    },
+    {
+        "Title": "U1 Tirol",
+        "Country": "Austria",
+        "Favicon": "https://u1-radio.at/wp-content/uploads/2022/03/2022_U1_Logo_RGB_Schrift-weiss-1-768x844.png",
+        "Homepage": "https://u1-radio.at/",
+        "Source1": "https://live.u1-radio.at/u1-tirol-live/mp3-192/?ref=u1-website",
+        "Source2": "https://u1-tirol-stream07.radiohost.de/u1-tirol-live_mp3-192"
+    },
+    {
+        "Title": "UP THE IRONS",
+        "Country": "Austria",
+        "Tags": "hard rock,heavy metal,metal",
+        "Homepage": "https://laut.fm/up_the_irons",
+        "Source1": "https://stream.laut.fm/up_the_irons.m3u"
+    },
+    {
+        "Title": "Viyana FM",
+        "Country": "Austria",
+        "Language": "de",
+        "Homepage": "https://viyanafm.at/",
+        "Source1": "https://radyo.viyanafm.at/1453/stream"
+    },
+    {
+        "Title": "ViyanaFM",
+        "Country": "Austria",
+        "Tags": "arabesk,arabesk fantazi,pop,pop music,slow,slow radio",
+        "Homepage": "https://www.viyanafm.at/",
+        "Latitude": 48.24754009218616,
+        "Longitude": 16.42936706542969,
+        "Source1": "https://radyo.viyanafm.at/1453/stream"
+    },
+    {
+        "Title": "Vogal FM",
+        "Country": "Austria",
+        "Tags": "alternative,festival",
+        "Favicon": "https://vogalfunk.com/wp-content/uploads/2021/01/VF_Web_Grafik_Home.png",
+        "Language": "de",
+        "Homepage": "https://www.acousticlakeside.com/",
+        "Latitude": 46.552835710732495,
+        "Longitude": 14.627239108085634,
+        "Source1": "https://stream.vogalfunk.com/stream/vogalfm/vogalfm.mp3"
+    },
+    {
+        "Title": "Vorarlberg 80s",
+        "Country": "Austria",
+        "Tags": "classic hits",
+        "Language": "de,en",
+        "Homepage": "http://antennevorarlberg.at/",
+        "Source1": "https://edge63.radio.antennevorarlberg.at/av-live?listenerId=%5BIFA%5D&aw_0_req.userConsentV2=%5BPLAYER_TC_STRING%5D&aggregator=Webplayer"
+    },
+    {
+        "Title": "WEL 105,5",
+        "Country": "Austria",
+        "Homepage": "https://laut.fm/wel105point5",
+        "Source1": "https://streamwriter.org/en/streamdb/getplaylist/list.m3u?id=1277168"
+    },
+    {
+        "Title": "WELLE 1 - Oberöstereich",
+        "Country": "Austria",
+        "Tags": "at_welle1",
+        "Favicon": "https://welle1.at/wp-content/uploads/2020/06/cropped-radiopro_theme_icon_1080x1080_2020-180x180.png",
+        "Language": "DE",
+        "Region": "AT-4",
+        "Homepage": "https://welle1.at/",
+        "Latitude": 48.1854874,
+        "Longitude": 16.3467604,
+        "Source1": "https://live.welle1.at:17128/stream"
+    },
+    {
+        "Title": "WELLE 1 - Oberösterreich - HQ",
+        "Country": "Austria",
+        "Tags": "at_welle1",
+        "Favicon": "https://welle1.at/wp-content/uploads/2020/06/cropped-radiopro_theme_icon_1080x1080_2020-180x180.png",
+        "Language": "DE",
+        "Region": "AT-4",
+        "Homepage": "https://welle1.at/",
+        "Latitude": 48.1854874,
+        "Longitude": 16.3467604,
+        "Source1": "https://live.welle1.at:17256/stream"
+    },
+    {
+        "Title": "Welle 1 - Salzburg",
+        "Country": "Austria",
+        "Tags": "at_welle1",
+        "Favicon": "https://welle1.at/wp-content/uploads/2020/06/cropped-radiopro_theme_icon_1080x1080_2020-180x180.png",
+        "Language": "DE",
+        "Region": "AT-5",
+        "Homepage": "https://live.welle1.at/",
+        "Latitude": 48.1854874,
+        "Longitude": 16.3467604,
+        "Source1": "https://live.welle1.at:18128/stream"
+    },
+    {
+        "Title": "Welle 1 - Salzburg - HQ",
+        "Country": "Austria",
+        "Tags": "at_welle1",
+        "Favicon": "https://welle1.at/wp-content/uploads/2020/06/cropped-radiopro_theme_icon_1080x1080_2020-180x180.png",
+        "Language": "DE",
+        "Region": "AT-5",
+        "Latitude": 48.1854874,
+        "Longitude": 16.3467604,
+        "Source1": "https://live.welle1.at:18256/stream"
+    },
+    {
+        "Title": "XXXLutz Radio",
+        "Country": "Austria",
+        "Tags": "adult contemporary,contemporary hits,pop dance,top hits",
+        "Favicon": "https://www.xxxlutz-dasradio.at/images/logo.png",
+        "Homepage": "https://www.xxxlutz-dasradio.at/",
+        "Source1": "https://liferadio.streamabc.net/lfr_w97ylbvwcps_45m7-mp3-192-1637662?sABC=6n48o2p1%230%234s3p7qo16pq27op446q453s9s431o7q7%23jrofrvgr&1783149421175=&aw_0_1st.playerid=webseite&amsparams=playerid:webseite"
+    },
+    {
+        "Title": "Yeshua.at Radio",
+        "Country": "Austria",
+        "Tags": "christian",
+        "Language": "de",
+        "Homepage": "https://yeshua.at/server/radioArtists/index",
+        "Source1": "https://yeshua.at:8443/stream"
+    },
+    {
+        "Title": "Yu Radio",
+        "Country": "Austria",
+        "Homepage": "https://www.yuradio.at/",
+        "Source1": "https://stream.radiotechnikum.at:80/YURADIO"
+    },
+    {
+        "Title": "Yves Joseph",
+        "Country": "Austria",
+        "Favicon": "https://tunein.com/radio/RADIO-PELERIN-FM-s260708/",
+        "Homepage": "https://radiotelesentinel.com/",
+        "Source1": "https://us1.streamingpulse.com/stream/trinity3"
+    },
+    {
+        "Title": "Ö1 | ORF",
+        "Country": "Austria",
+        "Tags": "orf",
+        "Favicon": "https://oe1.orf.at/static/img/logo_oe1.png",
+        "Language": "DE",
+        "Region": "AT-9",
+        "Homepage": "https://oe1.orf.at/",
+        "Latitude": 48.1776994,
+        "Longitude": 16.2877707,
+        "Source1": "http://orf-live.ors-shoutcast.at/oe1-q1a"
+    },
+    {
+        "Title": "Ö1 | ORF | HQ",
+        "Country": "Austria",
+        "Tags": "orf",
+        "Favicon": "https://oe1.orf.at/static/img/logo_oe1.png",
+        "Language": "DE",
+        "Region": "AT-9",
+        "Homepage": "https://oe1.orf.at/",
+        "Latitude": 48.1776994,
+        "Longitude": 16.2877707,
+        "Source1": "http://orf-live.ors-shoutcast.at/oe1-q2a"
+    },
+    {
+        "Title": "ÖsterreichRadio",
+        "Country": "Austria",
+        "Homepage": "http://www.xn--radio-iua.live/",
+        "Latitude": 47.87214396888731,
+        "Longitude": 14.589843750000002,
+        "Source1": "https://laut.fm/oesterreichradio"
+    }
+]

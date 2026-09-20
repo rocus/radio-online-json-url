@@ -1,0 +1,2448 @@
+[
+    {
+        "Title": "&#1056;&#1072;&#1076;&#1080;&#1086; FM+",
+        "Country": "Bulgaria",
+        "Tags": "90s,adult,contemporary;rock,pop,pop-rock,soul",
+        "Favicon": "https://shorturl.at/jfGEP",
+        "Language": "bg",
+        "Homepage": "http://fmplus.net/",
+        "Latitude": 42.655425080737515,
+        "Longitude": 23.37346536712757,
+        "Source1": "http://31.13.223.148:8000/fmplus.ogg"
+    },
+    {
+        "Title": "1 Rock Bulgaria",
+        "Country": "Bulgaria",
+        "Tags": "rock",
+        "Favicon": "http://www.radio1rock.bg/theme_assets/radio1rock/images/favicon.png",
+        "Language": "bg,en",
+        "Homepage": "http://www.radio1rock.bg/",
+        "Source1": "http://31.13.223.148:8000/1_rock.mp3"
+    },
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "Bulgaria",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "ALMA MATER",
+        "Country": "Bulgaria",
+        "Favicon": "https://i.ibb.co/TM3LMLN9/wp.png",
+        "Homepage": "https://www.radioalmamater.bg/",
+        "Latitude": 42.69767701227864,
+        "Longitude": 23.33445339297168,
+        "Source1": "http://a1.vizitec.com:8000/almamater"
+    },
+    {
+        "Title": "ARHEA ORG",
+        "Country": "Bulgaria",
+        "Language": "en",
+        "Homepage": "http://arhea.org/",
+        "Source1": "http://stream.zeno.fm/na6nbx6qqwzuv"
+    },
+    {
+        "Title": "Avto Radio",
+        "Country": "Bulgaria",
+        "Favicon": "https://www.avtoradio.bg/ar_logo.f88b409f.png",
+        "Homepage": "https://www.avtoradio.bg/",
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/AVTORADIOAAC_L.aac"
+    },
+    {
+        "Title": "Bad Rock Radio 1",
+        "Country": "Bulgaria",
+        "Tags": "rock",
+        "Source1": "https://play-radio0.jump.bg:7028/live"
+    },
+    {
+        "Title": "Bad Rock Radio-Classic Rock",
+        "Country": "Bulgaria",
+        "Tags": "rock",
+        "Source1": "https://radio.jump.bg:7489/live"
+    },
+    {
+        "Title": "Bad Rock Radio-Hard & Heavy Rock",
+        "Country": "Bulgaria",
+        "Tags": "rock",
+        "Source1": "https://radio.jump.bg:7049/live"
+    },
+    {
+        "Title": "BadRock Classic Rock",
+        "Country": "Bulgaria",
+        "Homepage": "https://play-radio0.jump.bg:7489/live",
+        "Source1": "https://play-radio0.jump.bg:7489/live"
+    },
+    {
+        "Title": "BadRock Classic Rock",
+        "Country": "Bulgaria",
+        "Favicon": "https://badrockradio.net/wp-content/uploads/2025/01/max1-2.png",
+        "Homepage": "https://www.badrockradio.net/",
+        "Source1": "https://play-radio0.jump.bg:7489/live"
+    },
+    {
+        "Title": "Badrock Classic Rock",
+        "Country": "Bulgaria",
+        "Tags": "classic rock,rock",
+        "Favicon": "https://badrockradio.net/wp-content/uploads/2021/10/BadRock-Logo-tvoyat1.png",
+        "Language": "bg",
+        "Homepage": "https://badrockradio.net/",
+        "Latitude": 42.695751184674286,
+        "Longitude": 23.322429656982425,
+        "Source1": "https://streams.badrockradio.net/classic-rock"
+    },
+    {
+        "Title": "Badrock Golden Era",
+        "Country": "Bulgaria",
+        "Tags": "classic rock,rock",
+        "Favicon": "https://badrockradio.net/wp-content/uploads/2021/10/BadRock-Logo-tvoyat1.png",
+        "Language": "bg",
+        "Homepage": "https://badrockradio.net/",
+        "Latitude": 42.6967900665959,
+        "Longitude": 23.32200050354004,
+        "Source1": "https://streams.badrockradio.net/golden-era"
+    },
+    {
+        "Title": "BadRock Hard & Heavy",
+        "Country": "Bulgaria",
+        "Tags": "hard rock,hardcore,heavy metal,heavy power metal,heavy rock,metal,power metal,rock",
+        "Favicon": "https://www.badrockradio.net/wp-content/uploads/2024/06/960x0-100x100.webp",
+        "Homepage": "https://badrockradio.net/",
+        "Source1": "https://play-radio0.jump.bg:7049/live",
+        "Source2": "https://streams.badrockradio.net/hard-heavy"
+    },
+    {
+        "Title": "Badrock National",
+        "Country": "Bulgaria",
+        "Tags": "classic rock,rock",
+        "Favicon": "https://badrockradio.net/wp-content/uploads/2021/10/BadRock-Logo-tvoyat1.png",
+        "Language": "bg",
+        "Homepage": "https://badrockradio.net/",
+        "Latitude": 42.695906919504274,
+        "Longitude": 23.320970535278324,
+        "Source1": "https://streams.badrockradio.net/national"
+    },
+    {
+        "Title": "BadRock Radio",
+        "Country": "Bulgaria",
+        "Tags": "hard rock,hardcore,heavy metal,heavy power metal,heavy rock,metal,power metal,rock",
+        "Favicon": "https://www.badrockradio.net/wp-content/uploads/2024/06/960x0-100x100.webp",
+        "Homepage": "https://www.badrockradio.net/",
+        "Latitude": 42.05294057731879,
+        "Longitude": 25.584883689880375,
+        "Source1": "https://radio.jump.bg:7028/live"
+    },
+    {
+        "Title": "BadRock Radio National",
+        "Country": "Bulgaria",
+        "Favicon": "https://badrockradio.net/wp-content/uploads/2025/01/max1-2.png",
+        "Homepage": "https://www.badrockradio.net/",
+        "Source1": "https://radiocp.jump.bg/proxy/stan1?mp=/live"
+    },
+    {
+        "Title": "Balkan Radio",
+        "Country": "Bulgaria",
+        "Tags": "america,balkan,balkansko,best,bulgarian,folk,gracko,greek,macedonian,narodna,north,pop folk,radio,zabavna",
+        "Favicon": "https://balkanradio.com/img/Icon.png",
+        "Language": "bg,el,en,mk,sr",
+        "Homepage": "https://balkanradio.com/",
+        "Latitude": 42.69724675116208,
+        "Longitude": 23.321986165031547,
+        "Source1": "https://samcloud.spacial.com/api/listen?sid=99064&m=sc&rid=175019&t=ssl"
+    },
+    {
+        "Title": "Bar Friends Pernik",
+        "Country": "Bulgaria",
+        "Tags": "misc",
+        "Source1": "http://79.98.108.170:8278/autodj"
+    },
+    {
+        "Title": "Bg Estrada",
+        "Country": "Bulgaria",
+        "Tags": "bg only,dance",
+        "Homepage": "https://www.bgradio.bg/",
+        "Latitude": 42.78006430208889,
+        "Longitude": 23.40984521463053,
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/BG_ESTRADAAAC_L.aac?dist=onlineradiobox"
+    },
+    {
+        "Title": "BG Estrada",
+        "Country": "Bulgaria",
+        "Tags": "pop",
+        "Favicon": "https://www.radioplay.bg/assets/logos/bgestrada.png",
+        "Language": "bg",
+        "Region": "BG-22",
+        "Homepage": "https://bgradio.bg/",
+        "Latitude": 42.6977,
+        "Longitude": 23.3219,
+        "Source1": "https://play.global.audio/bgestrada"
+    },
+    {
+        "Title": "BG Radio",
+        "Country": "Bulgaria",
+        "Source1": "http://stream.metacast.eu/bgradio128"
+    },
+    {
+        "Title": "BG Radio",
+        "Country": "Bulgaria",
+        "Tags": "local music",
+        "Favicon": "http://bgradio.net/theme_assets/bgradio/images/favicon.png",
+        "Language": "bg",
+        "Homepage": "http://bgradio.net/",
+        "Source1": "http://stream.radioreklama.bg/bgradio128"
+    },
+    {
+        "Title": "BG Rap Radio",
+        "Country": "Bulgaria",
+        "Tags": "best,bg,dance,hip-hop,hiphop,music,pop,r&b,r&b/urban,radio,rap",
+        "Favicon": "https://bgrapradio.com/img/bgrapradio.png",
+        "Language": "bg,en",
+        "Homepage": "https://bgrapradio.com/",
+        "Latitude": 42.69732757174469,
+        "Longitude": 23.32152938283955,
+        "Source1": "https://home.radionrg.com/hls/bgrapradio/live.m3u8",
+        "Source2": "https://home.radionrg.com/listen/bgrapradio/radio.mp3"
+    },
+    {
+        "Title": "BNR - Hristo Botev",
+        "Country": "Bulgaria",
+        "Tags": "classical,jazz,talk & speech",
+        "Language": "bg",
+        "Homepage": "https://bnr.bg/hristobotev",
+        "Latitude": 42.68438661361791,
+        "Longitude": 23.33271056413651,
+        "Source1": "http://stream.bnr.bg:8012/hristo-botev.aac"
+    },
+    {
+        "Title": "BNR - Hristo Botev",
+        "Country": "Bulgaria",
+        "Favicon": "https://bnrnews.bg/cms/media?Name=bnr-logo&Size=default&v=1761045061564",
+        "Homepage": "https://bnrnews.bg/hristobotev",
+        "Source1": "https://lb-hls.cdn.bg/2032/fls/HrBotev.stream/playlist.m3u8"
+    },
+    {
+        "Title": "BNR Burgas",
+        "Country": "Bulgaria",
+        "Homepage": "https://bnr.bg/burgas",
+        "Latitude": 42.51830412592329,
+        "Longitude": 27.48703269754769,
+        "Source1": "http://stream.bnr.bg:8037/radio-burgas.aac"
+    },
+    {
+        "Title": "BNR Horizont",
+        "Country": "Bulgaria",
+        "Homepage": "https://www.radioplay.bg/?radio=bnr",
+        "Source1": "https://play.global.audio/testb.aac?dist=RADIOPLAY"
+    },
+    {
+        "Title": "BNR Horizont",
+        "Country": "Bulgaria",
+        "Favicon": "https://bnr.bg/img/logos/logo-white-horizont.png",
+        "Homepage": "https://bnr.bg/horizont",
+        "Source1": "https://play.global.audio/testb.aac?dist=RADIOPLAY"
+    },
+    {
+        "Title": "BNR Radio Shumen",
+        "Country": "Bulgaria",
+        "Language": "bg",
+        "Homepage": "http://bnr.bg/shumen",
+        "Source1": "http://stream.bnr.bg:8033/radio-shumen.aac"
+    },
+    {
+        "Title": "BNR Sofia (high)",
+        "Country": "Bulgaria",
+        "Tags": "bnr,public radio,sofia",
+        "Language": "bg",
+        "Homepage": "http://bnr.bg/sofia",
+        "Source1": "http://stream.bnr.bg:8030/radio-sofia.aac"
+    },
+    {
+        "Title": "BNR Stara Zagora",
+        "Country": "Bulgaria",
+        "Tags": "bnr,public radio,stara zagora",
+        "Language": "bg",
+        "Homepage": "http://bnr.bg/starazagora",
+        "Source1": "http://82.103.99.99:8000/radiosz"
+    },
+    {
+        "Title": "BNR Varna",
+        "Country": "Bulgaria",
+        "Tags": "bnr,pop,public radio",
+        "Language": "bg",
+        "Homepage": "http://bnr.bg/varna",
+        "Source1": "http://broadcast.masters.bg:8000/live"
+    },
+    {
+        "Title": "Braille FM",
+        "Country": "Bulgaria",
+        "Tags": "misc",
+        "Source1": "https://radio.jump.bg:7181/live"
+    },
+    {
+        "Title": "bTV Radio",
+        "Country": "Bulgaria",
+        "Tags": "news",
+        "Favicon": "https://btvradio.bg/static/bg/microsites/btv/img/favicon.ico",
+        "Language": "bg",
+        "Homepage": "https://btvradio.bg/",
+        "Latitude": 42.683400760657435,
+        "Longitude": 23.31590369283479,
+        "Source1": "https://cdn.bweb.bg/radio/btv-radio.mp3"
+    },
+    {
+        "Title": "bTV Radio Русе 89.9 FM",
+        "Country": "Bulgaria",
+        "Tags": "music,news",
+        "Favicon": "https://btvradio.bg/static/bg/microsites/btvradio/img/new/logo.svg",
+        "Language": "bg",
+        "Homepage": "https://btvradio.bg/",
+        "Latitude": 43.84593632479146,
+        "Longitude": 25.96017569303513,
+        "Source1": "https://cdn.btv.bg/radio/btv-radio.mp3"
+    },
+    {
+        "Title": "Bumerang FM",
+        "Country": "Bulgaria",
+        "Favicon": "https://www.bumerangfm.net/images/logo.jpg",
+        "Homepage": "https://www.bumerangfm.net/",
+        "Latitude": 42.83380727170145,
+        "Longitude": 25.307006835937504,
+        "Source1": "http://185.20.88.1:8010/"
+    },
+    {
+        "Title": "Bumerang FM",
+        "Country": "Bulgaria",
+        "Favicon": "http://www.bumerangfm.net/images/logo.jpg",
+        "Homepage": "http://www.bumerangfm.net/",
+        "Source1": "http://www.bumerangfm.net/BumerangFM.m3u"
+    },
+    {
+        "Title": "Chanove",
+        "Country": "Bulgaria",
+        "Favicon": "http://www.chanove.com/templates/beez_20/images/plus.png",
+        "Homepage": "http://www.chanove.com/",
+        "Source1": "http://www.chanove.com/radio/chanove.pls"
+    },
+    {
+        "Title": "Cherveniat Papagal",
+        "Country": "Bulgaria",
+        "Tags": "pop",
+        "Source1": "https://stream-64.zeno.fm/80qzq207rm0uv?zs=_xFVUn2nS3qDiPZ-lCCmIQ"
+    },
+    {
+        "Title": "City Bulgaria",
+        "Country": "Bulgaria",
+        "Language": "bg,en",
+        "Homepage": "http://www.city.bg/",
+        "Source1": "http://31.13.223.148:8000/city.mp3"
+    },
+    {
+        "Title": "City HipHop R&B",
+        "Country": "Bulgaria",
+        "Tags": "hiphop r&b",
+        "Favicon": "https://www.radioplay.bg/assets/logos/cityrab.png",
+        "Language": "bg",
+        "Region": "BG-22",
+        "Homepage": "https://radioplay.bg/",
+        "Latitude": 42.6977,
+        "Longitude": 23.3219,
+        "Source1": "https://play.global.audio/cityrabhi.aac"
+    },
+    {
+        "Title": "City HipHop RaB",
+        "Country": "Bulgaria",
+        "Tags": "hiphop r&b",
+        "Favicon": "https://www.radioplay.bg/assets/logos/cityrab.png",
+        "Language": "bg",
+        "Region": "BG-22",
+        "Homepage": "https://radioplay.bg/",
+        "Latitude": 42.6977,
+        "Longitude": 23.3219,
+        "Source1": "https://play.global.audio/cityrab.aac"
+    },
+    {
+        "Title": "City Latin",
+        "Country": "Bulgaria",
+        "Tags": "latin",
+        "Favicon": "https://www.radioplay.bg/assets/logos/citylatin.png",
+        "Language": "bg",
+        "Region": "BG-22",
+        "Homepage": "https://radioplay.bg/",
+        "Latitude": 42.6977,
+        "Longitude": 23.3219,
+        "Source1": "https://play.global.audio/citylatin.aac",
+        "Source2": "https://play.global.audio/citylatinhi.aac"
+    },
+    {
+        "Title": "City Radio",
+        "Country": "Bulgaria",
+        "Tags": "aac,dance,high,hits,pop,rnb,top,българските 5",
+        "Favicon": "https://www.radioplay.bg/assets/logos/radiocity.png",
+        "Language": "bg",
+        "Homepage": "https://www.city.bg/",
+        "Latitude": 42.666920172929025,
+        "Longitude": 23.296899595964423,
+        "Source1": "http://play.global.audio/cityhi.aac"
+    },
+    {
+        "Title": "City Radio Bulgaria",
+        "Country": "Bulgaria",
+        "Tags": "hits",
+        "Language": "bg,en",
+        "Homepage": "http://www.city.bg/",
+        "Latitude": 42.69051116998241,
+        "Longitude": 23.30886840820313,
+        "Source1": "https://play.global.audio/city.opus"
+    },
+    {
+        "Title": "Classic FM",
+        "Country": "Bulgaria",
+        "Favicon": "https://classicfm.bg/static/bg/microsites/classicfm/img/logo_header.png",
+        "Homepage": "http://www.classicfm.bg/",
+        "Source1": "https://cdn.bweb.bg/radio/classic-fm.mp3"
+    },
+    {
+        "Title": "DanPen Radio",
+        "Country": "Bulgaria",
+        "Favicon": "https://danpenradio.net/wp-content/uploads/2024/07/cropped-7-192x192.png",
+        "Homepage": "https://danpenradio.net/",
+        "Source1": "https://server.danpenradio.net/listen/danpen_radio/radio.mp3"
+    },
+    {
+        "Title": "Darik",
+        "Country": "Bulgaria",
+        "Tags": "news,politics,sport",
+        "Language": "bg",
+        "Homepage": "https://darik.bg/",
+        "Latitude": 42.69918540836335,
+        "Longitude": 23.341228082963116,
+        "Source1": "https://a12.asurahosting.com/listen/darik_radio/radio.mp3"
+    },
+    {
+        "Title": "Darik Nostalgie",
+        "Country": "Bulgaria",
+        "Tags": "music",
+        "Language": "bg",
+        "Homepage": "https://dariknostalgie.bg/",
+        "Source1": "https://a10.asurahosting.com:7600/radio.mp3"
+    },
+    {
+        "Title": "Dark Wave Radomir",
+        "Country": "Bulgaria",
+        "Tags": "alternative,avantgarde,dark wave,ebm,experimental,grindcore,new wave,noise,post-punk",
+        "Favicon": "https://dwr.radio/wp-content/uploads/2023/10/cropped-favicon.png",
+        "Homepage": "https://dwr.radio/",
+        "Latitude": 42.54949862439245,
+        "Longitude": 22.960578213120485,
+        "Source1": "https://dwrstream.eu/"
+    },
+    {
+        "Title": "Deep House Radio",
+        "Country": "Bulgaria",
+        "Tags": "best,deep,deep house,deep house edm music,deep house music radio,deep house online radio,deep house radio,house,radio,the best deep house music radio,the best deep house radio",
+        "Favicon": "https://deephouseradio.co/img/deephouseradio.png",
+        "Language": "en",
+        "Homepage": "https://deephouseradio.co/",
+        "Latitude": 42.69732757174469,
+        "Longitude": 23.32178369442658,
+        "Source1": "https://home.radionrg.com/hls/deephouse/live.m3u8"
+    },
+    {
+        "Title": "Deep Lounge",
+        "Country": "Bulgaria",
+        "Tags": "bulgarian,electro,english,house,pop",
+        "Favicon": "https://deepradio.eu/wp-content/uploads/2019/10/cropped-DEEPRADIONEWLOGOfluterrre-192x192.png",
+        "Homepage": "https://deepradio.eu/lounge/",
+        "Source1": "https://radio.jump.bg/proxy/georgi18/stream"
+    },
+    {
+        "Title": "Deep Radio Europe",
+        "Country": "Bulgaria",
+        "Tags": "dance,electro house,electronic dance music,progressive house",
+        "Favicon": "https://deepradio.eu/wp-content/uploads/2019/10/cropped-DEEPRADIONEWLOGOfluterrre-192x192.png",
+        "Language": "en",
+        "Homepage": "https://deepradio.eu/",
+        "Latitude": 42.669108067689685,
+        "Longitude": 23.31779479980469,
+        "Source1": "http://79.98.108.174:8000/stream"
+    },
+    {
+        "Title": "Deluxe Radio Bulgaria | HQ",
+        "Country": "Bulgaria",
+        "Tags": "ambient,chillout,lounge",
+        "Favicon": "https://radiomaxxfm.com/wp-content/uploads/2021/09/deluxe.png",
+        "Homepage": "https://radiomaxxfm.com/",
+        "Source1": "https://play.radiomaxxfm.com/deluxe-high"
+    },
+    {
+        "Title": "DJ Zone House",
+        "Country": "Bulgaria",
+        "Tags": "electronic",
+        "Source1": "http://162.244.80.106:11181/stream"
+    },
+    {
+        "Title": "DJ ZONE House Radio",
+        "Country": "Bulgaria",
+        "Favicon": "https://djzone.mobi/wp-content/themes/fortunato-child/icons/icon-192.png",
+        "Homepage": "https://djzone.mobi/",
+        "Source1": "https://stream.djzone.mobi/?nocache=1772715340631"
+    },
+    {
+        "Title": "DJ ZONE HOUSE RADIO 24/7",
+        "Country": "Bulgaria",
+        "Homepage": "https://djzone.mobi/",
+        "Source1": "https://stream.djzone.mobi/djzone"
+    },
+    {
+        "Title": "Easy Radio",
+        "Country": "Bulgaria",
+        "Favicon": "https://easyradio.bg/apple-touch-icon.png",
+        "Homepage": "https://easyradio.bg/#",
+        "Source1": "https://live.easyradio.bg/aac?type=.mp3"
+    },
+    {
+        "Title": "Easy Radio",
+        "Country": "Bulgaria",
+        "Source1": "http://live.easyradio.bg/flac",
+        "Source2": "https://live.easyradio.bg/flac"
+    },
+    {
+        "Title": "Easy Radio BG",
+        "Country": "Bulgaria",
+        "Tags": "internet",
+        "Favicon": "null",
+        "Language": "bg",
+        "Homepage": "https://live.easyradio.bg/192?type=.mp3",
+        "Source1": "https://live.easyradio.bg/192?type=.mp3"
+    },
+    {
+        "Title": "Easy Radio FLAC",
+        "Country": "Bulgaria",
+        "Tags": "pop,pop rock,rock",
+        "Homepage": "https://easyradio.bg/",
+        "Source1": "http://live.easyradio.bg/flac"
+    },
+    {
+        "Title": "EasyRadio.Bg (FLAC)",
+        "Country": "Bulgaria",
+        "Tags": "relaxation music",
+        "Favicon": "https://static-media.streema.com/media/cache/be/44/be44390943e863372f8c554897327595.png",
+        "Homepage": "https://easyradio.bg/",
+        "Source1": "https://c30.radioboss.fm:8758/live"
+    },
+    {
+        "Title": "Eilo Radio - Progressive Radio",
+        "Country": "Bulgaria",
+        "Tags": "progressive",
+        "Homepage": "https://eilo.org/progressive-radio",
+        "Source1": "https://opml.radiotime.com/Tune.ashx?id=s214979"
+    },
+    {
+        "Title": "EILO Techno Radio",
+        "Country": "Bulgaria",
+        "Tags": "techno",
+        "Favicon": "https://i.postimg.cc/jdVgYPdj/logo600.jpg",
+        "Homepage": "https://www.eilo.org/",
+        "Source1": "https://eilo.org/streamer.php?ch=techno"
+    },
+    {
+        "Title": "EILO Trance Radio",
+        "Country": "Bulgaria",
+        "Tags": "trance",
+        "Homepage": "https://www.eilo.org/",
+        "Source1": "https://eilo.org/streamer.php?ch=trance"
+    },
+    {
+        "Title": "Energy 90s",
+        "Country": "Bulgaria",
+        "Favicon": "https://radioenergy.bg/theme_assets/radioenergy/images/logo.png?v=3",
+        "Homepage": "https://radioenergy.bg/",
+        "Source1": "https://play.global.audio/energy-90s"
+    },
+    {
+        "Title": "Energy NRJ Bulgaria",
+        "Country": "Bulgaria",
+        "Tags": "pop,dance,retro",
+        "Favicon": "https://media.metacast.eu/pictures/10_2015/OdriLYWpbHJqKDAcGCMv-7384.png",
+        "Language": "BG",
+        "Region": "BG-22",
+        "Homepage": "https://radioenergy.bg/",
+        "Latitude": 42.666689,
+        "Longitude": 23.296918,
+        "Source1": "http://play.global.audio/nrj128"
+    },
+    {
+        "Title": "Energy NRJ Bulgaria 00s Only",
+        "Country": "Bulgaria",
+        "Tags": "pop,00's,2000s",
+        "Favicon": "https://media.metacast.eu/pictures/02_2023/Aud5WKLJ6ZOzqVThrMmU-84388.png",
+        "Language": "BG",
+        "Region": "BG-22",
+        "Homepage": "https://radioenergy.bg/",
+        "Latitude": 42.666689,
+        "Longitude": 23.296918,
+        "Source1": "http://play.global.audio/energy-00s.aac"
+    },
+    {
+        "Title": "Energy NRJ Bulgaria 90s Only",
+        "Country": "Bulgaria",
+        "Tags": "pop,90's,90s,eurodance",
+        "Favicon": "https://media.metacast.eu/pictures/05_2016/1u3XLwvIqfH9hrgS24iT-12813.png",
+        "Language": "BG",
+        "Region": "BG-22",
+        "Homepage": "https://radioenergy.bg/",
+        "Latitude": 42.666689,
+        "Longitude": 23.296918,
+        "Source1": "http://play.global.audio/energy-90s"
+    },
+    {
+        "Title": "Energy NRJ Bulgaria 90s Only (aac)",
+        "Country": "Bulgaria",
+        "Tags": "pop,90's,90s,eurodance",
+        "Favicon": "https://media.metacast.eu/pictures/05_2016/1u3XLwvIqfH9hrgS24iT-12813.png",
+        "Language": "BG",
+        "Region": "BG-22",
+        "Homepage": "https://radioenergy.bg/",
+        "Latitude": 42.666689,
+        "Longitude": 23.296918,
+        "Source1": "http://play.global.audio/energy-90s.aac"
+    },
+    {
+        "Title": "Energy NRJ Bulgaria 90s Only (ogg)",
+        "Country": "Bulgaria",
+        "Tags": "pop,90's,90s,eurodance",
+        "Favicon": "https://media.metacast.eu/pictures/05_2016/1u3XLwvIqfH9hrgS24iT-12813.png",
+        "Language": "BG",
+        "Region": "BG-22",
+        "Homepage": "https://radioenergy.bg/",
+        "Latitude": 42.666689,
+        "Longitude": 23.296918,
+        "Source1": "http://play.global.audio/energy-90s.ogg"
+    },
+    {
+        "Title": "Eternal Radio",
+        "Country": "Bulgaria",
+        "Favicon": "https://radio.eternalnetworktm.com/images/favicon.png",
+        "Homepage": "https://radio.eternalnetworktm.com/#",
+        "Source1": "http://radiocp.novahost.bg:2199/tunein/mnikolov.pls"
+    },
+    {
+        "Title": "Euronews Bulgaria",
+        "Country": "Bulgaria",
+        "Tags": "bulgaria,euronews,news,новини",
+        "Favicon": "https://radio.euronews.bg/wp-content/uploads/2024/12/Radio-Logo-Blue.jpg",
+        "Language": "bg",
+        "Homepage": "https://radio.euronews.bg/",
+        "Latitude": 42.64777911664752,
+        "Longitude": 23.33493463829088,
+        "Source1": "https://play.euronews.bg/stream?1710950223133"
+    },
+    {
+        "Title": "Extreme Deep House",
+        "Country": "Bulgaria",
+        "Tags": "deep house,nu disco,vocal house",
+        "Favicon": "https://scontent.fbre4-1.fna.fbcdn.net/v/t39.30808-6/294865141_110190498433524_6398220129326637406_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=gM8-afZumNgAX_ZBvv7&_nc_ht=scontent.fbre4-1.fna&oh=00_AfAuZDwZvdbnXoKWuNCS_pjQFLhTjwwOpzpD2aKQuDVF3Q&oe=65F139C1",
+        "Homepage": "https://www.extremedeephouse.com/",
+        "Source1": "http://whsh4u-panel.com:14113/stream"
+    },
+    {
+        "Title": "Extreme Deep House Radio",
+        "Country": "Bulgaria",
+        "Tags": "deep house,nu disco,vocal house",
+        "Favicon": "https://scontent.fbre4-1.fna.fbcdn.net/v/t39.30808-6/294865141_110190498433524_6398220129326637406_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=gM8-afZumNgAX_ZBvv7&_nc_ht=scontent.fbre4-1.fna&oh=00_AfAuZDwZvdbnXoKWuNCS_pjQFLhTjwwOpzpD2aKQuDVF3Q&oe=65F139C1",
+        "Homepage": "https://www.extremedeephouse.com/",
+        "Source1": "https://whsh4u-panel.com/proxy/yfryujzw/stream",
+        "Source2": "https://whsh4u-panel.com/stream/yfryujzw/stream.pls"
+    },
+    {
+        "Title": "EYE SEE CHAOS RADIO STATION",
+        "Country": "Bulgaria",
+        "Homepage": "https://eyeseechaos.net/",
+        "Source1": "https://radio.eyeseechaos.net/listen/eye_see_chaos_radio/radio.mp3"
+    },
+    {
+        "Title": "FM +",
+        "Country": "Bulgaria",
+        "Tags": "talk & speech",
+        "Source1": "http://193.108.24.21:8000/fmplus"
+    },
+    {
+        "Title": "folk mix",
+        "Country": "Bulgaria",
+        "Favicon": "https://radiofolkmix.com/wp-content/uploads/2024/01/cropped-radiofolkmix-180x180.png",
+        "Language": "bg",
+        "Homepage": "https://radiofolkmix.com/",
+        "Source1": "https://listen.radiofolkmix.com/folkmixios"
+    },
+    {
+        "Title": "FolkBG",
+        "Country": "Bulgaria",
+        "Favicon": "https://folkbg.net/wp-content/uploads/2020/02/logo.png",
+        "Homepage": "https://folkbg.net/",
+        "Source1": "http://listen.folkbg.net:8002/folkbg.m3u?_gl=1*1x9ezt*_ga*Nzk5NDExODU4LjE3ODI1NzgyNzQ.*_ga_XVGBK9GZH5*czE3ODI1NzgyNzMkbzEkZzEkdDE3ODI1NzgzMDUkajI4JGwwJGgw"
+    },
+    {
+        "Title": "FolkBG Player 2",
+        "Country": "Bulgaria",
+        "Favicon": "https://folkbg.net/wp-content/uploads/2020/02/logo.png",
+        "Homepage": "https://folkbg.net/",
+        "Source1": "http://folkbg.ombadmin.com:8001/folkbg.m3u"
+    },
+    {
+        "Title": "folklor.fm",
+        "Country": "Bulgaria",
+        "Tags": "folk,folklor,folklore,hora,narodna,narodno",
+        "Language": "bg",
+        "Homepage": "https://folklor.fm/",
+        "Latitude": 42.71132298075997,
+        "Longitude": 23.151358366012573,
+        "Source1": "http://91.227.77.124/folklorfm"
+    },
+    {
+        "Title": "Fred Film Radio(Български език)",
+        "Country": "Bulgaria",
+        "Tags": "culture,film,movie",
+        "Language": "bg",
+        "Homepage": "http://www.fred.fm/",
+        "Source1": "https://s10.webradio-hosting.com/proxy/fredradiobg/stream"
+    },
+    {
+        "Title": "Fresh Bulgaria",
+        "Country": "Bulgaria",
+        "Language": "bg",
+        "Homepage": "http://www.radiofresh.bg/",
+        "Source1": "http://31.13.223.148:8000/fresh.mp3"
+    },
+    {
+        "Title": "Fresh!",
+        "Country": "Bulgaria",
+        "Tags": "hits",
+        "Favicon": "http://1.bp.blogspot.com/_RoR-1v43z1E/TToGkbRBWuI/AAAAAAAAAU0/0VrxqD0ipm8/s1600/radiofresh.jpg",
+        "Language": "bg",
+        "Homepage": "http://radiofresh.bg/",
+        "Source1": "http://193.108.24.21:8000/fresh"
+    },
+    {
+        "Title": "Fusion 7",
+        "Country": "Bulgaria",
+        "Favicon": "https://radio.palamarka.com/static/uploads/fusion7/album_art.1787387818.png",
+        "Homepage": "https://radio.palamarka.com/public/fusion7",
+        "Source1": "https://radio.palamarka.com/listen/fusion7/radio.mp3"
+    },
+    {
+        "Title": "Fusion7",
+        "Country": "Bulgaria",
+        "Homepage": "https://radio.palamarka.com/public/fusion7",
+        "Source1": "https://radio.palamarka.com/listen/fusion7/radio.mp3",
+        "Source2": "https://radio.palamarka.com/public/fusion7"
+    },
+    {
+        "Title": "Glarus Retro FM",
+        "Country": "Bulgaria",
+        "Favicon": "https://glarusretro.com/wp-content/uploads/2026/01/logo-white.webp",
+        "Homepage": "https://glarusretro.com/",
+        "Source1": "https://radio.comnet.bg:12301/radio-glarus-retro.mp3"
+    },
+    {
+        "Title": "Hot Dance",
+        "Country": "Bulgaria",
+        "Tags": "dance",
+        "Source1": "http://listen.hotget.net:810/"
+    },
+    {
+        "Title": "Hot Hits FM",
+        "Country": "Bulgaria",
+        "Favicon": "https://hothitsfm.com/hhfm-290.png",
+        "Homepage": "https://hothitsfm.com/",
+        "Source1": "https://live.hothitsfm.com/stream"
+    },
+    {
+        "Title": "House Music Radio",
+        "Country": "Bulgaria",
+        "Tags": "house",
+        "Favicon": "https://housemusic.co/img/housemusic.png",
+        "Language": "en",
+        "Homepage": "https://housemusic.co/",
+        "Source1": "https://home.radionrg.com/hls/housemusic/live.m3u8"
+    },
+    {
+        "Title": "Jazz FM",
+        "Country": "Bulgaria",
+        "Favicon": "https://jazzfm.bg/static/bg/microsites/jazzfm/img/favicon.ico",
+        "Language": "bg",
+        "Homepage": "https://jazzfm.bg/",
+        "Source1": "https://cdn.bweb.bg/radio/jazz-fm.mp3"
+    },
+    {
+        "Title": "Jazz FM - Sofia",
+        "Country": "Bulgaria",
+        "Favicon": "https://jazzfm.bg/static/bg/microsites/jazzfm/img/logo.png",
+        "Homepage": "https://jazzfm.bg/",
+        "Source1": "https://cdn.bweb.bg/radio/jazz-fm.mp3"
+    },
+    {
+        "Title": "KATRA FM",
+        "Country": "Bulgaria",
+        "Favicon": "http://www.katrafm.com/imj/listen_logo.jpg",
+        "Homepage": "http://www.katrafm.com/play/",
+        "Source1": "http://www.katrafm.com:8000/live"
+    },
+    {
+        "Title": "KATRA FM",
+        "Country": "Bulgaria",
+        "Tags": "contemporary,hits",
+        "Favicon": "http://www.katrafm.com/favicon.ico",
+        "Language": "bg",
+        "Homepage": "http://www.katrafm.com/",
+        "Source1": "http://www.katrafm.com:8000/live"
+    },
+    {
+        "Title": "KATRA FM",
+        "Country": "Bulgaria",
+        "Favicon": "https://katrafm.com/wp-content/uploads/2025/09/kfm-170x170.webp",
+        "Homepage": "https://katrafm.com/",
+        "Source1": "https://live.katrafm.com/"
+    },
+    {
+        "Title": "kef.fm",
+        "Country": "Bulgaria",
+        "Tags": "folk,pop-folk,retro folk",
+        "Favicon": "https://kef.fm/keffm.png",
+        "Language": "bg",
+        "Homepage": "https://kef.fm/",
+        "Latitude": 42.71384836972324,
+        "Longitude": 23.254030644893646,
+        "Source1": "http://91.227.77.124/keffm"
+    },
+    {
+        "Title": "KISS LOUNGE RADIO",
+        "Country": "Bulgaria",
+        "Favicon": "https://play.nova.bg/_next/image?url=https%3A%2F%2Fnbg-img.fite.tv%2Fimg%2F611102_460x260.jpg&w=1080&q=85",
+        "Homepage": "https://play.nova.bg/video/kisschristmas/611102",
+        "Source1": "https://nova-radio.neterra.tv/kiss"
+    },
+    {
+        "Title": "KOLEDNOTO RADIO",
+        "Country": "Bulgaria",
+        "Favicon": "https://www.radioplay.bg/assets/logos/koledno.png",
+        "Homepage": "https://www.radioplay.bg/?radio=koledno",
+        "Source1": "https://play.global.audio/radio1-koleda.aac"
+    },
+    {
+        "Title": "Lele Male",
+        "Country": "Bulgaria",
+        "Tags": "folk",
+        "Source1": "http://79.98.108.170:8332/;"
+    },
+    {
+        "Title": "Lele Male",
+        "Country": "Bulgaria",
+        "Favicon": "https://www.predavatel.com/theme/images/favicon.gif",
+        "Homepage": "https://www.predavatel.com/bg/live/",
+        "Source1": "http://79.98.108.170:8332/;stream.mp3"
+    },
+    {
+        "Title": "Lozenets Radio",
+        "Country": "Bulgaria",
+        "Homepage": "https://new-age.listen2myshow.com/",
+        "Latitude": 42.62749228591472,
+        "Longitude": 23.35440324321754,
+        "Source1": "https://c18.radioboss.fm/stream/784"
+    },
+    {
+        "Title": "Luxor Web Radio",
+        "Country": "Bulgaria",
+        "Tags": "electronic",
+        "Source1": "http://79.98.108.170:8078/autodj"
+    },
+    {
+        "Title": "MAGIC FM",
+        "Country": "Bulgaria",
+        "Favicon": "http://www.liveonlineradio.net/wp-content/uploads/2016/11/Magic-FM-Bulgaria.jpg",
+        "Homepage": "https://m.magic.bg/",
+        "Source1": "https://bss1.neterra.tv/magicfm/magicfm.m3u8"
+    },
+    {
+        "Title": "Maxx FM Bulgaria | HQ",
+        "Country": "Bulgaria",
+        "Tags": "dance,deep house,electronic",
+        "Favicon": "https://radiomaxxfm.com/wp-content/uploads/2021/09/maxxfmlogo.png",
+        "Homepage": "https://radiomaxxfm.com/",
+        "Source1": "https://play.radiomaxxfm.com/maxx-high"
+    },
+    {
+        "Title": "Maya Burgas",
+        "Country": "Bulgaria",
+        "Tags": "hits,hot adult contemporary,local radio",
+        "Favicon": "https://radiomaia.com/wp-content/themes/radio/images/favicons/apple-touch-icon-120x120.png",
+        "Language": "bg",
+        "Homepage": "http://radiomaia.com/",
+        "Source1": "http://rnmediagroup.com:9000/;"
+    },
+    {
+        "Title": "Maya Varna",
+        "Country": "Bulgaria",
+        "Tags": "contemporary hits,dance,hits,hot adult contemporary",
+        "Favicon": "http://radiomaia.com/wp-content/themes/radio/images/favicons/apple-touch-icon-120x120.png",
+        "Language": "bg",
+        "Homepage": "http://radiomaia.com/",
+        "Source1": "http://rnmediagroup.com:10000/;"
+    },
+    {
+        "Title": "Metro Country Rock",
+        "Country": "Bulgaria",
+        "Tags": "rock",
+        "Source1": "https://eu1.reliastream.com/proxy/feedb?mp=/CRR64"
+    },
+    {
+        "Title": "Metro Country Rock HD",
+        "Country": "Bulgaria",
+        "Tags": "country,country rock,metro,modern country,rock,андрей,бодра,гергана,смяна",
+        "Favicon": "https://metrocast.top/wp-content/uploads/2023/03/COUNTRY-ROCK-HD-LOGO-FINAL.png",
+        "Language": "bg",
+        "Homepage": "https://metrocast.top/",
+        "Source1": "https://radio.jump.bg/proxy/feed104?mp=/MSRR"
+    },
+    {
+        "Title": "Metro Dance Radio",
+        "Country": "Bulgaria",
+        "Favicon": "https://metrocast.top/wp-content/uploads/2021/09/metrodance.png",
+        "Homepage": "https://metrocast.top/dance/",
+        "Source1": "https://eu1.reliastream.com/proxy/mdr?mp=/MDR"
+    },
+    {
+        "Title": "Metro DANCE Radio",
+        "Country": "Bulgaria",
+        "Tags": "club,dance,in the morning,news,talk show",
+        "Favicon": "https://metrocast.top/wp-content/uploads/2021/09/metrodance.png",
+        "Language": "bg,en",
+        "Homepage": "https://metrocast.top/dance",
+        "Source1": "https://eu1.reliastream.com/proxy/mdr?mp=/MDR"
+    },
+    {
+        "Title": "Metro Dance Radio HD",
+        "Country": "Bulgaria",
+        "Favicon": "https://metrocast.top/wp-content/uploads/2021/09/metrodance.png",
+        "Homepage": "https://metrocast.top/dance/",
+        "Source1": "https://radio.jump.bg/proxy/predp?mp=/MDR"
+    },
+    {
+        "Title": "Metro Hits",
+        "Country": "Bulgaria",
+        "Tags": "pop",
+        "Source1": "https://eu1.reliastream.com/proxy/mhr?mp=/MHR"
+    },
+    {
+        "Title": "Metro HITS Radio",
+        "Country": "Bulgaria",
+        "Tags": "entertainment,hits,morning show,news,pop,talk show,top 40",
+        "Language": "bg,en",
+        "Homepage": "https://metrocast.top/hits",
+        "Source1": "https://eu1.reliastream.com/proxy/mhr?mp=/MHR"
+    },
+    {
+        "Title": "Metro Love",
+        "Country": "Bulgaria",
+        "Tags": "pop",
+        "Source1": "https://eu1.reliastream.com/proxy/service?mp=/service"
+    },
+    {
+        "Title": "Metro Love 00s",
+        "Country": "Bulgaria",
+        "Tags": "pop",
+        "Source1": "https://eu1.reliastream.com/proxy/metroplusc?mp=/MLR2K"
+    },
+    {
+        "Title": "Metro Love 80s",
+        "Country": "Bulgaria",
+        "Tags": "pop",
+        "Source1": "https://eu1.reliastream.com/proxy/love80?mp=/MLR80S"
+    },
+    {
+        "Title": "Metro Love 90s",
+        "Country": "Bulgaria",
+        "Tags": "pop",
+        "Source1": "https://eu1.reliastream.com/proxy/love80?mp=/MLR80S"
+    },
+    {
+        "Title": "Metro Love 90s Plus",
+        "Country": "Bulgaria",
+        "Tags": "pop",
+        "Source1": "https://eu1.reliastream.com/proxy/love80?mp=/MLR90S"
+    },
+    {
+        "Title": "Metro Love Hits",
+        "Country": "Bulgaria",
+        "Tags": "pop",
+        "Source1": "https://eu1.reliastream.com/proxy/service?mp=/service"
+    },
+    {
+        "Title": "Metro Love Xmas Radio",
+        "Country": "Bulgaria",
+        "Tags": "128k,christmas,hd,love,mp3,xmas,коледа,коледна музика",
+        "Favicon": "https://metrocast.top/wp-content/uploads/2022/10/metro-love-xmas.png",
+        "Language": "bg",
+        "Homepage": "https://metrocast.top/",
+        "Source1": "https://radio.jump.bg/proxy/feedyyy02?mp=/MLR70S"
+    },
+    {
+        "Title": "Metro Top Radio",
+        "Country": "Bulgaria",
+        "Tags": "pop",
+        "Source1": "https://eu1.reliastream.com/proxy/mgr?mp=/MGR"
+    },
+    {
+        "Title": "Metro Urban Hits",
+        "Country": "Bulgaria",
+        "Tags": "rap",
+        "Source1": "https://eu1.reliastream.com/proxy/metroxmas?mp=/MCR"
+    },
+    {
+        "Title": "Metro Virtuoso",
+        "Country": "Bulgaria",
+        "Tags": "classical",
+        "Source1": "https://eu1.reliastream.com/proxy/mvr?mp=/MVR"
+    },
+    {
+        "Title": "Metro Virtuoso Hits",
+        "Country": "Bulgaria",
+        "Tags": "classical",
+        "Source1": "https://eu1.reliastream.com/proxy/mvr?mp=/MVR"
+    },
+    {
+        "Title": "Mixx",
+        "Country": "Bulgaria",
+        "Source1": "http://83.97.65.98:9000/listen.pls"
+    },
+    {
+        "Title": "MIXX",
+        "Country": "Bulgaria",
+        "Language": "bg",
+        "Homepage": "http://www.radiomixx.net/",
+        "Source1": "http://83.97.65.98:9000/Title1=Radio"
+    },
+    {
+        "Title": "Muzaica Radio",
+        "Country": "Bulgaria",
+        "Tags": "blues,dance,electronic,funk,jazz,pop,rock,world music",
+        "Favicon": "https://muzaica.fm/wp-content/uploads/2021/01/player-logo-256.png",
+        "Homepage": "https://muzaica.fm/",
+        "Source1": "https://radio.muzaica.fm:9000/stream"
+    },
+    {
+        "Title": "N-Joy BG",
+        "Country": "Bulgaria",
+        "Tags": "pop",
+        "Favicon": "null",
+        "Language": "bg",
+        "Homepage": "https://njoy.bg/",
+        "Source1": "https://cdn.bweb.bg/radio/njoy.mp3"
+    },
+    {
+        "Title": "NJS Radio - New Jack Swing",
+        "Country": "Bulgaria",
+        "Tags": "r&b/urban",
+        "Favicon": "http://njsradio.com/wp-content/uploads/2019/04/njsavatar.png",
+        "Homepage": "http://njsradio.com/",
+        "Source1": "http://162.244.80.106:11198/"
+    },
+    {
+        "Title": "NJS Radio - New Jack Swing",
+        "Country": "Bulgaria",
+        "Favicon": "https://njsradio.com/assets/img/logo.png",
+        "Homepage": "https://njsradio.com/",
+        "Source1": "https://stream.njsradio.com/njs"
+    },
+    {
+        "Title": "Note FM",
+        "Country": "Bulgaria",
+        "Tags": "hit music,pop music,pop,dance,dance music",
+        "Favicon": "https://radiodns.mpbnl.nl/logos/note/note-fm.png",
+        "Language": "EN,BG",
+        "Region": "BG-03",
+        "Homepage": "https://notefmbg.free.bg",
+        "Source1": "https://sc.mpbnl.nl/notefm.mp3"
+    },
+    {
+        "Title": "Note FM",
+        "Country": "Bulgaria",
+        "Tags": "pop music",
+        "Favicon": "https://radiodns.mpbnl.nl/logos/note/note-fm.png",
+        "Language": "bg,en",
+        "Homepage": "https://notefmbg.free.bg/",
+        "Source1": "https://sc.mpbnl.nl/notefm.mp3"
+    },
+    {
+        "Title": "Note Party",
+        "Country": "Bulgaria",
+        "Favicon": "https://notefmbg.free.bg/note.png",
+        "Homepage": "https://notefmbg.free.bg/index.html",
+        "Source1": "http://stream.zeno.fm/ux3k5mabt18uv"
+    },
+    {
+        "Title": "Nova",
+        "Country": "Bulgaria",
+        "Tags": "dance,electronic,house",
+        "Language": "bg",
+        "Homepage": "http://radionova.bg/",
+        "Source1": "http://stream.metacast.eu/nova.ogg"
+    },
+    {
+        "Title": "Nova Bulgaria",
+        "Country": "Bulgaria",
+        "Language": "bg,en",
+        "Homepage": "http://www.radionova.bg/",
+        "Source1": "http://31.13.223.148:8000/nova.mp3"
+    },
+    {
+        "Title": "Nova News",
+        "Country": "Bulgaria",
+        "Tags": "nova news",
+        "Favicon": "https://nstatic.nova.bg/files/nova/images/apple-touch-icon.png",
+        "Language": "bg",
+        "Homepage": "https://nova.bg/radio",
+        "Source1": "http://149.13.0.80/novanews.mp4",
+        "Source2": "http://stream.radioreklama.bg/novanews.aac"
+    },
+    {
+        "Title": "NovaNews Bulgaria",
+        "Country": "Bulgaria",
+        "Favicon": "https://nstatic.nova.bg/files/nova/images/nova-logo.svg",
+        "Homepage": "https://nova.bg/news",
+        "Source1": "https://play.global.audio/novanews.aac"
+    },
+    {
+        "Title": "Online DJ Radio 64",
+        "Country": "Bulgaria",
+        "Tags": "dance,eurodance,house,top40",
+        "Language": "bg,en",
+        "Homepage": "https://onlinedjradio64.bg/",
+        "Source1": "http://play-radio11.jump.bg:8000/stream64_autodj"
+    },
+    {
+        "Title": "onlineDJradio",
+        "Country": "Bulgaria",
+        "Tags": "electronic",
+        "Source1": "https://play.onlinedjradio.com:7000/live"
+    },
+    {
+        "Title": "Power FM 91.1",
+        "Country": "Bulgaria",
+        "Favicon": "https://www.powerfm.bg/assets/images/logo12.png",
+        "Homepage": "http://www.powerfm.bg/",
+        "Source1": "http://a1.virtualradio.eu:8000/powerfm.mp3"
+    },
+    {
+        "Title": "Radio 1",
+        "Country": "Bulgaria",
+        "Source1": "http://stream.metacast.eu/radio1128",
+        "Source2": "http://149.13.0.80/radio1128"
+    },
+    {
+        "Title": "Radio 1 (Bulgaria)",
+        "Country": "Bulgaria",
+        "Tags": "classic hits",
+        "Favicon": "http://radio1.bg/theme_assets/radio1/images/favicon.png",
+        "Homepage": "http://radio1.bg/",
+        "Source1": "http://149.13.0.81/radio1.ogg"
+    },
+    {
+        "Title": "Radio 1 (Радио 1 -Едно Русе0 -Ruse 88.9 FM",
+        "Country": "Bulgaria",
+        "Tags": "local radio,music,news",
+        "Favicon": "https://top-radio.ru/assets/image/radio/180/radio1bg.jpg",
+        "Language": "bg",
+        "Homepage": "https://radio1.bg/",
+        "Latitude": 43.84593632479146,
+        "Longitude": 25.96017569303513,
+        "Source1": "https://28933.live.streamtheworld.com/RADIO_1AAC_H.aac"
+    },
+    {
+        "Title": "Radio 1 Bulgaria",
+        "Country": "Bulgaria",
+        "Tags": "90s,classic pop,classic rock",
+        "Homepage": "https://radio1.bg/",
+        "Source1": "https://play.global.audio:80/radio164"
+    },
+    {
+        "Title": "Radio 1 Rock",
+        "Country": "Bulgaria",
+        "Tags": "aac,classic rock,rock,едно,рок",
+        "Favicon": "https://www.radio1rock.bg/theme_assets/radio1rock/images/logo.png",
+        "Language": "bg",
+        "Homepage": "https://www.radio1rock.bg/",
+        "Source1": "http://play.global.audio/radio1rockhi.aac"
+    },
+    {
+        "Title": "Radio 1 Rock",
+        "Country": "Bulgaria",
+        "Tags": "rock",
+        "Favicon": "http://www.radio1rock.bg/theme_assets/radio1rock/images/favicon.png",
+        "Language": "bg",
+        "Homepage": "http://www.radio1rock.bg/",
+        "Source1": "http://stream.metacast.eu/radio1rock.ogg"
+    },
+    {
+        "Title": "RADIO 1 ROCK",
+        "Country": "Bulgaria",
+        "Favicon": "https://radio1rock.bg/theme_assets/radio1rock/images/logo.png?v=3",
+        "Homepage": "https://radio1rock.bg/",
+        "Source1": "http://play.global.audio/radio1rock.ogg"
+    },
+    {
+        "Title": "Radio 1 радио 1 класическите хитове",
+        "Country": "Bulgaria",
+        "Tags": "classic hits,news",
+        "Favicon": "http://www.radio1.bg/theme_assets/radio1/images/favicon.png",
+        "Language": "bg",
+        "Homepage": "http://www.radio1.bg/",
+        "Source1": "http://stream.radioreklama.bg/radio164"
+    },
+    {
+        "Title": "Radio 999",
+        "Country": "Bulgaria",
+        "Source1": "http://62.204.158.5:8081/live"
+    },
+    {
+        "Title": "Radio AXE Project",
+        "Country": "Bulgaria",
+        "Tags": "misc",
+        "Source1": "http://79.98.108.170:8004/autodj"
+    },
+    {
+        "Title": "Radio Beatport",
+        "Country": "Bulgaria",
+        "Tags": "electronic",
+        "Source1": "http://79.98.108.170:8014/autodj"
+    },
+    {
+        "Title": "Radio Beinsa Duno",
+        "Country": "Bulgaria",
+        "Tags": "talk & speech",
+        "Source1": "http://87.252.182.193:8000/;"
+    },
+    {
+        "Title": "Radio BG London Plus",
+        "Country": "Bulgaria",
+        "Tags": "misc",
+        "Source1": "http://live.radiobg.co.uk:8000/live"
+    },
+    {
+        "Title": "RADIO BGRADIO",
+        "Country": "Bulgaria",
+        "Favicon": "https://bgradio.bg/theme_assets/bgradio/images/favicon.png",
+        "Homepage": "https://bgradio.bg/",
+        "Source1": "https://play.global.audio/bgradio128"
+    },
+    {
+        "Title": "Radio Big Boss",
+        "Country": "Bulgaria",
+        "Tags": "chalga",
+        "Language": "bg",
+        "Homepage": "https://141.147.25.113/public/radio_big_boss",
+        "Latitude": 42.48377637647826,
+        "Longitude": 25.31387329101563,
+        "Source1": "https://141.147.25.113:8000/radio.mp3"
+    },
+    {
+        "Title": "Radio Chanove",
+        "Country": "Bulgaria",
+        "Tags": "folk,етно,клуб чанове,народна,фолклор,хора,чанове",
+        "Favicon": "https://chanove.com/templates/beez_20/images/plus.png",
+        "Language": "bg",
+        "Homepage": "https://chanove.com/",
+        "Source1": "http://radio.chanove.com:8000/stream"
+    },
+    {
+        "Title": "RADIO CITY",
+        "Country": "Bulgaria",
+        "Favicon": "https://www.city.bg/theme_assets/city/images/logo.png",
+        "Homepage": "https://www.city.bg/",
+        "Source1": "http://play.global.audio/city64",
+        "Source2": "http://play.global.audio/city128"
+    },
+    {
+        "Title": "Radio City  (Bulgaria)",
+        "Country": "Bulgaria",
+        "Homepage": "https://www.city.bg/",
+        "Source1": "http://play.global.audio/city_low.ogg"
+    },
+    {
+        "Title": "Radio Contact",
+        "Country": "Bulgaria",
+        "Tags": "misc",
+        "Source1": "https://listen.radioking.com/radio/490082/stream/546899"
+    },
+    {
+        "Title": "Radio Cyberfolk",
+        "Country": "Bulgaria",
+        "Tags": "pop-folk",
+        "Favicon": "https://radiocyberfolk.com/cyberfolk.png",
+        "Language": "bg",
+        "Homepage": "https://radiocyberfolk.com/",
+        "Latitude": 42.73605597218209,
+        "Longitude": 23.288151025772095,
+        "Source1": "http://91.227.77.124/cyberfolk"
+    },
+    {
+        "Title": "Radio Dance With Me",
+        "Country": "Bulgaria",
+        "Favicon": "http://www.dancewithme-bg.com/images/liveradio/logo.png",
+        "Homepage": "http://www.dancewithme-bg.com/index.html",
+        "Source1": "http://g5.turbohost.eu:8002/stream128.m3u"
+    },
+    {
+        "Title": "Radio Deep Disco",
+        "Country": "Bulgaria",
+        "Tags": "misc",
+        "Source1": "http://79.98.108.170:8000/autodj"
+    },
+    {
+        "Title": "Radio Dobrudja",
+        "Country": "Bulgaria",
+        "Tags": "talk & speech",
+        "Source1": "http://5.104.174.128:8000/radiodobrudja"
+    },
+    {
+        "Title": "Radio El Shada",
+        "Country": "Bulgaria",
+        "Tags": "talk & speech",
+        "Source1": "https://stream-40.zeno.fm/hku46gxdexquv?zs=d8gnzJrzS0GpfjuXp_Lx_Q"
+    },
+    {
+        "Title": "Radio Evangelie",
+        "Country": "Bulgaria",
+        "Tags": "misc",
+        "Source1": "http://79.98.108.170:8078/autodj"
+    },
+    {
+        "Title": "Radio Family",
+        "Country": "Bulgaria",
+        "Tags": "misc",
+        "Source1": "http://a1.virtualradio.eu:8000/family.mp3"
+    },
+    {
+        "Title": "Radio Favorit",
+        "Country": "Bulgaria",
+        "Tags": "folk",
+        "Source1": "http://79.98.108.170:8235/listen.pls"
+    },
+    {
+        "Title": "Radio FM+",
+        "Country": "Bulgaria",
+        "Tags": "90s,adult,contemporary,pop,pop-rock,soul",
+        "Favicon": "https://shorturl.at/jfGEP",
+        "Language": "bg",
+        "Homepage": "http://fmplus.net/",
+        "Latitude": 42.655425080737515,
+        "Longitude": 23.37346536712757,
+        "Source1": "http://31.13.223.148:8000/fmplus.ogg"
+    },
+    {
+        "Title": "Radio Folk BG",
+        "Country": "Bulgaria",
+        "Language": "bg",
+        "Homepage": "http://www.folkbg.net/",
+        "Latitude": 42.69374113537095,
+        "Longitude": 23.318481445312504,
+        "Source1": "http://listen.folkbg.net:8001/folkbg"
+    },
+    {
+        "Title": "Radio Fresh",
+        "Country": "Bulgaria",
+        "Tags": "commercial,dance,fresh,hits,pop,top,top30",
+        "Favicon": "http://radiofresh.bg/i/logo.png",
+        "Language": "bg",
+        "Homepage": "http://radiofresh.bg/",
+        "Latitude": 42.655425080737515,
+        "Longitude": 23.37346536712757,
+        "Source1": "http://31.13.223.148:8000/fresh.ogg"
+    },
+    {
+        "Title": "Radio Fresh -Ruse 93,6 FM",
+        "Country": "Bulgaria",
+        "Tags": "entertainment,news,pop,rock,sports",
+        "Favicon": "https://radiofresh.bg/i/logo.png",
+        "Language": "bg",
+        "Homepage": "https://radiofresh.bg/",
+        "Latitude": 43.845955669015915,
+        "Longitude": 25.96018105745316,
+        "Source1": "https://streamer2.atlantis.bg:8443/fresh"
+    },
+    {
+        "Title": "Radio Fresh!",
+        "Country": "Bulgaria",
+        "Favicon": "http://radiofresh.bg/i/logo.png",
+        "Homepage": "http://radiofresh.bg/",
+        "Source1": "http://193.108.24.21:8000/fresh.m3u"
+    },
+    {
+        "Title": "Radio Gamma",
+        "Country": "Bulgaria",
+        "Tags": "misc",
+        "Source1": "http://g5.turbohost.eu:8003/gama128"
+    },
+    {
+        "Title": "Radio Globe",
+        "Country": "Bulgaria",
+        "Tags": "pop",
+        "Source1": "http://79.98.108.170:8019/autodj"
+    },
+    {
+        "Title": "Radio Hashove",
+        "Country": "Bulgaria",
+        "Tags": "chalga,pop-folk",
+        "Language": "bg",
+        "Homepage": "http://bg-radia.com/",
+        "Latitude": 42.67643605304971,
+        "Longitude": 23.26109297994118,
+        "Source1": "http://79.98.108.173:8006/radioxashove"
+    },
+    {
+        "Title": "Radio Helikon",
+        "Country": "Bulgaria",
+        "Tags": "pop",
+        "Source1": "http://87.121.90.229:9000/live_128"
+    },
+    {
+        "Title": "Radio Helikon",
+        "Country": "Bulgaria",
+        "Favicon": "http://radio.helikon.bg/images_v2/icons/android-icon-192x192.png",
+        "Homepage": "http://radio.helikon.bg/",
+        "Source1": "http://radio.helikon.bg:9000/live_128"
+    },
+    {
+        "Title": "Radio Horo",
+        "Country": "Bulgaria",
+        "Favicon": "http://www.radiohoro.com/images/logo.png",
+        "Homepage": "http://www.radiohoro.com/",
+        "Source1": "http://g5.turbohost.eu:8020/stream256"
+    },
+    {
+        "Title": "Radio Horo Plus",
+        "Country": "Bulgaria",
+        "Tags": "folk",
+        "Source1": "http://g5.turbohost.eu:8020/stream256"
+    },
+    {
+        "Title": "Radio Hushove",
+        "Country": "Bulgaria",
+        "Tags": "folk",
+        "Source1": "http://79.98.108.173:8006/radioxaschove"
+    },
+    {
+        "Title": "Radio Jega",
+        "Country": "Bulgaria",
+        "Tags": "folk",
+        "Source1": "http://g5.turbohost.eu:8004/stream"
+    },
+    {
+        "Title": "Radio Jega Жега",
+        "Country": "Bulgaria",
+        "Favicon": "https://www.predavatel.com/theme/images/favicon.gif",
+        "Homepage": "https://www.predavatel.com/bg/live/",
+        "Source1": "http://g5.turbohost.eu:8004/stream"
+    },
+    {
+        "Title": "Radio Jugomania",
+        "Country": "Bulgaria",
+        "Tags": "folk",
+        "Source1": "https://s8.yesstreaming.net:17051/autodj"
+    },
+    {
+        "Title": "Radio K2",
+        "Country": "Bulgaria",
+        "Homepage": "http://radiok2.bg/",
+        "Source1": "http://stream.radiok2.bg:8000/rk2"
+    },
+    {
+        "Title": "Radio K2",
+        "Country": "Bulgaria",
+        "Favicon": "http://www.radiok2.bg/blacklabel2.gif",
+        "Homepage": "http://www.radiok2.bg/index.php",
+        "Source1": "http://www.radiok2.bg/radiok2.m3u"
+    },
+    {
+        "Title": "Radio Lagoshevtsi",
+        "Country": "Bulgaria",
+        "Tags": "ambient,folk,instrumental,rock",
+        "Language": "sr",
+        "Homepage": "https://mmirojv.business.site/",
+        "Latitude": 44.00088453394063,
+        "Longitude": 22.866818904876713,
+        "Source1": "http://radio.jump.bg:8484/stream"
+    },
+    {
+        "Title": "Radio Lagoshevtsi",
+        "Country": "Bulgaria",
+        "Language": "bg",
+        "Homepage": "https://lagushevtsi.com/",
+        "Source1": "https://radio.vidinlan.com/mp3"
+    },
+    {
+        "Title": "Radio Lele Male",
+        "Country": "Bulgaria",
+        "Tags": "chalga,pop folk",
+        "Language": "bg",
+        "Homepage": "https://play-lh.googleusercontent.com/q3GcbD4VCAfOn6R_NTUNj4qG77TGt8_z0r0zW8My81ozwTlt07CNh4PUEobX2zoRZA=w600-h300-pc0xffffff-pd",
+        "Latitude": 42.492803027780866,
+        "Longitude": 24.420959690841823,
+        "Source1": "http://79.98.108.170:8332/"
+    },
+    {
+        "Title": "Radio Magic Fm",
+        "Country": "Bulgaria",
+        "Tags": "pop",
+        "Source1": "https://bss1.neterra.tv/magicfm/magicfm.m3u8"
+    },
+    {
+        "Title": "radio Maia",
+        "Country": "Bulgaria",
+        "Favicon": "https://radiomaia.com/wp-content/themes/radio/images/favicons/apple-touch-icon-120x120.png",
+        "Homepage": "https://radiomaia.com/",
+        "Latitude": 42.502240678472695,
+        "Longitude": 27.46788024902344,
+        "Source1": "http://radiomaia.com/player/index.php?pl=winamp&c=%D0%A0%D0%B0%D0%B4%D0%B8%D0%BE%20%D0%9C%D0%B0%D1%8F%20%D0%91%D1%83%D1%80%D0%B3%D0%B0%D1%81"
+    },
+    {
+        "Title": "Radio Mall Sofia",
+        "Country": "Bulgaria",
+        "Tags": "misc",
+        "Source1": "http://79.98.108.170:8104/autodj"
+    },
+    {
+        "Title": "Radio Mega Hit",
+        "Country": "Bulgaria",
+        "Favicon": "null",
+        "Homepage": "http://tat.freewb.ro/-radio-mega-hit",
+        "Source1": "http://sunaer-stream.com:7824/"
+    },
+    {
+        "Title": "Radio Melodia Silistra",
+        "Country": "Bulgaria",
+        "Tags": "misc",
+        "Source1": "http://g5.turbohost.eu:8010/stream128"
+    },
+    {
+        "Title": "Radio Melody",
+        "Country": "Bulgaria",
+        "Tags": "pop",
+        "Favicon": "https://radiomelody.bg/i/logo.png",
+        "Language": "bg",
+        "Homepage": "https://radiomelody.bg/",
+        "Latitude": 42.69169504190747,
+        "Longitude": 23.321442604064945,
+        "Source1": "http://193.108.24.6:8000/melody?file=.mp3"
+    },
+    {
+        "Title": "Radio Metronom",
+        "Country": "Bulgaria",
+        "Tags": "misc",
+        "Source1": "http://radiometronom.com:8010/"
+    },
+    {
+        "Title": "Radio Mixx Bulgaria",
+        "Country": "Bulgaria",
+        "Homepage": "https://radiomixx.net/",
+        "Latitude": 42.41372380862086,
+        "Longitude": 27.55246970013539,
+        "Source1": "http://83.97.65.98:9000/;"
+    },
+    {
+        "Title": "Radio Music BG",
+        "Country": "Bulgaria",
+        "Tags": "pop",
+        "Source1": "http://79.98.108.170:8243/listen.pls"
+    },
+    {
+        "Title": "Radio Nostalgia",
+        "Country": "Bulgaria",
+        "Tags": "2010s music,2010,2000s,hit music,pop music,pop,dance",
+        "Favicon": "https://radiodns.mpbnl.nl/logos/note/radio-nostalgia.png",
+        "Language": "EN,BG",
+        "Region": "BG-03",
+        "Homepage": "https://notefmbg.free.bg",
+        "Source1": "https://sc.mpbnl.nl/radionostalgia.mp3"
+    },
+    {
+        "Title": "Radio Nostalgia",
+        "Country": "Bulgaria",
+        "Tags": "pop music",
+        "Favicon": "https://radiodns.mpbnl.nl/logos/note/radio-nostalgia.png",
+        "Language": "bg,en",
+        "Homepage": "https://notefmbg.free.bg/",
+        "Source1": "https://radiozender.mpbnetwerken.nl/radionostalgia.mp3"
+    },
+    {
+        "Title": "Radio Nova",
+        "Country": "Bulgaria",
+        "Favicon": "https://share.google/KA2Q5J6Vfv6tHoIwD",
+        "Homepage": "https://www.radionova.bg/",
+        "Source1": "https://25453.live.streamtheworld.com/RADIO_NOVAAAC_L.aac",
+        "Source2": "https://25453.live.streamtheworld.com/RADIO_NOVAAAC_H.aac"
+    },
+    {
+        "Title": "Radio Nova Bulgaria",
+        "Country": "Bulgaria",
+        "Language": "bg,en",
+        "Homepage": "http://www.radionova.bg/",
+        "Source1": "https://play.global.audio/nova.opus"
+    },
+    {
+        "Title": "Radio Nova Zagora",
+        "Country": "Bulgaria",
+        "Tags": "misc",
+        "Source1": "http://80.253.48.162:8090/nova.mp3"
+    },
+    {
+        "Title": "Radio NRG",
+        "Country": "Bulgaria",
+        "Tags": "best,dance,hip-hop,hit,hits,modern,music,nrg,nrj,party,party hits,party mix,pop,radio,rap,retro,urban",
+        "Favicon": "https://radionrg.com/img/radionrg.png",
+        "Homepage": "https://radionrg.com/",
+        "Latitude": 42.69791632504022,
+        "Longitude": 23.32203838577223,
+        "Source1": "https://home.radionrg.com/hls/live/live.m3u8"
+    },
+    {
+        "Title": "Radio ORV",
+        "Country": "Bulgaria",
+        "Tags": "pop",
+        "Source1": "http://radio.orvmedia.com:8005/stream"
+    },
+    {
+        "Title": "Radio Party Mix",
+        "Country": "Bulgaria",
+        "Tags": "folk",
+        "Favicon": "https://pozdravite.net/images/favicon.png",
+        "Homepage": "https://pozdravite.net/",
+        "Latitude": 42.12348800097058,
+        "Longitude": 24.77028880838777,
+        "Source1": "https://cast6.asurahosting.com/proxy/iliyan12/stream.mp3"
+    },
+    {
+        "Title": "Radio Pianica",
+        "Country": "Bulgaria",
+        "Favicon": "https://www.radiopi.top/favicon.ico",
+        "Homepage": "https://www.radiopi.top/",
+        "Source1": "http://mpc1.mediacp.eu:8024/listen.pls"
+    },
+    {
+        "Title": "Radio Rashi",
+        "Country": "Bulgaria",
+        "Tags": "broken beat,dvaz,música retro,pop,regional music,retro fm",
+        "Favicon": "https://rashimedia.alle.bg/",
+        "Homepage": "https://radiorashi.alle.bg/",
+        "Source1": "https://s2.free-shoutcast.com/stream/18214"
+    },
+    {
+        "Title": "Radio Razgrad",
+        "Country": "Bulgaria",
+        "Tags": "talk & speech",
+        "Source1": "http://188.126.1.25:8000/razgrad"
+    },
+    {
+        "Title": "Radio Razgrad",
+        "Country": "Bulgaria",
+        "Favicon": "https://radiorazgrad.com/wp-content/uploads/2019/05/radiorz_logo_v2-167x38.png",
+        "Homepage": "https://radiorazgrad.com/",
+        "Source1": "http://radiorazgrad.hothost.bg/128k"
+    },
+    {
+        "Title": "Radio Retro Folk",
+        "Country": "Bulgaria",
+        "Tags": "folk",
+        "Source1": "http://79.98.108.170:8053/"
+    },
+    {
+        "Title": "Radio Rezonans",
+        "Country": "Bulgaria",
+        "Tags": "misc",
+        "Source1": "http://88.87.10.53:8000/*.ogg"
+    },
+    {
+        "Title": "Radio Ruse",
+        "Country": "Bulgaria",
+        "Homepage": "https://radioruse.com/",
+        "Latitude": 43.849377950146234,
+        "Longitude": 25.95425605773926,
+        "Source1": "https://radio.ruse.bg:8010/radioruse"
+    },
+    {
+        "Title": "Radio Sevlievo",
+        "Country": "Bulgaria",
+        "Tags": "talk & speech",
+        "Source1": "http://195.68.214.130:8000/"
+    },
+    {
+        "Title": "Radio Sladko Izkushenie",
+        "Country": "Bulgaria",
+        "Tags": "folk",
+        "Source1": "http://g5.turbohost.eu:8006/autodj"
+    },
+    {
+        "Title": "Radio Slavi",
+        "Country": "Bulgaria",
+        "Tags": "folk",
+        "Source1": "http://79.98.108.170:8043/;"
+    },
+    {
+        "Title": "Radio Slavianska Parodia",
+        "Country": "Bulgaria",
+        "Tags": "international",
+        "Source1": "http://79.98.108.170:8033/autodj"
+    },
+    {
+        "Title": "Radio Strimonika",
+        "Country": "Bulgaria",
+        "Tags": "misc",
+        "Source1": "https://play-radio0.jump.bg:7666/stream"
+    },
+    {
+        "Title": "Radio Sunny Beach",
+        "Country": "Bulgaria",
+        "Tags": "misc",
+        "Source1": "https://sunny-beachradio.stream.laut.fm/sunny-beachradio"
+    },
+    {
+        "Title": "Radio Teteven",
+        "Country": "Bulgaria",
+        "Tags": "misc",
+        "Source1": "http://g5.turbohost.eu:8001/teteven"
+    },
+    {
+        "Title": "Radio The Voice",
+        "Country": "Bulgaria",
+        "Tags": "pop",
+        "Source1": "https://bss1.neterra.tv/thevoicefm/thevoicefm.m3u8"
+    },
+    {
+        "Title": "Radio Tomeko",
+        "Country": "Bulgaria",
+        "Tags": "pop",
+        "Source1": "http://79.98.108.170:8024/live"
+    },
+    {
+        "Title": "Radio Ultra Pernik",
+        "Country": "Bulgaria",
+        "Favicon": "http://play.radioultra.bg/wp-content/uploads/2022/05/cropped-radio-ultra-150x150-1-192x192.jpg",
+        "Homepage": "http://play.radioultra.bg/",
+        "Source1": "http://88.80.96.25:8020/;"
+    },
+    {
+        "Title": "Radio Vega +",
+        "Country": "Bulgaria",
+        "Favicon": "https://radiovega.bg/wp-content/uploads/2022/05/logo.png",
+        "Homepage": "http://www.radiovega.bg/",
+        "Source1": "http://88.80.96.25:3050/;?1705023133784"
+    },
+    {
+        "Title": "Radio Vega Plus",
+        "Country": "Bulgaria",
+        "Tags": "pop",
+        "Source1": "http://88.80.96.25:40070/vega.mp3"
+    },
+    {
+        "Title": "RADIO VERONIKA",
+        "Country": "Bulgaria",
+        "Favicon": "https://radioveronika.bg/theme_assets/radioveronika/images/logo.png",
+        "Homepage": "http://radioveronika.bg/",
+        "Source1": "https://play.global.audio/veronika64"
+    },
+    {
+        "Title": "Radio Veronika",
+        "Country": "Bulgaria",
+        "Tags": "etno,pop-folk,етно,поп-фолк",
+        "Favicon": "https://www.radioplay.bg/assets/logos/radioveronika.png",
+        "Language": "bg",
+        "Homepage": "https://www.radioveronika.bg/",
+        "Source1": "http://play.global.audio/veronikahi.aac"
+    },
+    {
+        "Title": "Radio Veselina",
+        "Country": "Bulgaria",
+        "Tags": "folk",
+        "Source1": "https://bss1.neterra.tv/veselina/veselina.m3u8"
+    },
+    {
+        "Title": "Radio Veselina Bulgaria",
+        "Country": "Bulgaria",
+        "Tags": "folk,narodna",
+        "Favicon": "https://www.radioveselina.bg/resources/assets/images/favicon/apple-touch-icon.png",
+        "Language": "bg",
+        "Homepage": "https://www.radioveselina.bg/",
+        "Source1": "https://bss1.neterra.tv/veselina/veselina.m3u8"
+    },
+    {
+        "Title": "Radio Vidin",
+        "Country": "Bulgaria",
+        "Tags": "talking",
+        "Language": "bg",
+        "Homepage": "https://bnr.bg/vidin",
+        "Source1": "http://89.106.110.85:8000/"
+    },
+    {
+        "Title": "Radio Vitosha",
+        "Country": "Bulgaria",
+        "Tags": "pop",
+        "Source1": "https://bss1.neterra.tv/vitosha/vitosha.m3u8"
+    },
+    {
+        "Title": "Radio Viva -Ruse",
+        "Country": "Bulgaria",
+        "Tags": "dance",
+        "Favicon": "https://radioviva.at.ua/.s/t/1241/slide.jpg",
+        "Language": "bg",
+        "Homepage": "https://radioviva.at.ua/",
+        "Latitude": 43.84596340670392,
+        "Longitude": 25.96016496419907,
+        "Source1": "http://stream.radioextra-bg.net:8000/viva-eurodance"
+    },
+    {
+        "Title": "Radio Winbet",
+        "Country": "Bulgaria",
+        "Tags": "misc",
+        "Source1": "http://79.98.108.170:8010/autodj"
+    },
+    {
+        "Title": "Radio ZARA",
+        "Country": "Bulgaria",
+        "Favicon": "https://www.radiozara.bg/logo.png",
+        "Homepage": "https://www.radiozara.bg/",
+        "Source1": "https://www.radiozara.bg/play"
+    },
+    {
+        "Title": "RADIO ZETRA",
+        "Country": "Bulgaria",
+        "Homepage": "https://zetramedia.com/",
+        "Source1": "https://radio.jump.bg/proxy/etzetrap/;stream/1"
+    },
+    {
+        "Title": "Radio Zone Mix",
+        "Country": "Bulgaria",
+        "Tags": "electronic",
+        "Source1": "http://79.98.108.170:8036/autodj"
+    },
+    {
+        "Title": "Radio Zorana Sofia",
+        "Country": "Bulgaria",
+        "Tags": "misc",
+        "Source1": "https://radio.jump.bg/proxy/radio12/stream"
+    },
+    {
+        "Title": "radio1rock",
+        "Country": "Bulgaria",
+        "Tags": "classic rock,heavy metal,rock",
+        "Language": "bg",
+        "Homepage": "https://www.radio1rock.bg/",
+        "Source1": "https://149.13.0.81/radio1rock128"
+    },
+    {
+        "Title": "Radioplay Cafe",
+        "Country": "Bulgaria",
+        "Tags": "cafe",
+        "Favicon": "https://www.radioplay.bg/assets/logos/cafe.png",
+        "Language": "bg",
+        "Region": "BG-22",
+        "Homepage": "https://radioplay.bg/",
+        "Latitude": 42.6977,
+        "Longitude": 23.3219,
+        "Source1": "https://play.global.audio/cafehi.aac"
+    },
+    {
+        "Title": "Radioxaschove",
+        "Country": "Bulgaria",
+        "Favicon": "null",
+        "Language": "bg",
+        "Homepage": "http://tat.freewb.ro/-radioxaschove",
+        "Source1": "http://79.98.108.173:8006/"
+    },
+    {
+        "Title": "Raimos Disco Radio",
+        "Country": "Bulgaria",
+        "Tags": "pop",
+        "Source1": "http://a1.virtualradio.eu:8000/discoradio"
+    },
+    {
+        "Title": "Raimos Rock Radio",
+        "Country": "Bulgaria",
+        "Tags": "rock",
+        "Source1": "http://a1.virtualradio.eu:8000/rockradio"
+    },
+    {
+        "Title": "Rashi Edno",
+        "Country": "Bulgaria",
+        "Tags": "discography,djaz,folkloree,hip hop,pop,pop folk",
+        "Favicon": "https://rashimedia.alle.bg/%D1%81%D0%BB%D1%83%D1%88%D0%B0%D0%B9-%D1%80%D0%B0%D0%B4%D0%B8%D0%BE-%D1%80%D0%B0%D1%88%D0%B8-%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD/",
+        "Homepage": "https://radiorashi.alle.bg/",
+        "Source1": "https://s2.free-shoutcast.com/stream/18214"
+    },
+    {
+        "Title": "Rosen Dimitrov",
+        "Country": "Bulgaria",
+        "Favicon": "https://sweetradio.online/wp-content/uploads/cropped-sweet-1a.png",
+        "Language": "en",
+        "Homepage": "https://sweetradio.online/",
+        "Source1": "https://stream.sweetradio.online:8001/HD"
+    },
+    {
+        "Title": "Shlager Radio (Радио Шлагер Русе-TV ДЕЛТА) -Ruse 90,5 FM",
+        "Country": "Bulgaria",
+        "Tags": "60s,70s,80s,90s,oldies,rock",
+        "Favicon": "https://top-radio.ru/assets/image/radio/180/radio-shlager.jpg",
+        "Language": "bg",
+        "Homepage": "https://netbox.bgdelta/",
+        "Latitude": 43.84594406248198,
+        "Longitude": 25.96014887094498,
+        "Source1": "https://stream02.pcradio.ru/schlagerradio_fm-med"
+    },
+    {
+        "Title": "Stream House Radio",
+        "Country": "Bulgaria",
+        "Tags": "electronic",
+        "Source1": "http://79.98.108.170:8018/autodj"
+    },
+    {
+        "Title": "Sunny Beach Radio",
+        "Country": "Bulgaria",
+        "Homepage": "https://www.facebook.com/SunnyBeachRadio.Bulgaria/",
+        "Source1": "https://sunny-beachradio.stream.laut.fm/sunny-beachradio"
+    },
+    {
+        "Title": "SWEET RADIO - BULGARIA",
+        "Country": "Bulgaria",
+        "Tags": "dance,deep house,nu disco",
+        "Favicon": "https://sweetradio.online/wp-content/uploads/cropped-sweet-1a.png",
+        "Language": "en",
+        "Homepage": "https://sweetradio.online/",
+        "Latitude": 42.71685107696928,
+        "Longitude": 23.29144649093893,
+        "Source1": "https://stream.sweetradio.online:8001/HD"
+    },
+    {
+        "Title": "Tangra Mega Rock",
+        "Country": "Bulgaria",
+        "Tags": "hard rock heavy metal",
+        "Favicon": "https://radiotangra.com/wp-content/uploads/2023/02/Vector-Smart-Object.svg",
+        "Language": "bg",
+        "Region": "BG-22",
+        "Homepage": "http://www.radiotangra.com/",
+        "Latitude": 42.6977,
+        "Longitude": 23.3219,
+        "Source1": "http://stream-bg-01.radiotangra.com/Tangra-high.aac",
+        "Source2": "http://stream-bg-01.radiotangra.com:8000/Tangra.ogg",
+        "Source3": "http://stream-bg-01.radiotangra.com:8000/Tangra-high"
+    },
+    {
+        "Title": "Test NRJ Sergio IP",
+        "Country": "Bulgaria",
+        "Tags": "90s",
+        "Language": "bg",
+        "Homepage": "https://www.radioenergy.bg/",
+        "Source1": "http://149.13.0.80/energy-90s"
+    },
+    {
+        "Title": "top.fm",
+        "Country": "Bulgaria",
+        "Tags": "chalga,folklore,pop-folk",
+        "Favicon": "https://top.fm/topfm.png",
+        "Language": "bg",
+        "Homepage": "https://top.fm/",
+        "Latitude": 42.64846280915781,
+        "Longitude": 23.34424674510956,
+        "Source1": "http://91.227.77.124/topfm"
+    },
+    {
+        "Title": "Turbo Lounge",
+        "Country": "Bulgaria",
+        "Tags": "misc",
+        "Source1": "http://79.98.108.170:8115/autodj"
+    },
+    {
+        "Title": "Ultra Blagoevgrad",
+        "Country": "Bulgaria",
+        "Tags": "chalga",
+        "Language": "bg",
+        "Homepage": "http://www.radioultra.bg/",
+        "Source1": "http://www.ultranet.biz/ultrablagoevgrad.m3u"
+    },
+    {
+        "Title": "Ultra Pernik",
+        "Country": "Bulgaria",
+        "Tags": "folk",
+        "Source1": "http://88.80.96.25:8000/"
+    },
+    {
+        "Title": "Ultra Sandanski",
+        "Country": "Bulgaria",
+        "Tags": "chalga",
+        "Language": "bg",
+        "Homepage": "http://www.radioultra.bg/",
+        "Source1": "http://88.80.96.25:8000/"
+    },
+    {
+        "Title": "Vanilla",
+        "Country": "Bulgaria",
+        "Tags": "chill out",
+        "Favicon": "https://www.radioplay.bg/assets/logos/vanilla.png",
+        "Language": "bg",
+        "Region": "BG-22",
+        "Homepage": "https://radioplay.bg/",
+        "Latitude": 42.6977,
+        "Longitude": 23.3219,
+        "Source1": "https://play.global.audio/vanillahi.aac"
+    },
+    {
+        "Title": "Vega+ Sandaski",
+        "Country": "Bulgaria",
+        "Tags": "00s,80s,90s",
+        "Favicon": "https://radiovega.bg/wp-content/uploads/2022/05/cropped-favicon-180x180.png",
+        "Language": "bg",
+        "Homepage": "http://www.radiovega.bg/",
+        "Source1": "http://www.ultranet.biz/vegasandanski.m3u"
+    },
+    {
+        "Title": "Veronika",
+        "Country": "Bulgaria",
+        "Homepage": "http://www.radioveronika.bg/",
+        "Source1": "http://stream.metacast.eu/veronika.ogg"
+    },
+    {
+        "Title": "Veronika 6 bez 10",
+        "Country": "Bulgaria",
+        "Tags": "pop folk",
+        "Language": "bg",
+        "Homepage": "http://www.radioveronika.bg/",
+        "Source1": "https://play.global.audio/6bez10.aac"
+    },
+    {
+        "Title": "Veselina Retro",
+        "Country": "Bulgaria",
+        "Tags": "retro folk",
+        "Favicon": "https://nbg-img.fite.tv/img/611098_980x551.jpg",
+        "Language": "bg",
+        "Homepage": "https://www.radioveselina.bg/",
+        "Source1": "https://nova-radio.neterra.tv/veselinaretro"
+    },
+    {
+        "Title": "Victoria Radio",
+        "Country": "Bulgaria",
+        "Tags": "dance,pop",
+        "Favicon": "https://radiomaxxfm.com/wp-content/uploads/2021/09/victoriafm.png",
+        "Homepage": "https://radiomaxxfm.com/",
+        "Source1": "https://play.radiomaxxfm.com/victoriafm"
+    },
+    {
+        "Title": "Vocal Mix Radio",
+        "Country": "Bulgaria",
+        "Tags": "electronic",
+        "Source1": "http://79.98.108.170:8015/autodj"
+    },
+    {
+        "Title": "XRaydio 1 – Your Kaleidoscope Of Sounds",
+        "Country": "Bulgaria",
+        "Tags": "acid house,americana,disco,dream pop,electro,garage punk,indie,noise rock,post punk,psychedelic,shoegaze,synthwave,techno,vaporwave,yacht rock",
+        "Homepage": "https://xraydio.net/",
+        "Source1": "https://xraydio.ddns.net/live"
+    },
+    {
+        "Title": "XRaydio 2 – Your Vintage Jukebox",
+        "Country": "Bulgaria",
+        "Tags": "vintage,oldies,jet set lounge,garage,mod,vintage soul,roughneck country,bubblegum pop,glam rock,funk,soundtracks,library music,rockabilly,crime jazz,jungle exotica",
+        "Favicon": "https://xraydio.net/wp-content/uploads/2024/03/2.jpg",
+        "Region": "BG-16",
+        "Homepage": "https://xraydio.net/",
+        "Source1": "https://xraydio.ddns.net/jukebox"
+    },
+    {
+        "Title": "XRaydio 3 – Your Rock & Roll Partner In Crime",
+        "Country": "Bulgaria",
+        "Tags": "blues punk,garage rock,glam rock,outlaw country,power pop,psychobilly,pub rock,rock & roll,sludge,southern rock,space rock,stoner rock,surf,swamp rock",
+        "Favicon": "https://xraydio.net/wp-content/uploads/2024/03/3.jpg",
+        "Homepage": "https://xraydio.net/",
+        "Source1": "https://xraydio.ddns.net/xraydio3"
+    },
+    {
+        "Title": "Z-Rock Alt",
+        "Country": "Bulgaria",
+        "Favicon": "http://193.108.24.6:8000/zrock.m3u",
+        "Homepage": "http://193.108.24.6:8000/zrock.m3u",
+        "Source1": "http://193.108.24.6:8000/zrock.m3u"
+    },
+    {
+        "Title": "Z-Rock radio",
+        "Country": "Bulgaria",
+        "Tags": "rock",
+        "Favicon": "http://zrockradio.bg/wp-content/uploads/2017/08/zrock_logo.png",
+        "Language": "bg",
+        "Homepage": "https://zrockradio.bg/",
+        "Latitude": 42.69616356078101,
+        "Longitude": 23.32672119140625,
+        "Source1": "http://193.108.24.6:8000/zrock"
+    },
+    {
+        "Title": "Zetra",
+        "Country": "Bulgaria",
+        "Tags": "misc",
+        "Source1": "http://79.98.108.170:8092/;"
+    },
+    {
+        "Title": "zig zag",
+        "Country": "Bulgaria",
+        "Favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250508_103406805.jpg?alt=media&token=165eced7-c0cf-4900-bbdd-bc3a226acde9",
+        "Language": "bg",
+        "Homepage": "https://radio-zigzag.free.bg/",
+        "Source1": "https://radyo.yayin.com.tr:4474/stream"
+    },
+    {
+        "Title": "Авто Радио",
+        "Country": "Bulgaria",
+        "Tags": "dance,top40",
+        "Favicon": "https://avtoradio.bg/ar_logo.f88b409f.png",
+        "Homepage": "https://www.avtoradio.bg/",
+        "Latitude": 42.697778463692,
+        "Longitude": 23.32191467285156,
+        "Source1": "http://stream80.metacast.eu/avtoradiohi.aac"
+    },
+    {
+        "Title": "Авторадио",
+        "Country": "Bulgaria",
+        "Tags": "dance,hits,opus,pop",
+        "Language": "bg",
+        "Homepage": "http://avtoradio.bg/",
+        "Source1": "http://play.global.audio/avtoradio.opus"
+    },
+    {
+        "Title": "БГ радио (opus)",
+        "Country": "Bulgaria",
+        "Tags": "bg only,dance,party,pop",
+        "Favicon": "https://bgradio.bg/theme_assets/bgradio/images/favicon.png",
+        "Language": "bg",
+        "Homepage": "https://bgradio.bg/",
+        "Source1": "http://stream.radioreklama.bg/bgradio.opus"
+    },
+    {
+        "Title": "БНР Радио Русе 98.6 FM",
+        "Country": "Bulgaria",
+        "Tags": "talk",
+        "Favicon": "https://top-radio.ru/assets/image/radio/180/bnr.png",
+        "Language": "bg",
+        "Homepage": "https://bnrnews.bg/shumen",
+        "Latitude": 43.845971144390944,
+        "Longitude": 25.96018105745316,
+        "Source1": "https://e106-ts.cdn.bg/regstations/fls/Shumen.stream/chunklist.m3u8"
+    },
+    {
+        "Title": "БНР Хоризонт",
+        "Country": "Bulgaria",
+        "Tags": "bnr,public radio",
+        "Language": "bg",
+        "Homepage": "http://bnr.bg/horizont",
+        "Source1": "http://stream.bnr.bg:8011/horizont.aac"
+    },
+    {
+        "Title": "БНР Христо Ботев",
+        "Country": "Bulgaria",
+        "Language": "bg",
+        "Homepage": "http://bnr.bg/hristobotev",
+        "Source1": "http://stream.bnr.bg:8012/hristo-botev.aac"
+    },
+    {
+        "Title": "БНР – Детска програма (Детското.БНР)",
+        "Country": "Bulgaria",
+        "Tags": "public radio",
+        "Language": "bg",
+        "Homepage": "https://detskotobnr.binar.bg/",
+        "Source1": "http://stream.bnr.bg:8013/detskoto-bnr.aac"
+    },
+    {
+        "Title": "БНР – Радио Благоевград",
+        "Country": "Bulgaria",
+        "Tags": "public radio",
+        "Language": "bg",
+        "Homepage": "https://bnr.bg/blagoevgrad",
+        "Source1": "http://stream.bnr.bg:8035/radio-blagoevgrad.aac"
+    },
+    {
+        "Title": "БНР – Радио Бургас",
+        "Country": "Bulgaria",
+        "Tags": "public radio",
+        "Language": "bg",
+        "Homepage": "https://bnr.bg/burgas",
+        "Source1": "http://stream.bnr.bg:8037/radio-burgas.aac"
+    },
+    {
+        "Title": "БНР – Радио Видин",
+        "Country": "Bulgaria",
+        "Homepage": "https://bnr.bg/vidin",
+        "Source1": "http://stream.bnr.bg:8036/radio-vidin.aac"
+    },
+    {
+        "Title": "БНР – Радио Кърджали",
+        "Country": "Bulgaria",
+        "Tags": "public radio",
+        "Language": "bg",
+        "Homepage": "https://bnr.bg/kardzhali",
+        "Source1": "http://stream.bnr.bg:8038/radio-kardzhali.aac"
+    },
+    {
+        "Title": "БНР – Радио Пловдив",
+        "Country": "Bulgaria",
+        "Tags": "public radio",
+        "Language": "bg",
+        "Homepage": "https://bnr.bg/plovdiv",
+        "Source1": "http://stream.bnr.bg:8032/radio-plovdiv.aac"
+    },
+    {
+        "Title": "БНР – Радио Стара Загора",
+        "Country": "Bulgaria",
+        "Tags": "public radio",
+        "Language": "bg",
+        "Homepage": "https://bnr.bg/starazagora",
+        "Source1": "http://stream.bnr.bg:8034/radio-stara-zagora.aac"
+    },
+    {
+        "Title": "Енерджи (opus)",
+        "Country": "Bulgaria",
+        "Tags": "dance,hits,party,pop",
+        "Language": "bg",
+        "Homepage": "https://radioenergy.bg/",
+        "Source1": "http://stream.radioreklama.bg/nrj.opus"
+    },
+    {
+        "Title": "Коледно радио",
+        "Country": "Bulgaria",
+        "Tags": "aac,christmas,hd,коледа,коледна музика,коледно радио",
+        "Favicon": "https://www.radioplay.bg/assets/logos/koledno_lilly.png",
+        "Language": "bg",
+        "Homepage": "https://www.radio1.bg/article/xmas-radio",
+        "Source1": "https://play.global.audio/radio1-koledahi.aac"
+    },
+    {
+        "Title": "Мая",
+        "Country": "Bulgaria",
+        "Source1": "http://www.rnmediagroup.com:9000/listen.pls"
+    },
+    {
+        "Title": "Общинско радио Велико Търново",
+        "Country": "Bulgaria",
+        "Tags": "320kbps,hd,велико,общинско,търново",
+        "Favicon": "https://www.predavatel.com/bg/8/velikotarnovo_img/radio-vt98-2.png",
+        "Language": "bg",
+        "Homepage": "https://radiovelikotarnovo.com/",
+        "Latitude": 43.080794977653454,
+        "Longitude": 25.633269638316843,
+        "Source1": "http://195.34.121.140:8004/"
+    },
+    {
+        "Title": "Общинско Радио Разград",
+        "Country": "Bulgaria",
+        "Source1": "http://188.126.1.25:8000/razgrad"
+    },
+    {
+        "Title": "Радио Bulgaria ON AIR Русе 103.9 FM",
+        "Country": "Bulgaria",
+        "Tags": "pop",
+        "Favicon": "https://top-radio.ru/assets/image/radio/180/bgonair-new3.png",
+        "Language": "bg",
+        "Homepage": "https://www.bgonair.bg/",
+        "Latitude": 43.84595180017152,
+        "Longitude": 25.96014350652695,
+        "Source1": "https://live.radio.bgonair.bg/RadioBOA"
+    },
+    {
+        "Title": "Радио CITY",
+        "Country": "Bulgaria",
+        "Language": "bg",
+        "Homepage": "https://www.city.bg/",
+        "Latitude": 42.69747893078105,
+        "Longitude": 23.321515757124875,
+        "Source1": "http://31.13.223.148:8000/city.mp3"
+    },
+    {
+        "Title": "Радио Energy Болгария Русе 100.5 FM",
+        "Country": "Bulgaria",
+        "Tags": "pop",
+        "Favicon": "https://top-radio.ru/assets/image/radio/180/nrj.png",
+        "Language": "bg",
+        "Homepage": "https://radioenergy.bg/",
+        "Latitude": 43.84596340670392,
+        "Longitude": 25.96018105745316,
+        "Source1": "https://29103.live.streamtheworld.com/RADIO_ENERGYAAC_H.aac"
+    },
+    {
+        "Title": "Радио FM+",
+        "Country": "Bulgaria",
+        "Tags": "pop",
+        "Language": "bg",
+        "Homepage": "http://fmplus.net/",
+        "Latitude": 42.69668015132053,
+        "Longitude": 23.32160449004732,
+        "Source1": "http://193.108.24.21:8000/fmplus"
+    },
+    {
+        "Title": "Радио FM+ Русе 94.4 FM",
+        "Country": "Bulgaria",
+        "Tags": "pop",
+        "Favicon": "https://radiofmplus.bg/i/logo.png",
+        "Language": "bg",
+        "Homepage": "https://radiofmplus.bg/",
+        "Latitude": 43.84596727554756,
+        "Longitude": 25.96016496419907,
+        "Source1": "https://pulsar.atlantis.bg:8443/fmplusnew"
+    },
+    {
+        "Title": "Радио Fresh!",
+        "Country": "Bulgaria",
+        "Tags": "pop",
+        "Language": "bg",
+        "Homepage": "http://radiofresh.bg/",
+        "Latitude": 42.69554567324074,
+        "Longitude": 23.3217113907449,
+        "Source1": "http://31.13.223.148:8000/fresh.mp3"
+    },
+    {
+        "Title": "Радио N-JOY Русе 101.6 FM",
+        "Country": "Bulgaria",
+        "Tags": "pop",
+        "Favicon": "https://top-radio.ru/assets/image/radio/180/njoy.png",
+        "Language": "bg",
+        "Homepage": "https://njoy.bg/",
+        "Latitude": 43.84596340670392,
+        "Longitude": 25.960138142108917,
+        "Source1": "https://cdn.btv.bg/radio/njoy.mp3"
+    },
+    {
+        "Title": "Радио БГ Русе 97.4 FM",
+        "Country": "Bulgaria",
+        "Tags": "pop",
+        "Favicon": "https://www.bgradio.bg/theme_assets/bgradio/images/hb_bgradio_logo.png",
+        "Language": "bg",
+        "Homepage": "https://www.bgradio.bg/",
+        "Latitude": 43.84596340670392,
+        "Longitude": 25.96016496419907,
+        "Source1": "https://27913.live.streamtheworld.com/BG_RADIOAAC_H.aac"
+    },
+    {
+        "Title": "Радио БНР програма Хоризонт Русе 103.0 FM",
+        "Country": "Bulgaria",
+        "Favicon": "https://bnrnews.bg/favicon.ico",
+        "Homepage": "https://bnrnews.bg/horizont",
+        "Source1": "https://lb-hls.cdn.bg/2032/fls/Horizont.stream/playlist.m3u8"
+    },
+    {
+        "Title": "Радио БНР програма Христо Ботев Русе 95.7 FM",
+        "Country": "Bulgaria",
+        "Tags": "pop",
+        "Favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjJusaIg46ObkF14JycLTOLnA-K2KxiIsRPQ&s",
+        "Language": "bg",
+        "Homepage": "https://bnrnews.bg/",
+        "Latitude": 43.845932455945785,
+        "Longitude": 25.9601703286171,
+        "Source1": "https://e106-ts.cdn.bg/regstations/fls/HrBotev.stream/chunklist.m3u8"
+    },
+    {
+        "Title": "Радио Варна",
+        "Country": "Bulgaria",
+        "Tags": "news",
+        "Source1": "http://broadcast.masters.bg:8000/live"
+    },
+    {
+        "Title": "Радио Вероника Русе 99.0 FM",
+        "Country": "Bulgaria",
+        "Tags": "etno,folk music,pop",
+        "Favicon": "https://top-radio.ru/assets/image/radio/180/veronika.png",
+        "Language": "bg",
+        "Homepage": "https://www.radioveronika.bg/",
+        "Latitude": 43.84594793132687,
+        "Longitude": 25.96016496419907,
+        "Source1": "https://28933.live.streamtheworld.com/RADIO_VERONIKAAAC_H.aac"
+    },
+    {
+        "Title": "Радио Веселина Русе 93.1 FM",
+        "Country": "Bulgaria",
+        "Tags": "local radio,music,news",
+        "Favicon": "https://top-radio.ru/assets/image/radio/180/radio-Veselina.png",
+        "Language": "bg",
+        "Homepage": "https://www.radioveselina.bg/",
+        "Latitude": 43.845976560629595,
+        "Longitude": 25.960210561752323,
+        "Source1": "https://bss1.neterra.tv/veselina/stream_0.m3u8"
+    },
+    {
+        "Title": "Радио Дарик Русе 91.6 FM",
+        "Country": "Bulgaria",
+        "Tags": "local radio,music,news",
+        "Favicon": "https://top-radio.ru/assets/image/radio/180/darickbg.png",
+        "Language": "bg",
+        "Homepage": "https://darikradio.bg/",
+        "Latitude": 43.84594406248198,
+        "Longitude": 25.960127413272858,
+        "Source1": "https://a12.asurahosting.com/listen/darik_radio/radio.mp3"
+    },
+    {
+        "Title": "Радио Жега 96",
+        "Country": "Bulgaria",
+        "Tags": "folk",
+        "Source1": "http://g5.turbohost.eu:8004/stream96"
+    },
+    {
+        "Title": "Радио Зиг Заг - Най-яките парчета",
+        "Country": "Bulgaria",
+        "Tags": "dance and 90's,pop",
+        "Favicon": "null",
+        "Language": "bg",
+        "Homepage": "https://radio-zigzag.free.bg/",
+        "Source1": "https://radyo.yayin.com.tr:4474/stream"
+    },
+    {
+        "Title": "Радио Канон - Radio Kanon",
+        "Country": "Bulgaria",
+        "Tags": "christian,orthodox,religion",
+        "Favicon": "http://www.radiokanon.com/images/favicon.png",
+        "Language": "bg",
+        "Homepage": "http://www.radiokanon.com/",
+        "Source1": "http://79.98.108.170:8059/stream"
+    },
+    {
+        "Title": "Радио Пауър ФМ - Radio Power FM",
+        "Country": "Bulgaria",
+        "Language": "bg",
+        "Homepage": "http://www.powerfm.bg/",
+        "Source1": "http://a1.virtualradio.eu:8000/powerfm.mp3"
+    },
+    {
+        "Title": "Радио Пияника",
+        "Country": "Bulgaria",
+        "Tags": "greece,greek,greek music",
+        "Favicon": "https://www.radiopi.top/favicon.ico",
+        "Language": "el",
+        "Homepage": "https://www.radiopi.top/",
+        "Source1": "http://mpc1.mediacp.eu:8024/;"
+    },
+    {
+        "Title": "Радио Фокус Русе 99.7 FM",
+        "Country": "Bulgaria",
+        "Tags": "pop",
+        "Favicon": "https://top-radio.ru/assets/image/radio/180/focusbg.png",
+        "Language": "bg",
+        "Homepage": "https://www.focus-radio.net/",
+        "Latitude": 43.84596340670392,
+        "Longitude": 25.96015423536301,
+        "Source1": "https://focusradio.dataserv.cc/1"
+    },
+    {
+        "Title": "Радио Хоро",
+        "Country": "Bulgaria",
+        "Tags": "folk",
+        "Source1": "http://g5.turbohost.eu:8020/stream256.m3u"
+    },
+    {
+        "Title": "Радио „Епархийски глас“",
+        "Country": "Bulgaria",
+        "Favicon": "https://mitropolia-sofia.org/wp-content/uploads/2023/09/heder-newvision5-1-150x150.png",
+        "Homepage": "https://radio-glas.mitropolia-sofia.org/",
+        "Source1": "https://radio.mitropolia-sofia.org:7610/stream"
+    }
+]

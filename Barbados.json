@@ -1,0 +1,170 @@
+[
+    {
+        "Title": "98.1 The One",
+        "Country": "Barbados",
+        "Tags": "various music",
+        "Favicon": "https://www.cbc.bb/wp-content/uploads/2022/12/981-The-One-Logo.jpg",
+        "Language": "en",
+        "Homepage": "https://www.cbc.bb/981fm/",
+        "Latitude": 13.095028128958525,
+        "Longitude": -59.60975646972657,
+        "Source1": "http://108.178.16.190:8000/981fm.mp3"
+    },
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "Barbados",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "CBC 94.7 FM",
+        "Country": "Barbados",
+        "Favicon": "https://www.cbc.bb/wp-content/uploads/2022/12/CBC-94-7-FM.jpg",
+        "Language": "en",
+        "Homepage": "https://www.cbc.bb/947fm/",
+        "Latitude": 13.096867293835356,
+        "Longitude": -59.61318969726563,
+        "Source1": "http://108.178.16.190:8000/947fm.mp3"
+    },
+    {
+        "Title": "Evah Blaze Radio",
+        "Country": "Barbados",
+        "Favicon": "https://i0.wp.com/www.irievibesmusicgroup.com/wp-content/uploads/2017/07/EBR-final.jpg?resize=150%2C150",
+        "Homepage": "https://www.irievibesmusicgroup.com/evah-blaze-radio",
+        "Source1": "http://streaming.radio.co/s1c1beb15d/listen"
+    },
+    {
+        "Title": "HOTT 95.3FM",
+        "Country": "Barbados",
+        "Tags": "reggae",
+        "Favicon": "https://starcomnetwork.net/wp-content/uploads/2024/01/HOTT-953-FM-LOGO-full-colour-wide-3-1536x840.png",
+        "Language": "en",
+        "Homepage": "https://starcomnetwork.net/radio-stations/stream-hott-95-3-fm",
+        "Latitude": 13.09569691777548,
+        "Longitude": -59.609155654907234,
+        "Source1": "https://ice64.securenetsystems.net/HOTT953"
+    },
+    {
+        "Title": "LIFE 97.5 FM",
+        "Country": "Barbados",
+        "Tags": "gospel",
+        "Favicon": "https://starcomnetwork.net/wp-content/uploads/2023/06/Life97.5FM.png",
+        "Language": "en",
+        "Homepage": "https://starcomnetwork.net/radio-stations/stream-life-97-5-fm/",
+        "Latitude": 13.095613319272683,
+        "Longitude": -59.60932731628418,
+        "Source1": "https://ice64.securenetsystems.net/LIFE975"
+    },
+    {
+        "Title": "Q 100.7 FM",
+        "Country": "Barbados",
+        "Tags": "decades,health,hymns,music,obituaries,oldies,quality,reggae,soca,talk",
+        "Favicon": "https://www.facebook.com/favicon.ico",
+        "Language": "en",
+        "Homepage": "https://www.facebook.com/Q100.7FM",
+        "Source1": "http://108.178.16.190:8000/1007fm.mp3"
+    },
+    {
+        "Title": "Q 100.7 FM",
+        "Country": "Barbados",
+        "Tags": "variety",
+        "Favicon": "https://www.cbc.bb/wp-content/uploads/2022/12/Q-FM-LOGO.jpg",
+        "Language": "en",
+        "Homepage": "https://www.cbc.bb/q1007fm/",
+        "Source1": "http://108.178.16.190:8000/1007fm.mp3"
+    },
+    {
+        "Title": "Q100.7 FM",
+        "Country": "Barbados",
+        "Language": "en",
+        "Homepage": "https://www.cbc.bb/cbctest/radio/",
+        "Source1": "http://108.178.16.190:8000/1007fm.mp3"
+    },
+    {
+        "Title": "Radio Bimshire 106.1 FM",
+        "Country": "Barbados",
+        "Tags": "various",
+        "Favicon": "https://cdn.onlineradiobox.com/img/l/7/133527.v13.png",
+        "Language": "en",
+        "Homepage": "https://welove.radio/radio/radio-bimshire/",
+        "Latitude": 13.099542418228534,
+        "Longitude": -59.60632324218751,
+        "Source1": "https://listen.radioking.com/radio/635914/stream/700051"
+    },
+    {
+        "Title": "RelaxingJazz.com",
+        "Country": "Barbados",
+        "Favicon": "https://relaxingjazz.com/wp-content/uploads/2023/12/RELAXING-JAZZ-LOGO-2-300x300.png",
+        "Homepage": "https://relaxingjazz.com/",
+        "Latitude": 13.910607176398,
+        "Longitude": -60.97961425781251,
+        "Source1": "http://stream-02-eu.relaxingjazz.com/stream/3/"
+    },
+    {
+        "Title": "Slam 101.1",
+        "Country": "Barbados",
+        "Favicon": "https://www.slam101fm.com/wp-content/uploads/2020/01/logo-sl-white.png",
+        "Homepage": "https://www.slam101fm.com/",
+        "Source1": "http://usa4.fastcast4u.com:5006/stream",
+        "Source2": "http://usa4.fastcast4u.com:5006/;"
+    },
+    {
+        "Title": "Slam 101.1 - Haggatt Hall",
+        "Country": "Barbados",
+        "Tags": "caribbean music,haggatt hall,reggae,top 40",
+        "Language": "en",
+        "Homepage": "http://www.slam101fm.com/",
+        "Source1": "http://usa4.fastcast4u.com:5006/;"
+    },
+    {
+        "Title": "The BEAT 104.1 FM",
+        "Country": "Barbados",
+        "Tags": "adult contemporary,dance,pop",
+        "Favicon": "https://starcomnetwork.net/wp-content/uploads/2023/06/TheBeat104.jpg",
+        "Language": "en",
+        "Homepage": "https://starcomnetwork.net/the-beat-104-1-stream/",
+        "Latitude": 13.095655118527626,
+        "Longitude": -59.60924148559571,
+        "Source1": "https://ice66.securenetsystems.net/THEBEAT1041"
+    },
+    {
+        "Title": "The One 98.1 FM",
+        "Country": "Barbados",
+        "Tags": "caribbean,drive time,music,youth",
+        "Favicon": "https://www.facebook.com/favicon.ico",
+        "Language": "en",
+        "Homepage": "https://www.facebook.com/981Barbados",
+        "Source1": "http://108.178.16.190:8000/981fm.mp3"
+    },
+    {
+        "Title": "VOB 92.9 FM",
+        "Country": "Barbados",
+        "Tags": "call-in,calypso,news,soca,talk",
+        "Favicon": "https://cdn-profiles.tunein.com/s16653/images/logog.png?t=1",
+        "Language": "en",
+        "Homepage": "https://vob929.com/",
+        "Source1": "https://ice66.securenetsystems.net/VOB929.m3u",
+        "Source2": "https://ice66.securenetsystems.net/VOB929"
+    },
+    {
+        "Title": "Y103.3 - Haggatt Hall",
+        "Country": "Barbados",
+        "Tags": "adult contemporary,haggatt hall",
+        "Language": "en",
+        "Homepage": "http://www.y103fm.com/",
+        "Source1": "http://usa4.fastcast4u.com:5336/;"
+    },
+    {
+        "Title": "Y103.3 FM",
+        "Country": "Barbados",
+        "Tags": "alternative,pop,reggae",
+        "Favicon": "https://www.y103fm.com/wp-content/uploads/2024/09/Y103logo.png",
+        "Language": "en",
+        "Homepage": "https://www.y103fm.com/",
+        "Latitude": 13.106355494380676,
+        "Longitude": -59.57701206207276,
+        "Source1": "http://usa4.fastcast4u.com:5336/;"
+    }
+]

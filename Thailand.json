@@ -1,0 +1,945 @@
+[
+    {
+        "Title": "101 kiss fm สุราษฎร์ธานี",
+        "Country": "Thailand",
+        "Homepage": "https://siamtoday.in.th/station.php?code=6804",
+        "Source1": "http://siamtoday.in.th/8498"
+    },
+    {
+        "Title": "101.5 Chula Radio",
+        "Country": "Thailand",
+        "Homepage": "https://curadio.chula.ac.th/Radio-Live.php",
+        "Source1": "http://radio11.plathong.net:7590/;stream.mp3"
+    },
+    {
+        "Title": "106 Family News Radio",
+        "Country": "Thailand",
+        "Favicon": "https://static.mytuner.mobi/media/tvos_radios/5vfxsvfwzgqm.png",
+        "Homepage": "https://onair.one/?page_id=405",
+        "Source1": "https://radio11.plathong.net/7138/;stream.mp3"
+    },
+    {
+        "Title": "106 Yes radio",
+        "Country": "Thailand",
+        "Homepage": "https://www.niyamedia.com/",
+        "Source1": "https://4096.radio2.thzhost.com/;stream"
+    },
+    {
+        "Title": "88 nice peak",
+        "Country": "Thailand",
+        "Language": "th",
+        "Homepage": "https://www.voiceofnavy.com/",
+        "Source1": "http://rcp2.plathong.net:9924/"
+    },
+    {
+        "Title": "88.5 MHz. Voice of Navy",
+        "Country": "Thailand",
+        "Language": "th",
+        "Homepage": "https://www.voiceofnavy.com/",
+        "Source1": "http://rcp.plathong.net:7346/;?type=http&nocache=283"
+    },
+    {
+        "Title": "89.75 Radio Trip",
+        "Country": "Thailand",
+        "Language": "th",
+        "Homepage": "http://www.radiotripphuket.com/",
+        "Source1": "http://media.login.in.th:1150/"
+    },
+    {
+        "Title": "90 rakthai",
+        "Country": "Thailand",
+        "Language": "th",
+        "Homepage": "http://radio11.plathong.net:8896/;stream.mp3",
+        "Source1": "http://radio11.plathong.net:8896/;stream.mp3"
+    },
+    {
+        "Title": "90.5 Delight",
+        "Country": "Thailand",
+        "Language": "th",
+        "Homepage": "https://www.studiolinemedia1.com/",
+        "Source1": "https://cdn-th2.livestreaming.in.th/shoutcast/8895"
+    },
+    {
+        "Title": "90.5 Smart News มิติข่าว",
+        "Country": "Thailand",
+        "Homepage": "http://www.smartbomb.co.th/",
+        "Source1": "http://live3.smartbomb.co.th:8624/;stream.mp3"
+    },
+    {
+        "Title": "91.5 FM Panzer Radio Station",
+        "Country": "Thailand",
+        "Favicon": "https://1.bp.blogspot.com/--_GwnuYDbyo/YDHq2ipNXjI/AAAAAAAAabg/1N6BIOibG0UE7rkiUea3ZsNpwg0SY4TMQCLcBGAsYHQ/s90/91.5fm.png",
+        "Homepage": "https://thaidio.blogspot.com/2015/01/915-cool-fm.html",
+        "Source1": "http://radio.servradio.com:9398/;stream.mp3"
+    },
+    {
+        "Title": "93.5 Mhz. radio Thailand",
+        "Country": "Thailand",
+        "Language": "th",
+        "Homepage": "https://radiothailand.prd.go.th/radiothailand",
+        "Source1": "https://cdn-th2.login.in.th/shoutcast/8430"
+    },
+    {
+        "Title": "93.5 Top Radio FM",
+        "Country": "Thailand",
+        "Tags": "oldies",
+        "Homepage": "https://www.radio-thai.com/935-top-radio-fm",
+        "Latitude": 13.726410185220876,
+        "Longitude": 100.50750017166138,
+        "Source1": "https://a10.asurahosting.com:8250/radio.mp3"
+    },
+    {
+        "Title": "94 Bangkok Smile",
+        "Country": "Thailand",
+        "Favicon": "https://static-media.streema.com/media/cache/83/2c/832c5cf81ed3452bcbd15ebcc2564e5c.jpg",
+        "Homepage": "https://fm94.tv5.co.th/",
+        "Source1": "http://fm94.tv5.co.th:8000/fm94ch3"
+    },
+    {
+        "Title": "95.5 Metro life",
+        "Country": "Thailand",
+        "Language": "th",
+        "Homepage": "https://prdee.prd.go.th/radio",
+        "Source1": "https://cdn-th2.login.in.th/shoutcast/8435"
+    },
+    {
+        "Title": "97qfm",
+        "Country": "Thailand",
+        "Tags": "news",
+        "Favicon": "null",
+        "Language": "th",
+        "Homepage": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://radiothailand.prd.go.th",
+        "Source1": "https://cdn-th2.livestreaming.in.th/shoutcast/8610"
+    },
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "Thailand",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "Amarin TV HD: digital TV channel  34",
+        "Country": "Thailand",
+        "Language": "th",
+        "Homepage": "https://www.amarintv.com/",
+        "Source1": "https://amarin-ks7jcc.cdn.byteark.com/live/Thai_SD_index.m3u8?x_ark_access_id=fleet-868&x_ark_auth_type=ark-v2&x_ark_expires=1787885703&x_ark_path_prefix=%2Flive%2F&x_ark_signature=dJlyiteJMtj9OQXrwHDu3A"
+    },
+    {
+        "Title": "banmai radio",
+        "Country": "Thailand",
+        "Homepage": "https://radio10.plathong.net/7590/;stream.mp3?type=http",
+        "Latitude": 7.006361632032991,
+        "Longitude": 100.4670524597168,
+        "Source1": "https://radio10.plathong.net/7590/;stream.mp3?type=http"
+    },
+    {
+        "Title": "Best Radio FM. 89.0 MHz.",
+        "Country": "Thailand",
+        "Tags": "คลื่นฮิตอันดับ 1 ของชาวขอนแก่น",
+        "Language": "th",
+        "Homepage": "https://bestradio89.com/",
+        "Source1": "https://80sv2.hostpleng.com/?url=http://112.121.150.133:8198/;"
+    },
+    {
+        "Title": "BKK.FM",
+        "Country": "Thailand",
+        "Tags": "alternative,alternative rock,dance,electronic dance music,rock",
+        "Favicon": "https://bkk.fm/images/favicons/favicon-32x32.png",
+        "Homepage": "https://bkk.fm/",
+        "Latitude": 13.685060157552996,
+        "Longitude": 100.6144452095032,
+        "Source1": "https://rsas.bkk.fm/radio",
+        "Source2": "https://streams.radiomast.io/a0f4514e-9045-4114-a4cf-17eb3246785a"
+    },
+    {
+        "Title": "Bluewave 97",
+        "Country": "Thailand",
+        "Tags": "music",
+        "Language": "th",
+        "Homepage": "https://www.bluewave97.com/",
+        "Source1": "https://80sv2.hostpleng.com/?url=http://112.121.151.133:8109/stream"
+    },
+    {
+        "Title": "Bluewave 97 (CR)",
+        "Country": "Thailand",
+        "Tags": "music",
+        "Language": "th",
+        "Homepage": "https://www.bluewave97.com/",
+        "Source1": "http://112.121.151.133:8109/live"
+    },
+    {
+        "Title": "Boonma FM",
+        "Country": "Thailand",
+        "Language": "th",
+        "Homepage": "http://boonmafm.com/",
+        "Latitude": 15.925940588096942,
+        "Longitude": 101.634521484375,
+        "Source1": "https://radio-thailand.com/boonma"
+    },
+    {
+        "Title": "Chili Radio Thailand",
+        "Country": "Thailand",
+        "Tags": "1980s,2000s,70 80 hits,70s,80s,90s,adult contemporary",
+        "Favicon": "https://chiliradio.asia/wp-content/uploads/2021/01/apple-icon-120x120-1.png",
+        "Homepage": "https://chiliradio.asia/",
+        "Latitude": 18.74279420049168,
+        "Longitude": 98.9402961730957,
+        "Source1": "https://stream.chiliradio.app/chiliclassics"
+    },
+    {
+        "Title": "Chula Radio Plus",
+        "Country": "Thailand",
+        "Favicon": "https://curadio.chula.ac.th/v2022/assets/img/cu_radio_plus.ico",
+        "Homepage": "https://curadio.chula.ac.th/index.php",
+        "Source1": "https://media.curadio.chula.ac.th/live/liveradio128/playlist.m3u8"
+    },
+    {
+        "Title": "City Radio Pattaya",
+        "Country": "Thailand",
+        "Favicon": "https://www.cityradiopattaya.com/wp-content/uploads/2022/01/logo.png",
+        "Homepage": "https://www.cityradiopattaya.com/",
+        "Source1": "https://media.onair.one:8200/stream/1/?v=1769497160087"
+    },
+    {
+        "Title": "Cool fahrenheit",
+        "Country": "Thailand",
+        "Favicon": "http://www.coolism.net/favicon.ico",
+        "Language": "th",
+        "Homepage": "http://www.coolism.net/index.php",
+        "Source1": "https://coolism-web.cdn.byteark.com/;stream/1"
+    },
+    {
+        "Title": "Cool fahrenheit",
+        "Country": "Thailand",
+        "Favicon": "http://www.coolism.net/favicon.ico",
+        "Language": "th",
+        "Homepage": "http://www.coolism.net/",
+        "Source1": "https://coolism-web3rd.cdn.byteark.com/stream/1/"
+    },
+    {
+        "Title": "Cool Fahrenheit",
+        "Country": "Thailand",
+        "Tags": "music",
+        "Language": "th",
+        "Homepage": "https://www.coolism.net/",
+        "Source1": "https://coolism-web.cdn.byteark.com/;stream/1"
+    },
+    {
+        "Title": "COOL Fahrenheit 93 FM",
+        "Country": "Thailand",
+        "Tags": "adult contemporary,easy listening,thai,thailand",
+        "Favicon": "https://static.mytuner.mobi/media/tvos_radios/KvDHAwT62s.png",
+        "Language": "th",
+        "Homepage": "https://www.coolism.net/",
+        "Latitude": 13.71820694676256,
+        "Longitude": 100.48095703125,
+        "Source1": "https://coolism-web.cdn.byteark.com/;stream/1"
+    },
+    {
+        "Title": "COOLISM",
+        "Country": "Thailand",
+        "Tags": "คูลลิซึ่ม คลื่นเพลงเพราะอันดับ 1 ของเมืองไทย",
+        "Favicon": "https://www.coolism.net/favicon.ico",
+        "Language": "th",
+        "Homepage": "https://www.coolism.net/",
+        "Source1": "https://coolism-web.cdn.byteark.com/;stream/1"
+    },
+    {
+        "Title": "DPCloudev",
+        "Country": "Thailand",
+        "Tags": "test",
+        "Homepage": "http://azuracast.saber.proxy.damp11113.xyz/public/systest",
+        "Source1": "http://azuracast.saber.proxy.damp11113.xyz/listen/systest/radio.mp3"
+    },
+    {
+        "Title": "DPRadio",
+        "Country": "Thailand",
+        "Tags": "ambient,chill",
+        "Favicon": "https://s3.lvsr.proxy.damp11113.xyz/cdn/azdprfavicon.png",
+        "Language": "en,th",
+        "Homepage": "https://damp11113.xyz/",
+        "Source1": "https://azuracast.saber.proxy.damp11113.xyz/listen/systest/radio.ogg"
+    },
+    {
+        "Title": "Fabulous 103",
+        "Country": "Thailand",
+        "Tags": "electronic,folk,local news,local weather",
+        "Language": "en",
+        "Homepage": "https://alwayspattaya.com/",
+        "Source1": "https://fabulous.thailandstreaming.net/fabulous.mp3"
+    },
+    {
+        "Title": "Flex 104.5",
+        "Country": "Thailand",
+        "Tags": "เชื่อมต่อโลกออนไลน์ เป็นมากกว่าการฟังเพลง",
+        "Language": "th",
+        "Homepage": "https://www.flexconnect.net/",
+        "Source1": "https://streaming.flexconnect.net/voiceflex/voiceflex/playlist.m3u8"
+    },
+    {
+        "Title": "FM 100.5 MHz MCOT news network",
+        "Country": "Thailand",
+        "Language": "th",
+        "Homepage": "https://news1005.mcot.net/news1005/th",
+        "Source1": "https://ymqaf8yp.mcot.net/FM1005/fm1005.stream_aac/playlist.m3u8"
+    },
+    {
+        "Title": "FM 103 MHz คนลูกทุ่ง",
+        "Country": "Thailand",
+        "Language": "th",
+        "Homepage": "https://xn--12cfk7di6e1gf2l.com/",
+        "Source1": "http://fm94.tv5.co.th:8000/armystream"
+    },
+    {
+        "Title": "FM 88 radio Thailand: English language service",
+        "Country": "Thailand",
+        "Language": "en",
+        "Homepage": "https://prdee.prd.go.th/radio",
+        "Source1": "https://cdn-th2.login.in.th/shoutcast/8420"
+    },
+    {
+        "Title": "FM 91",
+        "Country": "Thailand",
+        "Homepage": "https://www.fm91bkk.com/",
+        "Source1": "https://www.fm91bkk.com:8900/;stream.mp3"
+    },
+    {
+        "Title": "FM 92.5 radio Thailand",
+        "Country": "Thailand",
+        "Language": "th",
+        "Homepage": "https://prdee.prd.go.th/radio",
+        "Source1": "https://cdn-th2.login.in.th/shoutcast/8425"
+    },
+    {
+        "Title": "FM 93.50 MHz บ้านใหม่ เรดิโอ",
+        "Country": "Thailand",
+        "Tags": "music",
+        "Favicon": "https://banmairadio.com/images/logo.png",
+        "Language": "th",
+        "Homepage": "https://banmairadio.com/",
+        "Source1": "https://radio10.plathong.net/7590/;stream.mp3"
+    },
+    {
+        "Title": "FM 96 MHz. Zaab news radio",
+        "Country": "Thailand",
+        "Language": "th",
+        "Homepage": "https://www.zaabnews.com/",
+        "Source1": "https://sapircast.caster.fm:17039/aRsGW"
+    },
+    {
+        "Title": "fm99",
+        "Country": "Thailand",
+        "Tags": "classical",
+        "Source1": "https://northernlive.mcot.net/fm99/voice.m3u8"
+    },
+    {
+        "Title": "fm99 new",
+        "Country": "Thailand",
+        "Tags": "news",
+        "Source1": "https://northernlive.mcot.net/fm99/voice.m3u8"
+    },
+    {
+        "Title": "GMM25: digital TV channel 25",
+        "Country": "Thailand",
+        "Language": "th",
+        "Homepage": "https://www.gmm25.com/",
+        "Source1": "https://fastly.live.brightcove.com/6392745120112/ap-southeast-1/6415628290001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicWN6dGF6LmVncmVzcy5wcHRpOHciLCJhY2NvdW50X2lkIjoiNjQxNTYyODI5MDAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE1NjI4MjkwMDAxIl0sImp0aSI6IjYzOTI3NDUxMjAxMTIifQ.w9Q_oqsE_WFClGF5tLVDtHnz5zfHHgNpumxVYNx4yYw/playlist-hls.m3u8"
+    },
+    {
+        "Title": "GOLD Radio",
+        "Country": "Thailand",
+        "Homepage": "https://live365.com/station/GOLD-Radio-a94344",
+        "Latitude": 7.848094274648355,
+        "Longitude": 98.30510120306715,
+        "Source1": "https://streaming.live365.com/a94344"
+    },
+    {
+        "Title": "Isan FM 98",
+        "Country": "Thailand",
+        "Tags": "pop",
+        "Favicon": "http://img.sedoparking.com/templates/logos/sedo_logo.png",
+        "Language": "th",
+        "Homepage": "http://www.isanfm.com/",
+        "Source1": "http://radio11.plathong.net:8900/stream.mp3"
+    },
+    {
+        "Title": "JS 100",
+        "Country": "Thailand",
+        "Favicon": "https://www.js100.com/asset/site/images/header_logo.png",
+        "Homepage": "https://www.js100.com/en/site/home",
+        "Source1": "http://103.246.19.203:8004/listen.pls?sid=1"
+    },
+    {
+        "Title": "JS100",
+        "Country": "Thailand",
+        "Tags": "traffic,volunteer",
+        "Language": "th",
+        "Homepage": "https://www.js100.com/live",
+        "Source1": "http://103.246.19.203:8004/stream?type=http&nocache=145"
+    },
+    {
+        "Title": "Keangun Radio เขียนกันเรดิโอ",
+        "Country": "Thailand",
+        "Favicon": "https://www.keangun.com/sites/default/files/logo_0_0.png",
+        "Homepage": "https://www.keangun.com/",
+        "Source1": "https://radio9.plathong.net/7054/;stream.mp3"
+    },
+    {
+        "Title": "Keangun Radio เขียนกันเรดิโอ ฟังเพลงสบายสไตล์ร้านกาแฟ ร้านเหล้า ร้านนั่งชิล",
+        "Country": "Thailand",
+        "Tags": "música pop,สตริง,เพลงร่วมสมัย,เพลงใหม่",
+        "Favicon": "https://www.keangun.com/sites/default/files/logo_0_0.png",
+        "Homepage": "https://www.keangun.com/",
+        "Source1": "https://radio9.plathong.net/7054/;stream.mp3"
+    },
+    {
+        "Title": "KRB Radio 1",
+        "Country": "Thailand",
+        "Tags": "blind radio,country music,news",
+        "Favicon": "https://nmab.or.th/wp-content/uploads/2025/03/%E0%B9%82%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89-KRB-Radio-768x768.png",
+        "Language": "th",
+        "Homepage": "https://www.nmab.or.th/radio",
+        "Source1": "https://radio1.ohmi-design.com/8086/;"
+    },
+    {
+        "Title": "KRB Radio 2",
+        "Country": "Thailand",
+        "Tags": "blind radio,country music,news",
+        "Favicon": "https://nmab.or.th/wp-content/uploads/2025/03/%E0%B9%82%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89-KRB-Radio-768x768.png",
+        "Language": "th",
+        "Homepage": "https://www.nmab.or.th/radio",
+        "Source1": "https://nontawat3664.i234.me:8443/stream"
+    },
+    {
+        "Title": "KRB Radio 3",
+        "Country": "Thailand",
+        "Tags": "blind radio,country music,news",
+        "Favicon": "https://nmab.or.th/wp-content/uploads/2025/03/%E0%B9%82%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89-KRB-Radio-768x768.png",
+        "Language": "th",
+        "Homepage": "https://www.nmab.or.th/radio",
+        "Source1": "https://pakeefm.org/stream/300006/"
+    },
+    {
+        "Title": "Looktung Eing",
+        "Country": "Thailand",
+        "Homepage": "https://www.eingdoi.com/looktung",
+        "Source1": "https://inter.lannaradio.com/radio/8000/radio.mp3"
+    },
+    {
+        "Title": "Looktung Eingdoi",
+        "Country": "Thailand",
+        "Homepage": "https://www.eingdoi.com/looktung",
+        "Source1": "https://inter.lannaradio.com/radio/8000/radio.mp3"
+    },
+    {
+        "Title": "Looktung Eingdoi",
+        "Country": "Thailand",
+        "Homepage": "https://www.eingdoi.com/looktung/",
+        "Source1": "https://radio.garden/api/ara/content/listen/8n_MZrpC/channel.mp3"
+    },
+    {
+        "Title": "Looktung Eingdoi",
+        "Country": "Thailand",
+        "Homepage": "http://eingdoi.com/looktung.html",
+        "Source1": "https://inter.lannaradio.com/radio/8000/radio.mp3"
+    },
+    {
+        "Title": "MCOT 100.5",
+        "Country": "Thailand",
+        "Homepage": "https://news1005.mcot.net/",
+        "Latitude": 13.824911923077472,
+        "Longitude": 100.513916015625,
+        "Source1": "https://lcdn.mcot.net/RadioLive/smil:fm1005_live.smil/playlist.m3u8"
+    },
+    {
+        "Title": "MCOT Chumphon (Amphoe Lang Suan) FM 104.75",
+        "Country": "Thailand",
+        "Tags": "local radio,regional radio",
+        "Language": "th",
+        "Homepage": "https://radio.mcot.net/",
+        "Source1": "https://lb-media.mcot.net/RegionRadio/ChumphonLangsuan.stream_aac/playlist.m3u8"
+    },
+    {
+        "Title": "MCOT Loei FM 100.00",
+        "Country": "Thailand",
+        "Tags": "local radio,regional radio",
+        "Language": "th",
+        "Homepage": "https://radio.mcot.net/",
+        "Source1": "https://lb-media.mcot.net/RegionRadio/Loei.stream_aac/playlist.m3u8"
+    },
+    {
+        "Title": "Mcot Radio Buriram 92.0 FM",
+        "Country": "Thailand",
+        "Language": "th",
+        "Homepage": "https://radio.mcot.net/",
+        "Latitude": 14.99460190210596,
+        "Longitude": 103.10761717992536,
+        "Source1": "http://rstream.mcot.net:9050/"
+    },
+    {
+        "Title": "MCOT Radio Chiangmai FM100.75",
+        "Country": "Thailand",
+        "Tags": "mcot,music,news",
+        "Favicon": "https://scontent.fbkk28-1.fna.fbcdn.net/v/t39.30808-6/433227504_933644712102001_2903051028676042960_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=WziA7fVdNa0Q7kNvgGvd01s&_nc_oc=Adi_m9LUyDF0iyO-jY2Z6t-gy3rgxQX9Dey9ZgxsNydxkJ0tVtteIEuxU2eLYjRugGA&_nc_zt=23&_nc_ht=scontent.fbkk28-1.fna&_nc_gid=Albrg9YVo6VNfpUwkbdbAwJ&oh=00_AYBvg9shGSTqUOi6Xv3kaUYy0TcacAyKEYGjliUrJ-Ow2Q&oe=67894AD8",
+        "Language": "th",
+        "Homepage": "https://radio.mcot.net/",
+        "Latitude": 18.79930299460819,
+        "Longitude": 99.02365453227932,
+        "Source1": "https://live-org-01-cdn.mcot.net/RegionRadio/ChiangMai.stream_aac/playlist.m3u8"
+    },
+    {
+        "Title": "MCOT Satellite (Formerly AM 1494)",
+        "Country": "Thailand",
+        "Tags": "satellite",
+        "Language": "th",
+        "Homepage": "http://rstream.mcot.net:8000/status-json.xsl",
+        "Source1": "http://rstream.mcot.net:8000/Radio_Sat"
+    },
+    {
+        "Title": "MCOT อุดรธานี",
+        "Country": "Thailand",
+        "Tags": "อสมท อุดรธานี",
+        "Language": "th",
+        "Homepage": "https://radio.mcot.net/",
+        "Source1": "http://rstream.mcot.net:9044/;.mp3"
+    },
+    {
+        "Title": "Mommaemradio",
+        "Country": "Thailand",
+        "Homepage": "https://www.mommaem.com/",
+        "Source1": "http://112.121.150.133:9386/autodj"
+    },
+    {
+        "Title": "Mommaemradio",
+        "Country": "Thailand",
+        "Homepage": "http://www.mommaem.com/",
+        "Source1": "https://radio.garden/api/ara/content/listen/JQQSk8M9/channel.mp3?r=1&1722272627481"
+    },
+    {
+        "Title": "NBT Central: digital TV channel 11",
+        "Country": "Thailand",
+        "Homepage": "https://www.nbtcentral.com/",
+        "Source1": "https://cdn-edge.iiptvcdn.com/live_event/smil:6ee0-5126-0cee-7ba2-18b7.smil/playlist.m3u8?null"
+    },
+    {
+        "Title": "NBT North Ease: digital TV channel 11",
+        "Country": "Thailand",
+        "Language": "th",
+        "Homepage": "https://prdee.prd.go.th/viewmore/livechannel",
+        "Source1": "https://cdn-edge.iiptvcdn.com/live_event/smil:98ff-027d-46aa-1a6a-8480.smil/playlist.m3u8?null"
+    },
+    {
+        "Title": "NBT North: digital TV channel 11",
+        "Country": "Thailand",
+        "Language": "th",
+        "Homepage": "https://prdee.prd.go.th/live/63be96b33c46d20012856885",
+        "Source1": "https://cdn-edge.iiptvcdn.com/live_event/smil:4f6e-aa34-2034-5492-c82d.smil/playlist.m3u8?null"
+    },
+    {
+        "Title": "NBT South: digital tv channel 11",
+        "Country": "Thailand",
+        "Language": "th",
+        "Homepage": "https://prdee.prd.go.th/live/63be969a3c46d20012856879",
+        "Source1": "https://cdn-edge.iiptvcdn.com/live_event/smil:a834-75a7-a662-db55-5fa3.smil/playlist.m3u8?null"
+    },
+    {
+        "Title": "NBT2HD",
+        "Country": "Thailand",
+        "Tags": "government,news,thailand",
+        "Favicon": "https://nbt2hd.prd.go.th/th/file/get/file/20250426cd13a0bc7debcb7df74d2f8c3d183858103515.jpg",
+        "Language": "en,th",
+        "Homepage": "https://nbt2hd.prd.go.th/",
+        "Source1": "https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/playlist.m3u8"
+    },
+    {
+        "Title": "One31: digital TV channel 31",
+        "Country": "Thailand",
+        "Homepage": "https://www.one31.net/",
+        "Source1": "https://fastly.live.brightcove.com/6393158620112/ap-southeast-1/6415628290001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicWN6dGF6LmVncmVzcy5wcHRpOHciLCJhY2NvdW50X2lkIjoiNjQxNTYyODI5MDAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE1NjI4MjkwMDAxIl0sImp0aSI6IjYzOTMxNTg2MjAxMTIifQ.Pv-kHDlJaV05HiJ2AQmS3PnV2ZQg7ovszKptAGg1EN0/playlist-hls.m3u8"
+    },
+    {
+        "Title": "Phuket LIVE 89.5",
+        "Country": "Thailand",
+        "Homepage": "https://www.thephuketnews.com/",
+        "Source1": "https://4118.radio4.thzhost.com/"
+    },
+    {
+        "Title": "Rad Radio",
+        "Country": "Thailand",
+        "Tags": "music nonstop all day all night",
+        "Language": "th",
+        "Homepage": "https://mytuner-radio.com/radio/rad-radio-895-483972/",
+        "Source1": "http://radio1.serverradio.net:8592/;?type=http"
+    },
+    {
+        "Title": "Radio Red Phuket",
+        "Country": "Thailand",
+        "Tags": "afro-pop,dance,lounge,pop",
+        "Favicon": "https://radioredphuket.com/wp-content/uploads/2025/01/logo-red.png.png",
+        "Language": "en,th",
+        "Homepage": "https://radioredphuket.com/",
+        "Latitude": 7.543435254790085,
+        "Longitude": 99.06166076660158,
+        "Source1": "https://stream.chiliradio.app/radiored"
+    },
+    {
+        "Title": "Radio Samui",
+        "Country": "Thailand",
+        "Tags": "dj sets,hits,world music",
+        "Favicon": "https://radiosamui.online/assets/favicon.png",
+        "Language": "en",
+        "Homepage": "https://radiosamui.online/",
+        "Latitude": 9.517690980804574,
+        "Longitude": 99.990234375,
+        "Source1": "https://stream.mixadance.fm/radiosamui"
+    },
+    {
+        "Title": "Radio Samui Online",
+        "Country": "Thailand",
+        "Tags": "chillout,deep house,jazz,lounge music,organic house,progressive house,relax",
+        "Language": "en",
+        "Homepage": "https://radiosamui.online/",
+        "Source1": "https://stream.mixadance.fm/radiosamui"
+    },
+    {
+        "Title": "requestradio",
+        "Country": "Thailand",
+        "Language": "th",
+        "Homepage": "https://.requestradio.in.th/",
+        "Source1": "http://27.254.142.208:8300/;"
+    },
+    {
+        "Title": "RequestRadio Dance",
+        "Country": "Thailand",
+        "Tags": "dance,remixes",
+        "Favicon": "https://www.requestradio.in.th/danceremix/wp-content/uploads/2016/07/cropped-icon-150x150.png",
+        "Language": "th",
+        "Homepage": "https://www.requestradio.in.th/danceremix",
+        "Source1": "https://cast.requestradio.in.th:850//stream/3"
+    },
+    {
+        "Title": "RequestRadio Inter",
+        "Country": "Thailand",
+        "Tags": "world music",
+        "Language": "th",
+        "Homepage": "https://www.requestradio.in.th/inter",
+        "Source1": "https://cast.requestradio.in.th:840//stream/3"
+    },
+    {
+        "Title": "requestradio String",
+        "Country": "Thailand",
+        "Source1": "https://cast.requestradio.in.th:2199/tunein/shoutcast1.pls"
+    },
+    {
+        "Title": "RequestRadio เพื่อชีวิต",
+        "Country": "Thailand",
+        "Tags": "country,for life",
+        "Favicon": "https://www.requestradio.in.th/favicon.ico",
+        "Language": "th",
+        "Homepage": "https://www.requestradio.in.th/forlife",
+        "Source1": "https://cast.requestradio.in.th:830/stream/"
+    },
+    {
+        "Title": "requestradio/looktung/",
+        "Country": "Thailand",
+        "Favicon": "https://www.requestradio.in.th/looktung/wp-content/uploads/2017/10/cropped-icon-150x150.png",
+        "Language": "th",
+        "Homepage": "https://www.requestradio.in.th/looktung/",
+        "Source1": "http://27.254.142.208:8300/"
+    },
+    {
+        "Title": "Smooth 105.5 (RStream)",
+        "Country": "Thailand",
+        "Tags": "1980's,1990's,bossa,international hits,jazz,soundtracks",
+        "Favicon": "https://smoothfm.mcot.net/wp-content/uploads/2024/03/94.74.118.39-1055-logo.png",
+        "Language": "th",
+        "Homepage": "https://smoothfm.mcot.net/",
+        "Source1": "http://rstream.mcot.net:8000/fm1055"
+    },
+    {
+        "Title": "sunshine radio Pattaya",
+        "Country": "Thailand",
+        "Language": "th",
+        "Homepage": "https://www.sunshinefm.com/",
+        "Source1": "https://cdn-th2.login.in.th/shoutcast/8030"
+    },
+    {
+        "Title": "Surf Radio",
+        "Country": "Thailand",
+        "Tags": "pop,pop rock",
+        "Favicon": "https://surf.radio/favicon.ico",
+        "Homepage": "https://surf.radio/",
+        "Source1": "https://stream.surf.radio/surf1025"
+    },
+    {
+        "Title": "talay 90.25FM",
+        "Country": "Thailand",
+        "Favicon": "https://static.mytuner.mobi/media/tvos_radios/272/talay-9025.c2ab9312.png",
+        "Language": "th",
+        "Homepage": "https://www.facebook.com/Talay90.25/",
+        "Latitude": 12.57681412480778,
+        "Longitude": 99.94791669276093,
+        "Source1": "https://stream.talay.asia/talay"
+    },
+    {
+        "Title": "Thai PBS TV",
+        "Country": "Thailand",
+        "Language": "th",
+        "Homepage": "http://www.thaipbs.or.th/",
+        "Source1": "http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8"
+    },
+    {
+        "Title": "Thai TV 5 HD",
+        "Country": "Thailand",
+        "Homepage": "https://thaitv5hd.com/live/",
+        "Source1": "https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8"
+    },
+    {
+        "Title": "ThaiRadio 96.5 thinking",
+        "Country": "Thailand",
+        "Homepage": "https://www.mcot.net/",
+        "Latitude": 13.73013030785206,
+        "Longitude": 100.46722412109376,
+        "Source1": "https://live-org-01-cdn.mcot.net/radiocdn_edge/fm965.stream_aac/chunklist.m3u8"
+    },
+    {
+        "Title": "Top News",
+        "Country": "Thailand",
+        "Tags": "hls video,news,politics & current affairs,tv",
+        "Favicon": "https://images.topnews.co.th/2024/05/cropped-logo-only-o-180x180.png?x-image-process=style/webp",
+        "Language": "th",
+        "Homepage": "https://www.topnews.co.th/",
+        "Source1": "https://live.topnews.co.th/hls/topnews.m3u8"
+    },
+    {
+        "Title": "Top News (Live1 - Low 240p)",
+        "Country": "Thailand",
+        "Tags": "hls video,news,political,politics,politics & current affairs,tv",
+        "Favicon": "https://images.topnews.co.th/2024/05/k1LkuFWT-logo.png",
+        "Language": "th",
+        "Homepage": "https://www.topnews.co.th/#live-section",
+        "Source1": "https://live.topnews.co.th/hls/topnews_a_240.m3u8"
+    },
+    {
+        "Title": "Top News (Mobile Stream)",
+        "Country": "Thailand",
+        "Tags": "hls video,news,news talk,politics,politics & current affairs,tv",
+        "Favicon": "https://images.topnews.co.th/2022/07/logo_top-news-online-425x107.png",
+        "Language": "th",
+        "Homepage": "https://www.topnews.co.th/",
+        "Source1": "https://live3.topnews.co.th/hls/mobile_v1.m3u8"
+    },
+    {
+        "Title": "TP TV channel: digital TV channel 10",
+        "Country": "Thailand",
+        "Language": "th",
+        "Homepage": "https://www.tpchannel.org/",
+        "Source1": "https://tv-live.tpchannel.org/live/tv.m3u8"
+    },
+    {
+        "Title": "true4u: digital TV channel 24",
+        "Country": "Thailand",
+        "Language": "th",
+        "Homepage": "https://true4u.com/tag/%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A7/",
+        "Source1": "https://true4u-p4ljv2.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=fleet-1890&x_ark_auth_type=ark-v2&x_ark_expires=1787828398&x_ark_path_prefix=%2Flive%2F&x_ark_signature=EQXEE09LIokrTVOENMENDQ"
+    },
+    {
+        "Title": "Voice of Navy FM 88.5 MHz.",
+        "Country": "Thailand",
+        "Language": "th",
+        "Homepage": "https://www.voiceofnavy.com/",
+        "Source1": "http://rcp.plathong.net:7346/"
+    },
+    {
+        "Title": "VYBE 103.5 ลำปาง",
+        "Country": "Thailand",
+        "Language": "th",
+        "Homepage": "https://vybethailand.com/",
+        "Source1": "https://radio9.plathong.net/7076"
+    },
+    {
+        "Title": "Yesterday 106.5",
+        "Country": "Thailand",
+        "Homepage": "http://www.niyamedia.com/",
+        "Source1": "http://radio4.thzhost.com:4122/"
+    },
+    {
+        "Title": "ช่อง 3: digital TV channel 33",
+        "Country": "Thailand",
+        "Language": "th",
+        "Homepage": "https://ch3plus.com/live",
+        "Source1": "https://ch3-33-web.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=D78MkxZFEr5Zr9PE&x_ark_auth_type=ark-v2&x_ark_expires=1787846616&x_ark_max_resolution=720p&x_ark_path_prefix=/live/&x_ark_signature=dRBrTed4QOEorAdj-qarwQ"
+    },
+    {
+        "Title": "ช่อง 9 MCOT HD: digital TV channel 30",
+        "Country": "Thailand",
+        "Language": "th",
+        "Homepage": "https://tv.mcot.net/tv/th",
+        "Source1": "https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/playlist.m3u8"
+    },
+    {
+        "Title": "บ้านธัมมะ",
+        "Country": "Thailand",
+        "Tags": "มูลนิธิศึกษาและเผยแพร่พระพุทธศาสนา",
+        "Language": "th",
+        "Homepage": "https://www.dhammahome.com/radio/direct",
+        "Latitude": 13.696218031027946,
+        "Longitude": 100.48633153506672,
+        "Source1": "https://radio10.plathong.net/7238/;stream.mp3"
+    },
+    {
+        "Title": "มิติข่าว 90.5",
+        "Country": "Thailand",
+        "Tags": "news,news talk",
+        "Language": "th",
+        "Homepage": "http://www.smartbomb.co.th/",
+        "Source1": "http://live3.smartbomb.co.th:8624/;stream.mp3"
+    },
+    {
+        "Title": "ลานนาเรดิโอ",
+        "Country": "Thailand",
+        "Tags": "music",
+        "Favicon": "https://www.lannaradio.com/favicon.ico",
+        "Language": "th",
+        "Homepage": "https://www.lannaradio.com/",
+        "Source1": "https://inter.lannaradio.com/radio/8000/radio.mp3"
+    },
+    {
+        "Title": "ลูกทุ่ง รักไทย ๙๐",
+        "Country": "Thailand",
+        "Tags": "music",
+        "Language": "th",
+        "Homepage": "http://www.90rakthai.com/",
+        "Source1": "http://radio11.plathong.net:8896/;stream.mp3"
+    },
+    {
+        "Title": "ลูกทุ่งเน็ตเวิร์ค",
+        "Country": "Thailand",
+        "Tags": "ลูกทุ่ง ทั้งวัน ทังคืน",
+        "Language": "th",
+        "Homepage": "http://looktung.net/",
+        "Source1": "http://media.login.in.th:8200/;stream.mp3"
+    },
+    {
+        "Title": "ลูกทุ่งแม็กซาโก้https://thainetradio.com:8014",
+        "Country": "Thailand",
+        "Language": "th",
+        "Homepage": "https://thainetradio.com:8014/",
+        "Source1": "https://thainetradio.com:8014/"
+    },
+    {
+        "Title": "ล้านนา เรดิโอ",
+        "Country": "Thailand",
+        "Tags": "ลูกทุ่ง เพื่อชีวิต",
+        "Language": "th",
+        "Homepage": "https://www.lannaradio.com/",
+        "Source1": "https://inter.lannaradio.com/radio/8000/radio.mp3"
+    },
+    {
+        "Title": "วพท. am 792KHZ กรุงเทพฯ",
+        "Country": "Thailand",
+        "Homepage": "http://www.radio792.org/",
+        "Source1": "https://radio9.plathong.net/7162/;"
+    },
+    {
+        "Title": "วัดปากบ่อ",
+        "Country": "Thailand",
+        "Tags": "fm 91.75 mhz",
+        "Language": "th",
+        "Homepage": "http://www.watpakbo.com/",
+        "Source1": "http://radio1.siamlivehost.com:8001/;"
+    },
+    {
+        "Title": "วัดป่าไทรงาม",
+        "Country": "Thailand",
+        "Tags": "วัดป่าไทรงาม กำแพงเพชร (fm 98.25 mhz)",
+        "Language": "th",
+        "Homepage": "http://www.watpasaingam.com/",
+        "Source1": "https://radio10.plathong.net/7110/;stream.mp3"
+    },
+    {
+        "Title": "วิทยุวัดนายโรง",
+        "Country": "Thailand",
+        "Tags": "fm 94.75",
+        "Language": "th",
+        "Homepage": "https://watnairong.com/",
+        "Source1": "http://103.7.56.219:4106/"
+    },
+    {
+        "Title": "วิทยุเสียงอิสลาม",
+        "Country": "Thailand",
+        "Language": "th",
+        "Homepage": "https://muslim.fm/",
+        "Latitude": 13.740985851385403,
+        "Longitude": 100.51702855098144,
+        "Source1": "https://radio12.plathong.net/7234/;stream.mp3"
+    },
+    {
+        "Title": "สถานีวิทยุกระจายเสียงแห่งประเทศไทย (AM 891 KHz)",
+        "Country": "Thailand",
+        "Favicon": "https://nbtplus.prd.go.th/assets/image/logo.png",
+        "Homepage": "https://nbtplus.prd.go.th/radio",
+        "Source1": "https://cdn-edge.iiptvcdn.com/radio_edge/51dd-90a9-c6ae-c7f7-49d4/playlist.m3u8"
+    },
+    {
+        "Title": "สถานีวิทยุกระจายเสียงแห่งประเทศไทย (FM 92.5 MHz)",
+        "Country": "Thailand",
+        "Favicon": "https://nbtplus.prd.go.th/assets/image/logo.png",
+        "Language": "th",
+        "Homepage": "https://nbtplus.prd.go.th/radio",
+        "Latitude": 13.782050303781594,
+        "Longitude": 100.5595816178889,
+        "Source1": "https://cdn-edge.iiptvcdn.com/radio_edge/45d4-d521-cbfc-d686-0123/playlist.m3u8"
+    },
+    {
+        "Title": "สถานีวิทยุจังหวัดทหารบกลพบุรี AM 1197 KHz. Stereo",
+        "Country": "Thailand",
+        "Tags": "country,local radio,news",
+        "Language": "th",
+        "Homepage": "https://mdr13.ddns.net/",
+        "Latitude": 14.800647785965667,
+        "Longitude": 100.64289271831514,
+        "Source1": "https://mdr13.ddns.net/radio/am1197"
+    },
+    {
+        "Title": "สวพ.91",
+        "Country": "Thailand",
+        "Tags": "traffic,volunteer",
+        "Favicon": "http://fm91bkk.com/favicon.ico",
+        "Language": "th",
+        "Homepage": "http://fm91bkk.com/",
+        "Source1": "http://122.155.16.48:8955/;stream.mp3"
+    },
+    {
+        "Title": "สังฆทานธรม",
+        "Country": "Thailand",
+        "Tags": "คลื่นขาว จาก ชาวพุทธ",
+        "Language": "th",
+        "Homepage": "https://www.watsanghathan.com/content/5406/%E0%B8%AA%E0%B8%96%E0%B8%B2%E0%B8%99%E0%B8%B5%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B8%B8%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%86%E0%B8%97%E0%B8%B2%E0%B8%99%E0%",
+        "Source1": "https://cdn-th2.livestreaming.in.th/shoutcast/8615"
+    },
+    {
+        "Title": "สังฆทานธรรม",
+        "Country": "Thailand",
+        "Tags": "สังฆทานธรรม คลื่นขาว จาก ชาวพุทธ",
+        "Language": "th",
+        "Homepage": "https://www.watsanghathan.com/content/5406/%E0%B8%AA%E0%B8%96%E0%B8%B2%E0%B8%99%E0%B8%B5%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B8%B8%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%86%E0%B8%97%E0%B8%B2%E0%B8%99%E0%",
+        "Source1": "https://cdn-th2.livestreaming.in.th/shoutcast/8615"
+    },
+    {
+        "Title": "เพื่อชีวิต",
+        "Country": "Thailand",
+        "Source1": "https://cast.requestradio.in.th:830/stream/"
+    },
+    {
+        "Title": "ไทยลานนาเรดิโอ FM 106.5 จังหวัดตาก",
+        "Country": "Thailand",
+        "Tags": "country,hits 90's,indie,looktung,thailanna,top 40",
+        "Favicon": "https://www.lannaradio.com/favicon.ico",
+        "Language": "th",
+        "Homepage": "https://www.lannaradio.com/",
+        "Source1": "https://inter.lannaradio.com/radio/8000/radio.mp3"
+    }
+]

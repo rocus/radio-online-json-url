@@ -1,0 +1,100 @@
+[
+    {
+        "Title": "102.5 FM Voice of Guyana",
+        "Country": "Guyana",
+        "Favicon": "https://ncnguyana.com/2023/wp-content/uploads/2023/08/vog-155x155.png",
+        "Homepage": "https://ncnguyana.com/2023/vogradio/",
+        "Latitude": 6.802948713457344,
+        "Longitude": -58.141188025474555,
+        "Source1": "https://cast4.asurahosting.com/proxy/ncn1025/stream"
+    },
+    {
+        "Title": "104.1 Guyana Lite FM",
+        "Country": "Guyana",
+        "Favicon": "https://www.facebook.com/photo/?fbid=388528319933559&set=a.388528296600228",
+        "Homepage": "https://www.facebook.com/guyanalitefm/",
+        "Latitude": 6.807977044142409,
+        "Longitude": -58.16034436225892,
+        "Source1": "https://n08.radiojar.com/nh42m158d4duv?rj-ttl=5&rj-tok=AAABlyfWxAgAw4EgJHYs7gEKgA"
+    },
+    {
+        "Title": "88.5 Rock FM",
+        "Country": "Guyana",
+        "Tags": "berbice,caribbean,guyana,new amsterdam,pop,reggae,rock,soca,talk",
+        "Favicon": "https://images.radio.co/station_logos/s77716fe53.20250819042414.jpg",
+        "Language": "en",
+        "Homepage": "https://885rockfm.com/",
+        "Latitude": 6.2489,
+        "Longitude": -57.5171,
+        "Source1": "https://s2.radio.co/s77716fe53/listen"
+    },
+    {
+        "Title": "97.5 FM MAAD",
+        "Country": "Guyana",
+        "Favicon": "https://www.maad97.com/favicon.ico",
+        "Homepage": "https://www.maad97.com/",
+        "Latitude": 6.817873752943264,
+        "Longitude": -58.16073060035706,
+        "Source1": "https://streaming.broadcastradio.com/brutal"
+    },
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "Guyana",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "chwitiweb-new",
+        "Country": "Guyana",
+        "Homepage": "https://chwitiweb.com/",
+        "Source1": "https://radio.chwitiweb.com/listen/chwitiweb/radio.mp3"
+    },
+    {
+        "Title": "FM 89.1 NTN Radio",
+        "Country": "Guyana",
+        "Favicon": "https://www.facebook.com/photo/?fbid=584085576742403&set=a.584085550075739",
+        "Homepage": "https://www.facebook.com/people/National-Television-Network-TVRadio-891-FM/100054228980719/",
+        "Source1": "https://auds1.intacs.com/ntnradio"
+    },
+    {
+        "Title": "GoMoseley Radio",
+        "Country": "Guyana",
+        "Favicon": "https://gomoseleyradio.com/logo-v2.png",
+        "Homepage": "https://gomoseleyradio.com/",
+        "Source1": "https://a2.asurahosting.com:8010/radio.mp3"
+    },
+    {
+        "Title": "HJ94.1 Boom FM Georgetown",
+        "Country": "Guyana",
+        "Tags": "bollywood,caribbean music,local music",
+        "Language": "en",
+        "Homepage": "http://www.hj941.com/",
+        "Source1": "http://192.99.8.192:3630/stream"
+    },
+    {
+        "Title": "n1chwitiweb",
+        "Country": "Guyana",
+        "Homepage": "https://radio.chwitiweb.com/",
+        "Source1": "https://radio.chwitiweb.com/listen/chwitiweb/radio.mp3"
+    },
+    {
+        "Title": "NTN Radio 89.1 Georgetown",
+        "Country": "Guyana",
+        "Tags": "bollywood,georgetown,south asian music",
+        "Language": "en",
+        "Homepage": "http://ntntv-radio.com/",
+        "Source1": "http://auds1.intacs.com/ntnradio"
+    },
+    {
+        "Title": "Radio Guyana Inc - Georgetown 89.5 FM | Essequibo 89.3 FM | Berbice 89.7 FM",
+        "Country": "Guyana",
+        "Tags": "89.3 fm,89.5 fm,89.7 fm,berbice,essequibo,estación,fm,georgetown,guyana,moi merino,radio,radio guyana inc,suramérica",
+        "Language": "en",
+        "Homepage": "https://rgi89fm.com/",
+        "Latitude": 6.816290186796732,
+        "Longitude": -58.16222190856934,
+        "Source1": "https://stream.radio.co/s9668e2ab5/listen"
+    }
+]

@@ -1,0 +1,796 @@
+[
+    {
+        "Title": "-=PoWeR=-",
+        "Country": "Lithuania",
+        "Language": "en,lt,ru",
+        "Homepage": "https://powerradio.webstarts.com/",
+        "Source1": "https://cast1.my-control-panel.com/stream/eventas/stream.pls"
+    },
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "Lithuania",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "Audiomastering.lt",
+        "Country": "Lithuania",
+        "Homepage": "https://radio.audiomastering.lt/",
+        "Source1": "http://radio.audiomastering.lt:8000/hq"
+    },
+    {
+        "Title": "Cold Tear Radio",
+        "Country": "Lithuania",
+        "Favicon": "https://th.bing.com/th/id/OIP.0bD3EllJGSWsRQhdkQGuygHaL9?pid=ImgDet",
+        "Homepage": "https://radio.coldtear.com/",
+        "Source1": "https://radio.rad10x.com/listen/coldtear/coldtear.mp3"
+    },
+    {
+        "Title": "DomantasFM",
+        "Country": "Lithuania",
+        "Homepage": "https://radio.domkutis.com/",
+        "Source1": "https://radio.domkutis.com/listen/domantasfm/radio.mp3"
+    },
+    {
+        "Title": "Easy FM",
+        "Country": "Lithuania",
+        "Tags": "classic rock,jazz,lounge,smooth jazz",
+        "Language": "en,lt",
+        "Homepage": "https://www.ziniuradijas.lt/easy-fm/",
+        "Source1": "https://netradio.ziniur.lt/easyfm.mp3"
+    },
+    {
+        "Title": "estakada99",
+        "Country": "Lithuania",
+        "Tags": "24/7,alternative,community radio,experimental,non-profit,weird",
+        "Language": "en,lt",
+        "Homepage": "https://e99.live/",
+        "Source1": "https://live.e99.live/main"
+    },
+    {
+        "Title": "European Hit Radio",
+        "Country": "Lithuania",
+        "Homepage": "https://europeanhitradio.lt/",
+        "Source1": "https://stream.ehr.lt:8443/ehr"
+    },
+    {
+        "Title": "Fred Film Radio-24 lietuvių kalba",
+        "Country": "Lithuania",
+        "Tags": "film",
+        "Language": "lt",
+        "Homepage": "https://www.fred.fm/",
+        "Source1": "https://s10.webradio-hosting.com/proxy/fredradiolt/stream"
+    },
+    {
+        "Title": "Fréquence Protestante",
+        "Country": "Lithuania",
+        "Favicon": "https://frequenceprotestante.com/wp-content/uploads/2022/01/icon_player.png",
+        "Homepage": "https://frequenceprotestante.com/",
+        "Source1": "https://freqpro.streamakaci.com/frequenceprotestante.mp3"
+    },
+    {
+        "Title": "Geras FM",
+        "Country": "Lithuania",
+        "Favicon": "https://www.gerasfm.lt/wp-content/uploads/2018/07/cropped-gerasfm-192x192.png",
+        "Language": "lt",
+        "Homepage": "https://www.gerasfm.lt/",
+        "Source1": "http://stream.goldfm.lt/gerasfm.aac"
+    },
+    {
+        "Title": "Geras2 FM",
+        "Country": "Lithuania",
+        "Homepage": "http://www.gerasfm.lt/",
+        "Source1": "https://stream.goldfm.lt/gerasfm.mp3"
+    },
+    {
+        "Title": "Gold FM",
+        "Country": "Lithuania",
+        "Favicon": "https://goldfm.lt/wp-content/uploads/2020/12/Gold_pilnas-300x136.png",
+        "Homepage": "https://goldfm.lt/",
+        "Source1": "https://stream.goldfm.lt/goldfm.aac.xspf"
+    },
+    {
+        "Title": "Gold FM",
+        "Country": "Lithuania",
+        "Homepage": "http://goldfm.lt/",
+        "Source1": "https://stream.goldfm.lt/goldfm.mp3"
+    },
+    {
+        "Title": "GoldFM",
+        "Country": "Lithuania",
+        "Homepage": "https://goldfm.lt/",
+        "Source1": "https://stream.goldfm.lt/goldfm.aac.xspf"
+    },
+    {
+        "Title": "KAB Radio",
+        "Country": "Lithuania",
+        "Homepage": "https://zeno.fm/radio/kabradio/",
+        "Source1": "https://node-25.zeno.fm/29xtapvkzhhvv"
+    },
+    {
+        "Title": "Kapsai",
+        "Country": "Lithuania",
+        "Tags": "pop music",
+        "Homepage": "https://www.facebook.com/radijaskapsai/",
+        "Source1": "http://91.211.246.42:8000/Kapsai-HD"
+    },
+    {
+        "Title": "Kelyje Kaunas",
+        "Country": "Lithuania",
+        "Homepage": "https://www.radijaskelyje.lt/",
+        "Source1": "http://212.95.45.82:8014/stream"
+    },
+    {
+        "Title": "Kelyje Klaipėda",
+        "Country": "Lithuania",
+        "Homepage": "https://www.radijaskelyje.lt/",
+        "Source1": "http://212.95.45.82:8024/stream"
+    },
+    {
+        "Title": "Laluna [AAC]",
+        "Country": "Lithuania",
+        "Tags": "uab radijo stotis laluna",
+        "Favicon": "http://laluna.lt/favicon.ico",
+        "Language": "lt",
+        "Homepage": "http://laluna.lt/",
+        "Source1": "http://stream.laluna.lt/laluna/high.m3u"
+    },
+    {
+        "Title": "Laluna [MP3]",
+        "Country": "Lithuania",
+        "Tags": "uab radijo stotis laluna",
+        "Favicon": "http://laluna.lt/favicon.ico",
+        "Language": "lt",
+        "Homepage": "http://laluna.lt/",
+        "Source1": "http://stream.laluna.lt/laluna/mp3.m3u"
+    },
+    {
+        "Title": "Leproradio",
+        "Country": "Lithuania",
+        "Favicon": "https://leproradio.com/static/img/icon90.png",
+        "Homepage": "https://leproradio.com/",
+        "Source1": "https://live.leproradio.com/bender.ogg"
+    },
+    {
+        "Title": "LRT Klasika",
+        "Country": "Lithuania",
+        "Favicon": "https://www.lrt.lt/favicon.ico",
+        "Homepage": "https://www.lrt.lt/mediateka/tiesiogiai/lrt-klasika",
+        "Source1": "https://stream-live.lrt.lt/klasika/master.m3u8"
+    },
+    {
+        "Title": "LRT Opus",
+        "Country": "Lithuania",
+        "Favicon": "https://www.lrt.lt/favicon.ico",
+        "Homepage": "https://www.lrt.lt/mediateka/tiesiogiai/lrt-opus",
+        "Source1": "https://stream-live.lrt.lt/opus/master.m3u8"
+    },
+    {
+        "Title": "LRT Radijas",
+        "Country": "Lithuania",
+        "Favicon": "https://www.lrt.lt/favicon.ico",
+        "Homepage": "https://www.lrt.lt/mediateka/tiesiogiai/lrt-radijas",
+        "Source1": "https://stream-live.lrt.lt/radijas/master.m3u8"
+    },
+    {
+        "Title": "LRT Radijas",
+        "Country": "Lithuania",
+        "Tags": "local news,local news weather,music,news",
+        "Language": "lt",
+        "Homepage": "https://www.lrt.lt/",
+        "Latitude": 54.629338216555766,
+        "Longitude": 25.285034179687504,
+        "Source1": "https://lrt-cast.lrt.lt/lrt_radijas"
+    },
+    {
+        "Title": "lsg radijas",
+        "Country": "Lithuania",
+        "Tags": "random",
+        "Favicon": "https://streamingp.shoutcast.com/JamendoLounge?lang=lt%3bq%3d0.9",
+        "Homepage": "https://streamingp.shoutcast.com/JamendoLounge?lang=lt%3bq%3d0.9",
+        "Source1": "https://streamingp.shoutcast.com/JamendoLounge?lang=lt%3bq%3d0.9"
+    },
+    {
+        "Title": "m-1",
+        "Country": "Lithuania",
+        "Homepage": "http://m-1.lt/",
+        "Latitude": 55.2921521531026,
+        "Longitude": 24.048679671017982,
+        "Source1": "https://stream.m-1.fm/lietus/MP3320.m3u"
+    },
+    {
+        "Title": "M-1 [AAC]",
+        "Country": "Lithuania",
+        "Tags": "uab m-1",
+        "Language": "lt",
+        "Homepage": "http://www.m-1.fm/",
+        "Source1": "http://stream.m-1.fm/M-1aacp"
+    },
+    {
+        "Title": "M-1 Dance",
+        "Country": "Lithuania",
+        "Homepage": "https://radio.m-1.fm/m-1dance/aac",
+        "Source1": "https://radio.m-1.fm/m-1dance/aac"
+    },
+    {
+        "Title": "M-1 Plius",
+        "Country": "Lithuania",
+        "Homepage": "https://www.pliusas.fm/",
+        "Source1": "https://radio.m-1.fm/m1plius/aacp64"
+    },
+    {
+        "Title": "M-1 Plius",
+        "Country": "Lithuania",
+        "Tags": "uab m-1",
+        "Language": "lt",
+        "Homepage": "http://www.pliusas.fm/",
+        "Source1": "http://radio.m-1.fm/m1plius/mp3"
+    },
+    {
+        "Title": "Mano",
+        "Country": "Lithuania",
+        "Homepage": "http://klausyk.manofm.lt:8000/Icecast2",
+        "Source1": "http://klausyk.manofm.lt:8000/Icecast2"
+    },
+    {
+        "Title": "Mano FM",
+        "Country": "Lithuania",
+        "Homepage": "http://klausyk.manofm.lt:8000/Icecast2",
+        "Source1": "http://klausyk.manofm.lt:8000/Icecast2"
+    },
+    {
+        "Title": "MANO FM",
+        "Country": "Lithuania",
+        "Language": "lt",
+        "Homepage": "http://manofm.lt/new/",
+        "Source1": "http://klausyk.manofm.lt:8000/Icecast2"
+    },
+    {
+        "Title": "MANO FM LT",
+        "Country": "Lithuania",
+        "Language": "lt",
+        "Homepage": "http://manofm.lt/new/",
+        "Source1": "http://stream.manofm.lt/listen?"
+    },
+    {
+        "Title": "Mantinho Dance Pulse FM",
+        "Country": "Lithuania",
+        "Favicon": "https://mantinhodancepulsefm.com/wp-content/uploads/2020/06/download.png",
+        "Homepage": "https://mantinhodancepulsefm.com/",
+        "Source1": "https://mira.streamerr.co/listen/mantinhodancepulsefm/radio.aac"
+    },
+    {
+        "Title": "Marijos radijas",
+        "Country": "Lithuania",
+        "Tags": "christian",
+        "Language": "lt",
+        "Homepage": "http://www.marijosradijas.lt/",
+        "Source1": "http://stream.marijosradijas.lt:8001/marijosradijas.mp3"
+    },
+    {
+        "Title": "Marso Radijas",
+        "Country": "Lithuania",
+        "Tags": "variuos topics",
+        "Homepage": "https://marsas.me/",
+        "Source1": "https://radijas.marsas.me/live"
+    },
+    {
+        "Title": "Mazeikiai FM",
+        "Country": "Lithuania",
+        "Tags": "pop music",
+        "Homepage": "https://www.facebook.com/Mazeikiai.FM/",
+        "Source1": "http://91.211.246.42:8000/Mazeikiai"
+    },
+    {
+        "Title": "Mažeikių Aidas",
+        "Country": "Lithuania",
+        "Language": "lt",
+        "Source1": "http://maidas.kli.lt:8000/admin.mp3"
+    },
+    {
+        "Title": "Neringa FM",
+        "Country": "Lithuania",
+        "Tags": "university radio",
+        "Source1": "http://radio.15min.lt:8000/neringafm"
+    },
+    {
+        "Title": "Neringa fm *",
+        "Country": "Lithuania",
+        "Favicon": "http://185.11.24.72:8000/neringafm",
+        "Homepage": "https://neringafm.lt/listen-neringa-fm-online/",
+        "Source1": "http://185.11.24.72:8000/neringafm"
+    },
+    {
+        "Title": "NeringaFM",
+        "Country": "Lithuania",
+        "Tags": "electronic",
+        "Source1": "http://185.11.24.72:8000/neringafm"
+    },
+    {
+        "Title": "Palanga Street Radio",
+        "Country": "Lithuania",
+        "Tags": "eclectic",
+        "Favicon": "https://palanga.live/assets/favicons/apple-icon-120x120.png",
+        "Language": "en",
+        "Homepage": "https://palanga.live/",
+        "Source1": "https://stream.palanga.live:8443/palanga128.mp3"
+    },
+    {
+        "Title": "Patejago",
+        "Country": "Lithuania",
+        "Homepage": "https://stream-46.zeno.fm/f6m1zbud5p8uv",
+        "Source1": "https://stream-46.zeno.fm/f6m1zbud5p8uv"
+    },
+    {
+        "Title": "Play Radio",
+        "Country": "Lithuania",
+        "Homepage": "https://n08.radiojar.com/d9cm273ystzuv",
+        "Source1": "https://n08.radiojar.com/d9cm273ystzuv"
+    },
+    {
+        "Title": "PMR",
+        "Country": "Lithuania",
+        "Tags": "world music",
+        "Favicon": "https://pmr.lt/favicons/favicon-194x194.png",
+        "Homepage": "https://pmr.lt/",
+        "Source1": "https://pmr.lt/streams/pmr.m3u"
+    },
+    {
+        "Title": "pmr.lt - world music radio",
+        "Country": "Lithuania",
+        "Tags": "world music",
+        "Favicon": "https://pmr.lt/favicons/favicon-144x144.png",
+        "Homepage": "https://pmr.lt/",
+        "Source1": "http://pmr.lt/streams/pmr-1"
+    },
+    {
+        "Title": "Power 97.9",
+        "Country": "Lithuania",
+        "Tags": "dj mixes,dj remix,mix,mixed",
+        "Language": "en",
+        "Homepage": "https://powerfm.zygmediagroup.com/",
+        "Source1": "https://azuracast.obsidianhost.net/listen/power_97.9/radio.mp3"
+    },
+    {
+        "Title": "Power Gold",
+        "Country": "Lithuania",
+        "Favicon": "https://cdn.onlineradiobox.com/img/l/8/117328.v2.png",
+        "Language": "lt",
+        "Homepage": "https://powerhitradio.lt/",
+        "Source1": "https://stream.powerhitradio.lt/PHR_GOLD_AAC"
+    },
+    {
+        "Title": "Power Hit Radio LT",
+        "Country": "Lithuania",
+        "Tags": "dance",
+        "Favicon": "null",
+        "Language": "lt",
+        "Homepage": "https://powerhitradio.tv3.lt/",
+        "Source1": "https://ice.leviracloud.eu/phr192-mp3",
+        "Source2": "https://n02a-eu.rcs.revma.com/f31w7e0fveuvv"
+    },
+    {
+        "Title": "Power LT",
+        "Country": "Lithuania",
+        "Homepage": "https://powerradio.yourwebsitespace.com/",
+        "Source1": "http://cast1.my-control-panel.com:8527/;"
+    },
+    {
+        "Title": "PowerHitRadio Lithuania",
+        "Country": "Lithuania",
+        "Homepage": "https://powerhitradio.tv3.lt/",
+        "Source1": "https://stream.rcs.revma.com/f31w7e0fveuvv"
+    },
+    {
+        "Title": "Pukas Lt",
+        "Country": "Lithuania",
+        "Homepage": "https://pukas.lt/",
+        "Source1": "http://212.95.45.82:8000/stream"
+    },
+    {
+        "Title": "Puko Radijas",
+        "Country": "Lithuania",
+        "Homepage": "https://pukas.lt/",
+        "Source1": "http://212.95.45.82:8000/stream"
+    },
+    {
+        "Title": "Pulsas",
+        "Country": "Lithuania",
+        "Favicon": "https://static.wixstatic.com/media/7757d3_77841452a4234261bc90518fa7aca7c4%7emv2.png/v1/fill/w_180%2ch_180%2clg_1%2cusm_0.66_1.00_0.01/7757d3_77841452a4234261bc90518fa7aca7c4%7emv2.png",
+        "Homepage": "https://pulsas.lt/",
+        "Source1": "https://pulsas.lt/stream"
+    },
+    {
+        "Title": "Pūkas 2",
+        "Country": "Lithuania",
+        "Tags": "jazz,rock,smooth jazz",
+        "Favicon": "https://scontent.fkun2-1.fna.fbcdn.net/v/t39.30808-1/237186583_218050030330917_8268135555047002828_n.jpg?stp=dst-jpg_tt6&cstp=mx1000x1000&ctp=s200x200&_nc_cat=101&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=1Qs_-wA2x6sQ7kNvwHlBfGG&_nc_oc=AdrzexU-h_3-Y-imvQ8m2DllB2_b9eJMCt3dSV5DV8qBLU9yywIecELTpYtr5QJKhAc&_nc_zt=24&_nc_ht=scontent.fkun2-1.fna&_nc_gid=tKQ5737IPApATx2tflViPg&_nc_ss=7f289&oh=00_AQIPzCESU5vIsfyFsywsBdMAiAzfjtbAxvITB2Qj2BuqDg&oe=6A98A6F8",
+        "Homepage": "https://pukas.lt/",
+        "Latitude": 54.87992363148699,
+        "Longitude": 23.938530385494236,
+        "Source1": "http://212.95.39.164:8074/stream"
+    },
+    {
+        "Title": "Radijo Musikii",
+        "Country": "Lithuania",
+        "Favicon": "https://www.radijo-musikii.net/favicon.png",
+        "Homepage": "https://www.radijo-musikii.net/",
+        "Source1": "https://stream.radijo-musikii.net/radio/8000/radio.mp3"
+    },
+    {
+        "Title": "Radijo stotis Lietus",
+        "Country": "Lithuania",
+        "Favicon": "http://www.radijas.fm/media/_catalog/www.radijas.fm-radijo-stotis-lietus.png",
+        "Homepage": "https://www.lietus.fm/",
+        "Source1": "https://radio.m-1.fm/LIETUS"
+    },
+    {
+        "Title": "Radio 3",
+        "Country": "Lithuania",
+        "Tags": "2000s,80s,90s,classic rock,dance,pop",
+        "Language": "lt",
+        "Homepage": "https://radio3.tv3.lt/",
+        "Source1": "https://n23-eu.rcs.revma.com/8cwskd80zxcwv?rj-ttl=5&rj-tok=AAABoLM9aPsAjNpxlJ9phX3bxg"
+    },
+    {
+        "Title": "Radio Fiesta",
+        "Country": "Lithuania",
+        "Homepage": "https://radiofiesta.lt/",
+        "Source1": "https://stream2.radiofiesta.lt/rfs128.mp3"
+    },
+    {
+        "Title": "Radio LaLuna",
+        "Country": "Lithuania",
+        "Tags": "classic hits,hits,pop,russian hits",
+        "Favicon": "https://laluna.lt/favicon.ico",
+        "Language": "lt,ru",
+        "Homepage": "https://laluna.lt/",
+        "Latitude": 56.935984453472,
+        "Longitude": 24.11224365234375,
+        "Source1": "http://radio.m-1.fm/laluna/high"
+    },
+    {
+        "Title": "RADIO R",
+        "Country": "Lithuania",
+        "Tags": "russian",
+        "Favicon": "https://radior.lt/wp-content/uploads/2024/06/cropped-button_red-4x-180x180.png",
+        "Language": "ru",
+        "Homepage": "https://radior.lt/online/",
+        "Latitude": 54.68399374374693,
+        "Longitude": 25.224609375000004,
+        "Source1": "https://stream1.rusradio.lt/rrb128.mp3"
+    },
+    {
+        "Title": "RADIO R",
+        "Country": "Lithuania",
+        "Tags": "pop music",
+        "Language": "lt,ru",
+        "Homepage": "https://rusradio.lt/",
+        "Latitude": 54.6760543151901,
+        "Longitude": 25.280227661132816,
+        "Source1": "https://stream1.rusradio.lt/rrb128.mp3"
+    },
+    {
+        "Title": "Radio R",
+        "Country": "Lithuania",
+        "Tags": "pop music",
+        "Language": "lt,ru",
+        "Homepage": "https://radior.lt/",
+        "Source1": "https://stream1.relaxfm.lt/rrb128.mp3"
+    },
+    {
+        "Title": "Radio RU",
+        "Country": "Lithuania",
+        "Homepage": "https://radior.lt/",
+        "Source1": "https://stream1.rusradio.lt/rrb128.mp3"
+    },
+    {
+        "Title": "Radio stotis Laluna",
+        "Country": "Lithuania",
+        "Favicon": "https://www.laluna.lt/favicon.ico",
+        "Homepage": "https://www.laluna.lt/",
+        "Source1": "https://radio.m-1.fm/laluna/mp3"
+    },
+    {
+        "Title": "radio.audiomastering.lt",
+        "Country": "Lithuania",
+        "Favicon": "https://radio.audiomastering.lt/favicon.ico",
+        "Homepage": "https://radio.audiomastering.lt/",
+        "Source1": "https://transliacija.audiomastering.lt/pure"
+    },
+    {
+        "Title": "Radiocentras",
+        "Country": "Lithuania",
+        "Tags": "pop rock",
+        "Homepage": "https://rc.lt/",
+        "Latitude": 55.373258314187176,
+        "Longitude": 24.104003906250004,
+        "Source1": "https://stream2.rc.lt/rc128.mp3",
+        "Source2": "https://stream2.rockfm.lt/crf128.mp3"
+    },
+    {
+        "Title": "Relax FM 100 Hitu",
+        "Country": "Lithuania",
+        "Homepage": "https://100hitu.lt/",
+        "Source1": "https://klausyk.radijas.lt/listen/100hitu/live"
+    },
+    {
+        "Title": "RELAX FM Lietuva",
+        "Country": "Lithuania",
+        "Tags": "lithuania,pop",
+        "Favicon": "https://relaxfm.lt/wp-content/uploads/2018/12/cropped-r-relax-fm-copy-1-192x192.png",
+        "Language": "lt",
+        "Homepage": "https://relaxfm.lt/",
+        "Source1": "https://stream1.relaxfm.lt/relaxfm128.mp3"
+    },
+    {
+        "Title": "Relax FM Senti",
+        "Country": "Lithuania",
+        "Homepage": "https://relaxfm.lt/",
+        "Source1": "https://klausyk.radijas.lt/listen/sentimentai/live"
+    },
+    {
+        "Title": "Relax FM Sentimentai",
+        "Country": "Lithuania",
+        "Homepage": "https://relaxfm.lt/",
+        "Source1": "https://klausyk.radijas.lt/listen/sentimentai/live"
+    },
+    {
+        "Title": "Revo Banga Rock",
+        "Country": "Lithuania",
+        "Tags": "clear",
+        "Source1": "http://sigi2kas.asuscomm.com:8000/stream"
+    },
+    {
+        "Title": "Rock FM",
+        "Country": "Lithuania",
+        "Tags": "metal,punk,rock",
+        "Favicon": "https://rockfm.lt/wp-content/uploads/2024/11/logo-fav-100x100.png",
+        "Language": "lt",
+        "Homepage": "https://rockfm.lt/",
+        "Source1": "https://stream2.rockfm.lt/crf128.mp3"
+    },
+    {
+        "Title": "Rock Radio",
+        "Country": "Lithuania",
+        "Tags": "metal,rock",
+        "Homepage": "https://rockradio.lt/",
+        "Source1": "http://65.21.202.84:8026/stream"
+    },
+    {
+        "Title": "RockFM",
+        "Country": "Lithuania",
+        "Homepage": "https://rockfm.lt/",
+        "Source1": "https://stream3.rc.lt/rockfm.mp3"
+    },
+    {
+        "Title": "Saules radijas",
+        "Country": "Lithuania",
+        "Tags": "pop music",
+        "Favicon": "https://saulesradijas.lt/wp-content/themes/sr/img/icons/favicon.ico",
+        "Language": "lt",
+        "Homepage": "http://saulesradijas.lt/",
+        "Source1": "http://saule-aac.vinlita.lt:8000/stream.aac"
+    },
+    {
+        "Title": "Saules Radijas LT",
+        "Country": "Lithuania",
+        "Homepage": "https://saulesradijas.lt/",
+        "Latitude": 55.91812206139973,
+        "Longitude": 23.30532292884107,
+        "Source1": "http://saule-mp3.vinlita.lt:8008/stream.mp3"
+    },
+    {
+        "Title": "Sol fm",
+        "Country": "Lithuania",
+        "Homepage": "https://solfm.lt/index.html",
+        "Source1": "http://radiosolfm.bounceme.net:8002/solfm"
+    },
+    {
+        "Title": "Start FM 94.2 MHz Vilnius [MP3]",
+        "Country": "Lithuania",
+        "Tags": "underground",
+        "Language": "lt",
+        "Homepage": "http://www.startfm.lt/",
+        "Source1": "http://eteris.startfm.lt/startfm.mp3"
+    },
+    {
+        "Title": "Super FM",
+        "Country": "Lithuania",
+        "Tags": "pop music",
+        "Favicon": "http://www.superfmradio.lt/favicon.ico",
+        "Homepage": "http://www.superfmradio.lt/",
+        "Source1": "http://82.140.131.217:8000/superfm.mp3"
+    },
+    {
+        "Title": "Tau",
+        "Country": "Lithuania",
+        "Tags": "uab artvydas",
+        "Language": "lt",
+        "Homepage": "http://www.tau.lt/",
+        "Source1": "http://radijas.tau.lt:8000/stream"
+    },
+    {
+        "Title": "Tauragės radijas",
+        "Country": "Lithuania",
+        "Tags": "všį šou imperija",
+        "Favicon": "http://tauragesradijas.lt/images/120x120.png",
+        "Language": "lt",
+        "Homepage": "http://tauragesradijas.lt/",
+        "Source1": "http://stream.tauragesradijas.lt:8000/tr1.m3u"
+    },
+    {
+        "Title": "Tauragės Radijas 98.2 FM",
+        "Country": "Lithuania",
+        "Tags": "alternative,pop dance,top40",
+        "Language": "lt",
+        "Homepage": "https://www.tauragesradijas.lt/",
+        "Latitude": 55.265463591701,
+        "Longitude": 22.265910924073474,
+        "Source1": "http://stream.tauragesradijas.lt:8000/tr1"
+    },
+    {
+        "Title": "Tavo Balsas LT",
+        "Country": "Lithuania",
+        "Homepage": "https://tavobalsas.fm/",
+        "Latitude": 54.6760543151901,
+        "Longitude": 25.283182992617427,
+        "Source1": "https://c18.radioboss.fm:8529/stream"
+    },
+    {
+        "Title": "thisislit",
+        "Country": "Lithuania",
+        "Tags": "hiphop,rap",
+        "Language": "en,lt",
+        "Homepage": "https://litradio.org/",
+        "Source1": "https://litradio.org/listen/thisislit/radio.mp3"
+    },
+    {
+        "Title": "TOP FM",
+        "Country": "Lithuania",
+        "Homepage": "https://topfm.lt/",
+        "Source1": "https://radio.topfm.lt/listen/topfm/topfm-320"
+    },
+    {
+        "Title": "TOP FM LT",
+        "Country": "Lithuania",
+        "Homepage": "https://topfm.lt/",
+        "Source1": "https://radio.topfm.lt/listen/topfm/topfm-320"
+    },
+    {
+        "Title": "TOPFM",
+        "Country": "Lithuania",
+        "Favicon": "https://topfm.lt/img/tamsus.png",
+        "Homepage": "https://topfm.lt/",
+        "Latitude": 55.731846556592885,
+        "Longitude": 21.242065429687504,
+        "Source1": "https://radio.topfm.lt/listen/topfm/topfm-320"
+    },
+    {
+        "Title": "TopFm.lt",
+        "Country": "Lithuania",
+        "Homepage": "https://topfm.lt/",
+        "Source1": "https://radio.topfm.lt/listen/topfm/topfm-320"
+    },
+    {
+        "Title": "Upso Radijas",
+        "Country": "Lithuania",
+        "Tags": "pop",
+        "Homepage": "https://www.upsoradijas.lt/",
+        "Latitude": 55.0385429252033,
+        "Longitude": 24.95615243911743,
+        "Source1": "https://klausyk.upsoradijas.lt/upsas_320.m3u"
+    },
+    {
+        "Title": "Utenos Radijas",
+        "Country": "Lithuania",
+        "Homepage": "https://utenosradijas.lt/",
+        "Source1": "https://gyvai.ursrv.eu/stream"
+    },
+    {
+        "Title": "Vaikų radijas",
+        "Country": "Lithuania",
+        "Tags": "uab proarsa",
+        "Favicon": "http://www.vaikuradijas.lt/favicon.ico",
+        "Language": "lt",
+        "Homepage": "http://www.vaikuradijas.lt/",
+        "Source1": "http://88.119.151.74:8001/vaikuradijas"
+    },
+    {
+        "Title": "Vilnius fm",
+        "Country": "Lithuania",
+        "Favicon": "https://vilniusfm.lt/favicon.ico",
+        "Homepage": "https://vilniusfm.lt/",
+        "Source1": "https://stream.vilniusfm.lt/stream"
+    },
+    {
+        "Title": "X-RADIO",
+        "Country": "Lithuania",
+        "Favicon": "null",
+        "Homepage": "http://185.8.60.5:8000/;",
+        "Source1": "http://185.8.60.5:8000/;"
+    },
+    {
+        "Title": "XFM Radijas",
+        "Country": "Lithuania",
+        "Tags": "christian,klaipėda,uab aukštaitijos radijas,uab centro medija,uab labas",
+        "Favicon": "http://xfm.lt/favicon.ico",
+        "Language": "lt",
+        "Homepage": "http://xfm.lt/",
+        "Source1": "http://88.119.151.74:8001/xfm"
+    },
+    {
+        "Title": "ZIP FM",
+        "Country": "Lithuania",
+        "Tags": "pop music",
+        "Favicon": "https://zipfm.lt/wp-content/uploads/2023/11/cropped-zipfm-icon-180x180.png",
+        "Language": "lt",
+        "Homepage": "http://www.zipfm.lt/",
+        "Source1": "https://stream1.zipfm.lt/zipfm128.mp3"
+    },
+    {
+        "Title": "Zip FM is Kasetes",
+        "Country": "Lithuania",
+        "Homepage": "https://zipfm.lt/",
+        "Source1": "https://klausyk.radijas.lt/listen/is-kasetes/live"
+    },
+    {
+        "Title": "ZipFM",
+        "Country": "Lithuania",
+        "Favicon": "https://zipfm.lt/wp-content/uploads/2023/11/cropped-zipfm-icon-180x180.png",
+        "Homepage": "https://zipfm.lt/",
+        "Latitude": 55.31371246684659,
+        "Longitude": 24.180908203125,
+        "Source1": "https://stream2.zipfm.lt/zipfm128.mp3"
+    },
+    {
+        "Title": "Žinių Radijas",
+        "Country": "Lithuania",
+        "Tags": "lietuvos zinios,lithuanian news radio,zinios,zinios is lietuvos,ziniu radijas,ziniu radijas lietuva,ziniu radijas vilnius",
+        "Favicon": "http://www.ziniuradijas.lt/favicon/mstile-70x70.png",
+        "Language": "lt",
+        "Homepage": "http://www.ziniuradijas.lt/",
+        "Source1": "http://netradio.ziniur.lt:8000/ziniur.mp3"
+    },
+    {
+        "Title": "Žinių radijas [64 kbps MP3]",
+        "Country": "Lithuania",
+        "Favicon": "http://www.ziniuradijas.lt/favicon/mstile-70x70.png",
+        "Language": "lt",
+        "Homepage": "http://www.ziniuradijas.lt/",
+        "Source1": "http://netradio.ziniur.lt/ziniur_64.mp3"
+    },
+    {
+        "Title": "Радио RDTK",
+        "Country": "Lithuania",
+        "Tags": "society,talk",
+        "Language": "ru",
+        "Homepage": "https://rdtk.me/",
+        "Source1": "https://rdtk.out.airtime.pro/rdtk_a"
+    },
+    {
+        "Title": "Радио Лента stream 2",
+        "Country": "Lithuania",
+        "Tags": "news,russian,talk radio",
+        "Language": "ru",
+        "Homepage": "https://nashalenta.com/",
+        "Source1": "https://streaming.broadcastrd.com/audio/radio-lenta.mp3"
+    },
+    {
+        "Title": "Радио Свободынх Народов",
+        "Country": "Lithuania",
+        "Tags": "world music",
+        "Language": "kv,tt",
+        "Homepage": "https://freenations.online/",
+        "Source1": "https://radio.freenations.online/listen/radio_free_nations/radio.mp3?refresh=1768495046250"
+    },
+    {
+        "Title": "Радио Сигнал",
+        "Country": "Lithuania",
+        "Homepage": "https://radiosignal.news/",
+        "Source1": "https://streaming.broadcastrd.com/audio/radio-singnal.mp3",
+        "Source2": "https://media-edge2.hostin.live/radio-singnal.mp3"
+    }
+]

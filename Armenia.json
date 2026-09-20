@@ -1,0 +1,145 @@
+[
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "Armenia",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "Armenian Bible Study Radio",
+        "Country": "Armenia",
+        "Favicon": "https://armenianbiblestudy.com/wp-content/uploads/2021/07/ABS-Logo.png",
+        "Homepage": "https://armenianbiblestudy.com/",
+        "Source1": "https://ssl.nexuscast.com:8082/stream?type=http&nocache=30722"
+    },
+    {
+        "Title": "Armenian Christian Radio - Bashde Radio",
+        "Country": "Armenia",
+        "Favicon": "http://bashde.org/favicon.ico",
+        "Homepage": "http://bashde.org/",
+        "Source1": "https://streams.radio.co/sa0bf8ec29/listen?sid=1"
+    },
+    {
+        "Title": "Armenian Radio",
+        "Country": "Armenia",
+        "Tags": "entertainment,pop music",
+        "Language": "en,hy,ru",
+        "Homepage": "https://www.laarmenianradio.com/",
+        "Source1": "https://cast.thiff.com/proxy/laarmeni?mp=/stream"
+    },
+    {
+        "Title": "av",
+        "Country": "Armenia",
+        "Homepage": "https://surrit.com/b4162a97-f7ed-433f-872d-f3e1741d9dac/playlist.m3u8",
+        "Source1": "https://surrit.com/b4162a97-f7ed-433f-872d-f3e1741d9dac/playlist.m3u8"
+    },
+    {
+        "Title": "Fama",
+        "Country": "Armenia",
+        "Homepage": "https://www.radiofama.am/",
+        "Source1": "http://eu.stream4cast.com:8036/stream/"
+    },
+    {
+        "Title": "Jazz FM 106.9 Yerevan Radio",
+        "Country": "Armenia",
+        "Tags": "jazz",
+        "Favicon": "https://www.radiojazzfm.am/img/core-img/logo2.png",
+        "Language": "hy",
+        "Homepage": "https://www.radiojazzfm.am/",
+        "Latitude": 40.177753568182624,
+        "Longitude": 44.512566921602186,
+        "Source1": "https://de.auroramedia.am/jazz.mp3"
+    },
+    {
+        "Title": "Kiss FM Armenia",
+        "Country": "Armenia",
+        "Homepage": "https://www.kissfm.am/en/home",
+        "Latitude": 40.17142328792078,
+        "Longitude": 44.51419830322266,
+        "Source1": "https://am.radioaurora.am/kiss"
+    },
+    {
+        "Title": "Lav Radio",
+        "Country": "Armenia",
+        "Tags": "armenian",
+        "Favicon": "https://www.lavradio.am/wp-content/uploads/2020/08/lav350.png",
+        "Language": "hy",
+        "Homepage": "https://www.lavradio.am/",
+        "Latitude": 40.17778963637747,
+        "Longitude": 44.5125371858387,
+        "Source1": "https://eu.stream4cast.com/proxy/lavradio/stream"
+    },
+    {
+        "Title": "Lav Radio Mix",
+        "Country": "Armenia",
+        "Homepage": "https://lavradio.am/",
+        "Source1": "http://live.lavradio.am:8006/stream2"
+    },
+    {
+        "Title": "LOVE RADIO",
+        "Country": "Armenia",
+        "Tags": "international",
+        "Source1": "https://loveradio.streamingmedia.it/play"
+    },
+    {
+        "Title": "Lratvakan Radio",
+        "Country": "Armenia",
+        "Tags": "armenian,debates & interviews,news",
+        "Favicon": "https://www.lratvakan.am/media/company/logo/corporate-logo_IAoQCpL.png",
+        "Language": "hy",
+        "Homepage": "https://www.lratvakan.am/",
+        "Latitude": 40.17761257410072,
+        "Longitude": 44.5126620418968,
+        "Source1": "http://212.34.233.78:8000/live"
+    },
+    {
+        "Title": "Luys TV Western Armenian TV",
+        "Country": "Armenia",
+        "Tags": "westernarmenia",
+        "Language": "tr",
+        "Homepage": "http://www.luys.tv/",
+        "Source1": "http://luyse.mediatriple.net/luystv/luystv.smil/playlist.m3u8"
+    },
+    {
+        "Title": "MFM Music Radio",
+        "Country": "Armenia",
+        "Tags": "modern,music,pop",
+        "Homepage": "https://www.mfm.am/",
+        "Source1": "https://eu.stream4cast.com/proxy/mfmradio/stream"
+    },
+    {
+        "Title": "Radio Aurora",
+        "Country": "Armenia",
+        "Homepage": "https://www.radioaurora.am/",
+        "Source1": "http://am.radioaurora.am:8010/al.mp3"
+    },
+    {
+        "Title": "Radio AYK",
+        "Country": "Armenia",
+        "Homepage": "http://www.radioayk.com/",
+        "Source1": "http://s3.streammonster.com:8117/;"
+    },
+    {
+        "Title": "Radio Marshall",
+        "Country": "Armenia",
+        "Favicon": "https://www.radiomarshall.am/images/logo.png",
+        "Homepage": "https://www.radiomarshall.am/",
+        "Source1": "https://eu.stream4cast.com/proxy/marshallfm/stream"
+    },
+    {
+        "Title": "Radio VAN",
+        "Country": "Armenia",
+        "Favicon": "https://radiovan.fm/css/images/ico.png",
+        "Homepage": "https://radiovan.fm/",
+        "Source1": "http://stream.radiovan.fm/stream/index.m3u8"
+    },
+    {
+        "Title": "XFM Radio",
+        "Country": "Armenia",
+        "Favicon": "http://www.lavradio.am/wp-content/uploads/2019/05/xfmlg.png",
+        "Homepage": "https://www.xfm.am/",
+        "Source1": "https://eu.stream4cast.com/proxy/xfmradio/stream"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "NewCaledonia",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "NIA Lo-Fi",
+        "Country": "NewCaledonia",
+        "Favicon": "https://nia.nc/static/icons/apple-touch-icon.png",
+        "Homepage": "https://nia.nc/",
+        "Source1": "https://radio.nia.nc/radio/8020/lofi-hq-stream.aac?1734100301"
+    },
+    {
+        "Title": "NIA Pacifique",
+        "Country": "NewCaledonia",
+        "Favicon": "https://nia.nc/static/icons/apple-touch-icon.png",
+        "Homepage": "https://nia.nc/",
+        "Source1": "https://radio.nia.nc/radio/8000/pacific-hq-stream.aac?1734100041"
+    },
+    {
+        "Title": "NIA Radio - Pacifique",
+        "Country": "NewCaledonia",
+        "Tags": "electronica,house,techno",
+        "Favicon": "https://nia.nc/static/icons/apple-touch-icon.png",
+        "Homepage": "https://nia.nc/",
+        "Source1": "https://radio.nia.nc/radio/8000/pacific-hq-stream.aac"
+    },
+    {
+        "Title": "NIA Radio Lo-Fi",
+        "Country": "NewCaledonia",
+        "Tags": "chillout,lofi,lofi hip hop",
+        "Language": "fr",
+        "Homepage": "https://nia.nc/",
+        "Source1": "https://radio.nia.nc/radio/8020/lofi-hq-stream.aac"
+    },
+    {
+        "Title": "Nouvelle-Calédonie La Première",
+        "Country": "NewCaledonia",
+        "Tags": "music,talk",
+        "Language": "fr",
+        "Homepage": "http://nouvellecaledonie.la1ere.fr/radio/",
+        "Source1": "https://nouvelle-caledonie.ice.infomaniak.ch/nouvelle-caledonie-128.mp3"
+    },
+    {
+        "Title": "Radio Djiido",
+        "Country": "NewCaledonia",
+        "Tags": "chroniques,info,musique",
+        "Language": "fr",
+        "Homepage": "http://radiodjiido.nc/",
+        "Source1": "http://radiodjiido.nc:8002/"
+    },
+    {
+        "Title": "Radio Paraiso",
+        "Country": "NewCaledonia",
+        "Favicon": "http://www.radioparadise.com/apple-touch-icon.png",
+        "Homepage": "http://www.radioparadise.com/",
+        "Source1": "http://stream-uk1.radioparadise.com/aac-320"
+    },
+    {
+        "Title": "Radio Rythme Bleu",
+        "Country": "NewCaledonia",
+        "Favicon": "https://www.rrb.nc/favicon.ico",
+        "Homepage": "https://www.rrb.nc/",
+        "Latitude": -22.27172770713379,
+        "Longitude": 166.4524841308594,
+        "Source1": "https://webradio.lagoon.nc/rrb"
+    }
+]

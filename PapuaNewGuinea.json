@@ -1,0 +1,41 @@
+[
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "PapuaNewGuinea",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "LegendFM 101.1",
+        "Country": "PapuaNewGuinea",
+        "Homepage": "https://legendfm.net/",
+        "Source1": "https://27163.live.streamtheworld.com/PNGLEGENDFM.mp3"
+    },
+    {
+        "Title": "NauFM",
+        "Country": "PapuaNewGuinea",
+        "Homepage": "https://naufm.net/",
+        "Latitude": -9.472835254436776,
+        "Longitude": 147.15774536132815,
+        "Source1": "https://27163.live.streamtheworld.com/NAUFM.mp3",
+        "Source2": "https://playerservices.streamtheworld.com/api/livestream-redirect/NAUFM.mp3"
+    },
+    {
+        "Title": "Radio Bantaba",
+        "Country": "PapuaNewGuinea",
+        "Favicon": "http://radiobantaba.com/wp-content/uploads/2022/03/Radio_tv_bantaba_logo.png",
+        "Homepage": "https://radiobantaba.com/station/ouvir-radio/",
+        "Source1": "https://radio.streemlion.com/radiobantaba"
+    },
+    {
+        "Title": "YumiFM",
+        "Country": "PapuaNewGuinea",
+        "Favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb7X9voyYUIdYktqtBxDSEYEv7679qzQiJdQ&s",
+        "Homepage": "http://yumifm.net/",
+        "Latitude": -9.45890553998636,
+        "Longitude": 147.17390788522093,
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/YUMIFM.mp3"
+    }
+]

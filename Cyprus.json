@@ -1,0 +1,395 @@
+[
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "Cyprus",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "Active 107.4",
+        "Country": "Cyprus",
+        "Tags": "local news,music",
+        "Language": "el",
+        "Homepage": "https://activeradio.com.cy/",
+        "Latitude": 35.16974778076024,
+        "Longitude": 33.36032867431641,
+        "Source1": "https://securestreams3.autopo.st:1417/active"
+    },
+    {
+        "Title": "BitrRcord",
+        "Country": "Cyprus",
+        "Favicon": "https://bitrecord.one/favicon.ico",
+        "Homepage": "https://bitrecord.one/",
+        "Latitude": 47.88063298427293,
+        "Longitude": 35.15210186444635,
+        "Source1": "https://c10.radioboss.fm:18095/stream"
+    },
+    {
+        "Title": "Chillout Breeze",
+        "Country": "Cyprus",
+        "Tags": "chillout",
+        "Homepage": "http://www.chillout-zone.weebly.com/",
+        "Source1": "https://listen.radionomy.com/chilloutbreeze"
+    },
+    {
+        "Title": "CloudCY Rock",
+        "Country": "Cyprus",
+        "Tags": "rock",
+        "Favicon": "http://radio.cloudcy.org:8000/favicon.ico",
+        "Language": "en,gr",
+        "Region": "CY-1",
+        "Homepage": "http://radio.cloudcy.org:8000/rock",
+        "Latitude": 35.09083843362437,
+        "Longitude": 33.34899902343751,
+        "Source1": "http://radio.cloudcy.org:8000/rock"
+    },
+    {
+        "Title": "Cool Radio 91.6",
+        "Country": "Cyprus",
+        "Homepage": "https://www.coolradio916.com/en/",
+        "Source1": "http://live3.istoikona.net/stream/cooleradio/stream.pls"
+    },
+    {
+        "Title": "Dance FM",
+        "Country": "Cyprus",
+        "Favicon": "http://api.nrgplay.com/upload/logo/4700c4e0ed5f0a635114cd0df7c8ed39.jpg",
+        "Homepage": "https://www.nrgplay.com/",
+        "Source1": "https://live.enerjiplay.com/stream/dancefm"
+    },
+    {
+        "Title": "Diesi Cyprus 101.1",
+        "Country": "Cyprus",
+        "Tags": "ballads,greek pop,pop",
+        "Favicon": "https://tpc.googlesyndication.com/simgad/9820055778066934470",
+        "Language": "el",
+        "Homepage": "http://www.megatv.com.cy/cgibin/hweb?-A=133&-V=ologos",
+        "Source1": "http://r1.cloudskep.com/radio/diesi/icecast.audio"
+    },
+    {
+        "Title": "Enerji",
+        "Country": "Cyprus",
+        "Favicon": "http://api.nrgplay.com/upload/logo/c2099d61294d8975748f15118ddecbc8.jpg",
+        "Homepage": "https://www.nrgplay.com/",
+        "Source1": "https://live.enerjiplay.com/stream/enerji"
+    },
+    {
+        "Title": "FEELGOOD.FM",
+        "Country": "Cyprus",
+        "Tags": "various",
+        "Favicon": "https://feelgood.fm/wp-content/uploads/2025/01/Logo-600x600-1.png",
+        "Language": "de,en",
+        "Homepage": "https://feelgood.fm/",
+        "Latitude": 35.0063709756592,
+        "Longitude": 34.04813289642335,
+        "Source1": "https://radio.feelgood.fm/mp3"
+    },
+    {
+        "Title": "Kanali6 (106.00 | 98.6 | 107.00 | 106.9) Lemesos Cyprus Alternative Stream",
+        "Country": "Cyprus",
+        "Language": "el",
+        "Homepage": "https://www.kanali6.com.cy/",
+        "Source1": "http://live3.istoikona.net:8372/stream/2/Title1=Kanali"
+    },
+    {
+        "Title": "Kanali7 98.4 FM",
+        "Country": "Cyprus",
+        "Tags": "news,talk",
+        "Favicon": "http://new.kanali7.com/wp-content/uploads/2016/03/kanali-7-logo-low.png",
+        "Language": "el,en",
+        "Homepage": "http://www.kanali7.com/",
+        "Source1": "http://live.kanali7.com:4010/;"
+    },
+    {
+        "Title": "KISS FM 89.0 - 88.5",
+        "Country": "Cyprus",
+        "Favicon": "https://kissfm.com.cy/wp-content/uploads/2016/04/Untitled-5.png",
+        "Homepage": "https://kissfm.com.cy/",
+        "Source1": "https://securestreams3.autopo.st:1417/89FM"
+    },
+    {
+        "Title": "Kiss fm Cyprus 89.0",
+        "Country": "Cyprus",
+        "Tags": "pop",
+        "Favicon": "http://kissfm.com.cy/wp-content/uploads/2016/02/fav.png",
+        "Language": "el",
+        "Homepage": "http://kissfm.com.cy/",
+        "Source1": "http://r1.phileradio.com:8193/89FM"
+    },
+    {
+        "Title": "Klik FM - Paphos",
+        "Country": "Cyprus",
+        "Language": "el",
+        "Homepage": "http://www.klikfm.com.cy/",
+        "Source1": "http://eco.onestreaming.com:8310/;"
+    },
+    {
+        "Title": "Love FM",
+        "Country": "Cyprus",
+        "Favicon": "http://www.lovefm.com.cy/uploads/6/2/2/6/62260227/lovefm-logo-copy.png",
+        "Homepage": "http://www.lovefm.com.cy/",
+        "Source1": "http://eradio.networksolutions.com.cy:1935/LoveRadio/Loveradio.stream/playlist.m3u8"
+    },
+    {
+        "Title": "Lugaradio",
+        "Country": "Cyprus",
+        "Homepage": "https://www.lradio.in/",
+        "Latitude": 34.68443417399172,
+        "Longitude": 33.0316612456765,
+        "Source1": "http://91.200.41.23:8000/192.mp3"
+    },
+    {
+        "Title": "MIX FM Cyprus",
+        "Country": "Cyprus",
+        "Favicon": "https://www.mixfmradio.com/upload/design/66e7d8af577fa9.28585462.png",
+        "Homepage": "https://www.mixfmradio.com/",
+        "Source1": "https://strm.mixlive.eu/mixfm/index.m3u8"
+    },
+    {
+        "Title": "Mix4.me uplifitng trance web radio",
+        "Country": "Cyprus",
+        "Tags": "progressive trance,trance,uplifting trance,vocal trance",
+        "Favicon": "https://www.mix4.me/favicon.ico",
+        "Language": "en",
+        "Homepage": "https://www.mix4.me/",
+        "Source1": "http://142.132.213.6:8497/stream",
+        "Source2": "https://s9.webradio-hosting.com/proxy/mix4me/stream"
+    },
+    {
+        "Title": "MixFM Cyprus",
+        "Country": "Cyprus",
+        "Tags": "chillout,pop music,pop rock,rock",
+        "Favicon": "https://www.mixfmradio.com/upload/design/5d79f253b101f9.01147538.png",
+        "Language": "el,en",
+        "Homepage": "https://www.mixfmradio.com/",
+        "Latitude": 35.05142975094385,
+        "Longitude": 33.19519042968751,
+        "Source1": "https://link.radiojar.com/c27wx6pdh8vtv"
+    },
+    {
+        "Title": "NJOY Radio",
+        "Country": "Cyprus",
+        "Favicon": "https://www.njoyradio.com.cy/wp-content/uploads/2021/11/njoy_logo.png",
+        "Homepage": "https://www.njoyradio.com.cy/",
+        "Source1": "https://stream.radiojar.com/mg7kftnzka3vv"
+    },
+    {
+        "Title": "PIK Sat TV",
+        "Country": "Cyprus",
+        "Favicon": "https://control.divio.com/static/favicon.png",
+        "Language": "el",
+        "Homepage": "http://www.riknews.com.cy/",
+        "Source1": "http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8"
+    },
+    {
+        "Title": "Politis 107.6 FM",
+        "Country": "Cyprus",
+        "Favicon": "https://politis.com.cy/images/favicon/favicon-32x32.png",
+        "Homepage": "https://politis.com.cy/radio",
+        "Source1": "https://cdn.istoikona.com/politis/live/icecast.audio"
+    },
+    {
+        "Title": "Proto Live",
+        "Country": "Cyprus",
+        "Favicon": "https://control.divio.com/static/favicon.png",
+        "Language": "el",
+        "Homepage": "http://www.riknews.com.cy/index.php/radio-main/proto-live",
+        "Source1": "http://r1.cloudskep.com/cybcr/cybc1/icecast.audio"
+    },
+    {
+        "Title": "Radio ReyMod",
+        "Country": "Cyprus",
+        "Favicon": "https://www.reymod.com/img/apple-touch-icon.png",
+        "Homepage": "https://www.reymod.com/radio",
+        "Source1": "https://server.streamcasthd.com:7092/;"
+    },
+    {
+        "Title": "Radio Sfera 102.2",
+        "Country": "Cyprus",
+        "Tags": "greek pop",
+        "Language": "el",
+        "Homepage": "https://sfera.com.cy/",
+        "Source1": "https://securestreams3.autopo.st:1417/sfera"
+    },
+    {
+        "Title": "Radio T.O.A",
+        "Country": "Cyprus",
+        "Homepage": "https://sites.google.com/site/toalarnacas/on-line-radio",
+        "Source1": "https://live3.istoikona.net/proxy/radiotoa/stream"
+    },
+    {
+        "Title": "Radio Turbo21",
+        "Country": "Cyprus",
+        "Tags": "1980s,80s,pop,rock",
+        "Favicon": "https://radioturbo21.com/favicon.ico",
+        "Homepage": "https://radioturbo21.com/",
+        "Source1": "https://radioturbo21.com/radio/stream"
+    },
+    {
+        "Title": "Rock FM Cyprus",
+        "Country": "Cyprus",
+        "Tags": "rock",
+        "Favicon": "http://img1.wsimg.com/isteam/ip/23e625b3-9829-4f54-a786-73978949b161/rock%20fm%20logo%20clean%20b.png/:/rs=w:114,h:114,m",
+        "Homepage": "http://rockfmcyprus.com/",
+        "Source1": "http://live3.istoikona.net:8278/;"
+    },
+    {
+        "Title": "Rock FM Cyprus",
+        "Country": "Cyprus",
+        "Favicon": "https://rockfmcyprus.com/wp-content/uploads/2019/06/rock-fm-cyprus-logo-gold-retina.webp",
+        "Homepage": "https://rockfmcyprus.com/",
+        "Source1": "https://live3.istoikona.net/proxy/rockfm/stream"
+    },
+    {
+        "Title": "Sport FM Cyprus",
+        "Country": "Cyprus",
+        "Language": "el",
+        "Source1": "http://sportfm-cyprus.live24.gr/sportfm-cyprus"
+    },
+    {
+        "Title": "SUPER FM 104.8",
+        "Country": "Cyprus",
+        "Language": "el",
+        "Source1": "http://eco.onestreaming.com:8175/"
+    },
+    {
+        "Title": "Super Sport FM",
+        "Country": "Cyprus",
+        "Favicon": "https://sport-fm.com.cy/wp-content/uploads/2024/06/cropped-cropped-cropped-logo.png",
+        "Homepage": "https://sport-fm.com.cy/radio/",
+        "Source1": "https://r1.cloudskep.com/radio3/supersportfm/icecast.audio"
+    },
+    {
+        "Title": "Super Sport FM 104.0",
+        "Country": "Cyprus",
+        "Tags": "greek,sports",
+        "Favicon": "https://sport-fm.com.cy/wp-content/themes/dm-sportfm/images/favicons/apple-icon-114x114.png",
+        "Language": "el",
+        "Homepage": "https://www.sport-fm.com.cy/",
+        "Source1": "https://r1.cloudskep.com/radio3/supersportfm/icecast.audio"
+    },
+    {
+        "Title": "Tetarto Live",
+        "Country": "Cyprus",
+        "Tags": "classical",
+        "Favicon": "https://control.divio.com/static/favicon.png",
+        "Language": "el",
+        "Homepage": "http://www.riknews.com.cy/index.php/radio-main/tetarto-live",
+        "Source1": "http://r1.cloudskep.com/cybcr/cybc4/icecast.audio"
+    },
+    {
+        "Title": "Trito Live",
+        "Country": "Cyprus",
+        "Favicon": "https://control.divio.com/static/favicon.png",
+        "Language": "el",
+        "Homepage": "http://www.riknews.com.cy/index.php/radio-main/trito-live",
+        "Source1": "http://r1.cloudskep.com/cybcr/cybc3/icecast.audio"
+    },
+    {
+        "Title": "VIVA FM 104.3",
+        "Country": "Cyprus",
+        "Homepage": "https://vivafmcyprus.com/",
+        "Source1": "https://stream1.themediasite.co.uk/8060/stream"
+    },
+    {
+        "Title": "Zenith",
+        "Country": "Cyprus",
+        "Favicon": "https://zenithfm.com.cy/favicon.ico",
+        "Homepage": "https://zenithfm.com.cy/live/",
+        "Source1": "https://live3.istoikona.net:9836/stream"
+    },
+    {
+        "Title": "Zucca",
+        "Country": "Cyprus",
+        "Homepage": "https://zuccaradio.com/",
+        "Latitude": 35.17714721179544,
+        "Longitude": 33.3622409346126,
+        "Source1": "https://stream.zuccaradio.com/stream?"
+    },
+    {
+        "Title": "Zucca Radio",
+        "Country": "Cyprus",
+        "Tags": "international",
+        "Source1": "http://95.217.120.122/"
+    },
+    {
+        "Title": "Ι.Μ. Λεμεσού",
+        "Country": "Cyprus",
+        "Tags": "christian,christian orthodox,ecclesia,orthodox,orthodox christian,orthodox church,ορθοδοξία,χριστιανισμός",
+        "Favicon": "https://cdn.e-radio.gr/logos/cy/big/imlemesou.png",
+        "Language": "el",
+        "Homepage": "https://www.imlemesou.org/",
+        "Latitude": 34.68262906196784,
+        "Longitude": 33.02777913012592,
+        "Source1": "http://93.109.209.123:9080/stream.mp3"
+    },
+    {
+        "Title": "Ι.Μ.Λεμεσού",
+        "Country": "Cyprus",
+        "Favicon": "https://www.imlemesou.org/images/logo3.png",
+        "Homepage": "https://www.imlemesou.org/",
+        "Source1": "http://194.154.128.242:9090/stream.mp3"
+    },
+    {
+        "Title": "Ναυάγιο",
+        "Country": "Cyprus",
+        "Tags": "greek music",
+        "Favicon": "https://resources.live24.gr/resources/images/stations/c69cf970-f33b-4c0e-ac4e-5a5ab8d17c81.png",
+        "Language": "el",
+        "Homepage": "https://radio-navagio.com/",
+        "Source1": "https://radio-navagio.com/stream"
+    },
+    {
+        "Title": "Ο Αληθινός Λόγος 93.3 Λευκωσία - Ιερά Αρχιεπισκοπή Κύπρου",
+        "Country": "Cyprus",
+        "Tags": "christian,christian orthodox,church,ecclesia,greek,orthodox,orthodox christian,orthodox church,εκκλησία,ορθοδοξία,χριστιανισμός",
+        "Favicon": "https://logosradio.com.cy/assets/images/o-alithinos-logos-1.png",
+        "Language": "el",
+        "Homepage": "https://churchofcyprus.org.cy/",
+        "Latitude": 35.16281151416096,
+        "Longitude": 33.329834057245314,
+        "Source1": "http://r1.cloudskep.com/radio/agiosdemetrios/icecast.audio"
+    },
+    {
+        "Title": "Ράδιο Άγιος Δημήτριος Ακροπόλεως - Κύπρος 93.3",
+        "Country": "Cyprus",
+        "Tags": "byzantine,ecclesia,greek,orthodox christian,orthodoxy,εκκλησία,ιερός ναός,ορθοδοξία",
+        "Language": "el",
+        "Homepage": "http://www.agiosdemetrioschurch.org/",
+        "Source1": "http://eco.onestreaming.com:8474/"
+    },
+    {
+        "Title": "Σπορ FM 95.0",
+        "Country": "Cyprus",
+        "Tags": "greek,sports",
+        "Favicon": "http://www.24sports.com.cy/listen_live/sporfm_logo.svg",
+        "Language": "el",
+        "Homepage": "https://www.24sports.com.cy/gr/",
+        "Source1": "http://eradio.networksolutions.com.cy:1935/SportFM/SportFM.stream/playlist.m3u8"
+    },
+    {
+        "Title": "РУССКОЕ РАДИО КИПР",
+        "Country": "Cyprus",
+        "Favicon": "https://russianradio.cy/wp-content/uploads/2024/06/cropped-rr-favico-180x180.png",
+        "Homepage": "https://russianradio.cy/",
+        "Source1": "https://stream.veblot.net/proxy/russianradio/stream/"
+    },
+    {
+        "Title": "塞浦路斯CCN欧洲中国平台",
+        "Country": "Cyprus",
+        "Tags": "culture",
+        "Favicon": "https://ccnnetwork.cn/wp-content/uploads/2021/07/newccnlogo2021.png",
+        "Language": "zh",
+        "Homepage": "https://ccnnetwork.cn/",
+        "Source1": "https://cdn.istoikona.com/ccnrtv/live/playlist.m3u8"
+    },
+    {
+        "Title": "塞浦路斯中文广播",
+        "Country": "Cyprus",
+        "Tags": "chinese",
+        "Language": "zh",
+        "Homepage": "https://ccnnetwork.cn/",
+        "Source1": "https://cdn.istoikona.com/ccnradio/ccnradio/icecast.audio"
+    }
+]

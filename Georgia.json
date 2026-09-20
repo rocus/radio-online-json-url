@@ -1,0 +1,287 @@
+[
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "Georgia",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "Hereti FM",
+        "Country": "Georgia",
+        "Tags": "folk,news,pop",
+        "Favicon": "https://cdn.onlineradiobox.com/img/logo/6/43916.png",
+        "Language": "ka",
+        "Homepage": "http://www.heretifm.com/",
+        "Source1": "http://iis.ge:8000/hereti.mp3"
+    },
+    {
+        "Title": "JUKEBOX 94.3",
+        "Country": "Georgia",
+        "Favicon": "https://www.radiojukebox.ge/logo.png",
+        "Homepage": "https://www.radiojukebox.ge/",
+        "Source1": "https://stream.radiojukebox.ge/stream.ogg"
+    },
+    {
+        "Title": "LF Radio",
+        "Country": "Georgia",
+        "Homepage": "https://lf.radio/",
+        "Source1": "https://rtn.cdnstream1.com/2582_96.aac"
+    },
+    {
+        "Title": "Marneuli FM",
+        "Country": "Georgia",
+        "Favicon": "https://marneulifm.ge//images/temp/2017/06/14/91d0264419f7bc69b396106ffac4345e.png",
+        "Homepage": "https://marneulifm.ge/",
+        "Source1": "http://stream.it-solutions.ge:8000/mp3-radiomarneulifm"
+    },
+    {
+        "Title": "Mutant Radio",
+        "Country": "Georgia",
+        "Tags": "independent,music,variety",
+        "Favicon": "https://www.mutantradio.net/icon?e5faaecf67dfe01a",
+        "Language": "en",
+        "Homepage": "https://www.mutantradio.net/",
+        "Source1": "https://listen.radioking.com/radio/282820/stream/328621"
+    },
+    {
+        "Title": "Radio 2 - Tbilisi FM 100,9",
+        "Country": "Georgia",
+        "Tags": "jazz",
+        "Favicon": "https://top-radio.ru/assets/image/radio/180/radio2ge.jpg",
+        "Language": "ka",
+        "Homepage": "https://player.1tv.ge/radio2",
+        "Source1": "https://tv.cdn.xsg.ge/gpb-radio2/tracks-a1/index.m3u8"
+    },
+    {
+        "Title": "Radio Amra",
+        "Country": "Georgia",
+        "Tags": "classical",
+        "Source1": "https://streamer.radio.co/s34b5469e0/listen"
+    },
+    {
+        "Title": "Radio Amra",
+        "Country": "Georgia",
+        "Homepage": "https://www.radioamra.com/",
+        "Source1": "https://streamer.radio.co/s34b5469e0/listen"
+    },
+    {
+        "Title": "Radio dardimandi",
+        "Country": "Georgia",
+        "Tags": "folk music,talk",
+        "Language": "ka",
+        "Homepage": "https://dardimandi.com.ge/",
+        "Source1": "https://nue01-edge01.itdc.ge/fm-dardimandi-97.1/index.m3u8"
+    },
+    {
+        "Title": "Red Wine Radio",
+        "Country": "Georgia",
+        "Tags": "downtempo,easy listening,jazz,lo-fi,smooth jazz",
+        "Homepage": "https://zeno.fm/radio/redwine-radio/",
+        "Latitude": 41.8045480004199,
+        "Longitude": 41.77448272705079,
+        "Source1": "https://stream.zeno.fm/pcbduafehg0uv"
+    },
+    {
+        "Title": "Soothing cafe",
+        "Country": "Georgia",
+        "Tags": "cafe background music,jazz,smooth jazz",
+        "Language": "az,en,ka,ru,tr",
+        "Homepage": "http://cizgiotesi.biz.tr/",
+        "Source1": "http://5.180.81.227:8010/soothingcafe"
+    },
+    {
+        "Title": "Soothing jazz",
+        "Country": "Georgia",
+        "Tags": "jazz,piano jazz,smooth jazz,soft jazz",
+        "Language": "az,en,ka,ru,tr",
+        "Homepage": "http://cizgiotesi.biz.tr/",
+        "Source1": "http://193.111.125.15:8020/soothingjazz"
+    },
+    {
+        "Title": "Soothing radio",
+        "Country": "Georgia",
+        "Tags": "ambient and relaxation music,relax,relaxation,relaxing",
+        "Language": "az,en,ka,ru,tr",
+        "Homepage": "http://cizgiotesi.biz.tr/",
+        "Source1": "http://193.111.125.15:8010/soothingradio",
+        "Source2": "http://5.180.81.227:8020/soothingradio"
+    },
+    {
+        "Title": "Tbilisi FM 93,5",
+        "Country": "Georgia",
+        "Tags": "news,talk",
+        "Language": "ka",
+        "Homepage": "http://tbilisifm.com/",
+        "Source1": "http://iis.ge:8000/radiotbilisi.mp3"
+    },
+    {
+        "Title": "WVFJ 93.3 & 102.1 The JOY FM",
+        "Country": "Georgia",
+        "Homepage": "https://georgia.thejoyfm.com/",
+        "Source1": "https://rtn.cdnstream1.com/2576_96.aac?rand=81562"
+    },
+    {
+        "Title": "Арадио Sputnik Аҧсны",
+        "Country": "Georgia",
+        "Favicon": "https://cdnn1.img.sputnik-abkhazia.info/i/logo/logo.svg",
+        "Homepage": "https://sputnik-abkhazia.info/",
+        "Source1": "https://icecast-rian.cdnvideo.ru/voicesuh"
+    },
+    {
+        "Title": "ავტორადიო (Avtoradio)",
+        "Country": "Georgia",
+        "Favicon": "https://cdn.fortuna.ge/app/uploads/2024/02/avtoradio-logo-2024-01-30-14-11-32-376900-2024-02-08_07-48-41_122881.svg",
+        "Language": "ka",
+        "Homepage": "https://fortuna.ge/autoradio/",
+        "Latitude": 41.7388078696385,
+        "Longitude": 44.76891786942451,
+        "Source1": "https://tv.cdn.xsg.ge/cld9-0386/avtoradio/tracks-a1/mono.m3u8"
+    },
+    {
+        "Title": "არ დაიდარდო (Ar Daidardo)",
+        "Country": "Georgia",
+        "Favicon": "https://cdn.fortuna.ge/app/uploads/2024/02/ardaidardo-logo-2024-01-30-14-10-56-268127-2024-02-08_07-48-26_828205.svg",
+        "Language": "ka",
+        "Homepage": "https://fortuna.ge/ar-daidardo/",
+        "Latitude": 41.73880706901734,
+        "Longitude": 44.76894566761298,
+        "Source1": "https://tv.cdn.xsg.ge/cld9-0386/ardaidardo/tracks-a1/mono.m3u8"
+    },
+    {
+        "Title": "არდაიდარდო",
+        "Country": "Georgia",
+        "Tags": "folk,pop",
+        "Favicon": "https://cdn.fortuna.ge/app/uploads/2024/02/fortuna-logo-2024-02-08_07-57-34_538522.png",
+        "Language": "ka",
+        "Homepage": "https://ardaidardo.ge/",
+        "Source1": "https://tv.cdn.xsg.ge/cld9-0386/ardaidardo/tracks-a1/mono.m3u8"
+    },
+    {
+        "Title": "თბილისი FM (Tbilisi FM)",
+        "Country": "Georgia",
+        "Favicon": "https://tbilisifm.ge/wp-content/uploads/2017/03/radio-iwyeba-chvenit-2-1-150x150.png",
+        "Language": "ka",
+        "Homepage": "https://tbilisifm.ge/",
+        "Latitude": 41.69448090814442,
+        "Longitude": 44.79355058277106,
+        "Source1": "http://iis.ge:8000/radiotbilisi.mp3"
+    },
+    {
+        "Title": "რადიო აჭარა (Radio Adjara)",
+        "Country": "Georgia",
+        "Favicon": "https://mixlr-assets.s3.amazonaws.com/users/2bb3547edc11c2c070b2c512ea13eaa3/thumb.jpg",
+        "Language": "ka",
+        "Homepage": "https://www.radioajara.ge/",
+        "Latitude": 41.64880059661444,
+        "Longitude": 41.63240054046656,
+        "Source1": "https://edge.mixlr.com/channel/bzorq"
+    },
+    {
+        "Title": "რადიო იმედი (Radio Imedi)",
+        "Country": "Georgia",
+        "Favicon": "https://www.imedi.ge/m/i/favicons/apple-touch-icon.png",
+        "Language": "ka",
+        "Homepage": "https://www.imedi.ge/",
+        "Latitude": 41.76921360764239,
+        "Longitude": 44.776777801008656,
+        "Source1": "https://tv.cdn.xsg.ge/radioimedi/stream01/shoutcast"
+    },
+    {
+        "Title": "რადიო კომერსანტი (Radio Commersant)",
+        "Country": "Georgia",
+        "Favicon": "https://www.commersant.ge/assets/images/logo.svg",
+        "Language": "ka",
+        "Homepage": "https://www.commersant.ge/",
+        "Latitude": 41.70985986046434,
+        "Longitude": 44.785509429918406,
+        "Source1": "https://radio.cdn.xsg.ge/fm-commersant-95.5/tracks-a1/mono.m3u8"
+    },
+    {
+        "Title": "რადიო ობიექტივი (Radio Obieqtivi)",
+        "Country": "Georgia",
+        "Favicon": "https://obieqtivi.info/imgs/logo.png",
+        "Language": "ka",
+        "Homepage": "https://obieqtivi.info/",
+        "Latitude": 41.698246083606335,
+        "Longitude": 44.801979822078295,
+        "Source1": "https://nue01-edge01.itdc.ge/fm-obieqtivi-105.1/mono.m3u8"
+    },
+    {
+        "Title": "რადიო პალიტრა (Radio Palitra)",
+        "Country": "Georgia",
+        "Favicon": "https://www.radiopalitra.ge/static/logos/logo_icon.svg",
+        "Language": "ka",
+        "Homepage": "https://www.radiopalitra.ge/",
+        "Latitude": 41.72533202424088,
+        "Longitude": 44.77317217037659,
+        "Source1": "https://radiostream.palitra.ge/stream.mp3"
+    },
+    {
+        "Title": "რადიო პოზიტივი (Radio Positive)",
+        "Country": "Georgia",
+        "Favicon": "https://www.positive.ge/img/logo.png",
+        "Language": "ka",
+        "Homepage": "https://www.positive.ge/",
+        "Latitude": 41.722008866332665,
+        "Longitude": 44.80086362853513,
+        "Source1": "https://stream.radiojar.com/sr4vzamzfnruv"
+    },
+    {
+        "Title": "რადიო სივრცე (Radio Sivrce)",
+        "Country": "Georgia",
+        "Favicon": "https://spnews.io/img/logoRadio.png",
+        "Language": "ka",
+        "Homepage": "https://spnews.io/",
+        "Latitude": 41.73160952097743,
+        "Longitude": 44.74243478491454,
+        "Source1": "https://proxy.streamer.mediabox.ge/ice/8000/sivrce"
+    },
+    {
+        "Title": "რადიო ფორტუნა (Radio Fortuna)",
+        "Country": "Georgia",
+        "Favicon": "https://cdn.fortuna.ge/app/uploads/2024/02/fortuna-logo-2024-02-08_07-57-34_538522-e1709715846610.png",
+        "Language": "ka",
+        "Homepage": "https://fortuna.ge/",
+        "Latitude": 41.73879906329409,
+        "Longitude": 44.768934529349664,
+        "Source1": "https://tv.cdn.xsg.ge/cld9-0386/fortuna/tracks-a1/mono.m3u8"
+    },
+    {
+        "Title": "რადიო ჩევნებური (Radio Chveneburi)",
+        "Country": "Georgia",
+        "Favicon": "https://radiochveneburi.ge/images/LOGO%20GE.png",
+        "Language": "ka",
+        "Homepage": "https://radiochveneburi.ge/",
+        "Latitude": 41.73879906329409,
+        "Longitude": 44.76903139149434,
+        "Source1": "https://radio.cdn.xsg.ge/cld9-1050/chveneburi/tracks-a1/mono.m3u8"
+    },
+    {
+        "Title": "რადიო ჩვენებური",
+        "Country": "Georgia",
+        "Tags": "folk,pop",
+        "Language": "ka",
+        "Homepage": "https://radiochveneburi.ge/",
+        "Source1": "https://radio.cdn.xsg.ge/cld9-1050/chveneburi/index.m3u8"
+    },
+    {
+        "Title": "რიონი FM",
+        "Country": "Georgia",
+        "Tags": "folk music,soft music",
+        "Language": "ka",
+        "Homepage": "https://radio.rionitv.com/",
+        "Source1": "https://video.rionitv.com/s;stream"
+    },
+    {
+        "Title": "უცნობი FM (Ucnobi FM)",
+        "Country": "Georgia",
+        "Favicon": "http://ucnobifm.ge/wp-content/uploads/2020/10/mainlogo-white.png",
+        "Language": "ka",
+        "Homepage": "http://ucnobifm.ge/",
+        "Latitude": 41.71465406686155,
+        "Longitude": 44.7780532122452,
+        "Source1": "http://149.3.104.166:8000/stream.ogg"
+    }
+]

@@ -1,0 +1,61 @@
+[
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "Dominica",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "DBS Radio",
+        "Country": "Dominica",
+        "Favicon": "https://dbcradio.net/wp-content/uploads/2024/01/dbs_web_logo_dark.png",
+        "Homepage": "https://dbcradio.net/",
+        "Source1": "https://stream.dbcradio.net:8005/live"
+    },
+    {
+        "Title": "Dominica Catholic Radio",
+        "Country": "Dominica",
+        "Favicon": "https://core3.imgix.net/5f70e9d693e1e_5f5976e7b2916_Copy-of-Purple-Welcome-Church-Template---Made-with-PosterMyWall-_1_.png?auto=format,compress&w=480&fit=max&",
+        "Homepage": "https://dominicacatholicradio.org/",
+        "Source1": "https://cdn.comeseetv.com:8010/dominicacatholicradio?1740579480509"
+    },
+    {
+        "Title": "En Ba Mango",
+        "Country": "Dominica",
+        "Language": "en",
+        "Homepage": "https://www.facebook.com/oobinmmani/",
+        "Latitude": 15.24416593167221,
+        "Longitude": -61.32106419408114,
+        "Source1": "https://s10.myradiostream.com/:4212/listen.mp3"
+    },
+    {
+        "Title": "Fabulosa 96.7",
+        "Country": "Dominica",
+        "Tags": "96.7,96.7 fm,music",
+        "Language": "es",
+        "Homepage": "https://fabulosafm.com/",
+        "Source1": "https://bostonstreaminge.net/8006/stream"
+    },
+    {
+        "Title": "Voice of Life Radio",
+        "Country": "Dominica",
+        "Homepage": "https://voiceofliferadio.dm/",
+        "Source1": "https://cdn.comeseetv.com:8000/vol"
+    },
+    {
+        "Title": "Voice Of Life Radio",
+        "Country": "Dominica",
+        "Favicon": "https://voiceofliferadio.dm/wp-content/uploads/2020/11/vol-jpeg.jpg",
+        "Homepage": "https://voiceofliferadio.dm/#",
+        "Source1": "https://cdn.comeseetv.com:8000/vol"
+    },
+    {
+        "Title": "X Televisión",
+        "Country": "Dominica",
+        "Favicon": "https://consejocncs.com/wp-content/uploads/2023/10/ico_01.webp",
+        "Homepage": "https://www.youtube.com/@xtelevision2576/streams",
+        "Source1": "https://samson.streamerr.co:8081/xtelevisionrd/tracks-v1a1/mono.m3u8"
+    }
+]

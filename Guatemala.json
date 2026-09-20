@@ -1,0 +1,656 @@
+[
+    {
+        "Title": "94.9 FM",
+        "Country": "Guatemala",
+        "Tags": "hits,music,musica,música en inglés,pop,pop en español e inglés,top 40,top charts",
+        "Favicon": "https://949.com.gt/wp-content/uploads/2023/08/Untitled-Logo.jpg",
+        "Language": "es",
+        "Homepage": "https://949.com.gt/",
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/949FM_ADP.m3u8"
+    },
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "Guatemala",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "Actitud 100.9",
+        "Country": "Guatemala",
+        "Tags": "\\,christian,christian music,christian praise&worship",
+        "Favicon": "https://yt3.googleusercontent.com/ytc/APkrFKbGOrZMbz2DoH0SGUd1pe2xLQ4R1IQeX5VG7RJ0Bg=s176-c-k-c0x00ffffff-no-rj",
+        "Language": "en,es",
+        "Homepage": "https://actitud.fm/",
+        "Source1": "https://ss.redradios.net:8002/stream?type=.mp3"
+    },
+    {
+        "Title": "Actitud 100.9 FM",
+        "Country": "Guatemala",
+        "Favicon": "http://actitud.fm/wp-content/uploads/2017/09/logo-fb-white.png",
+        "Language": "es",
+        "Homepage": "https://actitud.fm/",
+        "Latitude": 14.612986621119855,
+        "Longitude": -90.52185058593751,
+        "Source1": "https://ss.redradios.net:8002/stream?type=.mp3"
+    },
+    {
+        "Title": "Actitud 100.9 FM Guatemala",
+        "Country": "Guatemala",
+        "Source1": "https://ss.redradios.net:8002/stream?type=.mp3"
+    },
+    {
+        "Title": "ARCA RADIO HD",
+        "Country": "Guatemala",
+        "Homepage": "https://arcaradiohd.com/radioplayer/index.html",
+        "Source1": "https://sh2.radioonlinehd.com:8136/arca"
+    },
+    {
+        "Title": "Astro Radio",
+        "Country": "Guatemala",
+        "Favicon": "https://i0.wp.com/astroradiogt.com/wp-content/uploads/2021/08/cropped-cropped-Banner-1.jpg?fit=180%2C180&ssl=1",
+        "Homepage": "https://astroradiogt.com/",
+        "Source1": "https://sonicpanel.streamsolutions.us:10945/stream"
+    },
+    {
+        "Title": "Atmósfera 96.5",
+        "Country": "Guatemala",
+        "Language": "es",
+        "Homepage": "https://emisorasunidas.com/atmosfera965/",
+        "Source1": "https://stream.zenolive.com/wbqp37gm8ueuv"
+    },
+    {
+        "Title": "Azúcar 96.7 FM",
+        "Country": "Guatemala",
+        "Tags": "banda,cumbia,entretenimiento,grupera,regional mexican",
+        "Favicon": "https://i0.wp.com/azucar967.com/wp-content/uploads/2022/09/cropped-1.png?w=1920",
+        "Language": "es",
+        "Homepage": "https://azucar967.com/",
+        "Source1": "https://radiostreamingaac.com:8568/azucarzacapa"
+    },
+    {
+        "Title": "Azúcar FM 99.9",
+        "Country": "Guatemala",
+        "Tags": "banda,entretenimiento,grupera,musica,reggaeton,regional mexican,urbano",
+        "Favicon": "https://i0.wp.com/999azucar.com/wp-content/uploads/2022/09/cropped-2.png?w=1920&ssl=1",
+        "Language": "es",
+        "Homepage": "https://999azucar.com/",
+        "Source1": "https://radiostreamingaac.com:8570/azucarjutiapa"
+    },
+    {
+        "Title": "CARACOL RADIO 105.1 FM",
+        "Country": "Guatemala",
+        "Tags": "cristiana,evangelio,gospel,radio comunitaria,religious",
+        "Language": "es",
+        "Homepage": "https://caracolquiche.com/",
+        "Source1": "https://stream.zeno.fm/u844q3w08mwtv"
+    },
+    {
+        "Title": "Caribean FM 105.1",
+        "Country": "Guatemala",
+        "Tags": "entretenimiento,latino,merengue,music,reggaeton,salsa,urbano",
+        "Favicon": "https://caribean.rcdn.com.gt/wp-content/uploads/2021/08/Logo-1024.png",
+        "Language": "es",
+        "Homepage": "https://caribean.rcdn.com.gt/",
+        "Source1": "https://sh4.radioonlinehd.com:8547/stream"
+    },
+    {
+        "Title": "Clásica 102.5 Guatemala",
+        "Country": "Guatemala",
+        "Tags": "102.5 fm,américa,centroamérica,classic hits,classics,clásica,clásicos,entretenimiento,estación,fm,guatemala,guatemala city,latinoamérica,moi merino,music,música,música del recuerdo,oldies,pop clásico,radio,retro",
+        "Language": "es",
+        "Homepage": "https://clasica1025.com/",
+        "Latitude": 14.643509527811169,
+        "Longitude": -90.51180839538576,
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/CLASICA_1065AAC.aac"
+    },
+    {
+        "Title": "Computer Forensic Radio",
+        "Country": "Guatemala",
+        "Tags": "educación,educational,jazz,local radio,technology",
+        "Language": "es",
+        "Homepage": "https://www.forensedigital.gt/",
+        "Source1": "https://radio.forensedigital.gt:8020/stream"
+    },
+    {
+        "Title": "Criollisima GT",
+        "Country": "Guatemala",
+        "Tags": "folclore,folk music,folklore,guatemala,local radio,venezuela",
+        "Favicon": "https://www.forensedigital.gt/criollisima.png",
+        "Language": "es",
+        "Homepage": "https://venezuela.gt/",
+        "Source1": "https://radio.forensedigital.gt:8060/stream"
+    },
+    {
+        "Title": "Dinámica 89.9 FM",
+        "Country": "Guatemala",
+        "Tags": "entretenimiento,latino,música en español,pop,pop en español,reggaeton",
+        "Favicon": "https://www.corporacionradialfm.com/assets/img/logo.png",
+        "Language": "es",
+        "Homepage": "https://www.corporacionradialfm.com/dinamicafm",
+        "Source1": "https://cloudstream2032.conectarhosting.com/8312/stream"
+    },
+    {
+        "Title": "El Comandante 101.3 FM",
+        "Country": "Guatemala",
+        "Tags": "banda,entretenimiento,grupera,hits,música en español,música popular mexicana,norteño,regional mexican",
+        "Favicon": "https://statics-v3.streema.com/static/img/radios/profile_background_default_380.abf7abe7e86a.jpg",
+        "Language": "es",
+        "Homepage": "https://www.medios.gt/elcomandante",
+        "Source1": "http://108.62.0.141:7038/stream"
+    },
+    {
+        "Title": "EMAUS RADIO",
+        "Country": "Guatemala",
+        "Tags": "catholic,christian",
+        "Homepage": "https://emausradio.net/",
+        "Source1": "https://sh2.radioonlinehd.com:8141/;"
+    },
+    {
+        "Title": "Emaús Radio",
+        "Country": "Guatemala",
+        "Tags": "bible,catholic,cristiana,evangelio,gospel",
+        "Favicon": "https://emausradio.org/wp-content/uploads/2023/02/Logotipo-Emaus-Radio.png",
+        "Language": "es",
+        "Homepage": "https://emausradio.org/",
+        "Source1": "https://sh2.radioonlinehd.com:8141/;"
+    },
+    {
+        "Title": "Emisoras Unidas 89.7",
+        "Country": "Guatemala",
+        "Tags": "news",
+        "Favicon": "https://emisorasunidas.com/favicon.ico",
+        "Language": "es",
+        "Homepage": "https://emisorasunidas.com/",
+        "Source1": "https://stream.zenolive.com/z96sq8tndseuv"
+    },
+    {
+        "Title": "Emisoras Unidas 91.1 FM",
+        "Country": "Guatemala",
+        "Tags": "deportes,entretenimiento,information,noticias,radio hablada,variety",
+        "Favicon": "https://static.emisorasunidas.com/uploads/2024/02/emisoras-unidas-home-radio-noticias-desktop.svg",
+        "Language": "es",
+        "Homepage": "https://emisorasunidas.com/",
+        "Source1": "https://stream.zeno.fm/3tfg0vng9ueuv",
+        "Source2": "https://stream.zeno.fm/0zashcvc9zquv"
+    },
+    {
+        "Title": "Estéreo Alegre 101.5 FM",
+        "Country": "Guatemala",
+        "Tags": "banda,cumbia,grupera,music,regional mexican",
+        "Favicon": "https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2Fr-qJkir8FI607bbfLEmcuoa8sLSOJYsaN020F4bQazY%2Frs%3Afit%3A1500%3A600%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSUNRc2ZxWXpRb01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSUNROGFYWWpBa01vZ0VFZW1WdWJ3L21pY3Jvc2l0ZS9iYWNrZ3JvdW5kX2ltYWdlLz91cGRhdGVkPTE2NjE2OTgzMzIwMDA.webp&w=1920&q=70",
+        "Language": "es",
+        "Homepage": "https://zeno.fm/radio/estereo-alegre-toto/",
+        "Source1": "https://stream.zeno.fm/597dgr66e2zuv"
+    },
+    {
+        "Title": "Estéreo Gerardi 107.9 FM",
+        "Country": "Guatemala",
+        "Tags": "cristiana,educational,radio comunitaria,religious,social,variety",
+        "Favicon": "https://radio.com.gt/uploads/img/stereo-gerardi.jpg",
+        "Language": "es",
+        "Homepage": "https://www.facebook.com/EstereoGerardi",
+        "Source1": "https://aler.org:8445/gerardi.mp3"
+    },
+    {
+        "Title": "Estéreo Santa Sion",
+        "Country": "Guatemala",
+        "Tags": "cristiana,evangelio,gospel,religious",
+        "Favicon": "https://www.estereosantasionlive.com/contenido-estatico/uploads/sites/76/2023/05/logo-150x150.jpg.webp",
+        "Language": "es",
+        "Homepage": "https://www.estereosantasionlive.com/",
+        "Source1": "https://radio015.gt.gt/radio/8000/live.mp3"
+    },
+    {
+        "Title": "Estéreo Solar 104.9 FM",
+        "Country": "Guatemala",
+        "Tags": "hits,latino,reggaeton",
+        "Favicon": "https://solar1049.com/wp-content/uploads/2024/01/cropped-1049.png",
+        "Language": "es",
+        "Homepage": "https://solar1049.com/",
+        "Source1": "https://radiostreamingaac.com:8566/solarpeten"
+    },
+    {
+        "Title": "Estéreo Solar 89.5 FM",
+        "Country": "Guatemala",
+        "Tags": "hits,latino,reggaeton",
+        "Favicon": "https://solar895.com/wp-content/uploads/2022/05/cropped-cropped-1-1.png",
+        "Language": "es",
+        "Homepage": "https://solar895.com/",
+        "Source1": "https://radiostreamingaac.com:8560/solarchiquimula"
+    },
+    {
+        "Title": "Estéreo Solar 98.3 FM",
+        "Country": "Guatemala",
+        "Tags": "deportes,hits,latino,reggaeton",
+        "Favicon": "https://i0.wp.com/solar983.com/wp-content/uploads/2024/01/cropped-983.png?fit=127%2C88&ssl=1",
+        "Language": "es",
+        "Homepage": "https://solar983.com/",
+        "Source1": "https://radiostreamingaac.com:8562/solarjutiapa"
+    },
+    {
+        "Title": "Eventos Catolicos Radio 940 AM",
+        "Country": "Guatemala",
+        "Tags": "bible,catholic,catolica,evangelio,gospel,religious",
+        "Favicon": "https://eventoscatolicos.org/wp-content/uploads/2024/01/cropped-Logo-Eventos-Site.png",
+        "Language": "es",
+        "Homepage": "https://eventoscatolicos.org/",
+        "Source1": "https://stream.zeno.fm/1g9cduy10bruv"
+    },
+    {
+        "Title": "Exa FM 101.7 Guatemala",
+        "Country": "Guatemala",
+        "Tags": "101.7 fm,entretenimiento,estación,exa,exa fm,fm,grupo alius,guatemala,juvenil,la estación exacta,la estación naranja,latin music,latin pop,latinoamérica,moi merino,music,mvs,mvs radio,música,música en español,música pop,ponte exa,pop,pop dance,pop music,pop rock,radio,top,top 100,top 40,top 40 hits,top charts,top hits",
+        "Favicon": "https://www.facebook.com/favicon.ico",
+        "Language": "es",
+        "Homepage": "https://www.facebook.com/exafmguatemala/",
+        "Latitude": 14.626030940165991,
+        "Longitude": -90.51652908325195,
+        "Source1": "https://stream.zeno.fm/czdkk32qduhvv"
+    },
+    {
+        "Title": "Exa FM Guatemala",
+        "Country": "Guatemala",
+        "Tags": "101.7 fm,centroamérica,contemporary hits,contemporary hits radio,entretenimiento,español,estación,exa,exa fm,fm,grupo alius,guatemala,juvenil,la estación exacta,la estación naranja,latin music,latin pop,latinoamérica,moi merino,music,mvs,mvs radio,música,música en español,música pop,ponte exa,pop,pop dance,pop music,pop rock,radio,top,top 100,top 40,top 40 hits,top charts,top hits",
+        "Favicon": "https://i.ibb.co/Wsr8kn2/Exa-FM-Guatemala.jpg",
+        "Language": "es",
+        "Homepage": "https://exafm.com/guatemala/",
+        "Latitude": 14.625953081427514,
+        "Longitude": -90.52425384521486,
+        "Source1": "https://stream.zeno.fm/czdkk32qduhvv"
+    },
+    {
+        "Title": "Felicidad Stereo",
+        "Country": "Guatemala",
+        "Favicon": "https://felicidadstereo.com/wp-content/uploads/2023/08/cropped-104.5-FM-192x192.png",
+        "Homepage": "https://felicidadstereo.com/",
+        "Source1": "http://radio.produccionescasaverde.com:8720/stream"
+    },
+    {
+        "Title": "FeLove Biblia en Quiché",
+        "Country": "Guatemala",
+        "Tags": "bibel,biblia,christian",
+        "Homepage": "https://radiofelove.com/",
+        "Source1": "http://radio.produccionescasaverde.com:8788/autodj"
+    },
+    {
+        "Title": "FeLove Clásica",
+        "Country": "Guatemala",
+        "Favicon": "https://clasica.radiofelove.com/wp-content/uploads/2020/04/cropped-feloveclasica.jpg",
+        "Homepage": "https://clasica.radiofelove.com/",
+        "Source1": "https://feloveclasica-radiofelove.radioca.st/stream?1741424230037"
+    },
+    {
+        "Title": "Futura 92.3",
+        "Country": "Guatemala",
+        "Favicon": "https://www.futuraradio.com.gt/assets/img/futura_923.png",
+        "Homepage": "https://www.futuraradio.com.gt/#/",
+        "Source1": "https://unsaved-gadfly-addilyn.ngrok-free.dev/mystream.mp3"
+    },
+    {
+        "Title": "Gaiteros de Guatemala",
+        "Country": "Guatemala",
+        "Tags": "folk music,folklore,musica latinoamericana,radio educativa de venezuela",
+        "Favicon": "https://www.forensedigital.gt/gaita.png",
+        "Language": "es",
+        "Homepage": "https://venezuela.gt/",
+        "Source1": "https://radio.forensedigital.gt:8030/stream"
+    },
+    {
+        "Title": "Globo 98.9 Guatemala",
+        "Country": "Guatemala",
+        "Tags": "98.9 fm,américa,centroamérica,entretenimiento,estación,fm,globo,guatemala,guatemala city,latinoamérica,moi merino,music,música,música del recuerdo,música en español,música variada,radio",
+        "Language": "es",
+        "Homepage": "https://globo989.com/",
+        "Latitude": 14.64334344236646,
+        "Longitude": -90.5130100250244,
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/GLOBO_989AAC.aac"
+    },
+    {
+        "Title": "Hacker por Cristo Network",
+        "Country": "Guatemala",
+        "Tags": "christian-gospel,education,educational,educativa,evangelical christian,gospel,gospel evangélica,gospel music,guatemala,guatemala city,mensajes cristianos,musica cristiana,radio cristiana,radio educación,radio evangelica",
+        "Language": "es",
+        "Homepage": "https://hxcn.org/",
+        "Source1": "https://radio.forensedigital.gt:8010/stream"
+    },
+    {
+        "Title": "Josy Music Latin",
+        "Country": "Guatemala",
+        "Favicon": "https://www.josymusiclive.com/assets/images/logojosymusiclive-121x121.png",
+        "Homepage": "https://josymusiclive.com/",
+        "Source1": "https://dj91.hostingnuclear.com/8144/stream"
+    },
+    {
+        "Title": "Josy Music PLUS",
+        "Country": "Guatemala",
+        "Favicon": "https://www.josymusiclive.com/assets/images/logojosymusiclive-121x121.png",
+        "Homepage": "https://josymusiclive.com/",
+        "Source1": "https://dj91.hostingnuclear.com/8116/stream"
+    },
+    {
+        "Title": "Josy Music Swing",
+        "Country": "Guatemala",
+        "Favicon": "https://www.josymusiclive.com/assets/images/logojosymusiclive-121x121.png",
+        "Homepage": "https://josymusiclive.com/",
+        "Source1": "https://dj91.hostingnuclear.com/8146/stream"
+    },
+    {
+        "Title": "Juventud Palabra Miel",
+        "Country": "Guatemala",
+        "Favicon": "https://juventudpalabramiel.org/images/radiojuventud.jpg",
+        "Homepage": "https://juventudpalabramiel.org/",
+        "Source1": "http://juventudpalabramiel.org:8000/radio"
+    },
+    {
+        "Title": "Kiss FM 97.7",
+        "Country": "Guatemala",
+        "Tags": "70s,80s,90s",
+        "Favicon": "https://emisorasunidas.com/favicon.ico",
+        "Language": "es",
+        "Homepage": "https://emisorasunidas.com/kiss977/",
+        "Source1": "https://stream.zenolive.com/1sgzkhhm8ueuv"
+    },
+    {
+        "Title": "La Grande 99.3 FM",
+        "Country": "Guatemala",
+        "Tags": "entretenimiento,latino,music,pop,reggaeton,urbano",
+        "Favicon": "https://static.emisorasunidas.com/uploads/2023/10/emisoras-unidas-inicio-la-grande-desktop.png",
+        "Language": "es",
+        "Homepage": "https://emisorasunidas.com/radios/la-grande/",
+        "Source1": "https://stream.zeno.fm/f1bgph3ve0quv"
+    },
+    {
+        "Title": "La Red 106.1 Guatemala",
+        "Country": "Guatemala",
+        "Tags": "106.1 fm,américa,centroamérica,deportes,entretenimiento,estación,fm,guatemala,guatemala city,la red,latinoamérica,moi merino,news,noticias,noticias en español,noticias locales,noticias nacionales e internacionales,noticias y comentarios,radio,radio hablada,sports,talk",
+        "Language": "es",
+        "Homepage": "https://www.lared1061.com/",
+        "Latitude": 14.644672122401682,
+        "Longitude": -90.5123233795166,
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/LA_REDAAC.aac"
+    },
+    {
+        "Title": "LOVE FM: All you need is Love / Clásicos del pop",
+        "Country": "Guatemala",
+        "Favicon": "https://i.postimg.cc/pd2qpS5j/lovefm1037.jpg",
+        "Language": "es",
+        "Homepage": "https://lovefm.com.mx/",
+        "Source1": "https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8"
+    },
+    {
+        "Title": "Maranatha Stereo Amen",
+        "Country": "Guatemala",
+        "Favicon": "https://cdn-radiotime-logos.tunein.com/s201805q.png",
+        "Homepage": "https://tunein.com/radio/Maranatha-Stereo-Amen-s201805/",
+        "Source1": "https://server.radiogs.net:7042/;"
+    },
+    {
+        "Title": "Mas Musica-92-5 FM",
+        "Country": "Guatemala",
+        "Favicon": "https://cdn.instant.audio/images/logos/emisoras-com-gt/mas-musica-92-5.png",
+        "Homepage": "https://nuevomundo.gt/mas-musica-radio/",
+        "Source1": "https://s4.radio.co/s42a526595/listen"
+    },
+    {
+        "Title": "MUSIQUERA",
+        "Country": "Guatemala",
+        "Tags": "192kbps,musiquera,musiquera 93.3 fm,rancheras,tu mejor compañera",
+        "Favicon": "https://cdn-profiles.tunein.com/s251791/images/logog.png",
+        "Language": "es",
+        "Homepage": "https://musiquera.com/?=GT",
+        "Source1": "https://securestreams7.autopo.st/?uri=http://s4.voscast.com:9320/stream"
+    },
+    {
+        "Title": "Más Música FM Radio",
+        "Country": "Guatemala",
+        "Language": "es",
+        "Homepage": "https://nuevomundo.gt/mas-musica-radio/",
+        "Source1": "https://vivo.miradio.in/8110/stream"
+    },
+    {
+        "Title": "Mía 93.7 Guatemala",
+        "Country": "Guatemala",
+        "Tags": "93.7 fm,américa,centroamérica,entretenimiento,estación,feminista,fm,guatemala,guatemala city,latinoamérica,moi merino,mujer,music,mía,música,música en español,música romántica,radio,romántica y femenina",
+        "Language": "es",
+        "Homepage": "https://mia937.com/",
+        "Latitude": 14.64344594824172,
+        "Longitude": -90.51416873931886,
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/MIAAAC.aac"
+    },
+    {
+        "Title": "Nueva Fabuestéreo 88.1FM y Quetzaltenango 89.5FM",
+        "Country": "Guatemala",
+        "Tags": "amor,baladas en español,musica romantica,música en español",
+        "Favicon": "https://static.emisorasunidas.com/uploads/2023/10/emisoras-unidas-nueva-fabuestereo-desktop-2x.webp",
+        "Language": "es",
+        "Homepage": "https://emisorasunidas.com/radios/nueva-fabuestereo/",
+        "Source1": "https://stream.zeno.fm/vs325dhm8ueuv"
+    },
+    {
+        "Title": "Observatorio OGDI Guatemala",
+        "Country": "Guatemala",
+        "Tags": "90s y más,educational,radio educación,techno,technology,the best of 80's",
+        "Favicon": "https://www.forensedigital.gt/ogdi.png",
+        "Language": "es",
+        "Homepage": "https://ogdi.org/",
+        "Source1": "https://radio.forensedigital.gt:8000/stream"
+    },
+    {
+        "Title": "Oriòn Stereo",
+        "Country": "Guatemala",
+        "Favicon": "https://www.orionstereo.org/_nuxt/icons/icon_512.62c0d3.png",
+        "Homepage": "https://www.orionstereo.org/",
+        "Source1": "https://ss.redradios.net:8046/stream"
+    },
+    {
+        "Title": "palabra miel",
+        "Country": "Guatemala",
+        "Tags": "university radio",
+        "Homepage": "http://juventudpalabramiel.org/",
+        "Source1": "http://juventudpalabramiel.org:8000/radio"
+    },
+    {
+        "Title": "Radio 107 Exito - 107.1 FM",
+        "Country": "Guatemala",
+        "Tags": "banda,grupera,music,música variada,norteño,reggaeton,regional mexican",
+        "Favicon": "https://cdn.onlineradiobox.com/img/l/3/27023.v6.png",
+        "Language": "es",
+        "Homepage": "https://www.facebook.com/107.1exito",
+        "Source1": "http://play10.tikast.com:8159/stream"
+    },
+    {
+        "Title": "Radio Actitud",
+        "Country": "Guatemala",
+        "Tags": "christian music",
+        "Favicon": "https://actitud.fm/apple-touch-icon.png",
+        "Language": "en,es",
+        "Homepage": "https://actitud.fm/",
+        "Latitude": 14.510775054300057,
+        "Longitude": -90.48063576221467,
+        "Source1": "https://ss.redradios.net:8002/stream?type=.mp3"
+    },
+    {
+        "Title": "Radio Activa 95.1 FM. En linea católica",
+        "Country": "Guatemala",
+        "Tags": "católica,diócesis sololá-chimaltenango,iglesia católica,música cristiana,predicas,tu radio diocesana",
+        "Language": "es",
+        "Homepage": "https://facebook.com/people/Radio-Activa-tu-radio-diocesana-951fm/100076825762031/",
+        "Latitude": 14.661449132019085,
+        "Longitude": -90.81812457399792,
+        "Source1": "https://sh4.radioonlinehd.com:8557/stream"
+    },
+    {
+        "Title": "Radio Amiga 93.3 FM",
+        "Country": "Guatemala",
+        "Tags": "2000s,90s,amor,baladas en español,love songs,musica romantica,retro",
+        "Favicon": "https://static2.mytuner.mobi/media/tvos_radios/rZq3pt23v9.jpg",
+        "Language": "es",
+        "Homepage": "http://radiolatina.live:8072/",
+        "Source1": "http://radiolatina.live:8072/;"
+    },
+    {
+        "Title": "Radio Camino Santidad",
+        "Country": "Guatemala",
+        "Tags": "catholic radio",
+        "Language": "es",
+        "Homepage": "https://www.radiocaminodesantidad.com/",
+        "Source1": "http://audio.livecastnet.com:1290/stream"
+    },
+    {
+        "Title": "Radio Central 91.9 FM",
+        "Country": "Guatemala",
+        "Tags": "bible,evangelio,gospel,religious",
+        "Favicon": "https://laradiodepaz919.com/images/logo.png",
+        "Language": "es",
+        "Homepage": "https://laradiodepaz919.com/",
+        "Source1": "http://live.myradioserver.net:7588/;"
+    },
+    {
+        "Title": "Radio Cultural TGN",
+        "Country": "Guatemala",
+        "Tags": "christian-gospel,evangelical",
+        "Favicon": "http://www.radiocultural.org/site/templates/yoo_infinite/favicon.ico",
+        "Language": "es",
+        "Homepage": "http://www.radiocultural.org/site",
+        "Latitude": 14.637756150915653,
+        "Longitude": -90.49507141113284,
+        "Source1": "https://stream.infinityhdstream.com/7054/stream"
+    },
+    {
+        "Title": "RADIO ESLA",
+        "Country": "Guatemala",
+        "Homepage": "http://radio-esla.blogspot.com/",
+        "Source1": "http://stream.zeno.fm/wdr15uyuezzuv"
+    },
+    {
+        "Title": "Radio Guate digital",
+        "Country": "Guatemala",
+        "Homepage": "https://radioguatedigital.com/",
+        "Source1": "https://radioguatedigital.com/live"
+    },
+    {
+        "Title": "Radio Infinita",
+        "Country": "Guatemala",
+        "Favicon": "https://i0.wp.com/radioinfinita.com/wp-content/uploads/2023/10/infinita-logo-blanco.png?fit=192%2c58&#038;ssl=1",
+        "Language": "en,es",
+        "Homepage": "https://radioinfinita.com/",
+        "Source1": "https://streams.radio.co/see730c7ab/listen"
+    },
+    {
+        "Title": "Radio Ixchel",
+        "Country": "Guatemala",
+        "Tags": "community radio",
+        "Favicon": "https://scontent-den2-1.xx.fbcdn.net/v/t39.30808-1/301523467_518363903427039_6706220393167430379_n.jpg?stp=c100.0.300.300a_dst-jpg_s200x200&_nc_cat=108&ccb=1-7&_nc_sid=f4b9fd&_nc_ohc=4oCQa0FlsMwQ7kNvgG_0qcS&_nc_ht=scontent-den2-1.xx&_nc_gid=AP2EObevBQQrIIigmt_4Tf_&oh=00_AYCkZqB4AyUyyCEGJlfHGK1peUA6xOtDfyRIl1Kjn25BBQ&oe=670DCECA",
+        "Language": "es",
+        "Homepage": "https://www.facebook.com/radixchel/",
+        "Latitude": 14.651939755839036,
+        "Longitude": -90.73956012725831,
+        "Source1": "https://stream-153.zeno.fm/p5fpudbtguquv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwNWZwdWRidGd1cXV2IiwiaG9zdCI6InN0cmVhbS0xNTMuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkhQQ0hFUkhUUUcyYVg1aXAyZ2R2M2ciLCJpYXQiOjE3Mjg1NzAzNTIsImV4cCI6MTcyODU3MDQxMn0.VvFIl3Nw_mS-gU9NqWTn58XakUv8FxUjIGavl6lfqcA"
+    },
+    {
+        "Title": "RADIO MARIA GUATEMALA",
+        "Country": "Guatemala",
+        "Tags": "catholic,religion",
+        "Homepage": "https://www.radiomaria.org.gt/",
+        "Source1": "http://dreamsiteradiocp.com:8072/stream"
+    },
+    {
+        "Title": "Radio Mesiánica",
+        "Country": "Guatemala",
+        "Tags": "christian,messianic",
+        "Language": "en",
+        "Homepage": "https://radiomesianica.com/",
+        "Source1": "https://felovemesianica-radiofelove.radioca.st/stream"
+    },
+    {
+        "Title": "RADIO ORLA - CAMINO ROJO",
+        "Country": "Guatemala",
+        "Favicon": "https://radioorlacaminorojo.com/assets/images/radioorla-121x121.jpg",
+        "Homepage": "https://radioorlacaminorojo.com/",
+        "Source1": "https://dj91.hostingnuclear.com/8080/stream"
+    },
+    {
+        "Title": "Radio Punto 90.5 Guatemala",
+        "Country": "Guatemala",
+        "Tags": "90.5 fm,américa,centroamérica,entretenimiento,español,estación,fm,guatemala,guatemala city,latinoamérica,moi merino,music,música,música y noticias,noticias,noticias en español,noticias locales,noticias nacionales e internacionales,noticias y comentarios,noticias y deportes,radio",
+        "Favicon": "https://cdn-radiotime-logos.tunein.com/s83606d.png",
+        "Language": "es",
+        "Homepage": "https://www.grupoalius.com/",
+        "Latitude": 14.64230800058546,
+        "Longitude": -90.51137924194336,
+        "Source1": "http://stream.zeno.fm/qzhqyu07dkhvv"
+    },
+    {
+        "Title": "Radio Romance",
+        "Country": "Guatemala",
+        "Tags": "romantic",
+        "Homepage": "https://arcangelvoiceover.blogspot.com/?m=1",
+        "Source1": "https://stream.zeno.fm/gnkysrxv3a0uv"
+    },
+    {
+        "Title": "Radio Sololá",
+        "Country": "Guatemala",
+        "Tags": "88.7 fm,contemporary hits,entretenimiento,guatemala,sololá",
+        "Favicon": "https://www.radiosolola.com.gt/images/favicon.ico",
+        "Language": "es",
+        "Homepage": "https://www.radiosolola.com.gt/",
+        "Latitude": 14.740623346313251,
+        "Longitude": -91.15960747003555,
+        "Source1": "https://sh1.radioonlinehd.com:8039/stream"
+    },
+    {
+        "Title": "Radio Universidad",
+        "Country": "Guatemala",
+        "Language": "es",
+        "Homepage": "https://radiou.usac.edu.gt/",
+        "Latitude": 14.586224916109924,
+        "Longitude": -90.55326461791994,
+        "Source1": "https://stream.zeno.fm/xqbz7b86a0quv"
+    },
+    {
+        "Title": "Radio Viva 95.3 Guatemala",
+        "Country": "Guatemala",
+        "Tags": "95.3 fm,español,estación,fm,guatemala,guatemala city,moi merino,music,música cristiana,música en español,música religiosa,radio,radio cristiana,radio viva",
+        "Favicon": "https://cdn-radiotime-logos.tunein.com/s163514d.png",
+        "Language": "es",
+        "Homepage": "https://www.grupoalius.com/",
+        "Latitude": 14.6425130132561,
+        "Longitude": -90.51318168640138,
+        "Source1": "https://stream.zeno.fm/uus2ugdadkhvv"
+    },
+    {
+        "Title": "Rhema Stereo",
+        "Country": "Guatemala",
+        "Favicon": "https://rhemastereo.fm/wp-content/uploads/2023/05/logo.png",
+        "Homepage": "https://rhemastereo.fm/",
+        "Source1": "https://radio.fiberstreams.com:2000/stream/8710"
+    },
+    {
+        "Title": "SINAI WORKSHOP",
+        "Country": "Guatemala",
+        "Tags": "1990s,80s en español,90s dance,90s y más,jazz,the best of 80's",
+        "Favicon": "https://forensedigital.gt/sinai.png",
+        "Language": "es",
+        "Homepage": "https://venezuela.gt/",
+        "Source1": "https://radio.forensedigital.gt:8070/stream"
+    },
+    {
+        "Title": "Stereo 100, Quetzaltenango",
+        "Country": "Guatemala",
+        "Tags": "latin pop,local news,traditional music",
+        "Language": "es",
+        "Homepage": "https://stereo100.com.gt/",
+        "Latitude": 14.840470035326694,
+        "Longitude": -91.5211140551115,
+        "Source1": "https://sh1.radioonlinehd.com:8056/stream?type=.mp3"
+    },
+    {
+        "Title": "TGW La Voz de Guatemala",
+        "Country": "Guatemala",
+        "Favicon": "https://radiotgw.gob.gt/wp-content/uploads/2018/11/cropped-TGW-POST-A-192x192.jpg",
+        "Homepage": "https://radiotgw.gob.gt/",
+        "Source1": "https://stream.radiotgw.gob.gt/8002/stream"
+    }
+]

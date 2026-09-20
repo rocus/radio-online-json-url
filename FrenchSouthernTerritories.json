@@ -1,0 +1,26 @@
+[
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "FrenchSouthernTerritories",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "NRJ VOIRON",
+        "Country": "FrenchSouthernTerritories",
+        "Favicon": "https://www.nrj.fr/favicon.ico",
+        "Homepage": "https://www.nrj.fr/",
+        "Source1": "http://cdn.nrjaudio.fm/adwz2/fr/30001/mp3_128.mp3"
+    },
+    {
+        "Title": "sensuelle radio",
+        "Country": "FrenchSouthernTerritories",
+        "Language": "fr",
+        "Homepage": "https://sensuelleradio.com/",
+        "Latitude": -21.27568942887999,
+        "Longitude": 55.52310794591904,
+        "Source1": "https://forwardmystream.com/sensuelleradio"
+    }
+]

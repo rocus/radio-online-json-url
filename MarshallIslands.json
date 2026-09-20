@@ -1,0 +1,30 @@
+[
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "MarshallIslands",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "Offshore Radio",
+        "Country": "MarshallIslands",
+        "Tags": "alternative rock,classic rock,hard rock,rock,soft rock",
+        "Favicon": "https://live.offshoreradio.net/static/uploads/offshore_radio/album_art.1773012574.png",
+        "Language": "en",
+        "Homepage": "https://offshoreradio.net/",
+        "Latitude": 7.086656768796287,
+        "Longitude": 171.3741311430931,
+        "Source1": "https://live.offshoreradio.net/listen/offshore_radio/radio.mp3"
+    },
+    {
+        "Title": "Offworld Radio",
+        "Country": "MarshallIslands",
+        "Tags": "house,techno",
+        "Favicon": "https://a4.asurahosting.com/static/uploads/clubfoot/album_art.1770961147.jpg",
+        "Language": "en",
+        "Homepage": "https://a4.asurahosting.com:7310/radio.mp3",
+        "Source1": "https://a4.asurahosting.com:7310/radio.mp3"
+    }
+]

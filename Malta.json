@@ -1,0 +1,105 @@
+[
+    {
+        "Title": "89.7 Bay",
+        "Country": "Malta",
+        "Favicon": "https://bay.com.mt/wp-content/uploads/2020/10/ListenToBay.png.webp",
+        "Homepage": "https://bay.com.mt/",
+        "Source1": "https://stream.v3.network/proxy/897bay/stream.mp3"
+    },
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "Malta",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "Bay 89.7",
+        "Country": "Malta",
+        "Favicon": "https://bay.com.mt/wp-content/plugins/phastpress/phast.php/c2VydmljZT1pbWFnZXMmc3JjPWh0dHBzJTNBJTJGJTJGYmF5LmNvbS5tdCUyRndwLWNvbnRlbnQlMkZ1cGxvYWRzJTJGMjAyMCUyRjEwJTJGU2l0ZUxvZ28ucG5nJmNhY2hlTWFya2VyPTE2NjIwNDc3MjQtNTA3OCZ0b2tlbj1jZTE2YTcwZTBiOTdkMTYy.q.png",
+        "Homepage": "https://www.bay.com.mt/",
+        "Source1": "https://stream.v3.network/proxy/897bay/stream.mp3?_=1"
+    },
+    {
+        "Title": "Bay Easy 100.2",
+        "Country": "Malta",
+        "Favicon": "https://bayeasy.mt/wp-content/uploads/2023/07/BayEasy_BLU-copy.png",
+        "Homepage": "https://bayeasy.mt/",
+        "Source1": "https://stream.v3.network/proxy/easy/stream.mp3"
+    },
+    {
+        "Title": "Calypso Radio",
+        "Country": "Malta",
+        "Tags": "music,talk",
+        "Favicon": "https://img1.wsimg.com/isteam/ip/cb21df74-856b-42e1-a8fe-bc24d4311d14/favicon/d3247829-803d-4f26-8709-620bb7b8109f.png/:/rs=w:120,h:120,m",
+        "Language": "mt",
+        "Homepage": "https://www.calypsomalta.com/",
+        "Source1": "https://s4.radio.co/sf3aa4c25a/listen"
+    },
+    {
+        "Title": "Campus 103.7",
+        "Country": "Malta",
+        "Favicon": "https://cdn-profiles.tunein.com/s18846/images/logod.png?t=638303682800000000",
+        "Homepage": "https://www.um.edu.mt/services/campus1037/",
+        "Source1": "https://campusfm.radioca.st/campusfm_live"
+    },
+    {
+        "Title": "Christmas Radio Malta",
+        "Country": "Malta",
+        "Homepage": "https://www.christmasradiomalta.com/",
+        "Source1": "http://philae.shoutca.st:8402/stream?type=http&nocache=165"
+    },
+    {
+        "Title": "Magic",
+        "Country": "Malta",
+        "Favicon": "https://magic.mt/wp-content/uploads/2024/11/cropped-pwa-icon-192x192-2-192x192.png",
+        "Homepage": "https://magic.mt/",
+        "Source1": "https://s46.myradiostream.com:6076/stream"
+    },
+    {
+        "Title": "MALTIN BISS",
+        "Country": "Malta",
+        "Tags": "country",
+        "Source1": "https://s4.voscast.com:8837/default"
+    },
+    {
+        "Title": "One Radio",
+        "Country": "Malta",
+        "Favicon": "http://www.one.com.mt/favicon.ico",
+        "Homepage": "http://www.one.com.mt/oneradio",
+        "Source1": "http://cdn.voscast.com/resources/?key=249f148a69ad7268c63c10098840e4d6&c=wmp"
+    },
+    {
+        "Title": "One Radio",
+        "Country": "Malta",
+        "Favicon": "http://one.com.mt/favicon.ico",
+        "Homepage": "http://one.com.mt/oneradio",
+        "Source1": "http://s10.voscast.com:8202/stream"
+    },
+    {
+        "Title": "Radju Maria Malta",
+        "Country": "Malta",
+        "Favicon": "http://radjumarija.org/wp-content/uploads/2016/01/favicon-1.ico",
+        "Language": "mt",
+        "Homepage": "http://radjumarija.org/",
+        "Source1": "http://dreamsiteradiocp.com:8102/"
+    },
+    {
+        "Title": "RADJU MARIJA MALTA",
+        "Country": "Malta",
+        "Tags": "catholic,christian,religion,talk",
+        "Favicon": "https://radjumarija.org/wp-content/uploads/2016/01/favicon-1.ico",
+        "Language": "mt",
+        "Homepage": "https://radjumarija.org/",
+        "Source1": "http://dreamsiteradiocp.com:8102/stream"
+    },
+    {
+        "Title": "Vibefm - Malta",
+        "Country": "Malta",
+        "Homepage": "https://vibe.mt/",
+        "Latitude": 35.7381525002691,
+        "Longitude": 14.611816406250002,
+        "Source1": "https://vibe.mt/player/"
+    }
+]

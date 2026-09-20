@@ -1,0 +1,33 @@
+[
+    {
+        "Title": "ABC Classic FM (AAC)",
+        "Country": "BritishVirginIslands",
+        "Favicon": "http://live-radio01.mediahubaustralia.com/2FMW/aac/",
+        "Homepage": "http://live-radio01.mediahubaustralia.com/2FMW/aac/",
+        "Source1": "http://live-radio01.mediahubaustralia.com/2FMW/aac/"
+    },
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "BritishVirginIslands",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "Burning Rockers",
+        "Country": "BritishVirginIslands",
+        "Favicon": "http://www.burningrockers.com/images/LOGO_TOP.jpg",
+        "Homepage": "http://www.burningrockers.com/",
+        "Source1": "http://176.9.121.230:8000/br"
+    },
+    {
+        "Title": "Soggy Dollar Radio",
+        "Country": "BritishVirginIslands",
+        "Favicon": "https://www.soggydollar.com/favicon.ico",
+        "Homepage": "https://www.soggydollar.com/",
+        "Latitude": 18.443053680668225,
+        "Longitude": -64.76381875591409,
+        "Source1": "https://samcloud.spacial.com/api/listen?sid=71281"
+    }
+]

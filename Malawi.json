@@ -1,0 +1,66 @@
+[
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "Malawi",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "Amaryllis E-Radio",
+        "Country": "Malawi",
+        "Favicon": "https://amaryllishotels.com/assets/images/AMARYLLIS%20LOGO_favicon-01.png",
+        "Homepage": "https://amaryllis-eradio.vercel.app/",
+        "Source1": "https://s4.radio.co/s40c05d6b1/low"
+    },
+    {
+        "Title": "Groove100 FM",
+        "Country": "Malawi",
+        "Tags": "hip-hop,rap,trap",
+        "Language": "en",
+        "Homepage": "https://groove100.mw/",
+        "Source1": "https://stream.zeno.fm/0r0xa792kwzuv",
+        "Source2": "https://a9.asurahosting.com/listen/groove100_fm/radio.mp3"
+    },
+    {
+        "Title": "MBC Radio 2FM",
+        "Country": "Malawi",
+        "Homepage": "https://mbc.mw/",
+        "Source1": "http://radiostream.mbc.mw:86/broadwavehigh.mp3?src=1"
+    },
+    {
+        "Title": "Mdubs Entertainment",
+        "Country": "Malawi",
+        "Homepage": "https://mdubsmusic.com/",
+        "Source1": "https://stream.zeno.fm/ogxfqt7gumguv"
+    },
+    {
+        "Title": "Power Global Media",
+        "Country": "Malawi",
+        "Homepage": "https://www.powerglobalmedia.com/",
+        "Source1": "https://a10.asurahosting.com:7270/radio.mp3"
+    },
+    {
+        "Title": "RADIO MARIA MALAWI",
+        "Country": "Malawi",
+        "Tags": "catholic,religion,talk",
+        "Homepage": "http://www.radiomaria.mw/",
+        "Source1": "http://dreamsiteradiocp.com:8040/stream"
+    },
+    {
+        "Title": "Timveni Radio",
+        "Country": "Malawi",
+        "Favicon": "https://static2.mytuner.mobi/media/tvos_radios/b3f7kdxwudw4.png",
+        "Homepage": "https://mytuner-radio.com/radio/timveni-500583/",
+        "Source1": "https://play.streamafrica.net/timveni"
+    },
+    {
+        "Title": "ZBS Zodiak FM",
+        "Country": "Malawi",
+        "Tags": "entertainment,local music,news,sport",
+        "Language": "en",
+        "Homepage": "https://zodiakmalawi.com/live-radio",
+        "Source1": "https://ice31.securenetsystems.net/0079"
+    }
+]

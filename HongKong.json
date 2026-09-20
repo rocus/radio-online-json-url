@@ -1,0 +1,757 @@
+[
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "HongKong",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "AisaFM亚洲粤语台",
+        "Country": "HongKong",
+        "Source1": "https://live.ximalaya.com/radio-first-page-app/live/999/64.m3u8?transcode=ts"
+    },
+    {
+        "Title": "Apple FM",
+        "Country": "HongKong",
+        "Tags": "news",
+        "Source1": "http://sc.apple-fm.net:9020/listen.pls"
+    },
+    {
+        "Title": "Apple-FM.net",
+        "Country": "HongKong",
+        "Tags": "oldies",
+        "Homepage": "http://www.apple-fm.net/",
+        "Source1": "http://sc7b.apple-fm.net:8188/listen.pls"
+    },
+    {
+        "Title": "APPLE-FM.net",
+        "Country": "HongKong",
+        "Favicon": "https://www.apple-fm.net/images/apple200text.png",
+        "Homepage": "https://www.apple-fm.net/",
+        "Source1": "http://server44.applesources.net/apple-fm.mp3"
+    },
+    {
+        "Title": "AXR",
+        "Country": "HongKong",
+        "Homepage": "https://www.axr.online/",
+        "Latitude": 1.326941322024912,
+        "Longitude": 103.82629763334992,
+        "Source1": "https://hongkongstream.axr.online/"
+    },
+    {
+        "Title": "AXR Hong Kong",
+        "Country": "HongKong",
+        "Tags": "news,sport",
+        "Language": "en",
+        "Homepage": "http://axr.co/",
+        "Source1": "http://hongkongstream.axr.online/"
+    },
+    {
+        "Title": "CNR-14 香港之声",
+        "Country": "HongKong",
+        "Tags": "information",
+        "Favicon": "https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20230612/1686554792374.png",
+        "Language": "yue",
+        "Homepage": "http://www.cnr.cn/",
+        "Source1": "http://ngcdn002.cnr.cn/live/xgzs/index.m3u8"
+    },
+    {
+        "Title": "CNR-14 香港之聲",
+        "Country": "HongKong",
+        "Tags": "information",
+        "Favicon": "https://ytmedia.radio.cn/CCYT/202306/12/18/1E202306121836.jpg",
+        "Language": "yue",
+        "Homepage": "https://www.cnr.cn/",
+        "Source1": "https://satellitepull.cnr.cn/live/wxxgzs/playlist.m3u8?wsSession=5849bb6c90cf7fc1a7e3eae9-174908181231216&wsIPSercert=f7b6cfa8467acd0836b62cf14aa786d3"
+    },
+    {
+        "Title": "D-100",
+        "Country": "HongKong",
+        "Favicon": "https://www.d100.net/",
+        "Homepage": "https://www.d100.net/",
+        "Latitude": 22.34408963385261,
+        "Longitude": 114.14235183800577,
+        "Source1": "http://59.152.232.107:8000/Channel1-128MP3"
+    },
+    {
+        "Title": "Digital Radio Hong Kong",
+        "Country": "HongKong",
+        "Tags": "cantonese,internet radio,music,oldies",
+        "Language": "yue",
+        "Homepage": "http://digitalradiohk.net/",
+        "Source1": "http://ice.digitalradiohk.net:8000/drhk"
+    },
+    {
+        "Title": "Fing Radio",
+        "Country": "HongKong",
+        "Tags": "news,pop,talk",
+        "Favicon": "https://cdn.onlineradiobox.com/img/apple-touch-icon-120x120.png",
+        "Homepage": "https://onlineradiobox.com/",
+        "Source1": "https://bluesfan.stream.laut.fm/bluesfan?t302=2020-11-06_13-46-59&uuid=28a2f040-51e1-44fe-899f-3519cbd5d4e9"
+    },
+    {
+        "Title": "FM Belowground",
+        "Country": "HongKong",
+        "Tags": "edm,electronic,music",
+        "Favicon": "https://belowground.fm/wp-content/uploads/2026/01/YETIOUT_FMBELOWGROUND_NEW-03-i.png",
+        "Language": "en",
+        "Homepage": "https://belowground.fm/",
+        "Source1": "https://listen.belowground.fm/radio/8000/radio.mp3"
+    },
+    {
+        "Title": "Highfun Radios ( shows)",
+        "Country": "HongKong",
+        "Favicon": "https://zeno.fm/_ipx/q_85&fit_cover&s_288x288/https://images.zeno.fm/SZeUK7-psWOBw1I245_SMIaEwn3jcW85NO8xLGu8hm8/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJRHdnSTJKaUFnTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRHdrT3loMVFzTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY0ODY5MzI1MjAwMA.webp",
+        "Language": "en",
+        "Homepage": "https://zeno.fm/radio/highfun-radios-shows/",
+        "Source1": "https://stream.zeno.fm/vzgtzzs0x68uv"
+    },
+    {
+        "Title": "Hong Kong Community Radio",
+        "Country": "HongKong",
+        "Homepage": "https://hkcr.live/",
+        "Source1": "https://stream-test.hkcr.live/hls/main.m3u8"
+    },
+    {
+        "Title": "Ifeng",
+        "Country": "HongKong",
+        "Tags": "news",
+        "Favicon": "https://upload.wikimedia.org/wikipedia/en/3/34/Phoenix_Chinese.svg",
+        "Language": "en,zh",
+        "Homepage": "https://i.ifeng.com/?en=ifen",
+        "Latitude": 22.278851738415295,
+        "Longitude": 114.188348204086,
+        "Source1": "http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8"
+    },
+    {
+        "Title": "Ifeng (Phoenix TV)",
+        "Country": "HongKong",
+        "Tags": "documentary,news,tv",
+        "Favicon": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Phoenix_Chinese.svg/1536px-Phoenix_Chinese.svg.png",
+        "Language": "en,zh",
+        "Homepage": "https://i.ifeng.com/",
+        "Latitude": 22.28455828638223,
+        "Longitude": 114.15772591654152,
+        "Source1": "http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8"
+    },
+    {
+        "Title": "Ifeng (Phoenix)",
+        "Country": "HongKong",
+        "Tags": "news",
+        "Favicon": "https://en.m.wikipedia.org/wiki/Phoenix_Television#/media/File%3APhoenix_Chinese.svg",
+        "Language": "en,zh",
+        "Homepage": "https://i.ifeng.com/?en=ifengweb",
+        "Latitude": 22.27840540901435,
+        "Longitude": 114.1885566712604,
+        "Source1": "http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8"
+    },
+    {
+        "Title": "La French Radio Honk-Kong et Macao",
+        "Country": "HongKong",
+        "Favicon": "https://cdn.onlineradiobox.com/img/apple-touch-icon-120x120.png",
+        "Homepage": "https://onlineradiobox.com/",
+        "Source1": "https://listen.radioking.com/radio/333865/stream/382282"
+    },
+    {
+        "Title": "Metro Plus 1044 AM",
+        "Country": "HongKong",
+        "Tags": "music,news",
+        "Favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNMHNUQklLiwV95JbCYaxW22hy5mMqCqxm1w&usqp=CAU",
+        "Language": "cmn,en",
+        "Homepage": "https://www.metroradio.com.hk/",
+        "Source1": "http://162.220.162.10:8011/stream"
+    },
+    {
+        "Title": "Originalradio",
+        "Country": "HongKong",
+        "Tags": "variety",
+        "Homepage": "https://originalradio.org/",
+        "Source1": "https://stream.zeno.fm/rzwzgu0dd8zuv"
+    },
+    {
+        "Title": "radio 1",
+        "Country": "HongKong",
+        "Favicon": "https://www.rthk.hk/img/apple-icon-114x114.png",
+        "Language": "en",
+        "Homepage": "https://www.rthk.hk/",
+        "Source1": "https://rthkaudio1-lh.akamaihd.net/i/radio1_1@355864/index_56_a-p.m3u8"
+    },
+    {
+        "Title": "Radio 1111",
+        "Country": "HongKong",
+        "Favicon": "https://www.rthk.hk/img/apple-icon-114x114.png",
+        "Language": "en",
+        "Homepage": "https://www.rthk.hk/",
+        "Source1": "https://rthkaudio1-lh.akamaihd.net/i/radio1_1@355864/index_56_a-p.m3u8"
+    },
+    {
+        "Title": "Radio 4444",
+        "Country": "HongKong",
+        "Language": "en",
+        "Homepage": "http://www.rthk.hk/",
+        "Source1": "https://rthkaudio4-lh.akamaihd.net/i/radio4_1@355867/master.m3u8"
+    },
+    {
+        "Title": "Radio Disney Asia FM 100.7",
+        "Country": "HongKong",
+        "Tags": "pop,top 40,variety,youth",
+        "Favicon": "https://ar.radiodisney.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FLogoPlayer.94eccc39.jpg&w=320&q=75",
+        "Language": "cmn,en",
+        "Homepage": "https://www.radiodisney.com/",
+        "Source1": "https://listen.radioking.com/radio/453221/stream/508076"
+    },
+    {
+        "Title": "RTHK Radio 1",
+        "Country": "HongKong",
+        "Tags": "educational,entertainment,news",
+        "Favicon": "https://www.rthk.hk/img/apple-icon-114x114.png",
+        "Homepage": "https://www.rthk.hk/",
+        "Source1": "http://stm1.rthk.hk/radio1"
+    },
+    {
+        "Title": "RTHK Radio 1",
+        "Country": "HongKong",
+        "Tags": "information,news",
+        "Favicon": "https://cdn.webrad.io/images/logos/radios-hk/rthk-1.png",
+        "Language": "yue",
+        "Homepage": "http://www.rthk.org.hk/channel/radio1/",
+        "Source1": "https://rthkaudio1-lh.akamaihd.net/i/radio1_1@355864/index_56_a-p.m3u8"
+    },
+    {
+        "Title": "RTHK Radio 1",
+        "Country": "HongKong",
+        "Language": "en",
+        "Homepage": "https://rthkaudio1-lh.akamaihd.net/i/radio1_1@355864/index_56_a-p.m3u8",
+        "Source1": "https://rthkaudio1-lh.akamaihd.net/i/radio1_1@355864/index_56_a-p.m3u8"
+    },
+    {
+        "Title": "RTHK Radio 1",
+        "Country": "HongKong",
+        "Tags": "news,public radio",
+        "Language": "yue",
+        "Homepage": "http://www.rthk.org.hk/",
+        "Source1": "https://rthkradio1-live.akamaized.net/hls/live/2035313/radio1/master.m3u8"
+    },
+    {
+        "Title": "RTHK Radio 2",
+        "Country": "HongKong",
+        "Tags": "entertainment,pop",
+        "Homepage": "https://www.rthk.hk/",
+        "Source1": "http://stm2.rthk.hk/radio2"
+    },
+    {
+        "Title": "RTHK Radio 2",
+        "Country": "HongKong",
+        "Tags": "94.8,94.8 fm,entertainment",
+        "Language": "yue",
+        "Homepage": "http://www.rthk.org.hk/",
+        "Source1": "https://rthkradio2-live.akamaized.net/hls/live/2040078/radio2/index_64_a.m3u8"
+    },
+    {
+        "Title": "RTHK radio 2",
+        "Country": "HongKong",
+        "Tags": "entertainment,information",
+        "Language": "yue",
+        "Homepage": "http://www.rthk.org.hk/channel/radio2/",
+        "Source1": "https://rthkaudio2-lh.akamaihd.net/i/radio2_1@355865/index_56_a-p.m3u8"
+    },
+    {
+        "Title": "RTHK Radio 3",
+        "Country": "HongKong",
+        "Tags": "english,information,news",
+        "Language": "en",
+        "Homepage": "http://www.rthk.org.hk/",
+        "Source1": "https://rthkradio3-live.akamaized.net/hls/live/2040079/radio3/master.m3u8"
+    },
+    {
+        "Title": "RTHK radio 3",
+        "Country": "HongKong",
+        "Tags": "news,public radio",
+        "Language": "en",
+        "Homepage": "http://www.rthk.org.hk/channel/radio3/",
+        "Source1": "https://rthkaudio3-lh.akamaihd.net/i/radio3_1@355866/index_56_a-p.m3u8"
+    },
+    {
+        "Title": "RTHK Radio 4",
+        "Country": "HongKong",
+        "Tags": "97.6,97.6 fm,classical",
+        "Language": "en,yue",
+        "Homepage": "http://www.rthk.org.hk/",
+        "Source1": "https://rthkradio4-live.akamaized.net/hls/live/2040080/radio4/master.m3u8"
+    },
+    {
+        "Title": "RTHK Radio 5",
+        "Country": "HongKong",
+        "Tags": "am783,education,educational,information,public radio",
+        "Language": "yue",
+        "Homepage": "http://www.rthk.org.hk/",
+        "Source1": "https://rthkradio5-live.akamaized.net/hls/live/2040081/radio5/master.m3u8"
+    },
+    {
+        "Title": "RTHK Radio 5",
+        "Country": "HongKong",
+        "Tags": "education,educational,news,public radio",
+        "Favicon": "https://static.wikia.nocookie.net/hkradio/images/f/f8/RTHKRadio5_logo.gif/revision/latest?cb=20131022130417&path-prefix=zh",
+        "Language": "yue",
+        "Homepage": "https://news.rthk.hk/rthk/en/",
+        "Source1": "https://rthkaudio5-lh.akamaihd.net/i/radio5_1@355868/index_56_a-p.m3u8"
+    },
+    {
+        "Title": "RTHK Radio 6 央廣香港之聲",
+        "Country": "HongKong",
+        "Tags": "public radio",
+        "Language": "yue",
+        "Homepage": "http://www.cnr.cn/",
+        "Source1": "https://rthkradiocnrhk-live.akamaized.net/hls/live/2046111/radiocnrhk/master.m3u8"
+    },
+    {
+        "Title": "RTHK Radio 8 央廣粵港澳大灣區之聲",
+        "Country": "HongKong",
+        "Tags": "102.8,102.8 fm,public radio",
+        "Favicon": "http://ytdem.radio.cn/oldres/cnvod/audio2017/ondemand/media/1100/20201230/1609294853242.jpg",
+        "Language": "yue",
+        "Homepage": "http://www.cnr.cn/",
+        "Source1": "https://rthkradiocmgrgb-live.akamaized.net/hls/live/2046112/radiocmgrgb/master.m3u8"
+    },
+    {
+        "Title": "RTHK Radio-3",
+        "Country": "HongKong",
+        "Favicon": "https://webstatic.rthk.hk/img/apple-icon-114x114.png",
+        "Homepage": "https://www.rthk.hk/radio/radio3?lang=en",
+        "Source1": "https://rthkaudio3-lh.akamaihd.net/i/radio3_1@355866/master.m3u8"
+    },
+    {
+        "Title": "Universal Health Radio (粵語)",
+        "Country": "HongKong",
+        "Tags": "cdc,chinese,education,fda,health,news,public health,who",
+        "Favicon": "https://universalhealthradio.org/favicon.png",
+        "Language": "zh",
+        "Homepage": "https://universalhealthradio.org/",
+        "Source1": "https://radio.universalhealthradio.org/uhr-yue.mp3"
+    },
+    {
+        "Title": "ZENO FM 良友同行频道",
+        "Country": "HongKong",
+        "Tags": "religion",
+        "Favicon": "https://zeno.fm/_ipx/f_webp&q_85&fit_cover&s_288x288/https://images.zeno.fm/LGQOOUaEo3MLF9_bx1RaFEBCpjbxXevZx_ELbWE9Zyw/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvZDk3NGI4MDMtYTdmMi00N2FhLTkwOTUtYTQwNjNlNDMxYzEyL2ltYWdlLz91PTE3Mjk1NjE0MjYwMDA.webp",
+        "Language": "zh",
+        "Homepage": "https://729ly.net/",
+        "Source1": "https://stream.zeno.fm/2uvcyzjw38ivv"
+    },
+    {
+        "Title": "三时系念",
+        "Country": "HongKong",
+        "Language": "zh",
+        "Homepage": "https://www.hwadzan.tv/",
+        "Source1": "https://v.hwadzan.info/liveedge/_definst_/smil:sanshi_720p.smil/playlist.m3u8"
+    },
+    {
+        "Title": "中央人民廣播電台 中國之聲",
+        "Country": "HongKong",
+        "Language": "zh",
+        "Homepage": "https://www.cnr.cn/",
+        "Source1": "http://zbbf2.ahbztv.com/live/4f3.m3u8"
+    },
+    {
+        "Title": "中央人民廣播電台 經濟之聲",
+        "Country": "HongKong",
+        "Favicon": "http://5b0988e595225.cdn.sohucs.com/images/20191022/9c14ea3edb2a4b8798cfd33865397800.jpeg",
+        "Language": "zh",
+        "Homepage": "https://www.cnr.cn/",
+        "Source1": "http://ngcdn002.cnr.cn/live/jjzs/index.m3u8"
+    },
+    {
+        "Title": "中山環保旅遊之聲",
+        "Country": "HongKong",
+        "Favicon": "http://pic.qingting.fm/2017/0811/20170811095134.jpeg",
+        "Language": "yue,zh",
+        "Homepage": "http://www.zsbtv.com.cn/",
+        "Source1": "https://lhttp.qingting.fm/live/1278/64k.mp3"
+    },
+    {
+        "Title": "中山綜合廣播",
+        "Country": "HongKong",
+        "Favicon": "http://pic.qingting.fm/2020/0417/20200417071307.png",
+        "Language": "yue",
+        "Homepage": "http://www.zsbtv.com.cn/",
+        "Source1": "https://lhttp.qingting.fm/live/1277/64k.mp3"
+    },
+    {
+        "Title": "凤凰卫视中文台",
+        "Country": "HongKong",
+        "Tags": "news,talk",
+        "Favicon": "https://y1.ifengimg.com/index/72x72_2520ifeng.png",
+        "Language": "zh",
+        "Homepage": "https://www.ifeng.com/",
+        "Source1": "http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8"
+    },
+    {
+        "Title": "华藏多元文化台",
+        "Country": "HongKong",
+        "Language": "zh",
+        "Homepage": "https://www.hwadzan.tv/",
+        "Source1": "https://v.hwadzan.info/liveedge/_definst_/education/playlist.m3u8"
+    },
+    {
+        "Title": "双溪法会",
+        "Country": "HongKong",
+        "Language": "zh",
+        "Homepage": "https://www.hwadzan.tv/",
+        "Source1": "https://v.hwadzan.info/liveedge/_definst_/smil:sx.smil/playlist.m3u8"
+    },
+    {
+        "Title": "台山電台",
+        "Country": "HongKong",
+        "Favicon": "http://pic.qingting.fm/2019/0313/20190313010126.jpeg",
+        "Language": "yue",
+        "Homepage": "http://www.jmnews.com.cn/a/content/2024-03/21/content_2679562.htm",
+        "Source1": "https://lhttp-hw.qtfm.cn/live/5022062/64k.mp3"
+    },
+    {
+        "Title": "夜空傳情",
+        "Country": "HongKong",
+        "Tags": "music",
+        "Favicon": "https://liveonlineradio.net/wp-content/uploads/2021/04/sunnys-music-show-220x108.jpg",
+        "Language": "yue",
+        "Homepage": "https://open.spotify.com/show/08hLUNwvOdIXJjlXHiWm1r",
+        "Source1": "http://procyon.shoutca.st:8492/listen.mp3"
+    },
+    {
+        "Title": "大嶼山廣播電台 RADIO LANTAU",
+        "Country": "HongKong",
+        "Tags": "alternative rock,classic rock,funk,instrumental,internet radio,jazz,music,power pop,punk,soul,surf",
+        "Favicon": "https://liveonlineradio.net/wp-content/uploads/2017/08/Radio-Lantau.jpg",
+        "Language": "en",
+        "Homepage": "https://radiolantau.com/",
+        "Source1": "https://radio.dripfeed.net/listen/radiolantau/radio.mp3"
+    },
+    {
+        "Title": "大連交通廣播",
+        "Country": "HongKong",
+        "Tags": "full service",
+        "Favicon": "https://pic.baike.soso.com/ugc/baikepic2/17726/20160809183723-1630520041.jpg/0",
+        "Language": "zh",
+        "Homepage": "http://www.dltv.cn/",
+        "Source1": "http://live.ximalaya.com/radio-first-page-app/live/2817/64.m3u8"
+    },
+    {
+        "Title": "大連少兒廣播",
+        "Country": "HongKong",
+        "Tags": "music",
+        "Favicon": "https://pic.baike.soso.com/ugc/baikepic2/17726/20160809183723-1630520041.jpg/0",
+        "Language": "zh",
+        "Homepage": "http://www.dltv.cn/",
+        "Source1": "https://lhttp.qtfm.cn/live/1084/64k.mp3"
+    },
+    {
+        "Title": "大連新聞綜合廣播",
+        "Country": "HongKong",
+        "Tags": "full service",
+        "Favicon": "https://pic.baike.soso.com/ugc/baikepic2/17726/20160809183723-1630520041.jpg/0",
+        "Language": "zh",
+        "Homepage": "http://www.dltv.cn/",
+        "Source1": "https://live.xmcdn.com/live/2732/64.m3u8"
+    },
+    {
+        "Title": "大連都市之聲廣播",
+        "Country": "HongKong",
+        "Tags": "entertainment",
+        "Favicon": "https://pic.baike.soso.com/ugc/baikepic2/17726/20160809183723-1630520041.jpg/0",
+        "Language": "zh",
+        "Homepage": "http://www.dltv.cn/",
+        "Source1": "https://lhttp-hw.qtfm.cn/live/1086/64k.mp3"
+    },
+    {
+        "Title": "大連體育廣播",
+        "Country": "HongKong",
+        "Tags": "sports",
+        "Favicon": "https://pic.baike.soso.com/ugc/baikepic2/17726/20160809183723-1630520041.jpg/0",
+        "Language": "zh",
+        "Homepage": "http://www.dltv.cn/",
+        "Source1": "http://ls.qingting.fm/live/1085.m3u8"
+    },
+    {
+        "Title": "悟道法师讲经台",
+        "Country": "HongKong",
+        "Language": "zh",
+        "Homepage": "https://www.hwadzan.tv/",
+        "Source1": "https://v.hwadzan.info/liveedge/_definst_/smil:wdmaster.smil/playlist.m3u8"
+    },
+    {
+        "Title": "深圳交通廣播",
+        "Country": "HongKong",
+        "Favicon": "https://so1.360tres.com/t016784d7db69638713.jpg",
+        "Language": "zh",
+        "Homepage": "https://www.sztv.com.cn/",
+        "Source1": "https://lhttp-hw.qtfm.cn/live/1272/64k.mp3"
+    },
+    {
+        "Title": "深圳新聞廣播",
+        "Country": "HongKong",
+        "Favicon": "https://so1.360tres.com/t016784d7db69638713.jpg",
+        "Language": "zh",
+        "Homepage": "https://www.sztv.com.cn/",
+        "Source1": "http://lhttp.qingting.fm/live/1270/64k.mp3"
+    },
+    {
+        "Title": "深圳生活廣播",
+        "Country": "HongKong",
+        "Favicon": "https://so1.360tres.com/t016784d7db69638713.jpg",
+        "Language": "zh",
+        "Homepage": "https://www.sztv.com.cn/",
+        "Source1": "http://ls.qingting.fm/live/1273.m3u8"
+    },
+    {
+        "Title": "深圳音樂廣播",
+        "Country": "HongKong",
+        "Tags": "music",
+        "Favicon": "https://so1.360tres.com/t016784d7db69638713.jpg",
+        "Language": "zh",
+        "Homepage": "https://www.sztv.com.cn/",
+        "Source1": "http://ls.qingting.fm/live/1271.m3u8"
+    },
+    {
+        "Title": "源声态汽车音乐电台",
+        "Country": "HongKong",
+        "Tags": "oldies",
+        "Favicon": "https://pic.qtfm.cn/2024/0410/20240410025046.jpeg",
+        "Language": "zh",
+        "Homepage": "https://www.qtfm.cn/radios/20500021",
+        "Source1": "https://lhttp-hw.qtfm.cn/live/20500021/64k.mp3"
+    },
+    {
+        "Title": "澳门绿邦",
+        "Country": "HongKong",
+        "Tags": "加",
+        "Favicon": "null",
+        "Homepage": "https://fm995.ddns.net/hls1/fm995.m3u8",
+        "Source1": "https://fm995.ddns.net/hls1/fm995.m3u8"
+    },
+    {
+        "Title": "澳门绿邨电台",
+        "Country": "HongKong",
+        "Tags": "国语",
+        "Favicon": "null",
+        "Homepage": "https://fm995.ddns.net/hls1/fm995.m3u8",
+        "Source1": "https://fm995.ddns.net/hls1/fm995.m3u8"
+    },
+    {
+        "Title": "熱血時報",
+        "Country": "HongKong",
+        "Tags": "internet radio",
+        "Language": "yue",
+        "Homepage": "http://passiontimes.hk/4.0/index.php",
+        "Source1": "https://ptmirror3.passiontimes.hk/hls3/stream.m3u8"
+    },
+    {
+        "Title": "珠海環保經濟廣播",
+        "Country": "HongKong",
+        "Favicon": "http://pic.qtfm.cn/2022/1229/20221229110525.jpeg!200",
+        "Language": "zh",
+        "Homepage": "https://www.hizh.cn/",
+        "Source1": "https://lhttp-hw.qtfm.cn/live/1275/64k.mp3"
+    },
+    {
+        "Title": "珠海綜合廣播",
+        "Country": "HongKong",
+        "Favicon": "http://pic.qingting.fm/2022/0815/20220815031908.png",
+        "Language": "zh",
+        "Homepage": "https://www.hizh.cn/",
+        "Source1": "https://lhttp-hw.qtfm.cn/live/1274/64k.mp3"
+    },
+    {
+        "Title": "珠海資訊廣播",
+        "Country": "HongKong",
+        "Favicon": "http://pic.qingting.fm/2022/1231/20221231114640.png",
+        "Language": "zh",
+        "Homepage": "https://www.hizh.cn/",
+        "Source1": "https://lhttp-hw.qtfm.cn/live/5021725/64k.mp3"
+    },
+    {
+        "Title": "第四台",
+        "Country": "HongKong",
+        "Favicon": "https://www.rthk.hk/img/apple-icon-114x114.png",
+        "Homepage": "https://www.rthk.hk/radio/radio4/",
+        "Source1": "https://rthkaudio4-lh.akamaihd.net/i/radio4_1@355867/master.m3u8"
+    },
+    {
+        "Title": "网络念佛堂",
+        "Country": "HongKong",
+        "Language": "zh",
+        "Homepage": "https://www.hwadzan.tv/",
+        "Source1": "https://js1.hwadzan.info/liveedge/_definst_/smil:amtb.smil/playlist.m3u8"
+    },
+    {
+        "Title": "良友电台友音乐频道",
+        "Country": "HongKong",
+        "Favicon": "https://zeno.fm/_ipx/_/https://images.zeno.fm/Rfga_aqdyJTHhOUeOVe5z-j4fmTXNe9avbyWEoQX32I/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvMTNlYmQ5M2UtMGIzOS00ODk0LTlmNmQtYjIwNGMzMzEwZDk5L2ltYWdlLz91PTE3Mjk1NjEzNDMwMDA.webp",
+        "Language": "zh",
+        "Homepage": "https://r1.lyradio.net/ly-platforms",
+        "Source1": "https://c25.radioboss.fm:8334/stream"
+    },
+    {
+        "Title": "良友电台同行频道",
+        "Country": "HongKong",
+        "Favicon": "https://zeno.fm/_ipx/_/https://images.zeno.fm/LGQOOUaEo3MLF9_bx1RaFEBCpjbxXevZx_ELbWE9Zyw/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvZDk3NGI4MDMtYTdmMi00N2FhLTkwOTUtYTQwNjNlNDMxYzEyL2ltYWdlLz91PTE3Mjk1NjE0MjYwMDA.webp",
+        "Language": "zh",
+        "Homepage": "https://r1.lyradio.net/ly-platforms",
+        "Source1": "https://c23.radioboss.fm/stream/194"
+    },
+    {
+        "Title": "華語 HITS",
+        "Country": "HongKong",
+        "Favicon": "https://new.brg-radio.com/wp-content/themes/brg-wp/img/logo.png",
+        "Homepage": "https://new.brg-radio.com/",
+        "Source1": "https://das-edge14-live365-dal02.cdnstream.com/a57743_2"
+    },
+    {
+        "Title": "陽光衛視",
+        "Country": "HongKong",
+        "Tags": "tv",
+        "Favicon": "http://www.nettvpro.xyz/uploads/18/1-1PR5212U3439.jpg",
+        "Language": "zh",
+        "Homepage": "https://www.chinasuntv.com/",
+        "Source1": "https://stream.chinasuntv.com/680k/mid_video_index.m3u8"
+    },
+    {
+        "Title": "香港新城电台知讯台",
+        "Country": "HongKong",
+        "Tags": "culture,music,news,news talk",
+        "Favicon": "https://sao.fm/wp-content/uploads/20220401142443934-150x150.jpeg",
+        "Language": "yue",
+        "Homepage": "https://www.metroradio.com.hk/superhome/",
+        "Latitude": 22.248428704383624,
+        "Longitude": 114.169921875,
+        "Source1": "https://1603884249.rsc.cdn77.org/1603884249/index.m3u8"
+    },
+    {
+        "Title": "香港新城电台财经台",
+        "Country": "HongKong",
+        "Tags": "culture,economics",
+        "Favicon": "https://sao.fm/wp-content/uploads/20220401142443934-150x150.jpeg",
+        "Language": "yue",
+        "Homepage": "https://www.metroradio.com.hk/superhome/LiveMF.aspx",
+        "Latitude": 22.319589442833923,
+        "Longitude": 114.180908203125,
+        "Source1": "https://1716664847.rsc.cdn77.org/1716664847/tracks-a1/mono.ts.m3u8"
+    },
+    {
+        "Title": "香港新城电台采讯台",
+        "Country": "HongKong",
+        "Favicon": "http://radio.nettvpro.xyz/uploads/26/1-260224022026125.jpg",
+        "Language": "en,yue",
+        "Homepage": "https://www.metroradio.com.hk/superhome/LiveMF.aspx",
+        "Source1": "https://1946218710.rsc.cdn77.org/1946218710/index.m3u8"
+    },
+    {
+        "Title": "香港普通话台",
+        "Country": "HongKong",
+        "Homepage": "https://www.rthk.hk/radio/pth",
+        "Source1": "https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/master.m3u8",
+        "Source2": "https://rthkradiopth-live.akamaized.net/hls/live/2040082/radiopth/master.m3u8",
+        "Source3": "https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/index_56_a-p.m3u8"
+    },
+    {
+        "Title": "香港电台第三台",
+        "Country": "HongKong",
+        "Tags": "international",
+        "Favicon": "https://webstatic.rthk.hk/img/radio_icon/Player_Logo/R3_cNam_01.svg",
+        "Language": "en,yue",
+        "Homepage": "https://www.rthk.hk/radio",
+        "Latitude": 22.2843312824866,
+        "Longitude": 114.158935546875,
+        "Source1": "https://rthkradio3-live.akamaized.net/hls/live/2040079/radio3/master.m3u8"
+    },
+    {
+        "Title": "香港电台第二台",
+        "Country": "HongKong",
+        "Tags": "music",
+        "Favicon": "https://webstatic.rthk.hk/img/radio_icon/Player_Logo/R2_cNam_01.svg",
+        "Language": "yue",
+        "Homepage": "https://www.rthk.hk/",
+        "Latitude": 22.2280904167845,
+        "Longitude": 114.19189453125,
+        "Source1": "http://stm2.rthk.hk/radio2"
+    },
+    {
+        "Title": "香港電台第一台",
+        "Country": "HongKong",
+        "Tags": "information,news",
+        "Favicon": "https://webstatic.rthk.hk/img/radio_icon/Player_Logo/R1_cNam_01.svg",
+        "Language": "yue",
+        "Homepage": "http://www.rthk.org.hk/",
+        "Latitude": 22.248428704383624,
+        "Longitude": 114.169921875,
+        "Source1": "https://rthkradio1-live.akamaized.net/hls/live/2035313/radio1/index_64_a.m3u8"
+    },
+    {
+        "Title": "香港電台第七台 普通话台",
+        "Country": "HongKong",
+        "Tags": "full service",
+        "Favicon": "https://sao.fm/wp-content/uploads/20220923022632737.jpg",
+        "Language": "zh",
+        "Homepage": "http://www.rthk.org.hk/",
+        "Source1": "https://rthkradiopth-live.akamaized.net/hls/live/2040082/radiopth/index_64_a.m3u8"
+    },
+    {
+        "Title": "香港電台第三台",
+        "Country": "HongKong",
+        "Favicon": "https://webstatic.rthk.hk/img/radio_icon/Player_Logo/R3_cNam_01.svg",
+        "Language": "en,yue,zh",
+        "Homepage": "https://www.rthk.hk/",
+        "Source1": "https://rthkradio2-live.akamaized.net/hls/live/2040078/radio2/index_64_a.m3u8"
+    },
+    {
+        "Title": "香港電台第二台",
+        "Country": "HongKong",
+        "Tags": "culture,music",
+        "Favicon": "https://webstatic.rthk.hk/img/radio_icon/Player_Logo/R2_cNam_01.svg",
+        "Language": "yue",
+        "Homepage": "https://www.rthk.hk/",
+        "Latitude": 22.2280904167845,
+        "Longitude": 114.169921875,
+        "Source1": "https://rthkradio2-live.akamaized.net/hls/live/2040078/radio2/index_64_a.m3u8"
+    },
+    {
+        "Title": "香港電台第五台",
+        "Country": "HongKong",
+        "Tags": "culture",
+        "Favicon": "https://webstatic.rthk.hk/img/radio_icon/Player_Logo/R5_cNam_01.svg",
+        "Language": "yue",
+        "Homepage": "https://www.rthk.hk/",
+        "Latitude": 22.370396344320053,
+        "Longitude": 114.10400390625,
+        "Source1": "https://rthkradio5-live.akamaized.net/hls/live/2040081/radio5/index_64_a.m3u8"
+    },
+    {
+        "Title": "香港電台第八台",
+        "Country": "HongKong",
+        "Tags": "full service",
+        "Favicon": "https://ytmedia.radio.cn/CCYT/202306/12/18/zmco8RqfK6wcZu7BZCv2023061218737.jpg",
+        "Language": "yue",
+        "Homepage": "http://www.rthk.org.hk/",
+        "Source1": "https://rthkradiocmgrgb-live.akamaized.net/hls/live/2046112/radiocmgrgb/index_64_a.m3u8"
+    },
+    {
+        "Title": "香港電台第六台",
+        "Country": "HongKong",
+        "Tags": "full service",
+        "Favicon": "https://ytmedia.radio.cn/CCYT/202306/12/18/1E202306121836.jpg",
+        "Language": "zh",
+        "Homepage": "http://www.rthk.org.hk/",
+        "Source1": "https://rthkradiocnrhk-live.akamaized.net/hls/live/2046111/radiocnrhk/index_64_a.m3u8"
+    },
+    {
+        "Title": "香港電台第四台",
+        "Country": "HongKong",
+        "Tags": "music",
+        "Favicon": "https://webstatic.rthk.hk/img/radio_icon/Player_Logo/R4_cNam_01.svg",
+        "Language": "yue",
+        "Homepage": "https://www.rthk.hk/",
+        "Latitude": 22.2280904167845,
+        "Longitude": 114.10400390625,
+        "Source1": "https://rthkradio4-live.akamaized.net/hls/live/2040080/radio4/index_64_a.m3u8"
+    }
+]

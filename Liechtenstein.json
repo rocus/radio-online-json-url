@@ -1,0 +1,33 @@
+[
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "Liechtenstein",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "Radio Vaterland",
+        "Country": "Liechtenstein",
+        "Favicon": "https://www.vaterland.li/design2020/images/radio_vaterland.png",
+        "Homepage": "https://www.vaterland.li/",
+        "Latitude": 47.132648150913866,
+        "Longitude": 9.52300661804579,
+        "Source1": "https://radiostream.radiobutler.com/7e9d5eb6-9249-4c7a-9f1c-6d4b9c7a48a8"
+    },
+    {
+        "Title": "RisingTideHITSFM",
+        "Country": "Liechtenstein",
+        "Language": "de,en,zh",
+        "Homepage": "https://www.rtide.top/",
+        "Source1": "https://radio.rtide.top/stream"
+    },
+    {
+        "Title": "RTHitsFM",
+        "Country": "Liechtenstein",
+        "Language": "de,zh",
+        "Homepage": "https://www.rtide.top/",
+        "Source1": "https://radio.rtide.top/stream"
+    }
+]

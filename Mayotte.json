@@ -1,0 +1,28 @@
+[
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "Mayotte",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "Mayotte La 1ère",
+        "Country": "Mayotte",
+        "Favicon": "https://fr.wikipedia.org/wiki/Mayotte_La_Premi%C3%A8re_%28t%C3%A9l%C3%A9vision%29#/media/Fichier:Mayotte_La_1%C3%A8re_-_Logo_2018.svg",
+        "Homepage": "https://la1ere.francetvinfo.fr/mayotte/",
+        "Latitude": -12.77643819751081,
+        "Longitude": 45.227494239807136,
+        "Source1": "http://mayotte.ice.infomaniak.ch/mayotte-128.mp3",
+        "Source2": "https://mayotte.ice.infomaniak.ch/mayotte-128.mp3"
+    },
+    {
+        "Title": "Radio Dziani",
+        "Country": "Mayotte",
+        "Homepage": "https://dzianifm.fr/",
+        "Latitude": -12.797714206502384,
+        "Longitude": 45.2793037891388,
+        "Source1": "https://www.radioking.com/play/radio-dziani-la-voix-du-lac/63166"
+    }
+]

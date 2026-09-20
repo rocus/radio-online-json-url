@@ -1,0 +1,33 @@
+[
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "Belize",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "https://stream.svobodnoe.media/freemp3",
+        "Country": "Belize",
+        "Homepage": "https://stream.svobodnoe.media/freemp3",
+        "Source1": "https://stream.svobodnoe.media/freemp3"
+    },
+    {
+        "Title": "Krem Radio",
+        "Country": "Belize",
+        "Tags": "music,talk",
+        "Favicon": "https://i0.wp.com/www.krembz.com/wp-content/uploads/2023/04/cropped-favicon.png?fit=180%2c180&#038;ssl=1",
+        "Language": "en",
+        "Homepage": "http://www.krembz.com/",
+        "Source1": "http://159.65.32.199:8016/;"
+    },
+    {
+        "Title": "Riddim Radio",
+        "Country": "Belize",
+        "Tags": "reggae",
+        "Favicon": "https://image2url.com/r2/default/images/1774831280375-8a6a2bb2-cba2-474d-a8de-c4efa22ac457.png",
+        "Homepage": "https://riddimradio.com/",
+        "Source1": "https://stream.zeno.fm/nw7xmuzasyduv"
+    }
+]

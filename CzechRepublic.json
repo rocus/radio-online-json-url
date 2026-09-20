@@ -1,0 +1,2355 @@
+[
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "CzechRepublic",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "ABradio Chillout",
+        "Country": "CzechRepublic",
+        "Tags": "chillout,electronic,trip hop",
+        "Favicon": "https://radia.cz/static/favicon.ico",
+        "Language": "en",
+        "Homepage": "http://www.abradio.cz/",
+        "Source1": "http://mp3stream4.abradio.cz/chillout128.mp3"
+    },
+    {
+        "Title": "Astra Radio",
+        "Country": "CzechRepublic",
+        "Favicon": "https://astraradio.cz/favicon.png",
+        "Homepage": "https://astraradio.cz/",
+        "Source1": "https://icecast.astraradio.cz/192"
+    },
+    {
+        "Title": "BIKERS RADIO DOUPE",
+        "Country": "CzechRepublic",
+        "Tags": "80's,90's",
+        "Favicon": "https://bikersradiodoupe.cz/favicon.png",
+        "Language": "cs",
+        "Homepage": "https://motorkarskydoupe.cz/radio/",
+        "Latitude": 49.539147929795575,
+        "Longitude": 15.366734862327576,
+        "Source1": "https://icecast7.play.cz/bikersradiodoupe128.mp3"
+    },
+    {
+        "Title": "Black Hornet Radio",
+        "Country": "CzechRepublic",
+        "Tags": "rock",
+        "Favicon": "null",
+        "Language": "cs",
+        "Homepage": "http://bhradio.cz/",
+        "Source1": "http://icecast2.play.cz/bhradio-192.mp3"
+    },
+    {
+        "Title": "BlueRadio.cz",
+        "Country": "CzechRepublic",
+        "Language": "cs",
+        "Homepage": "http://blueradio.cz/",
+        "Source1": "http://sc.ipip.cz:7980/;?1711695047279"
+    },
+    {
+        "Title": "BojlerRoom",
+        "Country": "CzechRepublic",
+        "Tags": "club,dance,dj,house,trance",
+        "Favicon": "http://bojlerroom.cz/assets/images/bez-nzvu-1-220x218.png",
+        "Language": "cs",
+        "Homepage": "http://bojlerroom.cz/",
+        "Source1": "https://ice4.abradio.cz/bojler_room_128.aac"
+    },
+    {
+        "Title": "Calimeroclub Radio",
+        "Country": "CzechRepublic",
+        "Tags": "club,dance",
+        "Favicon": "https://www.calimeroclub.eu/img/picture/192/logo-calimero.jpg",
+        "Language": "cs",
+        "Homepage": "https://www.calimeroclub.eu/",
+        "Source1": "http://live.topradio.cz:8000/calimero192"
+    },
+    {
+        "Title": "Cesky Rozhlas Classical Lossless FLAC Stream",
+        "Country": "CzechRepublic",
+        "Favicon": "https://d-dur.rozhlas.cz/favicon.ico",
+        "Homepage": "https://d-dur.rozhlas.cz/",
+        "Source1": "http://amp.cesnet.cz:8000/cro-d-dur.flac"
+    },
+    {
+        "Title": "Cesky Rozhlas D-dur",
+        "Country": "CzechRepublic",
+        "Favicon": "https://d-dur.rozhlas.cz/sites/all/themes/custom/e7/apple-touch-icon-precomposed-144x144.png",
+        "Homepage": "https://d-dur.rozhlas.cz/",
+        "Source1": "http://amp.cesnet.cz:8000/cro-d-dur-256.ogg"
+    },
+    {
+        "Title": "Cesky Rozhlas Jazz",
+        "Country": "CzechRepublic",
+        "Favicon": "https://jazz.rozhlas.cz/favicon.ico",
+        "Homepage": "https://jazz.rozhlas.cz/",
+        "Source1": "https://rozhlas.stream/jazz_high.aac"
+    },
+    {
+        "Title": "Cesky Rozhlas Jazz Lossless FLAC Stream",
+        "Country": "CzechRepublic",
+        "Favicon": "https://www.mujrozhlas.cz/themes/mr_frontend/img/favicons/favicon.ico",
+        "Homepage": "https://jazz.rozhlas.cz/",
+        "Source1": "http://amp.cesnet.cz:8000/cro-jazz.flac"
+    },
+    {
+        "Title": "Chat Rádio",
+        "Country": "CzechRepublic",
+        "Language": "cs",
+        "Homepage": "https://chatujme.cz/",
+        "Source1": "https://radio.chatujme.cz:8000/chatradio"
+    },
+    {
+        "Title": "Chat R�dio",
+        "Country": "CzechRepublic",
+        "Tags": "80s,90s,chat,czech,hits,oldies,pop,rock",
+        "Favicon": "https://chatradio.cz/assets/img/chat-radio-circle-512x512.png",
+        "Language": "cs",
+        "Homepage": "https://chatradio.cz/",
+        "Latitude": 49.8209,
+        "Longitude": 18.2625,
+        "Source1": "https://radio.chatradio.cz/chatradio"
+    },
+    {
+        "Title": "City FM",
+        "Country": "CzechRepublic",
+        "Tags": "dance,eurodance,hits,top100",
+        "Favicon": "https://hitradiocity.cz/design/favicons/apple-icon-120x120.png",
+        "Language": "cs,en",
+        "Homepage": "https://hitradiocity.cz/",
+        "Source1": "http://ice.abradio.cz/cityfm128.mp3"
+    },
+    {
+        "Title": "City Milenium",
+        "Country": "CzechRepublic",
+        "Language": "cs",
+        "Homepage": "http://http//www.hitradiocity.cz",
+        "Source1": "http://ice.abradio.cz:8000/citymi128.mp3"
+    },
+    {
+        "Title": "Classic Prague",
+        "Country": "CzechRepublic",
+        "Homepage": "https://www.classicpraha.cz/",
+        "Latitude": 50.077327392658184,
+        "Longitude": 14.424780607223513,
+        "Source1": "https://icecast8.play.cz/classic128.mp3"
+    },
+    {
+        "Title": "Classic Praha",
+        "Country": "CzechRepublic",
+        "Favicon": "http://www.classicpraha.cz/static/images/favicon.ico",
+        "Language": "cs",
+        "Homepage": "http://www.classicpraha.cz/",
+        "Source1": "http://icecast8.play.cz/classic128.mp3"
+    },
+    {
+        "Title": "COLOR Music Radio",
+        "Country": "CzechRepublic",
+        "Favicon": "http://www.radiocolor.cz/image/topic/poslechovost.png",
+        "Homepage": "http://www.radiocolor.cz/",
+        "Source1": "https://icecast8.play.cz/color128.mp3"
+    },
+    {
+        "Title": "Color Music Radio",
+        "Country": "CzechRepublic",
+        "Tags": "funk,hiphop,rnb,soul",
+        "Favicon": "https://radiocolor.cz/image/color_logo500x500.jpg",
+        "Language": "cs,en",
+        "Homepage": "https://radiocolor.cz/",
+        "Latitude": 49.97315102212736,
+        "Longitude": 14.424973726272585,
+        "Source1": "http://sc.ipip.cz:8206/;stream"
+    },
+    {
+        "Title": "Comedy Club R@dio DIANA",
+        "Country": "CzechRepublic",
+        "Tags": "comedy,talk",
+        "Language": "cs",
+        "Homepage": "http://www.radiodiana.cz/",
+        "Source1": "https://westradio.cz/radio/8010/radio.mp3"
+    },
+    {
+        "Title": "COOP TIP Radio",
+        "Country": "CzechRepublic",
+        "Tags": "pop music",
+        "Favicon": "https://radia.cz/favicon.ico",
+        "Language": "cs",
+        "Homepage": "https://radia.cz/radio-coop-tip-radio-playlist",
+        "Source1": "http://mp3stream4.abradio.cz:8000/coop128.mp3",
+        "Source2": "http://ice4.abradio.cz/coop128.mp3"
+    },
+    {
+        "Title": "Country Radio",
+        "Country": "CzechRepublic",
+        "Tags": "country",
+        "Source1": "http://icecast4.play.cz/country128.mp3"
+    },
+    {
+        "Title": "Country Radio",
+        "Country": "CzechRepublic",
+        "Tags": "country",
+        "Favicon": "http://www.countryradio.cz/assets/favicon/apple-touch-icon.png",
+        "Language": "cs",
+        "Homepage": "http://www.countryradio.cz/",
+        "Source1": "http://icecast2.play.cz:8000/country128aac"
+    },
+    {
+        "Title": "County",
+        "Country": "CzechRepublic",
+        "Tags": "country",
+        "Favicon": "https://www.countryradio.cz/assets/favicon/apple-touch-icon.png",
+        "Language": "cs",
+        "Homepage": "https://www.countryradio.cz/",
+        "Source1": "http://icecast4.play.cz/country128.mp3"
+    },
+    {
+        "Title": "Crazy Rádio",
+        "Country": "CzechRepublic",
+        "Favicon": "https://www.crazyradio.cz/templates/dd_club_39/favicon.ico",
+        "Language": "cs",
+        "Homepage": "https://www.crazyradio.cz/",
+        "Source1": "http://live.topradio.cz:8000/crazy128"
+    },
+    {
+        "Title": "CrazyRadio.cz",
+        "Country": "CzechRepublic",
+        "Favicon": "http://crazyradio.cz/images/logoGIF.gif",
+        "Homepage": "http://crazyradio.cz/",
+        "Source1": "https://stream.rcast.net/72851"
+    },
+    {
+        "Title": "Cro Radio Wave",
+        "Country": "CzechRepublic",
+        "Favicon": "https://www.google.com/imgres?q=radio%20wave%20cz&imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D124596689571&imgrefurl=https%3A%2F%2Fwww.facebook.com%2Fcroradiowave%2F&docid=2nm_8JxQcjiK4M&tbnid=fMNzx05xHoFe9M&vet=12ahUKEwiRkcWVm-KKAxUDHrkGHdqgK4QQM3oECEwQAA..i&w=250&h=250&hcb=2&ved=2ahUKEwiRkcWVm-KKAxUDHrkGHdqgK4QQM3oECEwQAA",
+        "Homepage": "https://wave.rozhlas.cz/",
+        "Source1": "http://amp.cesnet.cz:8000/cro-radio-wave.flac"
+    },
+    {
+        "Title": "CRo Radiozurnal",
+        "Country": "CzechRepublic",
+        "Favicon": "https://radiozurnal.rozhlas.cz/sites/default/files/favicon_radiozurnal.ico",
+        "Homepage": "https://radiozurnal.rozhlas.cz/",
+        "Source1": "https://rozhlas.stream/radiozurnal_aac_128.aac"
+    },
+    {
+        "Title": "CRo Vysocina",
+        "Country": "CzechRepublic",
+        "Favicon": "https://www.mujrozhlas.cz/themes/mr_frontend/img/favicons/apple-touch-icon.png",
+        "Homepage": "https://www.mujrozhlas.cz/zive/vysocina",
+        "Source1": "https://rozhlas.stream/vysocina_high.aac"
+    },
+    {
+        "Title": "Czech radio classical",
+        "Country": "CzechRepublic",
+        "Tags": "classical",
+        "Favicon": "https://d-dur.rozhlas.cz/favicon.ico",
+        "Homepage": "https://d-dur.rozhlas.cz/",
+        "Source1": "http://amp.cesnet.cz:8000/cro-d-dur.flac"
+    },
+    {
+        "Title": "Czech Radio ČRo D-dur",
+        "Country": "CzechRepublic",
+        "Favicon": "https://d-dur.rozhlas.cz/favicon.ico",
+        "Homepage": "https://d-dur.rozhlas.cz/",
+        "Source1": "http://amp.cesnet.cz:8000/cro-d-dur.flac"
+    },
+    {
+        "Title": "Dance Club FM",
+        "Country": "CzechRepublic",
+        "Tags": "dance",
+        "Language": "cs",
+        "Homepage": "https://radia.cz/seznam-radii",
+        "Source1": "http://mp3stream4.abradio.cz/dance128.mp3"
+    },
+    {
+        "Title": "Dance Club Radio",
+        "Country": "CzechRepublic",
+        "Tags": "dance,dj,house,trance",
+        "Favicon": "https://radia.cz/favicon.ico",
+        "Language": "cs",
+        "Homepage": "https://radia.cz/radio-dance-radio-info",
+        "Source1": "https://ice4.abradio.cz/dance128.mp3"
+    },
+    {
+        "Title": "Dance Radio",
+        "Country": "CzechRepublic",
+        "Tags": "320kbps",
+        "Favicon": "https://www.danceradio.cz/favicons/apple-touch-icon.png",
+        "Homepage": "https://www.danceradio.cz/",
+        "Source1": "http://ice.actve.net/dance-radio320.mp3",
+        "Source2": "http://ice.actve.net/dance-radio128.mp3"
+    },
+    {
+        "Title": "Dance rádio cz",
+        "Country": "CzechRepublic",
+        "Tags": "fm 89.0",
+        "Favicon": "https://www.danceradio.cz/favicons/apple-touch-icon.png",
+        "Language": "en",
+        "Homepage": "https://www.danceradio.cz/",
+        "Source1": "https://ice.actve.net/dance-radio128.mp3"
+    },
+    {
+        "Title": "Dancefloor 365 Radio",
+        "Country": "CzechRepublic",
+        "Tags": "00s,90s,dance,dancefloor,electronic,eurodance,house,techno",
+        "Favicon": "https://dancefloor365.com/logo.jpg",
+        "Language": "en",
+        "Homepage": "https://www.dancefloor365.com/",
+        "Latitude": 50.073658,
+        "Longitude": 14.41854,
+        "Source1": "http://stream.deecibel.com/dancefloor365"
+    },
+    {
+        "Title": "Decennial Gothica Radio II",
+        "Country": "CzechRepublic",
+        "Favicon": "http://www.decennialgothica.com/apple-touch-icon.png",
+        "Homepage": "http://www.decennialgothica.com/",
+        "Source1": "http://65.21.202.84:9332/stream"
+    },
+    {
+        "Title": "Deecibel One Radio",
+        "Country": "CzechRepublic",
+        "Tags": "00s,90s,dance,dancefloor,electronic,eurodance,house,techno",
+        "Favicon": "https://stream.deecibel.com/one_logo.png",
+        "Language": "en",
+        "Homepage": "https://deecibel.com/",
+        "Latitude": 50.073658,
+        "Longitude": 14.41854,
+        "Source1": "https://stream.deecibel.com/one"
+    },
+    {
+        "Title": "Deecibel Rock Radio",
+        "Country": "CzechRepublic",
+        "Tags": "classic rock,hard rock,metal,progressive rock,rock",
+        "Favicon": "https://stream.deecibel.com/rock_logo.png",
+        "Language": "en",
+        "Homepage": "https://deecibel.com/",
+        "Latitude": 50.073658,
+        "Longitude": 14.41854,
+        "Source1": "https://stream.deecibel.com/rock"
+    },
+    {
+        "Title": "ELLIS",
+        "Country": "CzechRepublic",
+        "Language": "en",
+        "Homepage": "https://revenge.neocities.org/",
+        "Source1": "http://stream.laut.fm/ellis"
+    },
+    {
+        "Title": "ENERGIC",
+        "Country": "CzechRepublic",
+        "Favicon": "https://radioenergic.cz/favicon.ico",
+        "Homepage": "https://radioenergic.cz/",
+        "Source1": "https://icecast9.play.cz/energic.mp3"
+    },
+    {
+        "Title": "Evropa 2 - aac",
+        "Country": "CzechRepublic",
+        "Tags": "pop",
+        "Favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Evropa_2_Logo.png/200px-Evropa_2_Logo.png",
+        "Language": "cs",
+        "Homepage": "https://www.evropa2.cz/",
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/EVROPA2AAC.aac"
+    },
+    {
+        "Title": "Evropa 2 - Actve",
+        "Country": "CzechRepublic",
+        "Tags": "pop",
+        "Favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Evropa_2_Logo.png/200px-Evropa_2_Logo.png",
+        "Language": "cs",
+        "Homepage": "https://www.evropa2.cz/",
+        "Latitude": 50.070605881465355,
+        "Longitude": 14.429820477962496,
+        "Source1": "https://ice.actve.net/fm-evropa2-128"
+    },
+    {
+        "Title": "Evropa 2 - mp3",
+        "Country": "CzechRepublic",
+        "Favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Evropa_2_Logo.png/200px-Evropa_2_Logo.png",
+        "Language": "cs",
+        "Homepage": "https://www.evropa2.cz/",
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/EVROPA2.mp3"
+    },
+    {
+        "Title": "Evropa 2 - Radio",
+        "Country": "CzechRepublic",
+        "Tags": "88.2",
+        "Favicon": "https://i.postimg.cc/9MPpLH6b/6067b0e51f4e27fc0549b36ac5c01f91.jpg",
+        "Homepage": "https://www.evropa2.cz/",
+        "Source1": "https://ice.actve.net/fm-evropa2-128"
+    },
+    {
+        "Title": "Evropa2 Youradio Flashbacky",
+        "Country": "CzechRepublic",
+        "Tags": "90's,retro",
+        "Favicon": "https://m.actve.net/e2/favicon/apple-touch-icon.png",
+        "Language": "cs",
+        "Homepage": "https://evropa2.cz/",
+        "Source1": "https://ice.actve.net/web-e2-flashback"
+    },
+    {
+        "Title": "Expres FM",
+        "Country": "CzechRepublic",
+        "Tags": "hits,pop,top40",
+        "Favicon": "https://www.expresfm.cz/app/mu-plugins/expresfm/assets/favicons/apple-touch-icon.png",
+        "Language": "cs,en",
+        "Homepage": "http://www.expresfm.cz/",
+        "Source1": "http://icecast8.play.cz/expres128mp3"
+    },
+    {
+        "Title": "Expresradio",
+        "Country": "CzechRepublic",
+        "Language": "cs",
+        "Source1": "http://icecast5.play.cz:8000/expres128mp3"
+    },
+    {
+        "Title": "Express FM",
+        "Country": "CzechRepublic",
+        "Tags": "alternative,czech folk music,dance,pop,prague,rock",
+        "Favicon": "https://www.expresfm.cz/app/mu-plugins/expresfm/assets/favicons/apple-touch-icon.png",
+        "Language": "cs",
+        "Homepage": "https://www.expresfm.cz/",
+        "Source1": "http://icecast8.play.cz/expres128mp3"
+    },
+    {
+        "Title": "Fajn Fresh",
+        "Country": "CzechRepublic",
+        "Tags": "pop",
+        "Favicon": "https://fajnradio.cz/favicon.ico",
+        "Language": "cs",
+        "Homepage": "https://fajnradio.cz/",
+        "Source1": "http://ice.abradio.cz/fajnfresh128.mp3"
+    },
+    {
+        "Title": "Fajn Fresh Radio",
+        "Country": "CzechRepublic",
+        "Tags": "dance,house,pop",
+        "Favicon": "https://radia.cz/favicon.ico",
+        "Language": "cs",
+        "Homepage": "https://radia.cz/radio-fajn-radio-fresh-playlist",
+        "Source1": "http://mp3stream4.abradio.cz/fajnfresh64.mp3"
+    },
+    {
+        "Title": "Fajn rock music",
+        "Country": "CzechRepublic",
+        "Tags": "classic rock,czech rock,rock",
+        "Language": "cs",
+        "Homepage": "https://www.fajnrockmusic.cz/",
+        "Source1": "http://icecast2.play.cz/fajnrock192.mp3"
+    },
+    {
+        "Title": "Fajn Rádio",
+        "Country": "CzechRepublic",
+        "Favicon": "https://www.fajnradio.cz/favicon.ico",
+        "Language": "cs",
+        "Homepage": "https://www.fajnradio.cz/",
+        "Source1": "http://ice.abradio.cz/fajn128.mp3"
+    },
+    {
+        "Title": "Fed's Trap Radio",
+        "Country": "CzechRepublic",
+        "Tags": "trap",
+        "Favicon": "https://fedstrapradio.com/img/apple-touch-icon.png",
+        "Homepage": "https://fedstrapradio.com/",
+        "Source1": "https://backend.fedstrapradio.com:8000/radio.mp3"
+    },
+    {
+        "Title": "Flash radio",
+        "Country": "CzechRepublic",
+        "Homepage": "http://flashradio.cz/",
+        "Source1": "http://185.47.222.75:8750/"
+    },
+    {
+        "Title": "Free Rave CZ",
+        "Country": "CzechRepublic",
+        "Source1": "http://freerave.cz/freerave.pls"
+    },
+    {
+        "Title": "Free Rádio 107,0 FM Brno",
+        "Country": "CzechRepublic",
+        "Favicon": "http://www.freeradio.cz/img/ico_vcelka_32_32_6.png",
+        "Homepage": "http://www.freeradio.cz/",
+        "Source1": "http://icecast8.play.cz/freeradio128.mp3"
+    },
+    {
+        "Title": "FREERAVE.CZ",
+        "Country": "CzechRepublic",
+        "Tags": "hardtechno,techno",
+        "Favicon": "https://freerave.cz/imgz/favicon32.png",
+        "Homepage": "https://freerave.cz/",
+        "Source1": "http://164.68.122.137:8061/"
+    },
+    {
+        "Title": "FREKVENCE 1",
+        "Country": "CzechRepublic",
+        "Favicon": "https://www.frekvence1.cz/img/favicons/apple-touch-icon.png?v138",
+        "Homepage": "https://www.frekvence1.cz/",
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/FREKVENCE1.mp3",
+        "Source2": "http://ice.actve.net/fm-frekvence1-aac"
+    },
+    {
+        "Title": "Frekvence 1 - Youradio Legendy",
+        "Country": "CzechRepublic",
+        "Tags": "nostalgia,nostalgic,nostalgico,nostalgie",
+        "Favicon": "https://www.frekvence1.cz/img/favicons/apple-touch-icon.png?v130",
+        "Language": "cs",
+        "Homepage": "https://www.frekvence1.cz/radio/webova-radia",
+        "Source1": "http://ice.actve.net/web-f1-legendy"
+    },
+    {
+        "Title": "Frekvence 1 - Youradio Osmdesátky",
+        "Country": "CzechRepublic",
+        "Tags": "80's",
+        "Favicon": "https://www.frekvence1.cz/img/favicons/apple-touch-icon.png?v130",
+        "Language": "cs",
+        "Homepage": "https://www.frekvence1.cz/radio/webova-radia",
+        "Source1": "http://ice.actve.net/web-80"
+    },
+    {
+        "Title": "Frekvence 1 - Youradio Československé hity",
+        "Country": "CzechRepublic",
+        "Favicon": "https://www.frekvence1.cz/img/favicons/apple-touch-icon.png?v108",
+        "Language": "cs",
+        "Homepage": "https://www.frekvence1.cz/radio/webova-radia",
+        "Source1": "http://ice.actve.net/web-e2-csweb"
+    },
+    {
+        "Title": "Fresh radio 103.6",
+        "Country": "CzechRepublic",
+        "Tags": "dance,electronic dance music",
+        "Favicon": "https://www.freshradio.cz/favicon.ico",
+        "Language": "cs",
+        "Homepage": "https://www.freshradio.cz/",
+        "Source1": "https://icecast.beatzone.cz/radio/8000/128.mp3"
+    },
+    {
+        "Title": "Funkstar Radio",
+        "Country": "CzechRepublic",
+        "Tags": "disco,discomusic 70,discomusic 80,funk,nu-disco",
+        "Favicon": "https://www.funkstar.eu/favicon.ico",
+        "Language": "en",
+        "Homepage": "https://www.funkstar.eu/",
+        "Source1": "https://funkstar.radioca.st/stream"
+    },
+    {
+        "Title": "Funkstar Radio",
+        "Country": "CzechRepublic",
+        "Favicon": "https://www.funkstar.eu/wp-content/uploads/2018/12/FS_144-144.png",
+        "Homepage": "http://www.funkstar.eu/",
+        "Source1": "https://funkstar.radioca.st/stream"
+    },
+    {
+        "Title": "GenWave Radio",
+        "Country": "CzechRepublic",
+        "Favicon": "https://genwave-radio.com/static/uploads/browser_icon/192.1766877076.png",
+        "Homepage": "https://genwave-radio.com/public/genwave",
+        "Source1": "https://genwave-radio.com/listen/genwave/radio.mp3"
+    },
+    {
+        "Title": "Ghost Rádios",
+        "Country": "CzechRepublic",
+        "Homepage": "https://www.ghostradios.com/",
+        "Source1": "http://servidor39.brlogic.com:8252/live?type=.m3u"
+    },
+    {
+        "Title": "Gold Impuls",
+        "Country": "CzechRepublic",
+        "Language": "cs",
+        "Homepage": "https://www.impuls.cz/online/gold-impuls/",
+        "Source1": "https://stream.sepia.sk/gold128.mp3"
+    },
+    {
+        "Title": "Haná",
+        "Country": "CzechRepublic",
+        "Homepage": "https://www.radiohana.cz/",
+        "Latitude": 49.58685582024826,
+        "Longitude": 17.258140855994142,
+        "Source1": "http://icecast8.play.cz/hana128.mp3"
+    },
+    {
+        "Title": "HARDCORERADIO.CZ",
+        "Country": "CzechRepublic",
+        "Tags": "frenchcore,hardcore,tekkno,uptempo",
+        "Favicon": "https://gdppoqdqiuwrfvhindnu.supabase.co/storage/v1/object/public/bck/favicon.ico",
+        "Language": "cs,en",
+        "Homepage": "https://www.hardcoreradio.cz/",
+        "Latitude": 50.07677291050179,
+        "Longitude": 14.42466638633065,
+        "Source1": "https://radio.hardcoreradio.cz/listen/hardcore_radio/radio.mp3"
+    },
+    {
+        "Title": "Helax 93,7",
+        "Country": "CzechRepublic",
+        "Favicon": "https://radia.cz/media/images/0001/01/thumb_442_images_w200.png",
+        "Language": "cs",
+        "Homepage": "http://www.abradio.cz/radio/32/helax-937/",
+        "Source1": "http://ice.abradio.cz/helax128.mp3"
+    },
+    {
+        "Title": "HEY rádio",
+        "Country": "CzechRepublic",
+        "Favicon": "http://heyradio.cz/favicon.ico",
+        "Language": "cs,en",
+        "Homepage": "http://heyradio.cz/",
+        "Source1": "http://icecast3.play.cz/hey-radio128.mp3"
+    },
+    {
+        "Title": "Hit FM Plus",
+        "Country": "CzechRepublic",
+        "Tags": "pop",
+        "Language": "cs",
+        "Homepage": "https://hitradiofmplus.cz/",
+        "Source1": "http://ice.abradio.cz:8000/fmplus64.aac"
+    },
+    {
+        "Title": "Hit PopRock",
+        "Country": "CzechRepublic",
+        "Tags": "pop",
+        "Favicon": "https://radia.cz/favicon.ico",
+        "Language": "cs",
+        "Homepage": "https://radia.cz/radio-hitradio-poprock-playlist",
+        "Source1": "http://ice.abradio.cz/hitpoprock128.mp3"
+    },
+    {
+        "Title": "HIT Rádio Orion",
+        "Country": "CzechRepublic",
+        "Tags": "hits",
+        "Language": "cs",
+        "Homepage": "http://www.hitradioorion.cz/",
+        "Source1": "http://ice.abradio.cz/orion128.mp3"
+    },
+    {
+        "Title": "hitradio City zona Lasky",
+        "Country": "CzechRepublic",
+        "Tags": "love songs,pop,romantic",
+        "Favicon": "http://hitradiocity.cz/design/favicons/apple-icon-120x120.png",
+        "Language": "cs",
+        "Homepage": "http://hitradiocity.cz/",
+        "Source1": "http://ice.abradio.cz/cityzl128.mp3"
+    },
+    {
+        "Title": "Hitradio Zlín",
+        "Country": "CzechRepublic",
+        "Tags": "cz sk,hits,modern,pop",
+        "Favicon": "https://radia.cz/media/images/0001/01/c74730db0152b88c98e2e7d26dae3ab823128cf8.svg",
+        "Language": "cs",
+        "Homepage": "https://hitradiozlin.cz/",
+        "Latitude": 49.20837049982443,
+        "Longitude": 17.646510601043705,
+        "Source1": "https://ice.radia.cz/radiozlin128.mp3"
+    },
+    {
+        "Title": "Hitrádio City 93.7 FM",
+        "Country": "CzechRepublic",
+        "Favicon": "https://hitradiocity.cz/design/favicons/apple-icon-120x120.png",
+        "Homepage": "https://hitradiocity.cz/",
+        "Source1": "https://provisioning.streamtheworld.com/pls/HITRADIO_CITY_PRAHA.pls"
+    },
+    {
+        "Title": "Hitrádio City Brno",
+        "Country": "CzechRepublic",
+        "Favicon": "http://hitradiocitybrno.cz/design/favicons/apple-icon-120x120.png",
+        "Language": "cs",
+        "Homepage": "http://hitradiocitybrno.cz/",
+        "Source1": "http://ice.abradio.cz/magicbrno128.mp3"
+    },
+    {
+        "Title": "Hitrádio Contact",
+        "Country": "CzechRepublic",
+        "Tags": "pop",
+        "Favicon": "https://hitradiocontact.cz/design/favicons/apple-icon-120x120.png",
+        "Language": "cs",
+        "Homepage": "https://hitradiocontact.cz/",
+        "Source1": "https://ice3.abradio.cz/hitradiocontact128.mp3"
+    },
+    {
+        "Title": "Hitrádio Devadesátka",
+        "Country": "CzechRepublic",
+        "Favicon": "https://radia.cz/media/images/0001/01/1eec5dac28c0282256fb18500f58a51d468f5ec9.svg",
+        "Homepage": "https://radia.cz/radia/hitradio-90tka",
+        "Source1": "https://radia.cz/spa/assets/c8516a638fbaff4ae963.mp3",
+        "Source2": "https://ice2.radia.cz/hit90128.aac"
+    },
+    {
+        "Title": "Hitrádio Devadesátka",
+        "Country": "CzechRepublic",
+        "Tags": "90s,pop",
+        "Favicon": "https://radia.cz/media/images/0001/01/thumb_492_images_w200.png",
+        "Language": "cs",
+        "Homepage": "http://www.abradio.cz/radio/125/hitradio-90tka/",
+        "Source1": "http://ice.abradio.cz/hit90128.mp3"
+    },
+    {
+        "Title": "Hitrádio Faktor",
+        "Country": "CzechRepublic",
+        "Favicon": "https://cdn-profiles.tunein.com/s10545/images/logog.jpg",
+        "Language": "cs",
+        "Homepage": "https://hitradiofaktor.cz/",
+        "Source1": "https://ice.abradio.cz/faktor128.mp3"
+    },
+    {
+        "Title": "Hitrádio FM",
+        "Country": "CzechRepublic",
+        "Favicon": "https://radia.cz/static/favicon.ico",
+        "Language": "cs",
+        "Homepage": "http://www.abradio.cz/radio/114/hitradio-fm/",
+        "Source1": "http://ice.abradio.cz/hitradiofm128.mp3"
+    },
+    {
+        "Title": "Hitrádio FM Crystal",
+        "Country": "CzechRepublic",
+        "Tags": "local,pop",
+        "Language": "cs",
+        "Homepage": "https://hitradiofm.cz/",
+        "Source1": "http://ice.abradio.cz/crystal128.mp3"
+    },
+    {
+        "Title": "Hitrádio Osmdesátka",
+        "Country": "CzechRepublic",
+        "Favicon": "https://radia.cz/media/images/0001/01/9d6a0554f2f3fb7891748805e83c6030f5177074.svg",
+        "Homepage": "https://radia.cz/radia/hitradio-80tka",
+        "Source1": "https://27753.live.streamtheworld.com/HITRADIO_OSMDESATKA.aac"
+    },
+    {
+        "Title": "Hitrádio Osmdesátka",
+        "Country": "CzechRepublic",
+        "Tags": "80s",
+        "Favicon": "https://radia.cz/media/images/0001/01/thumb_490_images_w200.png",
+        "Language": "cs",
+        "Homepage": "http://www.abradio.cz/radio/124/hitradio-80tka/",
+        "Source1": "http://ice.abradio.cz/hit80128.mp3"
+    },
+    {
+        "Title": "Hitrádio PopRock",
+        "Country": "CzechRepublic",
+        "Favicon": "https://radia.cz/favicon.ico",
+        "Language": "cs",
+        "Homepage": "https://radia.cz/radio-hitradio-poprock-playlist",
+        "Source1": "http://ice.abradio.cz/hitpoprock128.mp3"
+    },
+    {
+        "Title": "Hitrádio Vysočina",
+        "Country": "CzechRepublic",
+        "Favicon": "http://hitradiovysocina.cz/design/favicons/favicon-32x32.png",
+        "Language": "cs",
+        "Homepage": "http://hitradiovysocina.cz/",
+        "Source1": "http://ice5.abradio.cz/hitvysocina128.mp3"
+    },
+    {
+        "Title": "Hitrádio Černá Hora",
+        "Country": "CzechRepublic",
+        "Favicon": "https://hitradiocernahora.cz/design/favicons/apple-icon-120x120.png",
+        "Homepage": "https://hitradiocernahora.cz/",
+        "Latitude": 50.20907255257603,
+        "Longitude": 15.831556320190431,
+        "Source1": "http://ice.abradio.cz/cernahora128.mp3",
+        "Source2": "http://ice.abradio.cz/cernahora64.mp3"
+    },
+    {
+        "Title": "Hitrádio Černá Hora 128",
+        "Country": "CzechRepublic",
+        "Favicon": "https://www.radio.net/images/broadcasts/9a/fa/12747/2/c300.png",
+        "Homepage": "https://hitradiocernahora.cz/",
+        "Source1": "http://ice.abradio.cz/cernahora128.mp3"
+    },
+    {
+        "Title": "Hvězda",
+        "Country": "CzechRepublic",
+        "Language": "cs",
+        "Homepage": "https://hvezda.info/",
+        "Latitude": 50.08693047363285,
+        "Longitude": 14.419509552800896,
+        "Source1": "https://hls.hvezda.info/session01/128k/s.m3u8"
+    },
+    {
+        "Title": "Impuls",
+        "Country": "CzechRepublic",
+        "Homepage": "https://www.impuls.cz/",
+        "Source1": "http://icecast1.play.cz/impuls128.mp3"
+    },
+    {
+        "Title": "Impuls Ráááádio",
+        "Country": "CzechRepublic",
+        "Favicon": "https://1gr.cz/u/favicon/apple-touch-icon/impuls.png",
+        "Homepage": "https://www.impuls.cz/",
+        "Source1": "https://icecast5.play.cz/impuls128.mp3?1571059741",
+        "Source2": "http://icecast5.play.cz/impuls128.mp3",
+        "Source3": "https://stream.sepia.sk:8000/impuls128.mp3"
+    },
+    {
+        "Title": "JČ1 - Televize jižní Čechy",
+        "Country": "CzechRepublic",
+        "Tags": "local news,news talk,regional,tv",
+        "Favicon": "https://jc1.cz/templates/jc12_2022_v2/favicon.ico",
+        "Language": "cs",
+        "Homepage": "https://jc1.cz/",
+        "Source1": "https://stream.jc1.cz/hls/jc1.m3u8"
+    },
+    {
+        "Title": "Kiss 98 FM",
+        "Country": "CzechRepublic",
+        "Tags": "pop",
+        "Language": "cs",
+        "Homepage": "http://www.kiss98.cz/",
+        "Source1": "http://icecast2.play.cz:8000/kiss128aac"
+    },
+    {
+        "Title": "Kiss Delta",
+        "Country": "CzechRepublic",
+        "Tags": "hits,pop",
+        "Language": "cs",
+        "Homepage": "http://www.kissdelta.cz/",
+        "Source1": "http://icecast1.play.cz:8000/kissdelta192.mp3"
+    },
+    {
+        "Title": "Kiss Hady",
+        "Country": "CzechRepublic",
+        "Tags": "pop",
+        "Language": "cs",
+        "Homepage": "http://www.kisshady.cz/",
+        "Source1": "http://icecast8.play.cz/kisshady128.mp3"
+    },
+    {
+        "Title": "Kiss Publikum",
+        "Country": "CzechRepublic",
+        "Tags": "hits,pop",
+        "Language": "cs",
+        "Homepage": "http://www.kisspublikum.cz/",
+        "Source1": "http://icecast1.play.cz:8000/kisspublikum128aac"
+    },
+    {
+        "Title": "Kiss Radio",
+        "Country": "CzechRepublic",
+        "Tags": "dance,nineties",
+        "Language": "cs",
+        "Homepage": "https://www.kiss.cz/",
+        "Source1": "http://icecast4.play.cz/kiss128.mp3"
+    },
+    {
+        "Title": "Kiss Radio - 128MP3",
+        "Country": "CzechRepublic",
+        "Favicon": "https://www.kiss.cz/assets/favicon/apple-touch-icon.png",
+        "Language": "cs",
+        "Homepage": "https://kiss.cz/",
+        "Source1": "https://icecast1.play.cz/kissdelta128.mp3"
+    },
+    {
+        "Title": "LA RADIO PLUS ANNECY",
+        "Country": "CzechRepublic",
+        "Favicon": "https://www.laradioplus.com/media/option/thumb/69x54_logo-laradioplus-88602.webp",
+        "Homepage": "https://www.laradioplus.com/",
+        "Source1": "https://laradioplus.ice.infomaniak.ch/laradioplus-high.aac?i=96970"
+    },
+    {
+        "Title": "Luc Radio",
+        "Country": "CzechRepublic",
+        "Favicon": "https://static.mytuner.mobi/media/tvos_radios/573/luc-radio.272c4417.png",
+        "Homepage": "https://www.lucradio.com/",
+        "Source1": "https://cast1.torontocast.com:3800/stream"
+    },
+    {
+        "Title": "Metal Heart",
+        "Country": "CzechRepublic",
+        "Tags": "metal,rock",
+        "Homepage": "https://www.metalheartradio.com/cs/",
+        "Source1": "http://fr.radio-streamhosting.com:8000/metalheartradio64aac"
+    },
+    {
+        "Title": "Metal Heart Radio",
+        "Country": "CzechRepublic",
+        "Favicon": "https://www.metalheartradio.com/assets/images/cd.png",
+        "Homepage": "https://www.metalheartradio.com/cs/",
+        "Source1": "https://cz.radio-streamhosting.com:8443/metalheartradio128mp3"
+    },
+    {
+        "Title": "Metalománie",
+        "Country": "CzechRepublic",
+        "Favicon": "https://radia.cz/media/images/0001/01/thumb_65_images_w200.png",
+        "Language": "cs",
+        "Homepage": "http://www.abradio.cz/radio/151/metalomanie/",
+        "Source1": "http://ice.abradio.cz/metalomanie128.mp3"
+    },
+    {
+        "Title": "Mňau TV",
+        "Country": "CzechRepublic",
+        "Tags": "tv",
+        "Favicon": "https://imnau.cz/wp-content/uploads/2018/11/imnau_logo.png",
+        "Language": "cs",
+        "Homepage": "https://imnau.cz/",
+        "Source1": "https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8"
+    },
+    {
+        "Title": "Netro Life radio 100,8 FM",
+        "Country": "CzechRepublic",
+        "Favicon": "https://www.netroliferadio.cz/files/resize/152/152/netro-favicon-top-0.png",
+        "Homepage": "https://www.netroliferadio.cz/",
+        "Source1": "https://icecast9.play.cz/netro-life-radio.mp3"
+    },
+    {
+        "Title": "NONSTOPRADIO CZ",
+        "Country": "CzechRepublic",
+        "Tags": "#80s,#90s,2000s,dance,eurodance",
+        "Language": "cs",
+        "Homepage": "http://www.nonstopradio.cz/",
+        "Source1": "http://stream.nonstopradio.cz:8080/"
+    },
+    {
+        "Title": "OIK TV",
+        "Country": "CzechRepublic",
+        "Tags": "local news,news,news talk,regional,tv",
+        "Favicon": "http://www.oiktv.cz/wp-content/uploads/2017/04/logo-header.png",
+        "Language": "cs",
+        "Homepage": "https://www.oiktv.cz/",
+        "Source1": "https://streamer05.low-latency.cz/oiktv/index.m3u8"
+    },
+    {
+        "Title": "Oldies radio",
+        "Country": "CzechRepublic",
+        "Homepage": "http://ice.abradio.cz/oldiesradio128",
+        "Source1": "http://ice.abradio.cz/oldiesradio128.mp3"
+    },
+    {
+        "Title": "Oldies Rádio",
+        "Country": "CzechRepublic",
+        "Tags": "oldies",
+        "Favicon": "http://www.oldiesradio.cz/favicon.ico",
+        "Language": "cs",
+        "Homepage": "http://www.oldiesradio.cz/",
+        "Source1": "http://ice.abradio.cz/oldiesradio128.mp3"
+    },
+    {
+        "Title": "Phonk Nation Radio",
+        "Country": "CzechRepublic",
+        "Tags": "phonk",
+        "Language": "cs,cz,en,sk",
+        "Region": "CZ-42",
+        "Homepage": "https://phonk.plainrock127.xyz/",
+        "Latitude": 50.54866852868919,
+        "Longitude": 13.774806261062622,
+        "Source1": "https://radio.mxnticek.eu/listen/phonk/128.mp3"
+    },
+    {
+        "Title": "PHONK RADIO",
+        "Country": "CzechRepublic",
+        "Tags": "phonk",
+        "Favicon": "https://zeno.fm/static/icons/apple-icon-152x152.png",
+        "Language": "en",
+        "Homepage": "https://zeno.fm/radio/phonk-radio/",
+        "Source1": "https://stream-43.zeno.fm/90fvpb27u18uv?zs=vRvgZYxuSUWsgBGCbKMLnA"
+    },
+    {
+        "Title": "Pigy.cz – Disko Trysko",
+        "Country": "CzechRepublic",
+        "Tags": "dance,kids",
+        "Language": "cs",
+        "Homepage": "https://www.pigy.cz/radia/",
+        "Source1": "http://ice.actve.net/web-pg-disko"
+    },
+    {
+        "Title": "Pigy.cz – Pohádky",
+        "Country": "CzechRepublic",
+        "Tags": "fairytales,kids",
+        "Language": "cs",
+        "Homepage": "https://www.pigy.cz/radia/",
+        "Source1": "http://ice.actve.net/web-pg-pohadky"
+    },
+    {
+        "Title": "Pigy.cz – Písničky z pohádek",
+        "Country": "CzechRepublic",
+        "Tags": "childrens music",
+        "Favicon": "https://www.pigy.cz/wp-content/uploads/2021/05/cropped-android-chrome-384x384-1-139x139.png",
+        "Language": "cs",
+        "Homepage": "https://www.pigy.cz/radia/",
+        "Source1": "http://ice.actve.net/web-pg-pisnicky"
+    },
+    {
+        "Title": "Plzeň TV",
+        "Country": "CzechRepublic",
+        "Tags": "local news,news,regional,tv",
+        "Favicon": "https://tv.plzen.cz/templates/theme3241/images/plzentv-icon.svg",
+        "Language": "cs",
+        "Homepage": "https://tv.plzen.cz/",
+        "Source1": "https://vysilani.zaktv.cz/broadcast/hls/ptv/index.m3u8"
+    },
+    {
+        "Title": "povídka",
+        "Country": "CzechRepublic",
+        "Tags": "undefined",
+        "Language": "cs",
+        "Homepage": "https://ice3.abradio.cz/povidka128.mp3",
+        "Source1": "https://ice3.abradio.cz/povidka128.mp3"
+    },
+    {
+        "Title": "PowerPonies Radio",
+        "Country": "CzechRepublic",
+        "Favicon": "http://radio.powerponies.cz/img/PowerPonies-Radio.png",
+        "Homepage": "http://radio.powerponies.cz/",
+        "Source1": "http://powerponies.cz:8000/;stream.mp3"
+    },
+    {
+        "Title": "PowerPonies Radio",
+        "Country": "CzechRepublic",
+        "Favicon": "http://www.powerponies.cz/img/PowerPoniesRadio4MkIII.png",
+        "Homepage": "http://www.powerponies.cz/radio.php",
+        "Source1": "http://powerponies.cz:8000/;stream.mp3"
+    },
+    {
+        "Title": "Queenradio.net",
+        "Country": "CzechRepublic",
+        "Tags": "queen,rock",
+        "Language": "cs,en",
+        "Homepage": "http://www.queenradio.net/",
+        "Latitude": 49.08393995490804,
+        "Longitude": 15.073242187500002,
+        "Source1": "http://stream.radiojar.com/4gw72qm8u68uv"
+    },
+    {
+        "Title": "Radia CZ - Depeche Mode",
+        "Country": "CzechRepublic",
+        "Favicon": "https://radia.cz/favicon.ico",
+        "Homepage": "https://radia.cz/radio-depeche-mode-playlist",
+        "Source1": "http://mp3stream4.abradio.cz/depeche128.mp3"
+    },
+    {
+        "Title": "Radia.cz - Birds",
+        "Country": "CzechRepublic",
+        "Homepage": "https://radia.cz/",
+        "Latitude": 50.08520348814268,
+        "Longitude": 14.421433210372928,
+        "Source1": "https://ice2.radia.cz/relax-morning-birds64.aac"
+    },
+    {
+        "Title": "Radia.cz - Fire",
+        "Country": "CzechRepublic",
+        "Tags": "ambient",
+        "Language": "cs",
+        "Homepage": "https://radia.cz/",
+        "Latitude": 50.08378006488505,
+        "Longitude": 14.424013495445251,
+        "Source1": "https://ice2.radia.cz/relax-fire64.aac"
+    },
+    {
+        "Title": "Radia.cz - Sea",
+        "Country": "CzechRepublic",
+        "Homepage": "https://radia.cz/",
+        "Latitude": 50.08814190112151,
+        "Longitude": 14.424531161785128,
+        "Source1": "https://ice2.radia.cz/relax-sea64.aac"
+    },
+    {
+        "Title": "Radia.cz - Train",
+        "Country": "CzechRepublic",
+        "Homepage": "https://radia.cz/",
+        "Latitude": 50.08733913535207,
+        "Longitude": 14.42133128643036,
+        "Source1": "https://ice2.radia.cz/relax-train64.aac"
+    },
+    {
+        "Title": "RADIO 1",
+        "Country": "CzechRepublic",
+        "Tags": "alternative",
+        "Language": "cs",
+        "Homepage": "http://www.radio1.cz/",
+        "Source1": "http://icecast2.play.cz/radio1.mp3"
+    },
+    {
+        "Title": "Radio 4U",
+        "Country": "CzechRepublic",
+        "Tags": "retro",
+        "Homepage": "https://radio4u.cz/",
+        "Source1": "http://mpc1.mediacp.eu:8342/stream"
+    },
+    {
+        "Title": "Radio 4U .pls",
+        "Country": "CzechRepublic",
+        "Homepage": "https://radio4u.cz/",
+        "Source1": "https://mpc1.mediacp.eu:2000/tunein/radio4u/stream/pls"
+    },
+    {
+        "Title": "RADIO BEAT",
+        "Country": "CzechRepublic",
+        "Favicon": "https://www.radiobeat.cz/img/logo@2x.png",
+        "Homepage": "https://www.radiobeat.cz/",
+        "Source1": "http://icecast1.play.cz/beat64.mp3"
+    },
+    {
+        "Title": "Radio Beat",
+        "Country": "CzechRepublic",
+        "Tags": "classic rock,heavy metal,metal,rock",
+        "Language": "cs",
+        "Homepage": "http://www.radiobeat.cz/",
+        "Source1": "http://icecast2.play.cz/radiobeat128.mp3"
+    },
+    {
+        "Title": "Radio Beat 128 MP3",
+        "Country": "CzechRepublic",
+        "Homepage": "https://www.radiobeat.cz/",
+        "Latitude": 50.0774256366952,
+        "Longitude": 14.487729486680928,
+        "Source1": "http://icecast2.play.cz/radiobeat128.mp3"
+    },
+    {
+        "Title": "Radio Blaník Morava a Slezsko",
+        "Country": "CzechRepublic",
+        "Tags": "pop",
+        "Source1": "https://ice.abradio.cz/blanikmorava128.mp3?gdpr=1&gdpr_consent=Q084aEUyaE84aEUyaEFjQUJCRU5BX0NnQVBfQUFIX0FBQVlnRjVvQmhEeEVCU0ZDQUdKb1lOa2dBQUFXeHdBQUFDQUNBQUFBb0FBQUFCb0FBQVFBQUFBQUFBQWdCQUFBQUJJQUlBSUFBQUJBR0VBQUFBQUFBQUFBQUFBQUFFQUFBQUFBSVFBQUFBQUFBQ0JBQUFBQUFBQUFBQUFBQUFBQVFBQUFnWG5BZUFBV0FCVUFDNEFIQUFRQUFxQUJvQURrQUlnQVRBQW5nQlZBQzRBRjhBTVFBaElCRUFFVUFLVUFXSUF5d0Jtd0R1QU84QWhBQkZnQzBnRjFBTUNBYXdCTm9DOHdBQUFBLllBQUFBQUFBQUFBQQ=="
+    },
+    {
+        "Title": "Radio Bonton",
+        "Country": "CzechRepublic",
+        "Favicon": "https://www.radiobonton.cz/favicons/apple-touch-icon.png",
+        "Homepage": "https://www.radiobonton.cz/",
+        "Source1": "https://27753.live.streamtheworld.com/BONTONAAC.aac?tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=none&burst-time=15&sbmid=4ef04b1d-096f-4273-f8be-4c056d2bd182"
+    },
+    {
+        "Title": "Radio Budweis",
+        "Country": "CzechRepublic",
+        "Favicon": "https://budejovice.rozhlas.cz/favicon.ico",
+        "Homepage": "https://budejovice.rozhlas.cz/",
+        "Source1": "https://rozhlas.stream/ceske_budejovice_high.aac"
+    },
+    {
+        "Title": "Radio Cas",
+        "Country": "CzechRepublic",
+        "Favicon": "https://casradio.cz/wp-content/themes/frontheme_woo/assets/img/favicon/apple-touch-icon-120x120.png",
+        "Homepage": "https://casradio.cz/",
+        "Source1": "http://icecast6.play.cz/casradio128.mp3"
+    },
+    {
+        "Title": "Radio Cas Rock",
+        "Country": "CzechRepublic",
+        "Tags": "classic rock",
+        "Favicon": "https://casrock.cz/wp-content/themes/frontheme/assets/img/favicon/apple-touch-icon-120x120.png?v002=",
+        "Language": "cs",
+        "Homepage": "https://www.casrock.cz/",
+        "Source1": "http://icecast6.play.cz/casrock128.mp3"
+    },
+    {
+        "Title": "Radio City FM",
+        "Country": "CzechRepublic",
+        "Tags": "pop",
+        "Language": "cs",
+        "Homepage": "http://www.radiocity.cz/",
+        "Source1": "http://ice.abradio.cz/cityfm128.mp3"
+    },
+    {
+        "Title": "Radio Dechovka",
+        "Country": "CzechRepublic",
+        "Favicon": "http://www.radiodechovka.cz/wp-content/uploads/2022/04/cropped-logo_dechovka_samotne_do_3_cm_rgb.-3-768x255.jpg",
+        "Homepage": "http://www.radiodechovka.cz/",
+        "Source1": "http://icecast5.play.cz/dechovka128.mp3"
+    },
+    {
+        "Title": "Radio Dechovka 1233 Stredni Vlny",
+        "Country": "CzechRepublic",
+        "Tags": "czech folk music",
+        "Favicon": "http://api.play.cz/static/radio_logo/t200/radiodechovka.png",
+        "Language": "cs",
+        "Homepage": "http://www.radiodechovka.cz/",
+        "Source1": "http://icecast5.play.cz/dechovka128.mp3"
+    },
+    {
+        "Title": "Radio Depeche Mode",
+        "Country": "CzechRepublic",
+        "Favicon": "https://radia.cz/media/images/0001/01/thumb_246_images_w200.png",
+        "Language": "cs",
+        "Homepage": "http://www.abradio.cz/radio/22/radio-depeche-mode/",
+        "Source1": "http://mp3stream4.abradio.cz/depeche128.mp3"
+    },
+    {
+        "Title": "Radio Dixie",
+        "Country": "CzechRepublic",
+        "Tags": "rock,southern rock",
+        "Language": "cs,en",
+        "Homepage": "https://http//www.radiodixie.cz/",
+        "Source1": "http://icecast8.play.cz/radiodixie192.mp3"
+    },
+    {
+        "Title": "Radio Folk",
+        "Country": "CzechRepublic",
+        "Tags": "czech folk music,folk",
+        "Favicon": "https://radiofolk.cz/wp-content/uploads/2022/01/cropped-logo-folk-mensi-1.jpg",
+        "Language": "cs",
+        "Homepage": "https://radiofolk.cz/",
+        "Latitude": 50.25763990331481,
+        "Longitude": 14.647794002422003,
+        "Source1": "http://ice2.abradio.cz/folk64a.aac"
+    },
+    {
+        "Title": "Radio Fonlord",
+        "Country": "CzechRepublic",
+        "Homepage": "https://a5.asurahosting.com/public/r%C3%A1dio_fonlord",
+        "Source1": "https://a5.asurahosting.com:6530/radio.mp3"
+    },
+    {
+        "Title": "Radio Helax",
+        "Country": "CzechRepublic",
+        "Tags": "pop",
+        "Language": "cs",
+        "Homepage": "https://helax.cz/",
+        "Source1": "http://ice.abradio.cz:8000/helax128.mp3?type=.mp3/;stream.mp3"
+    },
+    {
+        "Title": "Radio Humor",
+        "Country": "CzechRepublic",
+        "Tags": "humor",
+        "Favicon": "https://radia.cz/static/favicon.ico",
+        "Language": "cs",
+        "Homepage": "http://www.abradio.cz/",
+        "Source1": "http://mp3stream4.abradio.cz:8000/humor128.mp3"
+    },
+    {
+        "Title": "Radio JIH Cimbalka",
+        "Country": "CzechRepublic",
+        "Tags": "folk music",
+        "Favicon": "https://naladit.radiocimbalka.cz/favicon/favicon-96x96.png",
+        "Language": "cs",
+        "Homepage": "https://naladit.radiocimbalka.cz/",
+        "Source1": "http://icecast6.play.cz/jihcimbalka128.mp3"
+    },
+    {
+        "Title": "Radio Kiss",
+        "Country": "CzechRepublic",
+        "Tags": "pop",
+        "Source1": "http://icecast4.play.cz/kiss128.mp3"
+    },
+    {
+        "Title": "RADIO KISS",
+        "Country": "CzechRepublic",
+        "Favicon": "https://www.kiss.cz/assets/favicon/apple-touch-icon.png",
+        "Homepage": "https://www.kiss.cz/",
+        "Source1": "https://stream.rcs.revma.com/asn0cmvb938uv"
+    },
+    {
+        "Title": "Radio Krokodyl",
+        "Country": "CzechRepublic",
+        "Language": "cs",
+        "Homepage": "http://krokodyl.cz/",
+        "Source1": "http://icecast4.play.cz/krokodyl128.mp3.m3u"
+    },
+    {
+        "Title": "Radio Life Trance",
+        "Country": "CzechRepublic",
+        "Tags": "dance,edm,trance",
+        "Favicon": "https://static2.mytuner.mobi/media/tvos_radios/584/radio-life-trance-fm.0acf6a9e.jpg",
+        "Language": "en",
+        "Homepage": "https://www.radiolife.cz/",
+        "Source1": "https://cast1.asurahosting.com:2199/tunein/radiolif.pls"
+    },
+    {
+        "Title": "Radio MB",
+        "Country": "CzechRepublic",
+        "Tags": "90's",
+        "Favicon": "https://radiomb.cz/wp-content/uploads/2026/06/Logo-MB.jpg",
+        "Homepage": "https://radiomb.cz/",
+        "Source1": "https://ice3.abradio.cz/radiomb128.mp3"
+    },
+    {
+        "Title": "Radio O106",
+        "Country": "CzechRepublic",
+        "Favicon": "https://www.radioo106.cz/favicon.ico",
+        "Language": "cs",
+        "Homepage": "https://www.radioo106.cz/",
+        "Source1": "https://www.radioking.com/play/o106"
+    },
+    {
+        "Title": "Radio Ostravan",
+        "Country": "CzechRepublic",
+        "Tags": "variety",
+        "Favicon": "http://www.radioostravan.cz/favicon.ico",
+        "Language": "cs",
+        "Homepage": "http://www.radioostravan.cz/",
+        "Source1": "http://icecast9.play.cz/radio-ostravan-256.mp3"
+    },
+    {
+        "Title": "Radio Otava",
+        "Country": "CzechRepublic",
+        "Favicon": "http://www.radiootava.cz/player/final_logo-web.png",
+        "Homepage": "https://www.radiootava.cz/",
+        "Latitude": 49.41990741328251,
+        "Longitude": 13.87954586367178,
+        "Source1": "https://radiootava.trefcon.cz:8889/radio.mp3"
+    },
+    {
+        "Title": "Radio Prague International",
+        "Country": "CzechRepublic",
+        "Favicon": "https://english.radio.cz/sites/all/themes/custom/e7/apple-touch-icon-precomposed-144x144.png",
+        "Homepage": "https://english.radio.cz/",
+        "Source1": "https://rozhlas.stream/radio_prague_int_high.aac",
+        "Source2": "https://rozhlas.stream/cro7_mp3_128.mp3"
+    },
+    {
+        "Title": "Radio Praha",
+        "Country": "CzechRepublic",
+        "Tags": "public radio,český rozhlas",
+        "Favicon": "http://api.play.cz/static/radio_logo/t200/cro7.png",
+        "Homepage": "http://www.radio.cz/en",
+        "Source1": "http://icecast2.play.cz/cro7-128.mp3"
+    },
+    {
+        "Title": "Radio Proglas",
+        "Country": "CzechRepublic",
+        "Favicon": "https://www.proglas.cz/res/images/og-default.png",
+        "Homepage": "https://www.proglas.cz/",
+        "Source1": "http://icecast1.play.cz/proglas96aac"
+    },
+    {
+        "Title": "Radio Proglas",
+        "Country": "CzechRepublic",
+        "Tags": "christian",
+        "Language": "cs",
+        "Homepage": "http://icecast2.play.cz/",
+        "Source1": "http://icecast2.play.cz/proglas128"
+    },
+    {
+        "Title": "Radio Prostor",
+        "Country": "CzechRepublic",
+        "Tags": "cultural news,economic news,news talk,sports news,talk & speech",
+        "Language": "cs",
+        "Homepage": "https://radioprostor.cz/",
+        "Source1": "https://bcast.spmmedia.cz/prostor-mp3"
+    },
+    {
+        "Title": "Radio Punctum",
+        "Country": "CzechRepublic",
+        "Favicon": "https://radiopunctum.cz/favicon/apple-touch-icon.png",
+        "Homepage": "https://radiopunctum.cz/",
+        "Source1": "https://radiopunctum.cz:8001/radio"
+    },
+    {
+        "Title": "Radio ROCK",
+        "Country": "CzechRepublic",
+        "Tags": "rock",
+        "Language": "cs",
+        "Source1": "http://ice.abradio.cz/rockradio128.mp3"
+    },
+    {
+        "Title": "Radio Slobodna Evropa",
+        "Country": "CzechRepublic",
+        "Favicon": "https://www.slobodnaevropa.org/Content/responsive/RFE/sh-SH/img/logo.svg",
+        "Language": "bs",
+        "Homepage": "https://www.slobodnaevropa.org/",
+        "Source1": "https://n08.radiojar.com/bugesa4nn3quv?rj-ttl=5&rj-tok=AAABikFH4NsAib8tua7OjeefLg"
+    },
+    {
+        "Title": "Radio SPIN 96.2 FM",
+        "Country": "CzechRepublic",
+        "Tags": "hiphop",
+        "Language": "cs",
+        "Homepage": "https://www.radiospin.cz/",
+        "Source1": "http://icecast-u2.play.cz:8000/spin128.mp3"
+    },
+    {
+        "Title": "Radio Svoboda (ru) (official stream)",
+        "Country": "CzechRepublic",
+        "Favicon": "https://svoboda.org/content/responsive/rfe/img/webapp/ico-128x128.png",
+        "Language": "ru",
+        "Homepage": "https://svoboda.org/",
+        "Latitude": 50.087643636150176,
+        "Longitude": 14.421154260635378,
+        "Source1": "https://stream.radiojar.com/hcrb063nn3quv"
+    },
+    {
+        "Title": "Radio Svoboda Rus",
+        "Country": "CzechRepublic",
+        "Tags": "news,political talk,rfe,talk",
+        "Favicon": "https://www.svoboda.org/content/responsive/rfe/img/webapp/ico-128x128.png",
+        "Language": "ru",
+        "Homepage": "https://www.svoboda.org/",
+        "Source1": "http://rfe04.akacast.akamaistream.net/7/509/437762/v1/ibb.akacast.akamaistream.net/rfe04"
+    },
+    {
+        "Title": "Radio Sázava",
+        "Country": "CzechRepublic",
+        "Tags": "oldies",
+        "Language": "cs",
+        "Homepage": "http://sazava.heyradio.cz/",
+        "Source1": "http://sc.ipip.cz:8224/;stream"
+    },
+    {
+        "Title": "Radio Wave",
+        "Country": "CzechRepublic",
+        "Tags": "alternative,public radio,youth",
+        "Favicon": "http://api.play.cz/static/radio_logo/t200/crowave.png",
+        "Language": "cs",
+        "Homepage": "http://www.rozhlas.cz/radiowave/",
+        "Latitude": 50.078534719330655,
+        "Longitude": 14.434543848037722,
+        "Source1": "http://rozhlas.stream/wave_mp3_256.mp3"
+    },
+    {
+        "Title": "Radio Čas",
+        "Country": "CzechRepublic",
+        "Tags": "oldies,pop,regional",
+        "Favicon": "https://casradio.cz/wp-content/themes/frontheme_woo/assets/img/logos/radio-cas5.png",
+        "Language": "cs",
+        "Homepage": "https://casradio.cz/",
+        "Source1": "http://icecast6.play.cz/casradio128.mp3"
+    },
+    {
+        "Title": "Radio Čas Rock",
+        "Country": "CzechRepublic",
+        "Tags": "rock",
+        "Favicon": "https://casrock.cz/wp-content/themes/frontheme/assets/img/favicon/apple-touch-icon-120x120.png?v002=",
+        "Language": "cs",
+        "Homepage": "https://www.casrock.cz/",
+        "Source1": "http://icecast6.play.cz/casrock128.mp3"
+    },
+    {
+        "Title": "RADIO.IPIP.CZ: Cherry80",
+        "Country": "CzechRepublic",
+        "Favicon": "https://www.cherry80.cz/images/logo.png",
+        "Homepage": "https://www.cherry80.cz/",
+        "Source1": "https://icecast.beatzone.cz/radio/8630/cherry.mp3"
+    },
+    {
+        "Title": "RADIO1",
+        "Country": "CzechRepublic",
+        "Tags": "alternative",
+        "Favicon": "https://www.radio1.cz/favicon.ico",
+        "Language": "cs",
+        "Homepage": "https://www.radio1.cz/",
+        "Source1": "http://www.play.cz/radio/radio1-192.mp3.m3u"
+    },
+    {
+        "Title": "Radio7",
+        "Country": "CzechRepublic",
+        "Tags": "christian,christmas music",
+        "Favicon": "https://radio7.cz/images/logo/r7_logo_transp_inv.png",
+        "Language": "cs",
+        "Homepage": "https://radio7.cz/",
+        "Latitude": 49.195746840943485,
+        "Longitude": 16.607552149426027,
+        "Source1": "https://api.play.cz/radio/radio7-32aac.m3u",
+        "Source2": "http://icecast8.play.cz/radio7-128.mp3"
+    },
+    {
+        "Title": "RadioExkluzive",
+        "Country": "CzechRepublic",
+        "Homepage": "http://radio-exkluzive.hys.cz/",
+        "Source1": "http://mpc1.mediacp.eu:8034/listen.pls"
+    },
+    {
+        "Title": "RadioParty.pl",
+        "Country": "CzechRepublic",
+        "Homepage": "https://s2.radioparty.pl:8015/stream",
+        "Source1": "https://s2.radioparty.pl:8015/stream"
+    },
+    {
+        "Title": "RELAX Radio Kladno - 92,3 FM",
+        "Country": "CzechRepublic",
+        "Favicon": "https://radio-relax.cz/new/wp-content/uploads/2021/12/LOGO-RELAX-192x80-1.png",
+        "Homepage": "https://radio-relax.cz/new/",
+        "Source1": "http://icecast7.play.cz/relax128.mp3"
+    },
+    {
+        "Title": "Retro Music Television",
+        "Country": "CzechRepublic",
+        "Tags": "classic hits,classic rock,oldies,pop classic,retro,rock classics",
+        "Language": "cs,en",
+        "Homepage": "https://retromusic.cz/",
+        "Source1": "http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8"
+    },
+    {
+        "Title": "Retro Music TV",
+        "Country": "CzechRepublic",
+        "Tags": "pop,retro,tv",
+        "Favicon": "https://retromusic.cz/wp-content/themes/swanxy/assets/images/favicon/favicon-32x32.png",
+        "Language": "cs",
+        "Homepage": "https://retromusic.cz/",
+        "Source1": "http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8"
+    },
+    {
+        "Title": "RFE/RL Radio Farda",
+        "Country": "CzechRepublic",
+        "Tags": "music,news,persian,rfe-rl,talk",
+        "Favicon": "http://www.radiofarda.com//Content/responsive/RFE/img/webApp/favicon.ico",
+        "Language": "fa",
+        "Homepage": "http://www.radiofarda.com/",
+        "Source1": "http://rfe21.akacast.akamaistream.net/7/751/437779/v1/ibb.akacast.akamaistream.net/rfe21"
+    },
+    {
+        "Title": "ROCK MAX",
+        "Country": "CzechRepublic",
+        "Tags": "rock",
+        "Language": "cs",
+        "Homepage": "http://www.rockmax.cz/",
+        "Source1": "http://ice.abradio.cz/rockmax256.mp3"
+    },
+    {
+        "Title": "Rock Radio",
+        "Country": "CzechRepublic",
+        "Tags": "rock",
+        "Favicon": "https://rockovyradio.cz/design/img/logo.svg",
+        "Language": "cs",
+        "Homepage": "https://rockovyradio.cz/",
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/ROCK_RADIO_128.mp3"
+    },
+    {
+        "Title": "Rock Rádio Šumava",
+        "Country": "CzechRepublic",
+        "Tags": "rock",
+        "Language": "cs",
+        "Homepage": "http://www.radiosumava.cz/",
+        "Source1": "http://ice.abradio.cz/sumava128.mp3"
+    },
+    {
+        "Title": "Rock rádio – CZ Rock",
+        "Country": "CzechRepublic",
+        "Tags": "rock",
+        "Favicon": "https://radia.cz/media/images/0001/01/f1a30ba0ae3a38a7b2ceef8a16375700196275f2.svg",
+        "Language": "cs",
+        "Homepage": "https://rockovyradio.cz/",
+        "Source1": "https://ice2.radia.cz/rockzabava128.aac"
+    },
+    {
+        "Title": "Rocková zábava",
+        "Country": "CzechRepublic",
+        "Tags": "czech rock",
+        "Favicon": "https://radia.cz/media/images/0001/01/thumb_69_images_w200.png",
+        "Language": "cs",
+        "Homepage": "http://www.abradio.cz/radio/157/rockova-zabava/",
+        "Source1": "http://ice.abradio.cz/rockzabava128.mp3"
+    },
+    {
+        "Title": "Rockzone",
+        "Country": "CzechRepublic",
+        "Favicon": "http://www.rockzone.cz/favicon.ico",
+        "Language": "cs",
+        "Homepage": "http://www.rockzone.cz/",
+        "Source1": "http://icecast5.play.cz/rockzone128.mp3"
+    },
+    {
+        "Title": "RockZone",
+        "Country": "CzechRepublic",
+        "Homepage": "https://rockzone.cz/",
+        "Source1": "https://icecast5.play.cz/rockzone.mp3"
+    },
+    {
+        "Title": "RockZone 105,9 FM",
+        "Country": "CzechRepublic",
+        "Tags": "rock",
+        "Language": "cs",
+        "Homepage": "https://www.rockzone.cz/",
+        "Source1": "https://icecast5.play.cz/rockzone128.mp3"
+    },
+    {
+        "Title": "Rádio 1",
+        "Country": "CzechRepublic",
+        "Tags": "r&b/urban",
+        "Favicon": "https://www.radio1.cz/favicon.ico",
+        "Homepage": "https://www.radio1.cz/",
+        "Source1": "http://icecast6.play.cz/radio1-128.mp3",
+        "Source2": "https://stream.rcs.revma.com/stk8hrvb938uv"
+    },
+    {
+        "Title": "Rádio 7",
+        "Country": "CzechRepublic",
+        "Language": "cs",
+        "Homepage": "http://www.radio7.cz/",
+        "Source1": "http://icecast8.play.cz/radio7-128.mp3"
+    },
+    {
+        "Title": "Rádio 7 32kb",
+        "Country": "CzechRepublic",
+        "Language": "cs",
+        "Homepage": "https://radio7.cz/",
+        "Source1": "http://icecast1.play.cz:8000/radio7cz32.mp3"
+    },
+    {
+        "Title": "Rádio Applaus",
+        "Country": "CzechRepublic",
+        "Tags": "pop",
+        "Language": "cs",
+        "Homepage": "http://www.radioapplaus.com/",
+        "Source1": "http://mp3stream3.abradio.cz/applaus128.mp3"
+    },
+    {
+        "Title": "Rádio Beat",
+        "Country": "CzechRepublic",
+        "Homepage": "http://www.radiobeat.cz/",
+        "Latitude": 50.09129330034557,
+        "Longitude": 14.439602243099662,
+        "Source1": "http://icecast2.play.cz/radiobeat128.mp3"
+    },
+    {
+        "Title": "Rádio Beat (128 AAC)",
+        "Country": "CzechRepublic",
+        "Tags": "classic rock,rock",
+        "Favicon": "https://www.radiobeat.cz/img/logo@2x.png",
+        "Language": "cs",
+        "Homepage": "https://www.radiobeat.cz/",
+        "Source1": "https://icecast2.play.cz/beat128aac"
+    },
+    {
+        "Title": "Rádio BLANÍK",
+        "Country": "CzechRepublic",
+        "Favicon": "https://radioblanik.cz/design/favicons/apple-icon-180x180.png",
+        "Homepage": "https://radioblanik.cz/",
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_BLANIK.aac?gdpr=0",
+        "Source2": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_BLANIK_128.mp3"
+    },
+    {
+        "Title": "Rádio Blaník CZ Webové rádio",
+        "Country": "CzechRepublic",
+        "Language": "cs",
+        "Homepage": "http://www.radioblanik.cz/",
+        "Source1": "http://ice.abradio.cz/blanikcz128.mp3"
+    },
+    {
+        "Title": "Rádio Blaník Oldies",
+        "Country": "CzechRepublic",
+        "Tags": "oldies",
+        "Language": "cs",
+        "Homepage": "https://radioblanik.cz/",
+        "Source1": "https://ice.radia.cz/oldiesradio128.mp3"
+    },
+    {
+        "Title": "Rádio Blaník živé",
+        "Country": "CzechRepublic",
+        "Language": "cs",
+        "Homepage": "http://www.radioblanik.cz/",
+        "Source1": "http://ice.abradio.cz/blanikfm128.mp3"
+    },
+    {
+        "Title": "Rádio Bonton",
+        "Country": "CzechRepublic",
+        "Tags": "klídek,pohoda,relax",
+        "Favicon": "https://www.radiobonton.cz/favicons/apple-touch-icon.png",
+        "Language": "cs",
+        "Homepage": "https://www.radiobonton.cz/",
+        "Source1": "http://ice.actve.net/fm-bonton-128"
+    },
+    {
+        "Title": "Rádio Click & Country",
+        "Country": "CzechRepublic",
+        "Tags": "country",
+        "Favicon": "https://www.clickandcountry.com/images/favicon/apple-icon-120x120.png",
+        "Language": "cs",
+        "Homepage": "https://www.clickandcountry.com/",
+        "Source1": "http://radio.clickandcountry.cz:8000/clickandcountry.mp3"
+    },
+    {
+        "Title": "Rádio Dechovka 256 kbps",
+        "Country": "CzechRepublic",
+        "Tags": "czech folk music,folk music",
+        "Language": "cs",
+        "Homepage": "https://radiodechovka.cz/",
+        "Source1": "http://37.46.208.57:8000/stream_cra_256.mp3.m3u"
+    },
+    {
+        "Title": "Rádio Diana – Retro Club",
+        "Country": "CzechRepublic",
+        "Tags": "90's",
+        "Language": "cs",
+        "Homepage": "http://www.radiodiana.cz/",
+        "Source1": "https://westradio.cz/radio/8000/radio.mp3"
+    },
+    {
+        "Title": "Rádio DNB TV",
+        "Country": "CzechRepublic",
+        "Favicon": "https://www.shadowbox.cz/css/site/btn/radio_shadowbox.png",
+        "Homepage": "http://www.abradio.cz/radio/71/drumandbass-radio-shadowbox/",
+        "Source1": "https://ice3.abradio.cz/shadowbox128.mp3"
+    },
+    {
+        "Title": "Rádio Energic",
+        "Country": "CzechRepublic",
+        "Tags": "contemporary hits radio",
+        "Language": "cs",
+        "Homepage": "https://radioenergic.cz/",
+        "Source1": "https://icecast9.play.cz/energic.mp3"
+    },
+    {
+        "Title": "Rádio folk Czech",
+        "Country": "CzechRepublic",
+        "Tags": "folk",
+        "Favicon": "https://radiofolk.cz/wp-content/uploads/2022/01/cropped-logo-folk-mensi-1.jpg",
+        "Language": "cs",
+        "Homepage": "https://radiofolk.cz/",
+        "Source1": "http://mp3stream2.abradio.cz:8000/folk320.mp3"
+    },
+    {
+        "Title": "Rádio G6",
+        "Country": "CzechRepublic",
+        "Homepage": "https://radiog6.cz/",
+        "Source1": "https://mpc1.mediacp.eu:8098/listen.pls?sid=1"
+    },
+    {
+        "Title": "Rádio humor 2",
+        "Country": "CzechRepublic",
+        "Tags": "humor",
+        "Language": "cs",
+        "Homepage": "https://www.abradio.cz/",
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_HUMOR.aac"
+    },
+    {
+        "Title": "Rádio Hády",
+        "Country": "CzechRepublic",
+        "Tags": "hits,pop music",
+        "Language": "cs",
+        "Homepage": "https://radiohady.com/",
+        "Source1": "http://46.36.36.149:8000/live"
+    },
+    {
+        "Title": "Rádio Jih",
+        "Country": "CzechRepublic",
+        "Tags": "pop",
+        "Source1": "http://icecast6.play.cz/jih128.mp3"
+    },
+    {
+        "Title": "Rádio Jih",
+        "Country": "CzechRepublic",
+        "Tags": "pop music",
+        "Language": "cs",
+        "Homepage": "https://www.radiojih.cz/",
+        "Source1": "https://icecast6.play.cz/jih32.mp3"
+    },
+    {
+        "Title": "Rádio Jih Cimbálka",
+        "Country": "CzechRepublic",
+        "Favicon": "https://radiocimbalka.cz/wp-content/uploads/2021/09/favicon_cimbalka_v2.png",
+        "Homepage": "https://radiocimbalka.cz/",
+        "Source1": "http://icecast6.play.cz/jihcimbalka128.mp3"
+    },
+    {
+        "Title": "Rádio Junior",
+        "Country": "CzechRepublic",
+        "Favicon": "https://junior.rozhlas.cz/sites/default/files/favicon.ico",
+        "Homepage": "http://www.rozhlas.cz/radiojunior/",
+        "Source1": "http://amp.cesnet.cz:8000/cro-radio-junior-256.ogg.m3u"
+    },
+    {
+        "Title": "Rádio Koleda",
+        "Country": "CzechRepublic",
+        "Tags": "christmas music",
+        "Favicon": "https://radia.cz/media/images/0001/01/95db039bf174984aa88b002e45148ee1603fce6d.svg",
+        "Language": "cs",
+        "Homepage": "https://radia.cz/radia/radio-koleda",
+        "Latitude": 50.069274184523564,
+        "Longitude": 14.41886901855469,
+        "Source1": "https://ice3.radia.cz/koleda_64.aac"
+    },
+    {
+        "Title": "Rádio MB",
+        "Country": "CzechRepublic",
+        "Tags": "oldies,pop music",
+        "Language": "cs",
+        "Homepage": "https://www.radiomb.cz/",
+        "Source1": "http://icecast3.play.cz/radiomb.mp3"
+    },
+    {
+        "Title": "Rádio Music Z",
+        "Country": "CzechRepublic",
+        "Tags": "70s,90s,adult contemporary,dance,disco,easy listening,hits,oldies,pop,rock,talk,weather",
+        "Homepage": "https://radiomusiccz.framer.website/",
+        "Source1": "http://mpc1.mediacp.eu:8410/stream"
+    },
+    {
+        "Title": "Rádio Nostalgie",
+        "Country": "CzechRepublic",
+        "Tags": "classic rock,dance,disco,oldies,pop",
+        "Language": "cs",
+        "Homepage": "https://www.radionostalgie.cz/",
+        "Source1": "https://icecast3.play.cz/radio-nostalgie128.mp3"
+    },
+    {
+        "Title": "Rádio Orlicko",
+        "Country": "CzechRepublic",
+        "Favicon": "https://www.radioorlicko.cz/",
+        "Homepage": "https://www.radioorlicko.cz/",
+        "Source1": "https://mediaservice.radioorlicko.cz/stream192.mp3"
+    },
+    {
+        "Title": "Rádio pohádka",
+        "Country": "CzechRepublic",
+        "Favicon": "https://radia.cz/media/images/0001/01/thumb_25_images_w200.png",
+        "Language": "cs",
+        "Homepage": "http://www.abradio.cz/en/radio/46/radio-pohadka/",
+        "Source1": "http://ice3.abradio.cz/pohadka128.mp3"
+    },
+    {
+        "Title": "Rádio Pohádka",
+        "Country": "CzechRepublic",
+        "Favicon": "https://cdb.radia.cz/design/img/thumbnails/no-artwork-image(image200).png",
+        "Homepage": "https://radia.cz/radia/radio-pohadka",
+        "Source1": "https://ice3.radia.cz/pohadka128.mp3"
+    },
+    {
+        "Title": "Rádio Povádka",
+        "Country": "CzechRepublic",
+        "Language": "cs",
+        "Homepage": "https://radia.cz/radia/radio-povidka",
+        "Source1": "https://ice3.radia.cz/povidka128.mp3"
+    },
+    {
+        "Title": "Rádio Písnička",
+        "Country": "CzechRepublic",
+        "Tags": "schlager",
+        "Favicon": "https://slagr-radio.cz/logo-pisnicka.webp",
+        "Language": "cs,sk",
+        "Homepage": "https://slagr-radio.cz/",
+        "Source1": "https://stream.slagr-radio.cz/pisnicka"
+    },
+    {
+        "Title": "Rádio Relax",
+        "Country": "CzechRepublic",
+        "Tags": "pop,rock",
+        "Language": "cs",
+        "Homepage": "http://radio-relax.cz/",
+        "Latitude": 50.13915687299896,
+        "Longitude": 14.10140544176102,
+        "Source1": "http://icecast7.play.cz/relax128.mp3"
+    },
+    {
+        "Title": "Rádio Samson",
+        "Country": "CzechRepublic",
+        "Tags": "country,folk,rock",
+        "Language": "cs",
+        "Homepage": "http://www.radiosamson.cz/content/text/cz/",
+        "Source1": "http://icecast8.play.cz/samsonfm128.mp3"
+    },
+    {
+        "Title": "Rádio Samson",
+        "Country": "CzechRepublic",
+        "Favicon": "null",
+        "Language": "cs",
+        "Homepage": "https://www.radiosamson.cz/content/text/cz/",
+        "Source1": "http://icecast2.play.cz/samsonfm128aac"
+    },
+    {
+        "Title": "Rádio Samson",
+        "Country": "CzechRepublic",
+        "Favicon": "null",
+        "Language": "cs",
+        "Homepage": "https://www.radiosamson.cz/",
+        "Source1": "https://icecast2.play.cz/samsonfm128aac"
+    },
+    {
+        "Title": "Rádio Sázava",
+        "Country": "CzechRepublic",
+        "Favicon": "https://radiosazava.cz/porady/sazava_logo_vlnka.png",
+        "Homepage": "https://radiosazava.cz/dnes.php",
+        "Source1": "https://icecast8.play.cz/sazava192.mp3"
+    },
+    {
+        "Title": "Rádio Xaver",
+        "Country": "CzechRepublic",
+        "Tags": "talk show",
+        "Favicon": "https://radioxaver.cz/assets/img/Xradio-logo-x.svg",
+        "Language": "cs",
+        "Homepage": "https://radioxaver.cz/",
+        "Latitude": 50.08344365619684,
+        "Longitude": 14.435021281242372,
+        "Source1": "https://icecast6.play.cz/radio-xaver.aac"
+    },
+    {
+        "Title": "Rádio Čas Rock (192 kbps)",
+        "Country": "CzechRepublic",
+        "Homepage": "https://casrock.cz/",
+        "Source1": "https://icecast9.play.cz/casrock192.mp3"
+    },
+    {
+        "Title": "Samson",
+        "Country": "CzechRepublic",
+        "Favicon": "null",
+        "Language": "cs",
+        "Homepage": "https://radiosamson.cz/content/text/cz/",
+        "Source1": "http://icecast2.play.cz:8000/samsonfm128aac"
+    },
+    {
+        "Title": "SeeJay Radio",
+        "Country": "CzechRepublic",
+        "Tags": "dance",
+        "Favicon": "https://api.play.cz/static/radio_logo/t200/seejay-radio.png",
+        "Homepage": "https://www.play.cz/radio/seejay-radio/",
+        "Source1": "http://icecast6.play.cz/seejay128.mp3"
+    },
+    {
+        "Title": "SeeJay Radio",
+        "Country": "CzechRepublic",
+        "Favicon": "http://api.play.cz/static/radio_logo/t200/seejay-radio.png",
+        "Homepage": "https://listen.play.cz/player?shortcut=seejay-radio",
+        "Source1": "http://icecast6.play.cz/seejay128.mp3"
+    },
+    {
+        "Title": "Shinto",
+        "Country": "CzechRepublic",
+        "Favicon": "https://radikombinator.github.io/r-k/",
+        "Language": "cs",
+        "Homepage": "https://radikombinator.github.io/r-k/",
+        "Source1": "https://s49.myradiostream.com/8142/listen.mp3"
+    },
+    {
+        "Title": "Signál Rádio",
+        "Country": "CzechRepublic",
+        "Tags": "oldies,pop",
+        "Language": "cs",
+        "Homepage": "http://www.signalradio.cz/",
+        "Source1": "http://icecast1.play.cz/signal128.mp3"
+    },
+    {
+        "Title": "Signál Rádio Brno",
+        "Country": "CzechRepublic",
+        "Tags": "oldies,pop",
+        "Language": "cs",
+        "Homepage": "http://www.signalradio.cz/",
+        "Source1": "http://icecast6.play.cz/signal-brno128.mp3"
+    },
+    {
+        "Title": "SKYROCK",
+        "Country": "CzechRepublic",
+        "Tags": "czech rock,rock",
+        "Favicon": "https://api.play.cz/static/radio_logo/t200/skyrock.png",
+        "Language": "cs",
+        "Homepage": "http://www.skyrock.cz/",
+        "Latitude": 49.593554833948154,
+        "Longitude": 17.251968383789066,
+        "Source1": "http://icecast8.play.cz/skyrock128.mp3"
+    },
+    {
+        "Title": "Stanice Hvězda",
+        "Country": "CzechRepublic",
+        "Tags": "czech",
+        "Favicon": "https://hvezda.info/favicon/favicon-32x32.png",
+        "Language": "cs",
+        "Homepage": "https://hvezda.info/",
+        "Latitude": 50.08181960206071,
+        "Longitude": 14.408878020281907,
+        "Source1": "http://fire.doscast.com:8038/stream"
+    },
+    {
+        "Title": "Sunrise Radio (Czechia)",
+        "Country": "CzechRepublic",
+        "Tags": "club dance,dance,drum and bass,electronic dance music,future house,house,liquid dnb",
+        "Favicon": "https://i.ibb.co/0GVxMgd/sunshineradio.png",
+        "Language": "cs,en",
+        "Homepage": "https://laut.fm/radio-dance-eu",
+        "Latitude": 49.41234135659763,
+        "Longitude": 14.665374755859377,
+        "Source1": "https://stream.laut.fm/radio-dance-eu"
+    },
+    {
+        "Title": "svobodne-radio",
+        "Country": "CzechRepublic",
+        "Language": "cs",
+        "Homepage": "http://www.svobodne-radio.cz/",
+        "Source1": "http://svobodneradio.radioca.st:8859/stream"
+    },
+    {
+        "Title": "Svobodný vysílač",
+        "Country": "CzechRepublic",
+        "Homepage": "https://www.svobodny-vysilac.cz/",
+        "Source1": "http://stream.svobodny-vysilac.cz:8000/live.ogg",
+        "Source2": "http://stream.svobodny-vysilac.cz:8000/live.mp3"
+    },
+    {
+        "Title": "We House Radio (AAC+ High)",
+        "Country": "CzechRepublic",
+        "Tags": "funky house,house,jackin house,nu-disco,soulful house,tech house",
+        "Language": "en",
+        "Homepage": "https://www.wehouseradio.com/",
+        "Source1": "https://stream.wehouseradio.com/stream/2/"
+    },
+    {
+        "Title": "WebRadio Epigon",
+        "Country": "CzechRepublic",
+        "Tags": "cz sk,czech rock,metal,rock,student radio",
+        "Language": "cs",
+        "Homepage": "http://www.epigon.info/",
+        "Source1": "http://ice3.abradio.cz/epigon128.mp3"
+    },
+    {
+        "Title": "WeHouseRadio",
+        "Country": "CzechRepublic",
+        "Tags": "funky house,house,jackin house,nu-disco,soulful house,tech house",
+        "Language": "en",
+        "Homepage": "https://www.wehouseradio.com/",
+        "Source1": "https://stream.wehouseradio.com/stream/1/",
+        "Source2": "https://stream.wehouseradio.com/stream/3/"
+    },
+    {
+        "Title": "WorldRadio",
+        "Country": "CzechRepublic",
+        "Favicon": "https://worldradio.eu/wp-content/uploads/2023/11/worldradio_lopta_112.png",
+        "Homepage": "https://worldradio.eu/#",
+        "Source1": "https://worldradio100.radioca.st/stream"
+    },
+    {
+        "Title": "Známka Punku",
+        "Country": "CzechRepublic",
+        "Tags": "punk",
+        "Favicon": "https://radia.cz/favicon.ico",
+        "Language": "cs",
+        "Homepage": "https://radia.cz/radio-znamka-punku-playlist",
+        "Source1": "https://ice.abradio.cz/znamkapunku128.mp3"
+    },
+    {
+        "Title": "Zoner Underground Network",
+        "Country": "CzechRepublic",
+        "Tags": "deep house,house",
+        "Favicon": "https://digital.rozhlas.cz/sites/default/files/styles/lightbox/public/images/f32b1e9c03da1b0a6fa3c92c11396f91.jpg",
+        "Homepage": "https://zunradio.cz/",
+        "Source1": "https://stream.zunradio.cz/zun3.mp3"
+    },
+    {
+        "Title": "ZUN rádio",
+        "Country": "CzechRepublic",
+        "Homepage": "https://zunradio.cz/",
+        "Source1": "https://icecast9.play.cz/zun48.aac"
+    },
+    {
+        "Title": "Óčko",
+        "Country": "CzechRepublic",
+        "Tags": "music,pop music,tv",
+        "Homepage": "https://ocko.tv/",
+        "Source1": "http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_lq.m3u8"
+    },
+    {
+        "Title": "Óčko Expres",
+        "Country": "CzechRepublic",
+        "Tags": "music,tv",
+        "Language": "cs",
+        "Homepage": "https://ocko.tv/",
+        "Source1": "http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_lq.m3u8"
+    },
+    {
+        "Title": "Óčko Star",
+        "Country": "CzechRepublic",
+        "Tags": "goldies,music,tv",
+        "Language": "cs",
+        "Homepage": "https://ocko.tv/",
+        "Source1": "https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist.m3u8"
+    },
+    {
+        "Title": "Čas Rock Natvrdo",
+        "Country": "CzechRepublic",
+        "Homepage": "https://natvrdo.casrock.cz/",
+        "Source1": "https://stream.sepia.sk:8000/rnt128.mp3"
+    },
+    {
+        "Title": "Český Impuls",
+        "Country": "CzechRepublic",
+        "Favicon": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/4pn6k2gnfueh.jpg",
+        "Language": "cs",
+        "Homepage": "http://www.ceskyimpuls.cz/",
+        "Source1": "http://icecast6.play.cz/cesky-impuls.mp3"
+    },
+    {
+        "Title": "Český Impuls",
+        "Country": "CzechRepublic",
+        "Favicon": "https://1gr.cz/o/impuls/ceskyimpuls/hlava2.jpg",
+        "Language": "cs",
+        "Homepage": "https://www.ceskyimpuls.cz/",
+        "Source1": "https://icecast6.play.cz/cesky-impuls.mp3",
+        "Source2": "https://stream.sepia.sk/ceskyimpuls128.mp3"
+    },
+    {
+        "Title": "Český rozhlas Brno",
+        "Country": "CzechRepublic",
+        "Tags": "local",
+        "Favicon": "null",
+        "Homepage": "https://rozhlas.stream/brno.mp3",
+        "Source1": "https://rozhlas.stream/brno.mp3"
+    },
+    {
+        "Title": "Český rozhlas Hradec Králové",
+        "Country": "CzechRepublic",
+        "Tags": "public radio",
+        "Favicon": "https://radia-online.com/files/styles/180/public/logo/cesky-rozhlas-hradec-kralove.jpg",
+        "Language": "cs",
+        "Homepage": "https://hradec.rozhlas.cz/",
+        "Latitude": 50.20942788366133,
+        "Longitude": 15.835762023925785,
+        "Source1": "https://rozhlas.stream/hradec_kralove.mp3"
+    },
+    {
+        "Title": "Český rozhlas České Budějovice",
+        "Country": "CzechRepublic",
+        "Tags": "regional",
+        "Favicon": "https://budejovice.rozhlas.cz/",
+        "Language": "cs",
+        "Homepage": "https://budejovice.rozhlas.cz/",
+        "Source1": "https://rozhlas.stream/ceske_budejovice_high.aac"
+    },
+    {
+        "Title": "ČRo D-dur",
+        "Country": "CzechRepublic",
+        "Tags": "classical",
+        "Homepage": "https://d-dur.rozhlas.cz/",
+        "Source1": "http://amp.cesnet.cz:8000/cro-d-dur.flac",
+        "Source2": "https://rozhlas.stream/ddur.mp3"
+    },
+    {
+        "Title": "ČRo D-dur FLAC",
+        "Country": "CzechRepublic",
+        "Homepage": "https://radio.cesnet.cz/",
+        "Latitude": 49.6619386806191,
+        "Longitude": 16.215820312500004,
+        "Source1": "http://amp.cesnet.cz:8000/cro-d-dur.flac"
+    },
+    {
+        "Title": "ČRo D-dur HD",
+        "Country": "CzechRepublic",
+        "Favicon": "https://d-dur.rozhlas.cz/sites/default/files/favicon_d-dur.ico",
+        "Homepage": "http://www.rozhlas.cz/d-dur/",
+        "Source1": "http://radio.cesnet.cz/cgi-bin/cro-d-dur-256-ogg.pls"
+    },
+    {
+        "Title": "ČRo Dvojka",
+        "Country": "CzechRepublic",
+        "Tags": "public radio,talk,český rozhlas",
+        "Favicon": "https://dvojka.rozhlas.cz/sites/default/files/favicon_dvojka.ico",
+        "Language": "cs",
+        "Homepage": "http://www.rozhlas.cz/dvojka/",
+        "Source1": "http://icecast6.play.cz/cro2-128.mp3"
+    },
+    {
+        "Title": "Čro Dvojka (256k ogg)",
+        "Country": "CzechRepublic",
+        "Tags": "news",
+        "Favicon": "https://oetpai.fra1.digitaloceanspaces.com/new_images/radioapp_88672.png",
+        "Language": "cs",
+        "Homepage": "https://dvojka.rozhlas.cz/",
+        "Latitude": 50.0784563475663,
+        "Longitude": 14.434372186660768,
+        "Source1": "http://amp1.cesnet.cz:8000/cro2-256.ogg"
+    },
+    {
+        "Title": "ČRo Jazz",
+        "Country": "CzechRepublic",
+        "Tags": "flac,jazz,lossless,public radio,český rozhlas",
+        "Favicon": "https://jazz.rozhlas.cz/sites/default/files/favicon_jazz.ico",
+        "Language": "cs",
+        "Homepage": "https://www.rozhlas.cz/jazz/",
+        "Source1": "http://amp.cesnet.cz:8000/cro-jazz.flac"
+    },
+    {
+        "Title": "ČRo Jazz",
+        "Country": "CzechRepublic",
+        "Tags": "jazz",
+        "Favicon": "https://api.play.cz/static/radio_logo/t200/crojazz.png",
+        "Language": "cs",
+        "Homepage": "https://jazz.rozhlas.cz/",
+        "Source1": "https://rozhlas.stream/jazz.mp3"
+    },
+    {
+        "Title": "ČRo Olomouc",
+        "Country": "CzechRepublic",
+        "Homepage": "https://olomouc.rozhlas.cz/",
+        "Source1": "https://rozhlas.stream/olomouc_low.aac"
+    },
+    {
+        "Title": "ČRo Ostrava",
+        "Country": "CzechRepublic",
+        "Tags": "general,regional radio",
+        "Favicon": "https://ostrava.rozhlas.cz/favicon.ico",
+        "Language": "cs",
+        "Homepage": "https://ostrava.rozhlas.cz/",
+        "Latitude": 49.83744895085729,
+        "Longitude": 18.292257785797123,
+        "Source1": "https://rozhlas.stream/ostrava_high.aac"
+    },
+    {
+        "Title": "ČRo Plus",
+        "Country": "CzechRepublic",
+        "Tags": "talk & speech",
+        "Source1": "https://rozhlas.stream/plus_low.aac"
+    },
+    {
+        "Title": "ČRo Plus",
+        "Country": "CzechRepublic",
+        "Tags": "news,public radio",
+        "Favicon": "http://plus.rozhlas.cz/favicon.ico",
+        "Language": "cs",
+        "Homepage": "http://plus.rozhlas.cz/",
+        "Latitude": 50.07850373641097,
+        "Longitude": 14.43459749221802,
+        "Source1": "https://rozhlas.stream/plus_mp3_128.mp3"
+    },
+    {
+        "Title": "ČRo Plus",
+        "Country": "CzechRepublic",
+        "Tags": "public radio,talk,český rozhlas",
+        "Favicon": "https://plus.rozhlas.cz/sites/default/files/favicon_plus.ico",
+        "Language": "cs",
+        "Homepage": "http://www.rozhlas.cz/plus/",
+        "Source1": "http://amp.cesnet.cz:8000/cro-plus-256.ogg.m3u"
+    },
+    {
+        "Title": "ČRo Radio Wave",
+        "Country": "CzechRepublic",
+        "Tags": "cultural news,modern,progressive",
+        "Favicon": "https://wave.rozhlas.cz/favicon.ico",
+        "Language": "cs",
+        "Homepage": "https://wave.rozhlas.cz/",
+        "Latitude": 50.07854504696609,
+        "Longitude": 14.434624314308168,
+        "Source1": "http://amp.cesnet.cz:8000/cro-radio-wave-256.ogg.m3u"
+    },
+    {
+        "Title": "ČRo Radio Wave",
+        "Country": "CzechRepublic",
+        "Tags": "alternative,public radio,youth,český rozhlas",
+        "Favicon": "https://wave.rozhlas.cz/sites/default/files/favicon_wave.ico",
+        "Language": "cs",
+        "Homepage": "http://www.rozhlas.cz/radiowave/",
+        "Source1": "http://amp.cesnet.cz:8000/cro-radio-wave-256.ogg"
+    },
+    {
+        "Title": "ČRo Radiožurnál",
+        "Country": "CzechRepublic",
+        "Tags": "news,public radio,český rozhlas",
+        "Language": "cs",
+        "Homepage": "http://www.rozhlas.cz/radiozurnal/",
+        "Source1": "http://icecast8.play.cz/cro1-128.mp3"
+    },
+    {
+        "Title": "ČRO Radiožurnál Sport",
+        "Country": "CzechRepublic",
+        "Tags": "news,public radio,sport,talk",
+        "Language": "cs",
+        "Homepage": "https://rozhlas.cz/",
+        "Source1": "https://rozhlas.stream/radiozurnal_sport_high.aac"
+    },
+    {
+        "Title": "čro Radiožurnál Sport AdHoc stream 1",
+        "Country": "CzechRepublic",
+        "Language": "cs",
+        "Homepage": "https://sport.rozhlas.cz/",
+        "Source1": "https://rozhlas.stream/radiozurnal_sport_adhoc_1_high.mp3"
+    },
+    {
+        "Title": "ČRO Radiožurnál sport Adhoc stream 2",
+        "Country": "CzechRepublic",
+        "Tags": "news talk,sports news",
+        "Language": "cs",
+        "Homepage": "https://sport.rozhlas.cz/",
+        "Source1": "http://rozhlas.stream/radiozurnal_sport_adhoc_2_high.mp3",
+        "Source2": "https://rozhlas.stream/radiozurnal_sport_adhoc_2_high.mp3"
+    },
+    {
+        "Title": "čro radiožurnál sport Stream AdHoc 2",
+        "Country": "CzechRepublic",
+        "Tags": "news talk,sports news,český rozhlas",
+        "Language": "cs",
+        "Homepage": "https://sport.rozhlas.cz/",
+        "Source1": "https://rozhlas.stream/radiozurnal_sport_adhoc_2_high.mp3"
+    },
+    {
+        "Title": "ČRo Sever",
+        "Country": "CzechRepublic",
+        "Tags": "severní čechy,český rozhlas",
+        "Favicon": "https://sever.rozhlas.cz/sites/all/themes/custom/e7/images/logo/sever_colored-white.svg",
+        "Language": "cs",
+        "Homepage": "https://sever.rozhlas.cz/",
+        "Latitude": 50.663644817532486,
+        "Longitude": 14.042172962590636,
+        "Source1": "https://rozhlas.stream/sever_high.aac"
+    },
+    {
+        "Title": "ČRo Vltava",
+        "Country": "CzechRepublic",
+        "Tags": "classical,public radio,český rozhlas",
+        "Favicon": "http://api.play.cz/static/radio_logo/t200/cro3.png",
+        "Language": "cs",
+        "Homepage": "http://www.rozhlas.cz/vltava/",
+        "Source1": "http://icecast5.play.cz/cro3-128.mp3"
+    },
+    {
+        "Title": "Čro Vltava Flac",
+        "Country": "CzechRepublic",
+        "Favicon": "null",
+        "Language": "cs",
+        "Homepage": "https://vltava.rozhlas.cz/",
+        "Source1": "https://amp.cesnet.cz:8443/cro3.flac"
+    },
+    {
+        "Title": "ČRo Wave",
+        "Country": "CzechRepublic",
+        "Tags": "contemporary,cultural news,young adults",
+        "Favicon": "https://api.play.cz/static/radio_logo/t200/crowave.png",
+        "Language": "cs",
+        "Homepage": "https://wave.rozhlas.cz/",
+        "Latitude": 50.07854160442121,
+        "Longitude": 14.43460285663605,
+        "Source1": "https://rozhlas.stream/wave_mp3_256.mp3"
+    },
+    {
+        "Title": "ČRo Wave",
+        "Country": "CzechRepublic",
+        "Tags": "alternative,public radio,youth",
+        "Favicon": "https://wave.rozhlas.cz/sites/default/files/favicon_wave.ico",
+        "Language": "cs",
+        "Homepage": "http://www.rozhlas.cz/radiowave/",
+        "Latitude": 50.07854160442121,
+        "Longitude": 14.43458676338196,
+        "Source1": "https://rozhlas.stream/wave_mp3_128.mp3"
+    },
+    {
+        "Title": "Čro3 Vltava",
+        "Country": "CzechRepublic",
+        "Favicon": "null",
+        "Language": "cs",
+        "Homepage": "https://vltava.rozhlas.cz/",
+        "Source1": "http://amp.cesnet.cz:8000/cro3-256.ogg"
+    },
+    {
+        "Title": "Šlágr Rádio",
+        "Country": "CzechRepublic",
+        "Tags": "schlager",
+        "Favicon": "https://slagr-radio.cz/logo.webp",
+        "Language": "cs,sk",
+        "Homepage": "https://slagr-radio.cz/",
+        "Source1": "https://stream.slagr-radio.cz/mp3"
+    },
+    {
+        "Title": "Крым Реалии (rus, ukr) (official stream)",
+        "Country": "CzechRepublic",
+        "Favicon": "https://ru.krymr.com/content/responsive/rfe/img/webapp/ico-128x128.png",
+        "Language": "ru,uk",
+        "Homepage": "https://ru.krymr.com/",
+        "Latitude": 50.08771247392901,
+        "Longitude": 14.421046972274782,
+        "Source1": "https://stream.radiojar.com/wm9sntcpn3quv"
+    },
+    {
+        "Title": "Крым.Реалии",
+        "Country": "CzechRepublic",
+        "Tags": "news,news talk,talk",
+        "Favicon": "https://ru.krymr.com/content/responsive/rfe/img/webapp/ico-128x128.png",
+        "Language": "ru,uk",
+        "Homepage": "https://ru.krymr.com/",
+        "Source1": "https://rfe-ingest.akamaized.net/hls/live/2035288/axia19/playlist.m3u8"
+    },
+    {
+        "Title": "Радио Свобода",
+        "Country": "CzechRepublic",
+        "Tags": "новости,политика,разговорное",
+        "Favicon": "https://www.svoboda.org/content/responsive/rfe/img/webapp/ico-128x128.png",
+        "Homepage": "https://www.svoboda.org/",
+        "Source1": "https://rfe-ingest.akamaized.net/hls/live/2035254/axia04/playlist.m3u8"
+    },
+    {
+        "Title": "Радио Свобода (Radio Svoboda, RFE/RL Russian, ch. 4)",
+        "Country": "CzechRepublic",
+        "Tags": "cultural,music,news,prague,rfe-rl,talk",
+        "Favicon": "http://www.svoboda.org/Content/responsive/RFE/img/top_logo_news.png",
+        "Language": "ru",
+        "Homepage": "http://www.svoboda.org/",
+        "Source1": "http://rfe04.akacast.akamaistream.net/7/509/437762/v1/ibb.akacast.akamaistream.net/rfe04.m3u"
+    },
+    {
+        "Title": "Свобода",
+        "Country": "CzechRepublic",
+        "Tags": "news,news talk,talk",
+        "Favicon": "https://www.svoboda.org/content/responsive/rfe/img/webapp/ico-128x128.png",
+        "Language": "ru",
+        "Homepage": "https://www.svoboda.org/",
+        "Source1": "https://rfe-ingest.akamaized.net/hls/live/2035254/axia04/playlist.m3u8"
+    }
+]

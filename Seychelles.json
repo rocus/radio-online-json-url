@@ -1,0 +1,38 @@
+[
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "Seychelles",
+        "Favicon": "https://mp3islam.com/favicon.ico",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "Offshore Radio",
+        "Country": "Seychelles",
+        "Tags": "classic rock,hard rock,rock,seychelles,soft rock",
+        "Language": "en",
+        "Homepage": "https://offshoreradio.net/",
+        "Latitude": -4.6191,
+        "Longitude": 55.4513,
+        "Source1": "https://live.offshoreradio.net/listen/offshore_radio/radio.mp3"
+    },
+    {
+        "Title": "SBC Paradise FM - Seychelles Best Mix",
+        "Country": "Seychelles",
+        "Tags": "contemporary,creole",
+        "Language": "en",
+        "Homepage": "https://sbc.sc/",
+        "Source1": "https://streaming.fabrik.fm/paradise-fm/echocast/audio/index.m3u8"
+    },
+    {
+        "Title": "SBC Radyo Sesel",
+        "Country": "Seychelles",
+        "Tags": "creole,news,seychelles,talk",
+        "Language": "crs,en,fr",
+        "Homepage": "https://sbc.sc/",
+        "Latitude": -4.6191,
+        "Longitude": 55.4513,
+        "Source1": "https://streaming.fabrik.fm/radyo-sesel/echocast/audio/index.m3u8"
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "Title": "107.9 FM Da Vybe",
+        "Country": "UnitedStatesVirginIslands",
+        "Homepage": "https://www.davybe.com/",
+        "Source1": "https://ice3.securenetsystems.net/WLDV"
+    },
+    {
+        "Title": "Beach Bar Radio",
+        "Country": "UnitedStatesVirginIslands",
+        "Tags": "adult contemporary",
+        "Favicon": "https://beachbarstjohn.com/wp-content/uploads/2021/05/the-beach-bar-logo-horizontal-fullcolor.png",
+        "Homepage": "https://beachbarstjohn.com/",
+        "Source1": "https://streaming.radio.co/s23d2a636c/listen"
+    },
+    {
+        "Title": "BRN Radio - Arabic Channel",
+        "Country": "UnitedStatesVirginIslands",
+        "Tags": "bible,christian",
+        "Favicon": "http://brnradio.com/favicon.ico",
+        "Language": "ar",
+        "Homepage": "http://brnradio.com/",
+        "Source1": "http://192.241.185.108:8094/stream"
+    },
+    {
+        "Title": "EXA FM: Pop music in Spanish and English",
+        "Country": "UnitedStatesVirginIslands",
+        "Favicon": "https://i.iheart.com/v3/re/new_assets/5f9883c7cde5eff19e6eabac",
+        "Language": "es",
+        "Homepage": "https://www.exafm.com/veracruz/",
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac"
+    },
+    {
+        "Title": "From The Heart Radio",
+        "Country": "UnitedStatesVirginIslands",
+        "Tags": "all genres,christian music",
+        "Favicon": "https://websites.godaddy.com/en-US/editor/8376a04a-b7fe-4e0f-8df2-ea7a665eab11/310ea78e-4686-4418-bf19-a96c7b80d90e/settings/favicon",
+        "Language": "en",
+        "Homepage": "https://www.fromtheheartradio.net/",
+        "Latitude": 33.880783515062205,
+        "Longitude": -83.11019514966783,
+        "Source1": "https://global2.citrus3.com:2020/stream/fromtheheartradio"
+    },
+    {
+        "Title": "Hiphop",
+        "Country": "UnitedStatesVirginIslands",
+        "Homepage": "http://listen.181fm.com/181-oldschool_128k.mp3",
+        "Source1": "http://listen.181fm.com/181-oldschool_128k.mp3"
+    },
+    {
+        "Title": "Radio Elim LLDM",
+        "Country": "UnitedStatesVirginIslands",
+        "Tags": "christian",
+        "Language": "es",
+        "Homepage": "https://radio.elimlldm.net/public/elim_lldm",
+        "Source1": "https://radio.elimlldm.net/listen/elim_lldm/radio.mp3"
+    },
+    {
+        "Title": "WSTX-AM 970 Christiansted",
+        "Country": "UnitedStatesVirginIslands",
+        "Tags": "calypso,caribbean music,christiansted,news,reggae,talk",
+        "Language": "en",
+        "Homepage": "http://www.wstxradio.com/",
+        "Source1": "http://wstxradio2.serverroom.net:8340/;"
+    },
+    {
+        "Title": "WSTX-FM 100.3 Christiansted",
+        "Country": "UnitedStatesVirginIslands",
+        "Tags": "christiansted,reggae",
+        "Language": "en",
+        "Homepage": "http://www.wstxradio.com/",
+        "Source1": "http://wstxradio.serverroom.net:7490/;"
+    },
+    {
+        "Title": "WTJX",
+        "Country": "UnitedStatesVirginIslands",
+        "Homepage": "https://quarrel.streamguys1.com:7405/wtjxfm",
+        "Source1": "https://quarrel.streamguys1.com:7405/wtjxfm"
+    }
+]

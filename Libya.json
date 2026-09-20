@@ -1,0 +1,99 @@
+[
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "Libya",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "Almunir Radio – Benghazi",
+        "Country": "Libya",
+        "Tags": "quran,religious",
+        "Favicon": "https://munir.ly/wp-content/uploads/2023/08/munir-favicon-svg.svg",
+        "Language": "ar",
+        "Homepage": "https://munir.ly/",
+        "Latitude": 32.078703118050534,
+        "Longitude": 20.05790233612061,
+        "Source1": "https://live.munir.ly/proxy/almunir/stream"
+    },
+    {
+        "Title": "Almunir Radio – Tripoli",
+        "Country": "Libya",
+        "Tags": "quran,religious",
+        "Favicon": "https://munir.ly/wp-content/uploads/2023/08/munir-favicon-svg.svg",
+        "Language": "ar",
+        "Homepage": "https://munir.ly/",
+        "Latitude": 32.89369717975292,
+        "Longitude": 13.179860115051271,
+        "Source1": "https://live.munir.ly/proxy/almunirtip/stream"
+    },
+    {
+        "Title": "Hala Sabratha",
+        "Country": "Libya",
+        "Tags": "80's,music",
+        "Favicon": "https://zeno.fm/static/icons/apple-icon-120x120.png",
+        "Language": "ar",
+        "Homepage": "https://zeno.fm/hala-sabratha",
+        "Source1": "http://stream.zeno.fm/1dy2395z3k8uv"
+    },
+    {
+        "Title": "Libyana Hits FM",
+        "Country": "Libya",
+        "Tags": "arabic,benghazi,libya,tripoli",
+        "Favicon": "http://libyanahits.fm/fav.png",
+        "Language": "ar",
+        "Homepage": "http://libyanahits.fm/#",
+        "Source1": "http://proxima.shoutca.st:8946/stream"
+    },
+    {
+        "Title": "The Salaf Way 100.3 FM Tripoli LY",
+        "Country": "Libya",
+        "Tags": "islam,islamic,salaf",
+        "Favicon": "https://www.salafwayfm.ly/assets/img/icon.webp",
+        "Language": "ar",
+        "Homepage": "https://www.salafwayfm.ly/",
+        "Latitude": 32.88464176208257,
+        "Longitude": 13.186683654785158,
+        "Source1": "http://airtime.salafway.ly/"
+    },
+    {
+        "Title": "إذاعة القرآن الكريم",
+        "Country": "Libya",
+        "Tags": "classical",
+        "Source1": "http://stream.radiojar.com/0tpy1h0kxtzuv"
+    },
+    {
+        "Title": "إذاعة طريق السلف",
+        "Country": "Libya",
+        "Tags": "classical",
+        "Source1": "https://airtime.salafwayfm.ly/"
+    },
+    {
+        "Title": "إذاعة نور الإيمان المسموعة 105.7 FM",
+        "Country": "Libya",
+        "Homepage": "https://radionouraleman.com/ar/",
+        "Source1": "https://stream.zeno.fm/r6eprdta6nhvv"
+    },
+    {
+        "Title": "اذاعة القرآن الكريم",
+        "Country": "Libya",
+        "Tags": "classical",
+        "Source1": "http://stream.radiojar.com/0tpy1h0kxtzuv"
+    },
+    {
+        "Title": "تفسير بن عثيمين",
+        "Country": "Libya",
+        "Tags": "classical",
+        "Source1": "https://qurango.net/radio/tafseer"
+    },
+    {
+        "Title": "راديو فنون طرابلس - Radio Arts Tripoli",
+        "Country": "Libya",
+        "Favicon": "https://abs.twimg.com/favicons/twitter.2.ico",
+        "Language": "ar",
+        "Homepage": "https://mobile.twitter.com/Tripoliarts/status/1305165236023033856",
+        "Source1": "https://stream.zeno.fm/z9wfrdpmgg0uv"
+    }
+]

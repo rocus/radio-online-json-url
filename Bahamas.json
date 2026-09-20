@@ -1,0 +1,94 @@
+[
+    {
+        "Title": "103 The Beat",
+        "Country": "Bahamas",
+        "Tags": "pop",
+        "Favicon": "https://103beat.com/wp-content/uploads/2019/05/103thebeat-700x700.jpeg",
+        "Language": "en",
+        "Homepage": "https://103beat.com/",
+        "Latitude": 25.078447091841248,
+        "Longitude": -77.34134674072266,
+        "Source1": "https://stream.radiojar.com/01d8c449cyduv"
+    },
+    {
+        "Title": "96.9 FM GuardianRadio",
+        "Country": "Bahamas",
+        "Favicon": "https://guardiantalkradio.com/wp-content/themes/guardianradio/images/logo_site1.png",
+        "Homepage": "https://guardiantalkradio.com/",
+        "Source1": "https://radiostreams.streamcomedia.com:8000/969guardianradio"
+    },
+    {
+        "Title": "96.9FM GuardianRadio",
+        "Country": "Bahamas",
+        "Favicon": "https://guardiantalkradio.com/wp-content/themes/guardianradio/images/logo_site1.png",
+        "Homepage": "https://guardiantalkradio.com/",
+        "Source1": "https://radiostreams.streamcomedia.com:8000/969guardianradio"
+    },
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "Bahamas",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "Bahamian or Nuttin",
+        "Country": "Bahamas",
+        "Tags": "caribbean,junkanoo",
+        "Favicon": "https://img1.wsimg.com/isteam/ip/3828e59f-f1ce-4e2a-8946-b8dbdfaadc31/favicon/78d0b8fe-c6cf-4ef3-a4dc-f5284754eed2.png/:/rs=w:64,h:64,m",
+        "Language": "en",
+        "Homepage": "https://www.bahamianornuttin.com/",
+        "Latitude": 25.070766205882947,
+        "Longitude": -77.35061645507814,
+        "Source1": "https://s2.reliastream.com/proxy/rumcayme?mp=/stream"
+    },
+    {
+        "Title": "Bahamianor Nuttin 92.5 FM",
+        "Country": "Bahamas",
+        "Tags": "caribbean,junkanoo",
+        "Favicon": "https://img1.wsimg.com/isteam/ip/3828e59f-f1ce-4e2a-8946-b8dbdfaadc31/favicon/78d0b8fe-c6cf-4ef3-a4dc-f5284754eed2.png/:/rs=w:64,h:64,m",
+        "Language": "en",
+        "Homepage": "https://www.bahamianornuttin.com/",
+        "Latitude": 25.07138815758652,
+        "Longitude": -77.35336303710939,
+        "Source1": "https://s2.reliastream.com/proxy/rumcayme?mp=/stream"
+    },
+    {
+        "Title": "Global 99.5 FM",
+        "Country": "Bahamas",
+        "Favicon": "https://cdn-radiotime-logos.tunein.com/s206590q.png",
+        "Language": "en",
+        "Homepage": "http://globalradio995fm.com/",
+        "Source1": "http://ice64.securenetsystems.net/GLOBALBS"
+    },
+    {
+        "Title": "Kingdom Living Publications & Media Ltd",
+        "Country": "Bahamas",
+        "Favicon": "https://www.klpmradio.com/",
+        "Homepage": "https://www.klpmradio.com/",
+        "Source1": "https://s4.radio.co/s440e54fd7/listen"
+    },
+    {
+        "Title": "LCLHST R1",
+        "Country": "Bahamas",
+        "Tags": "electro sets,electronic,minimal,techno",
+        "Language": "en",
+        "Homepage": "http://radio.lclhst.net/",
+        "Source1": "http://s1.radio.lclhst.net:1437/r1"
+    },
+    {
+        "Title": "LCLHST R2",
+        "Country": "Bahamas",
+        "Tags": "electro sets,electronic,minimal,techno",
+        "Language": "en",
+        "Homepage": "http://radio.lclhst.net/",
+        "Source1": "http://s1.radio.lclhst.net:1437/r2"
+    },
+    {
+        "Title": "Minimal, Techno, Electro Sets @ http://radio.lclhst.net/",
+        "Country": "Bahamas",
+        "Homepage": "http://radio.lclhst.net/",
+        "Source1": "http://radio.lclhst.net/listen.m3u"
+    }
+]

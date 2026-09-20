@@ -1,0 +1,53 @@
+[
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "Maldives",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "Dheenuge Adu",
+        "Country": "Maldives",
+        "Homepage": "https://psmnews.mv/stream/radio-dheenuge-adu",
+        "Source1": "https://radio.psm.mv/dheenugeaduair"
+    },
+    {
+        "Title": "Dhivehi FM",
+        "Country": "Maldives",
+        "Favicon": "https://www.facebook.com/photo.php?fbid=694827997253815&id=342512189152066&set=a.342512289152056",
+        "Homepage": "https://psmnews.mv/stream/tvm",
+        "Latitude": 4.173064712851906,
+        "Longitude": 73.50708752936147,
+        "Source1": "https://radio.psm.mv/fmair"
+    },
+    {
+        "Title": "Dhivehi FM",
+        "Country": "Maldives",
+        "Favicon": "https://pea.fm/uploads/posts/2020-10/1601942486_dhivehi-fm-91_0.jpg",
+        "Homepage": "https://psmnews.mv/stream/radio-dhivehi-fm",
+        "Latitude": 4.174263155811882,
+        "Longitude": 73.5108842804422,
+        "Source1": "https://radio.psm.mv/fmair"
+    },
+    {
+        "Title": "Dhivehi Raajjeyge Adu",
+        "Country": "Maldives",
+        "Tags": "adu,dhivehi",
+        "Favicon": "https://pea.fm/uploads/posts/2020-10/1601942624_dhivehi-raajjeyge-adu.jpg",
+        "Homepage": "https://psmnews.mv/stream/radio-dhivehi-raajjeyge-adu",
+        "Latitude": 4.174583497582081,
+        "Longitude": 73.51114912803006,
+        "Source1": "https://radio.psm.mv/draair"
+    },
+    {
+        "Title": "Kinozal.TV",
+        "Country": "Maldives",
+        "Language": "de,en,es,fr",
+        "Homepage": "https://kinozal.tv/radio.php",
+        "Latitude": 4.17808535273128,
+        "Longitude": 73.50870110863072,
+        "Source1": "https://myradio24.org/kinozaltv"
+    }
+]

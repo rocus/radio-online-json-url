@@ -1,0 +1,67 @@
+[
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "Grenada",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "Boss FM 104.1-104.9 - Grenada",
+        "Country": "Grenada",
+        "Tags": "caribbean,reggae,talk",
+        "Homepage": "https://www.bossfmgrenada.net/",
+        "Source1": "https://usa8.fastcast4u.com/proxy/bossfm2?mp=/1"
+    },
+    {
+        "Title": "Boss FM Grenada",
+        "Country": "Grenada",
+        "Tags": "hiphop,r'n'b,reggae,soca",
+        "Language": "en",
+        "Homepage": "http://www.bossfmgrenada.net/",
+        "Source1": "http://cp.usa8.fastcast4u.com:5195/;"
+    },
+    {
+        "Title": "Hot Shotz Radio - Grenada",
+        "Country": "Grenada",
+        "Tags": "caribbean,popular,reggae",
+        "Homepage": "http://hotshotzradio.com/",
+        "Source1": "http://usa1.fastcast4u.com:3292/stream"
+    },
+    {
+        "Title": "Power 95",
+        "Country": "Grenada",
+        "Homepage": "https://zeno.fm/",
+        "Source1": "https://zeno.fm/"
+    },
+    {
+        "Title": "Real FM - Grenada",
+        "Country": "Grenada",
+        "Tags": "caribbean,reggae,talk",
+        "Homepage": "https://drealfmgrenada.com/",
+        "Source1": "https://free.rcast.net/69262"
+    },
+    {
+        "Title": "Star FM 101.9",
+        "Country": "Grenada",
+        "Tags": "reggae,soca",
+        "Favicon": "https://www.starfmgrenada.com/apple-icon-120x120.png",
+        "Language": "en",
+        "Homepage": "https://www.starfmgrenada.com/",
+        "Source1": "https://starchild.radioca.st/"
+    },
+    {
+        "Title": "Star FM 101.9 Grenada",
+        "Country": "Grenada",
+        "Homepage": "https://www.starfmgrenada.com/",
+        "Source1": "https://starchild.radioca.st:2199/tunein/starchild-stream.pls"
+    },
+    {
+        "Title": "Wee FM 93.3/93.9 - Grenada",
+        "Country": "Grenada",
+        "Tags": "caribbean,reggae,talk",
+        "Homepage": "https://www.weefmgrenada.com/",
+        "Source1": "https://usa8.fastcast4u.com/proxy/weefm2?mp=/1"
+    }
+]

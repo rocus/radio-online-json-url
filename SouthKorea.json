@@ -1,0 +1,767 @@
+[
+    {
+        "Title": "(BSOD) KBS Classic FM",
+        "Country": "SouthKorea",
+        "Homepage": "https://radio.bsod.kr/",
+        "Source1": "https://radio.bsod.kr/stream/?stn=kbs&ch=1fm"
+    },
+    {
+        "Title": "(BSOD) MBC mini All-That-Music",
+        "Country": "SouthKorea",
+        "Tags": "k-pop",
+        "Language": "ko",
+        "Homepage": "https://radio.bsod.kr/",
+        "Latitude": 37.58058062874458,
+        "Longitude": 126.89204692840578,
+        "Source1": "https://radio.bsod.kr/stream/?stn=mbc&ch=chm"
+    },
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "SouthKorea",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "AFN GO DAEGU",
+        "Country": "SouthKorea",
+        "Tags": "top hits",
+        "Favicon": "https://afngo.net/static/media/afn-go-logo.819b415046feba6d7000b1e9569d468c.svg",
+        "Language": "en",
+        "Homepage": "https://afngo.net/afnpacific/Daegu",
+        "Latitude": 35.94097646720508,
+        "Longitude": 128.63342285156253,
+        "Source1": "https://22963.live.streamtheworld.com/AFNP_DGUAAC.aac?country=KR&tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=none&burst-time=15&sbmid=11fdf19a-4184-4c11-f1ce-9c93ca088fa1"
+    },
+    {
+        "Title": "AFN GO HUMPHREYS The Eagle",
+        "Country": "SouthKorea",
+        "Tags": "army,kpop,pop music",
+        "Favicon": "https://afngo.net/static/media/Humphreys.80cba9f67149f1bf7018.png",
+        "Homepage": "https://afngo.net/afnpacific/Humphreys",
+        "Latitude": 36.9721085237782,
+        "Longitude": 127.01683402061464,
+        "Source1": "http://playerservices.streamtheworld.com/m3u/AFNP_OSNAAC.m3u"
+    },
+    {
+        "Title": "ARA FM",
+        "Country": "SouthKorea",
+        "Tags": "ambient,dance pop,indie pop,k-pop,lofi,pop",
+        "Language": "en,ja,ko,zh",
+        "Homepage": "http://141.164.38.238/public/ara_fm",
+        "Latitude": 37.5509146686055,
+        "Longitude": 126.99095083453535,
+        "Source1": "http://141.164.38.238/listen/ara_fm/radio.mp3"
+    },
+    {
+        "Title": "Arirang Radio",
+        "Country": "SouthKorea",
+        "Favicon": "https://arirang.com/logo192.png",
+        "Homepage": "https://arirang.com/radio",
+        "Source1": "http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8"
+    },
+    {
+        "Title": "Arirang Radio",
+        "Country": "SouthKorea",
+        "Favicon": "https://www.arirang.com/favicon.ico",
+        "Language": "en,ko",
+        "Homepage": "https://www.arirang.com/radio/",
+        "Source1": "http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/chunklist_b3256000_sleng.m3u8"
+    },
+    {
+        "Title": "Arirang Radio",
+        "Country": "SouthKorea",
+        "Tags": "korea,korean music,kpop,news",
+        "Favicon": "https://www.arirang.com/favicon.ico",
+        "Language": "en",
+        "Homepage": "https://www.arirang.com/radio",
+        "Latitude": 37.557061945807966,
+        "Longitude": 127.02392578125,
+        "Source1": "http://amdlive-ch03-ctnd-com.akamaized.net/arirang_3ch/arirang_3ch_audio/chunklist_b128000.m3u8"
+    },
+    {
+        "Title": "Arirang TV",
+        "Country": "SouthKorea",
+        "Tags": "tv",
+        "Homepage": "http://www.arirang.co.kr/index.asp",
+        "Source1": "http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8"
+    },
+    {
+        "Title": "befm",
+        "Country": "SouthKorea",
+        "Tags": "classical",
+        "Source1": "http://befm905.live.smilecdn.com:1935/befm905_live/live/playlist.m3u8"
+    },
+    {
+        "Title": "Big B Radio - Kpop",
+        "Country": "SouthKorea",
+        "Tags": "music,pop",
+        "Language": "ko",
+        "Homepage": "https://bigbradio.net/kpop",
+        "Source1": "https://antares.dribbcast.com/proxy/kpop?mp=/s"
+    },
+    {
+        "Title": "Buddhist Broadcasting System TV",
+        "Country": "SouthKorea",
+        "Language": "ko",
+        "Homepage": "http://www.bbsi.co.kr/",
+        "Source1": "http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8"
+    },
+    {
+        "Title": "Buddhist True Network TV",
+        "Country": "SouthKorea",
+        "Language": "ko",
+        "Homepage": "http://www.btn.co.kr/",
+        "Source1": "http://btn.nowcdn.co.kr/btn/btnlive01/playlist.m3u8"
+    },
+    {
+        "Title": "CBS Joy FM",
+        "Country": "SouthKorea",
+        "Homepage": "https://www.cbs.co.kr/",
+        "Source1": "https://radio.bsod.kr/stream/?stn=cbs&ch=joy4u"
+    },
+    {
+        "Title": "CBS JOY4U",
+        "Country": "SouthKorea",
+        "Tags": "ccm,christian,gospel,religious,worship",
+        "Language": "ko",
+        "Homepage": "https://www.cbs.co.kr/radio/",
+        "Latitude": 37.5632939064302,
+        "Longitude": 126.98118209838869,
+        "Source1": "https://m-aac.cbs.co.kr/mweb_cbscmc/_definst_/cbscmc.stream/playlist.m3u8"
+    },
+    {
+        "Title": "CBS Music FM",
+        "Country": "SouthKorea",
+        "Homepage": "http://www.cbs.co.kr/",
+        "Source1": "https://radio.bsod.kr/stream/?stn=cbs&ch=mfmc"
+    },
+    {
+        "Title": "CBS Std FM",
+        "Country": "SouthKorea",
+        "Homepage": "https://www.cbs.co.kr/",
+        "Source1": "https://radio.bsod.kr/stream/?stn=cbs&ch=sfm"
+    },
+    {
+        "Title": "CBS 음악 FM",
+        "Country": "SouthKorea",
+        "Source1": "https://zstream.win/radio/cbs/musicfm"
+    },
+    {
+        "Title": "CBS 음악 FM",
+        "Country": "SouthKorea",
+        "Tags": "music",
+        "Favicon": "https://images2.imgbox.com/90/eb/3P5W5nPd_o.png",
+        "Language": "ko",
+        "Homepage": "https://www.cbs.co.kr/radio",
+        "Latitude": 37.52950948220096,
+        "Longitude": 126.87778025865556,
+        "Source1": "https://m-aac.cbs.co.kr/mweb_cbs939/_definst_/cbs939.stream/chunklist.m3u8"
+    },
+    {
+        "Title": "CBS 음악FM",
+        "Country": "SouthKorea",
+        "Homepage": "https://www.cbs.co.kr/",
+        "Source1": "https://m-aac.cbs.co.kr/mweb_cbs939/_definst_/cbs939.stream/playlist.m3u8"
+    },
+    {
+        "Title": "CBS 파워라디오 [Music FM]",
+        "Country": "SouthKorea",
+        "Tags": "music",
+        "Favicon": "https://pic.qtfm.cn/2024/0524/20240524014731.gif",
+        "Language": "ko",
+        "Homepage": "https://cbsfm.modoo.at/",
+        "Source1": "https://lhttp-hw.qtfm.cn/live/15318233/64k.mp3"
+    },
+    {
+        "Title": "CBS 표준FM 98.1",
+        "Country": "SouthKorea",
+        "Homepage": "https://www.cbs.co.kr/radio/",
+        "Latitude": 37.55847593004803,
+        "Longitude": 126.9847869873047,
+        "Source1": "https://m-aac.cbs.co.kr/mweb_cbs981/_definst_/cbs981.stream/playlist.m3u8"
+    },
+    {
+        "Title": "Clasico kbs",
+        "Country": "SouthKorea",
+        "Favicon": "http://serpent0.duckdns.org:8088/kbsfm.pls",
+        "Homepage": "http://serpent0.duckdns.org:8088/kbsfm.pls",
+        "Source1": "http://serpent0.duckdns.org:8088/kbsfm.pls"
+    },
+    {
+        "Title": "Classic Odyssey",
+        "Country": "SouthKorea",
+        "Tags": "classical music",
+        "Language": "ko",
+        "Homepage": "https://www.inlive.co.kr/",
+        "Source1": "http://live07.inlive.co.kr:21110/",
+        "Source2": "http://classic4u.inlive.co.kr/live/listen.pls"
+    },
+    {
+        "Title": "CPBC",
+        "Country": "SouthKorea",
+        "Language": "ko",
+        "Homepage": "https://www.cpbc.co.kr/",
+        "Latitude": 37.57941251343841,
+        "Longitude": 126.90453430046158,
+        "Source1": "http://serpent0.duckdns.org:8088/cpbc.pls"
+    },
+    {
+        "Title": "CPBC TV",
+        "Country": "SouthKorea",
+        "Favicon": "http://www.cpbc.co.kr/favicon.ico",
+        "Language": "ko",
+        "Homepage": "http://www.cpbc.co.kr/",
+        "Source1": "http://onair1.cpbc.co.kr:1935/tv/mp4:live720/playlist.m3u8"
+    },
+    {
+        "Title": "EBS FM 104.5",
+        "Country": "SouthKorea",
+        "Homepage": "https://www.ebs.co.kr/",
+        "Source1": "http://ebsonairiosaod.ebs.co.kr/fmradiobandiaod/bandiappaac/playlist.m3u8"
+    },
+    {
+        "Title": "ebs tune in",
+        "Country": "SouthKorea",
+        "Tags": "foreign languages",
+        "Language": "ko",
+        "Homepage": "http://www.ebs.co.kr/",
+        "Source1": "https://ebsonair.ebs.co.kr/fmradiofamilypc/familypc1m/playlist.m3u8"
+    },
+    {
+        "Title": "EBS TV-1",
+        "Country": "SouthKorea",
+        "Language": "ko",
+        "Homepage": "http://www.ebs.co.kr/",
+        "Source1": "http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8"
+    },
+    {
+        "Title": "EBS TV-2",
+        "Country": "SouthKorea",
+        "Language": "ko",
+        "Homepage": "http://www.ebs.co.kr/",
+        "Source1": "http://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8"
+    },
+    {
+        "Title": "EBS TV-e",
+        "Country": "SouthKorea",
+        "Language": "ko",
+        "Homepage": "http://www.ebs.co.kr/",
+        "Source1": "http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8"
+    },
+    {
+        "Title": "EBS TV-i",
+        "Country": "SouthKorea",
+        "Language": "ko",
+        "Homepage": "http://www.ebs.co.kr/",
+        "Source1": "http://ebsonairios.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8"
+    },
+    {
+        "Title": "EBS TV-Kids",
+        "Country": "SouthKorea",
+        "Language": "ko",
+        "Homepage": "http://www.ebs.co.kr/",
+        "Source1": "http://ebsonairios.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8"
+    },
+    {
+        "Title": "EBS TV-Plus 2",
+        "Country": "SouthKorea",
+        "Language": "ko",
+        "Homepage": "http://www.ebs.co.kr/",
+        "Source1": "http://ebsonairios.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8"
+    },
+    {
+        "Title": "FEBC Seoul 106.9 FM (서울극동방송)",
+        "Country": "SouthKorea",
+        "Tags": "christian,religious,talk",
+        "Language": "ko",
+        "Homepage": "https://seoul.febc.net/",
+        "Latitude": 37.563502267312195,
+        "Longitude": 126.97689056396486,
+        "Source1": "http://mlive2.febc.net:1935/live/seoulfm/playlist.m3u8"
+    },
+    {
+        "Title": "FEBC 제주극동방송 FM 104.7",
+        "Country": "SouthKorea",
+        "Homepage": "https://jeju.febc.net/",
+        "Latitude": 33.489602994260665,
+        "Longitude": 126.53709411621097,
+        "Source1": "http://mlive2.febc.net:1935/live/jejufm/playlist.m3u8"
+    },
+    {
+        "Title": "Floyd Server (Rock Ballad...From 09/25/05)",
+        "Country": "SouthKorea",
+        "Tags": "rock ballads",
+        "Language": "ko",
+        "Homepage": "http://online-radio.eu/radio/10169-floyd-server-rock-ballad-from-09-25-05",
+        "Latitude": 36.69661286097075,
+        "Longitude": 127.9248046875,
+        "Source1": "http://1.uicl.co.kr:8000/;"
+    },
+    {
+        "Title": "Fred Film Radio(한국어)",
+        "Country": "SouthKorea",
+        "Tags": "culture,film,movie",
+        "Language": "ko",
+        "Homepage": "http://www.fred.fm/",
+        "Source1": "https://s10.webradio-hosting.com/proxy/fredradiokr/stream"
+    },
+    {
+        "Title": "Gugak FM",
+        "Country": "SouthKorea",
+        "Tags": "classical,korean,korean music,traditional,world music",
+        "Homepage": "https://www.igbf.kr/gugak_web/main/",
+        "Source1": "https://mgugaklive.nowcdn.co.kr/gugakradio/gugakradio.stream/playlist.m3u8"
+    },
+    {
+        "Title": "GugakFM",
+        "Country": "SouthKorea",
+        "Language": "ko",
+        "Homepage": "https://www.igbf.kr/",
+        "Source1": "https://mgugaklive.nowcdn.co.kr/gugakradio/gugakradio.stream/chunklist_w253831608.m3u8"
+    },
+    {
+        "Title": "GugakFM",
+        "Country": "SouthKorea",
+        "Tags": "korean,traditional,world music",
+        "Language": "ko",
+        "Homepage": "https://www.igbf.kr/gugak_web/main/",
+        "Source1": "https://mgugaklive.nowcdn.co.kr/gugakradio/gugakradio.stream/chunklist_w1653570079.m3u8"
+    },
+    {
+        "Title": "gukak",
+        "Country": "SouthKorea",
+        "Language": "ko",
+        "Homepage": "https://www.gugakfm.co.kr/",
+        "Source1": "http://mgugaklive.nowcdn.co.kr/gugakradio/gugakradio.stream/playlist.m3u8"
+    },
+    {
+        "Title": "Gukak TV",
+        "Country": "SouthKorea",
+        "Language": "ko",
+        "Homepage": "https://www.gugakfm.co.kr/",
+        "Source1": "http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8"
+    },
+    {
+        "Title": "http://serpent0.duckdns.org:8088/kbs2fm.pls",
+        "Country": "SouthKorea",
+        "Homepage": "http://serpent0.duckdns.org:8088/kbs2fm.pls",
+        "Source1": "http://serpent0.duckdns.org:8088/kbs2fm.pls"
+    },
+    {
+        "Title": "JeonjuFM",
+        "Country": "SouthKorea",
+        "Favicon": "https://static.mytuner.mobi/media/tvos_radios/694/gongdongceradio-jeonjufm-935mhz.70bc301e.png",
+        "Language": "ko",
+        "Homepage": "https://jcfm.kr/",
+        "Latitude": 35.84823887669007,
+        "Longitude": 127.12825701368678,
+        "Source1": "http://radiostream.communityradio.kr/jcfm1"
+    },
+    {
+        "Title": "JTV 매직FM",
+        "Country": "SouthKorea",
+        "Favicon": "https://jtv.co.kr/2021/favicon.ico",
+        "Language": "ko",
+        "Homepage": "https://www.jtv.co.kr/",
+        "Latitude": 35.823712865406165,
+        "Longitude": 127.13699340383758,
+        "Source1": "https://61ff3340258d2.streamlock.net/jtv_radio/myStream/chunklist_w111659793.m3u8"
+    },
+    {
+        "Title": "K-Meat",
+        "Country": "SouthKorea",
+        "Tags": "rock",
+        "Homepage": "http://kmeat.net/",
+        "Latitude": 37.53564816801346,
+        "Longitude": 127.07473754882814,
+        "Source1": "http://kmeathosting.com:8000/kmeat"
+    },
+    {
+        "Title": "K-RADIO",
+        "Country": "SouthKorea",
+        "Language": "ko",
+        "Homepage": "https://www.am1660.com/",
+        "Source1": "https://s5.radio.co/s0a9796fe3/listen"
+    },
+    {
+        "Title": "KBS 1FM",
+        "Country": "SouthKorea",
+        "Language": "ko",
+        "Homepage": "http://kbs.co.kr/",
+        "Source1": "https://radio.bsod.kr/stream/?stn=kbs&ch=1fm"
+    },
+    {
+        "Title": "KBS 1R",
+        "Country": "SouthKorea",
+        "Favicon": "https://res.static.kbs.co.kr/favicon.png",
+        "Language": "ko",
+        "Homepage": "http://www.kbs.co.kr/",
+        "Source1": "http://serpent0.duckdns.org:8088/kbs1radio.pls"
+    },
+    {
+        "Title": "KBS 1Radio",
+        "Country": "SouthKorea",
+        "Favicon": "https://res.static.kbs.co.kr/favicon.png",
+        "Language": "ko",
+        "Homepage": "http://www.kbs.co.kr/",
+        "Source1": "http://serpent0.duckdns.org:8088/kbs2radio.pls"
+    },
+    {
+        "Title": "KBS 1RADIO",
+        "Country": "SouthKorea",
+        "Language": "ko",
+        "Homepage": "http://kbs.co.kr/",
+        "Source1": "https://radio.bsod.kr/stream/?stn=kbs&ch=1radio"
+    },
+    {
+        "Title": "KBS 2FM",
+        "Country": "SouthKorea",
+        "Language": "ko",
+        "Homepage": "http://kbs.co.kr/",
+        "Source1": "https://radio.bsod.kr/stream/?stn=kbs&ch=2fm"
+    },
+    {
+        "Title": "KBS 3radio",
+        "Country": "SouthKorea",
+        "Homepage": "https://www.kbs.co.kr/",
+        "Source1": "https://radio.bsod.kr/stream/?stn=kbs&ch=3radio"
+    },
+    {
+        "Title": "KBS CLASSIC",
+        "Country": "SouthKorea",
+        "Source1": "http://serpent0.duckdns.org:8088/kbsfm.pls"
+    },
+    {
+        "Title": "KBS Classic FM",
+        "Country": "SouthKorea",
+        "Favicon": "https://res.static.kbs.co.kr/favicon.png",
+        "Homepage": "http://www.kbs.co.kr/",
+        "Source1": "http://serpent0.duckdns.org:8088/kbsfm.pls",
+        "Source2": "https://radio.bsod.kr/stream/?stn=kbs&ch=1fm"
+    },
+    {
+        "Title": "kbs classic fm",
+        "Country": "SouthKorea",
+        "Tags": "classical",
+        "Source1": "http://serpent0.duckdns.org:8088/kbs1fm.pls",
+        "Source2": "http://serpent0.duckdns.org:8088/kbsfm.pls",
+        "Source3": "https://zstream.win/pls/kbs_1fm.pls"
+    },
+    {
+        "Title": "KBS Classic FM",
+        "Country": "SouthKorea",
+        "Favicon": "https://images2.imgbox.com/da/9b/4bV5pJxL_o.png",
+        "Homepage": "https://radio.kbs.co.kr/",
+        "Latitude": 37.52480319537157,
+        "Longitude": 126.91673934459688,
+        "Source1": "https://zstream.win/pls/kbs_1fm.pls",
+        "Source2": "https://radio.bsod.kr/stream/?stn=kbs&ch=1fm",
+        "Source3": "https://radio.bsod.kr/stream/?stn=kbs"
+    },
+    {
+        "Title": "KBS Classic FM zstream",
+        "Country": "SouthKorea",
+        "Favicon": "https://imgur.com/0sWnnQO",
+        "Homepage": "https://radio.kbs.co.kr/",
+        "Source1": "https://zstream.win/pls/kbs_1fm.pls"
+    },
+    {
+        "Title": "KBS Cool FM",
+        "Country": "SouthKorea",
+        "Favicon": "https://res.static.kbs.co.kr/favicon.png",
+        "Homepage": "http://www.kbs.co.kr/",
+        "Source1": "http://serpent0.duckdns.org:8088/kbs2fm.pls"
+    },
+    {
+        "Title": "KBS HappyFM",
+        "Country": "SouthKorea",
+        "Favicon": "https://i.imgur.com/NyGnXcp.png",
+        "Language": "ko",
+        "Homepage": "https://www.kbs.co.kr/",
+        "Latitude": 37.44695258642349,
+        "Longitude": 127.0092639408623,
+        "Source1": "https://radio.bsod.kr/stream/?stn=kbs&ch=2radio&bora=true"
+    },
+    {
+        "Title": "KBS_kor",
+        "Country": "SouthKorea",
+        "Favicon": "https://static.kbs.co.kr/www/20250220173400/resources/images/favicon/favicon.png",
+        "Homepage": "https://radio.kbs.co.kr/",
+        "Source1": "http://serpent0.duckdns.org:8088/kbs1radio.pls"
+    },
+    {
+        "Title": "kbs해피fm",
+        "Country": "SouthKorea",
+        "Tags": "country",
+        "Source1": "http://serpent0.duckdns.org:8088/kbs2radio.pls"
+    },
+    {
+        "Title": "Korean city pop",
+        "Country": "SouthKorea",
+        "Homepage": "http://ntv.de/",
+        "Source1": "http://65.21.61.215:8000/citypoptwo"
+    },
+    {
+        "Title": "Listen.moe Kpop",
+        "Country": "SouthKorea",
+        "Tags": "kpop",
+        "Favicon": "https://listen.moe/favicon.ico",
+        "Language": "ko",
+        "Homepage": "https://listen.moe/kpop",
+        "Source1": "https://listen.moe/kpop/stream"
+    },
+    {
+        "Title": "Listen.moe Kpop (MP3)",
+        "Country": "SouthKorea",
+        "Tags": "kpop",
+        "Favicon": "https://listen.moe/favicon.ico",
+        "Language": "ko",
+        "Homepage": "https://listen.moe/",
+        "Source1": "https://listen.moe/kpop/fallback"
+    },
+    {
+        "Title": "Listen.Moe KPop Vorbis",
+        "Country": "SouthKorea",
+        "Homepage": "https://listen.moe/",
+        "Source1": "https://listen.moe/kpop/stream"
+    },
+    {
+        "Title": "MapoFM",
+        "Country": "SouthKorea",
+        "Homepage": "https://www.mapofm.net/",
+        "Source1": "http://onair.mapofm.net/mapofm"
+    },
+    {
+        "Title": "MBC FM",
+        "Country": "SouthKorea",
+        "Language": "ko",
+        "Homepage": "http://www.imbc.com/",
+        "Source1": "http://serpent0.duckdns.org:8088/mbcsfm.pls"
+    },
+    {
+        "Title": "MBC FM for you",
+        "Country": "SouthKorea",
+        "Homepage": "https://m.imbc.com/RadioMain",
+        "Latitude": 37.15210778472644,
+        "Longitude": 126.97998046875,
+        "Source1": "http://serpent0.duckdns.org:8088/mbcfm.pls"
+    },
+    {
+        "Title": "MBC FM4U",
+        "Country": "SouthKorea",
+        "Favicon": "http://img.imbc.com/commons/2018/image/comm2018noti/meta_mbc.png",
+        "Language": "ko",
+        "Homepage": "http://www.imbc.com/",
+        "Source1": "http://serpent0.duckdns.org:8088/mbcfm.pls"
+    },
+    {
+        "Title": "MBC 올댓뮤직",
+        "Country": "SouthKorea",
+        "Homepage": "https://www.imbc.com/",
+        "Source1": "http://serpent0.duckdns.org:8088/mbcatm.pls"
+    },
+    {
+        "Title": "MBC충북 FM4U",
+        "Country": "SouthKorea",
+        "Language": "ko",
+        "Homepage": "http://www.mbccb.co.kr/rb/",
+        "Latitude": 36.632484927923606,
+        "Longitude": 127.48260504333302,
+        "Source1": "http://211.33.246.4:32954/radio_fm/myStream.sdp/chunklist_w348337231.m3u8"
+    },
+    {
+        "Title": "MBC충북 표준FM",
+        "Country": "SouthKorea",
+        "Language": "ko",
+        "Homepage": "http://www.mbccb.co.kr/rb/",
+        "Latitude": 36.63579090259921,
+        "Longitude": 127.48809816548602,
+        "Source1": "http://211.33.246.4:32954/radio_stfm/myStream.sdp/chunklist_w392819215.m3u8"
+    },
+    {
+        "Title": "OBS 라디오",
+        "Country": "SouthKorea",
+        "Favicon": "https://play-lh.googleusercontent.com/EQd7zsUgIsdtDSAldbre7DT0V2vsW-As6J51zcMnfycMpyJRgFIO311XvDExg-g-TA=w480-h960",
+        "Language": "ko",
+        "Homepage": "https://www.obs.co.kr/radio/",
+        "Latitude": 37.34842330424091,
+        "Longitude": 127.02635049819948,
+        "Source1": "https://vod3.obs.co.kr:444/live/obsstream1/radio.stream/playlist.m3u8"
+    },
+    {
+        "Title": "Oldpop Cafe",
+        "Country": "SouthKorea",
+        "Tags": "oldies,pop music,popular music",
+        "Language": "ko",
+        "Homepage": "https://oldpopcafe.net/",
+        "Latitude": 46.799618781849176,
+        "Longitude": -71.22573852539064,
+        "Source1": "http://cast.oldpopcafe.net:7080/"
+    },
+    {
+        "Title": "REPLAY NEWS - 한국어   5분마다 뉴스 라디오",
+        "Country": "SouthKorea",
+        "Tags": "news",
+        "Favicon": "https://www.publicsante.com/BIENVENU/LOGO%20REPLAY%20NEWS-KO.png",
+        "Language": "ko",
+        "Homepage": "https://www.replaynews.net/",
+        "Source1": "https://replaynewskr.ice.infomaniak.ch/replaynewskr-128.mp3"
+    },
+    {
+        "Title": "SBS Love FM",
+        "Country": "SouthKorea",
+        "Language": "ko",
+        "Homepage": "https://www.sbs.co.kr/",
+        "Source1": "http://serpent0.duckdns.org:8088/sbs2fm.pls"
+    },
+    {
+        "Title": "SBS Power FM",
+        "Country": "SouthKorea",
+        "Language": "ko",
+        "Homepage": "https://www.sbs.co.kr/",
+        "Source1": "http://serpent0.duckdns.org:8088/sbsfm.pls"
+    },
+    {
+        "Title": "SCN - Seongseo Community FM",
+        "Country": "SouthKorea",
+        "Favicon": "https://cdn-images-3.listennotes.com/podcasts/scn-%EC%84%B1%EC%84%9C%EA%B3%B5%EB%8F%99%EC%B2%B4fm-891mhz-%EC%84%B1%EC%84%9C%EA%B3%B5%EB%8F%99%EC%B2%B4fm-NrySpdFHVJk-a9nswMfkelH.1400x1400.jpg",
+        "Language": "ko",
+        "Homepage": "http://scnfm.or.kr/",
+        "Latitude": 35.818525716565695,
+        "Longitude": 128.52833192938743,
+        "Source1": "http://115.85.182.39/scnfm"
+    },
+    {
+        "Title": "SoneFM (SuwonFM)",
+        "Country": "SouthKorea",
+        "Favicon": "https://static-media.streema.com/media/cache/04/91/049137633fcae422618f5e45e770d603.jpg",
+        "Language": "ko",
+        "Homepage": "http://scnfm.or.kr/",
+        "Latitude": 37.25836666693898,
+        "Longitude": 127.03378482312873,
+        "Source1": "http://115.85.182.39/sonefm"
+    },
+    {
+        "Title": "TBN 교통방송",
+        "Country": "SouthKorea",
+        "Tags": "news",
+        "Source1": "http://radio2.tbn.or.kr:1935/gyeongin/myStream/playlist.m3u8"
+    },
+    {
+        "Title": "TBN 울산교통방송",
+        "Country": "SouthKorea",
+        "Tags": "traffic",
+        "Language": "ko",
+        "Homepage": "https://tbn.or.kr/main.tbn?area_code=9",
+        "Source1": "http://radio2.tbn.or.kr:1935/ulsan/myStream/playlist.m3u8"
+    },
+    {
+        "Title": "TBS eFM 101.3",
+        "Country": "SouthKorea",
+        "Tags": "full service",
+        "Favicon": "https://zuiai.tv/zb_users/upload/2026/3/2026030564925917_mini.jpg",
+        "Language": "zh",
+        "Homepage": "https://tbs.seoul.kr/eFm/index.do",
+        "Source1": "https://cdnefm.tbs.seoul.kr/tbs/_definst_/tbs_efm_web_360.smil/chunklist.m3u8"
+    },
+    {
+        "Title": "TBS FM 95.1",
+        "Country": "SouthKorea",
+        "Tags": "full service",
+        "Favicon": "https://zuiai.tv/zb_users/upload/2026/3/2026030564925917_mini.jpg",
+        "Language": "ko",
+        "Homepage": "https://tbs.seoul.kr/fm/index.do",
+        "Source1": "https://cdnfm.tbs.seoul.kr/tbs/_definst_/tbs_fm_web_360.smil/chunklist.m3u8"
+    },
+    {
+        "Title": "WOW CCM",
+        "Country": "SouthKorea",
+        "Tags": "pop",
+        "Favicon": "https://images.app.goo.gl/ace67skP1qBC1abH8",
+        "Source1": "http://wowccm.iptime.org:8000/stream/1/"
+    },
+    {
+        "Title": "WOWCCM",
+        "Country": "SouthKorea",
+        "Tags": "christian-gospel,musica cristiana",
+        "Favicon": "https://wowccm.net/img/m_logo.png",
+        "Language": "ko",
+        "Homepage": "https://wowccm.net/",
+        "Latitude": 36.14005156938075,
+        "Longitude": 127.67372314392355,
+        "Source1": "http://wowccm.iptime.org:8000/stream/1/"
+    },
+    {
+        "Title": "YTN 라디오",
+        "Country": "SouthKorea",
+        "Language": "ko",
+        "Homepage": "https://www.ytn.co.kr/",
+        "Source1": "http://zstream.win/radio/ytn/radio"
+    },
+    {
+        "Title": "경인방송",
+        "Country": "SouthKorea",
+        "Language": "ko",
+        "Homepage": "https://www.ifm.kr/",
+        "Source1": "https://stream.ifm.kr/live/aod1/playlist.m3u8"
+    },
+    {
+        "Title": "국방FM",
+        "Country": "SouthKorea",
+        "Language": "ko",
+        "Homepage": "https://radio.dema.mil.kr/web/radio/main.do",
+        "Source1": "http://serpent0.duckdns.org:8088/gbfm.pls"
+    },
+    {
+        "Title": "마포FM",
+        "Country": "SouthKorea",
+        "Tags": "music,talk",
+        "Language": "ko",
+        "Homepage": "https://mapofm.net/",
+        "Source1": "http://115.85.182.39/mapofm?type=.mp3"
+    },
+    {
+        "Title": "안동MBC AM",
+        "Country": "SouthKorea",
+        "Tags": "music,pop",
+        "Language": "ko",
+        "Homepage": "http://www.andongmbc.co.kr/main/index.php",
+        "Source1": "http://andong.webcasting.co.kr:1935/live/amlive/playlist.m3u8"
+    },
+    {
+        "Title": "안동MBC FM4U",
+        "Country": "SouthKorea",
+        "Tags": "k-pop,music,pop",
+        "Language": "ko",
+        "Homepage": "https://andongmbc.co.kr/main/radio/radio.php",
+        "Source1": "https://live.andongmbc.co.kr/live/fmlive/playlist.m3u8"
+    },
+    {
+        "Title": "올드팝카페",
+        "Country": "SouthKorea",
+        "Tags": "oldies,oldies 50's/60's,pop music,popular music",
+        "Language": "ko",
+        "Homepage": "https://oldpopcafe.net/",
+        "Source1": "http://cast.oldpopcafe.net:7080/"
+    },
+    {
+        "Title": "평양FM",
+        "Country": "SouthKorea",
+        "Tags": "105.2,105.2 fm,music,news",
+        "Favicon": "https://www.behindthecurtain-northkorea.com/favicon.ico",
+        "Language": "ko",
+        "Homepage": "https://www.behindthecurtain-northkorea.com/audio-pyongyangfm",
+        "Source1": "https://listen7.myradio24.com/69366"
+    },
+    {
+        "Title": "하늘호수24",
+        "Country": "SouthKorea",
+        "Tags": "entertainment",
+        "Favicon": "https://sky24.inlive.co.kr/images/9.png",
+        "Language": "ko",
+        "Homepage": "https://me.sayclub.com/bdcst/bdcst-home?bdcstDomainId=24sky",
+        "Source1": "https://cast2.sayclub.com/saycast2/24sky/llhls.m3u8"
+    }
+]

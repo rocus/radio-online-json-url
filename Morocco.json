@@ -1,0 +1,621 @@
+[
+    {
+        "Title": ". القارئ محمد أيوب",
+        "Country": "Morocco",
+        "Tags": "classical",
+        "Source1": "https://qurango.net/radio/mohammed_ayyub"
+    },
+    {
+        "Title": ".. مختصر التفسير",
+        "Country": "Morocco",
+        "Tags": "classical",
+        "Source1": "https://qurango.net/radio/mukhtasartafsir"
+    },
+    {
+        "Title": ".إذاعة ماهر المعيقلي",
+        "Country": "Morocco",
+        "Tags": "classical",
+        "Source1": "https://backup.qurango.net/radio/maher"
+    },
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "Morocco",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "achkid fm",
+        "Country": "Morocco",
+        "Tags": "music arabe",
+        "Favicon": "https://www.facebook.com/photo/?fbid=939388358206075&set=a.451055430372706",
+        "Language": "ar",
+        "Homepage": "https://www.facebook.com/achkidfm",
+        "Latitude": 30.803487436519948,
+        "Longitude": -9.788818359375002,
+        "Source1": "https://stream.zeno.fm/7nqu31p6xg0uv"
+    },
+    {
+        "Title": "ACHKID FM",
+        "Country": "Morocco",
+        "Tags": "al amazighia en direct,morocco,music,radio amazigh",
+        "Favicon": "https://radiolive.ma/logos/achkid-fm.png",
+        "Language": "ar",
+        "Homepage": "https://radiolive.ma/station/achkid-fm",
+        "Source1": "https://stream.zeno.fm/7nqu31p6xg0uv"
+    },
+    {
+        "Title": "Adwaafm",
+        "Country": "Morocco",
+        "Favicon": "https://adwaafm.com/wp-content/uploads/2023/11/cropped-fgfg-1-180x180.png",
+        "Language": "ar",
+        "Homepage": "https://www.adwaafm.com/",
+        "Latitude": 33.55486735534346,
+        "Longitude": -7.546340497210623,
+        "Source1": "http://stream.zeno.fm/5bxh2nh0x1zuv?1681882617017"
+    },
+    {
+        "Title": "Al quran radio",
+        "Country": "Morocco",
+        "Tags": "classical",
+        "Source1": "https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g"
+    },
+    {
+        "Title": "Aswat FM",
+        "Country": "Morocco",
+        "Tags": "arabic music,classic hits,hits,pop",
+        "Favicon": "https://radioaswat.ma/favicon.ico",
+        "Language": "ar,en",
+        "Homepage": "https://radioaswat.ma/",
+        "Source1": "https://broadcast.ice.infomaniak.ch/aswat-high.mp3"
+    },
+    {
+        "Title": "aswatalweb",
+        "Country": "Morocco",
+        "Tags": "film talk,live sport,music,music arabe,radio maroc,sports commentary",
+        "Language": "ar",
+        "Homepage": "https://aswatalweb.com/",
+        "Source1": "http://78.129.252.13:24460/stream"
+    },
+    {
+        "Title": "Atlantic Radio",
+        "Country": "Morocco",
+        "Homepage": "https://atlanticradio.ma/",
+        "Source1": "https://atlantic-sonic.nindohost.net:9300/stream"
+    },
+    {
+        "Title": "Atlantic Radio Maroc",
+        "Country": "Morocco",
+        "Tags": "actualités,business,economie,informations",
+        "Favicon": "https://radiolive.ma/logos/atlantic-radio.webp",
+        "Language": "ar,fr",
+        "Homepage": "https://radiolive.ma/station/atlantic-radio",
+        "Source1": "https://atlantic-sonic.nindohost.net:9300/stream"
+    },
+    {
+        "Title": "Aziz Mustaphi",
+        "Country": "Morocco",
+        "Tags": "coran,mp3,news,quran",
+        "Favicon": "https://infoplus60.blogspot.com/favicon.ico",
+        "Language": "ar",
+        "Homepage": "https://infoplus60.blogspot.com/",
+        "Source1": "https://d3ctxlq1ktw2nl.cloudfront.net/production/2022-0-3/240607172-44100-2-afb2485b0c30e.mp3"
+    },
+    {
+        "Title": "bldi",
+        "Country": "Morocco",
+        "Tags": "classical",
+        "Source1": "http://beldifm.hf.ma/radio/8000/radio.mp3"
+    },
+    {
+        "Title": "CAP RADIO",
+        "Country": "Morocco",
+        "Tags": "actualités,music,radio maroc,radio marocaine",
+        "Favicon": "https://radiolive.ma/icons/CAP%20RADIO.png",
+        "Language": "ar,fr",
+        "Homepage": "https://radiolive.ma/station/cap-radio",
+        "Source1": "https://listen.radioking.com/radio/710810/stream/776366"
+    },
+    {
+        "Title": "Capradio",
+        "Country": "Morocco",
+        "Tags": "music",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://capradiotv.com/",
+        "Source1": "https://listen.radioking.com/radio/710810/stream/776366"
+    },
+    {
+        "Title": "Chada FM",
+        "Country": "Morocco",
+        "Favicon": "https://chada.ma/wp-content/uploads/2022/09/cropped-LOGO-CHADA-NEW-1.png",
+        "Homepage": "https://chada.ma/fr/",
+        "Source1": "https://stream.bodkas.com/playlist?id=chadafmradio"
+    },
+    {
+        "Title": "Fayroz",
+        "Country": "Morocco",
+        "Tags": "classical",
+        "Homepage": "https://radio.ma.co/",
+        "Source1": "https://stream.zeno.fm/zv3e5wykprhvv.mp3"
+    },
+    {
+        "Title": "HIT RADIO",
+        "Country": "Morocco",
+        "Favicon": "https://www.hitradio.ma/logo/small-logo-hitradio.webp",
+        "Homepage": "https://www.hitradio.ma/",
+        "Source1": "https://hitradio-maroc.ice.infomaniak.ch/hitradio-maroc-128.mp3"
+    },
+    {
+        "Title": "Hit Radio (Morocco)",
+        "Country": "Morocco",
+        "Tags": "hits,moroccans,rap,urban music",
+        "Language": "ar,en,fr",
+        "Homepage": "https://www.hitradio.ma/",
+        "Latitude": 34.01912550478275,
+        "Longitude": -6.843109130859376,
+        "Source1": "https://hitradio-maroc.ice.infomaniak.ch/hitradio-maroc-128.mp3"
+    },
+    {
+        "Title": "MA:-Hit Radio Maroc",
+        "Country": "Morocco",
+        "Tags": "classical",
+        "Homepage": "https://stream.zeno.fm/une3a02mb",
+        "Source1": "https://stream.zeno.fm/une3a02mb"
+    },
+    {
+        "Title": "MA:-Radio Sawt Alamal",
+        "Country": "Morocco",
+        "Tags": "country",
+        "Homepage": "https://stream.zeno.fm/d4u7zbqh5qruv",
+        "Source1": "https://stream.zeno.fm/d4u7zbqh5qruv"
+    },
+    {
+        "Title": "Marrakech Plus",
+        "Country": "Morocco",
+        "Tags": "actualités,essaouira,marrakech,morocco,music,safi,youssofia",
+        "Favicon": "https://radiolive.ma/icons/Marrakech%20Plus.jpg",
+        "Language": "ar,fr",
+        "Homepage": "https://radiolive.ma/station/marrakech-plus",
+        "Source1": "https://cast5.my-control-panel.com/proxy/marrakec/stream"
+    },
+    {
+        "Title": "Marrakechplus",
+        "Country": "Morocco",
+        "Favicon": "https://static-media.streema.com/media/cache/70/e9/70e92b9ba9494bd4f8ca598ffefc7716.jpg",
+        "Language": "ar,fr",
+        "Homepage": "https://webradio.marrakechplus.ma/",
+        "Latitude": 31.63199963400534,
+        "Longitude": -7.98858404159546,
+        "Source1": "https://cast5.my-control-panel.com/proxy/marrakec/stream"
+    },
+    {
+        "Title": "Med Radio",
+        "Country": "Morocco",
+        "Favicon": "https://upload.wikimedia.org/wikipedia/commons/0/06/Med-Radio-Logo.jpg",
+        "Language": "ar",
+        "Homepage": "https://medradio.ma/",
+        "Latitude": 32.886650903668865,
+        "Longitude": -7.558593750000001,
+        "Source1": "http://medradio.ice.infomaniak.ch/medradio-128.mp3"
+    },
+    {
+        "Title": "Medi 1 Classique",
+        "Country": "Morocco",
+        "Tags": "classical",
+        "Favicon": "https://www.medi1.com/favicon.ico",
+        "Language": "ar,fr",
+        "Homepage": "https://www.medi1.com/fr/webradio/Classique",
+        "Source1": "http://live.medi1.com/Classique"
+    },
+    {
+        "Title": "MEDI 1 RADIO",
+        "Country": "Morocco",
+        "Tags": "actualités,business,information,music",
+        "Favicon": "https://radiolive.ma/icons/MEDI%201%20RADIO.jpg",
+        "Language": "ar,fr",
+        "Homepage": "https://radiolive.ma/station/medi-1-radio/",
+        "Source1": "https://cdn.live.easybroadcast.io/live/83_medi1radio-maghreb_8s9i4bn/playlist.m3u8"
+    },
+    {
+        "Title": "Medi 1 Radio Andalouse",
+        "Country": "Morocco",
+        "Language": "ar",
+        "Homepage": "https://www.medi1.com/webradio/2#",
+        "Source1": "http://live.medi1.com/Andalouse"
+    },
+    {
+        "Title": "Medi1 dj",
+        "Country": "Morocco",
+        "Tags": "dj",
+        "Language": "ar",
+        "Homepage": "http://www.medi1.com/webradio/8#",
+        "Source1": "http://live.medi1.com/Dj"
+    },
+    {
+        "Title": "Medi1 Hits",
+        "Country": "Morocco",
+        "Favicon": "https://upload.wikimedia.org/wikipedia/fr/c/ca/Medi_1_TV_logo.png",
+        "Homepage": "https://www.medi1.com/",
+        "Source1": "https://cdn.live.easybroadcast.io/medi1radio/Hits"
+    },
+    {
+        "Title": "Medi1 Radio",
+        "Country": "Morocco",
+        "Homepage": "https://www.medi1.com/",
+        "Source1": "https://cdn.live.easybroadcast.io/live/83_medi1radio-maghreb_8s9i4bn/playlist.m3u8"
+    },
+    {
+        "Title": "Medi1 Tarab",
+        "Country": "Morocco",
+        "Tags": "classic",
+        "Favicon": "https://upload.wikimedia.org/wikipedia/fr/c/ca/Medi_1_TV_logo.png",
+        "Language": "ar",
+        "Homepage": "http://www.medi1.com/",
+        "Latitude": 34.98978483670261,
+        "Longitude": -5.51513671875,
+        "Source1": "http://live.medi1.com/Tarab"
+    },
+    {
+        "Title": "MEDINA FM",
+        "Country": "Morocco",
+        "Tags": "actualités,morocco,music,music marocaine traditionnelle",
+        "Favicon": "https://radiolive.ma/icons/MEDINAFM.png",
+        "Language": "ar,fr",
+        "Homepage": "https://radiolive.ma/station/medina-fm",
+        "Source1": "https://medinafm.ice.infomaniak.ch/medinafm-64.mp3"
+    },
+    {
+        "Title": "Medina FM (128 kbps)",
+        "Country": "Morocco",
+        "Tags": "culture,music,news,regional",
+        "Favicon": "https://api.medinafm.ma/uploads/0a75b43e-0a49-418a-9ca5-b3bcc3428d27-w320.webp",
+        "Language": "ar",
+        "Homepage": "https://medinafm.ma/",
+        "Source1": "https://medinafm.ice.infomaniak.ch/medinafm-128.mp3"
+    },
+    {
+        "Title": "Medina FM Amazigh (128 kbps)",
+        "Country": "Morocco",
+        "Tags": "berber amazigh music,folk,pop",
+        "Favicon": "https://api.medinafm.ma/uploads/11ee4925-5901-4d5f-81f3-23db7b0a3fa6-w320.webp",
+        "Language": "zgh",
+        "Homepage": "https://medinafm.ma/",
+        "Source1": "https://medinaamazigh.ice.infomaniak.ch/medinaamazigh-128.mp3"
+    },
+    {
+        "Title": "Medina FM Andalou (128 kbps)",
+        "Country": "Morocco",
+        "Tags": "al-ala,malhoun,morocco",
+        "Favicon": "https://api.medinafm.ma/uploads/fbd01c81-1f43-4f10-8682-19738ca43aec-w320.webp",
+        "Language": "ar",
+        "Homepage": "https://medinafm.ma/",
+        "Source1": "https://medinaandalou.ice.infomaniak.ch/medinaandalou-128.mp3"
+    },
+    {
+        "Title": "Medina FM Nachat (128 kbps)",
+        "Country": "Morocco",
+        "Tags": "chaabi,moroccan,pop",
+        "Favicon": "https://api.medinafm.ma/uploads/43a70411-46cc-40c7-b4bb-7fcb41ce70ea-w320.webp",
+        "Language": "ar",
+        "Homepage": "https://medinafm.ma/",
+        "Source1": "https://medinanachat.ice.infomaniak.ch/medinanachat-128.mp3"
+    },
+    {
+        "Title": "Medina FM Nostalgie (128 kbps)",
+        "Country": "Morocco",
+        "Tags": "morocco,oldies,pop,retro,rock",
+        "Favicon": "https://api.medinafm.ma/uploads/335c74c0-5b0a-4136-8945-cb7a6c4b4424-w320.webp",
+        "Language": "ar",
+        "Homepage": "https://medinafm.ma/",
+        "Source1": "https://medinanachat.ice.infomaniak.ch/medinanachat-128.mp3"
+    },
+    {
+        "Title": "Medina FM Tarab (128 kbps)",
+        "Country": "Morocco",
+        "Tags": "morocco,nostalgic,tarab music",
+        "Favicon": "https://api.medinafm.ma/uploads/f0b5829f-c5ed-4acc-a775-d921ecd2edc7-w320.webp",
+        "Language": "ar",
+        "Homepage": "https://medinafm.ma/",
+        "Source1": "https://medinatarab.ice.infomaniak.ch/medinatarab-128.mp3"
+    },
+    {
+        "Title": "Mefi1 tarab",
+        "Country": "Morocco",
+        "Homepage": "http://www.medi1.com/webradio/3#",
+        "Source1": "http://live.medi1.com/Tarab"
+    },
+    {
+        "Title": "MFM RADIO",
+        "Country": "Morocco",
+        "Favicon": "https://radiolive.ma/icons/MFM.png",
+        "Language": "ar,fr",
+        "Homepage": "https://radiolive.ma/station/mfm",
+        "Source1": "https://a5.asurahosting.com:7980/radio.mp3"
+    },
+    {
+        "Title": "MRC:-Hip Hop Soul Radio \tRadio Music",
+        "Country": "Morocco",
+        "Tags": "country",
+        "Homepage": "https://stream.zeno.fm/k7cdrm450s8uv",
+        "Source1": "https://stream.zeno.fm/k7cdrm450s8uv"
+    },
+    {
+        "Title": "MRC:-Radio Adwaa ATFAL 4",
+        "Country": "Morocco",
+        "Tags": "country",
+        "Homepage": "https://stream.zeno.fm/8wrs2bh0x1zuv",
+        "Source1": "https://stream.zeno.fm/8wrs2bh0x1zuv"
+    },
+    {
+        "Title": "MRC:-Radio Adwaa FM 2",
+        "Country": "Morocco",
+        "Tags": "country",
+        "Homepage": "https://stream.zeno.fm/5bxh2nh0x1zuv",
+        "Source1": "https://stream.zeno.fm/5bxh2nh0x1zuv"
+    },
+    {
+        "Title": "MRC:-Radio Adwaa MaZika 5",
+        "Country": "Morocco",
+        "Tags": "country",
+        "Homepage": "https://stream.zeno.fm/ezxx195gq2zuv",
+        "Source1": "https://stream.zeno.fm/ezxx195gq2zuv"
+    },
+    {
+        "Title": "MRC:-Radio Adwaa Music 3",
+        "Country": "Morocco",
+        "Tags": "country",
+        "Homepage": "https://stream.zeno.fm/x4451xh0x1zuv",
+        "Source1": "https://stream.zeno.fm/x4451xh0x1zuv"
+    },
+    {
+        "Title": "MRC:-Radio plus",
+        "Country": "Morocco",
+        "Tags": "country",
+        "Homepage": "https://stream.radio.co/s8cc7a5da4/listen",
+        "Source1": "https://stream.radio.co/s8cc7a5da4/listen"
+    },
+    {
+        "Title": "MRC:-Sawt Al Amal",
+        "Country": "Morocco",
+        "Tags": "country",
+        "Homepage": "http://stream.zeno.fm/qgw73bqh5qruv.pls",
+        "Source1": "http://stream.zeno.fm/qgw73bqh5qruv.pls"
+    },
+    {
+        "Title": "Ness Radio",
+        "Country": "Morocco",
+        "Tags": "eclectic",
+        "Favicon": "https://image.spreadshirtmedia.net/image-server/v1/products/T1459A839PA4459PT28D14937484W10000H3633/views/1,width=500,height=500,appearanceId=839,backgroundColor=fff/logo-ness-typo-sticker.jpg",
+        "Homepage": "https://nessradio.com/",
+        "Source1": "https://radio.nessradio.net:8212/nessradio-hd"
+    },
+    {
+        "Title": "Only rai",
+        "Country": "Morocco",
+        "Homepage": "http://www.urbanhit.fr/#",
+        "Source1": "http://onlyrai.ice.infomaniak.ch/onlyrai-high.mp3"
+    },
+    {
+        "Title": "radio achkid fm راديوأشكيدإف إم",
+        "Country": "Morocco",
+        "Tags": "achkidfm,antinea radio,radio amazigh,radio berbere,radio maghreb,radio maroc,radio marocaine,radio plus agadir",
+        "Favicon": "https://www.facebook.com/photo/?fbid=939388358206075&set=a.451055430372706",
+        "Homepage": "https://www.facebook.com/achkidfm",
+        "Latitude": 30.493799088494757,
+        "Longitude": -9.530639648437502,
+        "Source1": "https://stream.zeno.fm/7nqu31p6xg0uv"
+    },
+    {
+        "Title": "Radio Adwaa FM 6",
+        "Country": "Morocco",
+        "Tags": "culture,music,news",
+        "Favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtMreguvYInAS9F80xUJvDuOjjQeeiH46CmBlYl8629A&s",
+        "Language": "ar",
+        "Homepage": "https://radio.co.ma/adwaa-fm/",
+        "Source1": "https://stream.zeno.fm/tvxvud2kpm0uv"
+    },
+    {
+        "Title": "Radio Aswat",
+        "Country": "Morocco",
+        "Favicon": "http://www.radioaswat.ma/favicon.ico",
+        "Language": "ar",
+        "Homepage": "http://www.radioaswat.ma/",
+        "Source1": "http://broadcast.ice.infomaniak.ch/aswat-high.mp3?.mp3"
+    },
+    {
+        "Title": "Radio Atbir",
+        "Country": "Morocco",
+        "Favicon": "https://cdn.webrad.io/images/logos/radio-co-ma/atbir.png",
+        "Homepage": "https://radio.co.ma/atbir/",
+        "Source1": "https://stream-156.zeno.fm/bqdbb6hd0neuv?zs=VGAZo-zKSX-08bLa8RiUVg"
+    },
+    {
+        "Title": "Radio Azawan",
+        "Country": "Morocco",
+        "Tags": "world music",
+        "Favicon": "https://radioazawan.ma/redio/azawan.svg",
+        "Homepage": "https://radioazawan.ma/",
+        "Source1": "https://az-maroc.ice.infomaniak.ch/az-maroc-64.aac"
+    },
+    {
+        "Title": "Radio Azawan (192 kbps)",
+        "Country": "Morocco",
+        "Tags": "culture,music,news,regional",
+        "Favicon": "https://radioazawan.ma/redio/azawan.svg",
+        "Language": "ar",
+        "Homepage": "https://radioazawan.ma/",
+        "Source1": "https://az-maroc.ice.infomaniak.ch/az-maroc-128.mp3"
+    },
+    {
+        "Title": "Radio Azrou Live",
+        "Country": "Morocco",
+        "Tags": "culture,folk,morocco,news,pop",
+        "Favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1yZXms7vyn-1JoEXa_XaHhyojkcilo9qPUC8bl55upA&s=10",
+        "Language": "ar",
+        "Source1": "https://stream.zeno.fm/nzdw7gqc0s8uv"
+    },
+    {
+        "Title": "Radio Manarat",
+        "Country": "Morocco",
+        "Tags": "culture,education,talk",
+        "Language": "ar",
+        "Homepage": "https://fm6education.ma/prestations/culture-education-et-formation/radio-manarat/",
+        "Latitude": 33.979381685000966,
+        "Longitude": -6.859416961669923,
+        "Source1": "https://listen.radioking.com/radio/252934/stream/297385"
+    },
+    {
+        "Title": "Radio Mars",
+        "Country": "Morocco",
+        "Favicon": "https://www.radiomars.ma/ar/wp-content/uploads/2023/10/RADIOMARS_LOGO.png",
+        "Homepage": "https://www.radiomars.ma/ar/",
+        "Source1": "https://radiomars.ice.infomaniak.ch/radiomars-128.mp3"
+    },
+    {
+        "Title": "Radio MFM",
+        "Country": "Morocco",
+        "Homepage": "https://www.mfmradio.ma/",
+        "Latitude": 31.293578364885537,
+        "Longitude": -7.518444769375861,
+        "Source1": "https://a5.asurahosting.com:7980/radio.mp3"
+    },
+    {
+        "Title": "Radio Plus Agadir FM 92.4",
+        "Country": "Morocco",
+        "Language": "fr",
+        "Homepage": "https://www.radioplus.ma/",
+        "Latitude": 30.42307791561479,
+        "Longitude": -9.584541320800785,
+        "Source1": "https://stream-158.zeno.fm/bqdbb6hd0neuv"
+    },
+    {
+        "Title": "Radio Sawt Alamal",
+        "Country": "Morocco",
+        "Tags": "espoire,inspiration,la voix de l'espoir,maroc,morocco,motivation,music",
+        "Favicon": "https://radiolive.ma/logos/radio-sawt-alamal.png",
+        "Language": "ar,fr",
+        "Homepage": "https://radiolive.ma/station/radio-sawt-alamal",
+        "Source1": "https://stream.zeno.fm/qgw73bqh5qruv"
+    },
+    {
+        "Title": "Radio Star Maroc FM",
+        "Country": "Morocco",
+        "Tags": "moroccan,morocco,music,star",
+        "Favicon": "https://radiolive.ma/logos/radio-star-maroc-fm.png",
+        "Language": "ar,fr",
+        "Homepage": "https://radiolive.ma/station/radio-star-maroc-fm",
+        "Source1": "https://a2.asurahosting.com:6100/radio.mp3"
+    },
+    {
+        "Title": "radio yan plus",
+        "Country": "Morocco",
+        "Tags": "al amazighia en direct,music arabe,radio amazigh,radio atbir,radio berbere,radio maroc,radio plus agadir,radio tamazgha,الإذاعة الامازيغية,الإذاعة الامازيغية | snrt,الإذاعة الوطنية المغربية",
+        "Favicon": "https://www.facebook.com/photo/?fbid=845651767579735&set=a.451055430372706",
+        "Language": "ar",
+        "Homepage": "https://www.facebook.com/radioyanplus",
+        "Latitude": 30.55782643859176,
+        "Longitude": -9.481201171875002,
+        "Source1": "https://stream.zeno.fm/7nqu31p6xg0uv.m3u"
+    },
+    {
+        "Title": "Rap Lbeldi Maroc - Hip Hop Music from Morocco FR AR",
+        "Country": "Morocco",
+        "Tags": "french rap,hip-hop,rap,rap hiphop rnb",
+        "Favicon": "https://zeno.fm/_ipx/q_85&fit_cover&s_144x144/https://images.zeno.fm/6Ia8cwPUky2CXZukwJE-pUBZDer_E45bLRuQtQpToyc/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvNzY2Nzc3YTAtZjFjNy00ZGVjLTlhNWQtN2M2ZmJiNmUxNmZkL2ltYWdlLz91PTE3MzQxMTQ3NzUwMDA.webp",
+        "Language": "en,fr",
+        "Homepage": "https://web.facebook.com/profile.php?id=61570758710271",
+        "Latitude": 33.79312909288509,
+        "Longitude": -7.415771484375001,
+        "Source1": "https://stream.zeno.fm/ivdufrl7q0quv.m3u"
+    },
+    {
+        "Title": "Skyrock Casablanca",
+        "Country": "Morocco",
+        "Tags": "artists,hits,moroccans,morocco,rap",
+        "Favicon": "https://skyrock.fm/favicon.ico",
+        "Language": "ar,en,fr",
+        "Homepage": "https://skyrock.fm/news/nouvelle-radio-skyrock-casablanca/6714",
+        "Source1": "https://icecast.skyrock.net/s/casa_aac_64k"
+    },
+    {
+        "Title": "SNRT",
+        "Country": "Morocco",
+        "Favicon": "https://snrtlive.ma/sites/default/files/2024-02/logo-snrtnews2_2.png",
+        "Homepage": "https://snrtlive.ma/ar/alidaa-alwatania",
+        "Latitude": 34.017072260810444,
+        "Longitude": -6.843280792236328,
+        "Source1": "https://cdn.live.easybroadcast.io/live/radio_nationale/chunks.m3u8?token=sqAP6uhcPCPc2WebQchaVzkUIIrWqthCOwlrbZWQ7lA&expires=1788193012&token_path=%2Flive%2Fradio_nationale"
+    },
+    {
+        "Title": "Tarab Radio",
+        "Country": "Morocco",
+        "Tags": "oldies,tarab",
+        "Favicon": "https://non-stop-radio.blr1.cdn.digitaloceanspaces.com/new_images/radio/64429.png",
+        "Language": "ar",
+        "Source1": "https://stream.zeno.fm/fy8achbq97zuv"
+    },
+    {
+        "Title": "U RADIO",
+        "Country": "Morocco",
+        "Tags": "2000s,80s,90s,hits,moroccans,morocco,music,pop music",
+        "Favicon": "https://radiolive.ma/logos/u-radio.png",
+        "Language": "ar,fr",
+        "Homepage": "https://radiolive.ma/station/u-radio/",
+        "Source1": "https://uradio-aac.ice.infomaniak.ch/uradio.aac"
+    },
+    {
+        "Title": "Yabiladi Azawan Amazigh",
+        "Country": "Morocco",
+        "Tags": "world music",
+        "Favicon": "https://static.yabiladi.com/images_new/logo_2_yab.png?4",
+        "Language": "en",
+        "Homepage": "https://www.yabiladi.com/radio/",
+        "Source1": "https://radio.yabiladi.com:9002/;stream.mp3"
+    },
+    {
+        "Title": "Yabiladi Chaabi Maroc",
+        "Country": "Morocco",
+        "Tags": "world music",
+        "Favicon": "https://static.yabiladi.com/images_new/logo_2_yab.png?4",
+        "Language": "en",
+        "Homepage": "https://www.yabiladi.com/radio/",
+        "Source1": "https://radio.yabiladi.com:8102/;stream.mp3"
+    },
+    {
+        "Title": "Yabiladi Radio",
+        "Country": "Morocco",
+        "Tags": "world music",
+        "Favicon": "https://static.yabiladi.com/images_new/logo_2_yab.png?4",
+        "Language": "en",
+        "Homepage": "https://www.yabiladi.com/radio/",
+        "Source1": "https://radio.yabiladi.com:8002/;stream.mp3"
+    },
+    {
+        "Title": "ZINE BLADI",
+        "Country": "Morocco",
+        "Favicon": "https://radiolive.ma/icons/ZINE%20BLADI.png",
+        "Language": "ar",
+        "Homepage": "https://radiolive.ma/station/zine-bladi",
+        "Source1": "https://asmaki.ma:8000/radio.mp3"
+    },
+    {
+        "Title": "إذاعة طريق السلف",
+        "Country": "Morocco",
+        "Tags": "classical",
+        "Source1": "https://airtime.salafwayfm.ly/"
+    },
+    {
+        "Title": "اذاعة القرآن الكريم",
+        "Country": "Morocco",
+        "Tags": "classical",
+        "Source1": "http://stream.radiojar.com/0tpy1h0kxtzuv"
+    },
+    {
+        "Title": "تفسير بن عثيمين",
+        "Country": "Morocco",
+        "Tags": "classical",
+        "Source1": "https://qurango.net/radio/tafseer"
+    }
+]

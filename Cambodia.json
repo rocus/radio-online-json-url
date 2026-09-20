@@ -1,0 +1,108 @@
+[
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "Cambodia",
+        "Favicon": "https://mp3islam.com/favicon.ico",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "Daun Penh EFM",
+        "Country": "Cambodia",
+        "Tags": "khmer,music,phnom penh,talk",
+        "Language": "km",
+        "Homepage": "https://www.facebook.com/DaunPenhEFM",
+        "Latitude": 11.5564,
+        "Longitude": 104.9282,
+        "Source1": "http://203.189.159.204:9051/dpnefmpp"
+    },
+    {
+        "Title": "Family FM 99.5 (Witthyu Krousar)",
+        "Country": "Cambodia",
+        "Tags": "family,khmer,music,phnom penh",
+        "Language": "km",
+        "Homepage": "https://www.facebook.com/Familyfm99.5/",
+        "Latitude": 11.5564,
+        "Longitude": 104.9282,
+        "Source1": "https://s14.myradiostream.com/10064/;.mp3"
+    },
+    {
+        "Title": "Hang Meas FM 104.5",
+        "Country": "Cambodia",
+        "Tags": "entertainment,khmer,phnom penh,pop",
+        "Language": "km",
+        "Homepage": "http://www.hangmeashd.com/",
+        "Latitude": 11.5564,
+        "Longitude": 104.9282,
+        "Source1": "http://malisresidences.com:89/broadwave.mp3"
+    },
+    {
+        "Title": "LDP Radio",
+        "Country": "Cambodia",
+        "Tags": "khmer,phnom penh,politics,talk",
+        "Language": "km",
+        "Latitude": 11.5564,
+        "Longitude": 104.9282,
+        "Source1": "https://streaming.radio.co/sd48fd711d/listen"
+    },
+    {
+        "Title": "Love FM Phnom Penh 97.5",
+        "Country": "Cambodia",
+        "Tags": "khmer,love songs,phnom penh,pop,romantic",
+        "Language": "km",
+        "Latitude": 11.5564,
+        "Longitude": 104.9282,
+        "Source1": "http://radio99.servradio.com:9298/"
+    },
+    {
+        "Title": "National Radio of Kampuchea",
+        "Country": "Cambodia",
+        "Favicon": "https://storage.googleapis.com/rnk/notification-icon-150x150.png",
+        "Language": "km",
+        "Homepage": "http://rnk.gov.kh/",
+        "Source1": "http://119.82.252.6:8080/broadwave.mp3"
+    },
+    {
+        "Title": "Phnom Penh Radio FM 103",
+        "Country": "Cambodia",
+        "Tags": "khmer,news,phnom penh,talk,variety",
+        "Language": "km",
+        "Latitude": 11.5564,
+        "Longitude": 104.9282,
+        "Source1": "http://radio99.servradio.com:9294/"
+    },
+    {
+        "Title": "Pop Radio 21",
+        "Country": "Cambodia",
+        "Tags": "asian,folk,khmer,phnom penh,pop",
+        "Language": "km",
+        "Latitude": 11.5564,
+        "Longitude": 104.9282,
+        "Source1": "https://listen.radioking.com/radio/318317/stream/365846"
+    },
+    {
+        "Title": "RNK FM 96 (Radio National Kampuchea)",
+        "Country": "Cambodia",
+        "Tags": "khmer,national,news,phnom penh,public",
+        "Language": "km",
+        "Latitude": 11.5564,
+        "Longitude": 104.9282,
+        "Source1": "http://119.82.252.6:8181/broadwave.mp3"
+    },
+    {
+        "Title": "Sangkem Radio",
+        "Country": "Cambodia",
+        "Homepage": "https://www.sangkemtv.com/sangkem-online-radio",
+        "Source1": "https://live.sangkemtv.com/radio.mp3"
+    },
+    {
+        "Title": "Sweet FM 88 (Siem Reap)",
+        "Country": "Cambodia",
+        "Tags": "khmer,music,pop,siem reap",
+        "Language": "km",
+        "Latitude": 13.3622,
+        "Longitude": 103.8597,
+        "Source1": "https://n12.rcs.revma.com/whn9hqwstk3vv"
+    }
+]

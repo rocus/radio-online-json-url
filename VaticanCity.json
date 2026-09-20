@@ -1,0 +1,136 @@
+[
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "VaticanCity",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "Radio Vaticana Belarus",
+        "Country": "VaticanCity",
+        "Tags": "catholic,christian",
+        "Favicon": "https://www.vaticannews.va/etc/designs/vatican-news/release/library/main/images/favicons/apple-icon-120x120.png",
+        "Language": "be,la",
+        "Homepage": "https://www.vaticannews.va/be.html",
+        "Source1": "https://radio.vaticannews.va/stream-be"
+    },
+    {
+        "Title": "Radio Vaticana Bulgaria",
+        "Country": "VaticanCity",
+        "Tags": "catholic,catholic radio,catholic talk,christian,latin,вяра,християнство",
+        "Favicon": "https://www.vaticannews.va/etc/designs/vatican-news/release/library/main/images/favicons/android-icon-192x192.png",
+        "Language": "bg,la",
+        "Homepage": "https://www.vaticannews.va/bg.html",
+        "Source1": "https://radio.vaticannews.va/stream-bg"
+    },
+    {
+        "Title": "Radio Vaticana Deutsch",
+        "Country": "VaticanCity",
+        "Tags": "catholic,christian,church,kirche",
+        "Favicon": "https://www.vaticannews.va/etc/designs/vatican-news/release/library/main/images/favicons/android-icon-192x192.png",
+        "Language": "de,la",
+        "Homepage": "https://www.vaticannews.va/de.html",
+        "Source1": "https://radio.vaticannews.va/stream-de"
+    },
+    {
+        "Title": "Radio Vaticana English",
+        "Country": "VaticanCity",
+        "Tags": "catholic,christian,news,talk",
+        "Favicon": "https://media.vaticannews.va/media/content/dam-archive/vaticannews/multimedia/2021/02/09/2021.02.09-Logo-Radio-Vaticana.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.1000.563.jpeg",
+        "Language": "en",
+        "Homepage": "https://www.vaticannews.va/en.html",
+        "Latitude": 41.90341413845876,
+        "Longitude": 12.452917098999023,
+        "Source1": "https://radio.vaticannews.va/stream-en"
+    },
+    {
+        "Title": "Radio Vaticana Español spanish",
+        "Country": "VaticanCity",
+        "Tags": "catholic,catholic radio,roman catholic church",
+        "Favicon": "https://www.vaticannews.va/etc/designs/vatican-news/release/library/main/images/favicons/android-icon-192x192.png",
+        "Language": "es",
+        "Homepage": "https://www.vaticannews.va/",
+        "Latitude": 41.90122109951793,
+        "Longitude": 12.452149987220766,
+        "Source1": "https://radio.vaticannews.va/stream-es"
+    },
+    {
+        "Title": "Radio Vaticana Hrvatski",
+        "Country": "VaticanCity",
+        "Tags": "catholic,christian",
+        "Favicon": "https://www.vaticannews.va/etc/designs/vatican-news/release/library/main/images/favicons/apple-icon-120x120.png",
+        "Language": "hr,la",
+        "Homepage": "https://www.vaticannews.va/hr.html",
+        "Source1": "https://radio.vaticannews.va/stream-hr"
+    },
+    {
+        "Title": "Radio Vaticana Italia",
+        "Country": "VaticanCity",
+        "Homepage": "https://www.vaticannews.va/",
+        "Source1": "https://radio.vaticannews.va/stream-it"
+    },
+    {
+        "Title": "Radio Vaticana Polska",
+        "Country": "VaticanCity",
+        "Tags": "catholic,christian",
+        "Favicon": "https://www.vaticannews.va/etc/designs/vatican-news/release/library/main/images/favicons/apple-icon-120x120.png",
+        "Language": "la,pl",
+        "Homepage": "https://www.vaticannews.va/pl.html",
+        "Source1": "https://radio.vaticannews.va/stream-pl"
+    },
+    {
+        "Title": "Radio Vaticana Portuguese",
+        "Country": "VaticanCity",
+        "Tags": "catholic,religion,religious",
+        "Favicon": "https://www.vaticannews.va/etc/designs/vatican-news/release/library/main/images/favicons/apple-icon-180x180.png",
+        "Homepage": "https://www.vaticannews.va/pt/epg.html",
+        "Source1": "https://radio.vaticannews.va/stream-pt"
+    },
+    {
+        "Title": "Radio Vaticana România",
+        "Country": "VaticanCity",
+        "Tags": "catholic,christian",
+        "Favicon": "https://www.vaticannews.va/favicon.ico",
+        "Language": "la,ro",
+        "Homepage": "https://www.vaticannews.va/ro.html",
+        "Source1": "https://radio.vaticannews.va/stream-ro"
+    },
+    {
+        "Title": "Radio Vaticana Slovenščina",
+        "Country": "VaticanCity",
+        "Tags": "catholic,christian",
+        "Favicon": "https://www.vaticannews.va/etc/designs/vatican-news/release/library/main/images/favicons/apple-icon-120x120.png",
+        "Language": "la,sl",
+        "Homepage": "https://www.vaticannews.va/sl.html",
+        "Source1": "https://radio.vaticannews.va/stream-sl"
+    },
+    {
+        "Title": "Radio Vaticana Solvenčina",
+        "Country": "VaticanCity",
+        "Tags": "catholic,christian",
+        "Favicon": "https://www.vaticannews.va/etc/designs/vatican-news/release/library/main/images/favicons/apple-icon-120x120.png",
+        "Language": "la,sk",
+        "Homepage": "https://www.vaticannews.va/sk.html",
+        "Source1": "https://radio.vaticannews.va/stream-sk"
+    },
+    {
+        "Title": "Radio Vaticana Ukraine",
+        "Country": "VaticanCity",
+        "Tags": "catholic,christian",
+        "Favicon": "https://www.vaticannews.va/etc/designs/vatican-news/release/library/main/images/favicons/android-icon-192x192.png",
+        "Language": "la,uk",
+        "Homepage": "https://www.vaticannews.va/uk.html",
+        "Source1": "https://radio.vaticannews.va/stream-uk"
+    },
+    {
+        "Title": "Radio Vaticana Čeština",
+        "Country": "VaticanCity",
+        "Tags": "catholic,christian",
+        "Favicon": "https://www.vaticannews.va/etc/designs/vatican-news/release/library/main/images/favicons/apple-icon-120x120.png",
+        "Language": "cs,la",
+        "Homepage": "https://www.vaticannews.va/cs.html",
+        "Source1": "https://radio.vaticannews.va/stream-cs"
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "Title": "A2Z RADIO",
+        "Country": "Bangladesh",
+        "Favicon": "https://liveonlineradio.net/img/favicon_96.png",
+        "Language": "bn",
+        "Homepage": "https://www.liveonlineradio.net/bangla/a2z-radio.htm",
+        "Source1": "https://listen.radioking.com/radio/1743/stream/125"
+    },
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "Bangladesh",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "AL-QURAN BANGLA",
+        "Country": "Bangladesh",
+        "Language": "bn",
+        "Homepage": "https://www.liveonlineradio.net/bangla/bangla-al-quran.htm",
+        "Source1": "http://66.45.232.131:9994/;stream/1/;",
+        "Source2": "http://66.45.232.131:9994/"
+    },
+    {
+        "Title": "Dhaka FM",
+        "Country": "Bangladesh",
+        "Tags": "hit,pop",
+        "Favicon": "https://i.postimg.cc/Z5MBwBZ5/bd-dhaka-fm.webp",
+        "Language": "bn",
+        "Homepage": "https://dhakafm904.com/",
+        "Latitude": 23.714609706156388,
+        "Longitude": 90.10880246758462,
+        "Source1": "https://play.dhakafm904.com/;"
+    },
+    {
+        "Title": "Dhaka FM 90.4",
+        "Country": "Bangladesh",
+        "Tags": "bangla,bangladesh",
+        "Favicon": "http://www.dhakafm904.com/assets/images/logo.png",
+        "Homepage": "http://www.dhakafm904.com/",
+        "Source1": "http://118.179.219.244:8000/;?n=d70ecddb2aebf420177c"
+    },
+    {
+        "Title": "Jago Fm",
+        "Country": "Bangladesh",
+        "Tags": "pop,talk",
+        "Favicon": "https://i.postimg.cc/HsZL3x77/bd-jago-fm.webp",
+        "Language": "bn",
+        "Homepage": "http://www.jago.fm/public/",
+        "Latitude": 23.84967602979569,
+        "Longitude": 90.15549576928376,
+        "Source1": "http://139.59.86.99:12496/stream"
+    },
+    {
+        "Title": "Jago FM 94.4",
+        "Country": "Bangladesh",
+        "Homepage": "http://www.jago.fm/",
+        "Source1": "http://139.59.86.99:12496/stream"
+    },
+    {
+        "Title": "Mellow Bangla",
+        "Country": "Bangladesh",
+        "Tags": "bangla,bangla fm,bangla music,bangla radio,bangladesh,bengali,bengali music,folk,romantic",
+        "Favicon": "https://www.mellowbangla.com/icon.png",
+        "Language": "bn,en,hi",
+        "Homepage": "https://www.mellowbangla.com/",
+        "Latitude": 23.753532023215765,
+        "Longitude": 90.384521484375,
+        "Source1": "https://radio.mellowbangla.com/stream"
+    },
+    {
+        "Title": "Muhammad Siddiq al-Minshawi",
+        "Country": "Bangladesh",
+        "Homepage": "https://qurango.net/radio/mohammed_siddiq_alminshawi",
+        "Source1": "https://qurango.net/radio/mohammed_siddiq_alminshawi"
+    },
+    {
+        "Title": "Peoples Radio 91.6 FM",
+        "Country": "Bangladesh",
+        "Homepage": "https://peoplesradio.fm/",
+        "Source1": "https://s3.myradiostream.com:14498/listen.mp3"
+    },
+    {
+        "Title": "Radio Bhumi",
+        "Country": "Bangladesh",
+        "Tags": "bangla,bangla fm,bangla music,bangla radio,bangladesh",
+        "Favicon": "https://cdn-radiotime-logos.tunein.com/s260643q.png",
+        "Homepage": "https://www.radiobhumi.fm/",
+        "Latitude": 23.768312898727075,
+        "Longitude": 90.4001933404244,
+        "Source1": "https://stream-156.zeno.fm/be5bqmk1k18uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJiZTVicW1rMWsxOHV2IiwiaG9zdCI6InN0cmVhbS0xNTYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjB1c0x1ZURGVEhTR0EwSDE1N2VBVmciLCJpYXQiOjE3MzU0NTM5MjQsImV4cCI6MTczNTQ1Mzk4NH0.vjlgqsHzQRt-_2T0LIHscJkAVHXd8hYV8Z6NDvvEWYk"
+    },
+    {
+        "Title": "Radio Foorti",
+        "Country": "Bangladesh",
+        "Tags": "pop",
+        "Favicon": "https://i.postimg.cc/0NWMBYGh/bd-radio-foorti.webp",
+        "Language": "bn",
+        "Homepage": "https://radiofoorti.fm/",
+        "Latitude": 23.68312353301968,
+        "Longitude": 90.41748046875,
+        "Source1": "https://radiofoorti.fm/api/stream"
+    },
+    {
+        "Title": "Radio GoonGoon",
+        "Country": "Bangladesh",
+        "Language": "bn",
+        "Homepage": "https://radiogoongoon.com/",
+        "Source1": "https://audio.streamcast.xyz/listen/radiogoongoon/radio.mp3"
+    },
+    {
+        "Title": "Radio JKKNIU",
+        "Country": "Bangladesh",
+        "Tags": "bollywood,campus radio,college,college radio,pop,pop music,pop rock,rock",
+        "Favicon": "https://radiojkkniu.vercel.app/radiojkkniu_logo.png",
+        "Homepage": "https://radiojkkniu.vercel.app/",
+        "Latitude": 24.57940672541511,
+        "Longitude": 90.37453694217032,
+        "Source1": "https://stream.zeno.fm/risgdzpf1cxtv"
+    },
+    {
+        "Title": "Radio Shadhin",
+        "Country": "Bangladesh",
+        "Tags": "bangla,bangladesh",
+        "Homepage": "https://radioshadhin.fm/",
+        "Source1": "https://stream-157.zeno.fm/eabgu655puquv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJlYWJndTY1NXB1cXV2IiwiaG9zdCI6InN0cmVhbS0xNTcuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ijh6NzR2TE5jUmJLV1pzMExqQWpYcmciLCJpYXQiOjE3Mjc1NDQwMjYsImV4cCI6MTcyNzU0NDA4Nn0.nm5A8Sbpg2aM811icSh5Au4Wigql4rOzRb0eKDW8Hz4"
+    },
+    {
+        "Title": "Radio Ullash",
+        "Country": "Bangladesh",
+        "Favicon": "https://radioullash.com/wp-content/uploads/2021/07/cropped-radio-ullash-round-180x180.png",
+        "Homepage": "https://radioullash.com/",
+        "Source1": "http://stream.zeno.fm/gpgkgp9mp18uv.mp3"
+    },
+    {
+        "Title": "Radio Vivid Voice",
+        "Country": "Bangladesh",
+        "Tags": "pop,rock,talk",
+        "Language": "bn,en,hi,ur",
+        "Homepage": "https://radiovv.wapka.club/",
+        "Source1": "https://stream.zeno.fm/xuin6ocdc2juv"
+    },
+    {
+        "Title": "Rajshahi FM",
+        "Country": "Bangladesh",
+        "Tags": "bangla,bangla fm,bangla radio,hard rock heavy metal,rajshahi,rock",
+        "Homepage": "https://rajshahifm.netlify.app/",
+        "Latitude": 24.366830792260316,
+        "Longitude": 88.59433637691852,
+        "Source1": "https://stream.zeno.fm/nxfshdayjrdvv"
+    },
+    {
+        "Title": "S-Radio",
+        "Country": "Bangladesh",
+        "Favicon": "https://images.sftcdn.net/images/t_app-icon-m/p/728dfe80-610d-4633-87de-055669555a35/3806933012/radio-shibir-logo",
+        "Homepage": "https://www.shibirradio.com/",
+        "Source1": "https://as1.digitalsynapsebd.com/proxy/zkpnarpg/stream"
+    },
+    {
+        "Title": "Spice FM",
+        "Country": "Bangladesh",
+        "Favicon": "https://i.postimg.cc/DZmTxs5c/bd-spice-fm.webp",
+        "Homepage": "https://spicefmbd.com/",
+        "Source1": "https://stream.spicefmbd.com/stream.m3u8"
+    },
+    {
+        "Title": "Universal Health Radio (বাংলা)",
+        "Country": "Bangladesh",
+        "Tags": "bengali,cdc,education,fda,health,news,public health,who",
+        "Favicon": "https://universalhealthradio.org/favicon.png",
+        "Language": "bn",
+        "Homepage": "https://universalhealthradio.org/",
+        "Source1": "https://radio.universalhealthradio.org/uhr-bn.mp3"
+    },
+    {
+        "Title": "Uttorbango Betar",
+        "Country": "Bangladesh",
+        "Tags": "folk music,pop music",
+        "Homepage": "https://sites.google.com/view/ubradio/",
+        "Latitude": 25.774325175029897,
+        "Longitude": 89.23658967018129,
+        "Source1": "http://stream.zeno.fm/spqbxkqxdf9uv"
+    },
+    {
+        "Title": "বাংলাদেশ বেতার ঢাকা ক",
+        "Country": "Bangladesh",
+        "Tags": "bangla music,bangla natok,news",
+        "Favicon": "null",
+        "Homepage": "http://www.betar.gov.bd/",
+        "Source1": "http://as1.digitalsynapsebd.com:8582/;"
+    },
+    {
+        "Title": "বাংলাদেশ বেতার বানিজ্যিক কার্যক্রম",
+        "Country": "Bangladesh",
+        "Tags": "bengali music,music",
+        "Favicon": "null",
+        "Homepage": "http://www.betar.gov.bd/",
+        "Source1": "http://as1.digitalsynapsebd.com:8741/;"
+    }
+]

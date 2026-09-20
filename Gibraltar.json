@@ -1,0 +1,54 @@
+[
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "Gibraltar",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "Alpha FM",
+        "Country": "Gibraltar",
+        "Favicon": "https://goiania.alphafm.com.br/assets/site/v2/images/logo/logo_novo.png",
+        "Homepage": "https://goiania.alphafm.com.br/index/inicio",
+        "Source1": "https://ice.fabricahost.com.br/alphafm1021"
+    },
+    {
+        "Title": "BFBS Gibraltar",
+        "Country": "Gibraltar",
+        "Tags": "british forces,pop",
+        "Language": "en",
+        "Homepage": "http://www.forces.net/radio/stations/bfbs-gibraltar",
+        "Source1": "http://edge-audio-03-gos2.sharp-stream.com/ssvcbfbs7.mp3"
+    },
+    {
+        "Title": "GBC Radio Gibraltar",
+        "Country": "Gibraltar",
+        "Favicon": "https://www.gbc.gi/favicons/mstile-70x70.png",
+        "Language": "en",
+        "Homepage": "https://www.gbc.gi/radio",
+        "Source1": "https://sh.uk.audio-stream.com/proxy/gibralta?mp=/stream"
+    },
+    {
+        "Title": "Radio Gibraltar Plus 100.5",
+        "Country": "Gibraltar",
+        "Favicon": "https://www.gbc.gi/images/radio/radio-gibraltar-plus-fm-logo.png",
+        "Homepage": "https://www.gbc.gi/radio/#RadioGibraltarPlusFM",
+        "Source1": "https://s2.myradiostream.com/32910/listen.mp3"
+    },
+    {
+        "Title": "RadioGibraltar MW",
+        "Country": "Gibraltar",
+        "Favicon": "https://www.gbc.gi/images/radio/radio-gibraltar-logo.png",
+        "Homepage": "https://www.gbc.gi/radio/#RadioGibraltar",
+        "Source1": "https://sh.uk.audio-stream.com/proxy/matorr00?mp=/stream"
+    },
+    {
+        "Title": "RadioSeu",
+        "Country": "Gibraltar",
+        "Favicon": "https://www.radioseu.cat/img/logo-radioseu.jpg",
+        "Homepage": "https://www.radioseu.cat/",
+        "Source1": "https://enacast.com/radioseu/streams/HD"
+    }
+]

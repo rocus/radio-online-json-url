@@ -1,0 +1,2186 @@
+[
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "Peru",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "Andina Radio",
+        "Country": "Peru",
+        "Tags": "cumbia,entretenimiento,folclore",
+        "Favicon": "https://andinaradio.net/wp-content/uploads/2023/05/cropped-andina-logo-chico-180x180.png",
+        "Language": "es",
+        "Homepage": "https://andinaradio.net/",
+        "Source1": "http://panel.innovatestream.pe:7058/;"
+    },
+    {
+        "Title": "Antena Sur 90.3 FM",
+        "Country": "Peru",
+        "Tags": "entretenimiento,folclor,música andina,radio hablada",
+        "Favicon": "https://cdn-profiles.tunein.com/s50000/images/logod.png",
+        "Language": "es",
+        "Homepage": "https://www.radioantenasur.com/",
+        "Source1": "https://stream.zeno.fm/tu63bf6g31zuv"
+    },
+    {
+        "Title": "Baladitas",
+        "Country": "Peru",
+        "Tags": "international",
+        "Source1": "http://stream.zeno.fm/hf2gsfm1mp8uv?1649692370879"
+    },
+    {
+        "Title": "Bethel Radio",
+        "Country": "Peru",
+        "Favicon": "https://bethel-fm.s3.us-east-1.amazonaws.com/web-assets/player/ICON%20BETHEL%20RADIO.png",
+        "Homepage": "https://www.bethel.fm/",
+        "Source1": "https://alfa.betheltv.tv/radiobethel/1/icecast.audio"
+    },
+    {
+        "Title": "Boleros Inolvidables (FMLima)",
+        "Country": "Peru",
+        "Tags": "bolero,boleros,cuban music,latin america music,oldies 50's/60's",
+        "Favicon": "https://boleros.fmlima.com/img/apple-touch-icon.png",
+        "Language": "es",
+        "Homepage": "https://boleros.fmlima.com/",
+        "Source1": "https://stream.zeno.fm/5t45zksv7mruv"
+    },
+    {
+        "Title": "Carolina FM",
+        "Country": "Peru",
+        "Tags": "pop rock",
+        "Favicon": "https://carolinafm.pe/wp-content/uploads/2021/08/logo_Carolina-FM.png",
+        "Language": "en,es",
+        "Homepage": "https://carolinafm.pe/",
+        "Source1": "https://radio.livestreamingmundial.com:8016/stream"
+    },
+    {
+        "Title": "Chalaca",
+        "Country": "Peru",
+        "Tags": "classical",
+        "Source1": "https://conectperu.com:7041/stream?icy=http"
+    },
+    {
+        "Title": "CJ rad",
+        "Country": "Peru",
+        "Tags": "classical",
+        "Homepage": "https://zeno.fm/radio/cj-rad/",
+        "Source1": "https://stream.zeno.fm/xvnzmkxzfrhtv"
+    },
+    {
+        "Title": "CONCIERTO PUNTA",
+        "Country": "Peru",
+        "Favicon": "https://conciertofm.com/wp-content/uploads/2023/02/Logo-2-768x345.png",
+        "Homepage": "https://conciertofm.com/",
+        "Source1": "https://conectperu.com/8012/stream"
+    },
+    {
+        "Title": "Conexion  kpop",
+        "Country": "Peru",
+        "Tags": "kpop",
+        "Favicon": "https://conexionkpop.com/conexionkpop.png",
+        "Homepage": "https://conexionkpop.com/",
+        "Latitude": -16.44326826471552,
+        "Longitude": -71.51944821565881,
+        "Source1": "https://stream.laut.fm/conexionkpop"
+    },
+    {
+        "Title": "Conexion Kpop Girls groups",
+        "Country": "Peru",
+        "Tags": "kpop",
+        "Favicon": "https://conexionkpop.com/conexiongirls.png",
+        "Homepage": "https://conexionkpop.com/",
+        "Latitude": -16.444895433620108,
+        "Longitude": -71.51553449718745,
+        "Source1": "https://stream.laut.fm/conexiongirlsgroups"
+    },
+    {
+        "Title": "Corporación Radial E&L - Ocalli, Luya",
+        "Country": "Peru",
+        "Favicon": "https://www.planetaradios.com/content/radios_fm/pr23_243.png",
+        "Homepage": "http://zeno.fm/radio/corporacion-radial-eyl-mas-cerca-de-ti/",
+        "Source1": "https://stream.zeno.fm/ve5kqm6deq3vv"
+    },
+    {
+        "Title": "Doble Nueve - Classic",
+        "Country": "Peru",
+        "Tags": "beat,blues rock,classic pop,classic rock,hard rock,progressive rock,psychedelic rock",
+        "Favicon": "https://radioplayerfm.com/doblenuevelive/classic/img/classic.jpg",
+        "Language": "en",
+        "Homepage": "https://doblenuevelive.com/",
+        "Latitude": -12.044961451414991,
+        "Longitude": -77.0354835563454,
+        "Source1": "https://conectperu.com:7003/stream?icy=http"
+    },
+    {
+        "Title": "Doble Nueve - Heritage",
+        "Country": "Peru",
+        "Tags": "80s,90s,alternative,pop,rock",
+        "Favicon": "https://radioplayerfm.com/doblenuevelive/heritage/img/heritage.png",
+        "Language": "en",
+        "Homepage": "https://doblenuevelive.com/",
+        "Latitude": -12.046472391233449,
+        "Longitude": -77.03235968196496,
+        "Source1": "https://conectperu.com:7002/stream?icy=http"
+    },
+    {
+        "Title": "Doble Nueve - Live",
+        "Country": "Peru",
+        "Tags": "alternative indie rock,indie,indie pop,indie rock,rock",
+        "Favicon": "https://www.radiodoblenueve.com/wp-content/uploads/2017/10/cropped-favicon-192x192.png",
+        "Language": "es",
+        "Homepage": "https://doblenuevelive.com/",
+        "Latitude": -12.050870838529,
+        "Longitude": -77.03231226132186,
+        "Source1": "https://conectperu.com:7000/stream?icy=http"
+    },
+    {
+        "Title": "Doble Nueve - Millennial",
+        "Country": "Peru",
+        "Favicon": "https://imx.to/i/6oxppz",
+        "Homepage": "https://doblenuevelive.com/",
+        "Source1": "https://conectperu.com:7001/stream?icy=http"
+    },
+    {
+        "Title": "Edwin Abdon Ramirez Acuña",
+        "Country": "Peru",
+        "Tags": "alternative rock,pop rock",
+        "Favicon": "https://imgur.com/a/qi41Frg",
+        "Homepage": "https://www.facebook.com/profile.php?id=100049736869387&sk=reels_tab",
+        "Source1": "https://panel.innovatestream.pe:10995/stream"
+    },
+    {
+        "Title": "El Sembrador Radio 590 AM Y 100.1 FM",
+        "Country": "Peru",
+        "Tags": "bible,cristiana,folk,gospel,religious",
+        "Favicon": "https://lirp.cdn-website.com/441cb63a/dms3rep/multi/opt/Logo-El-Sembrador--2023-03-1920w.png",
+        "Language": "es",
+        "Homepage": "https://www.elsembrador590.com/radio",
+        "Source1": "https://panel.streamenviron.com:8158/stream.mp3"
+    },
+    {
+        "Title": "Electro Radio Live",
+        "Country": "Peru",
+        "Tags": "electronic",
+        "Source1": "https://stream-142.zeno.fm/93kksqvkeg8uv?zs=N9EUqjz8RdOQAaV215SUFg"
+    },
+    {
+        "Title": "Estacion radio cumbia",
+        "Country": "Peru",
+        "Tags": "cumbia peruana",
+        "Favicon": "https://static2.mytuner.mobi/media/tvos_radios/341/radio-estacion-cumbia.224cf2e0.png",
+        "Homepage": "https://radioestacionsatelite.blogspot.com/",
+        "Source1": "https://stream-155.zeno.fm/q66qxthr0uhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxNjZxeHRocjB1aHZ2IiwiaG9zdCI6InN0cmVhbS0xNTUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IlAxQ2otQXRPUXZ1NE5QTHo4MGs4VGciLCJpYXQiOjE3Mzg3ODUyMTEsImV4cCI6MTczODc4NTI3MX0.OByDpXd4iTYTysGAIQJO63P7ugNbv8OAAXbN8WjhZcY"
+    },
+    {
+        "Title": "Exa FM",
+        "Country": "Peru",
+        "Tags": "93.3 fm,estación,exa,exa fm,fm,juvenil,la estación exacta,la estación naranja,moi merino,mvs,mvs noticias,mvs radio,música pop,ponte exa,pop,pop en español e inglés,pop music,pop rock,radio",
+        "Favicon": "https://i.iheart.com/v3/re/new_assets/5f9883c7cde5eff19e6eabac",
+        "Language": "es",
+        "Homepage": "https://www.exafm.com/veracruz/",
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac"
+    },
+    {
+        "Title": "Exitosa Noticias Chiclayo",
+        "Country": "Peru",
+        "Favicon": "https://cdn.radoxo.com/images/peru/exitosa-chiclayo.webp?v=1785963601",
+        "Homepage": "https://www.exitosanoticias.pe/regiones/chiclayo",
+        "Latitude": -6.772278120397479,
+        "Longitude": -79.83970773972351,
+        "Source1": "https://neptuno-2-audio.mediaserver.digital/79525baf-b0f5-4013-a8bd-3c5c293c6561"
+    },
+    {
+        "Title": "Faceit FM",
+        "Country": "Peru",
+        "Homepage": "https://www.faceit.com/en/players/Jac0b2",
+        "Source1": "https://stream.zeno.fm/c6ufpty9w1ctv"
+    },
+    {
+        "Title": "Fama Sur (Tarata)",
+        "Country": "Peru",
+        "Tags": "local radio",
+        "Language": "es",
+        "Homepage": "http://famasurfm.com/",
+        "Source1": "https://sp.oyotunstream.com/9326/stream"
+    },
+    {
+        "Title": "Filarmonía",
+        "Country": "Peru",
+        "Homepage": "http://www.filarmonia.org/",
+        "Source1": "https://c22.radioboss.fm:8100/stream"
+    },
+    {
+        "Title": "Filarmonía (OCR-4V, 102.7 MHz FM, Lima) (IRTP)",
+        "Country": "Peru",
+        "Language": "en,es",
+        "Homepage": "http://www.filarmonia.org/",
+        "Source1": "http://c22.radioboss.fm:8100/stream",
+        "Source2": "https://c22.radioboss.fm:18100/live"
+    },
+    {
+        "Title": "Fm Hits 80s",
+        "Country": "Peru",
+        "Tags": "80s,classic hits,oldies,pop,rock",
+        "Favicon": "https://fmhits80s.net.pe/img/FMHits80s.jpg",
+        "Language": "en",
+        "Homepage": "https://fmhits80s.net.pe/",
+        "Source1": "https://cast.fmhits80s.net.pe/listen/fm_hits_80s/stream128"
+    },
+    {
+        "Title": "FMLima",
+        "Country": "Peru",
+        "Tags": "adult contemporary,retro music",
+        "Favicon": "https://i.imgur.com/Af6XsRO.png",
+        "Language": "es",
+        "Homepage": "https://fmlima.com/",
+        "Source1": "https://stream.zeno.fm/qotg58sxvehvv"
+    },
+    {
+        "Title": "Frecuencia 100 101.9",
+        "Country": "Peru",
+        "Tags": "cumbia peruana,latin pop",
+        "Favicon": "https://static-media.streema.com/media/cache/b1/a0/b1a00fb4b10b496411a62343660d97f4.jpg",
+        "Homepage": "https://www.radio.frecuencia100fm.com/",
+        "Latitude": -8.111105757989076,
+        "Longitude": -79.03075218200684,
+        "Source1": "https://sp.oyotunstream.com/7066/;"
+    },
+    {
+        "Title": "FRECUENCIA 1330 AM  (parque azangaro miraflores) LUIS ANGEL ANCON PATIÑO",
+        "Country": "Peru",
+        "Tags": "informativa,infotainment,música y noticias,pop rock",
+        "Homepage": "https://www.radiofrecuencia1330amondasdelmisti.com/",
+        "Latitude": -16.398713155553676,
+        "Longitude": -71.52237206697465,
+        "Source1": "https://maximacenterdata.com/8124/stream"
+    },
+    {
+        "Title": "Full Techno",
+        "Country": "Peru",
+        "Tags": "dance,electronic,eurodance,house,techno,trance",
+        "Favicon": "https://static2.mytuner.mobi/media/tvos_radios/884/full-techno-online.cf95aa90.jpg",
+        "Language": "spa",
+        "Region": "PE-LIM",
+        "Homepage": "https://www.full-techno.com/",
+        "Source1": "https://servistream.info:8320/stream"
+    },
+    {
+        "Title": "Generacion Kpop",
+        "Country": "Peru",
+        "Tags": "kpop",
+        "Favicon": "http://www.generacionkpop.net/favicon.ico",
+        "Language": "es",
+        "Homepage": "http://www.generacionkpop.net/",
+        "Source1": "http://stream9.mexiserver.com:8242/stream"
+    },
+    {
+        "Title": "Hisparockas",
+        "Country": "Peru",
+        "Tags": "latin america rock",
+        "Language": "es",
+        "Homepage": "https://www.hisparockas.com/",
+        "Source1": "https://stream.zeno.fm/nhu7v3guz08uv"
+    },
+    {
+        "Title": "JVM la Estación",
+        "Country": "Peru",
+        "Tags": "baladas",
+        "Language": "es",
+        "Homepage": "http://laut.fm/jvmlaestacion",
+        "Source1": "https://stream.laut.fm/jvmlaestacion"
+    },
+    {
+        "Title": "JVM la Estación (Cusco)",
+        "Country": "Peru",
+        "Tags": "baladas",
+        "Language": "es",
+        "Homepage": "http://laut.fm/jvmlaestacion",
+        "Source1": "https://stream.laut.fm/jvmlaestacion"
+    },
+    {
+        "Title": "Kaizen Live Radio",
+        "Country": "Peru",
+        "Language": "en,es,ja",
+        "Homepage": "https://radio.kaizenlive.pe/",
+        "Source1": "https://radiostreaming.pro/8386/stream"
+    },
+    {
+        "Title": "Karibeña",
+        "Country": "Peru",
+        "Favicon": "https://statics.lakaribena.com.pe/rk/img/global/favicon.svg",
+        "Homepage": "https://lakaribena.com.pe/",
+        "Source1": "https://karibena.egostreaming.pe/radio/6898b6e52d9e088a6de159/"
+    },
+    {
+        "Title": "Ke Brava",
+        "Country": "Peru",
+        "Tags": "folk",
+        "Favicon": "https://kebrava.blogspot.com/",
+        "Homepage": "https://kebrava.blogspot.com/",
+        "Source1": "https://stream.zenolive.com/59947b1wfuquv"
+    },
+    {
+        "Title": "Kodama Station",
+        "Country": "Peru",
+        "Favicon": "https://kodamastation.com/koda/img/favicon.ico",
+        "Homepage": "https://kodamastation.com/koda/index.php",
+        "Source1": "https://cast.kodamastation.com:8000/Rd320.mp3"
+    },
+    {
+        "Title": "La Kalle 96.1",
+        "Country": "Peru",
+        "Tags": "cumbia,pop latino,salsa",
+        "Favicon": "https://estacionesfm.com/imgfm/imgfm/aedftgh158.png",
+        "Homepage": "https://lakalle.com.pe/",
+        "Source1": "https://lakalle.egostreaming.pe/radio/a7b9c3e4567f8d0123456789/"
+    },
+    {
+        "Title": "La Kalle 96.1 Lima",
+        "Country": "Peru",
+        "Tags": "cumbia peruana,pop latino,salsa",
+        "Favicon": "https://cdn.instant.audio/images/logos/radios-com-pe/kalle.png",
+        "Homepage": "https://lakalle.com.pe/",
+        "Source1": "https://lakalle.egostreaming.pe/radio/a7b9c3e4567f8d0123456789/"
+    },
+    {
+        "Title": "La Noventera",
+        "Country": "Peru",
+        "Tags": "90s,classic rock,música del recuerdo,pop music,techno",
+        "Favicon": "https://static-media.streema.com/media/cache/8b/d3/8bd399b199aaed5951244fd124dab993.jpg",
+        "Language": "es",
+        "Homepage": "https://www.facebook.com/radiolanoventera/",
+        "Source1": "https://host.gometri.com/proxy/lanoventera/stream/"
+    },
+    {
+        "Title": "la Noventera",
+        "Country": "Peru",
+        "Favicon": "https://i.imgur.com/P6UUU2a.png",
+        "Homepage": "https://www.radiosdelperu.com.pe/la-noventera#google_vignette",
+        "Source1": "https://streaming.gometri.com/stream/8043/stream"
+    },
+    {
+        "Title": "La Nube 91.9",
+        "Country": "Peru",
+        "Tags": "pop en español e inglés",
+        "Favicon": "https://cdn.onlineradiobox.com/img/l/8/83458.v12.png",
+        "Homepage": "https://www.radiolanube.com/",
+        "Source1": "https://mdstrm.com/audio/6598b70f86344b02b58ce836/icecast.audio"
+    },
+    {
+        "Title": "La Salsa Maestra",
+        "Country": "Peru",
+        "Tags": "afro-latin music,salsa",
+        "Favicon": "https://i.imgur.com/rMKkm0b.png",
+        "Language": "es",
+        "Homepage": "https://www.facebook.com/lasalsamaestra/",
+        "Source1": "https://stream.zeno.fm/c1skkw28pfeuv"
+    },
+    {
+        "Title": "La unica Tropical",
+        "Country": "Peru",
+        "Tags": "cumbia peruana",
+        "Favicon": "https://cdn.instant.audio/images/logos/radios-com-pe/la-unica-tropical.png",
+        "Homepage": "https://radiolaunicatropicaljum.blogspot.com/",
+        "Source1": "https://stream-172.zeno.fm/see4wpyr9bhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzZWU0d3B5cjliaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzIuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6InJMQlJBb0c0VFVHSFV5N2ZjeDBhYnciLCJpYXQiOjE3Mzg3ODQyNTUsImV4cCI6MTczODc4NDMxNX0.obJMMOcXoRPbSwVHZmpTSrUBl19abmqExOh10daapHI",
+        "Source2": "https://stream-172.zeno.fm/see4wpyr9bhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzZWU0d3B5cjliaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzIuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkFYNnZKX0VyUnhTVXd2VnVwdzZIQ3ciLCJpYXQiOjE3Mzg3ODIzNTUsImV4cCI6MTczODc4MjQxNX0.hqPA7TYeclfXllbgTxQ-wFTEizx6RtFGtdUBI76uM6g"
+    },
+    {
+        "Title": "La zona Lima",
+        "Country": "Peru",
+        "Favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSvaVZoFE7mEQlnEcSCscCk4PbJPXbTBG6jEfp8J7rdw&s",
+        "Homepage": "https://www.lazona.com.pe/",
+        "Latitude": -12.12704351149839,
+        "Longitude": -76.98627792433858,
+        "Source1": "https://mdstrm.com/audio/5fada54116646e098d97e6a5/icecast.audio"
+    },
+    {
+        "Title": "La Ñ (FMLima)",
+        "Country": "Peru",
+        "Tags": "80s rock,latin america rock,rock en español",
+        "Favicon": "https://fmlima.com/radio-la-ene/images/apple-touch-icon.png",
+        "Language": "es",
+        "Homepage": "https://fmlima.com/radio-la-ene/",
+        "Source1": "https://stream.zeno.fm/tk4wmqvnnnruv"
+    },
+    {
+        "Title": "Latina Live",
+        "Country": "Peru",
+        "Tags": "crossover,latina",
+        "Homepage": "https://latinalive.net/",
+        "Source1": "https://radios.latinalive.net/listen/latina/live"
+    },
+    {
+        "Title": "Levelhits",
+        "Country": "Peru",
+        "Tags": "decades",
+        "Homepage": "https://www.levelhits.com/",
+        "Source1": "https://radio.pjcks.com/7234/stream"
+    },
+    {
+        "Title": "LOVE FM: Amor en cada canción / Clásicos del pop",
+        "Country": "Peru",
+        "Favicon": "https://i.postimg.cc/pd2qpS5j/lovefm1037.jpg",
+        "Language": "es",
+        "Homepage": "https://maxplay.com.mx/",
+        "Source1": "https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8"
+    },
+    {
+        "Title": "Mambo INN Radio",
+        "Country": "Peru",
+        "Tags": "salsa",
+        "Language": "es",
+        "Homepage": "https://www.mamboinnradio.com/",
+        "Source1": "https://radio.perustream.com:7000/stream"
+    },
+    {
+        "Title": "MAX RADIO STATION",
+        "Country": "Peru",
+        "Tags": "90,variada",
+        "Language": "es",
+        "Homepage": "https://player.rdp.com.pe/maxplayer.php",
+        "Source1": "https://stream.zeno.fm/m2wa8jwb9yivv",
+        "Source2": "https://stream-153.zeno.fm/m2wa8jwb9yivv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJtMndhOGp3Yjl5aXZ2IiwiaG9zdCI6InN0cmVhbS0xNTMuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6InhTZU5ja1VsUkFxUTgzQ3RfU1FkekEiLCJpYXQiOjE3NDY2MjYxNTEsImV4cCI6MTc0NjYyNjIxMX0._kUdTuFrqMyQknDsG3WXmo1Ez88MucEuc2XHMfIyPwk"
+    },
+    {
+        "Title": "Mega St☆r Peru",
+        "Country": "Peru",
+        "Tags": "cumbia folklor baladas varios",
+        "Favicon": "https://i.ytimg.com/vi/s4rgiw1yd84/hqdefault.jpg",
+        "Language": "es",
+        "Homepage": "https://wwwradiocadenastereo.blogspot.com/",
+        "Source1": "http://stream.zeno.fm/m0gb9v7aqs8uv"
+    },
+    {
+        "Title": "Melodia Arequipa",
+        "Country": "Peru",
+        "Tags": "cumbia peruana,local news,salsa,talks",
+        "Favicon": "https://static-media.streema.com/media/cache/aa/5b/aa5be888d41f0aa82ba13804d1ad1ab3.jpg",
+        "Language": "es",
+        "Homepage": "https://radiomelodia.com.pe/",
+        "Source1": "http://stream.radiomelodia.com.pe:8000/radio.mp3"
+    },
+    {
+        "Title": "MGR Radio (Mara Gamero & Dj Ethamx)",
+        "Country": "Peru",
+        "Tags": "radio music rock pop",
+        "Favicon": "https://i.imgur.com/0XpvW5w.png",
+        "Language": "en,es",
+        "Homepage": "https://aqpvirtual.wixsite.com/aqpradios",
+        "Source1": "https://stream-154.zeno.fm/fdhacwakavkuv"
+    },
+    {
+        "Title": "MI Radio (Percy Altamirano & Dj Ethamx)",
+        "Country": "Peru",
+        "Tags": "instrumental music,musicalmente instrumental,oldies 50's/60's,symphonic",
+        "Favicon": "https://i.imgur.com/CWXS1ua.png",
+        "Language": "en,es",
+        "Homepage": "https://aqpvirtual.wixsite.com/aqpradios",
+        "Source1": "https://stream-170.zeno.fm/g9afqk829ibtv"
+    },
+    {
+        "Title": "Moderna Radio Papá",
+        "Country": "Peru",
+        "Tags": "news talk music",
+        "Language": "es",
+        "Homepage": "https://radiomoderna.pe/player/",
+        "Latitude": -11.955868469434597,
+        "Longitude": -76.92077636718751,
+        "Source1": "https://radio.transmite.pe/8020/stream/;type=mp3"
+    },
+    {
+        "Title": "Mundo Beatles (MP3)",
+        "Country": "Peru",
+        "Tags": "classic rock,indie,pop,the beatles",
+        "Favicon": "https://i.ibb.co/MVK2Q8w/280961211-105770918808116-8706301000710763225-n.png",
+        "Language": "es",
+        "Homepage": "https://www.mundobeatles.com/",
+        "Source1": "http://stream.zeno.fm/y79be89qxrhvv"
+    },
+    {
+        "Title": "Mundo Beatles Radio (MP3)",
+        "Country": "Peru",
+        "Tags": "classic rock,indie,pop,the beatles",
+        "Favicon": "https://i.ibb.co/MVK2Q8w/280961211-105770918808116-8706301000710763225-n.png",
+        "Language": "es",
+        "Homepage": "https://www.mundobeatles.com/",
+        "Source1": "http://stream.zeno.fm/y79be89qxrhvv"
+    },
+    {
+        "Title": "MUSIC OKEY",
+        "Country": "Peru",
+        "Favicon": "https://musicokey.com/wp-content/uploads/2019/12/logo-2-1.png",
+        "Homepage": "https://www.musicokey.com/",
+        "Source1": "https://stream.rcast.net/73429"
+    },
+    {
+        "Title": "Música Urbana Nacional",
+        "Country": "Peru",
+        "Tags": "hip hop,rap hiphop rnb,reggaeton,trap",
+        "Favicon": "https://cdn.onlineradiobox.com/img/l/9/156739.v3.png",
+        "Homepage": "https://www.musicaurbananacional.com/",
+        "Latitude": -12.243916974530926,
+        "Longitude": -76.92118138074876,
+        "Source1": "https://a11.asurahosting.com:8760/radio.mp3"
+    },
+    {
+        "Title": "Nueva Q",
+        "Country": "Peru",
+        "Favicon": "https://mmo.aiircdn.com/766/65031e32c1e74.png",
+        "Homepage": "https://www.radionuevaq.pe/",
+        "Latitude": -14.703164979173406,
+        "Longitude": -73.5081298916735,
+        "Source1": "https://mdstrm.com/audio/6839e1f153fcf56d988d5943/live.m3u8?property=aiir"
+    },
+    {
+        "Title": "Nuevaolera",
+        "Country": "Peru",
+        "Tags": "60's,baladas en español,música del recuerdo",
+        "Favicon": "https://static-media.streema.com/media/cache/64/58/6458c2a23d87f451ea14bfca81e8a69a.jpg",
+        "Language": "es",
+        "Homepage": "https://www.flashback.rdp.com.pe/",
+        "Latitude": -12.05916967649534,
+        "Longitude": -77.04154014587404,
+        "Source1": "https://stream.zeno.fm/4q99spjike0uv"
+    },
+    {
+        "Title": "Nuevo Tiempo",
+        "Country": "Peru",
+        "Homepage": "https://www.nuevotiempo.org/en-vivo-radio-peru/",
+        "Source1": "https://stream.live.novotempo.com/radio/smil:rntLimaPE.smil/playlist.m3u8"
+    },
+    {
+        "Title": "Nuevo tiempo Perú",
+        "Country": "Peru",
+        "Tags": "international",
+        "Homepage": "https://www.nuevotiempo.org/en-vivo-radio-peru/",
+        "Source1": "https://stream.live.novotempo.com/radio/smil:rntLimaPE.smil/playlist.m3u8"
+    },
+    {
+        "Title": "Onda Cero Te Activa",
+        "Country": "Peru",
+        "Tags": "latin pop,música urbana,reggaeton,salsa",
+        "Favicon": "https://i1.sndcdn.com/avatars-000035616174-q7tb9i-t240x240.jpg",
+        "Language": "es",
+        "Homepage": "https://www.ondacero.com.pe/radio",
+        "Latitude": -12.10629855841121,
+        "Longitude": -76.98669433593751,
+        "Source1": "https://mdstrm.com/audio/6598b65ab398c90871aff8cc/icecast.audio"
+    },
+    {
+        "Title": "Onda De Libertad Radio | Contenido de liberación",
+        "Country": "Peru",
+        "Tags": "afro house,ambient and relaxation music,ambient electronic,ancestral,dance & electronic,dark ambient,dembow,experimental electronic music,folk music,german pop,independent radio,latin pop,melodic techno,native,podcasts,pop en inglés,solfeggio,synthpop,zen ambient",
+        "Favicon": "https://ondadelibertad.com/wp-content/uploads/2026/09/ODL_Radio_Logo.webp",
+        "Language": "de,en,es",
+        "Homepage": "https://ondadelibertad.com/",
+        "Latitude": -12.106869230343651,
+        "Longitude": -77.03290339206231,
+        "Source1": "https://radios.blumhost.es:8220/stream"
+    },
+    {
+        "Title": "Onda Popular",
+        "Country": "Peru",
+        "Tags": "local news",
+        "Favicon": "https://radioondapopular.pe/wp-content/themes/thonda8/favicon.ico",
+        "Language": "es",
+        "Homepage": "http://radioondapopular.pe/",
+        "Source1": "https://dattavolt.com/8278/stream?1634322652441"
+    },
+    {
+        "Title": "Onda Popular (Cajamarca)",
+        "Country": "Peru",
+        "Favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfioJ95glSW_OGppwxCSW_ochPL4VfBYBuuyDmc93heA&s=10",
+        "Homepage": "https://radioondapopular.com/",
+        "Latitude": -6.376915136491291,
+        "Longitude": -78.81697841580801,
+        "Source1": "https://envivo.top:8443/am"
+    },
+    {
+        "Title": "Ovación (620 AM)",
+        "Country": "Peru",
+        "Tags": "deportes,soccer news,sports news",
+        "Favicon": "https://ovacion.pe/sites/default/files/icono60x60.png",
+        "Language": "es",
+        "Homepage": "https://ovacion.pe/radio",
+        "Source1": "https://5c3fb01839654.streamlock.net:1963/ipradioovacion1/liveovacion1radio/playlist.m3u8"
+    },
+    {
+        "Title": "Ovación 620 AM",
+        "Country": "Peru",
+        "Tags": "sports",
+        "Favicon": "https://radiosperu.net/sites/default/files/radio/logos/logo-radio-ovacion.png",
+        "Homepage": "https://ovacion.pe/radio",
+        "Latitude": -12.307131471736984,
+        "Longitude": -77.05810546875001,
+        "Source1": "https://5c3fb01839654.streamlock.net:1963/ipradioovacion1/liveovacion1radio/playlist.m3u8"
+    },
+    {
+        "Title": "Panamericana Latino Refrescante",
+        "Country": "Peru",
+        "Tags": "00s,latin pop,musica latina",
+        "Favicon": "https://static.wikia.nocookie.net/tvpedia-peru/images/a/a7/Radio_Panamericana_Latino_Refrescante.jpg/revision/latest?cb=20240315142902&path-prefix=es",
+        "Language": "es",
+        "Homepage": "https://www.radiopanamericana.com/",
+        "Source1": "https://mdstrm.com/audio/6598b76c6c07d80644b7321f/icecast.audio"
+    },
+    {
+        "Title": "Panamericana Retro",
+        "Country": "Peru",
+        "Favicon": "https://i.postimg.cc/Vkwm7DS9/1000456472-(1).png",
+        "Homepage": "https://www.radiopanamericana.com/radio/retro-rock/",
+        "Source1": "https://pe-p1-p-e-xm11-audio.cdn.mdstrm.com/live-audio-aw/6598b728d982060896866b8a"
+    },
+    {
+        "Title": "Panamericana Retro Rock",
+        "Country": "Peru",
+        "Tags": "00s,80s,90s,classic rock,retro music,rock pop",
+        "Favicon": "https://static.wikia.nocookie.net/tvpedia-peru/images/2/2a/Radio_Panamericana_Retro_Rock.jpg/revision/latest?cb=20240315103233&path-prefix=es",
+        "Language": "en,es",
+        "Homepage": "https://www.radiopanamericana.com/",
+        "Source1": "https://mdstrm.com/audio/6598b728d982060896866b8a/icecast.audio"
+    },
+    {
+        "Title": "Panamericana Salsa Power",
+        "Country": "Peru",
+        "Tags": "classic salsa",
+        "Language": "es",
+        "Homepage": "https://www.radiopanamericana.com/",
+        "Source1": "https://mdstrm.com/audio/6598b751261d9e088a6deadd/icecast.audio"
+    },
+    {
+        "Title": "PBO Radio",
+        "Country": "Peru",
+        "Tags": "talk news",
+        "Language": "es",
+        "Homepage": "http://www.pboradio.com/",
+        "Latitude": -12.044357079255036,
+        "Longitude": -76.99218750000001,
+        "Source1": "http://n06.radiojar.com/2fse67zuv8hvv?1669054401=&rj-tok=AAABhJtuNOUAIi7Le3h5PA-2VA&rj-ttl=5"
+    },
+    {
+        "Title": "peru cumbia",
+        "Country": "Peru",
+        "Favicon": "https://estacionesfm.com/imgfm/imgfm/perucumbia_radio.png",
+        "Homepage": "https://perucumbiaradio.com/",
+        "Source1": "https://servistream.info:8330/stream"
+    },
+    {
+        "Title": "Peru folk radio",
+        "Country": "Peru",
+        "Favicon": "https://perufolkradio.com/wp-content/uploads/2020/06/cropped-pfr512-180x180.png",
+        "Homepage": "https://perufolkradio.com/",
+        "Latitude": -10.418667396622649,
+        "Longitude": -76.25187523268156,
+        "Source1": "https://raymistream.net/listen/perufolkradio/live"
+    },
+    {
+        "Title": "Peru Folk radio",
+        "Country": "Peru",
+        "Favicon": "https://i.postimg.cc/VkPf5xJY/images.png",
+        "Language": "es",
+        "Homepage": "https://onlineradiobox.com/pe/?cs=pe.perufolk&p=1&tzLoc=America%2FLima",
+        "Source1": "https://raymistream.net/listen/perufolkradio/live"
+    },
+    {
+        "Title": "Peruana Radio",
+        "Country": "Peru",
+        "Tags": "peruvian rock,rock peruano",
+        "Language": "es",
+        "Homepage": "http://peruanaradio.com/",
+        "Source1": "https://cloudstream2036.conectarhosting.com/8352/stream"
+    },
+    {
+        "Title": "Radio 100",
+        "Country": "Peru",
+        "Tags": "baladas,love songs,music",
+        "Favicon": "https://lh3.googleusercontent.com/a/ACg8ocL_1uvRG0coFZzBq2GeanZjb3D0E9yktATr2UnFV1qAmtdzOQ=s45-c",
+        "Language": "es",
+        "Homepage": "https://radio100tv.blogspot.com/",
+        "Source1": "https://cast6.asurahosting.com/proxy/xezar/;"
+    },
+    {
+        "Title": "Radio 1160 Peru",
+        "Country": "Peru",
+        "Tags": "musica variada",
+        "Homepage": "https://www.radio1160.com.pe/",
+        "Source1": "https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/6598b6e1261d9e088a6de859?aid=658ddcc0b2c7835d48fee06d&pid=G3FnIvg2s2uxHg1lIbLUlWa3cFT5KPBg&sid=XAAefdCCMC9B9MvNg9TwqdstYTKnk3li&uid=Nkdb2uczAeFQEIGw1fojci2BEYfd4Tye&es=us-b4-p-e-pb13-audio.cdn.mdstrm.com&ote=1711464716330&ot=YgiDR9HDtOJKN3UCFo0-xg&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&liveId=6598b6e1261d9e088a6de859&listenerId=Nkdb2uczAeFQEIGw1fojci2BEYfd4Tye"
+    },
+    {
+        "Title": "Radio 1550, La Radio Joven. Huancayo. 88.9 FM.",
+        "Country": "Peru",
+        "Tags": "rock,alternative,pop,latin pop,electronic,cumbia,latin,techno,música andina",
+        "Favicon": "https://radio1550.com/wp-content/uploads/2025/01/cropped-cropped-PWA-512X512-192x192.png",
+        "Language": "ES",
+        "Region": "PE-JUN",
+        "Homepage": "hthttps://radio1550.com/",
+        "Latitude": -12.06684959196267,
+        "Longitude": -75.2098046488924,
+        "Source1": "https://streaming.virtugo.digital:8002/stream"
+    },
+    {
+        "Title": "Radio 200 Bicentenario",
+        "Country": "Peru",
+        "Tags": "cultural,culture,radio comunitaria,various",
+        "Favicon": "https://static.wixstatic.com/media/f709c5_107a6ede03b9440aa4ed3f094385270e~mv2.png/v1/fill/w_100,h_76,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Recurso%201_3x.png",
+        "Language": "es",
+        "Homepage": "https://www.radio200b.com/",
+        "Source1": "https://stream.zeno.fm/wgs6m5ewe48uv"
+    },
+    {
+        "Title": "Radio A 94.9",
+        "Country": "Peru",
+        "Tags": "baladas,baladas en español,música del recuerdo",
+        "Favicon": "https://static2.mytuner.mobi/media/tvos_radios/065/radio-a-949-fm.c1838600.png",
+        "Homepage": "https://fmlima.com/radio-a/",
+        "Source1": "https://stream.zeno.fm/qxsaiqu7pn4tv"
+    },
+    {
+        "Title": "Radio A la radio del amor",
+        "Country": "Peru",
+        "Favicon": "https://i.postimg.cc/021vqgc2/Radio-A-La-Radio-del-Amor-29.png",
+        "Homepage": "https://emisoras.com.pe/2780-radio-a-la-radio-del-amor-949.htm",
+        "Source1": "https://stream-288.zeno.fm/qxsaiqu7pn4tv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxeHNhaXF1N3BuNHR2IiwiaG9zdCI6InN0cmVhbS0yODguemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImxqcElNWWxnVDZtYXZnbzV3aGZvTVEiLCJpYXQiOjE3Nzk0OTQ4MjksImV4cCI6MTc3OTQ5NDg4OX0.9X5_UkeAynh7irQeCXVCFUSmMddqNXjgAJMsLyQiMTk"
+    },
+    {
+        "Title": "Radio ABN (Lima)",
+        "Country": "Peru",
+        "Favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXEbY6hhZ1DFuPfJznKHz_NcgnhJR2Njk1A_mSoGo3Lw&s",
+        "Homepage": "https://envivo.abn.pe/",
+        "Latitude": -12.026770485682205,
+        "Longitude": -77.05631544091484,
+        "Source1": "https://jml-stream.com/radio/8000/radio.mp3"
+    },
+    {
+        "Title": "Radio Activa 93.7 FM Jaen",
+        "Country": "Peru",
+        "Favicon": "https://www.estacionesfm.com/imgfm/imgfm/comx9.jpg",
+        "Homepage": "https://www.sondondo.com/radio-activa-cajamarca.html",
+        "Source1": "https://sp.onliveperu.com/8108/stream"
+    },
+    {
+        "Title": "Radio Alegria - La Rompe",
+        "Country": "Peru",
+        "Favicon": "https://www.alegriaradio.com/images/webcard.png",
+        "Homepage": "http://www.alegriaradio.com/",
+        "Source1": "https://radio.sistemasandinos.org:10974/;stream"
+    },
+    {
+        "Title": "Radio Allpa Digital",
+        "Country": "Peru",
+        "Favicon": "https://allpadigital.exitovip.com/",
+        "Homepage": "https://allpadigital.exitovip.com/",
+        "Source1": "https://allpadigital.exitovip.com/"
+    },
+    {
+        "Title": "Radio Amo la Música",
+        "Country": "Peru",
+        "Tags": "rock clásico",
+        "Favicon": "https://www.wix.com/favicon.ico",
+        "Language": "es",
+        "Homepage": "https://radioamolamusica.wixsite.com/cusco",
+        "Source1": "http://stream.zeno.fm/aqmct15qmchvv"
+    },
+    {
+        "Title": "Radio Amor por Cable",
+        "Country": "Peru",
+        "Tags": "amor,baladas,baladas en español,music,musica romantica,pop,reggaeton,urbano",
+        "Favicon": "https://axcradio.com/radio/img/logo.png",
+        "Language": "es",
+        "Homepage": "https://axcradio.com/radio/",
+        "Source1": "https://conectperu.com:7111/;"
+    },
+    {
+        "Title": "Radio Andina Tarata",
+        "Country": "Peru",
+        "Tags": "local news",
+        "Homepage": "http://www.radioandinatarata.pe/",
+        "Source1": "http://sp.oyotunstream.com:8064/listen.pls"
+    },
+    {
+        "Title": "Radio Antena 5 Cusco 1600 AM (más que una Radio !)",
+        "Country": "Peru",
+        "Tags": "clasicos,cultural,entretenimiento,música en español e inglés,radio hablada,rock,rock en español",
+        "Favicon": "https://radioantena5cusco.pe/wp-content/uploads/2022/11/logo.png",
+        "Language": "es",
+        "Homepage": "https://radioantena5cusco.pe/",
+        "Source1": "https://stream.zeno.fm/pkvdsllgubgtv"
+    },
+    {
+        "Title": "Radio apurimeña la unica",
+        "Country": "Peru",
+        "Favicon": "https://i.imgur.com/eLLX2LF.png",
+        "Homepage": "https://onlineradiobox.com/pe/apurimena957/",
+        "Source1": "https://radio.perustream.com/8014/stream"
+    },
+    {
+        "Title": "Radio Armonía",
+        "Country": "Peru",
+        "Tags": "local radio",
+        "Favicon": "https://radioarmoniadigital.com/wp-content/uploads/2024/02/512-150x150.png",
+        "Language": "es",
+        "Homepage": "https://radioarmoniadigital.com/",
+        "Source1": "https://radio.sistemasandinos.org:10978/;"
+    },
+    {
+        "Title": "Radio Armonía Cristiana 94.9 FM (El Sonido Celestial)",
+        "Country": "Peru",
+        "Tags": "bible,cristiana,evangelio,gospel,pentecostal,religious",
+        "Favicon": "https://armoniacristiana.com/wp-content/uploads/2021/02/Armonia-Cristiana-1-1024x395.jpg",
+        "Language": "es",
+        "Homepage": "https://armoniacristiana.com/",
+        "Source1": "http://eu6.fastcast4u.com:5264/;"
+    },
+    {
+        "Title": "Radio Astoria Iquitos 94.9 FM",
+        "Country": "Peru",
+        "Tags": "cristiana,evangelio,gospel,religious",
+        "Favicon": "https://radioastoriaiquitos.com/wp-content/uploads/2025/01/head_mov-1024x259.png",
+        "Language": "es",
+        "Homepage": "https://radioastoriaiquitos.com/",
+        "Source1": "https://conectperu.com:7112/;"
+    },
+    {
+        "Title": "Radio Baladitas",
+        "Country": "Peru",
+        "Tags": "classical",
+        "Source1": "https://stream.zeno.fm/hf2gsfm1mp8uv"
+    },
+    {
+        "Title": "Radio Bambamarca 1020 AM - Cajamarca, Bambamarca",
+        "Country": "Peru",
+        "Homepage": "https://www.sondondo.com/radio-bambamarca-cajamarca.html",
+        "Latitude": -6.679921789284132,
+        "Longitude": -78.51952164497281,
+        "Source1": "https://envivo.top:8443/lider"
+    },
+    {
+        "Title": "Radio Camaná",
+        "Country": "Peru",
+        "Favicon": "https://radiocamana.com/favicon.png",
+        "Language": "es",
+        "Homepage": "https://radiocamana.com/",
+        "Latitude": -16.624933979550867,
+        "Longitude": -72.71157213426534,
+        "Source1": "https://das-edge15-live365-dal02.cdnstream.com/a68417"
+    },
+    {
+        "Title": "Radio Caramelo",
+        "Country": "Peru",
+        "Favicon": "https://radiocaramelo.com.pe/wp-content/uploads/2022/04/BANNER-SLIDER-WEB.gif",
+        "Homepage": "https://radiocaramelo.com.pe/",
+        "Source1": "https://panelautodj.innovatestream.pe:10857/stream"
+    },
+    {
+        "Title": "Radio Chalaca Callao",
+        "Country": "Peru",
+        "Tags": "merengue,salsa",
+        "Favicon": "https://radiochalaca.pe/wp-content/uploads/2024/01/perfil2024.png",
+        "Homepage": "https://radiochalaca.pe/",
+        "Latitude": -12.05223694765955,
+        "Longitude": -77.14839935302734,
+        "Source1": "https://conectperu.com/8084/stream"
+    },
+    {
+        "Title": "Radio Chalhuanca 97.7 fm",
+        "Country": "Peru",
+        "Favicon": "https://i.imgur.com/GHZWrl5.png",
+        "Homepage": "https://radiochalhuanca.com/",
+        "Source1": "https://radio.perustream.com/8030/stream"
+    },
+    {
+        "Title": "Radio Chocolate Rock & Pop",
+        "Country": "Peru",
+        "Homepage": "https://radiochocolateperu.com/",
+        "Source1": "https://stream.zeno.fm/g2w7ukzh64zuv"
+    },
+    {
+        "Title": "Radio Cielo online",
+        "Country": "Peru",
+        "Tags": "80s,adulto contemporáneo,world music",
+        "Favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7nfq2k4jzFGSUiGcQIqqBrHKjHfyqJA9IDHOvWXCIZw&s",
+        "Homepage": "https://radio-cielo.jimdofree.com/",
+        "Source1": "http://stream.zeno.fm/ernvqd641k8uv"
+    },
+    {
+        "Title": "Radio Clasica Rock&Pop",
+        "Country": "Peru",
+        "Favicon": "https://d1di2lzuh97fh2.cloudfront.net/files/1j/1j3/1j3767.ico?ph=d98415a4ea",
+        "Homepage": "https://radioclasicarockandpop.webnode.pe/",
+        "Source1": "https://sonicpanel.globalstream.pro/8042/stream"
+    },
+    {
+        "Title": "Radio Comas 101.7",
+        "Country": "Peru",
+        "Tags": "cumbia,música del recuerdo,reggaeton,salsa",
+        "Favicon": "https://cdn.instant.audio/images/logos/radios-com-pe/comas.png",
+        "Homepage": "https://radiocomas.com.pe/",
+        "Source1": "https://tupanel.info:7390/"
+    },
+    {
+        "Title": "Radio Concierto - FM 95.1",
+        "Country": "Peru",
+        "Homepage": "https://conciertofm.com/",
+        "Source1": "https://conectperu.com/8012/stream"
+    },
+    {
+        "Title": "Radio Conoden",
+        "Country": "Peru",
+        "Tags": "international",
+        "Source1": "http://stream.zeno.fm/wxpchhfw44zuv"
+    },
+    {
+        "Title": "RADIO CORAL 97.5 FM",
+        "Country": "Peru",
+        "Tags": "cumbia peruana",
+        "Homepage": "https://radiocoral100-7.webnode.page/",
+        "Latitude": -17.168912719793607,
+        "Longitude": -71.79641067981721,
+        "Source1": "https://maximacenterdata.com/8052/stream"
+    },
+    {
+        "Title": "Radio Corazón (94.3 FM Lima)",
+        "Country": "Peru",
+        "Tags": "baladas en español,musica romantica",
+        "Favicon": "https://eaudioplayer.radio-grpp.io/static/dist/img/favicons/apple-touch-icon.png?v=2016063020297",
+        "Language": "es",
+        "Homepage": "https://audioplayer.pe/corazon",
+        "Source1": "https://mdstrm.com/audio/5fada514fc16c006bd63370f/icecast.audio"
+    },
+    {
+        "Title": "Radio cultural Amauta",
+        "Country": "Peru",
+        "Tags": "cristiana,música,noticia",
+        "Favicon": "https://radioamautaperu.com/wp-content/uploads/2023/03/logoamauta.png",
+        "Language": "es,qu",
+        "Homepage": "https://radioamautaperu.com/",
+        "Latitude": -12.936753663974027,
+        "Longitude": -74.25270748644598,
+        "Source1": "https://cast5.asurahosting.com/proxy/radioamuta/stream"
+    },
+    {
+        "Title": "Radio Cumbia Mix",
+        "Country": "Peru",
+        "Tags": "corridos cumbia 70 80 varios,cumbia peruana,merengue,salsa,vallenato",
+        "Homepage": "https://radiocumbiamix.com/",
+        "Latitude": -12.09252558220927,
+        "Longitude": -77.0305833220482,
+        "Source1": "https://mdstrm.com/audio/6598b6ab95a235085823b24f/icecast.audio"
+    },
+    {
+        "Title": "Radio Cumbre",
+        "Country": "Peru",
+        "Tags": "local radio",
+        "Language": "es",
+        "Homepage": "https://radiocumbre.pe/",
+        "Source1": "https://stream.zeno.fm/t8b5cmybtd0uv"
+    },
+    {
+        "Title": "Radio Curahuasi 104.5 fm",
+        "Country": "Peru",
+        "Homepage": "https://onlineradiobox.com/pe/Apurimac-/?cs=pe.curahuasi",
+        "Source1": "https://radio.rtvstreaming.com/8028/stream"
+    },
+    {
+        "Title": "Radio Curahuasi 104.5 fm",
+        "Country": "Peru",
+        "Favicon": "https://i.postimg.cc/zBQvRw7M/images.png",
+        "Homepage": "https://www.facebook.com/radiocurahuasi/?locale=es_LA",
+        "Source1": "https://radio.rtvstreaming.com/8028/stream"
+    },
+    {
+        "Title": "Radio Cusco Legal la voz del pueblo",
+        "Country": "Peru",
+        "Favicon": "https://i.imgur.com/qZe25ls.png",
+        "Homepage": "https://www.raddios.com/16598-radio-online-radio-cusco-legal-online-cusco-peru",
+        "Source1": "https://stream-144.zeno.fm/ryrhxgus0wzuv"
+    },
+    {
+        "Title": "Radio Cutervo - Cajamarca, Cutervo",
+        "Country": "Peru",
+        "Favicon": "https://www.estacionesfm.com/imgfm/imgfm/fm_am_online_468.png",
+        "Homepage": "https://www.estacionesfm.com/pe/575/radio-cutervo",
+        "Source1": "https://panelautodj.innovatestream.pe:10938/stream"
+    },
+    {
+        "Title": "Radio del Amor",
+        "Country": "Peru",
+        "Tags": "baladas en español,contemporary,latin music,love songs,música romántica",
+        "Favicon": "https://fmlima.com/radio-del-amor/img/apple-touch-icon.png",
+        "Language": "es",
+        "Homepage": "https://fmlima.com/radio-del-amor/",
+        "Source1": "https://stream.zeno.fm/z7re4u64gd0uv"
+    },
+    {
+        "Title": "Radio Diamante",
+        "Country": "Peru",
+        "Tags": "easy listening,soft rock",
+        "Language": "en,es",
+        "Homepage": "https://radiodiamanteperu.com/",
+        "Source1": "https://stream.zeno.fm/8s6b3v091k8uv"
+    },
+    {
+        "Title": "radio Disney Perú",
+        "Country": "Peru",
+        "Tags": "pop",
+        "Homepage": "https://pe.radiodisney.com/",
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_PER_LMAAC.m3u8"
+    },
+    {
+        "Title": "Radio Ebenezer",
+        "Country": "Peru",
+        "Homepage": "https://ebenezertv.com/radio-ebenezer/",
+        "Source1": "https://strm.dal.s02.oneofthebest.org/listen/8090_radio_ebenezer/radio.mp3"
+    },
+    {
+        "Title": "Radio El Patron 95.7 FM - Cajamarca, San Miguel",
+        "Country": "Peru",
+        "Favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjOf54p8XLAtNxwLMFkfKVZjR_DRukJoSEh4CXaaqI_w&s=10",
+        "Homepage": "https://www.sondondo.com/radio-el-patron-cajamarca.html",
+        "Latitude": -6.999188270661748,
+        "Longitude": -78.85168206570034,
+        "Source1": "https://streaming.zonalatinaeirl.com:8010/radio"
+    },
+    {
+        "Title": "Radio Enmanuel Huaycán",
+        "Country": "Peru",
+        "Tags": "música y noticias,noticias",
+        "Homepage": "https://radioenmanuel.pe/",
+        "Latitude": -12.014064640255343,
+        "Longitude": -76.82630903583946,
+        "Source1": "https://conectperu.com/8220/stream"
+    },
+    {
+        "Title": "Radio Estacion Techno",
+        "Country": "Peru",
+        "Tags": "dance,electronica,techno",
+        "Language": "es",
+        "Homepage": "https://radioestaciontechno.com.pe/",
+        "Source1": "http://stream.zeno.fm/t3sqkau72rhvv"
+    },
+    {
+        "Title": "Radio Estrella Trujillo (102.7 Trujillo)",
+        "Country": "Peru",
+        "Tags": "generalist",
+        "Favicon": "http://img.sedoparking.com/templates/logos/sedo_logo.png",
+        "Language": "es",
+        "Homepage": "http://radioestrellaperu.com/Trujillo/",
+        "Source1": "https://radio.datahost.pe/9660/stream"
+    },
+    {
+        "Title": "Radio Exitosa",
+        "Country": "Peru",
+        "Tags": "news,noticias",
+        "Favicon": "https://statics.exitosanoticias.pe/exitosa/img/global/favicon.png",
+        "Language": "es",
+        "Homepage": "https://www.exitosanoticias.pe/",
+        "Source1": "https://neptuno-2-audio.mediaserver.digital/79525baf-b0f5-4013-a8bd-3c5c293c6561"
+    },
+    {
+        "Title": "Radio Exitosa 95.5 f.m",
+        "Country": "Peru",
+        "Favicon": "https://i.postimg.cc/m2ffp43g/logog.png",
+        "Homepage": "https://www.exitosanoticias.pe/",
+        "Source1": "https://neptuno-2-audio.mediaserver.digital/79525baf-b0f5-4013-a8bd-3c5c293c6561"
+    },
+    {
+        "Title": "Radio Exitosa 95.5 FM",
+        "Country": "Peru",
+        "Tags": "entretenimiento,news,noticias y deportes",
+        "Favicon": "https://imgur.com/a/BtfHnnf",
+        "Homepage": "https://www.exitosanoticias.pe/",
+        "Source1": "https://neptuno-2-audio.mediaserver.digital/79525baf-b0f5-4013-a8bd-3c5c293c6561"
+    },
+    {
+        "Title": "Radio Exitosa Noticias",
+        "Country": "Peru",
+        "Favicon": "https://upload.wikimedia.org/wikipedia/commons/4/49/Logoexitosa.png",
+        "Homepage": "https://www.exitosanoticias.pe/",
+        "Latitude": -12.051848074760064,
+        "Longitude": -77.02691566914383,
+        "Source1": "https://neptuno-2-audio.mediaserver.digital/79525baf-b0f5-4013-a8bd-3c5c293c6561"
+    },
+    {
+        "Title": "Radio Fantasía Iquitos 88.3",
+        "Country": "Peru",
+        "Homepage": "https://radiofantasiaiquitos.com/radio",
+        "Source1": "https://sp.oyotunstream.com:10943/stream?icy=http"
+    },
+    {
+        "Title": "Radio Felicidad 88.9",
+        "Country": "Peru",
+        "Favicon": "https://sportada.radio-grpp.io/felicidad/img/favicon_.ico?v=21072016786614",
+        "Homepage": "https://www.felicidad.com.pe/",
+        "Source1": "https://mdstrm.com/audio/5fad731fcf097a068af3c8f7/icecast.audio"
+    },
+    {
+        "Title": "Radio Fiesta 98",
+        "Country": "Peru",
+        "Tags": "musica latina,salsa",
+        "Language": "es",
+        "Homepage": "https://radiofiesta.com/",
+        "Source1": "http://s9.voscast.com:8496/;"
+    },
+    {
+        "Title": "Radio fiesta Mix",
+        "Country": "Peru",
+        "Tags": "música,noticia",
+        "Favicon": "https://www.estacionesfm.com/imgfm/imgfm/radio-fiesta-mix.png",
+        "Homepage": "https://www.radiofiestamixdehuanta.com/",
+        "Latitude": -12.938875962475414,
+        "Longitude": -74.24869816172695,
+        "Source1": "https://dattavolt.com:7128/stream"
+    },
+    {
+        "Title": "Radio frecuencia 100 - Trujillo",
+        "Country": "Peru",
+        "Tags": "variety",
+        "Language": "es",
+        "Homepage": "http://www.radio.frecuencia100fm.com/",
+        "Source1": "http://oyotunstream.com:7066/;"
+    },
+    {
+        "Title": "Radio Frecuencia Poder 103.9 FM - Cajamarca, San Pablo",
+        "Country": "Peru",
+        "Favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW2wPpWPJQPo3FcajjgOM3N-dnIADYG3_ZOPkwTBj95Q&s",
+        "Homepage": "https://www.radiosdelperu.com.pe/radio-frecuencia-poder",
+        "Latitude": -7.328754201286452,
+        "Longitude": -78.56027428856909,
+        "Source1": "https://conectperu.com/8384/stream"
+    },
+    {
+        "Title": "Radio Frecuencia Primera",
+        "Country": "Peru",
+        "Tags": "música variada,talk & speech",
+        "Language": "es",
+        "Homepage": "https://frecuenciaprimera.org/",
+        "Source1": "https://cast6.asurahosting.com/proxy/solfrecu/stream"
+    },
+    {
+        "Title": "Radio Fuego - Chiclayo, Lambayeque",
+        "Country": "Peru",
+        "Favicon": "https://www.estacionesfm.com/imgfm/imgfm/radio_fuego_4x4x4x.png",
+        "Homepage": "https://www.radiofuegofmchiclayo.com/",
+        "Latitude": -7.157897720480956,
+        "Longitude": -79.67425021324064,
+        "Source1": "https://sp.onliveperu.com/8128/stream"
+    },
+    {
+        "Title": "Radio Funky Hits",
+        "Country": "Peru",
+        "Tags": "disco,funk,soul",
+        "Language": "en,es",
+        "Homepage": "https://fmlima.com/funkyhits/",
+        "Source1": "https://stream-163.zeno.fm/57h4vyd5pf9uv"
+    },
+    {
+        "Title": "Radio Girasol",
+        "Country": "Peru",
+        "Tags": "local radio",
+        "Language": "es",
+        "Homepage": "https://radiogirasol.com/portal/girasol-piura-en-vivo/",
+        "Source1": "https://miradioperu.com/8008/stream"
+    },
+    {
+        "Title": "Radio Girasol Piura",
+        "Country": "Peru",
+        "Tags": "cumbia salsa tecno 70 80 baladas varios",
+        "Favicon": "https://cdn.instant.audio/images/logos/radios-com-pe/girasol-piura.png",
+        "Homepage": "https://www.radiogirasol.com/",
+        "Source1": "https://miradioperu.com:7009/"
+    },
+    {
+        "Title": "RADIO HUANCAYO",
+        "Country": "Peru",
+        "Homepage": "https://radiohuancayo.com.pe/",
+        "Source1": "https://cloud9.ldwebstudios.net:7000/stream"
+    },
+    {
+        "Title": "Radio Huancayo",
+        "Country": "Peru",
+        "Tags": "peruvian cumbia,pop music,raggaeton",
+        "Language": "es",
+        "Homepage": "https://www.radiohuancayo.com.pe/",
+        "Source1": "https://cloud9.ldwebstudios.net:7000/;"
+    },
+    {
+        "Title": "Radio Huanta 2000",
+        "Country": "Peru",
+        "Favicon": "https://radiohuanta2000.com/wp-content/uploads/2020/08/cropped-logoradio-scaled-2.jpg",
+        "Homepage": "https://radiohuanta2000.com/",
+        "Source1": "http://servistream.info:9152/stream",
+        "Source2": "https://servistream.info:9152/;stream.mp3"
+    },
+    {
+        "Title": "Radio Imperial 2 am",
+        "Country": "Peru",
+        "Favicon": "https://i.postimg.cc/tTKz31rk/1000456267-(1).png",
+        "Homepage": "https://imperial2am.com/",
+        "Source1": "https://sonic.dattassd.com:8220//"
+    },
+    {
+        "Title": "Radio inkafuego en vivo",
+        "Country": "Peru",
+        "Tags": "cumbia peruana",
+        "Favicon": "https://www.facebook.com/share/1AJQ9u5VTK/",
+        "Language": "es",
+        "Homepage": "https://radioinkafuegotv.blogspot.com/",
+        "Source1": "https://mediastreamm.com/8362/stream"
+    },
+    {
+        "Title": "RADIO INTIRAYMI DEL CUSCO 830 AM",
+        "Country": "Peru",
+        "Favicon": "http://radiointiraymi.com/images/cabecera1.gif",
+        "Homepage": "https://www.radiointiraymi.com/",
+        "Source1": "https://streamhotsperu.purosurfm.com:8150/intiraymi"
+    },
+    {
+        "Title": "Radio JHC 107.7 FM",
+        "Country": "Peru",
+        "Favicon": "https://radiojhc.com/favicon.ico",
+        "Language": "es",
+        "Homepage": "https://radiojhc.com/radio",
+        "Source1": "https://sp.oyotunstream.com:10979/;"
+    },
+    {
+        "Title": "Radio JR (88.7, Arequipa)",
+        "Country": "Peru",
+        "Tags": "classic music,local radio,rock",
+        "Homepage": "http://www.radiojrfm.com/",
+        "Source1": "https://tupanel.info:2000/stream/radiojr/stream"
+    },
+    {
+        "Title": "Radio Karicia",
+        "Country": "Peru",
+        "Tags": "local music",
+        "Favicon": "https://img.sedoparking.com/templates/logos/sedo_logo.png",
+        "Language": "es",
+        "Homepage": "https://kariciafm.com/",
+        "Source1": "https://shoutcast.tmcreativos.com/proxy/radiokar?mp=/stream"
+    },
+    {
+        "Title": "Radio La Cheverísima - Utcubamba",
+        "Country": "Peru",
+        "Favicon": "https://www.planetaradios.com/content/radios_fm/pr_126.png",
+        "Homepage": "http://www.radiolacheverisima.com/",
+        "Source1": "https://sp.onliveperu.com/8114/stream/;"
+    },
+    {
+        "Title": "Radio La Gloria Es De Dios",
+        "Country": "Peru",
+        "Favicon": "https://static2.mytuner.mobi/media/tvos_radios/037/la-gloria-de-dios-estereo.9476fd7d.jpg",
+        "Homepage": "https://bemoanesca57.wixsite.com/lagloriadediosstereo",
+        "Source1": "https://radio101.mjwebexperts.com/8006/stream"
+    },
+    {
+        "Title": "Radio La Inolvidable",
+        "Country": "Peru",
+        "Favicon": "https://www.oigo.com/lainolvidable/radioenvivo/",
+        "Homepage": "https://www.oigo.com/lainolvidable/radioenvivo/",
+        "Latitude": -12.035207328094106,
+        "Longitude": -77.08831787109376,
+        "Source1": "https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/6839e24cf4eacd81ada4e6b4/playlist.m3u8?listeningSessionID=6941574b117acc42_9248139_F598Qfgy_dXMtYjQtcC1lLWNnMTEtYXVkaW8uY2RuLm1kc3RybS5jb206ODAwMA!!_0000006JdQ0&downloadSessionID=0&aid=68386a6e44ba64f6064b25c9&property=aiir&pid=vCkzQt26xqyiEWEr9pFao3SUO1wP9Bnd&sid=0RirczdGkUi63O3paJYxUpGaICJcKwQT&uid=TXhvN1xWKOWgtYUFU85Lp8tMnho0BSiB&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1775224405820&ot=R750hnwZDEoPTrF6aUN4bA&proto=https&pz=us&cP=128000&awCollectionId=68386a6e44ba64f6064b25c9&aw_0_1st.playerId=aiir&liveId=6839e24cf4eacd81ada4e6b4&referer=https%3A%2F%2Fwww.oigo.com%2F&propertyName=aiir&propertyType=rss-app&listenerId=TXhvN1xWKOWgtYUFU85Lp8tMnho0BSiB"
+    },
+    {
+        "Title": "Radio La Mega",
+        "Country": "Peru",
+        "Tags": "cumbia,folklore,merengue,peruvian cumbia,sanjuanitos,tropical music",
+        "Favicon": "https://eaudioplayer.radio-grpp.io/static/dist/img/favicons/apple-touch-icon.png",
+        "Language": "es",
+        "Homepage": "https://audioplayer.pe/lamega",
+        "Source1": "https://mdstrm.com/audio/5fada56fe4e09508207a7951/icecast.audio"
+    },
+    {
+        "Title": "RADIO LA MEGA 96.7 FM (PERU)",
+        "Country": "Peru",
+        "Tags": "pop",
+        "Source1": "https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/5fada56fe4e09508207a7951?"
+    },
+    {
+        "Title": "Radio la Poderosa 98.2 FM _ Lima _ Perú",
+        "Country": "Peru",
+        "Homepage": "https://www.radiolapoderosa.tk/",
+        "Source1": "http://stream.zeno.fm/8dppgdapxneuv"
+    },
+    {
+        "Title": "Radio La tremenda",
+        "Country": "Peru",
+        "Favicon": "https://renewed-amaranth-wsrjzdvewp.edgeone.app/logo_latremenda.jpg",
+        "Homepage": "https://latremenda.pe/",
+        "Latitude": -12.096938487856214,
+        "Longitude": -77.03347206115724,
+        "Source1": "https://radio.latremenda.pe/X7K9F2M4P8Q1W3R5T6Y"
+    },
+    {
+        "Title": "Radio La Unika",
+        "Country": "Peru",
+        "Homepage": "http://radiolaunika.com/",
+        "Source1": "https://cloud9.ldwebstudios.net:7011/;"
+    },
+    {
+        "Title": "Radio La Vaca",
+        "Country": "Peru",
+        "Tags": "2000s,80s,90s,pop rock,rock",
+        "Favicon": "https://www.radiolavaca.com/assets/img/logo-f.png",
+        "Homepage": "https://www.radiolavaca.com/",
+        "Source1": "https://radio.streamingnacional.online/8168/stream"
+    },
+    {
+        "Title": "Radio La Voz del Nor Oriente - Utcubamba",
+        "Country": "Peru",
+        "Homepage": "http://www.radiolavozdelnororiente.com/",
+        "Source1": "https://sp.onliveperu.com:7038/;"
+    },
+    {
+        "Title": "Radio La Zona (90.5 FM, Lima)",
+        "Country": "Peru",
+        "Tags": "contemporary hits,juvenil,raggaeton,urban music",
+        "Language": "es",
+        "Homepage": "https://www.lazona.com.pe/",
+        "Source1": "https://mdstrm.com/audio/5fada54116646e098d97e6a5/icecast.audio"
+    },
+    {
+        "Title": "Radio La Zona Urbana",
+        "Country": "Peru",
+        "Tags": "latin pop,música urbana,reggaeton",
+        "Favicon": "https://cdn.instant.audio/images/logos/radios-com-pe/la-zona.png",
+        "Homepage": "https://www.lazona.com.pe/",
+        "Source1": "https://mdstrm.com/audio/5fada54116646e098d97e6a5/live.m3u8"
+    },
+    {
+        "Title": "Radio Latidos 94.7 FM (Huaral)",
+        "Country": "Peru",
+        "Tags": "local radio",
+        "Favicon": "https://www.radiolatidos.com/favicon.ico",
+        "Language": "es",
+        "Homepage": "https://www.radiolatidos.com/",
+        "Source1": "https://radio.pjcks.com/9944/stream"
+    },
+    {
+        "Title": "Radio Loreto",
+        "Country": "Peru",
+        "Tags": "local radio",
+        "Language": "es",
+        "Homepage": "https://radioloreto.com/",
+        "Source1": "https://sp.oyotunstream.com/8006/stream"
+    },
+    {
+        "Title": "radio los andes 99.5 fm",
+        "Country": "Peru",
+        "Tags": "variados",
+        "Favicon": "https://i.postimg.cc/kMtMVCmm/logo.jpg",
+        "Homepage": "https://radiolosandestv.com/",
+        "Source1": "https://sonic.dattassd.com:8190/stream"
+    },
+    {
+        "Title": "Radio Los Angeles - Chepen",
+        "Country": "Peru",
+        "Tags": "variety",
+        "Favicon": "http://1.bp.blogspot.com/-Dete3Wi505Y/UwTdaUlLFiI/AAAAAAAACII/YAmoBOMYujQ/w1200-h630-p-k-no-nu/radio-los-angeles-chepen.jpg",
+        "Language": "es",
+        "Homepage": "https://radiolosangeles.com.pe/",
+        "Source1": "http://94.23.159.187:9950/;"
+    },
+    {
+        "Title": "Radio Maria Peru (OAX-4M, 580 kHz AM / OBT-4Z 97.7 MHz FM, Lima)",
+        "Country": "Peru",
+        "Tags": "catholic,religion",
+        "Language": "es",
+        "Homepage": "https://www.radiomariaperu.org/",
+        "Source1": "http://dreamsiteradiocp4.com:8020/"
+    },
+    {
+        "Title": "Radio Matucana (102.9 FM, Lima)",
+        "Country": "Peru",
+        "Tags": "local radio",
+        "Favicon": "http://www.radiomatucana.com/favicon.ico",
+        "Language": "es",
+        "Homepage": "http://www.radiomatucana.com/",
+        "Source1": "http://radio.transmite.pe:9316/;"
+    },
+    {
+        "Title": "RADIO MAXIMA DEL PERU",
+        "Country": "Peru",
+        "Tags": "italodance,pop music,radio comunitaria",
+        "Homepage": "https://radio-maxima-fm.webnode.es/",
+        "Latitude": -16.411244943559947,
+        "Longitude": -71.52923047542573,
+        "Source1": "https://maxradio.azuracast.com.es/listen/radio_maxima/AQP.mp3"
+    },
+    {
+        "Title": "RADIO MEGA MIX 96.7 FM Perú",
+        "Country": "Peru",
+        "Homepage": "https://audioplayer.pe/megamix",
+        "Source1": "https://mdstrm.com/audio/5fada56fe4e09508207a7951/icecast.audio"
+    },
+    {
+        "Title": "Radio Mega Stelar - Cajamarca, Santa Cruz",
+        "Country": "Peru",
+        "Favicon": "https://www.estacionesfm.com/imgfm/imgfm/pr_com26.png",
+        "Homepage": "https://www.estacionesfm.com/",
+        "Latitude": -6.626623352340754,
+        "Longitude": -78.94315408304863,
+        "Source1": "https://sp.dattavolt.com:7080/;"
+    },
+    {
+        "Title": "Radio Megamix Lima",
+        "Country": "Peru",
+        "Tags": "cumbia peruana,reggaeton,salsa",
+        "Favicon": "https://static.mytuner.mobi/media/tvos_radios/235/la-mega-967-fm.a5807baf.png",
+        "Language": "es",
+        "Homepage": "https://audioplayer.pe/megamix",
+        "Latitude": -12.053065841807378,
+        "Longitude": -77.03681945800783,
+        "Source1": "https://mdstrm.com/audio/5fada56fe4e09508207a7951/live.m3u8"
+    },
+    {
+        "Title": "Radio Melodia FM",
+        "Country": "Peru",
+        "Language": "es",
+        "Homepage": "https://radiomelodia.com.pe/envivofm",
+        "Latitude": -16.448729750939528,
+        "Longitude": -71.53198242187501,
+        "Source1": "https://stream.radiomelodia.com.pe:8000/radio.mp3"
+    },
+    {
+        "Title": "Radio metropolitana Arequipa",
+        "Country": "Peru",
+        "Tags": "noticias,noticias opinion",
+        "Homepage": "https://metropolitana995.webnode.pe/",
+        "Latitude": -16.498134821071023,
+        "Longitude": -71.7010588781296,
+        "Source1": "https://maximacenterdata.com/8120/stream"
+    },
+    {
+        "Title": "Radio Milenium - Bagua Grande",
+        "Country": "Peru",
+        "Homepage": "https://www.mileniumradiofm.com/",
+        "Source1": "https://sp.onliveperu.com/8102/stream"
+    },
+    {
+        "Title": "Radio Moyobamba",
+        "Country": "Peru",
+        "Tags": "amazonian cumbia,cumbia amazónica,cumbia peruana,peruvian cumbia",
+        "Favicon": "https://radio.moyobamba.com/img/logo.png",
+        "Language": "es",
+        "Homepage": "https://radio.moyobamba.com/",
+        "Source1": "https://radioconector.com:7005/stream"
+    },
+    {
+        "Title": "Radio Mágica 88.3 FM",
+        "Country": "Peru",
+        "Favicon": "https://mmo.aiircdn.com/766/64637f9984614.png",
+        "Language": "en",
+        "Homepage": "https://www.radiomagica.pe/",
+        "Source1": "https://pe-p1-p-e-xm2-audio.cdn.mdstrm.com/live-audio-aw/6839e28eb3fdc597ac2e2e43?aid=68386a6e44ba64f6064b25c9&amp;pid=feTbRIuYIYCrMwO4fNUTwX6cqyUl3MUo&amp;sid=JkMZvIkbbH8f017OQm8BN32kAZ8TPYUI&amp;uid=HGunCsyBd0aMB34Mc7RhEkRXBlaSib3u&amp;es=pe-p1-p-e-xm2-audio.cdn.mdstrm.com&amp;ote=1767062598351&amp;ot=f8MpWy_qc1rzl0h33cbq6g&amp;proto=https&amp;pz=us&amp;cP=128000&amp;awCollectionId=68386a6e44ba64f6064b25c9&amp;liveId=6839e28eb3fdc597ac2e2e43&amp;listenerId=HGunCsyBd0aMB34Mc7RhEkRXBlaSib3u"
+    },
+    {
+        "Title": "Radio Mía 99.5 FM - Cajamarca, San Miguel",
+        "Country": "Peru",
+        "Favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS56X_03e5Llt1yPDv9p9gOdKkJphVjGe_BwmITzuOvLg&s",
+        "Homepage": "https://www.sondondo.com/radio-mia-cajamarca.html",
+        "Latitude": -7.004828380261142,
+        "Longitude": -78.85412503619364,
+        "Source1": "https://streaming.zonalatinaeirl.com:8020/radio"
+    },
+    {
+        "Title": "Radio Nacional del Perú",
+        "Country": "Peru",
+        "Tags": "nacional,national,news,noticias",
+        "Favicon": "https://www.radionacional.gob.pe/sites/all/themes/stability/stability_sub/favicon.ico",
+        "Language": "es",
+        "Homepage": "https://www.radionacional.gob.pe/",
+        "Latitude": -12.045359125955764,
+        "Longitude": -77.03390121459961,
+        "Source1": "https://cdnhd.iblups.com/hls/0773874174fd4eba8bb9eff741d190dc.m3u8"
+    },
+    {
+        "Title": "Radio Nor Andina 101.9 MHz FM - Cajamarca, Celendín",
+        "Country": "Peru",
+        "Favicon": "https://cdn.onlineradiobox.com/img/l/5/128875.v6.png",
+        "Homepage": "https://onlineradiobox.com/pe/norandina/",
+        "Latitude": -6.5573179690286025,
+        "Longitude": -78.648340932501,
+        "Source1": "https://mediastreamm.com/8012/stream/1/"
+    },
+    {
+        "Title": "Radio Nova",
+        "Country": "Peru",
+        "Tags": "peruvian cumbia",
+        "Language": "es",
+        "Homepage": "https://www.radionova.com/",
+        "Latitude": -10.273233091693744,
+        "Longitude": -74.21318436875299,
+        "Source1": "https://panel.innovatestream.pe:10989/stream"
+    },
+    {
+        "Title": "Radio Nova peru",
+        "Country": "Peru",
+        "Tags": "musica tropical",
+        "Favicon": "https://i0.wp.com/radionova.pe/wp-content/uploads/2022/08/cropped-LOGO-4-2048x1365-11.png?fit=500%2C226&ssl=1",
+        "Homepage": "https://radionova.pe/",
+        "Source1": "https://panel.innovatestream.pe:10990/undefined"
+    },
+    {
+        "Title": "Radio Nova Prime",
+        "Country": "Peru",
+        "Favicon": "https://scontent.flim12-1.fna.fbcdn.net/v/t39.30808-6/360103448_6491695274245785_3147775409653632097_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeGiolAuoifIvsnTi4-QjVsDWtIHrOpHGf5a0ges6kcZ_viNTOpjpFmsAfzghzLwDa-uosQPRyMJpYyxM4fDUfsH&_nc_ohc=sT1aCeew0rUQ7kNvgG32CG9&_nc_oc=AdhWD-HMp9-MhZ15Y0kqGUymb85yY8NP8ZtrS1NtyoQfjfwOc0Q-l9CYUEh8dScS40y_AJiCyHL-U5vvcwtZYirl&_nc_zt=23&_nc_ht=scontent.flim12-1.fna&_nc_gid=AWzRwYeIj_D67WxuU5bmC5-&oh=00_AYDXgLRU8Cig2Brlgu5_gdZn9QH33y52_LpX_VJ_aOYtPA&oe=677954C3",
+        "Homepage": "https://sites.google.com/view/corporacion-radial-julca-fm/radio-nova-prime",
+        "Latitude": -10.779980843251138,
+        "Longitude": -77.68295288085939,
+        "Source1": "https://stream.zeno.fm/dredth2tsqtuv"
+    },
+    {
+        "Title": "Radio Onda Cero",
+        "Country": "Peru",
+        "Tags": "urban contemporary,urban music",
+        "Favicon": "https://www.ondacero.com.pe/favicon.ico",
+        "Language": "es",
+        "Homepage": "https://www.ondacero.com.pe/",
+        "Source1": "https://mdstrm.com/audio/5fada54116646e098d97e6a5/icecast.audio"
+    },
+    {
+        "Title": "Radio Onda Popular (Juliaca)",
+        "Country": "Peru",
+        "Favicon": "https://static.mytuner.mobi/media/tvos_radios/s2btna8x23rw.png",
+        "Homepage": "https://radioondapopular.pe/",
+        "Latitude": -15.928751476312517,
+        "Longitude": -70.01392899473329,
+        "Source1": "https://dattavolt.com/8278/stream"
+    },
+    {
+        "Title": "Radio Ondas del Huallaga",
+        "Country": "Peru",
+        "Tags": "variado",
+        "Language": "es",
+        "Homepage": "http://www.radioondasdelhuallaga.com/",
+        "Source1": "https://cloud9.ldwebstudios.net:7005/;"
+    },
+    {
+        "Title": "Radio Oxígeno",
+        "Country": "Peru",
+        "Tags": "música,pop,rock",
+        "Favicon": "https://graph.facebook.com/RadioOxigenoFM/picture?width=200&height=200",
+        "Language": "es",
+        "Homepage": "https://www.oxigeno.com.pe/",
+        "Latitude": -12.059734670097,
+        "Longitude": -77.04711914062501,
+        "Source1": "https://mdstrm.com/audio/5fab0687bcd6c2389ee9480c/live.m3u8"
+    },
+    {
+        "Title": "Radio Pampa Yurac 90.1 FM - Pucallpa, Ucayali, Aguaytia",
+        "Country": "Peru",
+        "Favicon": "https://www.estacionesfm.com/imgfm/imgfm/Radio__Pampa_Yupac_FM__Ucayali.png",
+        "Homepage": "https://www.sondondo.com/radio-pampa-yurac-ucayali.html",
+        "Latitude": -9.374044774006926,
+        "Longitude": -73.86490427873872,
+        "Source1": "https://rr5200.globalhost1.com/8242/stream"
+    },
+    {
+        "Title": "Radio Panamericana",
+        "Country": "Peru",
+        "Tags": "90s salsa,latin salsa,salsa",
+        "Favicon": "https://static-media.streema.com/media/cache/88/74/8874c7e02e56f56b4d18607b234c95ba.jpg",
+        "Language": "es",
+        "Homepage": "https://www.radiopanamericana.com/",
+        "Source1": "https://mdstrm.com/audio/6598b62dded1380470f4e539/icecast.audio"
+    },
+    {
+        "Title": "Radio Perú Andino",
+        "Country": "Peru",
+        "Favicon": "https://i.postimg.cc/zfLJVqqw/logo.png",
+        "Homepage": "https://onlineradiobox.com/pe/peruandino/?cs=pe.peruandino",
+        "Source1": "https://stream-175.zeno.fm/sv5a3s8waxtuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzdjVhM3M4d2F4dHV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkVKSEZqaVFoUUxLdmNXNVJwel94WkEiLCJpYXQiOjE3Nzk2MDIwMzcsImV4cCI6MTc3OTYwMjA5N30.ZoeD-FPRM0sxxpAfj2yfPJvTVHmf8SXrdESE_EcPdIg"
+    },
+    {
+        "Title": "Radio Pirata 97.7 tu radio retro",
+        "Country": "Peru",
+        "Tags": "alternative rock",
+        "Favicon": "https://i.imgur.com/LYPXqYR.jpeg",
+        "Homepage": "https://www.facebook.com/profile.php?id=100049736869387&sk=reels_tab",
+        "Source1": "https://panel.innovatestream.pe:10995/stream"
+    },
+    {
+        "Title": "Radio Planeta",
+        "Country": "Peru",
+        "Tags": "musica en ingles",
+        "Favicon": "https://static.mytuner.mobi/media/radios-150px/983/radio-planeta.cdb39ceb.png",
+        "Homepage": "https://www.radiosdelperu.com.pe/radio-planeta",
+        "Source1": "https://us-b4-p-e-jn18-audio.cdn.mdstrm.com/live-audio-aw/6839e274f40e6b9832e37633?aid=68386a6e44ba64f6064b25c9&pid=XCjk5jKHdZ70qhEDSmxLOrt4Wt4uFB3w&sid=vpseitxdPyRFvFeuL2tdzKVAaDfHpwnl&uid=G1y8SsWzwRbxxrlV6zfVsIuXp0yaVbCM&es=us-b4-p-e-jn18-audio.cdn.mdstrm.com&ote=1786742777112&ot=ZfUrOwFwCXCkowILFIRcSw&proto=https&pz=us&cP=128000&awCollectionId=68386a6e44ba64f6064b25c9&liveId=6839e274f40e6b9832e37633&referer=https%3A%2F%2Fwww.radiosdelperu.com.pe%2F&listenerId=G1y8SsWzwRbxxrlV6zfVsIuXp0yaVbCM"
+    },
+    {
+        "Title": "Radio Positiva Tacna",
+        "Country": "Peru",
+        "Homepage": "https://www.radiopositiva.pe/?m=1",
+        "Latitude": -18.014859566941222,
+        "Longitude": -70.25594834709113,
+        "Source1": "http://sp.oyotunstream.com:8034/"
+    },
+    {
+        "Title": "Radio Recuerdos",
+        "Country": "Peru",
+        "Favicon": "https://i.postimg.cc/rs9cTYcn/images-(1).png",
+        "Homepage": "https://onlineradiobox.com/pe/?cs=pe.recuerdos&p=3&tzLoc=America%2FLim",
+        "Source1": "https://stream-286.zeno.fm/643hhcgv968uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2NDNoaGNndjk2OHV2IiwiaG9zdCI6InN0cmVhbS0yODYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkVfOGZsWFBOUzJXTkZSWEM5UTdDREEiLCJpYXQiOjE3Nzk2NzA1NDgsImV4cCI6MTc3OTY3MDYwOH0.tTeYSTx_tZP9C98Txk31C6NJg1X4Ial5FK9GQoGkuYs"
+    },
+    {
+        "Title": "Radio Retro",
+        "Country": "Peru",
+        "Tags": "80s,90s",
+        "Language": "es",
+        "Homepage": "https://www.siempreretro.com/",
+        "Latitude": -18.022617253378066,
+        "Longitude": -70.26855468750001,
+        "Source1": "https://stream2.eistreaming.com/7068/stream"
+    },
+    {
+        "Title": "Radio Ritmo Romántica",
+        "Country": "Peru",
+        "Tags": "baladas",
+        "Favicon": "https://static.mytuner.mobi/media/radios-150px/567/radio-ritmo-romantica.e8e292c5.png",
+        "Homepage": "https://www.radiosdelperu.com.pe/radio-ritmo-romantica",
+        "Source1": "https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/6839e2376607bdf6b2fcde27?aid=68386a6e44ba64f6064b25c9&pid=YQeaeSlag6v2H3vMjcaXlG6JY5aPlYRL&sid=vpseitxdPyRFvFeuL2tdzKVAaDfHpwnl&uid=G1y8SsWzwRbxxrlV6zfVsIuXp0yaVbCM&es=us-b4-p-e-qg12-audio.cdn.mdstrm.com&ote=1786742603697&ot=1qSp-a_aaCMF2DG_fcOxUQ&proto=https&pz=us&cP=128000&awCollectionId=68386a6e44ba64f6064b25c9&liveId=6839e2376607bdf6b2fcde27&referer=https%3A%2F%2Fwww.radiosdelperu.com.pe%2F&listenerId=G1y8SsWzwRbxxrlV6zfVsIuXp0yaVbCM"
+    },
+    {
+        "Title": "Radio Románticas Inolvidables (FMLima)",
+        "Country": "Peru",
+        "Tags": "baladas en español,bolero,love songs,soft music",
+        "Favicon": "https://i.imgur.com/JG1kYZ7.png",
+        "Language": "es",
+        "Homepage": "https://inolvidable.fmlima.com/",
+        "Source1": "https://stream.zeno.fm/6m1ba7yt3vduv"
+    },
+    {
+        "Title": "Radio RPP Mundial",
+        "Country": "Peru",
+        "Tags": "soccer",
+        "Favicon": "https://eaudioplayer.radio-grpp.io/static/dist/img/favicons/apple-touch-icon.png",
+        "Language": "es",
+        "Homepage": "https://audioplayer.pe/mundial",
+        "Source1": "https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/5faee885eb830d06cf22ed4a"
+    },
+    {
+        "Title": "Radio RPP Noticias",
+        "Country": "Peru",
+        "Favicon": "https://mds.rpp-noticias.io/static/img/favicons/apple-touch-icon-120x120.png",
+        "Homepage": "https://rpp.pe/audio/",
+        "Source1": "https://mdstrm.com/audio/5fab3416b5f9ef165cfab6e9/icecast.audio"
+    },
+    {
+        "Title": "Radio Rumbo Huancayo",
+        "Country": "Peru",
+        "Tags": "electronica,pop en español e inglés",
+        "Favicon": "https://cdn.instant.audio/images/logos/radios-com-pe/rumbo.png",
+        "Homepage": "https://radiorumbo.com.pe/",
+        "Source1": "https://mediastreamm.com/8008/stream"
+    },
+    {
+        "Title": "Radio Salkantay",
+        "Country": "Peru",
+        "Favicon": "https://radiosalkantaycusco.com/",
+        "Homepage": "https://radiosalkantaycusco.com/",
+        "Latitude": -14.363350796926571,
+        "Longitude": -71.53198242187501,
+        "Source1": "https://stream.radiosalkantaycusco.com/7662/stream"
+    },
+    {
+        "Title": "Radio Salsa Peru",
+        "Country": "Peru",
+        "Tags": "salsa,salsa colombiana",
+        "Favicon": "https://static.mytuner.mobi/media/tvos_radios/594/radio-salsa-peru.de606443.jpg",
+        "Homepage": "https://zeno.fm/radio/salsa-radio07nq11g3teruv/",
+        "Source1": "https://stream.zeno.fm/f19941g3teruv"
+    },
+    {
+        "Title": "Radio San Martin - Arequipa",
+        "Country": "Peru",
+        "Favicon": "http://radiosanmartin.pe/wp-content/uploads/2019/08/cropped-radio-san-martin80.png",
+        "Homepage": "http://radiosanmartin.pe/",
+        "Source1": "https://conectperu.com:7020/stream?icy=http"
+    },
+    {
+        "Title": "Radio San Martín",
+        "Country": "Peru",
+        "Tags": "local news",
+        "Favicon": "http://radiosanmartin.pe/wp-content/uploads/2019/08/cropped-radio-san-martin-icon-1-180x180.png",
+        "Language": "es",
+        "Homepage": "http://radiosanmartin.pe/radio-en-linea/",
+        "Source1": "https://conectperu.com:7020/stream?icy=http"
+    },
+    {
+        "Title": "Radio Santa Lucía 93.7 FM",
+        "Country": "Peru",
+        "Favicon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiMEdcXWtLO4DGBdW_LIMHqVaL_yhgGRJszekO7BS5zPPfCt0Q_LfhZusdQzh5w3aQ9gNmXJN0_9ZK4_UZVbTD3T5UHiXkdK3Qk3paZXHm6FGmALGB8aL62sYQczqXcVlo1xKiw_gPy1RomglMegNR3gxGy2OAjChTx1X-tsOFLj12nw0Cs3dZ-oa1VTg/s320/radio-santa-lucia.png",
+        "Homepage": "https://www.sondondo.com/radio-santa-lucia-cajamarca.html",
+        "Latitude": -5.707678222158417,
+        "Longitude": -78.80793819852208,
+        "Source1": "https://sp.dattavolt.com/8014/stream"
+    },
+    {
+        "Title": "Radio Santa Rosa",
+        "Country": "Peru",
+        "Favicon": "https://radiosantarosa.com.pe/wp-content/uploads/2026/05/1-logo-radio-tv.jpg",
+        "Homepage": "https://radiosantarosa.com.pe/",
+        "Source1": "https://conectperu.com/8256/stream"
+    },
+    {
+        "Title": "Radio Satélite (100.7 FM, Callao)",
+        "Country": "Peru",
+        "Tags": "music,música variada",
+        "Favicon": "https://radiosatelite.pe/wp-content/uploads/2024/01/cropped-logo_app-1-180x180.png",
+        "Language": "es",
+        "Homepage": "https://radiosatelite.pe/",
+        "Source1": "https://conectperu.com/8166/stream"
+    },
+    {
+        "Title": "Radio Sensacion Chosica",
+        "Country": "Peru",
+        "Tags": "cumbia,cumbia peruana,peru,salsa",
+        "Homepage": "https://tunein.com/radio/Radio-Sensaci%C3%B3n-(Chosica)-977-s153035/",
+        "Source1": "https://conectperu.com:8218/stream"
+    },
+    {
+        "Title": "Radio Shack Music",
+        "Country": "Peru",
+        "Tags": "hits,musica latina,pop",
+        "Language": "es",
+        "Homepage": "https://radioshackmusic.pe/",
+        "Source1": "https://c30.radioboss.fm:18415/stream"
+    },
+    {
+        "Title": "Radio SinPatrones",
+        "Country": "Peru",
+        "Homepage": "https://radiosinpatrones.com/",
+        "Source1": "https://panelautodj.innovatestream.pe:10685/"
+    },
+    {
+        "Title": "RADIO SINPATRONES (AREQUIPA)",
+        "Country": "Peru",
+        "Tags": "alternative,musica popular,noticias",
+        "Favicon": "https://radiosinpatrones.com/wp-content/uploads/2024/11/cropped-logo-192x192.png",
+        "Homepage": "https://radiosinpatrones.com/",
+        "Latitude": -16.391082404701184,
+        "Longitude": -71.51902735233308,
+        "Source1": "https://panelautodj.innovatestream.pe:10685/"
+    },
+    {
+        "Title": "Radio SinPatrones (Valle de Tambo)",
+        "Country": "Peru",
+        "Tags": "alternative,folclor,meditation",
+        "Favicon": "https://radiosinpatrones.com/wp-content/uploads/2024/11/cropped-logo-192x192.png",
+        "Homepage": "https://radiosinpatrones.com/",
+        "Latitude": -17.140560917910157,
+        "Longitude": -71.82086974382402,
+        "Source1": "https://panelautodj.innovatestream.pe:10685/"
+    },
+    {
+        "Title": "Radio Sol De Los Andes",
+        "Country": "Peru",
+        "Favicon": "https://radiosoldelosandes.com.pe/wp-content/uploads/2025/03/ele10-min.png",
+        "Homepage": "https://www.radiosoldelosandes.com.pe/",
+        "Source1": "https://cloudstream2036.conectarhosting.com/8036/stream"
+    },
+    {
+        "Title": "Radio Stereo 99 - Bagua Grande",
+        "Country": "Peru",
+        "Favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVRfygMjnyEyIWRB0IRMcXCnYl6XB5J4RvzeZMA67Aop7bzXMq_zlON88JR9yHdy6KtJ4&usqp=CAU",
+        "Homepage": "http://radiostereo99baguagrande.com/",
+        "Source1": "https://sechin.grupocentroserver.com/radio/8300/radio.mp3"
+    },
+    {
+        "Title": "Radio Stereo G La Grande - Rodriguez de Mendoza",
+        "Country": "Peru",
+        "Favicon": "https://play-lh.googleusercontent.com/hBaqItD1qGf6eAHb53-F8X3ySKs5n0pvMj0-wlFOk6cbk3y31UGWBAdGJZn_vBB0xs4",
+        "Homepage": "http://stereoglagrande.blogspot.com/",
+        "Source1": "https://dattavolt.com/8138/stream"
+    },
+    {
+        "Title": "Radio Stereo TV",
+        "Country": "Peru",
+        "Tags": "peruvian cumbia,pop music",
+        "Language": "es",
+        "Homepage": "https://radiostereotv.com/radio",
+        "Source1": "https://sp.onliveperu.com/8098/stream"
+    },
+    {
+        "Title": "Radio Studio 97",
+        "Country": "Peru",
+        "Language": "es",
+        "Homepage": "http://www.studio97.com.pe/",
+        "Source1": "https://sechin.grupocentroserver.com/radio/8140/radio.mp3"
+    },
+    {
+        "Title": "Radio Super Pucallpa",
+        "Country": "Peru",
+        "Tags": "clasicos en ingles,música variada,pop",
+        "Favicon": "https://static-media.streema.com/media/cache/73/b2/73b2e776d7ead5c171adc9778120a0e2.jpg",
+        "Homepage": "https://radiusac.pe/",
+        "Source1": "https://sechin.grupocentroserver.com/listen/mi_super_radio/radio.mp3"
+    },
+    {
+        "Title": "Radio Synthpop",
+        "Country": "Peru",
+        "Homepage": "https://radiosynthpop.com/",
+        "Source1": "https://radio.blueditor.com/8250/stream;"
+    },
+    {
+        "Title": "RADIO TRINIDAD 1070 AM",
+        "Country": "Peru",
+        "Tags": "folclore,folk music,local information,neofolk",
+        "Homepage": "https://onlineradiobox.com/pe/trinidad1070/?cs=pe.trinidad1070&played=1",
+        "Latitude": -16.397781691994787,
+        "Longitude": -71.52576774358751,
+        "Source1": "https://maximacenterdata.com/8056/stream"
+    },
+    {
+        "Title": "Radio Tropical Tarapoto",
+        "Country": "Peru",
+        "Favicon": "https://radiotropical.pe/wp-content/uploads/2020/08/logo-png-fondo-blanco.jpg",
+        "Homepage": "https://radiotropical.pe/",
+        "Source1": "https://shoutcast.tmcreativos.com/proxy/radiotropical?mp=/stream"
+    },
+    {
+        "Title": "Radio Turbo Master - Cajamarca, Santa Cruz",
+        "Country": "Peru",
+        "Favicon": "https://radioturbomaster.com/wp-content/uploads/2021/11/admin-ajax-1-1-2.png",
+        "Homepage": "https://radioturbomaster.com/",
+        "Source1": "https://radio.livestreamingmundial.com:7045/stream"
+    },
+    {
+        "Title": "Radio TV. Sureña (Puno, Juliaca)",
+        "Country": "Peru",
+        "Favicon": "https://cdn.radoxo.com/images/peru/radio-tv-surena.webp?v=1785967202",
+        "Homepage": "https://emisoras.com.pe/65935-radio-tv-surena.html",
+        "Latitude": -15.410166123762828,
+        "Longitude": -70.07795068775562,
+        "Source1": "https://stream.zeno.fm/p7d5fpx4xnhvv"
+    },
+    {
+        "Title": "Radio TV. Sureña - Puno, Juliaca",
+        "Country": "Peru",
+        "Favicon": "https://cdn.radoxo.com/images/peru/radio-tv-surena.webp?v=1785967202",
+        "Homepage": "https://emisoras.com.pe/65935-radio-tv-surena.html",
+        "Latitude": -15.488133719009069,
+        "Longitude": -70.14098446067156,
+        "Source1": "https://stream.zeno.fm/p7d5fpx4xnhvv"
+    },
+    {
+        "Title": "Radio Un Hueco en el Espacio",
+        "Country": "Peru",
+        "Tags": "classic rock oldies",
+        "Favicon": "https://i.imgur.com/2OquMk0.png",
+        "Language": "es",
+        "Homepage": "https://unhuecoenelespacio.wixsite.com/radio",
+        "Source1": "https://cloudstream2032.conectarhosting.com/8106/stream"
+    },
+    {
+        "Title": "RADIO UNICAR",
+        "Country": "Peru",
+        "Tags": "classic rock,club dance electronic house trance,italo disco",
+        "Homepage": "https://unicar.com/",
+        "Latitude": -16.3984609918257,
+        "Longitude": -71.5089073777199,
+        "Source1": "https://maximacenterdata.com/8086/stream"
+    },
+    {
+        "Title": "Radio Urbana (Caraz - Ancash Peru)",
+        "Country": "Peru",
+        "Tags": "noticias,reggaeton",
+        "Language": "es",
+        "Homepage": "https://radiourbana.com.pe/",
+        "Source1": "https://144.76.202.93:10905/"
+    },
+    {
+        "Title": "Radio victor music Perú",
+        "Country": "Peru",
+        "Tags": "variado",
+        "Favicon": "https://imgur.com/VKVlg1N.png",
+        "Homepage": "https://www.victormusic.online/",
+        "Latitude": -15.775554920886137,
+        "Longitude": -72.38707300790813,
+        "Source1": "https://stream-149.zeno.fm/wymz9unt88quv?zs=j57_3aS2T--Zd_IslHw07A"
+    },
+    {
+        "Title": "Radio Xtrema - Chachapoyas",
+        "Country": "Peru",
+        "Homepage": "http://zeno.fm/radio/radio-xtrema/",
+        "Source1": "https://stream.zeno.fm/ktk1db7xywzuv"
+    },
+    {
+        "Title": "RADIO YARAVI",
+        "Country": "Peru",
+        "Homepage": "https://www.radioyaravi.org.pe/",
+        "Source1": "https://tupanel.info/stream/radioyaravi/stream"
+    },
+    {
+        "Title": "Radio Yaraví",
+        "Country": "Peru",
+        "Tags": "community radio,local news",
+        "Language": "es",
+        "Homepage": "https://www.radioyaravi.org.pe/",
+        "Source1": "https://tupanel.info/stream/radioyaravi/stream"
+    },
+    {
+        "Title": "Radiomar",
+        "Country": "Peru",
+        "Homepage": "https://radiomar.pe/",
+        "Source1": "https://mdstrm.com/audio/6839e261d2efddf5bfbc2d3d/live.m3u8",
+        "Source2": "https://mdstrm.com/audio/6839e261d2efddf5bfbc2d3d/live.m3u8?property=aiir"
+    },
+    {
+        "Title": "RadioMix AQP (Dj Ethamx)",
+        "Country": "Peru",
+        "Tags": "12\",alternative pop,dj mixes,pop dance,pop rock,techno",
+        "Favicon": "https://i.imgur.com/2EGfhhh.png",
+        "Language": "en",
+        "Homepage": "https://aqpvirtual.wixsite.com/aqpradios",
+        "Source1": "https://stream-174.zeno.fm/qa5aurigvoivv"
+    },
+    {
+        "Title": "RadioMix AQP Rock-Pop en Español (Dj Ethamx)",
+        "Country": "Peru",
+        "Tags": "latin rock,rock en español",
+        "Favicon": "https://i.imgur.com/LRqAn5L.png",
+        "Language": "es",
+        "Homepage": "https://aqpvirtual.wixsite.com/aqpradios",
+        "Source1": "https://stream-150.zeno.fm/mwxnk1y5btvvv"
+    },
+    {
+        "Title": "RAM Cusco",
+        "Country": "Peru",
+        "Homepage": "http://laut.fm/ramcusco",
+        "Source1": "http://stream.laut.fm/ramcusco"
+    },
+    {
+        "Title": "RCS. Lima Stereo",
+        "Country": "Peru",
+        "Tags": "baladas cumbia 70 80 varios",
+        "Favicon": "https://i.ytimg.com/vi/s4rgiw1yd84/hqdefault.jpg",
+        "Language": "es",
+        "Homepage": "https://wwwradiocadenastereo.blogspot.com/",
+        "Source1": "http://stream.zeno.fm/scy8h669dchvv"
+    },
+    {
+        "Title": "Red Radio Integridad (RRI)",
+        "Country": "Peru",
+        "Tags": "online christian radio,religious",
+        "Language": "es",
+        "Homepage": "https://rri.pe/",
+        "Source1": "https://dattavolt.com/8164/stream"
+    },
+    {
+        "Title": "Ritmo Romantica",
+        "Country": "Peru",
+        "Tags": "balada pop,reguetón",
+        "Favicon": "https://mmo.aiircdn.com/766/6a97035cd37a8910818.png",
+        "Homepage": "https://www.oigo.com/ritmoromantica/radioenvivo/",
+        "Source1": "https://mdstrm.com/audio/6839e2376607bdf6b2fcde27/live.m3u8?property=aiir&_=548005"
+    },
+    {
+        "Title": "Rock and Pop Classics",
+        "Country": "Peru",
+        "Homepage": "https://rockandpopclassics.wixsite.com/rockandpopclassics",
+        "Source1": "https://stream.zeno.fm/kusrlthtbhltv"
+    },
+    {
+        "Title": "Rock&Pop",
+        "Country": "Peru",
+        "Tags": "rock",
+        "Source1": "http://stream.zeno.fm/0k6va3rg8rhvv"
+    },
+    {
+        "Title": "RPP Mundial",
+        "Country": "Peru",
+        "Tags": "sports",
+        "Language": "es",
+        "Homepage": "https://audioplayer.pe/mundial",
+        "Source1": "https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/5faee885eb830d06cf22ed4a/playlist.m3u8?listeningSessionID=636caa560fe65225_1005617_y9ORJb3Z__0000001ATBc&downloadSessionID=0&aid=5faaeb72f92d7b07dfe10181&dnt=true&uid=R0YDAgaCoCna5VhlmeSkEilXCeaz9BmW&sid=1OoLSrd1pEQN1qdcGRZwIs6kaDEDCse4&pid=LbnY5aQEpPclOhLeiCC5KkywxPJ6fKyG&ref=audioplayer.pe&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1669157542833&ot=WNEzttzLwoMwo5R84PAaRA&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&aw_0_1st.playerId=audioplayer_web&liveId=5faee885eb830d06cf22ed4a&referer=https%3A%2F%2Faudioplayer.pe%2F&propertyName=audioplayer_web&propertyType=web-app&propertyVersion=v0.0.199"
+    },
+    {
+        "Title": "RPP Mundial (Check 25/11/2022)",
+        "Country": "Peru",
+        "Tags": "soccer",
+        "Favicon": "https://md1.rpp-noticias.io/360x360/cutter/2022/11/15/1668534393.jpg",
+        "Language": "es",
+        "Homepage": "https://audioplayer.pe/mundial",
+        "Source1": "https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/5faee885eb830d06cf22ed4a"
+    },
+    {
+        "Title": "RPP Mundial (Perú)",
+        "Country": "Peru",
+        "Tags": "soccer,sports",
+        "Favicon": "https://md1.rpp-noticias.io/360x360/cutter/2022/11/15/1668534393.jpg",
+        "Language": "es",
+        "Homepage": "https://audioplayer.pe/mundial",
+        "Source1": "https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/5faee885eb830d06cf22ed4a/playlist.m3u8?listeningSessionID=636caa560fe65225_1006885_YNhDxhXb__0000001B3Ny&downloadSessionID=0&aid=5faaeb72f92d7b07dfe10181&dnt=true&uid=4KOWgzZ9nfekeotUYauzmeKrOQfRCQma&sid=LhXvvJVKZUrLvqSvYiI4DFZ2YiVMf0Uw&pid=GhVrREycHyvqzg9XezY4IhgwwgiPzsgQ&ref=audioplayer.pe&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1669158810445&ot=-57RkzEDB4oSQczBsPKIMw&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&aw_0_1st.playerId=audioplayer_web&liveId=5faee885eb830d06cf22ed4a&referer=https%3A%2F%2Faudioplayer.pe%2F&propertyName=audioplayer_web&propertyType=web-app&propertyVersion=v0.0.199"
+    },
+    {
+        "Title": "Rpp noticias",
+        "Country": "Peru",
+        "Favicon": "https://i.postimg.cc/X7j5LPdS/unnamed-(1).png",
+        "Homepage": "https://rpp.pe/",
+        "Source1": "https://pe-p4-p-e-cx1-audio.cdn.mdstrm.com/live-audio-aw/5fab3416b5f9ef165cfab6e9?aid=5faaeb72f92d7b07dfe10181&pid=kTzbKhAGHjwGE45Q6McH77cd7sccyZGW&sid=lknbMeKDGWtCwvZhAUWo2CAval8z3sVT&uid=VG4ekkUCt1wKpoa9ctTjUmU7pai9mLIC&es=pe-p4-p-e-cx1-audio.cdn.mdstrm.com&ote=1779578605129&ot=bbhJLI3z5USQBYRZIY1uUw&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&liveId=5fab3416b5f9ef165cfab6e9&referer=https://emisoras.com.pe/&listenerId=VG4ekkUCt1wKpoa9ctTjUmU7pai9mLIC"
+    },
+    {
+        "Title": "RPP+",
+        "Country": "Peru",
+        "Tags": "deportes,news,noticias,sports",
+        "Favicon": "https://rpp.pe/favicon.ico",
+        "Language": "es",
+        "Homepage": "https://rpp.pe/audio",
+        "Source1": "https://pe-p4-p-e-cx1-audio.cdn.mdstrm.com/live-audio-aw/5faee448445c6107b3fee13f/playlist.m3u8?listeningSessionID=69f0808001cf2895_4181173_LOxDBfCQ_cGUtcDQtcC1lLWN4MS1hdWRpby5jZG4ubWRzdHJtLmNvbTo4MDAw_0000000I6al&downloadSessionID=0&aid=5faaeb72f92d7b07dfe10181&dnt=true&uid=XtRmM7BAs3XcxcxoMvzm2bLuF0AhZqOf&sid=oeKDIAFTGUom6Rdb4fYtg9WBGDutEkfM&pid=iSK9RYEIXoIzoAUGPwc7poSXB1mnd4OY&ref=rpp.pe&ext_pb=0&CMCD=cid%3D%225faee448445c6107b3fee13f%22%2Cmtp%3D13000%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22iSK9RYEIXoIzoAUGPwc7poSXB1mnd4OY%22&es=pe-p4-p-e-cx1-audio.cdn.mdstrm.com&ote=1781636788860&ot=KEgeLIFdM8e3HRdIBT_Rrw&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&aw_0_1st.playerId=audioplayer_web&liveId=5faee448445c6107b3fee13f&referer=https%3A%2F%2Frpp.pe%2F&propertyName=audioplayer_web&propertyType=web-app&propertyVersion=v1.0.79&listenerId=XtRmM7BAs3XcxcxoMvzm2bLuF0AhZqOf"
+    },
+    {
+        "Title": "RRI",
+        "Country": "Peru",
+        "Homepage": "https://rri.pe/",
+        "Source1": "https://dattavolt.com/8164/stream"
+    },
+    {
+        "Title": "Santa Lucía 93.7 FM",
+        "Country": "Peru",
+        "Favicon": "https://www.sondondo.com/radio-santa-lucia-cajamarca.html",
+        "Homepage": "https://www.sondondo.com/radio-santa-lucia-cajamarca.html",
+        "Source1": "https://sp.dattavolt.com/8014/stream"
+    },
+    {
+        "Title": "Señal Pirata Radio",
+        "Country": "Peru",
+        "Tags": "2000's,2010's,80s,90s,rock,rock alternativo",
+        "Favicon": "https://senalpirata.com/wp-content/uploads/2026/07/SPLogo512.png",
+        "Language": "en,es",
+        "Homepage": "https://senalpirata.com/",
+        "Latitude": -11.988540199146724,
+        "Longitude": -76.81943178176881,
+        "Source1": "https://conectperu.com:8082/stream"
+    },
+    {
+        "Title": "Señal Pitara Radio",
+        "Country": "Peru",
+        "Language": "es",
+        "Homepage": "https://senalpirata.com/",
+        "Source1": "http://conectperu.com:8082/stream"
+    },
+    {
+        "Title": "Sol Frecuencia Primera Radio",
+        "Country": "Peru",
+        "Language": "en,es,fr,it,ru",
+        "Homepage": "https://www.frecuenciaprimera.org/",
+        "Source1": "https://cast6.asurahosting.com/proxy/solfrecu/stream"
+    },
+    {
+        "Title": "StereoLima",
+        "Country": "Peru",
+        "Tags": "oldies",
+        "Language": "es",
+        "Homepage": "http://www.stereolima.com/",
+        "Source1": "https://panel.innovatestream.pe/8042/stream"
+    },
+    {
+        "Title": "Studio 92 (92.5 FM Lima)",
+        "Country": "Peru",
+        "Tags": "electronic music,hip hop,k-pop,pop music,r&b",
+        "Favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Logostudio92.png/225px-Logostudio92.png",
+        "Language": "es",
+        "Homepage": "https://www.studio92.com/",
+        "Source1": "https://mdstrm.com/audio/5fada553978fe1080e3ac5ea/icecast.audio"
+    },
+    {
+        "Title": "Studio Mix - Progreso, Amazonas en Vivo",
+        "Country": "Peru",
+        "Favicon": "http://img1.wsimg.com/cdnassets/transform/bfa8cd58-2650-4746-bf80-4babd8cd4e55/android-chrome-192x192",
+        "Homepage": "http://studiomix.com/",
+        "Source1": "https://stream.zenolive.com/de2yzp59mg0uv"
+    },
+    {
+        "Title": "Superstereo 105.5 fm",
+        "Country": "Peru",
+        "Tags": "latino",
+        "Homepage": "http://superstereo.pe/",
+        "Latitude": -16.207201585024166,
+        "Longitude": -72.33398437500001,
+        "Source1": "http://51.89.173.53:8031/"
+    },
+    {
+        "Title": "Techno Radio",
+        "Country": "Peru",
+        "Tags": "classical",
+        "Source1": "https://stream.zeno.fm/wucx5xcgqeruv"
+    },
+    {
+        "Title": "Top Latino",
+        "Country": "Peru",
+        "Tags": "hits,latino,peru,top 40",
+        "Language": "es",
+        "Homepage": "https://www.toplatino.net/",
+        "Source1": "http://online.radiodifusion.net:8020/stream"
+    },
+    {
+        "Title": "Tropical-Tarapoto",
+        "Country": "Peru",
+        "Tags": "classical",
+        "Source1": "https://shoutcast.tmcreativos.com/proxy/radiotropical?mp=/stream"
+    },
+    {
+        "Title": "Vinilo ¡Tu radio retro! 70s, 80s, 90s, 2000",
+        "Country": "Peru",
+        "Tags": "oldies & retro hits 70s 80s 90s 00s",
+        "Language": "en,es",
+        "Homepage": "https://viniloturadioretro.com/",
+        "Latitude": -11.494381418544371,
+        "Longitude": -76.97992128763946,
+        "Source1": "https://panel.innovatestream.pe:10924/stream"
+    },
+    {
+        "Title": "Viva FM",
+        "Country": "Peru",
+        "Tags": "latin pop,latino urbano,pop,pop en español e inglés,pop urbano,rock,rock en español,urbano",
+        "Favicon": "https://vivafm.com.pe/favicon.ico",
+        "Language": "es",
+        "Homepage": "https://vivafm.com.pe/",
+        "Source1": "https://tupanel.info:8780/stream"
+    },
+    {
+        "Title": "Viva FM Smart",
+        "Country": "Peru",
+        "Tags": "español,latin pop,musica romantica,pop,spanish",
+        "Favicon": "https://play-lh.googleusercontent.com/Jqd4TU6MWM7c1NDHjqjJzlW7nr3zeXUtSnNRE4Fkfzz2Bbq1QuXcwvJefxuBqKfc61zU",
+        "Homepage": "https://vivafm.com.pe/",
+        "Source1": "https://tupanel.info:8780/stream"
+    },
+    {
+        "Title": "YoEsucho - Romántica",
+        "Country": "Peru",
+        "Tags": "love songs,románticas",
+        "Language": "es",
+        "Homepage": "https://zeno.fm/radio/romantica-radio/",
+        "Source1": "https://stream.zeno.fm/mb5l1xfyu7yuv"
+    },
+    {
+        "Title": "Z Rock & Pop",
+        "Country": "Peru",
+        "Tags": "classic rock,pop,pop en español e inglés,rock,rock en español",
+        "Language": "es",
+        "Homepage": "https://zrockandpop.com.pe/",
+        "Source1": "https://radioz.egostreaming.pe/radio/3e4f6a1b2c3d4e567890abcd/"
+    },
+    {
+        "Title": "Z rock and pop",
+        "Country": "Peru",
+        "Favicon": "https://i.imgur.com/meLdko5.png",
+        "Homepage": "https://zrockandpop.com.pe/",
+        "Source1": "https://radioz.egostreaming.pe/radio/3e4f6a1b2c3d4e567890abcd/"
+    },
+    {
+        "Title": "Zona 5 93.3",
+        "Country": "Peru",
+        "Tags": "cumbia,pop en español",
+        "Favicon": "https://estacionesfm.com/imgfm/imgfm/zona5_x1xx1.png",
+        "Homepage": "https://radiozona5fm.com/",
+        "Latitude": -6.774477995275294,
+        "Longitude": -79.8398780822754,
+        "Source1": "https://panel.innovatestream.pe:10975/stream"
+    }
+]

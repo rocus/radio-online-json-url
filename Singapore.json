@@ -1,0 +1,502 @@
+[
+    {
+        "Title": "88.3JIA Cantopop - Best of All Time Cantonese Song",
+        "Country": "Singapore",
+        "Favicon": "https://www.kakee.sg/images/camokakislibraries/kakee-reskin/img-kakee-logo.png",
+        "Homepage": "https://kakee.sg/",
+        "Source1": "https://22253.live.streamtheworld.com/HARRYS_S02.mp3"
+    },
+    {
+        "Title": "938 Now Radio",
+        "Country": "Singapore",
+        "Favicon": "http://www.meradio.sg/static/apple-touch-icon.png?v=2023",
+        "Language": "en",
+        "Homepage": "http://www.meradio.sg/radio/938now",
+        "Source1": "http://playerservices.streamtheworld.com/api/livestream-redirect/938NOWAAC.aac"
+    },
+    {
+        "Title": "973FM Blasts That Last",
+        "Country": "Singapore",
+        "Favicon": "https://973fm.weebly.com/uploads/6/2/8/3/62839335/published/973logo-1_1.png?1531151203",
+        "Homepage": "https://973fm.weebly.com/",
+        "Source1": "http://c16.radioboss.fm:8115/autodj"
+    },
+    {
+        "Title": "973FM: Blasts That Last radio",
+        "Country": "Singapore",
+        "Tags": "hits,music,pop,top40",
+        "Language": "en",
+        "Homepage": "https://global.superradio.cc/",
+        "Source1": "https://c16.radioboss.fm:18115/stream?icecast"
+    },
+    {
+        "Title": "987",
+        "Country": "Singapore",
+        "Tags": "pop",
+        "Favicon": "https://www.melisten.sg/static/apple-touch-icon.png?v=2023",
+        "Homepage": "https://www.melisten.sg/radio/987",
+        "Source1": "https://14033.live.streamtheworld.com/987FM_SC",
+        "Source2": "https://playerservices.streamtheworld.com/api/livestream-redirect/987FM_PREM.aac"
+    },
+    {
+        "Title": "987FM",
+        "Country": "Singapore",
+        "Tags": "music,news",
+        "Favicon": "https://www.melisten.sg/static/apple-icon-120x120.png",
+        "Language": "en",
+        "Homepage": "https://www.melisten.sg/radio/987",
+        "Latitude": 1.2962761196418218,
+        "Longitude": 103.86062622070314,
+        "Source1": "https://22393.live.streamtheworld.com/987FM_PREM.aac"
+    },
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "Singapore",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "AXR Manila",
+        "Country": "Singapore",
+        "Homepage": "https://www.axr.online/",
+        "Latitude": 1.3022981837217622,
+        "Longitude": 103.86469084653072,
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/AXR_MANILA.mp3"
+    },
+    {
+        "Title": "AXR Singapore",
+        "Country": "Singapore",
+        "Favicon": "https://content.audiospace.co/stations/210/files/Logos/final_designlogostandart-01.png",
+        "Homepage": "http://www.axr.online/",
+        "Source1": "http://provisioning.streamtheworld.com/pls/AXR_SINGAPORE.pls"
+    },
+    {
+        "Title": "AXR Singapore",
+        "Country": "Singapore",
+        "Tags": "news,sport",
+        "Language": "en",
+        "Homepage": "http://axr.co/",
+        "Source1": "http://singaporestream.axr.online/"
+    },
+    {
+        "Title": "Beam FM",
+        "Country": "Singapore",
+        "Tags": "hits,pop,top 40",
+        "Favicon": "https://static.mytuner.mobi/media/tvos_radios/817/beam-fm-uk.edf8798f.png",
+        "Language": "en",
+        "Homepage": "https://x.com/beamFmLive",
+        "Source1": "https://beamfm.streeemer.com/listen/beam_fm/radio.aac"
+    },
+    {
+        "Title": "Bible Witness Web Radio",
+        "Country": "Singapore",
+        "Homepage": "https://biblewitness.com/bwwr/",
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3179571_SC"
+    },
+    {
+        "Title": "CAPITAL 958",
+        "Country": "Singapore",
+        "Tags": "melisten",
+        "Favicon": "https://www16.mediacorp.sg/melisten/radiostation-logos/capital-958.png",
+        "Language": "zh",
+        "Homepage": "https://www.melisten.sg/radio/capital-958",
+        "Latitude": 1.295374248016841,
+        "Longitude": 103.79223793745042,
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/CAPITAL958FM_PREM.aac"
+    },
+    {
+        "Title": "Capital 958 Radio",
+        "Country": "Singapore",
+        "Favicon": "http://www.meradio.sg/static/apple-icon-120x120.png",
+        "Language": "zh",
+        "Homepage": "http://www.meradio.sg/radio/capital-958",
+        "Source1": "http://playerservices.streamtheworld.com/api/livestream-redirect/CAPITAL958FMAAC.aac"
+    },
+    {
+        "Title": "Channel News Asia TV",
+        "Country": "Singapore",
+        "Favicon": "http://www.channelnewsasia.com/favicon.ico",
+        "Language": "en",
+        "Homepage": "http://www.channelnewsasia.com/",
+        "Source1": "http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8"
+    },
+    {
+        "Title": "CLASS 95",
+        "Country": "Singapore",
+        "Tags": "melisten",
+        "Favicon": "https://www16.mediacorp.sg/melisten/radiostation-logos/class-95.png",
+        "Language": "en",
+        "Homepage": "https://www.melisten.sg/radio/class-95",
+        "Latitude": 1.2953635219226556,
+        "Longitude": 103.7922513484955,
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/CLASS95_PREM.aac"
+    },
+    {
+        "Title": "Class 95 Radio",
+        "Country": "Singapore",
+        "Favicon": "http://www.meradio.sg/static/apple-icon-120x120.png",
+        "Language": "en",
+        "Homepage": "http://www.meradio.sg/radio/class-95",
+        "Source1": "http://playerservices.streamtheworld.com/api/livestream-redirect/CLASS95AAC.aac"
+    },
+    {
+        "Title": "CNA 938",
+        "Country": "Singapore",
+        "Tags": "news",
+        "Favicon": "http://melisten.sg/static/apple-icon-120x120.png",
+        "Homepage": "http://melisten.sg/cna938",
+        "Source1": "https://22893.live.streamtheworld.com/938NOW_SC"
+    },
+    {
+        "Title": "CNA 938 Live Singapore",
+        "Country": "Singapore",
+        "Tags": "news,news talk,talk",
+        "Favicon": "https://upload.wikimedia.org/wikipedia/commons/b/b0/CNA938_logo.png",
+        "Language": "en",
+        "Homepage": "https://www.channelnewsasia.com/news/cna938",
+        "Source1": "http://playerservices.streamtheworld.com/pls/938NOW_PREM.pls"
+    },
+    {
+        "Title": "CNA938",
+        "Country": "Singapore",
+        "Tags": "news",
+        "Source1": "http://playerservices.streamtheworld.com/api/livestream-redirect/938NOW_PREM.m3u8"
+    },
+    {
+        "Title": "CNA938",
+        "Country": "Singapore",
+        "Tags": "melisten",
+        "Favicon": "https://www16.mediacorp.sg/melisten/radiostation-logos/cna-938.png",
+        "Language": "en",
+        "Homepage": "https://www.melisten.sg/radio/cna938",
+        "Latitude": 1.2953581588755374,
+        "Longitude": 103.79225403070453,
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/938NOW_PREM.aac"
+    },
+    {
+        "Title": "GOLD 905",
+        "Country": "Singapore",
+        "Tags": "classical",
+        "Favicon": "https://www.melisten.sg/static/apple-touch-icon.png?v=2023",
+        "Homepage": "https://www.melisten.sg/radio/gold-905?al=1&ap=1&c=905fm",
+        "Source1": "https://22403.live.streamtheworld.com/GOLD905_SC"
+    },
+    {
+        "Title": "GOLD 905",
+        "Country": "Singapore",
+        "Tags": "melisten",
+        "Favicon": "https://www16.mediacorp.sg/melisten/radiostation-logos/gold-905.png",
+        "Language": "en",
+        "Homepage": "https://www.melisten.sg/radio/gold-905",
+        "Latitude": 1.2953635219226556,
+        "Longitude": 103.79224866628648,
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/GOLD905_PREM.aac"
+    },
+    {
+        "Title": "Gold 905 Radio",
+        "Country": "Singapore",
+        "Favicon": "http://www.meradio.sg/static/apple-icon-120x120.png",
+        "Language": "en",
+        "Homepage": "http://www.meradio.sg/radio/gold-905",
+        "Source1": "http://playerservices.streamtheworld.com/api/livestream-redirect/GOLD905AAC.aac"
+    },
+    {
+        "Title": "indiego",
+        "Country": "Singapore",
+        "Tags": "melisten",
+        "Favicon": "https://www16.mediacorp.sg/melisten/radiostation-logos/indiego.png",
+        "Language": "en",
+        "Homepage": "https://www.melisten.sg/radio/indiego",
+        "Latitude": 1.295352795828419,
+        "Longitude": 103.79221916198732,
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/INDIEGO_S01_PREM.aac"
+    },
+    {
+        "Title": "Jia 883 Radio",
+        "Country": "Singapore",
+        "Language": "zh",
+        "Homepage": "http://www.883jia.com.sg/",
+        "Source1": "http://playerservices.streamtheworld.com/api/livestream-redirect/883JIAAAC.aac"
+    },
+    {
+        "Title": "kiss92",
+        "Country": "Singapore",
+        "Tags": "pop music",
+        "Homepage": "https://www.kiss92.sg/",
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/KISS_92_SC"
+    },
+    {
+        "Title": "Love 972",
+        "Country": "Singapore",
+        "Source1": "http://22903.live.streamtheworld.com/LOVE972FMAAC.aac"
+    },
+    {
+        "Title": "LOVE 972",
+        "Country": "Singapore",
+        "Tags": "melisten",
+        "Favicon": "https://www16.mediacorp.sg/melisten/radiostation-logos/love-972.png",
+        "Language": "zh",
+        "Homepage": "https://www.melisten.sg/radio/love-972",
+        "Latitude": 1.295374248016841,
+        "Longitude": 103.79224330186848,
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOVE972FM_PREM.aac"
+    },
+    {
+        "Title": "LOVE 972",
+        "Country": "Singapore",
+        "Favicon": "https://radio-sg.com/wp-content/uploads/2024/01/Love-97.2-FM-330x330.webp",
+        "Homepage": "https://www.melisten.sg/",
+        "Source1": "https://28333.live.streamtheworld.com/LOVE972FM_PREM.aac"
+    },
+    {
+        "Title": "Love 972 Radio",
+        "Country": "Singapore",
+        "Favicon": "http://www.meradio.sg/static/apple-icon-120x120.png",
+        "Language": "zh",
+        "Homepage": "http://www.meradio.sg/radio/love-972",
+        "Source1": "http://playerservices.streamtheworld.com/api/livestream-redirect/LOVE972FMAAC.aac"
+    },
+    {
+        "Title": "Mediacorp 987 Radio",
+        "Country": "Singapore",
+        "Favicon": "http://www.meradio.sg/static/apple-icon-120x120.png",
+        "Language": "en",
+        "Homepage": "http://www.meradio.sg/radio/987",
+        "Source1": "http://playerservices.streamtheworld.com/api/livestream-redirect/987FMAAC.aac"
+    },
+    {
+        "Title": "Money 893 Radio",
+        "Country": "Singapore",
+        "Language": "en",
+        "Homepage": "http://www.moneyfm893.sg/",
+        "Source1": "http://playerservices.streamtheworld.com/api/livestream-redirect/MONEY_893AAC.aac"
+    },
+    {
+        "Title": "Money FM 89.3",
+        "Country": "Singapore",
+        "Favicon": "https://static.moneyfm893.sg/uploads/sites/3/2017/12/ABOUT_US_Station_893-768x432.png",
+        "Homepage": "https://www.moneyfm893.sg/",
+        "Source1": "https://22243.live.streamtheworld.com/MONEY_893AAC.aac?dist=sphradio-web&gdpr=0&tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=none&burst-time=15&sbmid=f94bbefc-acee-4c13-ed7b-9accdb44b7a2"
+    },
+    {
+        "Title": "Oli 96.8 FM",
+        "Country": "Singapore",
+        "Favicon": "https://www.melisten.sg/static/apple-touch-icon.png?v=2023",
+        "Language": "ta",
+        "Homepage": "https://www.melisten.sg/radio/oli968?c=968fm",
+        "Latitude": 1.3449463546629483,
+        "Longitude": 103.82003747260612,
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLI968FMAAC.aac"
+    },
+    {
+        "Title": "OLI 968",
+        "Country": "Singapore",
+        "Tags": "melisten",
+        "Favicon": "https://www16.mediacorp.sg/melisten/radiostation-logos/oli-968.png",
+        "Language": "ta",
+        "Homepage": "https://www.melisten.sg/radio/oli-968",
+        "Latitude": 1.295368884969761,
+        "Longitude": 103.79226475954056,
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLI968FM_PREM.aac"
+    },
+    {
+        "Title": "Oli 968 Radio",
+        "Country": "Singapore",
+        "Favicon": "http://www.meradio.sg/static/apple-touch-icon.png?v=2023",
+        "Language": "ta",
+        "Homepage": "http://www.meradio.sg/radio/oli968",
+        "Source1": "http://playerservices.streamtheworld.com/api/livestream-redirect/OLI968FMAAC.aac"
+    },
+    {
+        "Title": "ONE FM",
+        "Country": "Singapore",
+        "Language": "en",
+        "Source1": "http://playerservices.streamtheworld.com/api/livestream-redirect/one_FM_913AAC.aac?dist=radiosingaporeapp"
+    },
+    {
+        "Title": "One FM 91.3",
+        "Country": "Singapore",
+        "Favicon": "https://cdn.webrad.io/images/logos/radiosingapore-org/one-fm.png",
+        "Homepage": "https://www.onefm.sg/",
+        "Source1": "https://playerservices.streamtheworld.com/pls/ONE_FM_913AAC.pls"
+    },
+    {
+        "Title": "ONE FM 91.3 SPH AAC",
+        "Country": "Singapore",
+        "Language": "en",
+        "Homepage": "https://www.onefm.sg/",
+        "Latitude": 1.3432224167794888,
+        "Longitude": 103.84874864671586,
+        "Source1": "http://playerservices.streamtheworld.com/api/livestream-redirect/ONE_FM_913AAC.aac"
+    },
+    {
+        "Title": "Power 98 Love Songs",
+        "Country": "Singapore",
+        "Homepage": "https://camokakis.sg/",
+        "Latitude": 1.366529091899641,
+        "Longitude": 103.82194343021688,
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/POWER98_LOVESONGS.mp3"
+    },
+    {
+        "Title": "Radio Melody with Brother Bjorn",
+        "Country": "Singapore",
+        "Favicon": "https://www.rmelody.net/img/static_logo.jpg",
+        "Homepage": "https://www.rmelody.net/",
+        "Source1": "https://ssl.geckohost.nz/proxy/bjorn?mp=/stream&1703130377563"
+    },
+    {
+        "Title": "Radio Melody with Brother Bjorn",
+        "Country": "Singapore",
+        "Tags": "pop",
+        "Language": "en",
+        "Homepage": "https://onlineradiobox.com/",
+        "Source1": "http://ssl.geckohost.nz:9191/autodj"
+    },
+    {
+        "Title": "RIA 897",
+        "Country": "Singapore",
+        "Tags": "pop",
+        "Favicon": "https://yt3.ggpht.com/ytc/AMLnZu_SfufvaDW12AZL2cX8C9oG1G1pxRDu6ctcPN75VA=s900-c-k-c0x00ffffff-no-rj",
+        "Homepage": "https://www.melisten.sg/radio/ria-897",
+        "Source1": "https://22393.live.streamtheworld.com/RIA897FM_SC",
+        "Source2": "https://playerservices.streamtheworld.com/api/livestream-redirect/RIA897FM_PREM.aac"
+    },
+    {
+        "Title": "Ria 897 Radio",
+        "Country": "Singapore",
+        "Favicon": "http://www.meradio.sg/static/apple-icon-120x120.png",
+        "Language": "ms",
+        "Homepage": "http://www.meradio.sg/radio/ria-897",
+        "Source1": "http://playerservices.streamtheworld.com/api/livestream-redirect/RIA897FMAAC.aac"
+    },
+    {
+        "Title": "Singapore Chinese POP YES FM 933",
+        "Country": "Singapore",
+        "Tags": "pop",
+        "Language": "cmn",
+        "Homepage": "https://www.melisten.sg/radio/yes-933/",
+        "Source1": "https://22893.live.streamtheworld.com/YES933_SC?dist=radiosingapore"
+    },
+    {
+        "Title": "SPH 963 Radio",
+        "Country": "Singapore",
+        "Language": "zh",
+        "Homepage": "http://www.963haofm.sg/",
+        "Source1": "http://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963AAC.aac"
+    },
+    {
+        "Title": "Symphony 924",
+        "Country": "Singapore",
+        "Tags": "melisten",
+        "Favicon": "https://www16.mediacorp.sg/melisten/radiostation-logos/symphony-924.png",
+        "Language": "en",
+        "Homepage": "https://www.melisten.sg/radio/symphony-924",
+        "Latitude": 1.295368884969761,
+        "Longitude": 103.79224330186848,
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/SYMPHONY924_PREM.aac"
+    },
+    {
+        "Title": "Symphony 924 Radio",
+        "Country": "Singapore",
+        "Favicon": "http://www.meradio.sg/static/apple-touch-icon.png?v=2023",
+        "Language": "en",
+        "Homepage": "http://www.meradio.sg/radio/symphony924",
+        "Source1": "http://playerservices.streamtheworld.com/api/livestream-redirect/SYMPHONY924AAC.aac"
+    },
+    {
+        "Title": "UFM 100.3 Radio",
+        "Country": "Singapore",
+        "Language": "zh",
+        "Homepage": "http://www.ufm1003.sg/",
+        "Source1": "http://playerservices.streamtheworld.com/api/livestream-redirect/UFM_1003AAC.aac"
+    },
+    {
+        "Title": "Ufm 1003",
+        "Country": "Singapore",
+        "Source1": "http://28093.live.streamtheworld.com/UFM_1003AAC.aac"
+    },
+    {
+        "Title": "UFM 1003 (MP3)",
+        "Country": "Singapore",
+        "Favicon": "https://www.ufm1003.sg/wp-content/assets/5/img/NAV_01_Logo_1003.svg",
+        "Language": "zh",
+        "Homepage": "https://www.ufm1003.sg/",
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/UFM_1003_SC"
+    },
+    {
+        "Title": "UPDATED 88.3JIA Cantonese Song",
+        "Country": "Singapore",
+        "Favicon": "https://kakee.sg/images/camokakislibraries/kakee-reskin/img-kakee-logo.png",
+        "Homepage": "https://kakee.sg/",
+        "Source1": "https://28163.live.streamtheworld.com/HARRYS_S02.mp3?tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=none&burst-time=15&sbmid=aa4d01da-0541-4d7c-cec5-cdd0758f7ea7"
+    },
+    {
+        "Title": "Warna",
+        "Country": "Singapore",
+        "Homepage": "https://annarazak68.duckdns.org/",
+        "Source1": "http://playerservices.streamtheworld.com/api/livestream-redirect/WARNA942FMAAC.aac"
+    },
+    {
+        "Title": "WARNA 942",
+        "Country": "Singapore",
+        "Tags": "melisten",
+        "Favicon": "https://www16.mediacorp.sg/melisten/radiostation-logos/warna-942.png",
+        "Language": "ms",
+        "Homepage": "https://www.melisten.sg/radio/warna-942",
+        "Latitude": 1.2953581588755374,
+        "Longitude": 103.79224866628648,
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/WARNA942FM_PREM.aac"
+    },
+    {
+        "Title": "Warna 942 Radio",
+        "Country": "Singapore",
+        "Favicon": "http://www.meradio.sg/static/apple-icon-120x120.png",
+        "Language": "ms",
+        "Homepage": "http://www.meradio.sg/radio/warna-942fm",
+        "Source1": "http://playerservices.streamtheworld.com/api/livestream-redirect/WARNA942FMAAC.aac"
+    },
+    {
+        "Title": "XRadio: The Worldwide Superstation",
+        "Country": "Singapore",
+        "Tags": "bass,club,electronic music,freeform,hip hop,live dj,mix,pop music,rave,remixes,rock",
+        "Favicon": "https://xradio.zone/images/hero-logo.webp",
+        "Language": "en",
+        "Homepage": "https://xradio.zone/",
+        "Source1": "http://xradio.zone:9420/stream.mp3"
+    },
+    {
+        "Title": "Yes 933",
+        "Country": "Singapore",
+        "Tags": "pop",
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/YES933AAC_SC",
+        "Source2": "http://28453.live.streamtheworld.com/YES933AAC.aac"
+    },
+    {
+        "Title": "YES 933",
+        "Country": "Singapore",
+        "Tags": "melisten",
+        "Favicon": "https://www16.mediacorp.sg/melisten/radiostation-logos/yes-933.png",
+        "Language": "en",
+        "Homepage": "https://www.melisten.sg/radio/yes-933",
+        "Latitude": 1.295368884969761,
+        "Longitude": 103.79224866628648,
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/YES933_PREM.aac"
+    },
+    {
+        "Title": "Yes 933",
+        "Country": "Singapore",
+        "Favicon": "https://radio-sg.com/wp-content/uploads/2024/01/Yes-93.3-FM-330x330.webp",
+        "Homepage": "https://www.melisten.sg/",
+        "Source1": "https://28393.live.streamtheworld.com/YES933_PREM.aac"
+    },
+    {
+        "Title": "YES 933 Radio",
+        "Country": "Singapore",
+        "Favicon": "http://www.meradio.sg/static/apple-icon-120x120.png",
+        "Language": "zh",
+        "Homepage": "http://www.meradio.sg/radio/yes-933",
+        "Source1": "http://playerservices.streamtheworld.com/api/livestream-redirect/YES933AAC.aac"
+    }
+]

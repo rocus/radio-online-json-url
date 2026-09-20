@@ -1,0 +1,66 @@
+[
+    {
+        "Title": "3FM (128Kbps MP3)",
+        "Country": "IsleofMan",
+        "Favicon": "https://mmo.aiircdn.com/5/654dfce44e0a2.png",
+        "Homepage": "https://www.three.fm/",
+        "Source1": "https://n07a-eu.rcs.revma.com/0kv9v43t87zuv"
+    },
+    {
+        "Title": "3FM (48Kbps AAC+)",
+        "Country": "IsleofMan",
+        "Favicon": "https://mmo.aiircdn.com/5/654dfce44e0a2.png",
+        "Homepage": "https://www.three.fm/",
+        "Latitude": 54.14984871438275,
+        "Longitude": -4.4794607162475595,
+        "Source1": "https://n07a-eu.rcs.revma.com/s1q7dc4c0znwv"
+    },
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "IsleofMan",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "Alive - Live Music Radio around the clock (24h Blues, Rock, Pop)",
+        "Country": "IsleofMan",
+        "Tags": "blues rock,classic rock,live concert,rock",
+        "Language": "en",
+        "Homepage": "http://laut.fm/alive",
+        "Source1": "http://stream.laut.fm/alive"
+    },
+    {
+        "Title": "Energy FM (Isle Of Man)",
+        "Country": "IsleofMan",
+        "Favicon": "https://www.energyfm.net/images2015/logo.png",
+        "Homepage": "https://www.energyfm.net/",
+        "Latitude": 54.149526995205534,
+        "Longitude": -4.485082626342774,
+        "Source1": "http://ukwesta.streaming.broadcast.radio:15580/energyfm.m3u"
+    },
+    {
+        "Title": "EnergyFM",
+        "Country": "IsleofMan",
+        "Favicon": "https://www.energyfm.net/images2015/logo.png",
+        "Homepage": "https://www.energyfm.net/",
+        "Latitude": 54.205930143885446,
+        "Longitude": -4.564819335937501,
+        "Source1": "https://ukwesta.streaming.broadcast.radio/energyfm"
+    },
+    {
+        "Title": "Isle of Man Free Radio",
+        "Country": "IsleofMan",
+        "Homepage": "https://sites.google.com/view/isleofmanfreeradio/home",
+        "Source1": "https://play.radioking.io/ian-byrne"
+    },
+    {
+        "Title": "Manx Radio FM",
+        "Country": "IsleofMan",
+        "Favicon": "https://platform.aiircdn.com/sitelogos/147-T9L9fKDrZLR6Boqmmu5h.png",
+        "Language": "en,gv",
+        "Homepage": "http://www.manxradio.com/",
+        "Source1": "http://tx.sharp-stream.com/http_live.php?i=manxradiofm.aac"
+    }
+]

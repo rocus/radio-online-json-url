@@ -1,0 +1,1023 @@
+[
+    {
+        "Title": "24 Asal Sathi Radio",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/5731129271255040"
+    },
+    {
+        "Title": "24 Nepali Online Radio",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/5648733377134592"
+    },
+    {
+        "Title": "Aandhikhola Online Radio",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/1754975810747"
+    },
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "Nepal",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "ACORAB",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/156"
+    },
+    {
+        "Title": "Advance FM",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/1777266954225"
+    },
+    {
+        "Title": "Afno FM",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/301"
+    },
+    {
+        "Title": "Afno Fm Okhaldhunga",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/5135177703489536"
+    },
+    {
+        "Title": "Antenna Foundation Nepal",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/362"
+    },
+    {
+        "Title": "Baideshik Rojgar",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/5645757971431424"
+    },
+    {
+        "Title": "BBC Nepali",
+        "Country": "Nepal",
+        "Tags": "news",
+        "Favicon": "https://static.files.bbci.co.uk/ws/simorgh-assets/public/nepali/images/icons/icon-128x128.png",
+        "Language": "ne",
+        "Homepage": "https://www.bbc.com/nepali",
+        "Source1": "https://stream.live.vc.bbcmedia.co.uk/bbc_nepali_radio"
+    },
+    {
+        "Title": "BBC Nepali 103 MHz",
+        "Country": "Nepal",
+        "Favicon": "https://static.files.bbci.co.uk/ws/simorgh-assets/public/nepali/images/icons/icon-128x128.png",
+        "Homepage": "https://bbc.co.uk/nepali",
+        "Source1": "https://stream.live.vc.bbcmedia.co.uk/bbc_nepali_radio"
+    },
+    {
+        "Title": "BBC World Service English",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/5639388954361856"
+    },
+    {
+        "Title": "BFBS Gurkha Radio",
+        "Country": "Nepal",
+        "Favicon": "https://radio.bfbs.com/icons/icon-512x512.png?v=0afec91a27aaa6d57f2b000c6fbe8cac",
+        "Homepage": "https://radio.bfbs.com/stations/bfbs-gurkha-network",
+        "Source1": "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs3.aac"
+    },
+    {
+        "Title": "Bhaktapur FM",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/303"
+    },
+    {
+        "Title": "Bhojpuriya FM",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/64"
+    },
+    {
+        "Title": "Bhojpuriya FM 92.8",
+        "Country": "Nepal",
+        "Language": "bho",
+        "Latitude": 27.012,
+        "Longitude": 84.871,
+        "Source1": "http://streaming.softnep.net:8143/;stream.nsv&type=mp3&volume=60"
+    },
+    {
+        "Title": "Bhorukawa FM",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/5638075348680704"
+    },
+    {
+        "Title": "Birgunj Network FM",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/1754976086579"
+    },
+    {
+        "Title": "BODHI FM",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/5782147784900608"
+    },
+    {
+        "Title": "Butwal FM",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Homepage": "https://www.butwaldiary.com/",
+        "Latitude": 27.678296351624866,
+        "Longitude": 83.46163272857666,
+        "Source1": "http://streaming.softnep.net:10994/;stream.nsv",
+        "Source2": "https://streaming.softnep.net:10994/;stream.nsv"
+    },
+    {
+        "Title": "Capital FM 92.4",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Homepage": "http://www.cfmonair.com/",
+        "Source1": "http://streaming.softnep.net:8037/;"
+    },
+    {
+        "Title": "Chitwan Radio Network",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/123"
+    },
+    {
+        "Title": "CIN",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/5630818481340416"
+    },
+    {
+        "Title": "CIN Khabar",
+        "Country": "Nepal",
+        "Tags": "entertainment,news,pop,talk",
+        "Favicon": "https://www.cinkhabar.com/themes/cinkhabar/images/favicon.png",
+        "Language": "ne",
+        "Homepage": "https://www.cinkhabar.com/",
+        "Latitude": 27.680500963030536,
+        "Longitude": 85.32195121049882,
+        "Source1": "https://streaming.softnep.net:10996/;stream.nsv&type=mp3&volume=60"
+    },
+    {
+        "Title": "Daman FM",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/5118707611205632"
+    },
+    {
+        "Title": "FM Adhyatma Jyoti",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/502"
+    },
+    {
+        "Title": "Global Online Radio",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/1779770736686"
+    },
+    {
+        "Title": "Good News FM",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/5098435466231808"
+    },
+    {
+        "Title": "Grace FM",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/193"
+    },
+    {
+        "Title": "Hajurko Radio",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/5718242976858112"
+    },
+    {
+        "Title": "Hetauda Online Radio",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/1755667163178"
+    },
+    {
+        "Title": "Hits FM 91.2",
+        "Country": "Nepal",
+        "Tags": "music",
+        "Language": "en,hi,ne",
+        "Homepage": "http://www.hitsfm.com.np/",
+        "Source1": "https://usa15.fastcast4u.com/proxy/hitsfm912?mp=/1"
+    },
+    {
+        "Title": "Image FM",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/9"
+    },
+    {
+        "Title": "Image News",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/439"
+    },
+    {
+        "Title": "Itahari FM",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/5704214992912384"
+    },
+    {
+        "Title": "Jagaran Radio Online",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/5122105970524160"
+    },
+    {
+        "Title": "Janata Radio",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/5204489751494656"
+    },
+    {
+        "Title": "Jayaprithvi F.M.",
+        "Country": "Nepal",
+        "Favicon": "https://scontent.fktm1-1.fna.fbcdn.net/v/t39.30808-6/366019422_794576132675494_5008954012440779529_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeEvByzWXpXGOLOifeMWI-mB6EidZTX8ugzoSJ1lNfy6DKqgfahL7lsiidwWGY4yEVmTPIx-cqEol98hVEEMAwvT&_nc_ohc=535uJw4xoGYQ7kNvwHY7lQ9&_nc_oc=AdkAWHh2oipcSsBn-reZA8IM-dMphIzPyjUI7O3gJNXfPRrGj5skEKe2oIw9Jr-OuFk&_nc_zt=23&_nc_ht=scontent.fktm1-1.fna&_nc_gid=s5qgyXQmtNn-6yEKUGHyuQ&oh=00_AfL-boNmx4yccYeViVoegIaY_LLzhpC1mG_mZiRueUZJsQ&oe=6842DC45",
+        "Homepage": "https://www.jpkhabar.com/",
+        "Source1": "https://streaming.softnep.net:10824/"
+    },
+    {
+        "Title": "Jayaprithvi FM",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/5668801058177024"
+    },
+    {
+        "Title": "Kalika F.M",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/38"
+    },
+    {
+        "Title": "Kalika FM",
+        "Country": "Nepal",
+        "Favicon": "https://www.kalikanews.com/themes/kalikanews/images/favicon.png",
+        "Homepage": "http://www.kalikafm.com.np/",
+        "Source1": "http://kalika-stream.softnep.com:7740/;"
+    },
+    {
+        "Title": "Kalika FM 95.2 FM",
+        "Country": "Nepal",
+        "Favicon": "https://www.kalikanews.com/themes/kalikanews/images/favicon.png",
+        "Language": "ne",
+        "Homepage": "http://www.kalikafm.com.np/",
+        "Source1": "http://www.surfmusic.de/m3u/kalika-fm-95-2-fm,16363.m3u"
+    },
+    {
+        "Title": "Kalika FM Musical",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/5722620169289728"
+    },
+    {
+        "Title": "Kalinchowk FM",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/107"
+    },
+    {
+        "Title": "Kantipur FM",
+        "Country": "Nepal",
+        "Tags": "kantipur,kathmandu,nepal,nepali",
+        "Language": "en,ne",
+        "Homepage": "https://radiokantipur.com/",
+        "Latitude": 27.800209937418252,
+        "Longitude": 85.330810546875,
+        "Source1": "https://radio-broadcast.ekantipur.com/stream"
+    },
+    {
+        "Title": "Khozee Radio",
+        "Country": "Nepal",
+        "Favicon": "https://www.hamropatro.com/favicon.ico",
+        "Homepage": "https://www.hamropatro.com/radio/Khozee-Radio",
+        "Source1": "http://216.55.141.189:8060/stream/1/"
+    },
+    {
+        "Title": "Khulaasa News",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/5663048301805568"
+    },
+    {
+        "Title": "Kingdom Voice FM",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/5096889982648320"
+    },
+    {
+        "Title": "KOOL FM 90.3",
+        "Country": "Nepal",
+        "Favicon": "https://www.kool903.com/themes/kool903/images/logo.png?v=1.1",
+        "Homepage": "https://www.kool903.com/",
+        "Source1": "https://streaming.softnep.net:10944/;stream.nsv&type=mp3&volume=70"
+    },
+    {
+        "Title": "Krishi Radio",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/5159000981110784"
+    },
+    {
+        "Title": "Makalu FM",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/318"
+    },
+    {
+        "Title": "Music City",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/5685532208136192"
+    },
+    {
+        "Title": "Music Joy Radio",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/373"
+    },
+    {
+        "Title": "Music Maithili",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/1754975476345"
+    },
+    {
+        "Title": "Nagarik FM (107.5 MHz)",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/5723814438633472"
+    },
+    {
+        "Title": "Napho Radio FM 88.25",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Homepage": "http://naphoradio.com/",
+        "Source1": "https://radio11.plathong.net/7136/;stream.mp3"
+    },
+    {
+        "Title": "Naya Radio",
+        "Country": "Nepal",
+        "Favicon": "https://www.nayafm.com.np/style/icon2.png",
+        "Language": "ne",
+        "Homepage": "https://www.nayafm.com.np/",
+        "Source1": "http://live.itech.host:1110/;"
+    },
+    {
+        "Title": "NB Radio Network",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/5695504950231040"
+    },
+    {
+        "Title": "Nepal Network",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/5092732051652608"
+    },
+    {
+        "Title": "NepalBodh",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/5762972326559744"
+    },
+    {
+        "Title": "Nepali Online Radio",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/1754975892132"
+    },
+    {
+        "Title": "Nepali Radio Network",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/560"
+    },
+    {
+        "Title": "Nepali Sanchar Radio",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/160"
+    },
+    {
+        "Title": "Newa FM",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/624"
+    },
+    {
+        "Title": "Nsanchar Online Radio",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/5729629102931968"
+    },
+    {
+        "Title": "Online Radio Darpan",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/5752453079236608"
+    },
+    {
+        "Title": "Prime Fm",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/5744707193798656"
+    },
+    {
+        "Title": "QN Radio",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/432"
+    },
+    {
+        "Title": "Radio Amurta (91.6 MHz)",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/201"
+    },
+    {
+        "Title": "Radio Annapurna Nepal",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/34"
+    },
+    {
+        "Title": "Radio Artha Sarokar",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/5641049345097728"
+    },
+    {
+        "Title": "Radio Audio",
+        "Country": "Nepal",
+        "Tags": "entertainment,music,pop",
+        "Language": "hi,ne",
+        "Homepage": "https://www.aradioaudio.com/",
+        "Latitude": 27.69594048204452,
+        "Longitude": 85.33132106060293,
+        "Source1": "https://stream.zeno.fm/fvrx47wpg0quv"
+    },
+    {
+        "Title": "Radio Audio Full Time Comedy",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/16"
+    },
+    {
+        "Title": "Radio Bandhan",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/5676510457364480"
+    },
+    {
+        "Title": "Radio Bandipur FM",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/60"
+    },
+    {
+        "Title": "Radio Bharatpur",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/4526045613129728"
+    },
+    {
+        "Title": "Radio Bhimeshwar",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/5686949836750848"
+    },
+    {
+        "Title": "Radio Bijayabasti",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/536"
+    },
+    {
+        "Title": "Radio Chhimeki",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/5195102160945152"
+    },
+    {
+        "Title": "Radio Chinari",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/5185286415843328"
+    },
+    {
+        "Title": "Radio Chitwan",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/5756424605007872"
+    },
+    {
+        "Title": "Radio Chitwan Aawaj",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/1765183103366"
+    },
+    {
+        "Title": "Radio City",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/192"
+    },
+    {
+        "Title": "Radio Comedy Champion",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/5694556735537152"
+    },
+    {
+        "Title": "Radio Deshantar",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/603"
+    },
+    {
+        "Title": "Radio Entertainment",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/5659565563707392"
+    },
+    {
+        "Title": "Radio Gaatha",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/1754975331580"
+    },
+    {
+        "Title": "Radio Ganatantra Aawaj",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/5661090081931264"
+    },
+    {
+        "Title": "Radio Harpal",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/604"
+    },
+    {
+        "Title": "Radio Himalaya",
+        "Country": "Nepal",
+        "Tags": "himalaya,nepal",
+        "Favicon": "http://img.sedoparking.com/templates/logos/sedo_logo.png",
+        "Language": "ne",
+        "Homepage": "http://www.radiohimalaya.com/",
+        "Source1": "https://live.itech.host/himalayaradio?1588276425741"
+    },
+    {
+        "Title": "Radio Himshikhar",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/5169237691727872"
+    },
+    {
+        "Title": "Radio Holeri FM",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/613"
+    },
+    {
+        "Title": "Radio Janmabhumi",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/5072336292151296"
+    },
+    {
+        "Title": "Radio Jhapa",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/612"
+    },
+    {
+        "Title": "Radio Jugar FM",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/5098565154111488"
+    },
+    {
+        "Title": "Radio Kalaiya",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/638"
+    },
+    {
+        "Title": "Radio Kamal",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/5115844034035712"
+    },
+    {
+        "Title": "Radio Kanchan",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/5669428777713664"
+    },
+    {
+        "Title": "Radio Kanchanpur",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/5730933162377216"
+    },
+    {
+        "Title": "Radio Kantipur",
+        "Country": "Nepal",
+        "Homepage": "https://radiokantipur.com/",
+        "Source1": "https://radio-broadcast.ekantipur.com/stream"
+    },
+    {
+        "Title": "Radio Kantipur FM 96.1 MHz",
+        "Country": "Nepal",
+        "Favicon": "http://radio-jcss-cdn.ekantipur.com/images/kfm_logo.png",
+        "Homepage": "https://radiokantipur.com/",
+        "Source1": "https://radio-broadcast.ekantipur.com/stream"
+    },
+    {
+        "Title": "Radio Kathmandu",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/592"
+    },
+    {
+        "Title": "Radio Lokpriya Netrajyoti",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/5066985635315712"
+    },
+    {
+        "Title": "Radio Madhyabindu",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/39"
+    },
+    {
+        "Title": "Radio Makawanpur",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/44"
+    },
+    {
+        "Title": "Radio Mangsebung",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/168"
+    },
+    {
+        "Title": "Radio Melamchi",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/165"
+    },
+    {
+        "Title": "Radio Mirmire",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/23"
+    },
+    {
+        "Title": "Radio Nagarik Chaso",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/5724460680216576"
+    },
+    {
+        "Title": "Radio Namaste (92.8 MHz)",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/45"
+    },
+    {
+        "Title": "Radio Namaste (Ghorahi Dang)",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/5676250880278528"
+    },
+    {
+        "Title": "Radio Nepal",
+        "Country": "Nepal",
+        "Tags": "news",
+        "Language": "ne",
+        "Homepage": "https://radionepal.gov.np/",
+        "Source1": "https://stream1.radionepal.gov.np/live/"
+    },
+    {
+        "Title": "Radio Olive Nepal",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/6280161257324544"
+    },
+    {
+        "Title": "Radio Parasi",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/223"
+    },
+    {
+        "Title": "Radio Pariwartan",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/5702767270166528"
+    },
+    {
+        "Title": "Radio Pariwartan Silaawaj",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/5115748882055168"
+    },
+    {
+        "Title": "Radio Planet",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/167"
+    },
+    {
+        "Title": "Radio Risti",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/5124684192415744"
+    },
+    {
+        "Title": "Radio Rolpa",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/5661344508411904"
+    },
+    {
+        "Title": "Radio Rudraksha",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/25"
+    },
+    {
+        "Title": "Radio Sagarmatha",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/36"
+    },
+    {
+        "Title": "Radio Sajha Online",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/5153047720230912"
+    },
+    {
+        "Title": "Radio Samarpan",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/545"
+    },
+    {
+        "Title": "Radio Sambridha Nepal (Nesdo Fm) (92.6)",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/5712961207271424"
+    },
+    {
+        "Title": "Radio Sanfebagar",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/5712164037853184"
+    },
+    {
+        "Title": "Radio Sarangi (Morang)",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/5730595890003968"
+    },
+    {
+        "Title": "Radio Sarangi (Pokhara) (101.3 Mhz)",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/5666633592864768"
+    },
+    {
+        "Title": "Radio Saugat",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/401"
+    },
+    {
+        "Title": "Radio Sauraha",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/5697008457220096"
+    },
+    {
+        "Title": "Radio Shivashakti",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/556"
+    },
+    {
+        "Title": "Radio Shyamlatal",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/1777269398552"
+    },
+    {
+        "Title": "Radio Simana",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/649"
+    },
+    {
+        "Title": "Radio Suseli",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/5637666806693888"
+    },
+    {
+        "Title": "Radio Swabhiman",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/5114406746718208"
+    },
+    {
+        "Title": "Radio Thaha Sanchar",
+        "Country": "Nepal",
+        "Favicon": "null",
+        "Language": "ne",
+        "Homepage": "https://thahasanchar.com/live",
+        "Source1": "https://streaming.softnep.net:10988/;stream.nsv&type=mp3"
+    },
+    {
+        "Title": "RadioSagar",
+        "Country": "Nepal",
+        "Tags": "pop",
+        "Source1": "https://eu1.fastcast4u.com/proxy/radiosag?mp=/stream/1/"
+    },
+    {
+        "Title": "Rajbanshi Online Radio",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/5089000765259776"
+    },
+    {
+        "Title": "Rautahat FM",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/5753165192364032"
+    },
+    {
+        "Title": "Red FM",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/5070153408577536"
+    },
+    {
+        "Title": "Relation FM",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/492"
+    },
+    {
+        "Title": "Sandarva Sanchar Radio",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/308"
+    },
+    {
+        "Title": "Saru Online Radio",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/1771399074879"
+    },
+    {
+        "Title": "Siddhartha  FM",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/5664612039000064"
+    },
+    {
+        "Title": "Sky FM",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/118"
+    },
+    {
+        "Title": "Sumiran FM",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/5132813491765248"
+    },
+    {
+        "Title": "Swadesh 93.2 FM",
+        "Country": "Nepal",
+        "Homepage": "https://swadeshfm.com/",
+        "Source1": "http://216.55.141.189:8653/stream?type=http&nocache=66846"
+    },
+    {
+        "Title": "Swadesh FM",
+        "Country": "Nepal",
+        "Favicon": "https://www.hamropatro.com/favicon.ico",
+        "Homepage": "https://www.hamropatro.com/radio",
+        "Source1": "https://radio.garden/api/ara/content/listen/ApPqIXdm/channel.mp3?1700834587158"
+    },
+    {
+        "Title": "Syangja Radio",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/5080939950505984"
+    },
+    {
+        "Title": "Synergy FM",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/5761100687605760"
+    },
+    {
+        "Title": "Times FM (90.6 MHz)",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/82"
+    },
+    {
+        "Title": "Tinau FM",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Homepage": "https://tinaufm.com.np/",
+        "Source1": "https://streaming.softnep.net:10854/;stream.nsv;type=mp3&volume=70"
+    },
+    {
+        "Title": "Tinjure Online",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/145"
+    },
+    {
+        "Title": "Triveni Times FM 100.6",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/5172139856494592"
+    },
+    {
+        "Title": "Ujyaalo 90 Network",
+        "Country": "Nepal",
+        "Tags": "entertainment,media,news,variety",
+        "Language": "en,ne",
+        "Homepage": "https://ujyaaloonline.com/",
+        "Source1": "http://stream.zenolive.com/wtuvp08xq1duv"
+    },
+    {
+        "Title": "Ultimaě radio",
+        "Country": "Nepal",
+        "Tags": "electronic",
+        "Source1": "https://ultimae-bofaradio.radioca.st/"
+    },
+    {
+        "Title": "Unique FM (90MHz)",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/5145621453340672"
+    },
+    {
+        "Title": "Unique FM (97.6 MHz)",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/360"
+    },
+    {
+        "Title": "Universal Health Radio (नेपाली)",
+        "Country": "Nepal",
+        "Tags": "cdc,education,fda,health,nepali,news,public health,who",
+        "Favicon": "https://universalhealthradio.org/favicon.png",
+        "Language": "ne",
+        "Homepage": "https://universalhealthradio.org/",
+        "Source1": "https://radio.universalhealthradio.org/uhr-ne.mp3"
+    },
+    {
+        "Title": "VSansar Online Radio",
+        "Country": "Nepal",
+        "Language": "ne",
+        "Source1": "https://www.hamropatro.com/api/radio/stream/5117028245438464"
+    },
+    {
+        "Title": "रेडियो हिमालय",
+        "Country": "Nepal",
+        "Tags": "nepali evergreen",
+        "Language": "ne",
+        "Homepage": "https://radiohimalaya.com/",
+        "Source1": "https://live.itech.host/himalayaradio"
+    }
+]

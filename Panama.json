@@ -1,0 +1,268 @@
+[
+    {
+        "Title": "AL TOPE RADIO",
+        "Country": "Panama",
+        "Favicon": "https://cdn.onlineradiobox.com/img/l/2/33452.v5.png",
+        "Homepage": "https://www.altoperadio.com/",
+        "Source1": "https://server.laradio.online/proxy/edwin_chacon?mp=/stream"
+    },
+    {
+        "Title": "AM Original 1180 Veraguas",
+        "Country": "Panama",
+        "Tags": "folkloric",
+        "Favicon": "https://amoriginal.net/wp-content/uploads/2024/03/cropped-logo_am_original_v2_512x512-180x180.png",
+        "Language": "es",
+        "Homepage": "http://www.amoriginal.net/",
+        "Source1": "http://rosetta.shoutca.st:9264/stream"
+    },
+    {
+        "Title": "Antena 8 100.1 FM",
+        "Country": "Panama",
+        "Tags": "2000s,2010s,90s,comercială,hits,musica,radio hablada",
+        "Favicon": "https://www.antena8.com/wp-content/uploads/2019/04/logo-antena-peque.png",
+        "Language": "es",
+        "Homepage": "https://www.antena8.com/",
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/ANT8AAC.aac"
+    },
+    {
+        "Title": "Beat Life Panama",
+        "Country": "Panama",
+        "Tags": "80s, 90s, pop",
+        "Favicon": "https://static2.mytuner.mobi/media/tvos_radios/MypDp5LTEv.png",
+        "Language": "es-419",
+        "Region": "PA-3",
+        "Homepage": "https://beatlifepanama.com/",
+        "Latitude": 8.95904513573664,
+        "Longitude": -79.53882830215379,
+        "Source1": "https://cast4.asurahosting.com/proxy/ondabra2/stream"
+    },
+    {
+        "Title": "Brava Radio 507",
+        "Country": "Panama",
+        "Favicon": "https://i.imgur.com/xAIF7eX.jpeg",
+        "Homepage": "https://www.facebook.com/Brava-Radio-507-104005031609202/",
+        "Source1": "https://laradiossl.online:10660/"
+    },
+    {
+        "Title": "CHT FM 107.7",
+        "Country": "Panama",
+        "Tags": "entretenimiento,musica,tropical,vallenato",
+        "Favicon": "https://www.cht1077.com/images/bg.jpg",
+        "Language": "es",
+        "Homepage": "https://www.cht1077.com/",
+        "Source1": "https://radios.host-pa.com:8046/;"
+    },
+    {
+        "Title": "Dinamix fm",
+        "Country": "Panama",
+        "Language": "es",
+        "Homepage": "https://www.dinamixfm.com/",
+        "Source1": "https://jcbroadcast.org:8000/dinamixfm"
+    },
+    {
+        "Title": "Estéreo Azul 100.9 FM",
+        "Country": "Panama",
+        "Tags": "entretenimiento,latino,merengue,salsa,tropical",
+        "Favicon": "https://www.estereoazul.com/wp-content/uploads/2019/03/logo-azul-1.png",
+        "Language": "es",
+        "Homepage": "https://www.estereoazul.com/",
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/ESTEREOAZULAAC.aac"
+    },
+    {
+        "Title": "Exa FM",
+        "Country": "Panama",
+        "Tags": "93.3 fm,entretenimiento,español,estación,exa,exa fm,fm,juvenil,la estación exacta,la estación naranja,moi merino,mvs,mvs noticias,mvs radio,música en español e inglés,música pop,ponte exa,pop,pop en español e inglés,pop music,pop rock,radio",
+        "Favicon": "https://www.exafm.com/favicon.ico",
+        "Language": "es",
+        "Homepage": "https://www.exafm.com/veracruz/",
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac"
+    },
+    {
+        "Title": "Fabulosa Estéreo 100.5 FM",
+        "Country": "Panama",
+        "Tags": "bachata,dj,latino,mix,reggae,reggaeton,salsa,urbano",
+        "Language": "es",
+        "Homepage": "https://fabulosaestereo.com/",
+        "Source1": "https://www.streaming507.net:8130/stream"
+    },
+    {
+        "Title": "Festival 1540 AM",
+        "Country": "Panama",
+        "Tags": "entrevistas,folklore,music,nacional,noticias,popular",
+        "Favicon": "https://festival1540am.com/wp-content/uploads/2016/01/LOGO-NUEVO-transparente1.png",
+        "Language": "es",
+        "Homepage": "https://festival1540am.com/",
+        "Source1": "http://streaming507.net:8128/stream"
+    },
+    {
+        "Title": "Flow 92.7 FM",
+        "Country": "Panama",
+        "Tags": "hits,latino,mix,reggaeton,urbano",
+        "Favicon": "https://statics-v3.streema.com/static/img/radios/profile_background_default_380.abf7abe7e86a.jpg",
+        "Language": "es",
+        "Homepage": "https://x.com/flow927fm",
+        "Source1": "http://streaming507.net:9980/stream"
+    },
+    {
+        "Title": "FM Corazón 102.5",
+        "Country": "Panama",
+        "Tags": "amor,baladas en español,music,musica romantica",
+        "Favicon": "https://fmcorazonellenguajedelamor.com/wp-content/uploads/2024/04/fmcorazon-150x150.jpeg",
+        "Language": "es",
+        "Homepage": "https://fmcorazonellenguajedelamor.com/",
+        "Source1": "https://sp4.colombiatelecom.com.co/8006/stream"
+    },
+    {
+        "Title": "L.A. Mega 98.1 FM",
+        "Country": "Panama",
+        "Favicon": "https://lamegapanama.com/wp-content/uploads/2024/08/logo-png369-x-150-px.png",
+        "Homepage": "https://lamegapanama.com/",
+        "Source1": "https://www.streaming507.net:8152/stream"
+    },
+    {
+        "Title": "la mega",
+        "Country": "Panama",
+        "Homepage": "https://lamegapanama.com/",
+        "Source1": "https://usest-sp1.golivestream.net/8022/stream"
+    },
+    {
+        "Title": "LA TIPIK",
+        "Country": "Panama",
+        "Favicon": "https://pbs.twimg.com/profile_images/1233402500671250437/lEGH0-Yd_400x400.jpg",
+        "Homepage": "https://x.com/latipikradio",
+        "Source1": "https://stream.mixesurbanospty.com:8090/tipik.mp3"
+    },
+    {
+        "Title": "Magic FM",
+        "Country": "Panama",
+        "Favicon": "https://radioparallevar.com/wp-content/uploads/2020/08/magic_hd-e1695935759999.png",
+        "Homepage": "https://radioparallevar.com/magicfm/",
+        "Source1": "https://laradio.stream/proxy/magicfm/stream"
+    },
+    {
+        "Title": "Okey 96.3 FM",
+        "Country": "Panama",
+        "Favicon": "https://assets.clrd.net/uploads/logos/autodj/019d92d3-969b-7071-a2df-da5a5b3fc6b1/b1b5469d-3920-4f6b-a07d-2edc8faae2bf.webp",
+        "Language": "es",
+        "Homepage": "https://okey963fm.com/",
+        "Source1": "https://icy.cloudrad.io/5b3fc6b1"
+    },
+    {
+        "Title": "Omega Stereo",
+        "Country": "Panama",
+        "Tags": "classic rock, talk",
+        "Favicon": "https://pbs.twimg.com/profile_images/1246331679/Twiter_400x400.jpg",
+        "Language": "es-419",
+        "Region": "PA-8",
+        "Homepage": "https://www.omegastereo.com/",
+        "Latitude": 8.990237931656342,
+        "Longitude": -79.52450187460748,
+        "Source1": "https://www.streaming507.net:8048/stream"
+    },
+    {
+        "Title": "Original Stereo 90.7 FM",
+        "Country": "Panama",
+        "Favicon": "https://www.originalstereo.net/wp-content/uploads/2023/07/LOGO_ORIGINAL_STEREO.png",
+        "Homepage": "https://www.originalstereo.net/",
+        "Source1": "https://original.radioca.st/;"
+    },
+    {
+        "Title": "Original Stereo 90.7 FM",
+        "Country": "Panama",
+        "Tags": "cumbia,musica latina,reggaetón,salsa",
+        "Language": "es",
+        "Homepage": "https://originalstereo.net/",
+        "Source1": "http://rosetta.shoutca.st:8931/;"
+    },
+    {
+        "Title": "Radio Ancon",
+        "Country": "Panama",
+        "Favicon": "https://platform-upload.cdn-brlogic.com/253166/logo-horizontal/c58e9bf5473040817b5c350cd0f8561d.png",
+        "Language": "es",
+        "Homepage": "https://radioanconpanama.webradiosite.com/",
+        "Latitude": 8.980817853042284,
+        "Longitude": -79.52299654483797,
+        "Source1": "https://servidor40-3.brlogic.com:7074/live?source=website"
+    },
+    {
+        "Title": "RADIO MARIA PANAMA",
+        "Country": "Panama",
+        "Tags": "catholic,religion,talk",
+        "Homepage": "http://www.radiomaria.pa/",
+        "Source1": "http://dreamsiteradiocp.com:8082/stream"
+    },
+    {
+        "Title": "RADIO MARIA PANAMA",
+        "Country": "Panama",
+        "Favicon": "https://radiomaria.pa/wp-content/themes/radiomaria/img/logo-chiaro.png",
+        "Homepage": "https://radiomaria.pa/",
+        "Source1": "https://dreamsiteradiocp2.com/proxy/rmpanama2?mp=/stream"
+    },
+    {
+        "Title": "RPC Radio",
+        "Country": "Panama",
+        "Favicon": "https://www.rpcradio.com/site/assets/files/others/2018/02/28/MEDGEN/1034/dummylogo.768x461.jpg",
+        "Homepage": "https://rpcradio.com/",
+        "Source1": "https://s9.stweb.tv/thinkindot-fast-3/live/playlist.m3u8"
+    },
+    {
+        "Title": "Rumba FM",
+        "Country": "Panama",
+        "Homepage": "https://radioparallevar.com/",
+        "Source1": "https://laradiossl.online:10355/;stream.nsv"
+    },
+    {
+        "Title": "Stereo Vida Panama",
+        "Country": "Panama",
+        "Tags": "bible,cristiana,evangelio,religious",
+        "Favicon": "https://stereovida.org/mt-content/uploads/2023/05/stereo-vida.jpg",
+        "Language": "es",
+        "Homepage": "https://stereovida.org/",
+        "Source1": "https://stream.zeno.fm/fz1rcfd1x1zuv"
+    },
+    {
+        "Title": "Super Q Panama",
+        "Country": "Panama",
+        "Tags": "música variada",
+        "Language": "es",
+        "Homepage": "https://superqpanama.net/",
+        "Latitude": 9.039556443514964,
+        "Longitude": -79.4301223754883,
+        "Source1": "https://sqserver.superqpanama.net:8005/superqpanama"
+    },
+    {
+        "Title": "Telemetro Radio",
+        "Country": "Panama",
+        "Favicon": "https://static2.mytuner.mobi/media/tvos_radios/103/telemetro-radio.d78fb02c.png",
+        "Homepage": "https://www.telemetro.com/radio",
+        "Source1": "https://s9.stweb.tv/thinkindot-fast-1/live/playlist.m3u8"
+    },
+    {
+        "Title": "TropiQ",
+        "Country": "Panama",
+        "Favicon": "https://www.tropiq.com/wp-content/uploads/2018/06/Logo-Tropi-Q.png",
+        "Homepage": "https://tropiq.com/",
+        "Source1": "https://www.streaming507.net:8140/stream"
+    },
+    {
+        "Title": "TVN Radio",
+        "Country": "Panama",
+        "Favicon": "https://cdn-profiles.tunein.com/s186597/images/logod.png",
+        "Homepage": "https://www.tvn-2.com/",
+        "Source1": "https://mdstrm.com/audio/654a5c9f40fd924d7ba3cd41/live.m3u8?_=1742584558819&dnt=true&player=6652918b0895f378e25e2728&uid=bd4OLrAP9gIxbw92y28cJBSUgVhCxWFY&sid=XbHbf3SdW8OPynroe95JSyz2nfB3iN5C&pid=coEcFUo064cTG0feq0zr1KKM5touhYMQ&an=tvn-pass-app-web&at=web-app&av=v1.0.18&sc=0&ref=tvn-especiales-editorial-comercial.s3.us-east-2.amazonaws.com&res=1536x864"
+    },
+    {
+        "Title": "Ultra Stereo 98.9 FM",
+        "Country": "Panama",
+        "Favicon": "https://www.fmultrastereo.com/assets/images/logo-ultrastereo.png",
+        "Homepage": "https://www.fmultrastereo.com/",
+        "Source1": "https://www.streaming507.net:8134/stream"
+    },
+    {
+        "Title": "YXY",
+        "Country": "Panama",
+        "Favicon": "https://grupojapradiotv.com/wp-content/themes/yootheme/cache/47/yxy-4721fd1e.webp",
+        "Homepage": "https://grupojapradiotv.com/",
+        "Source1": "https://sp4.colombiatelecom.com.co:8006/stream"
+    }
+]

@@ -1,0 +1,75 @@
+[
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "Monaco",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "chilli moje",
+        "Country": "Monaco",
+        "Favicon": "https://media-ssl.musicradio.com/favicon.ico",
+        "Language": "en",
+        "Homepage": "https://media-ssl.musicradio.com/",
+        "Source1": "https://media-ssl.musicradio.com/ChillMP3"
+    },
+    {
+        "Title": "Radio Monaco 98.2",
+        "Country": "Monaco",
+        "Tags": "euro hits,monte carlo",
+        "Language": "fr",
+        "Homepage": "http://www.radio-monaco.com/",
+        "Source1": "http://radiomonaco.ice.infomaniak.ch/radiomonaco-128.mp3"
+    },
+    {
+        "Title": "Radio Monte Carlo",
+        "Country": "Monaco",
+        "Tags": "music,news",
+        "Language": "it",
+        "Homepage": "http://www.radiomontecarlo.net/",
+        "Source1": "http://edge.radiomontecarlo.net/RMC.mp3"
+    },
+    {
+        "Title": "Radio Monte Carlo Italia",
+        "Country": "Monaco",
+        "Tags": "italian,italian oldies,italian pop",
+        "Language": "it",
+        "Homepage": "https://www.radiomontecarlo.net/sezioni/478/rmc-italia",
+        "Source1": "https://icy.unitedradio.it/rmcweb005"
+    },
+    {
+        "Title": "Riviera Radio",
+        "Country": "Monaco",
+        "Favicon": "https://rivieraradio.mc/assets/img/logo.png",
+        "Homepage": "https://rivieraradio.mc/",
+        "Source1": "http://rivieraradio.ice.infomaniak.ch/rivieraradio-high.mp3"
+    },
+    {
+        "Title": "Yellow Party",
+        "Country": "Monaco",
+        "Homepage": "https://yellow.radio/radiochannel/yellow-party/",
+        "Source1": "https://yellowradio.ice.infomaniak.ch/yellow02.aac"
+    },
+    {
+        "Title": "Yellow Riviera",
+        "Country": "Monaco",
+        "Tags": "deep house,soulfull",
+        "Language": "fr",
+        "Homepage": "https://yellow.radio/radiochannel/yellow-riviera/",
+        "Latitude": 43.73286965486682,
+        "Longitude": 7.424563765525819,
+        "Source1": "https://yellowradio.ice.infomaniak.ch/yellow01.mp3"
+    },
+    {
+        "Title": "Yellow.radio",
+        "Country": "Monaco",
+        "Tags": "dance,deep,electro,pop",
+        "Favicon": "https://yellow.radio/logo-yellow.radio.jaune.png",
+        "Homepage": "https://yellow.radio/",
+        "Latitude": 43.73263987015333,
+        "Longitude": 7.425684928894044,
+        "Source1": "https://yellowradio.ice.infomaniak.ch/yellowradio.mp3"
+    }
+]

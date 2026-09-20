@@ -1,0 +1,151 @@
+[
+    {
+        "Title": "Abdulbasit Abdulsamad",
+        "Country": "Mauritius",
+        "Favicon": "null",
+        "Language": "ar",
+        "Homepage": "https://mp3islam.com/",
+        "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
+    },
+    {
+        "Title": "MBC Best FM",
+        "Country": "Mauritius",
+        "Tags": "dance,pop,top40",
+        "Favicon": "https://mbcradio.tv/sites/default/files/favicon.ico",
+        "Language": "en,fr",
+        "Homepage": "https://mbcradio.tv/",
+        "Latitude": -20.24366651858667,
+        "Longitude": 57.591361999511726,
+        "Source1": "https://radio.mbconline.xyz/hls/bestfm.m3u8"
+    },
+    {
+        "Title": "MBC Kool FM",
+        "Country": "Mauritius",
+        "Tags": "dance,pop",
+        "Language": "en,fr",
+        "Homepage": "https://mbcradio.tv/",
+        "Latitude": -20.24431074838422,
+        "Longitude": 57.59204864501954,
+        "Source1": "https://radio.mbconline.xyz/hls/koolfm.m3u8"
+    },
+    {
+        "Title": "MBC Radio Maurice",
+        "Country": "Mauritius",
+        "Tags": "oldies,pop",
+        "Language": "fr",
+        "Homepage": "https://mbcradio.tv/",
+        "Latitude": -20.244954975510264,
+        "Longitude": 57.59204864501954,
+        "Source1": "https://radio.mbconline.xyz/hls/radiomaurice.m3u8"
+    },
+    {
+        "Title": "MBC Radio Mauritius",
+        "Country": "Mauritius",
+        "Tags": "talk",
+        "Favicon": "https://mbcradio.tv/sites/default/files/favicon.ico",
+        "Language": "en,hi",
+        "Homepage": "https://mbcradio.tv/",
+        "Latitude": -20.24431074838422,
+        "Longitude": 57.59342193603516,
+        "Source1": "https://radio.mbconline.xyz/hls/radiomauritus.m3u8"
+    },
+    {
+        "Title": "MBC Taal FM",
+        "Country": "Mauritius",
+        "Tags": "indian music,oldies",
+        "Favicon": "https://mbcradio.tv/streaming/img/cover_taalfm.png",
+        "Language": "en,hi",
+        "Homepage": "https://mbcradio.tv/",
+        "Source1": "https://radio.mbconline.xyz/hls/tallfm.m3u8"
+    },
+    {
+        "Title": "OUi Radio",
+        "Country": "Mauritius",
+        "Tags": "christian,christian music,christian praise&worship,christian-gospel,gospel,mauritius",
+        "Favicon": "https://www.ouiradio.com/wp-content/uploads/2023/06/OUI-Radio-Logo-White-5000.png",
+        "Language": "en,fr",
+        "Homepage": "https://www.ouiradio.com/",
+        "Latitude": -20.306236097689855,
+        "Longitude": 57.49151676893235,
+        "Source1": "https://mu1stream.mushost.com:8443/"
+    },
+    {
+        "Title": "OUi Radio Rodrigues",
+        "Country": "Mauritius",
+        "Favicon": "https://rod.ouiradio.com/images/OUi-Radio-Rodrigues-Logo.png",
+        "Homepage": "https://rod.ouiradio.com/",
+        "Source1": "https://mu1stream.mushost.com:8554/"
+    },
+    {
+        "Title": "Radio 7 Mauritius",
+        "Country": "Mauritius",
+        "Tags": "dancehall,hindi,hindi bollywood",
+        "Language": "en,fr",
+        "Homepage": "https://radio7mauritius.com/audiostream.html",
+        "Latitude": -20.18346153358615,
+        "Longitude": 57.48040822421131,
+        "Source1": "https://c2.radioboss.fm/stream/1056"
+    },
+    {
+        "Title": "Radio One",
+        "Country": "Mauritius",
+        "Language": "en,fr",
+        "Homepage": "https://radio1.mu/",
+        "Latitude": -20.22338198031523,
+        "Longitude": 57.62329101562501,
+        "Source1": "https://centova57.instainternet.com/proxy/vivavoceltd?mp=/stream"
+    },
+    {
+        "Title": "Radio Plus - Indiz",
+        "Country": "Mauritius",
+        "Tags": "bollywood,hindi",
+        "Favicon": "https://static-media.streema.com/media/cache/7e/87/7e878f2a00ddf5a8311c66914c6fc44d.jpg",
+        "Homepage": "https://live.radioplus.mu/webradio/indiz.html",
+        "Source1": "https://streamer.radio.co/sed5c5a375/listen"
+    },
+    {
+        "Title": "Radio Plus Mauritius",
+        "Country": "Mauritius",
+        "Tags": "news,music",
+        "Favicon": "https://live.radioplus.mu/wp-content/uploads/elementor/thumbs/radioplus-qohb3n7nfwchk09bu0c6dm1hvtjgr7523yeok8btoq.jpg",
+        "Language": "FR,EN,MK",
+        "Region": "AT-PL",
+        "Homepage": "https://live.radioplus.mu/",
+        "Latitude": -20.172583203502946,
+        "Longitude": 57.500985174432216,
+        "Source1": "https://stream.radioplus.mu:8000/radio.mp3"
+    },
+    {
+        "Title": "Radioplus Fever",
+        "Country": "Mauritius",
+        "Homepage": "https://live.radioplus.mu/",
+        "Source1": "https://streamer.radio.co/s3fe39a4a4/listen"
+    },
+    {
+        "Title": "SENSUELLE RADIO",
+        "Country": "Mauritius",
+        "Tags": "70,80,90",
+        "Favicon": "https://sensuelleradio.com/favicon.ico",
+        "Homepage": "https://sensuelleradio.com/",
+        "Latitude": -21.30856673806807,
+        "Longitude": 55.67871093750001,
+        "Source1": "https://forwardmystream.com/sensuelleradio"
+    },
+    {
+        "Title": "Tamizen",
+        "Country": "Mauritius",
+        "Language": "ta",
+        "Homepage": "https://c34.radioboss.fm:18023/stream",
+        "Source1": "https://c34.radioboss.fm:18023/stream"
+    },
+    {
+        "Title": "Top FM",
+        "Country": "Mauritius",
+        "Favicon": "https://www.topfm.mu/sites/default/files/topfmlogo_0_0.png",
+        "Language": "fr",
+        "Homepage": "https://www.topfm.mu/",
+        "Latitude": -20.16128177437625,
+        "Longitude": 57.498772144317634,
+        "Source1": "https://s1.radioforge.com:4433/topfmlive/stream?hash=1663883843609.mp3"
+    }
+]
