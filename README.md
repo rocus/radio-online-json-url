@@ -12,7 +12,7 @@ I use these json files as a source for a plugin I made for Streamtuner-ng.
 
 (see https://github.com/IronWolve/StreamTuner-ng)
 
-You can see that plugin (later) as a repository on my github page.
+You can see that plugin as a repository on my github page.
 
-(see https://github.com/rocus/country_stations)
+(see https://github.com/rocus/country-stations)
 
