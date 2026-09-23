@@ -3974,6 +3974,14 @@
         "Source1": "https://arclibrary.grausof.it/stream"
     },
     {
+        "Title": "Radio Abruzzo",
+        "Country": "Italy",
+        "Homepage": "https://www.abruzzo.fm/",
+        "Latitude": 42.41845100208974,
+        "Longitude": 14.191589355468752,
+        "Source1": "https://www.abruzzo.fm/#"
+    },
+    {
         "Title": "Radio Activity",
         "Country": "Italy",
         "Language": "it",
@@ -4721,6 +4729,15 @@
         "Longitude": 10.218421398629388,
         "Source1": "https://3177cee185284d2990021eccc8b06ae6.msvdn.net/icecastRelay/S40405633/awErq1X8tY5P/icecast",
         "Source2": "https://3177cee185284d2990021eccc8b06ae6.msvdn.net/icecastRelay/S22947945/BgNSWRZ8K9gX/icecast"
+    },
+    {
+        "Title": "Radio Brunetti",
+        "Country": "Italy",
+        "Tags": "calabria,culture,history,independent,italian music,talk",
+        "Favicon": "https://www.riccardobrunetti.it/img/radio-brunetti-logo.png",
+        "Language": "it",
+        "Homepage": "https://www.riccardobrunetti.it/radio-brunetti.html",
+        "Source1": "https://radio.riccardobrunetti.it/listen/cantus_radioweb_brunetti_/radio.mp3"
     },
     {
         "Title": "Radio Bruno",
@@ -8637,6 +8654,12 @@
         "Source1": "https://voice.webradio.bz/radioperugia2"
     },
     {
+        "Title": "Radio Pescara",
+        "Country": "Italy",
+        "Homepage": "https://www.abruzzo.fm/",
+        "Source1": "https://ssl5.azotosolutions.com:1048/listen.mp3"
+    },
+    {
         "Title": "Radio PeterPan",
         "Country": "Italy",
         "Tags": "corsano,misc",
@@ -11666,6 +11689,14 @@
         "Homepage": "https://rdsrelax.it/",
         "Source1": "http://icstream.rds.radio/rdsrelax",
         "Source2": "https://stream.rds.radio/audio/rdsrelax.stream_aac/playlist.m3u8"
+    },
+    {
+        "Title": "REGIONAL  RADIO",
+        "Country": "Italy",
+        "Homepage": "http://www.regionalradio.it/",
+        "Latitude": 42.42626612915207,
+        "Longitude": 12.480817437171936,
+        "Source1": "http://138.201.198.218:8593/"
     },
     {
         "Title": "Regional Radio",

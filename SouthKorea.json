@@ -644,6 +644,15 @@
         "Source1": "http://115.85.182.39/sonefm"
     },
     {
+        "Title": "Soshi-Subs",
+        "Country": "SouthKorea",
+        "Tags": "kpop",
+        "Favicon": "https://092007.xyz/apple-touch-icon.png",
+        "Language": "ko",
+        "Homepage": "https://092007.xyz/",
+        "Source1": "https://092007.xyz/radio/soshisubs"
+    },
+    {
         "Title": "TBN 교통방송",
         "Country": "SouthKorea",
         "Tags": "news",

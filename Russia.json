@@ -1511,6 +1511,12 @@
         "Source1": "http://213.141.131.10:8002/forestpsytrance"
     },
     {
+        "Title": "Caprice Radio avant garde jazz",
+        "Country": "Russia",
+        "Homepage": "http://radcap.ru/avantgardejazz.html",
+        "Source1": "http://radcap.ru/avantgardejazz.html"
+    },
+    {
         "Title": "Caprise Eurodance",
         "Country": "Russia",
         "Language": "ru",
@@ -6700,6 +6706,12 @@
         "Favicon": "http://radio88gaga.ru/img_files/header-photo.jpg",
         "Homepage": "http://www.radio88gaga.ru/",
         "Source1": "https://myradio24.org/98107"
+    },
+    {
+        "Title": "Radio Alisa",
+        "Country": "Russia",
+        "Homepage": "https://listen8.myradio24.com/alisa",
+        "Source1": "https://myradio24.org/alisa"
     },
     {
         "Title": "Radio AnimKLATU",
@@ -16897,6 +16909,15 @@
         "Source1": "https://pub0302.101.ru:8000/stream/pro/aac/64/67"
     },
     {
+        "Title": "Музыка2 International",
+        "Country": "Russia",
+        "Tags": "90s eurodance,italo disco,oldies,pop",
+        "Favicon": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%2Fid%2FOIP.06TYx6_EPtrc-AmYGD9ZBQAAAA%3Fr%3D0%26pid%3DApi&f=1&ipt=bdd8b6a8b691b3da3343ecfc3fd1f86773484f07c0f7774c7cd0d6571d69a83c&ipo=images",
+        "Language": "en",
+        "Homepage": "http://kino-1.catcast.tv/content/37742/index.m3u8",
+        "Source1": "http://kino-1.catcast.tv/content/37742/index.m3u8"
+    },
+    {
         "Title": "Мумий Тролль",
         "Country": "Russia",
         "Tags": "discography",
@@ -18263,6 +18284,12 @@
         "Language": "ru",
         "Homepage": "https://top-radio.ru/vladikavkaz/alaniya-fm",
         "Source1": "http://vgtrk15.hostingradio.ru:8011/vgtrk15128.mp3"
+    },
+    {
+        "Title": "Радио Алиса",
+        "Country": "Russia",
+        "Homepage": "https://listen8.myradio24.com/alisa",
+        "Source1": "https://myradio24.org/alisa"
     },
     {
         "Title": "радио Алтай",

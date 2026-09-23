@@ -1625,6 +1625,14 @@
         "Source1": "https://stream.cooldanceradio.com/stream1/stream.mp3"
     },
     {
+        "Title": "Crazy Raccoon",
+        "Country": "Netherlands",
+        "Tags": "country,modern country,new country",
+        "Favicon": "https://crazyraccoon.nl/wp-content/uploads/2025/05/cropped-IMG_4250.jpeg",
+        "Homepage": "https://crazyraccoon.nl/",
+        "Source1": "https://server7.radio-streams.net/proxy/crazyraccoon/stream"
+    },
+    {
         "Title": "Cream",
         "Country": "Netherlands",
         "Tags": "jazz",
@@ -1962,6 +1970,14 @@
         "Favicon": "https://www.discofactory.fm/uploads/1/4/3/0/143020101/logo-vierkant-zwart_orig.png",
         "Homepage": "https://www.discofactory.fm/",
         "Source1": "https://s5.radio.co/s253044a7a/listen"
+    },
+    {
+        "Title": "Disco Factory FM",
+        "Country": "Netherlands",
+        "Homepage": "https://www.discofactory.fm/",
+        "Latitude": 52.35492327421277,
+        "Longitude": 4.880676269531251,
+        "Source1": "https://stream.discofactory.fm/listen/discofactory/radio.mp3"
     },
     {
         "Title": "Dizgo Radio",
@@ -3920,7 +3936,8 @@
         "Title": "Jolene country radio",
         "Country": "Netherlands",
         "Homepage": "https://jolenecountryradio.nl/",
-        "Source1": "https://jolenecountryradio.nl/"
+        "Source1": "https://jolenecountryradio.nl/",
+        "Source2": "https://22713.live.streamtheworld.com/SERVICE07.mp3"
     },
     {
         "Title": "Jouw 90’s Radio",
@@ -4249,17 +4266,6 @@
         "Source1": "https://stream.l-fm.nl:8443/;"
     },
     {
-        "Title": "L.O.S. Den Helder",
-        "Country": "Netherlands",
-        "Tags": "local radio",
-        "Favicon": "https://static.mytuner.mobi/media/tvos_radios/cxRQLgSJgj.png",
-        "Language": "nl",
-        "Homepage": "http://e.radio-nederland.nl/embed/los-den-helder-413484",
-        "Latitude": 52.95080988662242,
-        "Longitude": 4.759998321533204,
-        "Source1": "http://e.radio-nederland.nl/embed/los-den-helder-413484"
-    },
-    {
         "Title": "L.O.V.E. (Lokale Omroep Volendam Edam)",
         "Country": "Netherlands",
         "Tags": "community radio,local news,local radio,music",
@@ -4469,17 +4475,6 @@
         "Favicon": "https://static.wixstatic.com/media/a8cb68_ac167ab2f4c84bf987b7e79ca89b04c0~mv2.png/v1/crop/x_3,y_0,w_708,h_714/fill/w_254,h_258,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/logov2.png",
         "Homepage": "https://www.loostadradio.nl/",
         "Source1": "https://server-23.stream-server.nl:18476/;&type=mp3"
-    },
-    {
-        "Title": "LOS Den Helder",
-        "Country": "Netherlands",
-        "Tags": "local news",
-        "Favicon": "https://dlprizi2qtumd.cloudfront.net/images/stations/radio-den-helder-los-cover.png",
-        "Language": "nl",
-        "Homepage": "https://www.radioviainternet.nl/radio-den-helder-los",
-        "Latitude": 52.9432591254467,
-        "Longitude": 4.759140014648438,
-        "Source1": "https://www.radioviainternet.nl/radio-den-helder-los"
     },
     {
         "Title": "LX Classics",
@@ -5720,17 +5715,6 @@
         "Source1": "https://stream.pepperboxradio.nl:8000/radio.mp3"
     },
     {
-        "Title": "Pepperbox radio",
-        "Country": "Netherlands",
-        "Tags": "piratenmuziek",
-        "Favicon": "https://pepperboxradio.nl/webplayer.php",
-        "Language": "nl",
-        "Homepage": "https://pepperboxradio.nl/",
-        "Latitude": 52.2032014364783,
-        "Longitude": 6.879501342773438,
-        "Source1": "https://pepperboxradio.nl/"
-    },
-    {
         "Title": "PerfectMoods",
         "Country": "Netherlands",
         "Favicon": "https://www.perfectmoods.com/apple-touch-icon.png",
@@ -6166,6 +6150,13 @@
         "Favicon": "https://www.piratenkanjers.nl/assets/img/favicons",
         "Homepage": "https://www.piratenkanjers.nl/",
         "Source1": "https://ex52.voordeligstreamen.nl/8095/stream"
+    },
+    {
+        "Title": "PiratenKanon Suriname",
+        "Country": "Netherlands",
+        "Favicon": "https://mlgl1docz7l0.i.optimole.com/w:738/h:738/q:mauto/ig:avif/https://piratenkanon.nl/wp-content/uploads/2025/06/cropped-PiratenKanonSuriname_740x740.webp",
+        "Homepage": "https://piratenkanon.nl/",
+        "Source1": "https://piratenkanon.nl/luisteren/PiratenKanonMP3-320.pls"
     },
     {
         "Title": "Piratenpower",
@@ -7474,6 +7465,15 @@
         "Source1": "https://cdn.voscast.com/resources/?key=07310b2448cdea5d13faff91268e178d&c=winamp"
     },
     {
+        "Title": "Radio G-FM Nederland",
+        "Country": "Netherlands",
+        "Tags": "80s,90s,disco,eurodance,pop music",
+        "Homepage": "https://www.radiogfm.nl/",
+        "Latitude": 50.868881905214586,
+        "Longitude": 5.832796096801759,
+        "Source1": "https://stream.radiogfm.nl:8200/high.aac"
+    },
+    {
         "Title": "Radio Gelderland",
         "Country": "Netherlands",
         "Tags": "103.5,news,public radio",
@@ -7715,6 +7715,15 @@
         "Favicon": "https://www.radionachtuil.nl/images/homepage%20logo.png",
         "Homepage": "https://radionachtuil.djpaneel.nl/",
         "Source1": "https://everestcastprohostingbudget.nl:1400/johannes/1/winamp.m3u"
+    },
+    {
+        "Title": "Radio NL",
+        "Country": "Netherlands",
+        "Tags": "gezelligheid,hollands,hollandse muziek,levenslied,nederlandstalig,volksmuziek",
+        "Language": "nl",
+        "Homepage": "https://radionl.fm/",
+        "Source1": "http://radionl.fm/",
+        "Source2": "https://stream.radionl.fm/radionl"
     },
     {
         "Title": "Radio Noord",
@@ -8845,6 +8854,21 @@
         "Latitude": 51.75109519821508,
         "Longitude": 5.262531638145447,
         "Source1": "https://server-28.stream-server.nl:8802/stream"
+    },
+    {
+        "Title": "RN7",
+        "Country": "Netherlands",
+        "Favicon": "https://www.rn7.nl/favicons/rn7_favicon.png",
+        "Homepage": "https://www.rn7.nl/rn7-radio/live-radio",
+        "Source1": "https://stream.stream.delivery/rn7"
+    },
+    {
+        "Title": "RN7",
+        "Country": "Netherlands",
+        "Tags": "nijmegen region",
+        "Favicon": "https://favicons.teamtailor-cdn.com/allicons.json?url=https%3a%2f%2fwww.rn7.nl%2fnieuws",
+        "Homepage": "https://www.rn7.nl/",
+        "Source1": "https://stream.stream.delivery/rn7"
     },
     {
         "Title": "RN7nl",

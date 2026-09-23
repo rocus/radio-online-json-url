@@ -1329,7 +1329,8 @@
         "Country": "Philippines",
         "Favicon": "https://static.wikia.nocookie.net/signons-and-signoffs/images/4/42/Barangay_LS_893.png/revision/latest/scale-to-width-down/180?cb=20260812230925",
         "Homepage": "http://www.gmanetwork.com/",
-        "Source1": "http://uk19freenew.listen2myradio.com:35225/listen.pls"
+        "Source1": "http://uk19freenew.listen2myradio.com:35225/listen.pls",
+        "Source2": "http://uk26freenew.listen2myradio.com:34779/listen.pls"
     },
     {
         "Title": "Barangay LS 893 Tuguegarao",
@@ -1359,6 +1360,27 @@
         "Favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVyc_tSPPOg-OsGjJUOSlAcdaEcRFFL3_nKQ&s",
         "Homepage": "https://www.gmanetwork.com/radio/streaming/dwls",
         "Source1": "http://28093.live.streamtheworld.com:3690/MORFM_S01AAC_SC"
+    },
+    {
+        "Title": "Barangay LS 97.5 Palawan",
+        "Country": "Philippines",
+        "Favicon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Barangay_LS_Palawan.jpg/500px-Barangay_LS_Palawan.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "Homepage": "https://www.gmanetwork.com/radio/",
+        "Source1": "http://uk22freenew.listen2myradio.com:11550/listen.pls"
+    },
+    {
+        "Title": "Barangay LS 99.5",
+        "Country": "Philippines",
+        "Favicon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Barangay_LS_Cebu.jpg/500px-Barangay_LS_Cebu.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "Homepage": "http://www.gmanetwork.com/",
+        "Source1": "http://uk14freenew.listen2myradio.com:7811/listen.pls"
+    },
+    {
+        "Title": "Barangay LS 99.5 Cebu",
+        "Country": "Philippines",
+        "Favicon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Barangay_LS_Cebu.jpg/500px-Barangay_LS_Cebu.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+        "Homepage": "http://www.gmanetwork.com/",
+        "Source1": "http://uk14freenew.listen2myradio.com:7811/listen.pls"
     },
     {
         "Title": "Basco Radio 93.3 Studio 2",
@@ -3167,6 +3189,15 @@
         "Source1": "https://laut.fm/gensan-city_music_to_enjoy"
     },
     {
+        "Title": "GGEZ",
+        "Country": "Philippines",
+        "Tags": "bunibuni",
+        "Favicon": "https://www.dropbox.com/scl/fi/ujwcgt6w8d51xemt9ziym/Kaien-Sugar-M.Sasuke-GGEZ-Official-MV.mp3?rlkey=vyhiy8wplhyqit1oy5la4av8p&st=xd0hqmic&dl=0",
+        "Language": "en",
+        "Homepage": "https://www.dropbox.com/scl/fi/ujwcgt6w8d51xemt9ziym/Kaien-Sugar-M.Sasuke-GGEZ-Official-MV.mp3?rlkey=vyhiy8wplhyqit1oy5la4av8p&st=xd0hqmic&dl=0",
+        "Source1": "https://www.dropbox.com/scl/fi/ujwcgt6w8d51xemt9ziym/Kaien-Sugar-M.Sasuke-GGEZ-Official-MV.mp3?rlkey=vyhiy8wplhyqit1oy5la4av8p&st=xd0hqmic&raw=1"
+    },
+    {
         "Title": "Gold FM Kidapawan",
         "Country": "Philippines",
         "Favicon": "http://goldfmkid.weebly.com/uploads/7/6/6/5/766534/1385539.jpg?244",
@@ -3191,11 +3222,25 @@
         "Source1": "https://edge.mixlr.com/channel/gtqpn?listening-from-radio-garden=1654604184"
     },
     {
+        "Title": "GV 99.1",
+        "Country": "Philippines",
+        "Favicon": "https://gvradios.com/gv991.png",
+        "Homepage": "https://gvradios.com/audio991.html",
+        "Source1": "https://video.gv99-9.live/gv991video/stream.m3u8"
+    },
+    {
         "Title": "GV 99.9 FM",
         "Country": "Philippines",
         "Favicon": "https://gv99-9.live/GV999.jpg",
         "Homepage": "https://gv99-9.live/",
         "Source1": "https://gvstream.tail160f79.ts.net/stream"
+    },
+    {
+        "Title": "GV AM 792",
+        "Country": "Philippines",
+        "Favicon": "https://gvradios.com/gvam792.png",
+        "Homepage": "https://gvradios.com/audio792.html",
+        "Source1": "https://gvamaudio.tail160f79.ts.net/stream"
     },
     {
         "Title": "Happy Radio Davao Region",
@@ -3511,6 +3556,13 @@
         "Favicon": "https://play-lh.googleusercontent.com/8ZQioBOxi3WV-pIPi0gi-2_L-Gaut2sh4dr1JCnpJlAFvwYMSCVA4sdbxQEnRUmaEo3R",
         "Homepage": "https://www.abs-cbn.com/patrolph",
         "Source1": "http://209.126.124.126:8852/stream"
+    },
+    {
+        "Title": "K5 News FM Antique",
+        "Country": "Philippines",
+        "Favicon": "https://apk.radyoph.com/upload/1702553129_K5Radio.png",
+        "Homepage": "https://radyoph.com/station/k5sanjose",
+        "Source1": "http://us1.amfmph.com:2199/tunein/sweetfmantique-stream.pls"
     },
     {
         "Title": "K5 News FM Bacolod",

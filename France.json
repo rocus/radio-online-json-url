@@ -2160,6 +2160,15 @@
         "Source1": "https://stream.c9.fr/c9radio-flac.ogg.m3u"
     },
     {
+        "Title": "Cacao Radio",
+        "Country": "France",
+        "Tags": "chill,easy listening,electro,lounge,pop",
+        "Favicon": "https://studio10.vestaradio.com/uploads/user-music/2847/covers/cover_2847_1789732969_43e151.png",
+        "Language": "fr",
+        "Homepage": "https://www.cacaoradio.com/",
+        "Source1": "https://stream10.vestaradio.com/Cacao-Radio"
+    },
+    {
         "Title": "Cacao-Radio",
         "Country": "France",
         "Tags": "chillout,easy listening,electronic,lounge",
@@ -4015,6 +4024,16 @@
         "Source1": "http://www.teiubescrecords.com:8000/space"
     },
     {
+        "Title": "DECADES La radio",
+        "Country": "France",
+        "Tags": "2000s,hits,music 70s 80s 90s,pop music,variétés",
+        "Language": "fr",
+        "Homepage": "https://www.decades.radio/",
+        "Latitude": 47.8802723041849,
+        "Longitude": 6.763383150100709,
+        "Source1": "https://ecmanager2.pro-fhi.net:2375/stream"
+    },
+    {
         "Title": "Delta FM",
         "Country": "France",
         "Tags": "musique",
@@ -4235,11 +4254,6 @@
         "Language": "fr",
         "Homepage": "http://www.droogies.org/",
         "Source1": "http://www.droogies.org:8000/stream"
-    },
-    {
-        "Title": "drqance culture",
-        "Country": "France",
-        "Source1": "https://www.radio-en-ligne.fr/france-culture"
     },
     {
         "Title": "dubsideradio",
@@ -4657,7 +4671,8 @@
         "Favicon": "https://www.europe2.fr/wp-content/themes/melty/europeradio/assets/images/favicons/favicon128.png",
         "Language": "fr",
         "Homepage": "https://www.europe2.fr/",
-        "Source1": "http://europe2.lmn.fm/europe2.mp3"
+        "Source1": "http://europe2.lmn.fm/europe2.mp3",
+        "Source2": "https://europe2.lmn.fm/europe2-85000/playlist.m3u8"
     },
     {
         "Title": "Europe 2 90's",
@@ -5523,6 +5538,14 @@
         "Language": "fr",
         "Homepage": "https://www.radiofm43.org/",
         "Source1": "https://fm43.ice.infomaniak.ch/fm43-64.aac"
+    },
+    {
+        "Title": "Folk57",
+        "Country": "France",
+        "Tags": "folk,irish folk",
+        "Language": "fr",
+        "Homepage": "https://folk57.com/",
+        "Source1": "https://manager11.streamradio.fr:2795/stream?x=1789983354990"
     },
     {
         "Title": "forever la radio",
@@ -12030,6 +12053,15 @@
         "Source1": "https://streaming.nrjaudio.fm/ougfkxrb92oc"
     },
     {
+        "Title": "Nostalgie 60 70",
+        "Country": "France",
+        "Favicon": "https://players.nrjaudio.fm/live-metadata/player/img/player-files/nosta/logos/640x640/NOSTA-WR-60-70.jpg?utm_source=chatgpt.com",
+        "Homepage": "https://nostalgie.fr/",
+        "Latitude": 48.863931803134136,
+        "Longitude": 2.3396549216566025,
+        "Source1": "https://streaming.nrjaudio.fm/ougfkxrb92oc?origine=fluxradios&aw_0_1st.station=NOSTALGIE-60-70"
+    },
+    {
         "Title": "Nostalgie 70",
         "Country": "France",
         "Tags": "nostalgie,webradio",
@@ -12398,24 +12430,6 @@
         "Latitude": 48.84586945997229,
         "Longitude": 2.2645542025566106,
         "Source1": "https://streaming.nrjaudio.fm/oua8a3w2dqao?origine=playernostalgie&aw_0_req.userConsentV2=&aw_0_1st.station="
-    },
-    {
-        "Title": "Nostalgie Italia",
-        "Country": "France",
-        "Homepage": "https://www.cheriefm.fr/#",
-        "Source1": "https://cdn.nrjaudio.fm/audio/live/fr/30611/mp3_128.mp3](https://cdn.nrjaudio.fm/audio/live/fr/30611/mp3_128.mp3"
-    },
-    {
-        "Title": "NOSTALGIE ITALIA II",
-        "Country": "France",
-        "Homepage": "https://www.cheriefm.fr/",
-        "Source1": "https://www.nostalgie.fr/webradios/mur-des-radios/nostalgie-italia"
-    },
-    {
-        "Title": "NOSTALGIE ITALIA II",
-        "Country": "France",
-        "Homepage": "https://www.cheriefm.fr/#",
-        "Source1": "https://cdn.nrjaudio.fm/audio/live/fr/30313/mp3_128.mp3"
     },
     {
         "Title": "Nostalgie Italo Disco",
@@ -12946,6 +12960,16 @@
         "Language": "fr",
         "Homepage": "https://www.nostalgie.fr/",
         "Source1": "https://streaming.nrjaudio.fm/oupqj5bgddr9"
+    },
+    {
+        "Title": "Nostalgie Tout Les Tubes Tout Les Styles",
+        "Country": "France",
+        "Favicon": "https://img.nrj.fr/TbtESygHKbmC-P_DcMhZV4kEZn8=/265x265/smart/https%3A%2F%2Fplayers.nrjaudio.fm%2Flive-metadata%2Fplayer%2Fimg%2Fplayer-files%2Fnosta%2Flogos%2F640x640%2FNOSTA_WR_TOUS-LES-TUBES-TOUS-LES-STYLES.jpg",
+        "Language": "fr",
+        "Homepage": "https://nostalgie.fr/",
+        "Latitude": 48.857938768171536,
+        "Longitude": 2.3377168141922056,
+        "Source1": "https://streaming.nrjaudio.fm/oupqj5bgddr9?origine=fluxradios&aw_0_1st.station=Nostalgie-Tous-les-Tubes-Tous-les-styles"
     },
     {
         "Title": "Nostalgie Tube Machine",
@@ -16695,6 +16719,15 @@
         "Language": "fr",
         "Homepage": "https://radiocalade.fr/",
         "Source1": "http://live.francra.org:8000/Radio-Calade"
+    },
+    {
+        "Title": "Radio Calais Détroit",
+        "Country": "France",
+        "Tags": "variété",
+        "Favicon": "http://stream.radiostationcalaisdetroit.fr:8000/stream",
+        "Language": "fr",
+        "Homepage": "http://stream.radiostationcalaisdetroit.fr:8000/stream",
+        "Source1": "http://stream.radiostationcalaisdetroit.fr:8000/stream"
     },
     {
         "Title": "Radio Calvi Citadelle",
@@ -21038,7 +21071,8 @@
         "Homepage": "http://www.rtl.fr/",
         "Source1": "https://icecast.rtl.fr/rtl-1-44-128",
         "Source2": "http://icecast.rtl.fr/rtl-1-44-128?listen=webCwsBCggNCQgLDQUGBAcGBg",
-        "Source3": "http://streaming.radio.rtl.fr/rtl-1-44-128"
+        "Source3": "http://streaming.radio.rtl.fr/rtl-1-44-128",
+        "Source4": "https://live.m6radio.quortex.io/webM89Hc99XApzgfhXNX8ASN5/grouprtl/national/short/audio-64000/index.m3"
     },
     {
         "Title": "RTL",
@@ -21767,6 +21801,13 @@
         "Source1": "https://listen.radioking.com/radio/26746/stream/59470"
     },
     {
+        "Title": "stolliahc",
+        "Country": "France",
+        "Favicon": "https://radiostolliahc.fr/",
+        "Homepage": "https://radiostolliahc.fr/",
+        "Source1": "https://radiostolliahc.fr/"
+    },
+    {
         "Title": "Stone Rock Radio",
         "Country": "France",
         "Favicon": "https://static.wixstatic.com/media/61d768_e59844c4014e4642972310a0500546bb~mv2.png/v1/fill/w_245,h_245,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/nouveau_logo-removebg-preview.png",
@@ -21987,9 +22028,9 @@
         "Title": "Sun Radio - Cafe",
         "Country": "France",
         "Tags": "lounge,néo soul & downtempo,smooth-acid jazz",
+        "Language": "fr",
         "Homepage": "https://www.vip-radios.fm/station/sun-radio-cafe/",
-        "Source1": "https://www.vip-radios.fm/station/sun-radio-cafe/",
-        "Source2": "http://radio2.vip-radios.fm:8068/private-192kmp3-CafeSoulside_autodj"
+        "Source1": "http://radio2.vip-radios.fm:8068/private-192kmp3-CafeSoulside_autodj"
     },
     {
         "Title": "Sun Radio Bar",
@@ -22151,6 +22192,17 @@
         "Homepage": "https://www.swingfm.asso.fr/",
         "Source1": "http://swingfm.ice.infomaniak.ch/swingfm-128.mp3",
         "Source2": "https://swingfm.ice.infomaniak.ch/swingfm-128.mp3?time=1778860049303"
+    },
+    {
+        "Title": "TBM06.FR",
+        "Country": "France",
+        "Tags": "alpes-maritimes,cote d azur,french hits,hits,info locale,local news,nice,pop,talk",
+        "Favicon": "https://www.tbm06.fr/images/logo-tbm06-carre-1000.png",
+        "Language": "fr",
+        "Homepage": "https://www.tbm06.fr/radio/",
+        "Latitude": 43.7031,
+        "Longitude": 7.2661,
+        "Source1": "https://listen.radioking.com/radio/806511/stream/875226"
     },
     {
         "Title": "Teenage Kicks Radio",
@@ -22495,7 +22547,8 @@
         "Tags": "hits,pop,talk,top 40,top hits",
         "Favicon": "https://ulia.radio/storage/identite/logo_1789401939.svg",
         "Homepage": "https://ulia.radio/",
-        "Source1": "https://audio.opensky.radio:8082/stream96"
+        "Source1": "https://audio.opensky.radio:8082/stream96",
+        "Source2": "https://audio.opensky.radio:8082/stream"
     },
     {
         "Title": "Ultra Max",

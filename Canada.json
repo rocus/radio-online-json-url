@@ -9900,6 +9900,13 @@
         "Source1": "http://149.56.234.138:2199/tunein/eastfmcj.pls"
     },
     {
+        "Title": "GGEZ",
+        "Country": "Canada",
+        "Favicon": "https://www.dropbox.com/scl/fi/ujwcgt6w8d51xemt9ziym/Kaien-Sugar-M.Sasuke-GGEZ-Official-MV.mp3?rlkey=vyhiy8wplhyqit1oy5la4av8p&st=xd0hqmic&dl=0",
+        "Homepage": "https://www.dropbox.com/scl/fi/ujwcgt6w8d51xemt9ziym/Kaien-Sugar-M.Sasuke-GGEZ-Official-MV.mp3?rlkey=vyhiy8wplhyqit1oy5la4av8p&st=xd0hqmic&dl=0",
+        "Source1": "https://www.dropbox.com/scl/fi/ujwcgt6w8d51xemt9ziym/Kaien-Sugar-M.Sasuke-GGEZ-Official-MV.mp3?rlkey=vyhiy8wplhyqit1oy5la4av8p&st=xd0hqmic&raw=1"
+    },
+    {
         "Title": "GHOAT",
         "Country": "Canada",
         "Favicon": "https://thekiputerstore.ca/FINAL-TheGhoat-logo-blue-side-yrs-TB-icon-180x180.png",
@@ -10496,12 +10503,6 @@
         "Latitude": 44.2330046876423,
         "Longitude": -76.48731674201957,
         "Source1": "https://rogers-hls.leanstream.co/rogers/kin1057.stream/playlist.m3u8?environment=web&args=app_03"
-    },
-    {
-        "Title": "K-Rock 975",
-        "Country": "Canada",
-        "Homepage": "https://krockrocks.com/",
-        "Source1": "https://player.k-rock975.com/"
     },
     {
         "Title": "K-Rock 975",
@@ -11379,14 +11380,6 @@
         "Country": "Canada",
         "Homepage": "https://qcountryfm.ca/",
         "Source1": "https://redirect.jpbgdigital.com/CKLQ"
-    },
-    {
-        "Title": "Q Country 91.5FM",
-        "Country": "Canada",
-        "Tags": "country",
-        "Language": "en",
-        "Homepage": "https://qcountryfm.ca/home/",
-        "Source1": "https://qcountryfm.ca/player/?playerID=2907"
     },
     {
         "Title": "Q104.3",
@@ -12447,12 +12440,6 @@
         "Source1": "https://cob-ais.leanstream.co/CFJBFM-MP3?args=tunein_01"
     },
     {
-        "Title": "Rouge Montreal",
-        "Country": "Canada",
-        "Homepage": "http://www.rougefm.ca/",
-        "Source1": "https://www.iheart.com/live/rouge-montreal-7458"
-    },
-    {
         "Title": "Royalty Free Music 24/7 - AAC-LC - 128K Stereo",
         "Country": "Canada",
         "Tags": "royalty free",
@@ -12674,7 +12661,7 @@
     {
         "Title": "SerrebiRadio",
         "Country": "Canada",
-        "Tags": "dance / edm / trance / progressive / house / hard dance / chillout / dubstep",
+        "Tags": "chillout,dance,dubstep,edm,hard dance,house,progressive,trance",
         "Favicon": "https://radio.serrebiradio.com/static/uploads/logo.png",
         "Language": "en",
         "Region": "CA-BC",
@@ -12863,6 +12850,34 @@
         "Favicon": "https://www.stingray.com/wp-content/uploads/2024/09/Stingray_black_text.svg",
         "Homepage": "https://www.stingray.com/radio/#stingrayStations",
         "Source1": "https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8"
+    },
+    {
+        "Title": "Stingray Smoot Jazz",
+        "Country": "Canada",
+        "Tags": "smooth jazz",
+        "Favicon": "https://cdn.tvivu.com/logos/stingray-smooth-jazz-160.webp",
+        "Homepage": "https://music.stingray.com/en/channels/040/smooth-jazz",
+        "Latitude": 43.537930122370106,
+        "Longitude": -79.27734375000001,
+        "Source1": "https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8"
+    },
+    {
+        "Title": "Stingray Smoot Jazz",
+        "Country": "Canada",
+        "Tags": "jazz,smooth jazz",
+        "Favicon": "https://cdn.tvivu.com/logos/stingray-smooth-jazz-160.webp",
+        "Homepage": "https://music.stingray.com/en/CA/channels/040/smooth-jazz",
+        "Source1": "https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8"
+    },
+    {
+        "Title": "Stingray Smoot Jazz",
+        "Country": "Canada",
+        "Tags": "jazz,smooth jazz",
+        "Favicon": "https://cdn.tvivu.com/logos/stingray-smooth-jazz-160.webp",
+        "Homepage": "https://www.music.stingray.com/en/CA/channels/040/Smooth-Jazz",
+        "Latitude": 62.30879369102805,
+        "Longitude": -101.953125,
+        "Source1": "https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8"
     },
     {
         "Title": "Suite Jazz Radio",

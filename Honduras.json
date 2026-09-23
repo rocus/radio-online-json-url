@@ -272,6 +272,17 @@
         "Source1": "https://stream.radiosmundiales.com:8016/GLOBO885"
     },
     {
+        "Title": "RADIO GLOBO 88.5 MHZ",
+        "Country": "Honduras",
+        "Tags": "104.5 fm,88.5 fm,88.5 mhz,90.7 fm,95.5 fm,97.9 fm,coman mierda,globo fm,globo mhz,hablemos de dia,information,news,noticias,radio globo,talk radio",
+        "Favicon": "https://www.allradio.net/500/HXUoDCq0UJdep-qrzKD09.webp",
+        "Language": "es",
+        "Homepage": "https://www.radioglobohonduras.com/",
+        "Latitude": 14.099606277752542,
+        "Longitude": -87.19323724508288,
+        "Source1": "https://api.condoristream.com/stream/radioglobo"
+    },
+    {
         "Title": "Radio HRN La Voz de Honduras",
         "Country": "Honduras",
         "Tags": "information,news,talk radio",

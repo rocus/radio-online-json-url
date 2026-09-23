@@ -1150,14 +1150,6 @@
         "Source1": "https://stream.radio943.se/stream"
     },
     {
-        "Title": "Radio Aftonbladet",
-        "Country": "Sweden",
-        "Homepage": "https://www.aftonbladet.se/",
-        "Latitude": 59.27017904775786,
-        "Longitude": 18.110961914062504,
-        "Source1": "https://www.aftonbladet.se/podcasts/episode/396373"
-    },
-    {
         "Title": "Radio bubb.la",
         "Country": "Sweden",
         "Language": "sv",
@@ -1193,10 +1185,7 @@
         "Title": "Radio Gold Sweden",
         "Country": "Sweden",
         "Homepage": "https://www.radiogold.se/",
-        "Source1": "http://radiogold.se/",
-        "Source2": "https://www.radiogold.se/lyssna/radiogold953",
-        "Source3": "https://www.radiogold.se/lyssna/",
-        "Source4": "https://streaming.943.se/radiogold"
+        "Source1": "https://streaming.943.se/radiogold"
     },
     {
         "Title": "Radio Haninge",
@@ -1669,11 +1658,10 @@
         "Title": "SR P4 Jönköping",
         "Country": "Sweden",
         "Tags": "local news",
-        "Favicon": "https://www.sverigesradio.se/",
+        "Favicon": "https://upload.wikimedia.org/wikipedia/commons/6/63/SR_P4_logo.svg?utm_source=sv.wikipedia.org&utm_campaign=index&utm_content=original",
         "Language": "sv",
         "Homepage": "https://www.sverigesradio.se/nyheter/p4-jonkoping",
-        "Source1": "https://live1.sr.se/p4jkpg-aac-320%20(AAC-LC,%20320%20kbps)",
-        "Source2": "https://live1.sr.se/p4jkpg-aac-320"
+        "Source1": "https://live1.sr.se/p4jkpg-aac-320"
     },
     {
         "Title": "SR P4 Kronoberg",

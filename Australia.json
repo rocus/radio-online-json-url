@@ -1695,6 +1695,16 @@
         "Source1": "http://streaming.novaentertainment.com.au/fiveaa?type=.mp3"
     },
     {
+        "Title": "5aa Adelaide Australia",
+        "Country": "Australia",
+        "Tags": "talkback",
+        "Language": "en",
+        "Homepage": "http://www.fiveaa.com.au/",
+        "Latitude": -34.92671517101762,
+        "Longitude": 138.6001482843567,
+        "Source1": "https://www.radio-addict.com/en/stream-ayoH39j6wxzv8gRFYMazwF/listen-Fiveaa-Adelaide-5AA"
+    },
+    {
         "Title": "5EBI 103.1 FM",
         "Country": "Australia",
         "Tags": "mix",
@@ -8115,12 +8125,6 @@
         "Language": "en",
         "Homepage": "https://www.hit.com.au/easy",
         "Source1": "https://wz2liw.scahw.com.au/live/2easy_128.stream/playlist.m3u8"
-    },
-    {
-        "Title": "Easy FM",
-        "Country": "Australia",
-        "Homepage": "https://www.easyfm.com.au/",
-        "Source1": "https://www.easyfm.com.au/"
     },
     {
         "Title": "Edge FM - Bega Valley Community Radio - 93.7 FM (AAC)",

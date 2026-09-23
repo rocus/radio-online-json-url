@@ -456,6 +456,13 @@
         "Source1": "https://lyd.nrk.no/icecast/mp3/high/bkaen3z6bl/p3musikk?1768728185"
     },
     {
+        "Title": "NRK Radio_Super",
+        "Country": "Norway",
+        "Favicon": "https://lyd.nrk.no/img/favicon.ico",
+        "Homepage": "https://radio.nrk.no/direkte/radio_super",
+        "Source1": "https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/radio_super"
+    },
+    {
         "Title": "NRK Sport",
         "Country": "Norway",
         "Homepage": "https://radio.nrk.no/",

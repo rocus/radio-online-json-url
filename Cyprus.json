@@ -86,6 +86,15 @@
         "Source1": "https://radio.feelgood.fm/mp3"
     },
     {
+        "Title": "Greek Laika Nonstop Radio",
+        "Country": "Cyprus",
+        "Tags": "classic hits,greek hits,greek music,pop",
+        "Favicon": "https://i.ibb.co/PvF4MK0D/20260919-231600.jpg",
+        "Language": "el",
+        "Homepage": "https://greeklaika.com/",
+        "Source1": "https://radio.greeklaika.com/listen/greek_laika_nonstop_radio/radio.mp3"
+    },
+    {
         "Title": "Kanali6 (106.00 | 98.6 | 107.00 | 106.9) Lemesos Cyprus Alternative Stream",
         "Country": "Cyprus",
         "Language": "el",

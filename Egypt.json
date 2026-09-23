@@ -220,6 +220,97 @@
         "Source1": "https://stream.zeno.fm/zsgrfxg71s8uv"
     },
     {
+        "Title": "OmniRadio - Abdulbasit - Full Mushaf (Archive.org) (عبد الباسط - المصحف كاملاً (أرشيف الإنترنت))",
+        "Country": "Egypt",
+        "Tags": "arabic,islam,islamic,quran,religious",
+        "Homepage": "https://radio.xecod.com/listen/basit-archive",
+        "Source1": "https://radio.xecod.com/station/basit-archive"
+    },
+    {
+        "Title": "OmniRadio - Holy Quran Radio Cairo (إذاعة القرآن الكريم (القاهرة))",
+        "Country": "Egypt",
+        "Tags": "arabic,cairo,egypt,egyptian,islam,islamic,quran,religious",
+        "Homepage": "https://radio.xecod.com/listen/quran-cairo",
+        "Source1": "https://radio.xecod.com/station/quran-cairo"
+    },
+    {
+        "Title": "OmniRadio - Islamic Audio Library (Uploads) (المكتبة الصوتية والملفات المرفوعة)",
+        "Country": "Egypt",
+        "Tags": "arabic,islam,islamic,library,quran,religious,uploads",
+        "Homepage": "https://radio.xecod.com/listen/local-library",
+        "Source1": "https://radio.xecod.com/station/local-library"
+    },
+    {
+        "Title": "OmniRadio - Quran & Islamic Radio (إذاعة القرآن الكريم)",
+        "Country": "Egypt",
+        "Tags": "arabic,islam,islamic,koran,quran,religious",
+        "Homepage": "https://radio.xecod.com/",
+        "Source1": "https://radio.xecod.com/station/quran-cairo"
+    },
+    {
+        "Title": "OmniRadio - Sheikh Abdulbasit Abdulsamad (Mojawwad) (الشيخ عبد الباسط عبد الصمد)",
+        "Country": "Egypt",
+        "Tags": "abdulbasit,arabic,islam,islamic,mojawwad,quran,reciter,religious",
+        "Homepage": "https://radio.xecod.com/listen/abdulbasit",
+        "Source1": "https://radio.xecod.com/station/abdulbasit"
+    },
+    {
+        "Title": "OmniRadio - Sheikh Abdulbasit Abdulsamad (الشيخ عبد الباسط عبد الصمد)",
+        "Country": "Egypt",
+        "Tags": "abdulbasit,arabic,islam,islamic,mojawwad,quran,reciter,religious",
+        "Homepage": "https://radio.xecod.com/listen/abdulbasit",
+        "Source1": "https://radio.xecod.com/station/abdulbasit"
+    },
+    {
+        "Title": "OmniRadio - Sheikh Ahmad Tamim Al-Maraghi (الشيخ أحمد تميم المراغي)",
+        "Country": "Egypt",
+        "Tags": "arabic,islam,islamic,quran,religious",
+        "Homepage": "https://radio.xecod.com/listen/ahmad-tamim",
+        "Source1": "https://radio.xecod.com/station/ahmad-tamim"
+    },
+    {
+        "Title": "OmniRadio - Sheikh Ammar Al-Mulla (الشيخ عمار الملا)",
+        "Country": "Egypt",
+        "Tags": "arabic,islam,islamic,quran,religious",
+        "Homepage": "https://radio.xecod.com/listen/ammar-almulla",
+        "Source1": "https://radio.xecod.com/station/ammar-almulla"
+    },
+    {
+        "Title": "OmniRadio - Sheikh Bandar Balila (الشيخ بندر بليلة)",
+        "Country": "Egypt",
+        "Tags": "arabic,islam,islamic,quran,religious",
+        "Homepage": "https://radio.xecod.com/listen/bandar-balila",
+        "Source1": "https://radio.xecod.com/station/bandar-balila"
+    },
+    {
+        "Title": "OmniRadio - Sheikh Mahmoud Ali Al-Banna (الشيخ محمود علي البنا)",
+        "Country": "Egypt",
+        "Tags": "arabic,islam,islamic,quran,religious",
+        "Homepage": "https://radio.xecod.com/listen/albanna",
+        "Source1": "https://radio.xecod.com/station/albanna"
+    },
+    {
+        "Title": "OmniRadio - Sheikh Mahmoud Khalil Al-Hussary (الشيخ محمود خليل الحصري)",
+        "Country": "Egypt",
+        "Tags": "arabic,hussari,hussary,islam,islamic,quran,reciter,religious",
+        "Homepage": "https://radio.xecod.com/listen/alhussary",
+        "Source1": "https://radio.xecod.com/station/alhussary"
+    },
+    {
+        "Title": "OmniRadio - Sheikh Mishary Rashid Al-Afasy (الشيخ مشاري بن راشد العفاسي)",
+        "Country": "Egypt",
+        "Tags": "afasi,afasy,arabic,islam,islamic,quran,reciter,religious",
+        "Homepage": "https://radio.xecod.com/listen/alafasi",
+        "Source1": "https://radio.xecod.com/station/alafasi"
+    },
+    {
+        "Title": "OmniRadio - Sheikh Mohammed Siddiq Al-Minshawi (الشيخ محمد صديق المنشاوي)",
+        "Country": "Egypt",
+        "Tags": "arabic,islam,islamic,minshawi,quran,reciter,religious",
+        "Homepage": "https://radio.xecod.com/listen/alminshawi",
+        "Source1": "https://radio.xecod.com/station/alminshawi"
+    },
+    {
         "Title": "On Sport FM",
         "Country": "Egypt",
         "Homepage": "https://www.onsportfm.com/",

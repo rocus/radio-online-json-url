@@ -1110,6 +1110,15 @@
         "Source1": "http://breddstream.unrealhosting.hu:4120/;"
     },
     {
+        "Title": "Pannon Rádió",
+        "Country": "Serbia",
+        "Tags": "local radio",
+        "Favicon": "https://pannonrtv.com/sites/default/files/inline-images/pannonradioujlogo1-01.jpg",
+        "Language": "hu",
+        "Homepage": "https://pannonrtv.com/pannon-radio",
+        "Source1": "http://stream2.nmih.hu:4120/live.mp3"
+    },
+    {
         "Title": "Pink Radio",
         "Country": "Serbia",
         "Favicon": "https://pinkradio.rs/images/logo.png",
@@ -1546,6 +1555,13 @@
         "Source1": "http://stream1.contrateam.com:8040/listen.pls"
     },
     {
+        "Title": "Radio Commando Belgrade Serbia",
+        "Country": "Serbia",
+        "Homepage": "https://www.facebook.com/profile.php?id=61594748007942",
+        "Source1": "https://l.facebook.com/l.php?u=http%3A%2F%2Fcommandopfk.radio12345.com%2F%3Ffbclid%3DIwcGRvZgFleHRuA2FlbQIxMABicmlkETFRald0OVE3cWNpVWxFd3NQc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHqGigYQ6RhlipRmUeAwlQTInx6Fp4MEpMjjG-CNvu8zLBq0Xg9R-QPZlsI9N_aem_YZcKLr2uMEOewVHgPJjynw&h=AUD3POsC2jZAncEq6rvUx3haYi5XY6mAyhyhD-5ILuAdnef-RsVFh0B7f0hZt-2y8dmvOUi158u85a91awHsWU6rPLAAJjIlpjsZFjW_9zTqFtO_Dy4R5q124yV4dI9e25JpiC9F8dpe8og&__tn__=-UK-R&c[0]=AUBN4b2Qi4j288rrkzLMVJblgsSonuYvZqB6GjZOm364FmfDm1Jf0MX8cdeLe0eGHdTQT40IUYF7zBlE_urc1-sUGKFMno4enNXDUw3fIC9gvKAlOZwkI92597LSAx8GxfDHbZ7ooC1lvWxyLidN7KZoMzW_tN0AarrS",
+        "Source2": "https://commandopfk.radiostream321.com/"
+    },
+    {
         "Title": "Radio D",
         "Country": "Serbia",
         "Tags": "folk,local music,pop",
@@ -1712,15 +1728,6 @@
         "Language": "sr",
         "Homepage": "https://www.kolubarainfo.rs/",
         "Source1": "https://a1.asurahosting.com:9130/radio.mp3"
-    },
-    {
-        "Title": "Radio Kragujevac",
-        "Country": "Serbia",
-        "Tags": "pop,rock",
-        "Favicon": "https://rtk.co.rs/wp-content/uploads/2017/09/cropped-cropped-RTK-logo.png",
-        "Language": "sr",
-        "Homepage": "https://rtk.co.rs/uzivo/radio/",
-        "Source1": "https://radio.dukahosting.com/8154"
     },
     {
         "Title": "Radio Krajina 019",
@@ -2863,6 +2870,15 @@
         "Language": "hu",
         "Homepage": "http://pannonrtv.com/web2/",
         "Source1": "http://breddstream.unrealhosting.hu:4110/;"
+    },
+    {
+        "Title": "Szabadkai Magyar Rádió",
+        "Country": "Serbia",
+        "Tags": "local radio",
+        "Favicon": "https://pannonrtv.com/sites/default/files/2019-08/szabadkaimagyarradio-szmr-logo.jpg",
+        "Language": "hu",
+        "Homepage": "https://pannonrtv.com/szabadkai-magyar-radio",
+        "Source1": "http://stream.nmih.hu:4110/live.mp3"
     },
     {
         "Title": "TDI BEZ REKLAMA",

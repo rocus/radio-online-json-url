@@ -20,6 +20,50 @@
         "Source1": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3"
     },
     {
+        "Title": "ANS GM",
+        "Country": "Azerbaijan",
+        "Tags": "pop music",
+        "Favicon": "https://static2.mytuner.mobi/media/tvos_radios/dRwMBgmfkg.png",
+        "Language": "az",
+        "Homepage": "https://anspress.com/",
+        "Latitude": 40.33537899814149,
+        "Longitude": 49.85595703125001,
+        "Source1": "https://anspress.com/anschm"
+    },
+    {
+        "Title": "ANS GM",
+        "Country": "Azerbaijan",
+        "Tags": "pop music",
+        "Favicon": "https://static2.mytuner.mobi/media/tvos_radios/dRwMBgmfkg.png",
+        "Language": "az",
+        "Homepage": "https://anspress.com/anschm",
+        "Latitude": 40.33817045213394,
+        "Longitude": 49.84497070312501,
+        "Source1": "https://www.anspress.com/mradio/index.html"
+    },
+    {
+        "Title": "ANS ÇM Radio",
+        "Country": "Azerbaijan",
+        "Tags": "pop music",
+        "Favicon": "https://static2.mytuner.mobi/media/tvos_radios/dRwMBgmfkg.png",
+        "Language": "az",
+        "Homepage": "https://anspress.com/",
+        "Latitude": 40.377238681022355,
+        "Longitude": 49.8321533203125,
+        "Source1": "https://www.anspress.com/mradio/index.html"
+    },
+    {
+        "Title": "ANS ÇM Radio",
+        "Country": "Azerbaijan",
+        "Tags": "pop music",
+        "Favicon": "https://static2.mytuner.mobi/media/tvos_radios/dRwMBgmfkg.png",
+        "Language": "az",
+        "Homepage": "https://www.anspress.com/",
+        "Latitude": 40.396764305572056,
+        "Longitude": 49.80468749999999,
+        "Source1": "https://www.anspress.com/mradio/index.html"
+    },
+    {
         "Title": "Anti Radio",
         "Country": "Azerbaijan",
         "Favicon": "https://antiradio.net/favicon.ico",
@@ -97,10 +141,29 @@
         "Source1": "https://str.yodacdn.net/radio_int/tracks-a1/mono.m3u8"
     },
     {
+        "Title": "Azərbaycan Radiosu Baku 105.0 FM",
+        "Country": "Azerbaijan",
+        "Favicon": "https://images.keepone.net/1678714997-2023-03-13.png",
+        "Language": "az",
+        "Homepage": "https://azradio.az/az",
+        "Latitude": 40.38002840251183,
+        "Longitude": 49.80102539062501,
+        "Source1": "http://str.yodacdn.net/radio_respublica/video.m3u8"
+    },
+    {
         "Title": "Baku Hit FM",
         "Country": "Azerbaijan",
         "Homepage": "https://bakuhitfm.az/",
         "Source1": "http://5.191.241.101:8000/bakuhitfm"
+    },
+    {
+        "Title": "Baku Jazz Radio",
+        "Country": "Azerbaijan",
+        "Favicon": "https://cdn-profiles.tunein.com/s354857/images/logod.jpg?t=639109095420000000",
+        "Homepage": "https://bakujazzradio.com/",
+        "Latitude": 40.43579857174906,
+        "Longitude": 49.79736328125002,
+        "Source1": "https://a9.asurahosting.com/listen/bakujazzredio/radio.mp3"
     },
     {
         "Title": "Baku Jukebox",
@@ -114,6 +177,17 @@
         "Tags": "folk",
         "Favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240130_231946336.jpg?alt=media&token=4aed92f8-f8f5-479f-b60b-68b56f1bb844",
         "Homepage": "http://5.191.241.101:8000/bakuretrofm",
+        "Source1": "http://5.191.241.101:8000/bakuretrofm"
+    },
+    {
+        "Title": "Baku Retro FM",
+        "Country": "Azerbaijan",
+        "Tags": "etno,folk music,narodna - etno",
+        "Favicon": "https://duckduckgo.com/?q=baku+retro+fm+logo&t=iphone&ia=images&iax=images&iai=https%3A%2F%2Fcdn-profiles.tunein.com%2Fs352998%2Fimages%2Flogod.png%3Ft%3D639068441060000000",
+        "Language": "az",
+        "Homepage": "https://retrofm.az/",
+        "Latitude": 40.329795743702064,
+        "Longitude": 49.90722656250002,
         "Source1": "http://5.191.241.101:8000/bakuretrofm"
     },
     {
@@ -172,6 +246,18 @@
         "Source1": "https://icecast.livetv.az/mediafm"
     },
     {
+        "Title": "Media FM Classic",
+        "Country": "Azerbaijan",
+        "Tags": "classical",
+        "Favicon": "https://mediafm.az/wp-content/uploads/2026/03/Media_Classic_309x309.png",
+        "Language": "az",
+        "Homepage": "https://mediafm.az/",
+        "Latitude": 40.38839687388361,
+        "Longitude": 49.81567382812499,
+        "Source1": "https://icecast.livetv.az/mediafm%20%E2%80%94%20MP3,%20192%20kbps.",
+        "Source2": "https://icecast.livetv.az/mediafm"
+    },
+    {
         "Title": "Media fm jazz",
         "Country": "Azerbaijan",
         "Tags": "jazz fusion",
@@ -185,6 +271,16 @@
         "Language": "az",
         "Homepage": "https://mediafm.az/",
         "Source1": "http://icecast.livetv.az/mediamugam"
+    },
+    {
+        "Title": "Media FM Relax",
+        "Country": "Azerbaijan",
+        "Tags": "chill-out,easy listening",
+        "Favicon": "https://mediafm.az/wp-content/uploads/2026/03/Media_Reax_309x309.png",
+        "Homepage": "https://mediafm.az/",
+        "Latitude": 40.37026387193309,
+        "Longitude": 49.83764648437499,
+        "Source1": "http://icecast.livetv.az/mediarelax"
     },
     {
         "Title": "Naxçıvan Radiosu",
@@ -275,6 +371,17 @@
         "Source1": "http://s39.myradiostream.com:5458/"
     },
     {
+        "Title": "Vintage Radio Azerbaijan",
+        "Country": "Azerbaijan",
+        "Favicon": "https://streamurl.link/logos/uFZrTYg4pHL.webp?t=8gWg0kVY3FJrekgVUv5NUw&e=1790020800",
+        "Language": "az,ru",
+        "Homepage": "https://vintageradio.az/",
+        "Latitude": 40.33817045213394,
+        "Longitude": 49.84497070312501,
+        "Source1": "https://trucker.autoliferadio.com:1045/stream",
+        "Source2": "https://vintageradio.az/"
+    },
+    {
         "Title": "Xezer FM",
         "Country": "Azerbaijan",
         "Tags": "classic hits,hits",
@@ -290,5 +397,15 @@
         "Language": "az",
         "Homepage": "http://www.yurdfm.az/",
         "Source1": "https://icecast.livetv.az/yurdfm"
+    },
+    {
+        "Title": "Yurd fm",
+        "Country": "Azerbaijan",
+        "Favicon": "https://yurdfm.az/logo.png",
+        "Language": "az",
+        "Homepage": "https://yurdfm.az/",
+        "Latitude": 40.3549167507906,
+        "Longitude": 49.81201171875001,
+        "Source1": "http://icecast.livetv.az/yurdfm"
     }
 ]

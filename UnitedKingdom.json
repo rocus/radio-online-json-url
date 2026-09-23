@@ -614,6 +614,13 @@
         "Source2": "https://uk7.internet-radio.com/proxy/242radio?mp=/stream&1740815149872"
     },
     {
+        "Title": "242Radio",
+        "Country": "UnitedKingdom",
+        "Favicon": "https://www.242radio.com/index_htm_files/25526@2x.jpg",
+        "Homepage": "https://www.242radio.com/",
+        "Source1": "http://eu1.reliastream.com:2199/tunein/radioala-stream.pls"
+    },
+    {
         "Title": "246 Bajan Vibes Radio",
         "Country": "UnitedKingdom",
         "Tags": "call-in,caribbean music,discussion,hits,oldies,soca,world music",
@@ -898,7 +905,15 @@
         "Favicon": "https://www.radioportal.ecatolico.com/images/stations/absoluteradio.webp",
         "Language": "en",
         "Homepage": "https://www.hellorayo.co.uk/absolute-radio",
-        "Source1": "http://stream-ar.planetradio.co.uk/absoluteradiohigh.aac??direct=true&aw_0_1st.playerid=BMUK_Airable&aw_0_1st.skey=6778249992&aw_0_1st.bauer_loggedin=true%20#EXTINF:0,Absolute%2080s"
+        "Source1": "http://stream-ar.planetradio.co.uk/absoluteradiohigh.aac??direct=true&aw_0_1st.playerid=BMUK_Airable&aw_0_1st.skey=6778249992&aw_0_1st.bauer_loggedin=true%20#EXTINF:0,Absolute%2080s",
+        "Source2": "https://stream-ar.hellorayo.co.uk/absoluteradio.aac?aw_0_1st.skey=1602676850&direct=true&rp_source=1"
+    },
+    {
+        "Title": "Absolute Radio",
+        "Country": "UnitedKingdom",
+        "Homepage": "https://www.hellorayo.co.uk/absolute-radio/",
+        "Source1": "https://stream-ar.hellorayo.co.uk/absoluteradio.aac?direct=true&aw_0_1st.skey=1789938245&rp_source=1&aw_0_1st.playerid=BMUK_ukrp",
+        "Source2": "https://media.bauerradio.com/image/upload/c_crop,g_custom/v1700838171/brand_manager/stations/zfth9b2mzshyqiyuzxia.jpg"
     },
     {
         "Title": "Absolute Radio 10s",
@@ -3903,7 +3918,8 @@
         "Country": "UnitedKingdom",
         "Favicon": "https://www.capitalfm.com/assets_v4r/capital/img/favicon-196x196.png",
         "Homepage": "https://www.capitalfm.com/",
-        "Source1": "http://media-the.musicradio.com/CapitalXTRALondonMP3"
+        "Source1": "http://media-the.musicradio.com/CapitalXTRALondonMP3",
+        "Source2": "https://media-the.musicradio.com/CapitalXTRALondonMP3"
     },
     {
         "Title": "Capital Xtra Reloaded",
@@ -4589,7 +4605,8 @@
         "Country": "UnitedKingdom",
         "Favicon": "https://img1.wsimg.com/isteam/ip/a07df4e6-3874-46a7-b088-6a4e68a6123b/blob-6f3a7d7.png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:806,h:403",
         "Homepage": "https://cosmicfuzzfm.com/",
-        "Source1": "https://samcloud.spacial.com/api/listen?sid=104945&rid=182729&f=mp3,any&br=128000,any&m=m3u&t=ssl"
+        "Source1": "https://samcloud.spacial.com/api/listen?sid=104945&rid=182729&f=mp3,any&br=128000,any&m=m3u&t=ssl",
+        "Source2": "https://26343.live.streamtheworld.com/SAM04AAC335_SC"
     },
     {
         "Title": "Cosoro Afrobeats",
@@ -6116,14 +6133,6 @@
         "Source1": "https://a2.asurahosting.com:7400/radio.mp3"
     },
     {
-        "Title": "FloChill Radio",
-        "Country": "UnitedKingdom",
-        "Tags": "techno",
-        "Language": "en",
-        "Homepage": "https://cosmicbluestudios.netlify.app/",
-        "Source1": "https://cosmicbluestudios.netlify.app/"
-    },
-    {
         "Title": "Flower Power Radio",
         "Country": "UnitedKingdom",
         "Tags": "music,oldies",
@@ -7027,6 +7036,12 @@
         "Favicon": "https://media.bauerradio.com/image/upload/c_crop,g_custom/v1719221707/brand_manager/stations/tcib8ttfslgda9ankrf8.png",
         "Homepage": "https://www.hellorayo.co.uk/greatest-hits/liverpool-north-west-north-wales",
         "Source1": "http://edge-bauermz-03-gos2.sharp-stream.com/magic1548.aac?aw_0_1st.skey=1789766388"
+    },
+    {
+        "Title": "Greatest Hits Radio MANCHESTER UK",
+        "Country": "UnitedKingdom",
+        "Homepage": "https://radioplayer.planetradio.co.uk/gh1",
+        "Source1": "http://edge-bauermz-03-gos2.sharp-stream.com/magic1152m.aac?aw_0_1st.skey=1790063850&aw_0_1st.playerid=BMUK_RPi%20Title1=magic1152m.aac"
     },
     {
         "Title": "GreekBeat Radio",
@@ -8061,6 +8076,16 @@
         "Latitude": 51.86067647342415,
         "Longitude": 0.15984933840029306,
         "Source1": "https://s4.radio.co/s76f8b99fc/listen"
+    },
+    {
+        "Title": "Horizon Radio Milton Keynes",
+        "Country": "UnitedKingdom",
+        "Tags": "commercial,dance,pop,top 40",
+        "Favicon": "https://www.google.com/s2/favicons?domain=horizonradio.com&sz=128",
+        "Homepage": "https://www.horizonradio.com/",
+        "Latitude": 52.041032510645486,
+        "Longitude": -0.7564795017242432,
+        "Source1": "https://streaming.soniic.co.uk:8020/stream_hi?rp_source=1&=&&___cb=182605594309655"
     },
     {
         "Title": "Hospital Radio Basingstoke",
@@ -11087,6 +11112,13 @@
         "Source1": "https://stream.aiir.com/clcb6m0k9shvv"
     },
     {
+        "Title": "Next level",
+        "Country": "UnitedKingdom",
+        "Language": "en",
+        "Homepage": "https://www.classicfm.com/radio/shows-presenters/next-level-dan-tdm/",
+        "Source1": "https://www.classicfm.com/radio/"
+    },
+    {
         "Title": "Nice Cream Blue",
         "Country": "UnitedKingdom",
         "Tags": "chill beats,jazz fusion,poolside",
@@ -11802,6 +11834,15 @@
         "Favicon": "null",
         "Homepage": "https://parkradio.co.uk/",
         "Source1": "https://s32.myradiostream.com/18756/listen.mp3"
+    },
+    {
+        "Title": "Party Vibe Radio : Psychedelic Trace",
+        "Country": "UnitedKingdom",
+        "Tags": "edm,progressive,psychedelic,psytrance",
+        "Favicon": "https://i.postimg.cc/02sFythR/OIP-3549429118.jpg",
+        "Language": "en",
+        "Homepage": "https://www.partyvibe.com/psychedelic-trance-radio-station/",
+        "Source1": "http://94.130.242.5:8010/stream"
     },
     {
         "Title": "PARTY VIBE RADIO : REGGAE",
@@ -15768,15 +15809,6 @@
         "Source1": "http://level5technologysolutions.net:8010/stream"
     },
     {
-        "Title": "Stingdem Radio",
-        "Country": "UnitedKingdom",
-        "Tags": "reggae",
-        "Favicon": "https://stingdemradio.com/assets/stingdem_logo-CGUkIGsq.jpg",
-        "Language": "en",
-        "Homepage": "https://stingdemradio.com/",
-        "Source1": "https://vobook.ru/https://dc5.serverse.com/proxy/stingdem/stream"
-    },
-    {
         "Title": "Stirling Community Radio",
         "Country": "UnitedKingdom",
         "Favicon": "https://stirlingcommunity.radio/images/radio/player/logo-1715587272.webp",
@@ -15812,6 +15844,14 @@
         "Favicon": "https://www.stoneslive.com/wp-content/uploads/2015/07/julystoneslive.png",
         "Homepage": "https://www.stoneslive.com/",
         "Source1": "https://uk5.internet-radio.com/proxy/stoneslive?mp=/stream;"
+    },
+    {
+        "Title": "Stony Radio",
+        "Country": "UnitedKingdom",
+        "Homepage": "https://www.stonyradio.com/",
+        "Latitude": 52.05715513593021,
+        "Longitude": -0.8534359931945801,
+        "Source1": "https://carina.streamerr.co:8072/stream"
     },
     {
         "Title": "Storm Radio",
@@ -17057,20 +17097,6 @@
         "Language": "en",
         "Homepage": "http://www.u105.com/",
         "Source1": "http://gbradio.cdn.tibus.net/U105?ref=rf"
-    },
-    {
-        "Title": "UCB 1",
-        "Country": "UnitedKingdom",
-        "Homepage": "https://play.radioplayer.org/en/live/ODI2fjExMDk",
-        "Source1": "https://play.radioplayer.org/en/live/ODI2fjExMDk"
-    },
-    {
-        "Title": "UCB 1",
-        "Country": "UnitedKingdom",
-        "Homepage": "https://tunein.com/radio/UCB-1-s2651/",
-        "Latitude": -57.13623931917743,
-        "Longitude": -88.06640625000001,
-        "Source1": "https://tunein.com/radio/UCB-1-s2651/"
     },
     {
         "Title": "UCB 1",

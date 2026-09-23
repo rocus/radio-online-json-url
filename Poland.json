@@ -3807,6 +3807,17 @@
         "Source1": "http://rmfstream2.interia.pl:8000/radio_gra"
     },
     {
+        "Title": "Radio Gryfice AI",
+        "Country": "Poland",
+        "Tags": "adult contemporary,community,local news,polish music,pop",
+        "Favicon": "https://gryfice.net/favicon.ico",
+        "Language": "pl",
+        "Homepage": "https://gryfice.net/",
+        "Latitude": 53.91465296353085,
+        "Longitude": 15.198642257281564,
+        "Source1": "https://panel.radio.gryfice.net/listen/radio-gryfice/radio.mp3"
+    },
+    {
         "Title": "Radio Guardian",
         "Country": "Poland",
         "Tags": "poetry,pop,rock",
@@ -5333,6 +5344,15 @@
         "Source2": "http://stream12.hosterion.pl/stream/safira"
     },
     {
+        "Title": "Radio Safira",
+        "Country": "Poland",
+        "Tags": "christian,gospel,worship",
+        "Favicon": "https://radiosafira.eu/assets/logo-safira.png",
+        "Language": "pl",
+        "Homepage": "https://radiosafira.eu/",
+        "Source1": "https://ec1.yesstreaming.net:2340/stream"
+    },
+    {
         "Title": "Radio Safira Kanoe",
         "Country": "Poland",
         "Language": "pl",
@@ -5660,19 +5680,6 @@
         "Language": "pl",
         "Homepage": "https://radiotpi.pl/",
         "Source1": "https://s1.slotex.pl/shoutcast/7632/stream"
-    },
-    {
-        "Title": "Radio Trojka",
-        "Country": "Poland",
-        "Language": "pl",
-        "Homepage": "https://trojka.polskieradio.pl/",
-        "Source1": "https://trojka.polskieradio.pl/"
-    },
-    {
-        "Title": "Radio Trojka",
-        "Country": "Poland",
-        "Homepage": "https://onlineradiobox.com/pl/trojka/?cs=pl.trojka&played=1&lang=de",
-        "Source1": "https://onlineradiobox.com/pl/trojka/?cs=pl.trojka&played=1&lang=de"
     },
     {
         "Title": "radio trojka",

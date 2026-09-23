@@ -410,6 +410,32 @@
         "Source1": "https://lhttp-hw.qtfm.cn/live/5022062/64k.mp3"
     },
     {
+        "Title": "商業電台叱咤903",
+        "Country": "HongKong",
+        "Tags": "oldies",
+        "Favicon": "https://foxxradio.com/upload/hk/1620700109.jpg.webp",
+        "Language": "yue",
+        "Homepage": "https://www.my903.com/903openbox",
+        "Source1": "https://881903.fishtv.dpdns.org/proxy/903"
+    },
+    {
+        "Title": "商業電台豁達864",
+        "Country": "HongKong",
+        "Tags": "music",
+        "Favicon": "https://foxxradio.com/upload/hk/1620698984.jpg.webp",
+        "Language": "en",
+        "Homepage": "https://www.881903.com/",
+        "Source1": "https://881903.fishtv.dpdns.org/proxy/864"
+    },
+    {
+        "Title": "商業電台雷霆881",
+        "Country": "HongKong",
+        "Favicon": "https://foxxradio.com/upload/hk/1620700276.jpg.webp",
+        "Language": "yue",
+        "Homepage": "https://www.facebook.com/881903com/",
+        "Source1": "https://881903.fishtv.dpdns.org/proxy/881"
+    },
+    {
         "Title": "夜空傳情",
         "Country": "HongKong",
         "Tags": "music",

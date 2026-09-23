@@ -262,6 +262,15 @@
         "Source1": "https://sws.onradio.biz/8126/stream?1746145643130"
     },
     {
+        "Title": "93FM",
+        "Country": "Brazil",
+        "Favicon": "https://radio93.com.br/wp-content/themes/radio93/assets/images/logoPlayer.png",
+        "Homepage": "https://radio93.com.br/",
+        "Latitude": -22.930413133554307,
+        "Longitude": -43.22021484375,
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/FM93AAC.aac?dist=RadiosNet"
+    },
+    {
         "Title": "94 FM CORDEIRO-RJ",
         "Country": "Brazil",
         "Tags": "pop",
@@ -2581,6 +2590,17 @@
         "Source1": "https://centova.svdns.com.br:19373/stream1"
     },
     {
+        "Title": "GOLD INSTRUMENTAL",
+        "Country": "Brazil",
+        "Tags": "easy listening,instrumental",
+        "Favicon": "https://static.wixstatic.com/media/688516_938fe22b61ab4ee0b48361821edf456f~mv2.png",
+        "Language": "en",
+        "Homepage": "https://www.goldinstrumental.com.br/",
+        "Latitude": -27.605956049321343,
+        "Longitude": -48.52729797363282,
+        "Source1": "https://centova2.svdns.com.br:20038/stream"
+    },
+    {
         "Title": "GOLD INSTRUMENTAL (224kbps/mp3)",
         "Country": "Brazil",
         "Tags": "instrumental music,orchestra",
@@ -2616,6 +2636,14 @@
         "Favicon": "https://static.wixstatic.com/media/688516_0f0d5b22ff844b51b7002894cb4c3309%7emv2.png/v1/fill/w_32%2ch_32%2clg_1%2cusm_0.66_1.00_0.01/688516_0f0d5b22ff844b51b7002894cb4c3309%7emv2.png",
         "Homepage": "http://www.radiogold.com.br/",
         "Source1": "https://centova.svdns.com.br:19418/stream1"
+    },
+    {
+        "Title": "GOLD WEB RADIO",
+        "Country": "Brazil",
+        "Tags": "1980's hits,1980s,1990's",
+        "Favicon": "https://static.wixstatic.com/media/688516_938fe22b61ab4ee0b48361821edf456f~mv2.png",
+        "Homepage": "https://www.goldwebradio.com.br/",
+        "Source1": "https://centova2.svdns.com.br:20056/stream"
     },
     {
         "Title": "GOLD WEB RADIO (224kbps/mp3)",
@@ -3416,6 +3444,15 @@
         "Language": "pt",
         "Homepage": "https://www.oliberal.com/radioliberal/",
         "Source1": "http://177.105.192.70:9750/liberalfm.mp3"
+    },
+    {
+        "Title": "Liberal FM Web",
+        "Country": "Brazil",
+        "Favicon": "http://libmusic.radioliberal.com.br/logo_libmusic.png",
+        "Homepage": "http://libmusic.radioliberal.com.br/",
+        "Latitude": -1.451306094250036,
+        "Longitude": -48.46858978271485,
+        "Source1": "https://s09.maxcast.com.br:8122/live"
     },
     {
         "Title": "Liberdade",
@@ -4792,6 +4829,15 @@
         "Source1": "http://streaming06.hstbr.net:8008/live.m3u"
     },
     {
+        "Title": "OverRocks Web Rádio",
+        "Country": "Brazil",
+        "Favicon": "https://play-lh.googleusercontent.com/INIeyx_-uo_-238WJu_v_mmqDD6IEOdgc06y-Mi8BZLNdWantxmOs45QXENyQdgYKUT-y79KBCaEAwft-LLs9w=w240-h480-rw",
+        "Homepage": "https://overrocks.com.br/",
+        "Latitude": -22.859567407484544,
+        "Longitude": -47.120361328125,
+        "Source1": "https://server22.srvsh.com.br:9032/stream"
+    },
+    {
         "Title": "Pablo",
         "Country": "Brazil",
         "Homepage": "https://jpdofunk3.com.br/public/pablo",
@@ -4999,6 +5045,12 @@
         "Tags": "dance,flashback,pop",
         "Homepage": "https://www.powerwebradio.com.br/",
         "Source1": "https://live9.livemus.com.br:27460/stream"
+    },
+    {
+        "Title": "PRAIA MINEIRA",
+        "Country": "Brazil",
+        "Homepage": "https://jpradios.com.br/public/praia-mineira",
+        "Source1": "https://jpradios.com.br/stream/praia-mineira"
     },
     {
         "Title": "Premium FM 94.7 MHz Muriaé MG",
@@ -5356,6 +5408,15 @@
         "Source1": "https://stream.radiobrasiliamundial.com/radio"
     },
     {
+        "Title": "Radio Brega Paraense",
+        "Country": "Brazil",
+        "Favicon": "https://images.zeno.fm/J5REVzfGOLUJXrnUTHqGDE6du0zCa-jQiTxg4KN0DHA/rs:fill:152:152/q:75/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ3czdXVpcmdvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ3d2cEtLMWdnTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTMzODg3NTAwMA",
+        "Homepage": "https://zeno.fm/radio/radio-brega-paraense/",
+        "Latitude": -1.9990791773576393,
+        "Longitude": -54.07294750213624,
+        "Source1": "https://stream-178.surfernetwork.com/6a4genq4by8uv"
+    },
+    {
         "Title": "Radio Calhambeque",
         "Country": "Brazil",
         "Favicon": "https://www.radiocalhambeque.com/Calhambeque-logo-novo--60.png",
@@ -5701,6 +5762,15 @@
         "Source1": "https://cast6.midiazdx.com.br:6880/"
     },
     {
+        "Title": "Radio Gospel Life",
+        "Country": "Brazil",
+        "Favicon": "https://img.radios.com.br/radio/lg/radio49251_1552934266.jpg",
+        "Homepage": "https://www.webradiogospellife.com/",
+        "Latitude": -23.57609247488119,
+        "Longitude": -46.647262573242195,
+        "Source1": "https://s11.maxcast.com.br:9165/live"
+    },
+    {
         "Title": "Radio Grande FM",
         "Country": "Brazil",
         "Tags": "brega,forró,local news,sertanejo",
@@ -5727,6 +5797,15 @@
         "Latitude": -25.532601076505287,
         "Longitude": -54.57818984985352,
         "Source1": "https://stm1.srvif.com:13938/stream"
+    },
+    {
+        "Title": "Radio Hollywood",
+        "Country": "Brazil",
+        "Tags": "brasil,funk,mpb,pagode,pop,romantica,sertanejo,variedades",
+        "Favicon": "https://radiohollywood.online/icons/icon-512.png",
+        "Language": "pt",
+        "Homepage": "https://radiohollywood.online/",
+        "Source1": "https://stream.radiohollywood.online/listen/hollywood/live"
     },
     {
         "Title": "Radio Hot 97.7",
@@ -5952,6 +6031,15 @@
         "Latitude": -22.037450959123618,
         "Longitude": -47.89664089679718,
         "Source1": "https://stm9.xcast.com.br:6988/"
+    },
+    {
+        "Title": "Radio Melon Carismatico",
+        "Country": "Brazil",
+        "Favicon": "https://www.radiomeloncarismatico.com.br",
+        "Homepage": "https://www.radiomeloncarismatico.com.br/",
+        "Latitude": -21.29417268637133,
+        "Longitude": -47.735595703125,
+        "Source1": "https://stm3.colossocast.com.br:7884/stream"
     },
     {
         "Title": "Radio Mineira",
@@ -8387,6 +8475,15 @@
         "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_BRA_SP.mp3"
     },
     {
+        "Title": "Rádio Diversão FM live",
+        "Country": "Brazil",
+        "Tags": "electronic,house,techno,trance",
+        "Favicon": "https://www.diversaofm.com.br/icon-192.png",
+        "Language": "en,pt",
+        "Homepage": "https://www.diversaofm.com.br/",
+        "Source1": "https://stream-177.surfernetwork.com/7k889br3c48uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI3azg4OWJyM2M0OHV2IiwiaG9zdCI6InN0cmVhbS0xNzcuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJwQWVzSGIwZVRqcTR5bnRZLUtVRWFRIiwiaWF0IjoxNzkwMDM0MTA2LCJleHAiOjE3OTAwMzQxNjZ9.8TNrnfvcn9JR_4FzNwG287DWhVsii7ynInGA7VLTxtM"
+    },
+    {
         "Title": "Rádio Dracena",
         "Country": "Brazil",
         "Tags": "1980s,2000s,80s,90s,brazilian music,pop,pop music",
@@ -10383,6 +10480,15 @@
         "Source1": "http://hd4.matutos.com.br:8324/;stream.mp3"
     },
     {
+        "Title": "Rádio Phoenix FM",
+        "Country": "Brazil",
+        "Tags": "dj remix,electronic,funk,phonk",
+        "Favicon": "https://i.postimg.cc/DfqVKWBW/radio-phoenix-brazil-14c90958.png",
+        "Language": "pt",
+        "Homepage": "https://www.phoenixradio.com.br/",
+        "Source1": "http://cast.hoost.com.br:9141/stream"
+    },
+    {
         "Title": "Rádio Pirafm",
         "Country": "Brazil",
         "Tags": "pop",
@@ -11906,11 +12012,11 @@
     {
         "Title": "Serra Branca FM",
         "Country": "Brazil",
+        "Favicon": "https://serrabrancafm.com.br/wp-content/uploads/2024/12/logo-serra-barnca-fm-1.png",
         "Homepage": "https://serrabrancafm.com.br/",
-        "Latitude": -7.483587501443812,
-        "Longitude": -36.66491210460664,
-        "Source1": "https://serrabrancafm.com.br/",
-        "Source2": "https://serrabrancafm.jmvstream.com/stream](https://serrabrancafm.jmvstream.com/stream)"
+        "Latitude": -7.483646007415381,
+        "Longitude": -36.66485309600831,
+        "Source1": "https://serrabrancafm.jmvstream.com/stream](https://serrabrancafm.jmvstream.com/stream)"
     },
     {
         "Title": "Serra negra FM Alterosa",

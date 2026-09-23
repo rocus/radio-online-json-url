@@ -830,7 +830,8 @@
         "Country": "Slovakia",
         "Favicon": "https://radiorock.sk/favicon.ico",
         "Homepage": "https://radiorock.sk/",
-        "Source1": "https://stream.bauermedia.sk/rock-hi.mp3"
+        "Source1": "https://stream.bauermedia.sk/rock-hi.mp3",
+        "Source2": "https://stream.bauermedia.sk/rock-hi.mp3?aw_0_req.gdpr=false"
     },
     {
         "Title": "Rádio Rock SV",

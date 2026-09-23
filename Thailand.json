@@ -628,9 +628,36 @@
         "Source1": "https://cast.requestradio.in.th:840//stream/3"
     },
     {
+        "Title": "RequestRadio Inter (Alt)",
+        "Country": "Thailand",
+        "Tags": "international hits,international music",
+        "Favicon": "https://requestradio.in.th/inter/wp-content/uploads/2016/07/icon.png",
+        "Language": "en,th",
+        "Homepage": "https://requestradio.in.th/inter/",
+        "Source1": "https://ozone2.javmemory.com/Inter.mp3"
+    },
+    {
         "Title": "requestradio String",
         "Country": "Thailand",
         "Source1": "https://cast.requestradio.in.th:2199/tunein/shoutcast1.pls"
+    },
+    {
+        "Title": "RequestRadio String (Alt)",
+        "Country": "Thailand",
+        "Tags": "regional music,strings",
+        "Favicon": "https://requestradio.in.th/wp-content/uploads/2016/07/icon.png",
+        "Language": "th",
+        "Homepage": "https://requestradio.in.th/",
+        "Source1": "https://ozone2.javmemory.com/Music.mp3"
+    },
+    {
+        "Title": "RequestRadio ลูกทุ่ง (Alt)",
+        "Country": "Thailand",
+        "Tags": "looktung",
+        "Favicon": "https://requestradio.in.th/looktung/wp-content/uploads/2017/10/icon.png",
+        "Language": "th",
+        "Homepage": "https://requestradio.in.th/looktung/",
+        "Source1": "https://ozone2.javmemory.com/Looktung.mp3"
     },
     {
         "Title": "RequestRadio เพื่อชีวิต",
@@ -640,6 +667,15 @@
         "Language": "th",
         "Homepage": "https://www.requestradio.in.th/forlife",
         "Source1": "https://cast.requestradio.in.th:830/stream/"
+    },
+    {
+        "Title": "RequestRadio เพื่อชีวิต (Alt)",
+        "Country": "Thailand",
+        "Tags": "country music,folk music",
+        "Favicon": "https://requestradio.in.th/forlife/wp-content/uploads/2016/07/icon.png",
+        "Language": "th",
+        "Homepage": "https://requestradio.in.th/forlife/",
+        "Source1": "https://ozone2.javmemory.com/Forlife.mp3"
     },
     {
         "Title": "requestradio/looktung/",

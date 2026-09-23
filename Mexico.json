@@ -1501,6 +1501,17 @@
         "Source1": "https://servidor27.brlogic.com:7008/live"
     },
     {
+        "Title": "103.3 La Mejor (Ensenada) - 103.3 FM - XHENA-FM - MVS Radio - Ensenada, Baja California",
+        "Country": "Mexico",
+        "Tags": "103.3 fm,américa,aquí nomás,baja california,banda,banda norteña,banda tradicional,ensenada,entretenimiento,español,estación,fm,grupera,grupero,la hora nacional,la mejor,la mejor aquí nomás,la mejor fm,latinoamérica,mexican music,moi merino,mvs,mvs radio,méxico,música,música en español,música mexicana,música popular mexicana,música regional,música regional mexicana,música tradicional mexicana,norteamérica,programas en vivo,programas grabados,radio,regional,regional mexican,regional mexicana,regional music,regional radio,traditional mexican music",
+        "Favicon": "https://cdn-profiles.tunein.com/s90805/images/logod.jpg",
+        "Language": "es",
+        "Homepage": "https://lamejor.com.mx/",
+        "Latitude": 31.868922574630776,
+        "Longitude": -116.60279273986818,
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHENAAAC.aac"
+    },
+    {
         "Title": "103.3 Radio San Miguel (San Miguel de Allende) - 103.3 FM - XHSQ-FM - San Miguel de Allende, Guanajuato",
         "Country": "Mexico",
         "Tags": "103.3 fm,américa,entretenimiento,español,estación,fm,guanajuato,latinoamérica,local,local information,local programming,local radio,mexican music,moi merino,music,méxico,música,música en español,música mexicana,música popular mexicana,música regional,música regional mexicana,norteamérica,programas en vivo,radio,radio local,radio san miguel,regional,regional mexican,regional mexicana,regional music,regional radio,san miguel de allende",
@@ -1698,6 +1709,17 @@
         "Latitude": 19.43381965396475,
         "Longitude": -99.13530349731448,
         "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/XEQR_AMAAC.aac"
+    },
+    {
+        "Title": "104.1 Exa FM (Ensenada) - 104.1 FM - XHADA-FM - MVS Radio - Ensenada, Baja California",
+        "Country": "Mexico",
+        "Tags": "104.1 fm,américa,baja california,contemporary hits,contemporary hits radio,en todas partes,ensenada,entretenimiento,español,estación,exa,exa fm,fm,juvenil,la estación exacta,la estación naranja,la hora nacional,latinoamérica,moi merino,music,mvs,mvs radio,méxico,música,música en español e inglés,música pop,norteamérica,ponte exa,pop,pop en español e inglés,pop music,pop rock,radio,top 40",
+        "Favicon": "https://cdn-profiles.tunein.com/s91437/images/logod.png",
+        "Language": "es",
+        "Homepage": "https://www.exafm.com/",
+        "Latitude": 31.869034191073805,
+        "Longitude": -116.60081863403322,
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHADAAAC.aac"
     },
     {
         "Title": "104.1 Grupo Fórmula (CDMX) - 104.1 FM - XEDF-FM - Grupo Fórmula - Ciudad de México",
@@ -2068,6 +2090,17 @@
         "Latitude": 28.637834101327343,
         "Longitude": -106.07720375061037,
         "Source1": "https://stream.zeno.fm/e2px6k3kwzzuv"
+    },
+    {
+        "Title": "105.5 Fiesta Mexicana (Irapuato) - 105.5 FM - XHNC-FM - Radiorama Bajío - Irapuato, Guanajuato",
+        "Country": "Mexico",
+        "Tags": "105.5 fm,américa,entretenimiento,español,estación,fiesta mexicana,fm,guanajuato,irapuato,latinoamérica,mexican music,music,méxico,música,música en español,música mexicana,música popular mexicana,música regional,música regional mexicana,música tradicional mexicana,norteamérica,programas en vivo,radio,radiorama,radiorama bajío,regional,regional mexican,regional mexicana,regional music,traditional mexican music",
+        "Favicon": "https://i.postimg.cc/y8jFwzJ7/fiestamexicana1055.png",
+        "Language": "es",
+        "Homepage": "https://www.bienydefiesta.com/",
+        "Latitude": 20.678364559273906,
+        "Longitude": -101.35119438171388,
+        "Source1": "https://stream.zeno.fm/b19663h6dkhvv"
     },
     {
         "Title": "105.5 La Comadre (Puebla) - 105.5 FM - XHHIT-FM - Grupo ACIR - Puebla, Puebla",
@@ -3804,6 +3837,17 @@
         "Source1": "https://stream.zeno.fm/zpd5he3sz7zuv"
     },
     {
+        "Title": "89.3 La Uni-K (Texcoco) - 89.3 FM - XHOEX-FM - Omega Experimental, A.C. - Texcoco, Estado de México",
+        "Country": "Mexico",
+        "Tags": "89.3 fm,américa,community,community radio,comunitaria,concesión comunitaria,concesión social comunitaria,entretenimiento,español,estación,estado de méxico,la hora nacional,la uni-k,latinoamérica,local,local music,local radio,mexican music,moi merino,music,música,música en español,música mexicana,música popular mexicana,música regional,música regional mexicana,norteamérica,radio comunitaria,radio local,regional,regional mexican,regional mexicana,regional music,regional radio,texcoco",
+        "Favicon": "https://i.postimg.cc/L81VtFJr/launik.jpg",
+        "Language": "es",
+        "Homepage": "https://www.facebook.com/launik89.3/",
+        "Latitude": 19.51736677383698,
+        "Longitude": -98.88201713562012,
+        "Source1": "http://uk21freenew.listen2myradio.com:12007/;"
+    },
+    {
         "Title": "89.3 Radio Mundo (Mérida) - 89.3 FM - XHMIA-FM - Mérida, Yucatan",
         "Country": "Mexico",
         "Tags": "89.3 fm,américa,entretenimiento,español,estación,fm,hits,kanasín,latinoamérica,moi merino,music,mérida,méxico,música,música en español e inglés,música y noticias,news,norteamérica,noticias,noticias en español,noticias locales,noticias nacionales e internacionales,pop en español e inglés,radio,radio mundo,sureste,w radio,yucatán",
@@ -5281,6 +5325,17 @@
         "Source1": "https://cast.zuperdns.net/8008/stream"
     },
     {
+        "Title": "95.1 La Voz Del Valle (San Quintín) - 95.1 FM - XHSQB-FM - Instituto Nacional de los Pueblos Indígenas - San Quintín, Baja California",
+        "Country": "Mexico",
+        "Tags": "1160 am,95.1 fm,am,américa,baja california,combo,concesión pública,español,estación,fm,indigenous,indigenous radio,indígenas,instituto nacional de los pueblos indígenas,la hora nacional,la voz del valle,latinoamérica,local,local information,local news,local programming,local radio,local talk,moi merino,méxico,norteamérica,noticias locales,programas en vivo,public,public radio,public service,pública,radio,radio local,radio pública,san quintín,servicio social,sistema de radiodifusoras culturales indígenas",
+        "Favicon": "https://i.postimg.cc/GmDfjhqr/lavozdelvalle.png",
+        "Language": "es",
+        "Homepage": "https://ecos.inpi.gob.mx/xeqin/",
+        "Latitude": 30.562908788007135,
+        "Longitude": -115.93799114227296,
+        "Source1": "https://securestreams7.autopo.st/?uri=https://radios.inpi.gob.mx:8080/xeqin"
+    },
+    {
         "Title": "95.3 Amor (CDMX) - 95.3 FM - XHSH-FM - Grupo ACIR - Ciudad de México",
         "Country": "Mexico",
         "Tags": "95.3 fm,acir,amor,amor sólo música romántica,américa,balada,balada en español,balada pop,balada romántica,baladas,baladas en español,cdmx,ciudad de méxico,estación,fm,grupo acir,iheart,iheart radio,la hora de luis miguel,latinoamérica,luna de amor,mexico city,moi merino,méxico,música,música del recuerdo,música variada,norteamérica,radio,sólo música romántica,valle de méxico",
@@ -5334,6 +5389,17 @@
         "Latitude": 22.21772400432834,
         "Longitude": -97.853422164917,
         "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHOXAAC.aac"
+    },
+    {
+        "Title": "95.3 La Bestia Grupera (Acapulco) - 95.3 FM - XHEVP-FM - Grupo Audiorama Comunicaciones - Acapulco, Guerrero",
+        "Country": "Mexico",
+        "Tags": "95.3 fm,acapulco,américa,entretenimiento,español,estación,fm,grupera,grupero,grupo audiorama comunicaciones,guerrero,la bestia grupera,la hora nacional,latinoamérica,mexican music,moi merino,music,méxico,música,música en español,música mexicana,música popular mexicana,música regional,música regional mexicana,música tradicional mexicana,norteamérica,radio,radiorama,regional,regional mexican,regional mexicana,regional radio,traditional mexican music",
+        "Favicon": "https://cdn-radiotime-logos.tunein.com/s90519d.png",
+        "Language": "es",
+        "Homepage": "https://www.audiorama.mx/",
+        "Latitude": 16.87219479036586,
+        "Longitude": -99.88211631774902,
+        "Source1": "https://sg.centrocibernetico.com/audiorama-xhevp"
     },
     {
         "Title": "95.3 La Gigante (Piedras Negras) - 95.3 FM - XHGN-FM - Piedras Negras, Veracruz",
@@ -5930,6 +5996,17 @@
         "Source1": "http://sgaudio.centrocibernetico.com/xeu"
     },
     {
+        "Title": "98.3 La Chula (San Quintín) - 98.3 FM - XHBAJA-FM - Grupo Uvizra - San Quintín, Baja California",
+        "Country": "Mexico",
+        "Tags": "98.3 fm,américa,baja california,concesión social,entretenimiento,español,estación,fm,grupo uvizra,la chula,la hora nacional,latinoamérica,mexican music,moi merino,music,méxico,música,música mexicana,música popular mexicana,música regional,música regional mexicana,norteamérica,programas en vivo,radio,regional,regional mexican,regional mexicana,regional music,regional radio,san quintín,servicio social,social",
+        "Favicon": "https://i.postimg.cc/bvn0SZyC/lachula983.png",
+        "Language": "es",
+        "Homepage": "https://www.lachulafm.com.mx/",
+        "Latitude": 30.562169721697256,
+        "Longitude": -115.93730449676517,
+        "Source1": "https://sudominiohoy.com:18352/stream"
+    },
+    {
         "Title": "98.3 La Ranchera (Apatzingán) - 98.3 FM - XHEML-FM - Cadena RASA - Apatzingán, Michoacán",
         "Country": "Mexico",
         "Tags": "98.3 fm,américa,apatzingán,cadena rasa,entretenimiento,español,estación,fm,latinoamérica,mexican music,michoacán,moi merino,music,méxico,música,música en español,música mexicana,música popular mexicana,música regional,música regional mexicana,música tradicional mexicana,norteamérica,programas en vivo,radio,ranchera,rancheras,regional,regional mexican,regional mexicana,regional music,traditional mexican music",
@@ -6027,6 +6104,17 @@
         "Latitude": 16.130984751865327,
         "Longitude": -97.60833263397218,
         "Source1": "https://stream11.mexiserver.com:9031/stream"
+    },
+    {
+        "Title": "98.7 La Chula (Ensenada) - 98.7 FM - XHPEDV-FM - Grupo Uvizra - Ensenada, Baja California",
+        "Country": "Mexico",
+        "Tags": "98.7 fm,américa,baja california,concesión social,ensenada,entretenimiento,español,estación,fm,grupo uvizra,la chula,la hora nacional,latinoamérica,mexican music,moi merino,music,méxico,música,música mexicana,música popular mexicana,música regional,música regional mexicana,norteamérica,radio,regional,regional mexican,regional mexicana,regional music,regional radio,servicio social,social",
+        "Favicon": "https://i.postimg.cc/9fNM2b5S/lachula987.png",
+        "Language": "es",
+        "Homepage": "https://www.lachulafm.com.mx/",
+        "Latitude": 31.86815947900105,
+        "Longitude": -116.60356521606448,
+        "Source1": "https://sudominiohoy.com:18355/stream"
     },
     {
         "Title": "98.7 LOS40 (Mazatlán) - 98.7 FM - XHVOX-FM - Grupo Radio Cañón - Mazatlán, Sinaloa",
@@ -10939,6 +11027,17 @@
         "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHADAAAC.aac"
     },
     {
+        "Title": "EXA FM 104.1 (Ensenada) - 104.1 FM - XHADA-FM - MVS Radio - Ensenada, Baja California",
+        "Country": "Mexico",
+        "Tags": "104.1 fm,américa,baja california,contemporary hits,contemporary hits radio,en todas partes,ensenada,entretenimiento,español,estación,exa,exa fm,fm,juvenil,la estación exacta,la estación naranja,la hora nacional,latinoamérica,moi merino,music,mvs,mvs radio,méxico,música,música en español e inglés,música pop,norteamérica,ponte exa,pop,pop en español e inglés,pop music,pop rock,radio,top 40",
+        "Favicon": "https://cdn-profiles.tunein.com/s91437/images/logod.png",
+        "Language": "es",
+        "Homepage": "https://www.exafm.com/",
+        "Latitude": 31.867464714798444,
+        "Longitude": -116.603479385376,
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHADAAAC.aac"
+    },
+    {
         "Title": "EXA FM 104.1 (León) - 104.1 FM - XHMD-FM - MVS Radio - León, Guanajuato",
         "Country": "Mexico",
         "Tags": "104.1 fm,américa,contemporary hits,contemporary hits radio,en todas partes,entretenimiento,español,estación,exa,exa fm,fm,guanajuato,hits,juvenil,la estación exacta,la estación naranja,latinoamérica,león,moi merino,music,mvs,mvs radio,méxico,música,música pop,norteamérica,ponte exa,pop,pop music,radio,top,top 100,top 40,top 40 hits,top charts,top hits",
@@ -12083,6 +12182,17 @@
         "Latitude": 20.522821885656512,
         "Longitude": -100.81337928771974,
         "Source1": "https://stream.zeno.fm/uwcg6hb6dkhvv"
+    },
+    {
+        "Title": "FIESTA MEXICANA 105.5 (Irapuato) - 105.5 FM - XHNC-FM - Radiorama Bajío - Irapuato, Guanajuato",
+        "Country": "Mexico",
+        "Tags": "105.5 fm,américa,entretenimiento,español,estación,fiesta mexicana,fm,guanajuato,irapuato,latinoamérica,mexican music,music,méxico,música,música en español,música mexicana,música popular mexicana,música regional,música regional mexicana,música tradicional mexicana,norteamérica,programas en vivo,radio,radiorama,radiorama bajío,regional,regional mexican,regional mexicana,regional music,traditional mexican music",
+        "Favicon": "https://i.postimg.cc/y8jFwzJ7/fiestamexicana1055.png",
+        "Language": "es",
+        "Homepage": "https://www.bienydefiesta.com/",
+        "Latitude": 20.67772214786845,
+        "Longitude": -101.3522243499756,
+        "Source1": "https://stream.zeno.fm/b19663h6dkhvv"
     },
     {
         "Title": "Fiesta Mexicana 90.7 FM",
@@ -14173,6 +14283,28 @@
         "Source1": "https://nazca.globalhost1.com/8004/;"
     },
     {
+        "Title": "LA CHULA 98.3 (San Quintín) - 98.3 FM - XHBAJA-FM - Grupo Uvizra - San Quintín, Baja California",
+        "Country": "Mexico",
+        "Tags": "98.3 fm,américa,baja california,concesión social,entretenimiento,español,estación,fm,grupo uvizra,la chula,latinoamérica,mexican music,moi merino,music,méxico,música,música mexicana,música popular mexicana,música regional,música regional mexicana,norteamérica,radio,regional,regional mexican,regional mexicana,regional music,regional radio,san quintín,servicio social,social",
+        "Favicon": "https://i.postimg.cc/bvn0SZyC/lachula983.png",
+        "Language": "es",
+        "Homepage": "https://www.lachulafm.com.mx/",
+        "Latitude": 30.562760975195523,
+        "Longitude": -115.93816280364992,
+        "Source1": "https://sudominiohoy.com:18352/stream"
+    },
+    {
+        "Title": "LA CHULA 98.7 (Ensenada) - 98.7 FM - XHPEDV-FM - Grupo Uvizra - Ensenada, Baja California",
+        "Country": "Mexico",
+        "Tags": "98.7 fm,américa,baja california,concesión social,ensenada,entretenimiento,español,estación,fm,grupo uvizra,la chula,latinoamérica,mexican music,moi merino,music,méxico,música,música mexicana,música popular mexicana,música regional,música regional mexicana,norteamérica,radio,regional,regional mexican,regional mexicana,regional music,regional radio,servicio social,social",
+        "Favicon": "https://i.postimg.cc/9fNM2b5S/lachula987.png",
+        "Language": "es",
+        "Homepage": "https://www.lachulafm.com.mx/",
+        "Latitude": 31.8671731400647,
+        "Longitude": -116.60313606262208,
+        "Source1": "https://sudominiohoy.com:18355/stream"
+    },
+    {
         "Title": "La Comadre (Mérida) - 98.5 FM - XHMT-FM - Grupo SIPSE Radio - Mérida, Yucatán",
         "Country": "Mexico",
         "Tags": "98.5 fm,américa,banda,cumbia,entretenimiento,español,estación,fm,grupera,grupero,grupo sipse,grupo sipse radio,latinoamérica,mexican music,moi merino,music,mérida,méxico,música,música del recuerdo,música en español,música mexicana,música popular mexicana,música regional,música regional mexicana,música tradicional mexicana,música tropical,música variada,norteamérica,radio,regional,regional mexican,regional mexicana,regional music,sureste,traditional mexican music,tropical,tropical music,yucatán",
@@ -16143,6 +16275,17 @@
         "Source1": "http://ororadio.serverroom.us:9142/stream"
     },
     {
+        "Title": "LA MEJOR FM 103.3 (Ensenada) - 103.3 FM - XHENA-FM - MVS Radio - Ensenada, Baja California",
+        "Country": "Mexico",
+        "Tags": "103.3 fm,américa,aquí nomás,baja california,banda,banda norteña,banda tradicional,ensenada,entretenimiento,español,estación,fm,grupera,grupero,la hora nacional,la mejor,la mejor aquí nomás,la mejor fm,latinoamérica,mexican music,moi merino,mvs,mvs radio,méxico,música,música en español,música mexicana,música popular mexicana,música regional,música regional mexicana,música tradicional mexicana,norteamérica,programas en vivo,programas grabados,radio,regional,regional mexican,regional mexicana,regional music,regional radio,traditional mexican music",
+        "Favicon": "https://cdn-profiles.tunein.com/s90805/images/logod.jpg",
+        "Language": "es",
+        "Homepage": "https://lamejor.com.mx/",
+        "Latitude": 31.8671731400647,
+        "Longitude": -116.60244941711429,
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHENAAAC.aac"
+    },
+    {
         "Title": "LA MEJOR FM 103.7 (Durango) - 103.7 FM - XHDGO-FM - Armas Radio - Durango, Durango",
         "Country": "Mexico",
         "Tags": "103.7 fm,760 am,am,américa,aquí nomás,armas radio,banda,combo,durango,durango city,entretenimiento,estación,fm,grupera,grupero,la mejor,la mejor aquí nomás,la mejor fm,latinoamérica,mexican music,moi merino,music,mvs,mvs radio,méxico,música,música en español,música mexicana,música popular mexicana,música regional,música regional mexicana,música y noticias,norteamérica,radio,ranchera,regional,regional mexican,regional mexicana,regional music,regional radio",
@@ -18013,6 +18156,17 @@
         "Source1": "https://sonic.sistemahost.es/8038/stream"
     },
     {
+        "Title": "LA UNI-K 89.3 (Texcoco) - 89.3 FM - XHOEX-FM - Omega Experimental, A.C. - Texcoco, Estado de México",
+        "Country": "Mexico",
+        "Tags": "89.3 fm,américa,community,community radio,comunitaria,concesión comunitaria,concesión social comunitaria,entretenimiento,español,estación,estado de méxico,la hora nacional,la uni-k,latinoamérica,local,local music,local radio,mexican music,moi merino,music,música,música en español,música mexicana,música popular mexicana,música regional,música regional mexicana,norteamérica,radio comunitaria,radio local,regional,regional mexican,regional mexicana,regional music,regional radio,texcoco",
+        "Favicon": "https://i.postimg.cc/L81VtFJr/launik.jpg",
+        "Language": "es",
+        "Homepage": "https://www.facebook.com/launik89.3/",
+        "Latitude": 19.516334045770986,
+        "Longitude": -98.88206005096436,
+        "Source1": "http://uk21freenew.listen2myradio.com:12007/;"
+    },
+    {
         "Title": "LA UNIKA 105.7 (Ciudad Obregón) - 105.7 FM - XHOS-FM - Radio Grupo García de León - Ciudad Obregón, Sonora",
         "Country": "Mexico",
         "Tags": "105.7 fm,américa,balada,balada en español,balada pop,balada romántica,baladas,baladas en español,ciudad obregón,clásicos,clásicos en español,entretenimiento,español,estación,fm,la unika,latin pop,latinoamérica,moi merino,music,méxico,música,música del recuerdo,música en español,música pop,norteamérica,pop,pop clásico,pop en español,pop latino,pop music,programas en vivo,radio,radio grupo garcía de león,sonora",
@@ -18127,6 +18281,17 @@
         "Latitude": 29.096606756425683,
         "Longitude": -110.96895217895508,
         "Source1": "https://s5.mexside.net:8080/stream"
+    },
+    {
+        "Title": "LA VOZ DEL VALLE 95.1 (San Quintín) - 95.1 FM - XHSQB-FM - Instituto Nacional de los Pueblos Indígenas - San Quintín, Baja California",
+        "Country": "Mexico",
+        "Tags": "1160 am,95.1 fm,am,américa,baja california,combo,concesión pública,español,estación,fm,indigenous,indigenous radio,indígenas,instituto nacional de los pueblos indígenas,la hora nacional,la voz del valle,latinoamérica,local,local information,local news,local programming,local radio,local talk,moi merino,méxico,norteamérica,noticias locales,programas en vivo,public,public radio,public service,pública,radio,radio local,radio pública,san quintín,servicio social,sistema de radiodifusoras culturales indígenas",
+        "Favicon": "https://i.postimg.cc/GmDfjhqr/lavozdelvalle.png",
+        "Language": "es",
+        "Homepage": "https://ecos.inpi.gob.mx/xeqin/",
+        "Latitude": 30.56240645448745,
+        "Longitude": -115.93846321105958,
+        "Source1": "https://radios.inpi.gob.mx:8080/xeqin"
     },
     {
         "Title": "La Voz Radio (Mexicali) - 101.3 FM - XHABCA-FM - Radio Cañón / NTR Medios de Comunicación - Mexicali, BC",
@@ -19501,6 +19666,17 @@
         "Language": "es",
         "Homepage": "https://maxplay.com.mx/radios/love-veracruz-1037-fm/",
         "Latitude": 19.17002734810144,
+        "Longitude": -96.13409131765368,
+        "Source1": "https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8"
+    },
+    {
+        "Title": "LOVE FM: All you need is Love ♥",
+        "Country": "Mexico",
+        "Tags": "103.7 fm,américa,boca del río,clásicos,clásicos en español,entretenimiento,español,estación,fm,grupo radiosa,la hora nacional,latinoamérica,love,love fm,moi merino,music,música,música en español,música romántica,norteamérica,pop,pop clásico,pop en español,pop music,pop rock,radio,radio sa,retro hits,sólo música romántica,veracruz,veracruz city",
+        "Favicon": "https://i.postimg.cc/pd2qpS5j/lovefm1037.jpg",
+        "Language": "es",
+        "Homepage": "https://lovefm.com.mx/",
+        "Latitude": 19.17006281676033,
         "Longitude": -96.13409131765368,
         "Source1": "https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8"
     },
@@ -26557,6 +26733,16 @@
         "Latitude": 18.088422664636212,
         "Longitude": -96.1231827735901,
         "Source1": "https://stream5.mexiserver.com:1007/"
+    },
+    {
+        "Title": "Twitt Radio",
+        "Country": "Mexico",
+        "Tags": "alternative,metal,rock",
+        "Favicon": "https://twittradio.com/logo.png",
+        "Homepage": "https://twittradio.com/",
+        "Latitude": 20.55565240377338,
+        "Longitude": -101.42578125,
+        "Source1": "https://escucha.twittradio.com/"
     },
     {
         "Title": "UABC RADIO 104.1 (Mexicali) - 104.1 FM - XHBA-FM - Universidad Autónoma De Baja California - Mexicali, Baja California",

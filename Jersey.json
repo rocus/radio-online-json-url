@@ -1,13 +1,5 @@
 [
     {
-        "Title": "BBC.jrsy",
-        "Country": "Jersey",
-        "Favicon": "https://www.bbc.co.uk/sounds/play/live/bbc_radio_jersey",
-        "Language": "en",
-        "Homepage": "https://www.bbc.co.uk/sounds/play/live/bbc_radio_jersey",
-        "Source1": "https://www.bbc.co.uk/sounds/play/live/bbc_radio_jersey"
-    },
-    {
         "Title": "Channel 103",
         "Country": "Jersey",
         "Tags": "hits,local,pop",

@@ -32,6 +32,17 @@
         "Source1": "http://stream.zeno.fm/hf2gsfm1mp8uv?1649692370879"
     },
     {
+        "Title": "Bendición Divina",
+        "Country": "Peru",
+        "Tags": "entretenimiento,música,noticia",
+        "Favicon": "https://radiotvbendiciondivina.com/wp-content/uploads/2026/03/cropped-LOGO.png",
+        "Language": "es,qu",
+        "Homepage": "https://radiotvbendiciondivina.com/",
+        "Latitude": -12.939466471555267,
+        "Longitude": -74.24666581302796,
+        "Source1": "https://sp.dattavolt.com:7073/stream"
+    },
+    {
         "Title": "Bethel Radio",
         "Country": "Peru",
         "Favicon": "https://bethel-fm.s3.us-east-1.amazonaws.com/web-assets/player/ICON%20BETHEL%20RADIO.png",
@@ -709,6 +720,33 @@
         "Source1": "https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/6598b6e1261d9e088a6de859?aid=658ddcc0b2c7835d48fee06d&pid=G3FnIvg2s2uxHg1lIbLUlWa3cFT5KPBg&sid=XAAefdCCMC9B9MvNg9TwqdstYTKnk3li&uid=Nkdb2uczAeFQEIGw1fojci2BEYfd4Tye&es=us-b4-p-e-pb13-audio.cdn.mdstrm.com&ote=1711464716330&ot=YgiDR9HDtOJKN3UCFo0-xg&proto=https&pz=us&cP=128000&awCollectionId=658ddcc0b2c7835d48fee06d&liveId=6598b6e1261d9e088a6de859&listenerId=Nkdb2uczAeFQEIGw1fojci2BEYfd4Tye"
     },
     {
+        "Title": "Radio 1550 Huancayo",
+        "Country": "Peru",
+        "Tags": "cumbia,huancayo,news,peru",
+        "Favicon": "https://i.ibb.co/L5kS0pY/radio1550.png",
+        "Language": "es",
+        "Homepage": "https://www.facebook.com/radio1550huancayo",
+        "Source1": "https://18053.live.streamtheworld.com/RADIO_MODA.mp3"
+    },
+    {
+        "Title": "Radio 1550 Huancayo",
+        "Country": "Peru",
+        "Tags": "cumbia,huancayo,news,peru",
+        "Favicon": "https://i.ibb.co/L5kS0pY/radio1550.png",
+        "Language": "es",
+        "Homepage": "https://stream.zeno.fm/4073rfa168uvv",
+        "Source1": "https://stream.zeno.fm/4073rfa168uvv"
+    },
+    {
+        "Title": "Radio 1550 Huancayo",
+        "Country": "Peru",
+        "Tags": "music,news,talk",
+        "Favicon": "https://radio1550.com/wp-content/uploads/2025/01/cropped-cropped-PWA-512X512-192x192.png",
+        "Language": "es",
+        "Homepage": "https://radio1550.com/",
+        "Source1": "https://streaming.virtugo.digital:8002/stream"
+    },
+    {
         "Title": "Radio 1550, La Radio Joven. Huancayo. 88.9 FM.",
         "Country": "Peru",
         "Tags": "rock,alternative,pop,latin pop,electronic,cumbia,latin,techno,música andina",
@@ -766,13 +804,6 @@
         "Favicon": "https://www.alegriaradio.com/images/webcard.png",
         "Homepage": "http://www.alegriaradio.com/",
         "Source1": "https://radio.sistemasandinos.org:10974/;stream"
-    },
-    {
-        "Title": "Radio Allpa Digital",
-        "Country": "Peru",
-        "Favicon": "https://allpadigital.exitovip.com/",
-        "Homepage": "https://allpadigital.exitovip.com/",
-        "Source1": "https://allpadigital.exitovip.com/"
     },
     {
         "Title": "Radio Amo la Música",
@@ -1261,6 +1292,17 @@
         "Source1": "https://shoutcast.tmcreativos.com/proxy/radiokar?mp=/stream"
     },
     {
+        "Title": "Radio Kebuena",
+        "Country": "Peru",
+        "Tags": "cumbia,folclore,tropical,urbano",
+        "Favicon": "https://www.radiokebuena.pe/panel/update/img/logo.webp",
+        "Language": "es,qu",
+        "Homepage": "https://www.radiokebuena.pe/",
+        "Latitude": -12.939422527097884,
+        "Longitude": -74.24732056246219,
+        "Source1": "https://panel.innovatestream.pe:10970/stream"
+    },
+    {
         "Title": "Radio La Cheverísima - Utcubamba",
         "Country": "Peru",
         "Favicon": "https://www.planetaradios.com/content/radios_fm/pr_126.png",
@@ -1458,6 +1500,17 @@
         "Country": "Peru",
         "Homepage": "https://www.mileniumradiofm.com/",
         "Source1": "https://sp.onliveperu.com/8102/stream"
+    },
+    {
+        "Title": "Radio Moda",
+        "Country": "Peru",
+        "Tags": "cumbia,latin,pop,reggaeton,urban",
+        "Favicon": "https://moda.com.pe/favicon.ico de",
+        "Language": "es",
+        "Homepage": "https://moda.com.pe/",
+        "Latitude": -11.00230098238029,
+        "Longitude": -76.12540020617068,
+        "Source1": "https://18053.live.streamtheworld.com/RADIO_MODA.mp3"
     },
     {
         "Title": "Radio Moyobamba",
@@ -1901,6 +1954,27 @@
         "Latitude": -15.775554920886137,
         "Longitude": -72.38707300790813,
         "Source1": "https://stream-149.zeno.fm/wymz9unt88quv?zs=j57_3aS2T--Zd_IslHw07A"
+    },
+    {
+        "Title": "Radio Victor Music Perú",
+        "Country": "Peru",
+        "Tags": "cumbia peruana,variety",
+        "Favicon": "https://vmperu.myradioenvivo.com/imagenes/logo.png",
+        "Homepage": "https://www.victormusicperu.tech/",
+        "Latitude": -16.406940541661793,
+        "Longitude": -71.38366699218751,
+        "Source1": "https://radiostreaming.pro/8254/;"
+    },
+    {
+        "Title": "Radio Vida",
+        "Country": "Peru",
+        "Tags": "cristina,musica",
+        "Favicon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLqfYiDaMgWuoY7q7bzqeWBD96DDmAeqYsN6dGJGxb-USvsleWzvprkUIIsuRye9eyespZTxQoKlDBFOSixdloJA94bZW_JRZR7TAdXmAY9ba4O-jV3jpuJO8BZwrIB96acsldxocB2Hxhi-71Y400alql7SGVQ2cM0EbgUPhJzbXVqT0svuH3gQyWqPQt/s1600/1000047340.webp",
+        "Language": "es,qu",
+        "Homepage": "https://radiovidadehuanta.com/",
+        "Latitude": -12.939220403937954,
+        "Longitude": -74.24747112352217,
+        "Source1": "https://dattavolt.com:7134/stream"
     },
     {
         "Title": "Radio Xtrema - Chachapoyas",

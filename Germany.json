@@ -2259,12 +2259,6 @@
         "Source1": "https://stream.dashitradio.de/alemannia/mp3-128/stream.mp3"
     },
     {
-        "Title": "100.5 das Hitradio",
-        "Country": "Germany",
-        "Homepage": "http://www.dashitradio.de/",
-        "Source1": "http://www.dashitradio.de/fileadmin/user_upload/DASHITRADIO.m3u"
-    },
-    {
         "Title": "100.5 Euregiohits",
         "Country": "Germany",
         "Homepage": "https://dashitradio.de/",
@@ -4216,6 +4210,16 @@
         "Tags": "90s eurodance",
         "Language": "nds",
         "Homepage": "https://www.90s90s.de/",
+        "Source1": "https://streams.90s90s.de/eurodance/mp3-192/streams.90s90s.de/"
+    },
+    {
+        "Title": "90s90s Eurodance",
+        "Country": "Germany",
+        "Tags": "90s dance,club dance,dj,eurodance,trance",
+        "Favicon": "https://agginfo.quantumcast.cloud/m/rc/branding/8b4ce81f-3d7a-44bb-b7fc-41357d5a2fc7/90s90s_dance_110x110.png",
+        "Homepage": "http://www.90s90s.de/",
+        "Latitude": 54.32933804825253,
+        "Longitude": 10.107421875000002,
         "Source1": "https://streams.90s90s.de/eurodance/mp3-192/streams.90s90s.de/"
     },
     {
@@ -7828,6 +7832,13 @@
         "Source1": "http://stream.laut.fm/bamlive"
     },
     {
+        "Title": "Bannyradio",
+        "Country": "Germany",
+        "Tags": "pop music",
+        "Homepage": "https://bannyradio.com/",
+        "Source1": "http://banny-streams.de/"
+    },
+    {
         "Title": "Barba Radio Dinnerparty",
         "Country": "Germany",
         "Favicon": "https://barbaradio.imgix.net/files/2018-10/dinnerparty-doodle_0.jpg?h=&w=625",
@@ -8045,13 +8056,6 @@
         "Country": "Germany",
         "Homepage": "https://www.br-klassik.de/",
         "Source1": "https://streams.br.de/br-klassik_3.m3u"
-    },
-    {
-        "Title": "Bayern Heimat",
-        "Country": "Germany",
-        "Favicon": "http://br.de/radio/live/br-heimat/favikon.png",
-        "Homepage": "http://br.de/radio/live/br-heimat/",
-        "Source1": "http://br.de/radio/live/br-heimat/"
     },
     {
         "Title": "Bayern Klassik 256",
@@ -13546,6 +13550,13 @@
         "Source1": "https://laut.fm/eifelsucht"
     },
     {
+        "Title": "Einslive",
+        "Country": "Germany",
+        "Favicon": "https://www1.wdr.de/radio/1live/index.html",
+        "Homepage": "http://www1.wdr.de/",
+        "Source1": "http://www1.wdr.de/radio/player/radioplayer100~_layout-popupVersion.html"
+    },
+    {
         "Title": "Eisradio",
         "Country": "Germany",
         "Tags": "metal,pop,rock,sport",
@@ -16982,6 +16993,13 @@
         "Source1": "https://streaming.funklust.de:8443/mp3"
     },
     {
+        "Title": "Funstudio Danceradio",
+        "Country": "Germany",
+        "Favicon": "https://logos.funstudio.de/Funstudio600x600x300schwarz.jpg",
+        "Homepage": "https://funstudio.de/",
+        "Source1": "https://a6.asurahosting.com/listen/funstudio/radio.mp3"
+    },
+    {
         "Title": "furry radio by laut.fm",
         "Country": "Germany",
         "Tags": "blues,charts,classic rock,electro,electroswing,ost,pop,rock,trance",
@@ -18779,6 +18797,12 @@
         "Language": "de",
         "Homepage": "https://www.hitradiogermany.net/",
         "Source1": "http://stream.laut.fm/hitradio-schlager"
+    },
+    {
+        "Title": "Hitradio skw",
+        "Country": "Germany",
+        "Homepage": "https://www.radioskw.de/",
+        "Source1": "https://www.radioskw.de/"
     },
     {
         "Title": "Hitradio X",
@@ -26300,6 +26324,14 @@
         "Source1": "https://netlabelorg.stream.laut.fm/netlabel_org"
     },
     {
+        "Title": "Netzperlentaucher",
+        "Country": "Germany",
+        "Homepage": "https://laut.fm/netzperlentaucher",
+        "Latitude": 50.77120783188783,
+        "Longitude": 10.72265625,
+        "Source1": "https://stream.laut.fm/netzperlentaucher"
+    },
+    {
         "Title": "Netzwerk Radio",
         "Country": "Germany",
         "Favicon": "https://netzwerkradio.de/templates/favicon.ico",
@@ -26364,14 +26396,6 @@
         "Favicon": "https://nightpeopleonly.com/wp-content/uploads/2023/06/eule-768x768.png",
         "Homepage": "https://nightpeopleonly.com/",
         "Source1": "https://audio.mabu-beatz-radio.com:8003/nightpeople"
-    },
-    {
-        "Title": "Nightline Radio",
-        "Country": "Germany",
-        "Tags": "electronic",
-        "Favicon": "http://www.nightline-radio.de/apple-icon-120x120.png",
-        "Homepage": "http://www.nightline-radio.de/",
-        "Source1": "http://www.nightline-radio.de:8000/"
     },
     {
         "Title": "Nightline Radio",
@@ -26985,12 +27009,6 @@
         "Source1": "http://rs4.stream24.net/oldie-welle.mp3"
     },
     {
-        "Title": "Oldie-Antenne",
-        "Country": "Germany",
-        "Homepage": "https://www.oldie-antenne.de/",
-        "Source1": "https://www.oldie-antenne.de/"
-    },
-    {
         "Title": "oldie-welle-Ingolstadt",
         "Country": "Germany",
         "Tags": "local news,oldies",
@@ -27090,6 +27108,33 @@
         "Source1": "https://radio.omaneo.de/listen/kaffeewissen/radio.mp3"
     },
     {
+        "Title": "omaneo Kaffeewissen (English)",
+        "Country": "Germany",
+        "Tags": "barista,coffee,education,english,espresso,omaneo,podcast,talk",
+        "Favicon": "https://omaneo.de/assets/omaneo-radio-logo-600.png",
+        "Language": "en",
+        "Homepage": "https://radio.omaneo.de/public/kaffeewissen_en",
+        "Source1": "https://radio.omaneo.de/listen/kaffeewissen_en/radio.mp3"
+    },
+    {
+        "Title": "omaneo Kaffeewissen (español)",
+        "Country": "Germany",
+        "Tags": "barista,coffee,education,espresso,omaneo,podcast,spanish,talk",
+        "Favicon": "https://omaneo.de/assets/omaneo-radio-logo-600.png",
+        "Language": "es",
+        "Homepage": "https://radio.omaneo.de/public/kaffeewissen_es",
+        "Source1": "https://radio.omaneo.de/listen/kaffeewissen_es/radio.mp3"
+    },
+    {
+        "Title": "omaneo Kaffeewissen (français)",
+        "Country": "Germany",
+        "Tags": "barista,coffee,education,espresso,french,omaneo,podcast,talk",
+        "Favicon": "https://omaneo.de/assets/omaneo-radio-logo-600.png",
+        "Language": "fr",
+        "Homepage": "https://radio.omaneo.de/public/kaffeewissen_fr",
+        "Source1": "https://radio.omaneo.de/listen/kaffeewissen_fr/radio.mp3"
+    },
+    {
         "Title": "omaneo Radio",
         "Country": "Germany",
         "Tags": "ambient,chillout,coffee,coffeehouse,jazz,lounge,omaneo",
@@ -27097,6 +27142,15 @@
         "Language": "de",
         "Homepage": "https://radio.omaneo.de/public/omaneo_radio",
         "Source1": "https://radio.omaneo.de/listen/omaneo_radio/radio.mp3"
+    },
+    {
+        "Title": "omaneo Radio (English)",
+        "Country": "Germany",
+        "Tags": "ambient,chillout,coffee,coffeehouse,english,jazz,lounge,omaneo",
+        "Favicon": "https://omaneo.de/assets/omaneo-radio-logo-600.png",
+        "Language": "en",
+        "Homepage": "https://radio.omaneo.de/public/omaneo_radio_en",
+        "Source1": "https://radio.omaneo.de/listen/omaneo_radio_en/radio.mp3"
     },
     {
         "Title": "On the Rocks",
@@ -29163,12 +29217,27 @@
         "Source1": "http://stream.radio901.de/444z6fq"
     },
     {
+        "Title": "Radio 91,2",
+        "Country": "Germany",
+        "Homepage": "https://www.radio912.de/",
+        "Latitude": 51.515857525782714,
+        "Longitude": 7.466583251953126,
+        "Source1": "https://www.radio912.de/webradio#google_vignette",
+        "Source2": "https://www.radio912.de/webradio"
+    },
+    {
         "Title": "Radio 91.2",
         "Country": "Germany",
         "Favicon": "https://www.radio912.de/assets/images/favicons/radio912/favicon_x96.png",
         "Homepage": "https://www.radio912.de/index.html",
         "Source1": "https://radio912--di--nacs-ais-lgc--02--cdn.cast.addradio.de/radio912/live/mp3/high",
         "Source2": "https://stream.lokalradio.nrw/4453z6t"
+    },
+    {
+        "Title": "Radio 91.2",
+        "Country": "Germany",
+        "Homepage": "https://www.radio912.de/",
+        "Source1": "https://stream.lokalradio.nrw/4453z57"
     },
     {
         "Title": "Radio 91.2 Dortmund",
@@ -33748,6 +33817,13 @@
         "Source1": "https://rnww.de/listen/radio_nww/nww"
     },
     {
+        "Title": "Radio NWW",
+        "Country": "Germany",
+        "Favicon": "https://www.radio-nww.de/sendungstitel/pics/NWW-Musikredaktion.jpg",
+        "Homepage": "https://www.radio-nww.de/",
+        "Source1": "https://rnww.de/listen/radio_nww/nww"
+    },
+    {
         "Title": "Radio Nürburgring @RPR1.",
         "Country": "Germany",
         "Tags": "motorsport,nürburgring,pop,rock,sports,talk,top40",
@@ -33961,6 +34037,24 @@
         "Favicon": "https://schlager.radio/wp-content/uploads/2020/11/cropped-radio-paloma-fav-180x180.png",
         "Homepage": "http://www.radiopaloma.de/",
         "Source1": "http://pool.radiopaloma.de/RP-Partyschlager.mp3"
+    },
+    {
+        "Title": "Radio Paloma Volksmusik",
+        "Country": "Germany",
+        "Homepage": "https://www.radiopaloma.de/",
+        "Source1": "https://www.radiopaloma.de/musik/streams/radio-paloma-volksmusik-stream/"
+    },
+    {
+        "Title": "Radio Paloma Weihnachtsschlager",
+        "Country": "Germany",
+        "Homepage": "https://www.radiopaloma.de/musik/streams/radio-paloma-weihnachts-schlager-stream/",
+        "Source1": "https://www.radiopaloma.de/musik/streams/radio-paloma-weihnachts-schlager-stream/"
+    },
+    {
+        "Title": "Radio Paloma Weihnachtsschlager",
+        "Country": "Germany",
+        "Homepage": "http://www.radiopaloma.de/",
+        "Source1": "https://www.radiopaloma.de/musik/streams/radio-paloma-weihnachts-schlager-stream/"
     },
     {
         "Title": "Radio paradise",
@@ -34928,14 +35022,6 @@
         "Latitude": 49.990597118631776,
         "Longitude": 8.41065108770927,
         "Source1": "https://streaming.radio-r.net/radio-r"
-    },
-    {
-        "Title": "Radio Rur",
-        "Country": "Germany",
-        "Homepage": "https://radiorur.de/",
-        "Latitude": 51.6180165487737,
-        "Longitude": 4.866943359375,
-        "Source1": "https://www.radiorur.de/"
     },
     {
         "Title": "Radio Russkij Berlin",
@@ -39680,6 +39766,12 @@
         "Source1": "https://stream.rpr1.de/trier/mp3-128"
     },
     {
+        "Title": "RPR1",
+        "Country": "Germany",
+        "Homepage": "http://stream.rpr1.de/webradio/mp3-128/private",
+        "Source1": "http://stream.rpr1.de/webradio/mp3-128/private"
+    },
+    {
         "Title": "RPR1 Best 80s",
         "Country": "Germany",
         "Tags": "80er,80s,deutschland,germany,rheinland-pfälz",
@@ -41697,6 +41789,13 @@
         "Source1": "http://stream.laut.fm/sound-check"
     },
     {
+        "Title": "Soundbar Nordheide",
+        "Country": "Germany",
+        "Homepage": "https://laut.fm/soundbar-nordheide",
+        "Source1": "https://soundbar-nordheide.stream.laut.fm/soundbar-nordheide?webapp",
+        "Source2": "https://soundbar-nordheide.stream.laut.fm/soundbar-nordheide?web-app"
+    },
+    {
         "Title": "SoundofPulse",
         "Country": "Germany",
         "Homepage": "https://sound-of-pulse.de/",
@@ -43637,6 +43736,15 @@
         "Source1": "https://liveradio.swr.de/sw282p3/swr3/play.mp3"
     },
     {
+        "Title": "SWR3",
+        "Country": "Germany",
+        "Favicon": "https://www.swr3.de/favicon.ico",
+        "Homepage": "https://www.swr3.de/musik/webradio/index.html",
+        "Latitude": -56.968936194361206,
+        "Longitude": -55.54687500000001,
+        "Source1": "https://liveradio.swr.de/sw73hl2/swr3/play.m3u8"
+    },
+    {
         "Title": "SWR3 - 96K AAC",
         "Country": "Germany",
         "Favicon": "https://www.swr3.de/assets/swr3/icons/favicon.ico",
@@ -43780,6 +43888,14 @@
         "Country": "Germany",
         "Homepage": "https://laut.fm/synthwave",
         "Source1": "https://stream.laut.fm/synthwave"
+    },
+    {
+        "Title": "SYSTEM CORRUPT / SYCO23",
+        "Country": "Germany",
+        "Tags": "drum and bass,freetekno,hardcore,mix sets,sound system,tekno",
+        "Region": "DE-SN",
+        "Homepage": "https://syco23.org/",
+        "Source1": "http://stream.syco23.org:8000/radio.mp3"
     },
     {
         "Title": "Südstadt Radio",
@@ -44767,7 +44883,15 @@
         "Tags": "pop",
         "Language": "de",
         "Homepage": "https://top100station.de/",
-        "Source1": "http://streamhq.top100station.com/top100station-high.mp3"
+        "Source1": "http://streamhq.top100station.com/top100station-high.mp3",
+        "Source2": "http://top100station.de/stream/r3472.asx"
+    },
+    {
+        "Title": "Top 100 Station",
+        "Country": "Germany",
+        "Favicon": "https://top100station.de/#",
+        "Homepage": "https://top100station.de/#",
+        "Source1": "http://top100station.de/"
     },
     {
         "Title": "top 20",

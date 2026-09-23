@@ -4341,6 +4341,13 @@
         "Source1": "https://rbx2.hnux.com/http://5984.cloudrad.io:8032/;stream.mp3"
     },
     {
+        "Title": "Lata Mangeshkar Radio",
+        "Country": "India",
+        "Favicon": "https://radiosindia.com/images/latamangeshkarradio.jpg",
+        "Language": "hin",
+        "Source1": "https://stream.zeno.fm/87xam8pf7tzuv"
+    },
+    {
         "Title": "latamangeshkarradio",
         "Country": "India",
         "Favicon": "https://radiosindia.com/images/latamangeshkarradio.jpg",
@@ -4985,6 +4992,16 @@
         "Favicon": "https://onlineradiohub.com/wp-content/uploads/2023/03/NRadioLive.jpg",
         "Language": "ml",
         "Source1": "https://stream.zeno.fm/4yfsm0d8n98uv"
+    },
+    {
+        "Title": "Naibedya",
+        "Country": "India",
+        "Tags": "bhakti",
+        "Favicon": "https://naibedya.in/nextImageExportOptimizer/naibedya.5ce72cb1-opt-384.WEBP",
+        "Language": "ori",
+        "Region": "IN-OR",
+        "Homepage": "https://www.naibedya.in/",
+        "Source1": "https://castradio.nrglifetech.in/listen/naibedya/radiohd.mp3"
     },
     {
         "Title": "nakshatraradio",

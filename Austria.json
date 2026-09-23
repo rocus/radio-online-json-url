@@ -1,5 +1,13 @@
 [
     {
+        "Title": "1 Radio One",
+        "Country": "Austria",
+        "Favicon": "https://Www.radio-one.at",
+        "Language": "de",
+        "Homepage": "https://stream.radiotechnikum.at/RADIOONE",
+        "Source1": "https://stream.radiotechnikum.at/RADIOONE"
+    },
+    {
         "Title": "1000 ELECTRONIC DANCE MUSIC",
         "Country": "Austria",
         "Tags": "dance & electronic,edm,hardstyle",
@@ -843,15 +851,6 @@
         "Source1": "https://mp3.ffh.de/ffhchannels/hq80er.mp3"
     },
     {
-        "Title": "ffh die 80er",
-        "Country": "Austria",
-        "Tags": "oldies",
-        "Favicon": "https://www.ffh.de/musik/webradio/11-ffh-die-80er-das-80er-hits-radio-von-ndw-bis-pop.html",
-        "Language": "de",
-        "Homepage": "https://www.radio.de/s/ffh80er",
-        "Source1": "https://www.ffh.de/musik/webradio/11-ffh-die-80er-das-80er-hits-radio-von-ndw-bis-pop.html"
-    },
-    {
         "Title": "Flash90s",
         "Country": "Austria",
         "Tags": "90s,pop,rock",
@@ -993,12 +992,6 @@
         "Title": "I-love-Radio-104",
         "Country": "Austria",
         "Source1": "https://streams.ilovemusic.de/iloveradio104.mp3"
-    },
-    {
-        "Title": "idem-fm",
-        "Country": "Austria",
-        "Homepage": "https://idem-fm.at/",
-        "Source1": "https://idem-fm.m3u/"
     },
     {
         "Title": "Infora Austria",

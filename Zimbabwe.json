@@ -56,5 +56,13 @@
         "Latitude": -17.879104644368155,
         "Longitude": 31.036376953125004,
         "Source1": "https://edge.iono.fm/xice/159_medium.aac"
+    },
+    {
+        "Title": "ZifmStereo",
+        "Country": "Zimbabwe",
+        "Homepage": "https://zifmstereo.co.zw/",
+        "Latitude": -23.628424674805192,
+        "Longitude": 25.312500000000004,
+        "Source1": "https://zifmstereo.co.zw/"
     }
 ]

@@ -566,6 +566,15 @@
         "Source1": "https://uradio-aac.ice.infomaniak.ch/uradio.aac"
     },
     {
+        "Title": "XGlite Radio FM Web Station",
+        "Country": "Morocco",
+        "Favicon": "https://xglite.blogspot.com",
+        "Homepage": "https://xglite.listen2myradio.com/",
+        "Latitude": 34.66536253948275,
+        "Longitude": -1.9268291791335024,
+        "Source1": "http://95.154.195.3:33087/"
+    },
+    {
         "Title": "Yabiladi Azawan Amazigh",
         "Country": "Morocco",
         "Tags": "world music",
@@ -599,6 +608,17 @@
         "Language": "ar",
         "Homepage": "https://radiolive.ma/station/zine-bladi",
         "Source1": "https://asmaki.ma:8000/radio.mp3"
+    },
+    {
+        "Title": "© XGlite™® XGlite Radio FM Web Station",
+        "Country": "Morocco",
+        "Tags": "arabic",
+        "Favicon": "https://drive.google.com/file/d/1UCRLXymEBsuwoJVLF1VSsptvA_spPUeN/view?usp=drivesdk",
+        "Language": "ar",
+        "Homepage": "https://xglite.listen2myradio.com/",
+        "Latitude": 34.66536820173107,
+        "Longitude": -1.9267889613230809,
+        "Source1": "http://95.154.195.3:33087/"
     },
     {
         "Title": "إذاعة طريق السلف",

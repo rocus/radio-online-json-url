@@ -34,7 +34,8 @@
         "Homepage": "https://www.radioalmamater.bg/",
         "Latitude": 42.69767701227864,
         "Longitude": 23.33445339297168,
-        "Source1": "http://a1.vizitec.com:8000/almamater"
+        "Source1": "http://a1.vizitec.com:8000/almamater",
+        "Source2": "https://a1.vizitec.com:8001/almamater"
     },
     {
         "Title": "ARHEA ORG",
@@ -2094,6 +2095,13 @@
         "Language": "bg",
         "Homepage": "https://radio-zigzag.free.bg/",
         "Source1": "https://radyo.yayin.com.tr:4474/stream"
+    },
+    {
+        "Title": "ZROCK",
+        "Country": "Bulgaria",
+        "Tags": "hard rock",
+        "Homepage": "https://zrock.bg/",
+        "Source1": "https://zrock.bg/"
     },
     {
         "Title": "Авто Радио",

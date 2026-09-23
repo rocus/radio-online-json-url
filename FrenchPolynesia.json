@@ -98,12 +98,6 @@
         "Source1": "https://live.radio1.pf:8443/radio1"
     },
     {
-        "Title": "tahiti web radio",
-        "Country": "FrenchPolynesia",
-        "Homepage": "https://www.tahitiwebradio.pf/",
-        "Source1": "https://www.tahitiwebradio.pf/"
-    },
-    {
         "Title": "Tiare FM",
         "Country": "FrenchPolynesia",
         "Favicon": "https://www.tiarefm.pf/favicon.ico",

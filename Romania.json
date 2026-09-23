@@ -2161,6 +2161,14 @@
         "Source1": "https://stream.zeno.fm/4yyxk47ffv8uv"
     },
     {
+        "Title": "IMPACT TV DANCE",
+        "Country": "Romania",
+        "Tags": "dance,house və electronic hits",
+        "Favicon": "https://ritsatv.ru/files/poster/medium/900491.webp",
+        "Homepage": "https://tvimpact.live/impact_dance.html#",
+        "Source1": "https://online.tvimpact.live/hls/dancetv.m3u8"
+    },
+    {
         "Title": "Interpretul Buzău FM -Buzău",
         "Country": "Romania",
         "Tags": "dance,disco,etno,manele,petrecere",
@@ -2198,6 +2206,14 @@
         "Language": "ro",
         "Homepage": "https://www.itsybitsy.ro/",
         "Source1": "http://live.itsybitsy.ro:8000/itsybitsy"
+    },
+    {
+        "Title": "Jazz FM Romania",
+        "Country": "Romania",
+        "Tags": "jazz",
+        "Favicon": "https://jazzfm.ro/apple-touch-icon.png",
+        "Homepage": "https://jazzfm.ro/",
+        "Source1": "https://s4.radio.co/s1e25bf273/listen"
     },
     {
         "Title": "Joy FM  - Arad 93,4 FM",
@@ -2770,6 +2786,16 @@
         "Source1": "https://live.magicfm.ro/magic.lite"
     },
     {
+        "Title": "Magic tv",
+        "Country": "Romania",
+        "Favicon": "https://cdn.tvivu.com/logos/magic-tv-3-160.webp",
+        "Language": "ro",
+        "Homepage": "https://www.magicfm.ro/magictv",
+        "Latitude": 44.423319045894566,
+        "Longitude": 25.98632812499999,
+        "Source1": "https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8"
+    },
+    {
         "Title": "Magic Viva Italia",
         "Country": "Romania",
         "Tags": "italo disco,live playlist,pop",
@@ -2974,6 +3000,15 @@
         "Language": "ro",
         "Homepage": "https://napocafm.ro/",
         "Source1": "https://streaming.napocalive.ro/napoca-fm"
+    },
+    {
+        "Title": "Napoca Fm - Spirit of Cluj",
+        "Country": "Romania",
+        "Tags": "local radio,top hits",
+        "Favicon": "https://napocafm.ro/wp-content/uploads/2023/11/WhatsApp-Image-2023-11-16-at-15.39.52-1024x576.jpeg",
+        "Language": "ro",
+        "Homepage": "https://napocafm.ro/",
+        "Source1": "https://nfm-s1.bit-ns.cloud/stream1"
     },
     {
         "Title": "Nationa FM",
@@ -3219,6 +3254,16 @@
         "Homepage": "https://www.playradio.org/",
         "Latitude": 44.17507893950367,
         "Longitude": 28.633804321289062,
+        "Source1": "http://live.playradio.org:9090/90HD"
+    },
+    {
+        "Title": "Play 90s - “Ritmul Anilor Tăi”",
+        "Country": "Romania",
+        "Favicon": "https://radio-online-romania.com/storage/radios/2365/5596/conversions/fhbKYZk4DNfAlD9e0qOwC2eRAWd9ru-metaUGxheS05MHMtTG9nby5qcGc%3D--lg.webp?utm_source=chatgpt.com",
+        "Language": "en,ro",
+        "Homepage": "https://playradio.org/",
+        "Latitude": 44.42057380082119,
+        "Longitude": 26.11655244729462,
         "Source1": "http://live.playradio.org:9090/90HD"
     },
     {
@@ -5290,6 +5335,13 @@
         "Source1": "https://edmlive.radionoise.ro:9116/stream"
     },
     {
+        "Title": "Radio Noise Eurodance",
+        "Country": "Romania",
+        "Language": "en",
+        "Homepage": "https://www.radionoise.ro/",
+        "Source1": "https://eurodancelive.radionoise.ro:9128/stream"
+    },
+    {
         "Title": "Radio Noise Gold",
         "Country": "Romania",
         "Tags": "00s,70s,80s,90s,hits,pop,romanian,romanian music",
@@ -5379,6 +5431,13 @@
         "Favicon": "https://www.radionoise.ro/wp-content/uploads/2026/07/Radio-Noise-Mix-Logo.png",
         "Homepage": "https://www.radionoise.ro/",
         "Source1": "https://mixlive.radionoise.ro:9190/stream"
+    },
+    {
+        "Title": "Radio Noise Opera",
+        "Country": "Romania",
+        "Language": "en",
+        "Homepage": "https://www.radionoise.ro/",
+        "Source1": "https://operalive.radionoise.ro:9126/stream"
     },
     {
         "Title": "Radio Noise Party",
@@ -5862,6 +5921,12 @@
         "Source1": "http://stream.zeno.fm/72k4a597rs8uv"
     },
     {
+        "Title": "Radio Romantic Modern Talking - Blue Systems",
+        "Country": "Romania",
+        "Homepage": "https://www.radio-romantic.ro/",
+        "Source1": "https://stream.zeno.fm/51tmunbbg18uv"
+    },
+    {
         "Title": "Radio Romantic- Modern Talking",
         "Country": "Romania",
         "Tags": "italo disco",
@@ -6064,6 +6129,14 @@
         "Latitude": 45.156038552179965,
         "Longitude": 26.816985905170444,
         "Source1": "https://s5.radio.co/s08e5c5875/listen"
+    },
+    {
+        "Title": "Radio Sălaj",
+        "Country": "Romania",
+        "Favicon": "https://www.radiosalaj.ro/favicon.ico",
+        "Language": "ro",
+        "Homepage": "https://www.radiosalaj.ro/",
+        "Source1": "https://stream.radiosalaj.ro/listen/radio-salaj/radio.mp3"
     },
     {
         "Title": "Radio T",
@@ -6291,6 +6364,15 @@
         "Favicon": "https://radiotvoltenita.ro/wp-content/uploads/2026/03/cropped-ChatGPT-Image-Mar-10-2026-08_36_57-PM.jpg",
         "Homepage": "https://radiotvoltenita.ro/",
         "Source1": "https://vocescampi.ro:8443/live.mp3"
+    },
+    {
+        "Title": "Radio Târgu Jiu",
+        "Country": "Romania",
+        "Tags": "news,pop,talk",
+        "Favicon": "https://www.radiotargujiu.ro/icons/icon-192.png",
+        "Language": "ro",
+        "Homepage": "https://www.radiotargujiu.ro/",
+        "Source1": "https://stream.radiotargujiu.ro/stream"
     },
     {
         "Title": "Radio Underland",
@@ -6639,6 +6721,15 @@
         "Country": "Romania",
         "Homepage": "https://reintregirea.ro/",
         "Source1": "https://reintregirea.ro/sites/default/files/tema/radio.pls"
+    },
+    {
+        "Title": "RadioSON",
+        "Country": "Romania",
+        "Tags": "local radio,top hits",
+        "Favicon": "https://www.radioson.ro/images/banner3.png",
+        "Language": "ro",
+        "Homepage": "http://www.radioson.ro/asculta-live.html",
+        "Source1": "http://89.33.243.3:8000/"
     },
     {
         "Title": "RadioTrandafirulRoșul",

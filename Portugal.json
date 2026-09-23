@@ -845,6 +845,13 @@
         "Source1": "https://servidor.noite.pt:9002/stream"
     },
     {
+        "Title": "Notas Azuis",
+        "Country": "Portugal",
+        "Language": "pt",
+        "Homepage": "https://antena2.rtp.pt/",
+        "Source1": "https://antena2.rtp.pt/programa/notas-azuis/"
+    },
+    {
         "Title": "Nove3cinco",
         "Country": "Portugal",
         "Favicon": "https://nove3cinco.pt/sv/wp-content/uploads/2015/05/Nove3Cinco-Menu-Logo.png",

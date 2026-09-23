@@ -3994,6 +3994,15 @@
         "Source1": "https://media.xyzcdn.net/nnkLT7Qx1QNOjB362KOst5vwjYzl.mp3"
     },
     {
+        "Title": "仙桃综合广播",
+        "Country": "China",
+        "Tags": "5g智慧电台,full service",
+        "Favicon": "http://pic.qingting.fm/2017/1018/20171018100108.jpeg",
+        "Language": "zh",
+        "Homepage": "http://www.cnxiantao.com/?f=pad",
+        "Source1": "https://lhttp-hw.qtfm.cn/live/20211562/64k.mp3"
+    },
+    {
         "Title": "仪征人民广播电台",
         "Country": "China",
         "Tags": "news",
@@ -14886,6 +14895,15 @@
         "Language": "zh",
         "Homepage": "http://v.jznews.com.cn/",
         "Source1": "https://lhttp.qtfm.cn/live/1312/64k.mp3"
+    },
+    {
+        "Title": "荆门综合广播",
+        "Country": "China",
+        "Tags": "full service",
+        "Favicon": "https://bkimg.cdn.bcebos.com/pic/377adab44aed2e738bd4fc272f53b68b87d6277f4c27?x-bce-process=image/format,f_auto/watermark,image_d2F0ZXIvYmFpa2UyNzI,g_7,xp_5,yp_5,P_20",
+        "Language": "zh",
+        "Homepage": "http://www.jmtv.com.cn/",
+        "Source1": "https://lhttp-hw.qtfm.cn/live/20211577/64k.mp3"
     },
     {
         "Title": "莫旗融媒FM103.5莫力达瓦综合广播",

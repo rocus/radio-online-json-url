@@ -668,6 +668,14 @@
         "Source1": "https://server8.emitironline.com:18444/stream"
     },
     {
+        "Title": "Atlantis FM Lanzarote",
+        "Country": "Spain",
+        "Tags": "jazz,smooth jazz,smooth lounge",
+        "Language": "de",
+        "Homepage": "https://atlantisfmlanzarote.com/",
+        "Source1": "https://atlantisfm.radionetz.de/atlantisfm.mp3"
+    },
+    {
         "Title": "Atlántico Radio 88.3 FM",
         "Country": "Spain",
         "Tags": "80s,90s,clasicos,hits,noticias,oldies",
@@ -700,6 +708,21 @@
         "Latitude": 37.68555918742123,
         "Longitude": -1.7015075683593752,
         "Source1": "https://azura5.emisiononline.es:8000/azulfm986"
+    },
+    {
+        "Title": "Babyradio España",
+        "Country": "Spain",
+        "Tags": "children,kids",
+        "Homepage": "https://www.babyradio.es/",
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/SAM04AAC34_SC"
+    },
+    {
+        "Title": "Babyradio Latinoamérica",
+        "Country": "Spain",
+        "Tags": "children,kids",
+        "Language": "es",
+        "Homepage": "https://www.babyradio.es/",
+        "Source1": "https://playerservices.streamtheworld.com/api/livestream-redirect/SAM04AAC33_SC"
     },
     {
         "Title": "Bakala Radio",
@@ -10608,6 +10631,15 @@
         "Source1": "http://s3.yesstreaming.net:7014/stream"
     },
     {
+        "Title": "Taro Radio",
+        "Country": "Spain",
+        "Favicon": "https://www.tagoror.es/icon-512.png",
+        "Homepage": "https://www.tagoror.es/radio.html",
+        "Latitude": 28.503915613630667,
+        "Longitude": -16.403322815895084,
+        "Source1": "https://stream.tagoror.com/8101/radio"
+    },
+    {
         "Title": "Taronja ràdio Girona",
         "Country": "Spain",
         "Favicon": "https://static2.mytuner.mobi/media/tvos_radios/718/taronja-radio.2af86a14.jpg",
@@ -10667,6 +10699,14 @@
         "Tags": "circuit house,tribal,tribal house",
         "Homepage": "https://thesoundofchill.com/",
         "Source1": "https://itsshort.info/listen/thesoundofchill/radio.mp3"
+    },
+    {
+        "Title": "tiempo de juego",
+        "Country": "Spain",
+        "Homepage": "https://www.cope.es/programas/tiempo-de-juego",
+        "Latitude": 40.39111637768908,
+        "Longitude": -3.6941528320312504,
+        "Source1": "https://www.cope.es/programas/tiempo-de-juego"
     },
     {
         "Title": "TKO Radio Costa Blanca",

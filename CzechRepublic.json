@@ -17,6 +17,16 @@
         "Source1": "http://mp3stream4.abradio.cz/chillout128.mp3"
     },
     {
+        "Title": "AI REVIVAL Radio",
+        "Country": "CzechRepublic",
+        "Tags": "80's,90's,ai cover",
+        "Favicon": "https://airevival.eu/radio-icon-512.png",
+        "Homepage": "https://airevival.eu/",
+        "Latitude": 49.83079247933036,
+        "Longitude": 18.282966613769535,
+        "Source1": "https://stream.airevival.eu/radio.mp3"
+    },
+    {
         "Title": "Astra Radio",
         "Country": "CzechRepublic",
         "Favicon": "https://astraradio.cz/favicon.png",

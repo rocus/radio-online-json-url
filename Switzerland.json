@@ -1527,14 +1527,6 @@
         "Source1": "https://listen.radioking.com/radio/181657/stream/223420"
     },
     {
-        "Title": "Latina Hits Mix",
-        "Country": "Switzerland",
-        "Tags": "latinoamérica",
-        "Language": "gsw",
-        "Homepage": "http://kenaparc3.wixsite.com/latinamix",
-        "Source1": "http://kenaparc3.wixsite.com/latinamix"
-    },
-    {
         "Title": "LeMixx Radio",
         "Country": "Switzerland",
         "Tags": "commercial-free,disco,funk,funky,groove,no ads,rare groove,rnb,soul,soulful",
@@ -2523,6 +2515,12 @@
         "Language": "it",
         "Homepage": "http://www.radioonyx.org/",
         "Source1": "http://nr4.newradio.it:9432/listen.pls"
+    },
+    {
+        "Title": "Radio Orbital ch",
+        "Country": "Switzerland",
+        "Homepage": "https://www.radioorbital.com/",
+        "Source1": "http://orbital.ice.infomaniak.ch/orbital.mp3"
     },
     {
         "Title": "Radio Ouistiti",
@@ -4443,6 +4441,17 @@
         "Latitude": 47.37453067549567,
         "Longitude": 8.536033630371096,
         "Source1": "https://vintageradio.ice.infomaniak.ch/vintageradio-high.mp3"
+    },
+    {
+        "Title": "Vinyl-Valley Rock Radio",
+        "Country": "Switzerland",
+        "Tags": "blues rock,classic rock,hard rock,heavy metal,progressive metal,rock",
+        "Favicon": "https://image.radioking.io/radios/265822/logo/f46222eb-a1b8-4192-8a00-c6755d10080a.jpeg",
+        "Language": "de",
+        "Homepage": "https://vvrr.page.radio/",
+        "Latitude": 46.3114,
+        "Longitude": 7.9776,
+        "Source1": "https://listen.radioking.com/radio/265822/stream/311047"
     },
     {
         "Title": "Virgin Radio Switzerland",

@@ -364,6 +364,13 @@
         "Source1": "https://livestreamcdn.net:2000/stream/waparadio"
     },
     {
+        "Title": "WAPA TV",
+        "Country": "PuertoRico",
+        "Language": "es",
+        "Homepage": "https://www.wapa.tv/",
+        "Source1": "https://live.field59.com/wapa/wapa1/playlist.m3u8"
+    },
+    {
         "Title": "WIAC 740 AM",
         "Country": "PuertoRico",
         "Favicon": "https://wiac740.com/wp-content/uploads/2021/02/cropped-PHOTO-2021-02-18-12-18-50-192x192.jpg",

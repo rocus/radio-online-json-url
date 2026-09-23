@@ -2240,11 +2240,6 @@
         "Source1": "https://sp3.streams.ovh/8046/stream"
     },
     {
-        "Title": "burradio",
-        "Country": "Greece",
-        "Source1": "https://radio.garden/listen/burradio/NUKLOk-K"
-    },
-    {
         "Title": "bwin ΣΠΟΡ FM 94,6",
         "Country": "Greece",
         "Tags": "sports",
@@ -12304,6 +12299,13 @@
         "Source1": "https://stream.crete.ovh:8443/1"
     },
     {
+        "Title": "Studio 2 31 Internet Chat Radio",
+        "Country": "Greece",
+        "Favicon": "https://webinternetradio.net/photo/studio231/fcRvrwm.jpg",
+        "Homepage": "https://www.studio231.top/",
+        "Source1": "https://webinternetradios.eu:59231/"
+    },
+    {
         "Title": "Studio 2000 Mousiko Leoforeio",
         "Country": "Greece",
         "Tags": "greek folk",
@@ -14774,6 +14776,15 @@
         "Latitude": 40.63994029129131,
         "Longitude": 22.933290854562077,
         "Source1": "https://eu1.fastcast4u.com/proxy/nmarog01"
+    },
+    {
+        "Title": "Ερωτόκριτος",
+        "Country": "Greece",
+        "Language": "el",
+        "Homepage": "https://erotokritos.gr/",
+        "Latitude": 35.07206021612789,
+        "Longitude": 24.769363403320312,
+        "Source1": "http://www.erotokritos.gr/"
     },
     {
         "Title": "Εύβοια 104.1",

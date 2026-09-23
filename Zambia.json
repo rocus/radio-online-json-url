@@ -22,12 +22,6 @@
         "Source1": "http://s2.yesstreaming.net:7091/stream?type=.mp3%2F%3Bstream.mp3&_=1"
     },
     {
-        "Title": "http://p.onlineradiobox.com/zm/komboni/player/?cs=zm.komboni",
-        "Country": "Zambia",
-        "Homepage": "http://p.onlineradiobox.com/zm/komboni/player/?cs=zm.komboni",
-        "Source1": "http://p.onlineradiobox.com/zm/komboni/player/?cs=zm.komboni"
-    },
-    {
         "Title": "I Am Catholic Zambia online Radio",
         "Country": "Zambia",
         "Homepage": "https://ec4.yesstreaming.net:2015/stream",

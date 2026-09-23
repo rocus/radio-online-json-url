@@ -558,6 +558,12 @@
         "Source1": "http://icecast.vrtcdn.be/stubru_tijdloze.aac"
     },
     {
+        "Title": "Depeche Mode Radio",
+        "Country": "Belgium",
+        "Homepage": "https://c2.radioboss.fm:8494/stream",
+        "Source1": "https://c2.radioboss.fm:8494/stream"
+    },
+    {
         "Title": "depechemode.be",
         "Country": "Belgium",
         "Tags": "depeche mode",
@@ -1178,6 +1184,15 @@
         "Source1": "http://shoutcast.movemedia.eu/pdgfm"
     },
     {
+        "Title": "MAX FM",
+        "Country": "Belgium",
+        "Tags": "pop",
+        "Homepage": "https://www.maxfm.be/",
+        "Latitude": 50.63109544759736,
+        "Longitude": 3.776536881923676,
+        "Source1": "https://www.maxfm.be/player/"
+    },
+    {
         "Title": "Maximum FM",
         "Country": "Belgium",
         "Tags": "liège,pop",
@@ -1472,13 +1487,6 @@
         "Language": "en",
         "Homepage": "https://www.nostalgie.be/",
         "Source1": "https://stream.rcs.revma.com/81ta7143ehuvv"
-    },
-    {
-        "Title": "Nostalgie Love Belgique",
-        "Country": "Belgium",
-        "Favicon": "https://nostalgie.be",
-        "Homepage": "https://www.nostalgie.be/radioplayer/love",
-        "Source1": "http://streamingp.shoutcast.com/NostalgieLove-aac"
     },
     {
         "Title": "Nostalgie Love1",
@@ -3468,6 +3476,14 @@
         "Favicon": "https://www.topradio.be/favicons/favicon-96x96.png",
         "Homepage": "https://www.topradio.be/",
         "Source1": "http://str.topradio.be/topradio.mp3"
+    },
+    {
+        "Title": "TopRadio FM",
+        "Country": "Belgium",
+        "Tags": "topradio",
+        "Language": "nl",
+        "Homepage": "https://topradio.be/",
+        "Source1": "https://str.topradio.be/topradio.mp3"
     },
     {
         "Title": "Topradio retro",

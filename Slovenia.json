@@ -419,9 +419,9 @@
         "Title": "Radio Capris Number 1's",
         "Country": "Slovenia",
         "Favicon": "https://www.radiocapris.si/data/images/logo-capris.svg",
+        "Language": "sl",
         "Homepage": "https://www.radiocapris.si/",
-        "Source1": "https://www.radiocapris.si/si/onair/no1",
-        "Source2": "http://stream02.exit.si:8000/NO1?"
+        "Source1": "http://stream02.exit.si:8000/NO1?"
     },
     {
         "Title": "Radio Capris POLETJE",
